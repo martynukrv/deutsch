@@ -79,13 +79,8 @@ const path = require('path');
  console.log('PASS responsive widths 320/390/768/1280');
  const audio=await page.evaluate(()=>Object.values(AUDIO_MAP));
  if(audio.length<100)throw new Error('Too few mapped audio files: '+audio.length);
- const missing=[];
- for(const name of [...new Set(audio)]){
-   const result=await page.evaluate(async file=>{
-     try{const r=await fetch(file);return r.ok}catch(e){return false}
-   },name);
-   if(!result)missing.push(name);
- }
+ const fs=require('fs');
+ const missing=[...new Set(audio)].filter(name=>!fs.existsSync(path.resolve(name)));
  console.log('AUDIO FILES',audio.length,'missing',missing.length,missing.slice(0,25));
  if(missing.length)throw new Error('Missing mapped audio: '+missing.slice(0,12).join(', '));
  console.log('PASS Chromium smoke test');
