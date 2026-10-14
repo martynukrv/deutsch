@@ -1,0 +1,32 @@
+const { chromium } = require('playwright');
+const { pathToFileURL } = require('url');
+const path = require('path');
+(async()=>{
+ const browser=await chromium.launch({headless:true,args:['--no-sandbox']});
+ const page=await browser.newPage({viewport:{width:390,height:844}});
+ const errors=[];
+ page.on('pageerror',e=>errors.push(e.message));
+ await page.goto(pathToFileURL(path.resolve('index.html')).href,{waitUntil:'load'});
+ await page.waitForTimeout(500);
+ const result=await page.evaluate(()=>{
+  const ids=['homeView','vocabView','trainerView','progressView','learningPath','wordGrid','vocabIconGrid','mic','startVocabQuiz'];
+  const check=Object.fromEntries(ids.map(id=>[id,!!document.getElementById(id)]));
+  return {title:document.title,check,groups:typeof lessonGroups!=='undefined'?lessonGroups.length:null,categories:typeof vocabCategories!=='undefined'?vocabCategories.length:null,taskCount:typeof tasks!=='undefined'?tasks.length:null,diagnostic:typeof runDeutschDiagnostics==='function'};
+ });
+ console.log('APP',JSON.stringify(result));
+ if(errors.length)throw new Error('JavaScript errors: '+errors.join('; '));
+ if(Object.values(result.check).some(x=>!x)||!result.diagnostic||!result.taskCount)throw new Error('Missing UI or tasks');
+ await page.evaluate(()=>{showView('words')});
+ await page.waitForTimeout(200);
+ console.log('VOCAB',await page.locator('#wordGrid').innerText().then(s=>s.slice(0,120)));
+ await page.evaluate(()=>startVocabQuiz(false));
+ await page.waitForTimeout(100);
+ console.log('QUIZ',await page.evaluate(()=>({active:vq.active,items:vq.items.length})));
+ await page.evaluate(()=>endVocabQuiz());
+ await page.evaluate(()=>{showView('home')});
+ await page.setViewportSize({width:1280,height:800});
+ await page.waitForTimeout(100);
+ if(errors.length)throw new Error('JavaScript errors: '+errors.join('; '));
+ console.log('PASS Chromium smoke test');
+ await browser.close();
+})().catch(e=>{console.error(e);process.exit(1)});
