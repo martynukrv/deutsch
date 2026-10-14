@@ -422,4 +422,22 @@ function showVqSummary(){let q=$('vocabQuiz'),pct=Math.round(vq.correct/Math.max
 function startVqVoice(it){if(vq.locked)return;const SR=window.SpeechRecognition||window.webkitSpeechRecognition;if(!SR){$('vqVoice').className='vq-voice show error';$('vqVoice').textContent='Розпізнавання недоступне. Спробуй Chrome через HTTPS.';return}let r=new SR();vq.recognition=r;r.lang='de-DE';r.interimResults=true;r.maxAlternatives=5;let final='',alts=[];const box=$('vqVoice');box.className='vq-voice show listening';box.innerHTML='<b>Слухаю…</b><div>Скажи слово або фразу німецькою</div>';r.onresult=e=>{let inter='';for(let n=e.resultIndex;n<e.results.length;n++){let t=e.results[n][0].transcript;if(e.results[n].isFinal){final+=t;alts=Array.from(e.results[n]).map(a=>({text:a.transcript,confidence:a.confidence}))}else inter+=t}box.innerHTML='<b>Чую тебе…</b><div>'+escapeHtml((final||inter).trim())+'</div>'};r.onend=()=>{vq.recognition=null;let heard=final.trim();if(!heard){box.className='vq-voice show error';box.textContent='Не почув мовлення. Спробуй ще раз.';return}let ok=clean(heard)===clean(it.w[0]);vq.locked=true;recordVq(it,ok);tone(ok);let conf=alts[0]&&alts[0].confidence>0?' · '+Math.round(alts[0].confidence*100)+'%':'';box.className='vq-voice show '+(ok?'success':'error');box.innerHTML=`<b>Я почув: ${escapeHtml(heard)}</b><div>Впевненість${conf||': немає оцінки'}</div><div style="margin-top:6px">${ok?'✓ Правильно!':'Правильно: <b>'+escapeHtml(it.w[0])+'</b>'}</div>`;speak(it.w[0]);setTimeout(nextVq,5000)};r.onerror=e=>{vq.recognition=null;box.className='vq-voice show error';box.textContent=e.error==='not-allowed'?'Немає доступу до мікрофона.':'Не вдалося розпізнати. Спробуй ще раз.'};try{r.start()}catch(e){box.className='vq-voice show error';box.textContent='Не вдалося запустити мікрофон.'}}
 $('startVocabQuiz').onclick=()=>startVocabQuiz(false);
 newSession();
+
+/* Optional built-in smoke checks: open with ?diagnostics=1. No user data is changed. */
+function runDeutschDiagnostics(){
+ const names=['homeView','vocabView','trainerView','progressView','learningPath','wordGrid','vocabIconGrid','mic','startVocabQuiz'];
+ const results=names.map(id=>({name:'Елемент '+id,ok:!!document.getElementById(id)}));
+ results.push({name:'16 категорій словника',ok:Array.isArray(vocabCategories)&&vocabCategories.length===16});
+ results.push({name:'Уроки завантажені',ok:Array.isArray(lessonGroups)&&lessonGroups.length>0});
+ results.push({name:'Ілюстрації SVG',ok:!!doodleIcon('cat').includes('<svg')});
+ results.push({name:'Іконки інтерфейсу',ok:!!uiGlyph('mic').includes('<svg')});
+ results.push({name:'Дані вправ',ok:Array.isArray(lessonExtra)&&lessonExtra.length>0});
+ results.push({name:'Озвучування',ok:typeof speak==='function'});
+ results.push({name:'Розпізнавання мовлення',ok:typeof(window.SpeechRecognition||window.webkitSpeechRecognition)==='function',optional:true});
+ const root=document.createElement('aside');root.id='deutschDiagnostics';root.setAttribute('role','status');root.style.cssText='position:fixed;z-index:99999;right:12px;bottom:12px;max-height:65vh;overflow:auto;width:min(390px,calc(100vw - 24px));background:#fffdf7;color:#102b50;border:2px solid #102b50;border-radius:18px;box-shadow:0 12px 40px #102b5033;padding:18px;font:14px/1.5 system-ui';
+ const required=results.filter(x=>!x.optional),passed=required.filter(x=>x.ok).length;
+ root.innerHTML='<div style="display:flex;justify-content:space-between;gap:12px"><strong>Перевірка Deutsch 16: '+passed+'/'+required.length+'</strong><button id="closeDeutschDiagnostics" aria-label="Закрити" style="border:0;background:none;cursor:pointer;font-size:22px">×</button></div>'+results.map(x=>'<div>'+(x.ok?'✓ ':'✕ ')+x.name+(x.optional?' (необов’язково)':'')+'</div>').join('')+'<small>Це перевірка структури. Для перевірки аудіо, мікрофона та вправ потрібна взаємодія користувача.</small>';
+ document.body.appendChild(root);document.getElementById('closeDeutschDiagnostics').onclick=()=>root.remove();
+}
+if(new URLSearchParams(location.search).has('diagnostics')){try{runDeutschDiagnostics()}catch(err){console.error('Deutsch diagnostics:',err)}}
 </script></body></html>
