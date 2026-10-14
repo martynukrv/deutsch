@@ -168,6 +168,30 @@ if(exact[w])return exact[w];if(/^(null|eins|zwei|drei|vier|fünf|sechs|sieben|ac
 const oldDoodleCategory=doodleCategory;
 doodleCategory=function(name){const exact={'Сім’я':'people','Люди й ознаки':'girl','Їжа й напої':'apple','Дім':'house','Школа':'school','Час і дні':'clock','Питальні слова':'questionmark','Службові слова':'speech','Тіло':'hand','Місця й транспорт':'car'};return exact[name]||oldDoodleCategory(name)};
 
+
+/* Final vocabulary illustration coverage: actions, attributes, gestures and grammar */
+Object.assign(doodleShapes,{
+run:'<circle cx="34" cy="9" r="6"/><path d="M29 19L20 34L35 38L45 55M21 34L10 49M30 21L45 28L54 24M29 20L20 27"/><path d="M6 29H15M5 39H12" stroke="#ff5726"/>',
+talk:'<path d="M7 10Q32 1 56 13Q63 35 44 44L26 43L12 55L15 40Q2 31 7 10Z"/><path d="M17 22H46M18 30H38" stroke="#ff5726"/>',
+heart:'<path d="M32 55L8 30Q-2 13 15 9Q26 7 32 18Q38 7 49 9Q66 13 56 30Z"/><path d="M17 18L21 15" stroke="#ff5726"/>',
+smile:'<path d="M12 29Q12 7 32 7Q52 7 52 29Q52 53 32 53Q12 53 12 29Z"/><circle cx="24" cy="26" r="2" fill="#102b50"/><circle cx="40" cy="26" r="2" fill="#102b50"/><path d="M20 35Q32 51 44 35" stroke="#ff5726"/>',
+music:'<path d="M27 42V13L51 7V37M27 13L51 7M27 23L51 17"/><ellipse cx="19" cy="44" rx="8" ry="5"/><ellipse cx="43" cy="39" rx="8" ry="5"/><path d="M13 18L7 13M12 27H5" stroke="#ff5726"/>',
+dance:'<circle cx="32" cy="9" r="6"/><path d="M31 17L24 34L38 40L49 53M24 34L11 47M29 22L14 19L7 25M30 21L45 15L56 21"/><path d="M11 9L15 5M52 38L58 34" stroke="#ff5726"/>',
+sleep:'<path d="M10 34Q12 15 32 15Q53 15 54 34Q53 54 32 54Q11 54 10 34Z"/><path d="M18 32Q23 36 28 32M37 32Q42 36 47 32M28 44Q32 41 36 44"/><path d="M44 10L53 10L45 19H54" stroke="#ff5726"/>',
+gift:'<path d="M9 27H55V57H9ZM6 20H58V27H6ZM32 20V57M32 20Q14 20 17 11Q20 1 32 20ZM32 20Q50 20 47 11Q44 1 32 20Z"/><path d="M32 31V49" stroke="#ff5726"/>',
+check:'<circle cx="32" cy="32" r="25"/><path d="M18 32L28 43L48 20" stroke="#ff5726"/>',
+cross:'<circle cx="32" cy="32" r="25"/><path d="M23 23L41 41M41 23L23 41" stroke="#ff5726"/>',
+up:'<path d="M32 55V9M15 28L32 9L49 28"/><path d="M11 53H53" stroke="#ff5726"/>',
+down:'<path d="M32 9V55M15 36L32 55L49 36"/><path d="M11 9H53" stroke="#ff5726"/>',
+color:'<path d="M32 5Q6 5 7 32Q7 58 32 58Q40 58 39 47Q38 39 47 41Q61 42 58 27Q55 5 32 5Z"/><circle cx="21" cy="20" r="4"/><circle cx="38" cy="18" r="4"/><circle cx="20" cy="38" r="4"/><circle cx="34" cy="30" r="4" stroke="#ff5726"/>',
+food:'<path d="M13 7V28M7 7V23Q7 32 13 32Q19 32 19 23V7M13 32V58M43 58V7Q28 15 32 37H43V58"/><path d="M32 37H43" stroke="#ff5726"/>',
+question:'<path d="M18 21Q19 7 34 7Q53 7 51 23Q50 31 34 38V43M34 54V56"/><path d="M17 16L11 12M50 12L55 7" stroke="#ff5726"/>'
+});
+const previousDoodleWord=doodleWord;
+doodleWord=function(de){let w=String(de).toLowerCase().replace(/^(der|die|das|ein|eine)\s+/,'').replace(/[.!?]/g,'').trim();
+const actions={machen:'hand',sagen:'talk',fragen:'question',lieben:'heart',lachen:'smile',wohnen:'house',singen:'music',spielen:'star',tanzen:'dance',sein:'person',haben:'hand',gehen:'run',kommen:'run',sehen:'eye',hören:'head',sprechen:'talk',lernen:'book',arbeiten:'pencil',essen:'food',trinken:'cup',schlafen:'sleep',lesen:'book',schreiben:'pencil',wissen:'idea',kennen:'people',wollen:'heart',können:'star',müssen:'clock',brauchen:'hand',geben:'gift',nehmen:'hand',finden:'eye',kaufen:'bag',fahren:'car',bleiben:'house',groß:'up',klein:'down',gut:'check',schlecht:'cross',schön:'flower',alt:'clock',jung:'boy',neu:'gift',ja:'check',nein:'cross',nicht:'cross',auch:'people',sehr:'star',hier:'house',dort:'city',jetzt:'clock',immer:'clock',vielleicht:'question',und:'people',oder:'question',aber:'talk',wer:'question',was:'question',wo:'question',wohin:'question',woher:'question',wann:'clock',warum:'question',wie:'question','wie viel':'numbers'};
+if(actions[w])return actions[w];if(/^(rot|blau|grün|gelb|schwarz|weiß|grau|braun|orange|rosa|lila)$/.test(w))return'color';return previousDoodleWord(de)};
+
 const vocabCategories=[
 {name:'Займенники',icon:'👤',note:'Особові займенники — фундамент для побудови речень.',words:[['ich','я'],['du','ти'],['er','він'],['sie','вона / вони'],['es','воно'],['wir','ми'],['ihr','ви (до кількох людей)'],['Sie','Ви (ввічливо)']]},
 {name:'Дієслова',icon:'⚡',note:'Спочатку вчи інфінітив. Форми допоможуть одразу переносити слово у тренажер.',words:[
