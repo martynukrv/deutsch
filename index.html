@@ -425,19 +425,29 @@ newSession();
 
 /* Optional built-in smoke checks: open with ?diagnostics=1. No user data is changed. */
 function runDeutschDiagnostics(){
- const names=['homeView','vocabView','trainerView','progressView','learningPath','wordGrid','vocabIconGrid','mic','startVocabQuiz'];
- const results=names.map(id=>({name:'Елемент '+id,ok:!!document.getElementById(id)}));
- results.push({name:'16 категорій словника',ok:Array.isArray(vocabCategories)&&vocabCategories.length===16});
- results.push({name:'Уроки завантажені',ok:Array.isArray(lessonGroups)&&lessonGroups.length>0});
- results.push({name:'Ілюстрації SVG',ok:!!doodleIcon('cat').includes('<svg')});
- results.push({name:'Іконки інтерфейсу',ok:!!uiGlyph('mic').includes('<svg')});
- results.push({name:'Дані вправ',ok:Array.isArray(lessonExtra)&&lessonExtra.length>0});
- results.push({name:'Озвучування',ok:typeof speak==='function'});
- results.push({name:'Розпізнавання мовлення',ok:typeof(window.SpeechRecognition||window.webkitSpeechRecognition)==='function',optional:true});
- const root=document.createElement('aside');root.id='deutschDiagnostics';root.setAttribute('role','status');root.style.cssText='position:fixed;z-index:99999;right:12px;bottom:12px;max-height:65vh;overflow:auto;width:min(390px,calc(100vw - 24px));background:#fffdf7;color:#102b50;border:2px solid #102b50;border-radius:18px;box-shadow:0 12px 40px #102b5033;padding:18px;font:14px/1.5 system-ui';
+ const results=[];
+ const check=(name,test,optional=false)=>{try{results.push({name,ok:!!test(),optional})}catch(e){results.push({name,ok:false,optional,detail:e.message})}};
+ ['homeView','vocabView','trainerView','progressView','learningPath','wordGrid','vocabIconGrid','mic','startVocabQuiz'].forEach(id=>check('Елемент '+id,()=>!!document.getElementById(id)));
+ check('16 категорій словника',()=>Array.isArray(vocabCategories)&&vocabCategories.length===16);
+ check('Слова в кожній категорії',()=>vocabCategories.every(c=>Array.isArray(c.words)&&c.words.length>0&&c.words.every(w=>Array.isArray(w)&&typeof w[0]==='string'&&typeof w[1]==='string'&&w[0].trim()&&w[1].trim())));
+ check('Уроки та етапи',()=>Array.isArray(lessonGroups)&&lessonGroups.length>0&&lessonGroups.every(g=>Array.isArray(g.stages)&&g.stages.length>0));
+ check('Дані уроків',()=>Array.isArray(lessonExtra)&&lessonExtra.length>0&&lessonExtra.every(l=>Array.isArray(l.words)));
+ check('Малюнки SVG',()=>doodleIcon('cat').includes('<svg')&&doodleIcon('cat').includes('</svg>'));
+ check('Іконки інтерфейсу',()=>uiGlyph('mic').includes('<svg')&&uiGlyph('mic').includes('</svg>'));
+ check('Кнопка озвучування',()=>audioButton('Hallo').includes('data-speak=')&&audioButton('Hallo').includes('<svg'));
+ check('HTML-екран словника',()=>!!document.querySelector('#vocabView #wordGrid'));
+ check('Підключення звукового рушія',()=>typeof speak==='function');
+ check('Збереження прогресу',()=>typeof localStorage!=='undefined',true);
+ check('Підтримка розпізнавання мовлення',()=>typeof(window.SpeechRecognition||window.webkitSpeechRecognition)==='function',true);
+ const root=document.createElement('aside');root.id='deutschDiagnostics';root.setAttribute('role','status');root.style.cssText='position:fixed;z-index:99999;right:12px;bottom:12px;max-height:70vh;overflow:auto;width:min(420px,calc(100vw - 24px));background:#fffdf7;color:#102b50;border:2px solid #102b50;border-radius:18px;box-shadow:0 12px 40px #102b5033;padding:18px;font:14px/1.5 system-ui';
  const required=results.filter(x=>!x.optional),passed=required.filter(x=>x.ok).length;
- root.innerHTML='<div style="display:flex;justify-content:space-between;gap:12px"><strong>Перевірка Deutsch 16: '+passed+'/'+required.length+'</strong><button id="closeDeutschDiagnostics" aria-label="Закрити" style="border:0;background:none;cursor:pointer;font-size:22px">×</button></div>'+results.map(x=>'<div>'+(x.ok?'✓ ':'✕ ')+x.name+(x.optional?' (необов’язково)':'')+'</div>').join('')+'<small>Це перевірка структури. Для перевірки аудіо, мікрофона та вправ потрібна взаємодія користувача.</small>';
- document.body.appendChild(root);document.getElementById('closeDeutschDiagnostics').onclick=()=>root.remove();
+ const title=document.createElement('div');title.style.cssText='display:flex;justify-content:space-between;gap:12px;align-items:center';
+ const strong=document.createElement('strong');strong.textContent='Перевірка Deutsch 16: '+passed+'/'+required.length;title.appendChild(strong);
+ const close=document.createElement('button');close.textContent='×';close.setAttribute('aria-label','Закрити');close.style.cssText='border:0;background:none;cursor:pointer;font-size:22px';close.onclick=()=>root.remove();title.appendChild(close);root.appendChild(title);
+ results.forEach(item=>{const line=document.createElement('div');line.textContent=(item.ok?'✓ ':'✕ ')+item.name+(item.optional?' (залежить від браузера)':'')+(item.detail?' — '+item.detail:'');line.style.color=item.ok?'inherit':'#b23a20';root.appendChild(line)});
+ const note=document.createElement('p');note.style.cssText='font-size:12px;opacity:.75;margin-bottom:0';note.textContent='Автоматична перевірка структури та даних. Аудіо, мікрофон і проходження вправ перевіряються окремо.';root.appendChild(note);
+ document.getElementById('deutschDiagnostics')?.remove();document.body.appendChild(root);
+ return results;
 }
 if(new URLSearchParams(location.search).has('diagnostics')){try{runDeutschDiagnostics()}catch(err){console.error('Deutsch diagnostics:',err)}}
 </script></body></html>
