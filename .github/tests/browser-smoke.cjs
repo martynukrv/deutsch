@@ -64,6 +64,30 @@ const path = require('path');
    if(!tasks.length||i!==0)throw new Error('New lesson session failed');
  });
  console.log('PASS incorrect answer, retry mistakes, lesson summary and restart');
+ // Verify progress persists across a reload and check mobile/desktop overflow.
+ const storage=await page.evaluate(()=>{setMode('words');startVocabQuiz(false);const it=vq.items[vq.index];recordVq(it,true);return {key:vqStatsKey(),word:it.w[0],value:localStorage.getItem(vqStatsKey())}});
+ if(!storage.value||!JSON.parse(storage.value)[storage.word])throw new Error('Vocabulary progress not saved');
+ await page.reload({waitUntil:'load'});
+ const persisted=await page.evaluate(({key,word})=>{const obj=JSON.parse(localStorage.getItem(key)||'{}');return obj[word]},storage);
+ if(!persisted||persisted.ok<1)throw new Error('Vocabulary progress lost on reload');
+ console.log('PASS localStorage progress reload');
+ for(const width of [320,390,768,1280]){
+   await page.setViewportSize({width,height:800});
+   const info=await page.evaluate(()=>({scroll:document.documentElement.scrollWidth,client:document.documentElement.clientWidth}));
+   if(info.scroll>info.client+5)throw new Error('Horizontal page overflow at '+width+'px: '+JSON.stringify(info));
+ }
+ console.log('PASS responsive widths 320/390/768/1280');
+ const audio=await page.evaluate(()=>Object.values(AUDIO_MAP));
+ if(audio.length<100)throw new Error('Too few mapped audio files: '+audio.length);
+ const missing=[];
+ for(const name of [...new Set(audio)]){
+   const result=await page.evaluate(async file=>{
+     try{const r=await fetch(file);return r.ok}catch(e){return false}
+   },name);
+   if(!result)missing.push(name);
+ }
+ console.log('AUDIO FILES',audio.length,'missing',missing.length,missing.slice(0,25));
+ if(missing.length)throw new Error('Missing mapped audio: '+missing.slice(0,12).join(', '));
  console.log('PASS Chromium smoke test');
  await browser.close();
 })().catch(e=>{console.error(e);process.exit(1)});
