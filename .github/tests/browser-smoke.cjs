@@ -43,6 +43,27 @@ const path = require('path');
  await page.setViewportSize({width:1280,height:800});
  await page.waitForTimeout(100);
  if(errors.length)throw new Error('JavaScript errors: '+errors.join('; '));
+ // Exercise incorrect answer, retry-only flow, and completed lesson summary.
+ await page.evaluate(()=>{
+   setMode('words');
+   startVocabQuiz(false);
+   const it=vq.items[vq.index];
+   answerVq(null,it,'__definitely_wrong__');
+   if(vq.wrong!==1||vq.missed.length!==1)throw new Error('Wrong answer not recorded');
+   const firstMiss=vq.missed[0].w[0];
+   showVqSummary();
+   startVocabQuiz(true);
+   if(!vq.active||vq.items.length===0||vq.items.some(x=>x.w[0]!==firstMiss))throw new Error('Missed-word retry not limited to missed word');
+   endVocabQuiz();
+   setMode('trainer');
+   if(!tasks.length)throw new Error('No lesson tasks');
+   showSummary();
+   if(document.getElementById('prompt').textContent!=='Готово!')throw new Error('Lesson summary missing');
+   const next=document.getElementById('next');
+   next.click();
+   if(!tasks.length||i!==0)throw new Error('New lesson session failed');
+ });
+ console.log('PASS incorrect answer, retry mistakes, lesson summary and restart');
  console.log('PASS Chromium smoke test');
  await browser.close();
 })().catch(e=>{console.error(e);process.exit(1)});
