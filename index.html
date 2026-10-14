@@ -330,18 +330,18 @@ let speechRun=0;
 function speak(text){
   const run=++speechRun;
   if(currentAudio){currentAudio.pause();currentAudio=null}
-  speechSynthesis.cancel();
-  const raw=String(text).trim(),key=audioKey(raw);
+  if('speechSynthesis' in window)window.speechSynthesis.cancel();
+  const raw=String(text).trim();if(!raw)return;const key=audioKey(raw);
   const whole=AUDIO_MAP[key]||AUDIO_MAP[key+'.']||AUDIO_MAP[key+'?'];
   const words=key.split(' ');
   const files=whole?[whole]:(words.length>1&&words.every(w=>AUDIO_MAP[w])?words.map(w=>AUDIO_MAP[w]):null);
   if(files){
     let at=0;
     const next=()=>{if(run!==speechRun||at>=files.length)return;const sound=new Audio(files[at++]);currentAudio=sound;sound.onended=next;sound.onerror=()=>{if(run===speechRun)fallback()};sound.play().catch(()=>{if(run===speechRun)fallback()})};
-    const fallback=()=>{if(run!==speechRun)return;const u=new SpeechSynthesisUtterance(raw);u.lang='de-DE';u.rate=.88;speechSynthesis.speak(u)};
+    const fallback=()=>{if(run!==speechRun||!('speechSynthesis' in window)||!('SpeechSynthesisUtterance' in window))return;const u=new SpeechSynthesisUtterance(raw);u.lang='de-DE';u.rate=.88;window.speechSynthesis.speak(u)};
     next();return;
   }
-  let u=new SpeechSynthesisUtterance(raw);u.lang='de-DE';u.rate=.88;speechSynthesis.speak(u)
+  if(!('speechSynthesis' in window)||!('SpeechSynthesisUtterance' in window))return;let u=new SpeechSynthesisUtterance(raw);u.lang='de-DE';u.rate=.88;window.speechSynthesis.speak(u)
 }
 function tone(ok){try{const C=window.AudioContext||window.webkitAudioContext,a=new C(),o=a.createOscillator(),g=a.createGain();o.connect(g);g.connect(a.destination);o.frequency.value=ok?720:190;g.gain.setValueAtTime(.10,a.currentTime);g.gain.exponentialRampToValueAtTime(.001,a.currentTime+.16);o.start();o.stop(a.currentTime+.17)}catch(e){}}
 const verbSets=[
