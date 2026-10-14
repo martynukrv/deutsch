@@ -22,6 +22,22 @@ const path = require('path');
  await page.evaluate(()=>startVocabQuiz(false));
  await page.waitForTimeout(100);
  console.log('QUIZ',await page.evaluate(()=>({active:vq.active,items:vq.items.length})));
+ await page.evaluate(()=>{
+   const item=vq.items[vq.index];
+   if(item.type==='de'||item.type==='ua'){
+     const target=item.type==='de'?item.w[0]:item.w[1];
+     answerVq(null,item,target);
+     if(!vq.locked||vq.correct!==1)throw new Error('Correct quiz answer did not register');
+   }
+ });
+ await page.evaluate(()=>endVocabQuiz());
+ await page.evaluate(()=>startVocabQuiz(false));
+ const second=await page.evaluate(()=>({active:vq.active,locked:vq.locked,index:vq.index}));
+ if(!second.active||second.locked||second.index!==0)throw new Error('Quiz restart failed');
+ await page.waitForTimeout(3300);
+ const afterTimer=await page.evaluate(()=>({index:vq.index,active:vq.active}));
+ if(afterTimer.index!==0||!afterTimer.active)throw new Error('Old quiz timer advanced a new session');
+ console.log('QUIZ RESTART',JSON.stringify(afterTimer));
  await page.evaluate(()=>endVocabQuiz());
  await page.evaluate(()=>{setMode('home')});
  await page.setViewportSize({width:1280,height:800});
