@@ -83,6 +83,19 @@ const path = require('path');
  const missing=[...new Set(audio)].filter(name=>!fs.existsSync(path.resolve(name)));
  console.log('AUDIO FILES',audio.length,'missing',missing.length,missing.slice(0,25));
  if(missing.length)throw new Error('Missing mapped audio: '+missing.slice(0,12).join(', '));
+ // Generate every lesson in the actual browser, verifying nonempty exercises.
+ const lessons=await page.evaluate(()=>{
+   const report=[],old=selectedLesson;
+   for(let n=0;n<flatStages().length;n++){
+     selectedLesson=n;
+     newSession();
+     report.push({lesson:n,taskCount:tasks.length,valid:tasks.every(t=>t&&typeof t.de==='string'&&t.de.trim()&&typeof t.ua==='string'&&t.ua.trim())});
+   }
+   selectedLesson=old;newSession();
+   return report;
+ });
+ console.log('LESSONS',JSON.stringify(lessons));
+ if(lessons.some(x=>!x.taskCount||!x.valid))throw new Error('Some lessons have empty or invalid exercises');
  console.log('PASS Chromium smoke test');
  await browser.close();
 })().catch(e=>{console.error(e);process.exit(1)});
