@@ -66,9 +66,9 @@ const path = require('path');
  console.log('PASS incorrect answer, retry mistakes, lesson summary and restart');
  // Verify progress persists across a reload and check mobile/desktop overflow.
  const storage=await page.evaluate(()=>{setMode('words');startVocabQuiz(false);const it=vq.items[vq.index];recordVq(it,true);return {key:vqStatsKey(),word:it.w[0],value:localStorage.getItem(vqStatsKey())}});
- if(!storage.value||!JSON.parse(storage.value)[storage.word])throw new Error('Vocabulary progress not saved');
+ if(!storage.value||!JSON.parse(storage.value)[storage.word.toLocaleLowerCase('de-DE')])throw new Error('Vocabulary progress not saved');
  await page.reload({waitUntil:'load'});
- const persisted=await page.evaluate(({key,word})=>{const obj=JSON.parse(localStorage.getItem(key)||'{}');return obj[word]},storage);
+ const persisted=await page.evaluate(({key,word})=>{const obj=JSON.parse(localStorage.getItem(key)||'{}');return obj[word.toLocaleLowerCase('de-DE')]},storage);
  if(!persisted||persisted.ok<1)throw new Error('Vocabulary progress lost on reload');
  console.log('PASS localStorage progress reload');
  for(const width of [320,390,768,1280]){
