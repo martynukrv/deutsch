@@ -30,7 +30,7 @@ const fs=require('fs');
   const audio=await page.evaluate(()=>Object.values(AUDIO_MAP));
   const unique=[...new Set(audio)];
   const check=await page.evaluate(async names=>Promise.all(names.map(async name=>{
-   try{const r=await fetch(name,{method:'GET'});return {name,ok:r.ok,status:r.status,bytes:(await r.arrayBuffer()).byteLength}}catch(e){return {name,ok:false,error:String(e)}}
+   for(let attempt=0;attempt<3;attempt++){try{const r=await fetch(name,{method:'GET',cache:'no-store'});const bytes=(await r.arrayBuffer()).byteLength;if(r.ok&&bytes>=100)return {name,ok:true,status:r.status,bytes,attempt};if(attempt===2)return {name,ok:false,status:r.status,bytes}}catch(e){if(attempt===2)return {name,ok:false,error:String(e)}}await new Promise(resolve=>setTimeout(resolve,600*(attempt+1)))}
   })),unique);
   const bad=check.filter(x=>!x.ok||x.bytes<100);
   console.log('PUBLISHED AUDIO',JSON.stringify({total:unique.length,bad:bad.slice(0,15),badCount:bad.length}));
