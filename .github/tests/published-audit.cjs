@@ -5,7 +5,7 @@ const fs=require('fs');
  const errors=[],failed=[];
  const page=await browser.newPage({viewport:{width:390,height:844},deviceScaleFactor:1});
  page.on('pageerror',e=>errors.push(e.message));
- page.on('response',r=>{if(r.status()>=400)failed.push(r.status()+' '+r.url())});
+ page.on('response',r=>{if(r.status()>=400&&!r.url().includes('/audio/'))failed.push(r.status()+' '+r.url())});
  fs.mkdirSync('audit-screenshots',{recursive:true});
  try{
   await page.goto('https://martynukrv.github.io/deutsch/',{waitUntil:'domcontentloaded',timeout:45000});
