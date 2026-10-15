@@ -77,6 +77,23 @@ const path = require('path');
    if(info.scroll>info.client+5)throw new Error('Horizontal page overflow at '+width+'px: '+JSON.stringify(info));
  }
  console.log('PASS responsive widths 320/390/768/1280');
+ const artAudit=await page.evaluate(()=>{
+  const generic=new Set(['star','book','people','person','question','questionmark','speech','smile','heart','hand','clock','cat','car','house','school','numbers','palette','run']);
+  const categories=vocabCategories.map(c=>{
+   const entries=c.words.map(w=>{
+    const key=doodleWord(w[0]);
+    const exists=key.startsWith('swatch:')||key.startsWith('number:')||Object.prototype.hasOwnProperty.call(doodleShapes,key);
+    return {word:w[0],art:key,exists,generic:generic.has(key),fallback:key==='star'};
+   });
+   return {category:c.name,total:entries.length,missing:entries.filter(x=>!x.exists),generic:entries.filter(x=>x.generic).map(x=>x.word+' → '+x.art),fallback:entries.filter(x=>x.fallback).map(x=>x.word)};
+  });
+  const all=categories.flatMap(c=>c.missing);
+  const mapping=categories.flatMap(c=>c.generic);
+  return {total:categories.reduce((n,c)=>n+c.total,0),missing:all,sharedGenericCount:mapping.length,categories};
+ });
+ console.log('ART AUDIT',JSON.stringify(artAudit));
+ if(artAudit.total!==212)throw Error('Vocabulary count changed: '+artAudit.total);
+ if(artAudit.missing.length)throw Error('Undefined illustration keys: '+JSON.stringify(artAudit.missing));
  const audio=await page.evaluate(()=>Object.values(AUDIO_MAP));
  if(audio.length<100)throw new Error('Too few mapped audio files: '+audio.length);
  const fs=require('fs');
