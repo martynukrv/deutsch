@@ -1,0 +1,387 @@
+[
+  {
+    "name": "machen",
+    "source": "sheet-01.png",
+    "box": [
+      15,
+      15,
+      350,
+      390
+    ],
+    "sha256": "fb0ee223db17a15eb7f6092b6ec7e2bda5e236049f3faf976e99377bc502d366"
+  },
+  {
+    "name": "sagen",
+    "source": "sheet-01.png",
+    "box": [
+      360,
+      15,
+      740,
+      390
+    ],
+    "sha256": "14e1db97e22768d1b5784209c67c54f358f066eac67bdea7389c98a8f011ce3f"
+  },
+  {
+    "name": "fragen",
+    "source": "sheet-01.png",
+    "box": [
+      750,
+      15,
+      1060,
+      390
+    ],
+    "sha256": "c911c2348e76cd999b94c5a1a6861b0631ac9677819cac64acb9b5106e609621"
+  },
+  {
+    "name": "lieben",
+    "source": "sheet-01.png",
+    "box": [
+      1070,
+      15,
+      1448,
+      390
+    ],
+    "sha256": "56288b5090b8ad2d911c6bd69c403318dee7ecf556566ab3b439d6bfb6e69f26"
+  },
+  {
+    "name": "lachen",
+    "source": "sheet-01.png",
+    "box": [
+      15,
+      395,
+      350,
+      715
+    ],
+    "sha256": "9b4dbf744966f5097e3e2429bd52695a8cde1297233b35a9c58773171cdbfa2b"
+  },
+  {
+    "name": "wohnen",
+    "source": "sheet-01.png",
+    "box": [
+      355,
+      395,
+      740,
+      715
+    ],
+    "sha256": "08778322c509c5d1646f3ebfc33900ebb4b636741745fbc96f2bccdb816bf28c"
+  },
+  {
+    "name": "singen",
+    "source": "sheet-01.png",
+    "box": [
+      745,
+      395,
+      1060,
+      715
+    ],
+    "sha256": "6e5a2bb02778ae3eec39da48e790bccd2a561923d0dc77c1c94df05e70834434"
+  },
+  {
+    "name": "spielen",
+    "source": "sheet-01.png",
+    "box": [
+      1065,
+      395,
+      1448,
+      715
+    ],
+    "sha256": "20187fc1529e961f8e88ce2c9337f124355717cccf5bac8076371ee55d0e0120"
+  },
+  {
+    "name": "tanzen",
+    "source": "sheet-01.png",
+    "box": [
+      10,
+      715,
+      405,
+      1086
+    ],
+    "sha256": "562274403a40a37084a7024727d01a7758d9b5049ce338b7e56f7e9b66dcdfb4"
+  },
+  {
+    "name": "sein",
+    "source": "sheet-01.png",
+    "box": [
+      410,
+      715,
+      720,
+      1086
+    ],
+    "sha256": "3d1f3180fab9a6fafe0b1524b1942a177a62bdf61d2b77a6c774a616872c5bcb"
+  },
+  {
+    "name": "haben",
+    "source": "sheet-01.png",
+    "box": [
+      730,
+      715,
+      1060,
+      1086
+    ],
+    "sha256": "55a6a73ee04544bc3c18177ca5e1d06bcf34ed95977e0b463f567a16fa5f1434"
+  },
+  {
+    "name": "gehen",
+    "source": "sheet-01.png",
+    "box": [
+      1070,
+      715,
+      1448,
+      1086
+    ],
+    "sha256": "e063f558c4cb221064522fcf63220993ecdd940ddf337ce5ed365f28d3002664"
+  },
+  {
+    "name": "kommen",
+    "source": "sheet-02.png",
+    "box": [
+      5,
+      10,
+      405,
+      400
+    ],
+    "sha256": "f58159146006c918511db6704f85b68438f2d695bf5caa0d3d14ebdaa77600f9"
+  },
+  {
+    "name": "sehen",
+    "source": "sheet-02.png",
+    "box": [
+      410,
+      10,
+      735,
+      400
+    ],
+    "sha256": "954f1575860827e278ce729fc5bcf22578b6992fcc63ecf8bededb917c6fbe65"
+  },
+  {
+    "name": "hoeren",
+    "source": "sheet-02.png",
+    "box": [
+      745,
+      10,
+      1060,
+      400
+    ],
+    "sha256": "d62ebeb4d6f27af8e90a7d8da7b6749c8b2319098b33405d4a1b18d2efc65764"
+  },
+  {
+    "name": "sprechen",
+    "source": "sheet-02.png",
+    "box": [
+      1060,
+      10,
+      1448,
+      400
+    ],
+    "sha256": "882e7ffa4689cb67594b8b95f3790c1235963d85dc172046e789d44300e82a4e"
+  },
+  {
+    "name": "lernen",
+    "source": "sheet-02.png",
+    "box": [
+      15,
+      400,
+      370,
+      740
+    ],
+    "sha256": "f58da442af757f966e14a5b46f031f61e3c9a3d59526717a112cbad36d16959f"
+  },
+  {
+    "name": "arbeiten",
+    "source": "sheet-02.png",
+    "box": [
+      380,
+      400,
+      720,
+      740
+    ],
+    "sha256": "ef443fafa4a6f1205838f23ce441f4319189adae23ce5f4c27b30bd23ceaac3e"
+  },
+  {
+    "name": "essen",
+    "source": "sheet-02.png",
+    "box": [
+      740,
+      400,
+      1070,
+      740
+    ],
+    "sha256": "86c24cd630722c968c5ba801e07ceef87e9bd22b7061c47724c6b21319bd2c57"
+  },
+  {
+    "name": "trinken",
+    "source": "sheet-02.png",
+    "box": [
+      1075,
+      400,
+      1448,
+      729
+    ],
+    "sha256": "2120afe1c80d272c46a17554ce70a2dbc5d992ea98f48d893e1be2d68ad090ed"
+  },
+  {
+    "name": "schlafen",
+    "source": "sheet-02.png",
+    "box": [
+      10,
+      740,
+      385,
+      1086
+    ],
+    "sha256": "de0693b64c373842bf4f6c8c5014185c819608f0962bc34bcf5ccaba7c64fea4"
+  },
+  {
+    "name": "lesen",
+    "source": "sheet-02.png",
+    "box": [
+      395,
+      740,
+      720,
+      1086
+    ],
+    "sha256": "85d8a3f0653ec68308ac7c8cfacab7806a0ee1fdc44a15405b751ed1489df435"
+  },
+  {
+    "name": "schreiben",
+    "source": "sheet-02.png",
+    "box": [
+      735,
+      740,
+      1070,
+      1086
+    ],
+    "sha256": "5aac4db16128648152d1ff6059ffb3d602d9463e6fb9fb45a24363bad0b3252e"
+  },
+  {
+    "name": "wissen",
+    "source": "sheet-02.png",
+    "box": [
+      1075,
+      729,
+      1448,
+      1086
+    ],
+    "sha256": "064120c463a2a0871a384cad4f5995ec62a7db6ed3caa2ec4cfab879867eb1f7"
+  },
+  {
+    "name": "kennen",
+    "source": "sheet-03.png",
+    "box": [
+      5,
+      15,
+      385,
+      420
+    ],
+    "sha256": "d905a90b446bd8f4d5ea71e9b339bc802babc965d45f7f4a72912d072ae80d9e"
+  },
+  {
+    "name": "wollen",
+    "source": "sheet-03.png",
+    "box": [
+      390,
+      15,
+      735,
+      420
+    ],
+    "sha256": "430bc967be9cb1b82c967adc89772aefab04c901a13089f62d18282d261d27b0"
+  },
+  {
+    "name": "koennen",
+    "source": "sheet-03.png",
+    "box": [
+      750,
+      15,
+      1080,
+      420
+    ],
+    "sha256": "62f4ec019727095b1cb99daaf2437aea265c0548c9cb7963bd5b8266e2f61453"
+  },
+  {
+    "name": "muessen",
+    "source": "sheet-03.png",
+    "box": [
+      1090,
+      15,
+      1448,
+      430
+    ],
+    "sha256": "221ba05ec74da0013583202b83001b2f6c2b9759fb112bd5b559e7ad3ca08fcf"
+  },
+  {
+    "name": "brauchen",
+    "source": "sheet-03.png",
+    "box": [
+      5,
+      425,
+      355,
+      745
+    ],
+    "sha256": "deb436d5a340e69c8970f752718750d82f6093abe0dbe3b77712b175cb53bac7"
+  },
+  {
+    "name": "geben",
+    "source": "sheet-03.png",
+    "box": [
+      360,
+      425,
+      750,
+      745
+    ],
+    "sha256": "d974368ef369e0217eadbd00c90ff7a17166198eaea45e542fa158f4d64436f5"
+  },
+  {
+    "name": "nehmen",
+    "source": "sheet-03.png",
+    "box": [
+      755,
+      425,
+      1075,
+      745
+    ],
+    "sha256": "6792517de55d4595bfca1faa9a0050b8f44f97df14370f3b2c64147190e527ed"
+  },
+  {
+    "name": "finden",
+    "source": "sheet-03.png",
+    "box": [
+      1085,
+      425,
+      1448,
+      745
+    ],
+    "sha256": "699b884e857115ec4345f61b108db78e79db0f22a24c801420257b58b02491f7"
+  },
+  {
+    "name": "kaufen",
+    "source": "sheet-03.png",
+    "box": [
+      5,
+      745,
+      390,
+      1086
+    ],
+    "sha256": "ec917ca99a9c4b7f7a19a34f6d981b1186cb88ea7c13520d662acd3feaa5896b"
+  },
+  {
+    "name": "fahren",
+    "source": "sheet-03.png",
+    "box": [
+      400,
+      745,
+      700,
+      1086
+    ],
+    "sha256": "23e07255dfc836643d280f65e0241ddbd0583d80989d6cc4f91a67a88db0c4d4"
+  },
+  {
+    "name": "bleiben",
+    "source": "sheet-03.png",
+    "box": [
+      705,
+      745,
+      1105,
+      1086
+    ],
+    "sha256": "f33f25bcc41f0c5d97a0b055bd695eb93b40ae0f7b305ab45ea34ca2b54cd58b"
+  }
+]

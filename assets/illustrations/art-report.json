@@ -133,5 +133,320 @@
     "sha256": "afacb7afd8bcb9457998dbe2a5baad06190fc7a95b679781060888022a9359eb",
     "width": 277,
     "height": 242
+  },
+  {
+    "category": "verbs",
+    "de": "machen",
+    "ua": "робити",
+    "path": "assets/illustrations/verbs/machen.png",
+    "sha256": "fb0ee223db17a15eb7f6092b6ec7e2bda5e236049f3faf976e99377bc502d366",
+    "width": 301,
+    "height": 318
+  },
+  {
+    "category": "verbs",
+    "de": "sagen",
+    "ua": "казати",
+    "path": "assets/illustrations/verbs/sagen.png",
+    "sha256": "14e1db97e22768d1b5784209c67c54f358f066eac67bdea7389c98a8f011ce3f",
+    "width": 382,
+    "height": 354
+  },
+  {
+    "category": "verbs",
+    "de": "fragen",
+    "ua": "питати",
+    "path": "assets/illustrations/verbs/fragen.png",
+    "sha256": "c911c2348e76cd999b94c5a1a6861b0631ac9677819cac64acb9b5106e609621",
+    "width": 306,
+    "height": 351
+  },
+  {
+    "category": "verbs",
+    "de": "lieben",
+    "ua": "любити",
+    "path": "assets/illustrations/verbs/lieben.png",
+    "sha256": "56288b5090b8ad2d911c6bd69c403318dee7ecf556566ab3b439d6bfb6e69f26",
+    "width": 362,
+    "height": 317
+  },
+  {
+    "category": "verbs",
+    "de": "lachen",
+    "ua": "сміятися",
+    "path": "assets/illustrations/verbs/lachen.png",
+    "sha256": "9b4dbf744966f5097e3e2429bd52695a8cde1297233b35a9c58773171cdbfa2b",
+    "width": 284,
+    "height": 312
+  },
+  {
+    "category": "verbs",
+    "de": "wohnen",
+    "ua": "жити / мешкати",
+    "path": "assets/illustrations/verbs/wohnen.png",
+    "sha256": "08778322c509c5d1646f3ebfc33900ebb4b636741745fbc96f2bccdb816bf28c",
+    "width": 391,
+    "height": 326
+  },
+  {
+    "category": "verbs",
+    "de": "singen",
+    "ua": "співати",
+    "path": "assets/illustrations/verbs/singen.png",
+    "sha256": "6e5a2bb02778ae3eec39da48e790bccd2a561923d0dc77c1c94df05e70834434",
+    "width": 323,
+    "height": 313
+  },
+  {
+    "category": "verbs",
+    "de": "spielen",
+    "ua": "грати",
+    "path": "assets/illustrations/verbs/spielen.png",
+    "sha256": "20187fc1529e961f8e88ce2c9337f124355717cccf5bac8076371ee55d0e0120",
+    "width": 387,
+    "height": 257
+  },
+  {
+    "category": "verbs",
+    "de": "tanzen",
+    "ua": "танцювати",
+    "path": "assets/illustrations/verbs/tanzen.png",
+    "sha256": "562274403a40a37084a7024727d01a7758d9b5049ce338b7e56f7e9b66dcdfb4",
+    "width": 390,
+    "height": 308
+  },
+  {
+    "category": "verbs",
+    "de": "sein",
+    "ua": "бути",
+    "path": "assets/illustrations/verbs/sein.png",
+    "sha256": "3d1f3180fab9a6fafe0b1524b1942a177a62bdf61d2b77a6c774a616872c5bcb",
+    "width": 261,
+    "height": 341
+  },
+  {
+    "category": "verbs",
+    "de": "haben",
+    "ua": "мати",
+    "path": "assets/illustrations/verbs/haben.png",
+    "sha256": "55a6a73ee04544bc3c18177ca5e1d06bcf34ed95977e0b463f567a16fa5f1434",
+    "width": 263,
+    "height": 341
+  },
+  {
+    "category": "verbs",
+    "de": "gehen",
+    "ua": "йти",
+    "path": "assets/illustrations/verbs/gehen.png",
+    "sha256": "e063f558c4cb221064522fcf63220993ecdd940ddf337ce5ed365f28d3002664",
+    "width": 215,
+    "height": 337
+  },
+  {
+    "category": "verbs",
+    "de": "kommen",
+    "ua": "приходити",
+    "path": "assets/illustrations/verbs/kommen.png",
+    "sha256": "f58159146006c918511db6704f85b68438f2d695bf5caa0d3d14ebdaa77600f9",
+    "width": 411,
+    "height": 308
+  },
+  {
+    "category": "verbs",
+    "de": "sehen",
+    "ua": "бачити",
+    "path": "assets/illustrations/verbs/sehen.png",
+    "sha256": "954f1575860827e278ce729fc5bcf22578b6992fcc63ecf8bededb917c6fbe65",
+    "width": 327,
+    "height": 358
+  },
+  {
+    "category": "verbs",
+    "de": "hören",
+    "ua": "чути / слухати",
+    "path": "assets/illustrations/verbs/hoeren.png",
+    "sha256": "d62ebeb4d6f27af8e90a7d8da7b6749c8b2319098b33405d4a1b18d2efc65764",
+    "width": 286,
+    "height": 330
+  },
+  {
+    "category": "verbs",
+    "de": "sprechen",
+    "ua": "говорити",
+    "path": "assets/illustrations/verbs/sprechen.png",
+    "sha256": "882e7ffa4689cb67594b8b95f3790c1235963d85dc172046e789d44300e82a4e",
+    "width": 406,
+    "height": 364
+  },
+  {
+    "category": "verbs",
+    "de": "lernen",
+    "ua": "вчити / вивчати",
+    "path": "assets/illustrations/verbs/lernen.png",
+    "sha256": "f58da442af757f966e14a5b46f031f61e3c9a3d59526717a112cbad36d16959f",
+    "width": 321,
+    "height": 345
+  },
+  {
+    "category": "verbs",
+    "de": "arbeiten",
+    "ua": "працювати",
+    "path": "assets/illustrations/verbs/arbeiten.png",
+    "sha256": "ef443fafa4a6f1205838f23ce441f4319189adae23ce5f4c27b30bd23ceaac3e",
+    "width": 318,
+    "height": 327
+  },
+  {
+    "category": "verbs",
+    "de": "essen",
+    "ua": "їсти",
+    "path": "assets/illustrations/verbs/essen.png",
+    "sha256": "86c24cd630722c968c5ba801e07ceef87e9bd22b7061c47724c6b21319bd2c57",
+    "width": 278,
+    "height": 330
+  },
+  {
+    "category": "verbs",
+    "de": "trinken",
+    "ua": "пити",
+    "path": "assets/illustrations/verbs/trinken.png",
+    "sha256": "2120afe1c80d272c46a17554ce70a2dbc5d992ea98f48d893e1be2d68ad090ed",
+    "width": 296,
+    "height": 328
+  },
+  {
+    "category": "verbs",
+    "de": "schlafen",
+    "ua": "спати",
+    "path": "assets/illustrations/verbs/schlafen.png",
+    "sha256": "de0693b64c373842bf4f6c8c5014185c819608f0962bc34bcf5ccaba7c64fea4",
+    "width": 356,
+    "height": 312
+  },
+  {
+    "category": "verbs",
+    "de": "lesen",
+    "ua": "читати",
+    "path": "assets/illustrations/verbs/lesen.png",
+    "sha256": "85d8a3f0653ec68308ac7c8cfacab7806a0ee1fdc44a15405b751ed1489df435",
+    "width": 275,
+    "height": 312
+  },
+  {
+    "category": "verbs",
+    "de": "schreiben",
+    "ua": "писати",
+    "path": "assets/illustrations/verbs/schreiben.png",
+    "sha256": "5aac4db16128648152d1ff6059ffb3d602d9463e6fb9fb45a24363bad0b3252e",
+    "width": 336,
+    "height": 329
+  },
+  {
+    "category": "verbs",
+    "de": "wissen",
+    "ua": "знати (факт)",
+    "path": "assets/illustrations/verbs/wissen.png",
+    "sha256": "064120c463a2a0871a384cad4f5995ec62a7db6ed3caa2ec4cfab879867eb1f7",
+    "width": 311,
+    "height": 360
+  },
+  {
+    "category": "verbs",
+    "de": "kennen",
+    "ua": "знати / бути знайомим",
+    "path": "assets/illustrations/verbs/kennen.png",
+    "sha256": "d905a90b446bd8f4d5ea71e9b339bc802babc965d45f7f4a72912d072ae80d9e",
+    "width": 376,
+    "height": 334
+  },
+  {
+    "category": "verbs",
+    "de": "wollen",
+    "ua": "хотіти",
+    "path": "assets/illustrations/verbs/wollen.png",
+    "sha256": "430bc967be9cb1b82c967adc89772aefab04c901a13089f62d18282d261d27b0",
+    "width": 352,
+    "height": 375
+  },
+  {
+    "category": "verbs",
+    "de": "können",
+    "ua": "могти / вміти",
+    "path": "assets/illustrations/verbs/koennen.png",
+    "sha256": "62f4ec019727095b1cb99daaf2437aea265c0548c9cb7963bd5b8266e2f61453",
+    "width": 332,
+    "height": 343
+  },
+  {
+    "category": "verbs",
+    "de": "müssen",
+    "ua": "мусити",
+    "path": "assets/illustrations/verbs/muessen.png",
+    "sha256": "221ba05ec74da0013583202b83001b2f6c2b9759fb112bd5b559e7ad3ca08fcf",
+    "width": 345,
+    "height": 339
+  },
+  {
+    "category": "verbs",
+    "de": "brauchen",
+    "ua": "потребувати",
+    "path": "assets/illustrations/verbs/brauchen.png",
+    "sha256": "deb436d5a340e69c8970f752718750d82f6093abe0dbe3b77712b175cb53bac7",
+    "width": 322,
+    "height": 319
+  },
+  {
+    "category": "verbs",
+    "de": "geben",
+    "ua": "давати",
+    "path": "assets/illustrations/verbs/geben.png",
+    "sha256": "d974368ef369e0217eadbd00c90ff7a17166198eaea45e542fa158f4d64436f5",
+    "width": 405,
+    "height": 314
+  },
+  {
+    "category": "verbs",
+    "de": "nehmen",
+    "ua": "брати",
+    "path": "assets/illustrations/verbs/nehmen.png",
+    "sha256": "6792517de55d4595bfca1faa9a0050b8f44f97df14370f3b2c64147190e527ed",
+    "width": 320,
+    "height": 311
+  },
+  {
+    "category": "verbs",
+    "de": "finden",
+    "ua": "знаходити",
+    "path": "assets/illustrations/verbs/finden.png",
+    "sha256": "699b884e857115ec4345f61b108db78e79db0f22a24c801420257b58b02491f7",
+    "width": 362,
+    "height": 262
+  },
+  {
+    "category": "verbs",
+    "de": "kaufen",
+    "ua": "купувати",
+    "path": "assets/illustrations/verbs/kaufen.png",
+    "sha256": "ec917ca99a9c4b7f7a19a34f6d981b1186cb88ea7c13520d662acd3feaa5896b",
+    "width": 391,
+    "height": 318
+  },
+  {
+    "category": "verbs",
+    "de": "fahren",
+    "ua": "їхати",
+    "path": "assets/illustrations/verbs/fahren.png",
+    "sha256": "23e07255dfc836643d280f65e0241ddbd0583d80989d6cc4f91a67a88db0c4d4",
+    "width": 310,
+    "height": 287
+  },
+  {
+    "category": "verbs",
+    "de": "bleiben",
+    "ua": "залишатися",
+    "path": "assets/illustrations/verbs/bleiben.png",
+    "sha256": "f33f25bcc41f0c5d97a0b055bd695eb93b40ae0f7b305ab45ea34ca2b54cd58b",
+    "width": 417,
+    "height": 306
   }
 ]

@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "category": "verbs",
+  "approved": true,
+  "items": [
+    {
+      "de": "machen",
+      "ua": "робити",
+      "file": "assets/illustrations/verbs/machen.png"
+    },
+    {
+      "de": "sagen",
+      "ua": "казати",
+      "file": "assets/illustrations/verbs/sagen.png"
+    },
+    {
+      "de": "fragen",
+      "ua": "питати",
+      "file": "assets/illustrations/verbs/fragen.png"
+    },
+    {
+      "de": "lieben",
+      "ua": "любити",
+      "file": "assets/illustrations/verbs/lieben.png"
+    },
+    {
+      "de": "lachen",
+      "ua": "сміятися",
+      "file": "assets/illustrations/verbs/lachen.png"
+    },
+    {
+      "de": "wohnen",
+      "ua": "жити / мешкати",
+      "file": "assets/illustrations/verbs/wohnen.png"
+    },
+    {
+      "de": "singen",
+      "ua": "співати",
+      "file": "assets/illustrations/verbs/singen.png"
+    },
+    {
+      "de": "spielen",
+      "ua": "грати",
+      "file": "assets/illustrations/verbs/spielen.png"
+    },
+    {
+      "de": "tanzen",
+      "ua": "танцювати",
+      "file": "assets/illustrations/verbs/tanzen.png"
+    },
+    {
+      "de": "sein",
+      "ua": "бути",
+      "file": "assets/illustrations/verbs/sein.png"
+    },
+    {
+      "de": "haben",
+      "ua": "мати",
+      "file": "assets/illustrations/verbs/haben.png"
+    },
+    {
+      "de": "gehen",
+      "ua": "йти",
+      "file": "assets/illustrations/verbs/gehen.png"
+    },
+    {
+      "de": "kommen",
+      "ua": "приходити",
+      "file": "assets/illustrations/verbs/kommen.png"
+    },
+    {
+      "de": "sehen",
+      "ua": "бачити",
+      "file": "assets/illustrations/verbs/sehen.png"
+    },
+    {
+      "de": "hören",
+      "ua": "чути / слухати",
+      "file": "assets/illustrations/verbs/hoeren.png"
+    },
+    {
+      "de": "sprechen",
+      "ua": "говорити",
+      "file": "assets/illustrations/verbs/sprechen.png"
+    },
+    {
+      "de": "lernen",
+      "ua": "вчити / вивчати",
+      "file": "assets/illustrations/verbs/lernen.png"
+    },
+    {
+      "de": "arbeiten",
+      "ua": "працювати",
+      "file": "assets/illustrations/verbs/arbeiten.png"
+    },
+    {
+      "de": "essen",
+      "ua": "їсти",
+      "file": "assets/illustrations/verbs/essen.png"
+    },
+    {
+      "de": "trinken",
+      "ua": "пити",
+      "file": "assets/illustrations/verbs/trinken.png"
+    },
+    {
+      "de": "schlafen",
+      "ua": "спати",
+      "file": "assets/illustrations/verbs/schlafen.png"
+    },
+    {
+      "de": "lesen",
+      "ua": "читати",
+      "file": "assets/illustrations/verbs/lesen.png"
+    },
+    {
+      "de": "schreiben",
+      "ua": "писати",
+      "file": "assets/illustrations/verbs/schreiben.png"
+    },
+    {
+      "de": "wissen",
+      "ua": "знати (факт)",
+      "file": "assets/illustrations/verbs/wissen.png"
+    },
+    {
+      "de": "kennen",
+      "ua": "знати / бути знайомим",
+      "file": "assets/illustrations/verbs/kennen.png"
+    },
+    {
+      "de": "wollen",
+      "ua": "хотіти",
+      "file": "assets/illustrations/verbs/wollen.png"
+    },
+    {
+      "de": "können",
+      "ua": "могти / вміти",
+      "file": "assets/illustrations/verbs/koennen.png"
+    },
+    {
+      "de": "müssen",
+      "ua": "мусити",
+      "file": "assets/illustrations/verbs/muessen.png"
+    },
+    {
+      "de": "brauchen",
+      "ua": "потребувати",
+      "file": "assets/illustrations/verbs/brauchen.png"
+    },
+    {
+      "de": "geben",
+      "ua": "давати",
+      "file": "assets/illustrations/verbs/geben.png"
+    },
+    {
+      "de": "nehmen",
+      "ua": "брати",
+      "file": "assets/illustrations/verbs/nehmen.png"
+    },
+    {
+      "de": "finden",
+      "ua": "знаходити",
+      "file": "assets/illustrations/verbs/finden.png"
+    },
+    {
+      "de": "kaufen",
+      "ua": "купувати",
+      "file": "assets/illustrations/verbs/kaufen.png"
+    },
+    {
+      "de": "fahren",
+      "ua": "їхати",
+      "file": "assets/illustrations/verbs/fahren.png"
+    },
+    {
+      "de": "bleiben",
+      "ua": "залишатися",
+      "file": "assets/illustrations/verbs/bleiben.png"
+    }
+  ]
+}
