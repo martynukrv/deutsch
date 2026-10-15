@@ -12,6 +12,14 @@ const fs=require('fs');
   await page.waitForTimeout(1200);
   if(!/Deutsch 16/.test(await page.title()))throw Error('Published page title incorrect');
   await page.screenshot({path:'audit-screenshots/mobile-home.png',fullPage:true});
+  // Capture the full lesson path and exercise UI, not just the home/dictionary views.
+  await page.locator('#homeTab').click();
+  const lessonNav=page.locator('#learningPath');
+  if(await lessonNav.count()){
+   await page.screenshot({path:'audit-screenshots/mobile-learning-path.png',fullPage:true});
+   await page.locator('[data-stage="0"]').click();
+   await page.screenshot({path:'audit-screenshots/mobile-lesson.png',fullPage:true});
+  }
   await page.locator('#wordsTab').click();
   await page.screenshot({path:'audit-screenshots/mobile-dictionary.png',fullPage:true});
   // GitHub Pages deployment can lag behind the pushed commit; retry navigation when the quiz button is temporarily hidden.
