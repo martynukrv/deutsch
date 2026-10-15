@@ -154,6 +154,27 @@ animalCow:'<path d="M11 19L6 9L23 16Q32 10 41 16L58 9L53 19Q59 42 48 51Q32 61 16
 const detailedArtMap={'das Wasser':'waterGlass','der Kaffee':'coffeeCup','der Tee':'teaCup','das Fleisch':'meat','das Gemüse':'vegetables','das Obst':'fruitBowl','der Hund':'animalDog','die Katze':'animalCat','der Vogel':'animalBird','der Fisch':'animalFish','das Pferd':'animalHorse','die Kuh':'animalCow'};
 const baseIllustrationWord=doodleWord;
 doodleWord=function(de){return detailedArtMap[String(de).trim()]||baseIllustrationWord(de)};
+
+/* Distinct transparent architecture, classroom and transport stickers. */
+Object.assign(doodleShapes,{
+apartmentArt:'<path d="M13 57V12L48 5V57Z" fill="#fffaf4"/><path d="M22 18H30V27H22ZM35 18H43V27H35ZM22 34H30V43H22ZM35 34H43V43H35ZM28 57V48H38V57" fill="#c9e5fa" stroke="#2877ad"/><path d="M9 57H54" stroke="#ff5726"/>',
+roomArt:'<path d="M8 15L32 5L56 15V55H8ZM32 5V55M8 15L32 25L56 15" fill="#fffaf4"/><path d="M12 43H29V54H12ZM38 31H51V44H38Z" fill="#ffd9b2"/><path d="M13 40H27" stroke="#ff5726"/>',
+kitchenArt:'<path d="M6 26H58V57H6ZM11 35H30V57H11ZM35 35H53V57H35Z" fill="#fffaf4"/><path d="M9 26V16H55V26M20 16V8H45V16" fill="#c8e6fa"/><circle cx="19" cy="44" r="3" fill="#ff5726"/><circle cx="44" cy="44" r="3" fill="#ff5726"/><path d="M38 28H50" stroke="#ff5726"/>',
+bathroomArt:'<path d="M7 29H57V39Q57 54 45 54H19Q7 54 7 39Z" fill="#e8f7ff"/><path d="M14 54L12 59M50 54L52 59M16 29V15Q16 7 25 7Q32 7 32 15M25 16H40" /><path d="M34 21L32 26M40 21L38 26M46 21L44 26" stroke="#4b9cd2"/>',
+notebookArt:'<path d="M14 7H52V57H14Z" fill="#fffaf4"/><path d="M22 7V57M28 20H46M28 30H46M28 40H46" stroke="#6b9fcd"/><path d="M10 14H18M10 24H18M10 34H18M10 44H18" stroke="#ff5726"/>',
+teacherArt:'<circle cx="23" cy="22" r="10" fill="#fff4e9"/><path d="M9 57V48Q9 36 23 36Q37 36 37 48V57" fill="#fffaf4"/><path d="M35 11H59V39H35ZM41 21H53M41 28H49" fill="#eaf7ec"/><path d="M33 41L47 33" stroke="#ff5726"/>',
+studentArt:'<circle cx="31" cy="18" r="11" fill="#fff4e9"/><path d="M14 55V46Q14 32 31 32Q48 32 48 46V55Z" fill="#fffaf4"/><path d="M13 44L7 57M49 44L56 57M21 39H41V49H21Z" fill="#ffd9b2"/><path d="M24 15Q31 8 39 14" stroke="#ff5726"/>',
+exerciseArt:'<path d="M12 6H50V58H12Z" fill="#fffaf4"/><path d="M20 17H42M20 27H42M20 37H31M20 47H40" stroke="#83a8c6"/><path d="M34 36L39 41L49 29" stroke="#ff5726"/>',
+streetArt:'<path d="M6 57L22 7H42L58 57Z" fill="#e8eff5"/><path d="M32 15V26M32 34V45M32 52V57" stroke="#ffb63e" stroke-width="4"/><path d="M9 57H55" stroke="#ff5726"/>',
+stationArt:'<path d="M10 9H54V56H10Z" fill="#fffaf4"/><path d="M16 16H48V39H16Z" fill="#b8def6"/><path d="M17 46H47M21 56L16 61M43 56L48 61" stroke="#ff5726"/><circle cx="23" cy="47" r="3" fill="#102b50"/><circle cx="41" cy="47" r="3" fill="#102b50"/>',
+parkArt:'<path d="M32 55V31M16 55H48" /><path d="M14 34Q5 22 17 15Q17 4 30 7Q39 2 47 13Q59 16 54 30Q48 42 33 35Q22 44 14 34Z" fill="#bde8b6"/><path d="M21 22Q31 29 42 18" stroke="#ff5726"/>',
+busArt:'<path d="M9 12Q9 7 16 7H48Q55 7 55 15V51H9Z" fill="#fffaf4"/><path d="M14 16H50V35H14Z" fill="#bfe6fb"/><path d="M14 43H50M20 51V57M44 51V57" stroke="#ff5726"/><circle cx="20" cy="52" r="4" fill="#102b50"/><circle cx="44" cy="52" r="4" fill="#102b50"/>',
+carArt:'<path d="M7 37L14 21Q16 17 23 17H42Q48 17 51 23L57 37V52H7Z" fill="#fffaf4"/><path d="M18 24H44L49 35H13Z" fill="#bfe6fb"/><circle cx="18" cy="52" r="5" fill="#102b50"/><circle cx="47" cy="52" r="5" fill="#102b50"/><path d="M11 41H53" stroke="#ff5726"/>',
+walkingArt:'<circle cx="35" cy="10" r="7" fill="#fff4e9"/><path d="M33 18L24 35L37 40L46 57M24 35L11 51M30 23L17 23M33 21L45 29L54 26" /><path d="M7 30L15 27M7 39L13 37" stroke="#ff5726"/>'
+});
+const placesAndSchoolArt={'die Wohnung':'apartmentArt','das Zimmer':'roomArt','die Küche':'kitchenArt','das Bad':'bathroomArt','das Heft':'notebookArt','der Lehrer':'teacherArt','die Lehrerin':'teacherArt','der Schüler':'studentArt','die Schülerin':'studentArt','die Aufgabe':'exerciseArt','die Straße':'streetArt','der Bahnhof':'stationArt','der Park':'parkArt','der Bus':'busArt','das Auto':'carArt','zu Fuß':'walkingArt'};
+const previousDoodleWord=doodleWord;
+doodleWord=function(de){return placesAndSchoolArt[String(de).trim()]||previousDoodleWord(de)};
 function doodleIcon(kind){if(kind.startsWith('swatch:'))return illustrationSwatch(kind.slice(7));if(kind.startsWith('number:'))return illustrationNumber(kind.slice(7));if(kind==='boy'||kind==='girl')return '<img class="doodle-icon illustrated-asset" src="assets/illustrations/characters/'+kind+'.svg" alt="" loading="lazy" decoding="async">';const body=doodleShapes[kind]||doodleShapes.star;return '<svg class="doodle-icon" viewBox="0 0 64 64" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><g stroke="#102b50" stroke-width="2.9" stroke-linejoin="round" stroke-linecap="round" fill="none">'+body+'</g></svg>'}
 function doodleCategory(name){const m={'Займенники':'people','Дієслова':'run','Кольори':'palette','Числа':'numbers','Привітання':'speech','Сім’я':'people','Люди й ознаки':'smile','Їжа й напої':'apple','Дім':'house','Школа':'school','Час і дні':'clock','Питальні слова':'questionmark','Службові слова':'question','Тіло':'hand','Тварини':'cat','Місця й транспорт':'car'};return m[name]||'star'}
 /* Custom hand-drawn pronoun characters: same navy/orange illustration system. */
