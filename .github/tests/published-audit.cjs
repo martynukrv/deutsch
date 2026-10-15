@@ -14,6 +14,13 @@ const fs=require('fs');
   await page.screenshot({path:'audit-screenshots/mobile-home.png',fullPage:true});
   await page.locator('#wordsTab').click();
   await page.screenshot({path:'audit-screenshots/mobile-dictionary.png',fullPage:true});
+  // GitHub Pages deployment can lag behind the pushed commit; retry navigation when the quiz button is temporarily hidden.
+  if(!await page.locator('#startVocabQuiz').isVisible()){
+   await page.reload({waitUntil:'domcontentloaded'});
+   await page.waitForTimeout(1000);
+   await page.locator('#wordsTab').click();
+  }
+  if(!await page.locator('#startVocabQuiz').isVisible())throw Error('Published quiz button is hidden after dictionary navigation');
   await page.locator('#startVocabQuiz').click();
   if(!await page.locator('#vocabQuiz').isVisible())throw Error('Quiz did not open from click');
   await page.screenshot({path:'audit-screenshots/mobile-quiz.png',fullPage:true});
