@@ -80,6 +80,7 @@ const path = require('path');
  for(const width of [320,390,768,1280]){
   await page.setViewportSize({width,height:800});
   await page.evaluate(()=>{setMode('trainer');setMascotReaction('trainerMascot','encourage')});
+  await page.waitForFunction(()=>{const el=document.querySelector('#trainerMascot img');return el&&el.complete&&el.naturalWidth>0},{timeout:10000});
   const state=await page.evaluate(()=>{
    const el=document.querySelector('#trainerMascot img');
    const box=el.getBoundingClientRect();
