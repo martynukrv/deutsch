@@ -19,9 +19,15 @@ class ArtworkTests(unittest.TestCase):
         m = json.loads(p.read_text()); change(m); p.write_text(json.dumps(m))
     def test_originals_and_distinct_sie(self):
         pending, bindings, report = collect(self.root)
-        self.assertEqual(len(report), 15)
-        with zipfile.ZipFile(self.root / 'art-inbox/pronouns.zip') as z:
-            for dest, raw in pending.items(): self.assertEqual(raw, z.read(dest))
+        expected = {}
+        for archive in (self.root / 'art-inbox').glob('*.zip'):
+            manifest = json.loads(archive.with_suffix('.json').read_text())
+            with zipfile.ZipFile(archive) as z:
+                for item in manifest['items']:
+                    dest = 'assets/illustrations/' + manifest['category'] + '/' + Path(item['file']).name
+                    expected[dest] = z.read(item['file'])
+        self.assertEqual(pending, expected)
+        self.assertEqual(len(report), len(expected))
         entries = bindings['Займенники']
         self.assertNotEqual(entries['["sie","вона"]'], entries['["sie","вони"]'])
         main(self.root)
@@ -44,3 +50,4 @@ class ArtworkTests(unittest.TestCase):
         with self.assertRaises(ValueError): collect(self.root)
 
 if __name__ == '__main__': unittest.main()
+
