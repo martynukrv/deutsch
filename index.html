@@ -372,6 +372,19 @@ doodleWord=function(de){let w=String(de).toLowerCase().replace(/^(der|die|das|ei
 const actions={machen:'hand',sagen:'talk',fragen:'question',lieben:'heart',lachen:'smile',wohnen:'house',singen:'music',spielen:'star',tanzen:'dance',sein:'person',haben:'hand',gehen:'run',kommen:'run',sehen:'eye',hören:'head',sprechen:'talk',lernen:'book',arbeiten:'pencil',essen:'food',trinken:'cup',schlafen:'sleep',lesen:'book',schreiben:'pencil',wissen:'idea',kennen:'people',wollen:'heart',können:'star',müssen:'clock',brauchen:'hand',geben:'gift',nehmen:'hand',finden:'eye',kaufen:'bag',fahren:'car',bleiben:'house',groß:'up',klein:'down',gut:'check',schlecht:'cross',schön:'flower',alt:'clock',jung:'boy',neu:'gift',ja:'check',nein:'cross',nicht:'cross',auch:'people',sehr:'star',hier:'house',dort:'city',jetzt:'clock',immer:'clock',vielleicht:'question',und:'people',oder:'question',aber:'talk',wer:'question',was:'question',wo:'question',wohin:'question',woher:'question',wann:'clock',warum:'question',wie:'question','wie viel':'numbers'};
 if(actions[w])return actions[w];if(/^(rot|blau|grün|gelb|schwarz|weiß|grau|braun|orange|rosa|lila)$/.test(w))return'color';return previousDoodleWord(de)};
 
+
+/* Final art priority: custom word illustrations must win over legacy generic icon rules. */
+const legacyResolvedDoodleWord=doodleWord;
+doodleWord=function(de){
+ const word=String(de).trim();
+ const art=weekdayAndBodyArt[word]||grammarTimeArt[word]||greetingFamilyArt[word]||verbArt[word]||placesAndSchoolArt[word]||detailedArtMap[word];
+ if(art)return art;
+ if(Object.prototype.hasOwnProperty.call(wordSwatches,word))return 'swatch:'+wordSwatches[word];
+ if(Object.prototype.hasOwnProperty.call(wordNumbers,word))return 'number:'+wordNumbers[word];
+ const result=legacyResolvedDoodleWord(word);
+ return result==='idea'?'actKnow':result;
+};
+
 const vocabCategories=[
 {name:'Займенники',icon:'👤',note:'Особові займенники — фундамент для побудови речень.',words:[['ich','я'],['du','ти'],['er','він'],['sie','вона / вони'],['es','воно'],['wir','ми'],['ihr','ви (до кількох людей)'],['Sie','Ви (ввічливо)']]},
 {name:'Дієслова',icon:'⚡',note:'Спочатку вчи інфінітив. Форми допоможуть одразу переносити слово у тренажер.',words:[
