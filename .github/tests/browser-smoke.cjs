@@ -64,6 +64,31 @@ const path = require('path');
    if(!tasks.length||i!==0)throw new Error('New lesson session failed');
  });
  console.log('PASS incorrect answer, retry mistakes, lesson summary and restart');
+
+ // Verify both mascot moods are visible and image files resolve, including on mobile.
+ await page.evaluate(()=>{
+  setMode('trainer');
+  setMascotReaction('trainerMascot','happy');
+  if(!document.querySelector('#trainerMascot img[src$="boy-happy.svg"]'))throw Error('Correct-answer mascot missing');
+  setMascotReaction('trainerMascot','encourage');
+  if(!document.querySelector('#trainerMascot img[src$="girl-encourage.svg"]'))throw Error('Incorrect-answer mascot missing');
+  setMode('words');startVocabQuiz(false);
+  setMascotReaction('vqMascot','happy');
+  if(!document.querySelector('#vqMascot img[src$="boy-happy.svg"]'))throw Error('Quiz mascot missing');
+  endVocabQuiz();
+ });
+ for(const width of [320,390,768,1280]){
+  await page.setViewportSize({width,height:800});
+  await page.evaluate(()=>{setMode('trainer');setMascotReaction('trainerMascot','encourage')});
+  const state=await page.evaluate(()=>{
+   const el=document.querySelector('#trainerMascot img');
+   const box=el.getBoundingClientRect();
+   return {loaded:el.complete&&el.naturalWidth>0,visible:box.width>0&&box.height>0,overflow:document.documentElement.scrollWidth>document.documentElement.clientWidth+5};
+  });
+  if(!state.loaded||!state.visible||state.overflow)throw Error('Mascot layout failure at '+width+'px: '+JSON.stringify(state));
+ }
+ console.log('PASS mascot expressions and responsive visual layout');
+
  // Verify progress persists across a reload and check mobile/desktop overflow.
  const storage=await page.evaluate(()=>{setMode('words');startVocabQuiz(false);const it=vq.items[vq.index];recordVq(it,true);return {key:vqStatsKey(),word:it.w[0],value:localStorage.getItem(vqStatsKey())}});
  if(!storage.value||!JSON.parse(storage.value)[storage.word.toLocaleLowerCase('de-DE')])throw new Error('Vocabulary progress not saved');
