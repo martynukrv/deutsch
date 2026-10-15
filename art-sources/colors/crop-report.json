@@ -1,0 +1,112 @@
+[
+  {
+    "name": "rot",
+    "source_box": [
+      0,
+      0,
+      384,
+      373
+    ],
+    "sha256": "96fde1e68fc562b5747d7fc1752086feb6e71a4c7c7109303da090e0ef2830ce"
+  },
+  {
+    "name": "blau",
+    "source_box": [
+      384,
+      0,
+      768,
+      373
+    ],
+    "sha256": "76844ac43b47c7f552c86a4caf9cf220500eeba71d022c0436fd8e4ca505ff97"
+  },
+  {
+    "name": "gruen",
+    "source_box": [
+      768,
+      0,
+      1152,
+      373
+    ],
+    "sha256": "d275be7b932f268a9388827f909fd5c2b0eba8dbd971fa6506fa334c5ad0be68"
+  },
+  {
+    "name": "gelb",
+    "source_box": [
+      1152,
+      0,
+      1536,
+      373
+    ],
+    "sha256": "aa828605fc439b5c41681c8eaaaf742c4c42d3f14e5eb70275d12f8c96824f47"
+  },
+  {
+    "name": "schwarz",
+    "source_box": [
+      0,
+      373,
+      384,
+      684
+    ],
+    "sha256": "cd239f9aea745b3a826cec907c4e22290569b21c3e20b1f1e0d3f465dd0c1cd3"
+  },
+  {
+    "name": "weiss",
+    "source_box": [
+      384,
+      373,
+      768,
+      670
+    ],
+    "sha256": "ee00b4866cd2650deb55a0f873dfa8a8f904472e5210d6c252345a8e8b5f6215"
+  },
+  {
+    "name": "grau",
+    "source_box": [
+      768,
+      373,
+      1152,
+      670
+    ],
+    "sha256": "eb14f6b82cc72416505a29750a820d40479092296ee3c756efdf1313293d522f"
+  },
+  {
+    "name": "braun",
+    "source_box": [
+      1152,
+      373,
+      1536,
+      684
+    ],
+    "sha256": "c1a2d508210647ec91865d56e0ec7a906fe1b04ef417c92b781d61e60779eebd"
+  },
+  {
+    "name": "orange",
+    "source_box": [
+      0,
+      684,
+      384,
+      1024
+    ],
+    "sha256": "a71e0da026dc93778799aa3bcbc64203f00df560e5ac69160ae946dcc7acbaab"
+  },
+  {
+    "name": "rosa",
+    "source_box": [
+      384,
+      670,
+      768,
+      1024
+    ],
+    "sha256": "f84f265daf6c516629e9a6ea9c78d232a09eede75b59bece3abdc9a64619ca12"
+  },
+  {
+    "name": "lila",
+    "source_box": [
+      768,
+      670,
+      1152,
+      1024
+    ],
+    "sha256": "f57c56d0576b1cf40f9ee8df1eb3b8e77c4d93f0aec8400444fd4f18bc4e6a4f"
+  }
+]

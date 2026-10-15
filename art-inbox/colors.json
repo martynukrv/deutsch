@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "category": "colors",
+  "approved": true,
+  "items": [
+    {
+      "de": "rot",
+      "ua": "червоний",
+      "file": "assets/illustrations/colors/rot.png"
+    },
+    {
+      "de": "blau",
+      "ua": "синій",
+      "file": "assets/illustrations/colors/blau.png"
+    },
+    {
+      "de": "grün",
+      "ua": "зелений",
+      "file": "assets/illustrations/colors/gruen.png"
+    },
+    {
+      "de": "gelb",
+      "ua": "жовтий",
+      "file": "assets/illustrations/colors/gelb.png"
+    },
+    {
+      "de": "schwarz",
+      "ua": "чорний",
+      "file": "assets/illustrations/colors/schwarz.png"
+    },
+    {
+      "de": "weiß",
+      "ua": "білий",
+      "file": "assets/illustrations/colors/weiss.png"
+    },
+    {
+      "de": "grau",
+      "ua": "сірий",
+      "file": "assets/illustrations/colors/grau.png"
+    },
+    {
+      "de": "braun",
+      "ua": "коричневий",
+      "file": "assets/illustrations/colors/braun.png"
+    },
+    {
+      "de": "orange",
+      "ua": "помаранчевий",
+      "file": "assets/illustrations/colors/orange.png"
+    },
+    {
+      "de": "rosa",
+      "ua": "рожевий",
+      "file": "assets/illustrations/colors/rosa.png"
+    },
+    {
+      "de": "lila",
+      "ua": "фіолетовий",
+      "file": "assets/illustrations/colors/lila.png"
+    }
+  ]
+}
