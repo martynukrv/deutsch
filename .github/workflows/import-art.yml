@@ -1,0 +1,32 @@
+name: Import Original Artwork
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'art-inbox/*.zip'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: artwork-import-main
+  cancel-in-progress: false
+jobs:
+  import-art:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Validate and extract original transparent PNGs
+        run: python3 scripts/import_art.py
+      - name: Commit extracted artwork
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/illustrations/
+          if ! git diff --cached --quiet; then
+            git commit -m "Import original transparent artwork from ZIP archives"
+            git push
+          else
+            echo "No artwork changes to commit"
+          fi
