@@ -6,7 +6,7 @@ Palette: `#102B50`, `#FF5726`, `#FFFFFF`, `#FFF1E5`.
 
 ## Approved originals
 
-`pronouns.zip` is the original `deutsch_pronouns_for_github.zip` from the previous conversation, byte for byte. Its 15 PNGs were already cut out with transparent backgrounds. No redrawing, background removal, recoloring or recompression is applied. `pronouns.json` records their approved word/meaning bindings. In particular `sie` (she), `sie` (they), and `Sie` (formal you) are separate entries.
+`pronouns.zip` contains the corrected 15 individual PNG crops from `art-sources/pronouns/original-sheet.png`. The initial ZIP had equal-width crops that included neighboring figures and truncated compositions; it is preserved byte for byte at `art-sources/pronouns/original-package.zip`. Corrected crops retain original artwork pixels, exclude printed labels and neighboring fragments, and include a transparent margin. No redrawing or recoloring is applied. `pronouns.json` records their approved word/meaning bindings. In particular `sie` (she), `sie` (they), and `Sie` (formal you) are separate entries.
 
 ## Each next category
 
@@ -32,3 +32,4 @@ For prepared PNG ZIPs, the matching manifest is:
 ```
 
 Images must be PNG with genuinely transparent and visible pixels, 32–4096 pixels per side, at most 8 MiB each and 100 MiB unpacked per ZIP. Invalid paths, duplicate files, incomplete categories and unknown words stop publication. The runtime uses exact category + German word + Ukrainian meaning, never list position. Other categories retain their existing art until approved replacements are supplied.
+

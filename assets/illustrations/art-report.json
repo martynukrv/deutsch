@@ -4,134 +4,134 @@
     "de": "ich",
     "ua": "я",
     "path": "assets/illustrations/pronouns/ich.png",
-    "sha256": "87f10f12aef6bea5c2dd4cb6d9961bfada1d11d7c1fa2c8b9cb148a7b99626d4",
-    "width": 280,
-    "height": 260
+    "sha256": "21da3c280ad3930480b75b2eb1c32267ffe8034ac7818d8825c692167a5c60a6",
+    "width": 252,
+    "height": 272
   },
   {
     "category": "pronouns",
     "de": "du",
     "ua": "ти",
     "path": "assets/illustrations/pronouns/du.png",
-    "sha256": "cbc8ba302f1bd4ed4267182c6c360f2e31f1f348cd2d740342f050ae0ac0de70",
-    "width": 291,
-    "height": 275
+    "sha256": "ab019cf6185849d0d5b2e4f9eedff4de5680b030c8dd57dbf8e6932255069e15",
+    "width": 246,
+    "height": 276
   },
   {
     "category": "pronouns",
     "de": "er",
     "ua": "він",
     "path": "assets/illustrations/pronouns/er.png",
-    "sha256": "f7ac1373e461c372bc62ae6c7fdf3c6f88241172f65f7e141cc18f272bb68963",
-    "width": 291,
-    "height": 255
+    "sha256": "af8ad01dfe20a6a291d2eef8c9f735de78be4d2c1d347c80d464dc4385e6b9ef",
+    "width": 343,
+    "height": 260
   },
   {
     "category": "pronouns",
     "de": "sie",
     "ua": "вона",
     "path": "assets/illustrations/pronouns/sie_she.png",
-    "sha256": "d2e0c55b9df9e10369892a283822b230701aba791a256cf69ab58cc269f80adb",
-    "width": 291,
-    "height": 260
+    "sha256": "9d0016e220fc312ca3793f0caf564b898b4382b9a9d244a264feafa2fa0f97d7",
+    "width": 365,
+    "height": 263
   },
   {
     "category": "pronouns",
     "de": "es",
     "ua": "воно",
     "path": "assets/illustrations/pronouns/es.png",
-    "sha256": "37dd55a996aa112ed83058de8c858d7c15a33643e81b771f1bb198679a15992a",
-    "width": 283,
-    "height": 251
+    "sha256": "1b3f61d4b63666993908662aabaa25f908444ec565eb0a452acaa1dd649cb6b9",
+    "width": 328,
+    "height": 255
   },
   {
     "category": "pronouns",
     "de": "wir",
     "ua": "ми",
     "path": "assets/illustrations/pronouns/wir.png",
-    "sha256": "570745d541bb775886770475bc76b4e5c2e6decd87484c0436188a7e7a8d74e4",
-    "width": 282,
-    "height": 255
+    "sha256": "33afdf4f9dbe8165af0c958debb4b5c7449a8d212beb2a08a374abcf5d8d4fb9",
+    "width": 284,
+    "height": 253
   },
   {
     "category": "pronouns",
     "de": "ihr",
     "ua": "ви (до кількох людей)",
     "path": "assets/illustrations/pronouns/ihr.png",
-    "sha256": "ad8966e01820e957de1bb7dff37ca7577d226da9a1d5d6c2cda6a8c651baedd5",
-    "width": 280,
-    "height": 247
+    "sha256": "f5c70e0e6fc778b408a85e14c8e2a579a7262d2ed099cbf2761c24f381b0fe32",
+    "width": 341,
+    "height": 237
   },
   {
     "category": "pronouns",
     "de": "sie",
     "ua": "вони",
     "path": "assets/illustrations/pronouns/sie_they.png",
-    "sha256": "3f7c9b70162bfc20191a8fd6d87d7912e62433ea5edc211229c82dc3b7ac9d97",
-    "width": 291,
-    "height": 221
+    "sha256": "03392b54dff7f2a5b2c30d46d3f22e44c378de06f851d848112e605e10c3fe5f",
+    "width": 357,
+    "height": 250
   },
   {
     "category": "pronouns",
     "de": "Sie",
     "ua": "Ви (ввічливо)",
     "path": "assets/illustrations/pronouns/Sie_formal.png",
-    "sha256": "7a2361020e2ba05be083d7f5ff1d46ce049dc8d3d2c99bfd2ada70befccea66f",
-    "width": 291,
-    "height": 270
+    "sha256": "932fe702e00e6d47cc359aa00ac62cf1e9b6acf7207c4422c8a242b24f7c7c16",
+    "width": 320,
+    "height": 292
   },
   {
     "category": "pronouns",
     "de": "derjenige",
     "ua": "той, хто / який",
     "path": "assets/illustrations/pronouns/derjenige.png",
-    "sha256": "c184b2b7b3257348ad90fe50a5815555eecb1e0f75393b8f3bbde415e66b3852",
-    "width": 279,
-    "height": 234
+    "sha256": "43de2300ed8b305d8cd5d3dd4d2a4457726431c0579b00e94c2c1e2d0cd618e8",
+    "width": 329,
+    "height": 252
   },
   {
     "category": "pronouns",
     "de": "diejenige",
     "ua": "та, хто / яка",
     "path": "assets/illustrations/pronouns/diejenige.png",
-    "sha256": "97b99dd744b74b01a80a4dbed0c4cec75eee17d3d5c0b2f8a2e148a985873334",
-    "width": 282,
-    "height": 234
+    "sha256": "84345688f039ad24552a1d547b2401f6f7d0f31ba39f635927abf3d5fe618f0e",
+    "width": 317,
+    "height": 243
   },
   {
     "category": "pronouns",
     "de": "dasjenige",
     "ua": "те, що / яке",
     "path": "assets/illustrations/pronouns/dasjenige.png",
-    "sha256": "d58f78414154579da10c2270fa1138ae0a1399106336c588af010c6503e803f3",
-    "width": 281,
-    "height": 223
+    "sha256": "676660fe2c9bb79d149fa53905dd4c2160cee43f6f06a17585ef16d8fb149d3b",
+    "width": 279,
+    "height": 237
   },
   {
     "category": "pronouns",
     "de": "alle",
     "ua": "всі",
     "path": "assets/illustrations/pronouns/alle.png",
-    "sha256": "9242efefe9fe3fc737b31e47b9d773dd4a3c4fda8b9a86d9039e37a3147f97bb",
-    "width": 291,
-    "height": 276
+    "sha256": "8bf97801c79d7e9ac6521fd449365ded88e567904e4ae77ed4074a5a11103ed2",
+    "width": 404,
+    "height": 288
   },
   {
     "category": "pronouns",
     "de": "jemand",
     "ua": "хтось",
     "path": "assets/illustrations/pronouns/jemand.png",
-    "sha256": "bd113588af133f2d5c153236cfd2d23bee09c40b9a826296b6472c7e89217e59",
-    "width": 291,
-    "height": 277
+    "sha256": "d8ba2b914813f0e064f48679102a2915d1f50d381da971043b942ef83e251f85",
+    "width": 295,
+    "height": 279
   },
   {
     "category": "pronouns",
     "de": "niemand",
     "ua": "ніхто",
     "path": "assets/illustrations/pronouns/niemand.png",
-    "sha256": "022c8212c4f855864996738142f3ec92274fd30dc64e5776b05ff42cbd690659",
-    "width": 284,
-    "height": 239
+    "sha256": "afacb7afd8bcb9457998dbe2a5baad06190fc7a95b679781060888022a9359eb",
+    "width": 277,
+    "height": 242
   }
 ]
