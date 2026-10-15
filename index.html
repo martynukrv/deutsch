@@ -373,11 +373,28 @@ const actions={machen:'hand',sagen:'talk',fragen:'question',lieben:'heart',lache
 if(actions[w])return actions[w];if(/^(rot|blau|grün|gelb|schwarz|weiß|grau|braun|orange|rosa|lila)$/.test(w))return'color';return previousDoodleWord(de)};
 
 
+
+/* Final twelve vocabulary illustrations: bespoke transparent hand-drawn SVGs. */
+Object.assign(doodleShapes,{
+artLove:'<path d="M32 55L10 34Q-2 20 13 10Q24 3 32 17Q41 3 52 10Q66 20 54 34Z" fill="#ffb5a6"/><path d="M22 30L28 36L43 22" stroke="#ff5726"/>',
+artBeing:'<circle cx="32" cy="18" r="11" fill="#fff1e5"/><path d="M13 57V47Q13 32 32 32Q51 32 51 47V57Z" fill="#a8d7fa"/><path d="M26 18H28M36 18H38M28 24Q32 28 36 24" stroke="#ff5726"/>',
+artReading:'<path d="M32 16Q19 8 7 13V49Q20 44 32 54Q44 44 57 49V13Q44 8 32 16Z" fill="#fffaf4"/><path d="M32 16V54M13 23Q21 20 27 24M37 24Q44 20 51 23M13 31Q21 28 27 32M37 32Q44 28 51 31" stroke="#ff5726"/>',
+artKnowing:'<path d="M21 40Q10 32 14 19Q17 7 32 7Q47 7 50 19Q54 32 43 40L40 48H24Z" fill="#ffe3a5"/><path d="M25 53H39M28 58H36M26 27L31 33L39 22" stroke="#ff5726"/>',
+artFamily:'<circle cx="18" cy="20" r="9" fill="#fff1e5"/><circle cx="46" cy="20" r="9" fill="#fff1e5"/><circle cx="32" cy="37" r="8" fill="#fff1e5"/><path d="M3 51Q3 34 18 34Q25 34 28 39M61 51Q61 34 46 34Q39 34 36 39M20 58Q20 46 32 46Q44 46 44 58" fill="#ffcfad"/><path d="M12 20H14M49 20H51" stroke="#ff5726"/>',
+artChild:'<circle cx="32" cy="19" r="12" fill="#fff1e5"/><path d="M17 56V43Q17 34 32 34Q47 34 47 43V56Z" fill="#ffb66b"/><path d="M21 15Q24 5 35 8Q44 8 44 17M26 21H28M36 21H38M28 27Q32 30 36 27" stroke="#ff5726"/>',
+artFriend:'<circle cx="20" cy="20" r="10" fill="#fff1e5"/><circle cx="45" cy="20" r="10" fill="#fff1e5"/><path d="M4 57V46Q4 33 20 33Q32 33 32 46V57ZM33 57V46Q33 33 45 33Q60 33 60 46V57Z" fill="#a8d7fa"/><path d="M25 42Q32 35 39 42M26 22Q20 28 15 22M50 22Q45 28 40 22" stroke="#ff5726"/>',
+artHouse:'<path d="M8 28L32 7L56 28V56H8Z" fill="#fffaf4"/><path d="M4 30L32 5L60 30M26 56V37H38V56M14 34H22V43H14M43 34H51V43H43" stroke="#ff5726"/>',
+artSchool:'<path d="M7 25L32 8L57 25V57H7Z" fill="#fffaf4"/><path d="M4 25L32 6L60 25M27 57V40H37V57M15 32H23V39H15M42 32H50V39H42M32 14V29M25 21H39" stroke="#ff5726"/>',
+artBook:'<path d="M32 17Q18 10 7 15V51Q19 46 32 55Q45 46 57 51V15Q45 10 32 17Z" fill="#fffaf4"/><path d="M32 17V55M13 25H25M39 25H51M13 34H25M39 34H51M13 43H25M39 43H51" stroke="#ff5726"/>',
+artQuestion:'<path d="M7 12H57V48H38L28 57V48H7Z" fill="#fffaf4"/><path d="M24 24Q25 16 33 16Q43 16 42 26Q41 31 33 34V39M33 44V45" stroke="#ff5726"/>',
+artAnswer:'<path d="M7 12H57V48H38L28 57V48H7Z" fill="#fffaf4"/><path d="M18 30L28 39L46 21" stroke="#ff5726"/>'
+});
+const finalTwelveWordArt={'lieben':'artLove','sein':'artBeing','lesen':'artReading','kennen':'artKnowing','die Familie':'artFamily','das Kind':'artChild','der Freund':'artFriend','das Haus':'artHouse','die Schule':'artSchool','das Buch':'artBook','die Frage':'artQuestion','die Antwort':'artAnswer'};
 /* Final art priority: custom word illustrations must win over legacy generic icon rules. */
 const legacyResolvedDoodleWord=doodleWord;
 doodleWord=function(de){
  const word=String(de).trim();
- const art=weekdayAndBodyArt[word]||grammarTimeArt[word]||greetingFamilyArt[word]||verbArt[word]||placesAndSchoolArt[word]||detailedArtMap[word];
+ const art=finalTwelveWordArt[word]||weekdayAndBodyArt[word]||grammarTimeArt[word]||greetingFamilyArt[word]||verbArt[word]||placesAndSchoolArt[word]||detailedArtMap[word];
  if(art)return art;
  if(Object.prototype.hasOwnProperty.call(wordSwatches,word))return 'swatch:'+wordSwatches[word];
  if(Object.prototype.hasOwnProperty.call(wordNumbers,word))return 'number:'+wordNumbers[word];
