@@ -1,93 +1,100 @@
 #!/usr/bin/env python3
-"""Import transparent artwork ZIPs from art-inbox/ into the live site.
-
-Archive layout:
-  pronouns.zip -> assets/illustrations/pronouns/<image>.png
-  animals.zip  -> assets/illustrations/animals/<image>.png
-  OR archive may contain assets/illustrations/<category>/<image>.png.
-No image is redrawn, recompressed, or recolored.
-"""
-from pathlib import Path
+"""Validate approved art packages, preserve PNG bytes, generate exact word bindings."""
+import hashlib
+import io
+import json
+from pathlib import Path, PurePosixPath
 import re
-import struct
-import sys
 import zipfile
+from PIL import Image
 
 ROOT = Path(__file__).resolve().parents[1]
-INBOX = ROOT / "art-inbox"
-OUT = ROOT / "assets" / "illustrations"
-CATEGORIES = {
-    "pronouns", "verbs", "colors", "numbers", "greetings", "family",
-    "people", "food", "home", "school", "time", "questions", "grammar",
-    "body", "animals", "places", "transport", "lessons",
-}
-PRONOUNS = {
-    "ich", "du", "er", "sie_she", "es", "wir", "ihr", "sie_they",
-    "Sie_formal", "derjenige", "diejenige", "dasjenige", "alle",
-    "jemand", "niemand",
-}
 
-def png_info(raw: bytes):
-    if len(raw) < 33 or raw[:8] != b"\x89PNG\r\n\x1a\n" or raw[12:16] != b"IHDR":
-        raise ValueError("Not a PNG")
-    width, height = struct.unpack(">II", raw[16:24])
-    color_type = raw[25]
-    if not (32 <= width <= 4096 and 32 <= height <= 4096):
-        raise ValueError(f"Invalid image size: {width}x{height}")
-    if color_type not in (4, 6) and b"tRNS" not in raw:
-        raise ValueError("PNG lacks alpha channel/transparency")
-    return width, height
+def png_info(raw):
+    with Image.open(io.BytesIO(raw)) as im:
+        if im.format != 'PNG' or not all(32 <= n <= 4096 for n in im.size):
+            raise ValueError('Expected PNG between 32 and 4096 pixels per side')
+        im.load()
+        alpha = im.convert('RGBA').getchannel('A')
+        if alpha.getextrema()[0] == 255 or alpha.getextrema()[1] == 0:
+            raise ValueError('Artwork must contain both visible and transparent pixels')
+        return im.size
 
-def target_for(name: str, archive: Path):
-    path = Path(name.replace("\\", "/"))
-    if path.is_absolute() or ".." in path.parts:
-        raise ValueError("Unsafe archive path")
-    parts = list(path.parts)
-    if len(parts) >= 4 and parts[:2] == ["assets", "illustrations"]:
-        category = parts[2]
-        filename = parts[-1]
-    else:
-        category = archive.stem.lower().replace("_", "-")
-        if category.endswith("-transparent"):
-            category = category[:-12]
-        if category.startswith("deutsch-"):
-            category = category[8:]
-        if category.startswith("pronouns"):
-            category = "pronouns"
-        filename = parts[-1]
-    if category not in CATEGORIES:
-        raise ValueError(f"Unknown category '{category}' in {archive.name}")
-    if not re.fullmatch(r"[A-Za-z0-9_-]+\.png", filename):
-        raise ValueError(f"Invalid filename: {filename}")
-    if category == "pronouns" and Path(filename).stem not in PRONOUNS:
-        raise ValueError(f"Unknown pronoun asset: {filename}")
-    return OUT / category / filename
-
-def main():
-    archives = sorted(INBOX.glob("*.zip"))
-    if not archives:
-        print("No art ZIP archives in art-inbox/")
-        return
-    imported = []
-    for archive in archives:
+def collect(root):
+    inbox = root / 'art-inbox'
+    catalog = json.loads((inbox / 'catalog.json').read_text())
+    pending, bindings, report = {}, {}, []
+    for archive in sorted(inbox.glob('*.zip')):
+        manifest_path = archive.with_suffix('.json')
+        if not manifest_path.exists():
+            raise ValueError(f'Missing approval manifest: {manifest_path.name}')
+        manifest = json.loads(manifest_path.read_text())
+        if manifest.get('approved') is not True:
+            raise ValueError(f'Artwork is awaiting artistic approval: {archive.name}')
+        category = manifest['category']
+        if category not in catalog['categories'] or not re.fullmatch(r'[a-z]+', category):
+            raise ValueError(f'Unknown category: {category}')
+        spec = catalog['categories'][category]
+        if spec['name'] in bindings:
+            raise ValueError(f'Duplicate category: {category}')
+        expected = {(w['de'], w['ua']) for w in spec['words']}
+        mapped, seen_files = {}, set()
         with zipfile.ZipFile(archive) as z:
-            for info in z.infolist():
-                if info.is_dir() or info.filename.startswith("__MACOSX/"):
+            entries = {}
+            total = 0
+            for entry in z.infolist():
+                if entry.is_dir():
                     continue
-                if not info.filename.lower().endswith(".png"):
-                    raise ValueError(f"Only PNG files are allowed: {info.filename}")
-                if info.file_size > 8 * 1024 * 1024:
-                    raise ValueError(f"File exceeds 8 MB: {info.filename}")
-                dest = target_for(info.filename, archive)
-                raw = z.read(info)
-                size = png_info(raw)
-                dest.parent.mkdir(parents=True, exist_ok=True)
-                dest.write_bytes(raw)
-                imported.append(str(dest.relative_to(ROOT)))
-                print(f"Imported {dest.relative_to(ROOT)} ({size[0]}x{size[1]})")
-    print(f"Imported {len(imported)} original PNGs; no image modifications.")
-    if not imported:
-        raise ValueError("Archives contain no PNG images")
+                path = PurePosixPath(entry.filename)
+                if path.is_absolute() or '..' in path.parts or '\\' in entry.filename:
+                    raise ValueError('Unsafe ZIP path')
+                if entry.filename.startswith('__MACOSX/'):
+                    continue
+                if entry.filename in entries or entry.file_size > 8 * 1024 * 1024:
+                    raise ValueError('Duplicate or oversized ZIP entry')
+                total += entry.file_size
+                if total > 100 * 1024 * 1024 or path.suffix.lower() != '.png':
+                    raise ValueError('ZIP must contain only PNGs, at most 100 MiB total')
+                entries[entry.filename] = entry
+            for item in manifest['items']:
+                key = (item['de'], item['ua'])
+                encoded = json.dumps(key, ensure_ascii=False, separators=(',', ':'))
+                if key not in expected or encoded in mapped:
+                    raise ValueError(f'Unknown or duplicate word: {key}')
+                filename = item['file']
+                if filename not in entries or filename in seen_files:
+                    raise ValueError(f'Missing or reused PNG: {filename}')
+                basename = PurePosixPath(filename).name
+                if not re.fullmatch(r'[A-Za-z0-9_-]+\.png', basename):
+                    raise ValueError(f'Invalid PNG filename: {basename}')
+                dest = f'assets/illustrations/{category}/{basename}'
+                if dest in pending:
+                    raise ValueError(f'Duplicate output: {dest}')
+                raw = z.read(entries[filename])
+                width, height = png_info(raw)
+                digest = hashlib.sha256(raw).hexdigest()
+                pending[dest] = raw
+                mapped[encoded] = dest + '?v=' + digest[:12]
+                seen_files.add(filename)
+                report.append({'category': category, 'de': key[0], 'ua': key[1],
+                               'path': dest, 'sha256': digest, 'width': width, 'height': height})
+            if set(entries) != seen_files or len(mapped) != len(expected):
+                raise ValueError(f'Incomplete word/image coverage in {archive.name}')
+        bindings[spec['name']] = mapped
+    return pending, bindings, report
 
-if __name__ == "__main__":
+def main(root=ROOT):
+    pending, bindings, report = collect(root)
+    # Validate every archive before making any changes.
+    for dest, raw in pending.items():
+        path = root / dest
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_bytes(raw)
+    out = root / 'assets/illustrations'
+    out.mkdir(parents=True, exist_ok=True)
+    (out / 'word-art.js').write_text('/* Generated by scripts/import_art.py. */\nwindow.DEUTSCH_WORD_ART = ' + json.dumps(bindings, ensure_ascii=False, sort_keys=True) + ';\n')
+    (out / 'art-report.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n')
+    print(f'Validated and imported {len(pending)} original PNGs; {len(bindings)} approved categories.')
+
+if __name__ == '__main__':
     main()

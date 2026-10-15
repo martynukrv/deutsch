@@ -1,0 +1,971 @@
+{
+  "version": 1,
+  "palette": [
+    "#102B50",
+    "#FF5726",
+    "#FFFFFF",
+    "#FFF1E5"
+  ],
+  "categories": {
+    "pronouns": {
+      "name": "Займенники",
+      "words": [
+        {
+          "de": "ich",
+          "ua": "я"
+        },
+        {
+          "de": "du",
+          "ua": "ти"
+        },
+        {
+          "de": "er",
+          "ua": "він"
+        },
+        {
+          "de": "sie",
+          "ua": "вона"
+        },
+        {
+          "de": "es",
+          "ua": "воно"
+        },
+        {
+          "de": "wir",
+          "ua": "ми"
+        },
+        {
+          "de": "ihr",
+          "ua": "ви (до кількох людей)"
+        },
+        {
+          "de": "sie",
+          "ua": "вони"
+        },
+        {
+          "de": "Sie",
+          "ua": "Ви (ввічливо)"
+        },
+        {
+          "de": "derjenige",
+          "ua": "той, хто / який"
+        },
+        {
+          "de": "diejenige",
+          "ua": "та, хто / яка"
+        },
+        {
+          "de": "dasjenige",
+          "ua": "те, що / яке"
+        },
+        {
+          "de": "alle",
+          "ua": "всі"
+        },
+        {
+          "de": "jemand",
+          "ua": "хтось"
+        },
+        {
+          "de": "niemand",
+          "ua": "ніхто"
+        }
+      ]
+    },
+    "verbs": {
+      "name": "Дієслова",
+      "words": [
+        {
+          "de": "machen",
+          "ua": "робити"
+        },
+        {
+          "de": "sagen",
+          "ua": "казати"
+        },
+        {
+          "de": "fragen",
+          "ua": "питати"
+        },
+        {
+          "de": "lieben",
+          "ua": "любити"
+        },
+        {
+          "de": "lachen",
+          "ua": "сміятися"
+        },
+        {
+          "de": "wohnen",
+          "ua": "жити / мешкати"
+        },
+        {
+          "de": "singen",
+          "ua": "співати"
+        },
+        {
+          "de": "spielen",
+          "ua": "грати"
+        },
+        {
+          "de": "tanzen",
+          "ua": "танцювати"
+        },
+        {
+          "de": "sein",
+          "ua": "бути"
+        },
+        {
+          "de": "haben",
+          "ua": "мати"
+        },
+        {
+          "de": "gehen",
+          "ua": "йти"
+        },
+        {
+          "de": "kommen",
+          "ua": "приходити"
+        },
+        {
+          "de": "sehen",
+          "ua": "бачити"
+        },
+        {
+          "de": "hören",
+          "ua": "чути / слухати"
+        },
+        {
+          "de": "sprechen",
+          "ua": "говорити"
+        },
+        {
+          "de": "lernen",
+          "ua": "вчити / вивчати"
+        },
+        {
+          "de": "arbeiten",
+          "ua": "працювати"
+        },
+        {
+          "de": "essen",
+          "ua": "їсти"
+        },
+        {
+          "de": "trinken",
+          "ua": "пити"
+        },
+        {
+          "de": "schlafen",
+          "ua": "спати"
+        },
+        {
+          "de": "lesen",
+          "ua": "читати"
+        },
+        {
+          "de": "schreiben",
+          "ua": "писати"
+        },
+        {
+          "de": "wissen",
+          "ua": "знати (факт)"
+        },
+        {
+          "de": "kennen",
+          "ua": "знати / бути знайомим"
+        },
+        {
+          "de": "wollen",
+          "ua": "хотіти"
+        },
+        {
+          "de": "können",
+          "ua": "могти / вміти"
+        },
+        {
+          "de": "müssen",
+          "ua": "мусити"
+        },
+        {
+          "de": "brauchen",
+          "ua": "потребувати"
+        },
+        {
+          "de": "geben",
+          "ua": "давати"
+        },
+        {
+          "de": "nehmen",
+          "ua": "брати"
+        },
+        {
+          "de": "finden",
+          "ua": "знаходити"
+        },
+        {
+          "de": "kaufen",
+          "ua": "купувати"
+        },
+        {
+          "de": "fahren",
+          "ua": "їхати"
+        },
+        {
+          "de": "bleiben",
+          "ua": "залишатися"
+        }
+      ]
+    },
+    "colors": {
+      "name": "Кольори",
+      "words": [
+        {
+          "de": "rot",
+          "ua": "червоний"
+        },
+        {
+          "de": "blau",
+          "ua": "синій"
+        },
+        {
+          "de": "grün",
+          "ua": "зелений"
+        },
+        {
+          "de": "gelb",
+          "ua": "жовтий"
+        },
+        {
+          "de": "schwarz",
+          "ua": "чорний"
+        },
+        {
+          "de": "weiß",
+          "ua": "білий"
+        },
+        {
+          "de": "grau",
+          "ua": "сірий"
+        },
+        {
+          "de": "braun",
+          "ua": "коричневий"
+        },
+        {
+          "de": "orange",
+          "ua": "помаранчевий"
+        },
+        {
+          "de": "rosa",
+          "ua": "рожевий"
+        },
+        {
+          "de": "lila",
+          "ua": "фіолетовий"
+        }
+      ]
+    },
+    "numbers": {
+      "name": "Числа",
+      "words": [
+        {
+          "de": "null",
+          "ua": "0"
+        },
+        {
+          "de": "eins",
+          "ua": "1"
+        },
+        {
+          "de": "zwei",
+          "ua": "2"
+        },
+        {
+          "de": "drei",
+          "ua": "3"
+        },
+        {
+          "de": "vier",
+          "ua": "4"
+        },
+        {
+          "de": "fünf",
+          "ua": "5"
+        },
+        {
+          "de": "sechs",
+          "ua": "6"
+        },
+        {
+          "de": "sieben",
+          "ua": "7"
+        },
+        {
+          "de": "acht",
+          "ua": "8"
+        },
+        {
+          "de": "neun",
+          "ua": "9"
+        },
+        {
+          "de": "zehn",
+          "ua": "10"
+        },
+        {
+          "de": "elf",
+          "ua": "11"
+        },
+        {
+          "de": "zwölf",
+          "ua": "12"
+        },
+        {
+          "de": "dreizehn",
+          "ua": "13"
+        },
+        {
+          "de": "vierzehn",
+          "ua": "14"
+        },
+        {
+          "de": "fünfzehn",
+          "ua": "15"
+        },
+        {
+          "de": "sechzehn",
+          "ua": "16"
+        },
+        {
+          "de": "siebzehn",
+          "ua": "17"
+        },
+        {
+          "de": "achtzehn",
+          "ua": "18"
+        },
+        {
+          "de": "neunzehn",
+          "ua": "19"
+        },
+        {
+          "de": "zwanzig",
+          "ua": "20"
+        },
+        {
+          "de": "dreißig",
+          "ua": "30"
+        },
+        {
+          "de": "vierzig",
+          "ua": "40"
+        },
+        {
+          "de": "fünfzig",
+          "ua": "50"
+        },
+        {
+          "de": "hundert",
+          "ua": "100"
+        }
+      ]
+    },
+    "greetings": {
+      "name": "Привітання",
+      "words": [
+        {
+          "de": "Hallo!",
+          "ua": "Привіт!"
+        },
+        {
+          "de": "Guten Morgen!",
+          "ua": "Добрий ранок!"
+        },
+        {
+          "de": "Guten Tag!",
+          "ua": "Добрий день!"
+        },
+        {
+          "de": "Guten Abend!",
+          "ua": "Добрий вечір!"
+        },
+        {
+          "de": "Tschüss!",
+          "ua": "Бувай!"
+        },
+        {
+          "de": "Auf Wiedersehen!",
+          "ua": "До побачення!"
+        },
+        {
+          "de": "Danke!",
+          "ua": "Дякую!"
+        },
+        {
+          "de": "Bitte!",
+          "ua": "Будь ласка!"
+        },
+        {
+          "de": "Entschuldigung!",
+          "ua": "Перепрошую!"
+        },
+        {
+          "de": "Wie geht's?",
+          "ua": "Як справи?"
+        },
+        {
+          "de": "Gut, danke.",
+          "ua": "Добре, дякую."
+        }
+      ]
+    },
+    "family": {
+      "name": "Сім’я",
+      "words": [
+        {
+          "de": "die Mutter",
+          "ua": "мама"
+        },
+        {
+          "de": "der Vater",
+          "ua": "тато"
+        },
+        {
+          "de": "die Eltern",
+          "ua": "батьки"
+        },
+        {
+          "de": "der Bruder",
+          "ua": "брат"
+        },
+        {
+          "de": "die Schwester",
+          "ua": "сестра"
+        },
+        {
+          "de": "der Sohn",
+          "ua": "син"
+        },
+        {
+          "de": "die Tochter",
+          "ua": "донька"
+        },
+        {
+          "de": "die Oma",
+          "ua": "бабуся"
+        },
+        {
+          "de": "der Opa",
+          "ua": "дідусь"
+        },
+        {
+          "de": "die Familie",
+          "ua": "сім’я"
+        }
+      ]
+    },
+    "people": {
+      "name": "Люди й ознаки",
+      "words": [
+        {
+          "de": "der Mann",
+          "ua": "чоловік"
+        },
+        {
+          "de": "die Frau",
+          "ua": "жінка"
+        },
+        {
+          "de": "das Kind",
+          "ua": "дитина"
+        },
+        {
+          "de": "der Junge",
+          "ua": "хлопчик"
+        },
+        {
+          "de": "das Mädchen",
+          "ua": "дівчинка"
+        },
+        {
+          "de": "der Freund",
+          "ua": "друг"
+        },
+        {
+          "de": "groß",
+          "ua": "великий / високий"
+        },
+        {
+          "de": "klein",
+          "ua": "малий"
+        },
+        {
+          "de": "gut",
+          "ua": "добрий / добре"
+        },
+        {
+          "de": "schlecht",
+          "ua": "поганий / погано"
+        },
+        {
+          "de": "schön",
+          "ua": "гарний"
+        },
+        {
+          "de": "alt",
+          "ua": "старий"
+        },
+        {
+          "de": "jung",
+          "ua": "молодий"
+        },
+        {
+          "de": "neu",
+          "ua": "новий"
+        }
+      ]
+    },
+    "food": {
+      "name": "Їжа й напої",
+      "words": [
+        {
+          "de": "das Wasser",
+          "ua": "вода"
+        },
+        {
+          "de": "das Brot",
+          "ua": "хліб"
+        },
+        {
+          "de": "die Milch",
+          "ua": "молоко"
+        },
+        {
+          "de": "der Kaffee",
+          "ua": "кава"
+        },
+        {
+          "de": "der Tee",
+          "ua": "чай"
+        },
+        {
+          "de": "der Apfel",
+          "ua": "яблуко"
+        },
+        {
+          "de": "die Banane",
+          "ua": "банан"
+        },
+        {
+          "de": "das Fleisch",
+          "ua": "м’ясо"
+        },
+        {
+          "de": "der Käse",
+          "ua": "сир"
+        },
+        {
+          "de": "das Ei",
+          "ua": "яйце"
+        },
+        {
+          "de": "das Gemüse",
+          "ua": "овочі"
+        },
+        {
+          "de": "das Obst",
+          "ua": "фрукти"
+        }
+      ]
+    },
+    "home": {
+      "name": "Дім",
+      "words": [
+        {
+          "de": "das Haus",
+          "ua": "будинок"
+        },
+        {
+          "de": "die Wohnung",
+          "ua": "квартира"
+        },
+        {
+          "de": "das Zimmer",
+          "ua": "кімната"
+        },
+        {
+          "de": "die Tür",
+          "ua": "двері"
+        },
+        {
+          "de": "das Fenster",
+          "ua": "вікно"
+        },
+        {
+          "de": "der Tisch",
+          "ua": "стіл"
+        },
+        {
+          "de": "der Stuhl",
+          "ua": "стілець"
+        },
+        {
+          "de": "das Bett",
+          "ua": "ліжко"
+        },
+        {
+          "de": "die Küche",
+          "ua": "кухня"
+        },
+        {
+          "de": "das Bad",
+          "ua": "ванна кімната"
+        }
+      ]
+    },
+    "school": {
+      "name": "Школа",
+      "words": [
+        {
+          "de": "die Schule",
+          "ua": "школа"
+        },
+        {
+          "de": "der Lehrer",
+          "ua": "вчитель"
+        },
+        {
+          "de": "die Lehrerin",
+          "ua": "вчителька"
+        },
+        {
+          "de": "der Schüler",
+          "ua": "учень"
+        },
+        {
+          "de": "die Schülerin",
+          "ua": "учениця"
+        },
+        {
+          "de": "das Buch",
+          "ua": "книга"
+        },
+        {
+          "de": "das Heft",
+          "ua": "зошит"
+        },
+        {
+          "de": "der Stift",
+          "ua": "ручка / олівець"
+        },
+        {
+          "de": "die Aufgabe",
+          "ua": "завдання"
+        },
+        {
+          "de": "die Frage",
+          "ua": "питання"
+        },
+        {
+          "de": "die Antwort",
+          "ua": "відповідь"
+        }
+      ]
+    },
+    "time": {
+      "name": "Час і дні",
+      "words": [
+        {
+          "de": "heute",
+          "ua": "сьогодні"
+        },
+        {
+          "de": "morgen",
+          "ua": "завтра"
+        },
+        {
+          "de": "gestern",
+          "ua": "вчора"
+        },
+        {
+          "de": "der Morgen",
+          "ua": "ранок"
+        },
+        {
+          "de": "der Abend",
+          "ua": "вечір"
+        },
+        {
+          "de": "die Nacht",
+          "ua": "ніч"
+        },
+        {
+          "de": "Montag",
+          "ua": "понеділок"
+        },
+        {
+          "de": "Dienstag",
+          "ua": "вівторок"
+        },
+        {
+          "de": "Mittwoch",
+          "ua": "середа"
+        },
+        {
+          "de": "Donnerstag",
+          "ua": "четвер"
+        },
+        {
+          "de": "Freitag",
+          "ua": "п’ятниця"
+        },
+        {
+          "de": "Samstag",
+          "ua": "субота"
+        },
+        {
+          "de": "Sonntag",
+          "ua": "неділя"
+        },
+        {
+          "de": "die Stunde",
+          "ua": "година"
+        },
+        {
+          "de": "die Minute",
+          "ua": "хвилина"
+        }
+      ]
+    },
+    "questions": {
+      "name": "Питальні слова",
+      "words": [
+        {
+          "de": "wer",
+          "ua": "хто"
+        },
+        {
+          "de": "was",
+          "ua": "що"
+        },
+        {
+          "de": "wo",
+          "ua": "де"
+        },
+        {
+          "de": "wohin",
+          "ua": "куди"
+        },
+        {
+          "de": "woher",
+          "ua": "звідки"
+        },
+        {
+          "de": "wann",
+          "ua": "коли"
+        },
+        {
+          "de": "warum",
+          "ua": "чому"
+        },
+        {
+          "de": "wie",
+          "ua": "як"
+        },
+        {
+          "de": "wie viel",
+          "ua": "скільки"
+        }
+      ]
+    },
+    "grammar": {
+      "name": "Службові слова",
+      "words": [
+        {
+          "de": "ja",
+          "ua": "так"
+        },
+        {
+          "de": "nein",
+          "ua": "ні"
+        },
+        {
+          "de": "nicht",
+          "ua": "не"
+        },
+        {
+          "de": "auch",
+          "ua": "також"
+        },
+        {
+          "de": "sehr",
+          "ua": "дуже"
+        },
+        {
+          "de": "hier",
+          "ua": "тут"
+        },
+        {
+          "de": "dort",
+          "ua": "там"
+        },
+        {
+          "de": "jetzt",
+          "ua": "зараз"
+        },
+        {
+          "de": "immer",
+          "ua": "завжди"
+        },
+        {
+          "de": "vielleicht",
+          "ua": "можливо"
+        },
+        {
+          "de": "und",
+          "ua": "і"
+        },
+        {
+          "de": "oder",
+          "ua": "або"
+        },
+        {
+          "de": "aber",
+          "ua": "але"
+        }
+      ]
+    },
+    "body": {
+      "name": "Тіло",
+      "words": [
+        {
+          "de": "der Kopf",
+          "ua": "голова"
+        },
+        {
+          "de": "die Hand",
+          "ua": "рука / кисть"
+        },
+        {
+          "de": "der Arm",
+          "ua": "рука"
+        },
+        {
+          "de": "das Bein",
+          "ua": "нога"
+        },
+        {
+          "de": "der Fuß",
+          "ua": "стопа"
+        },
+        {
+          "de": "das Auge",
+          "ua": "око"
+        },
+        {
+          "de": "das Ohr",
+          "ua": "вухо"
+        },
+        {
+          "de": "der Mund",
+          "ua": "рот"
+        },
+        {
+          "de": "die Nase",
+          "ua": "ніс"
+        },
+        {
+          "de": "der Bauch",
+          "ua": "живіт"
+        }
+      ]
+    },
+    "animals": {
+      "name": "Тварини",
+      "words": [
+        {
+          "de": "der Hund",
+          "ua": "собака"
+        },
+        {
+          "de": "die Katze",
+          "ua": "кіт / кішка"
+        },
+        {
+          "de": "der Vogel",
+          "ua": "птах"
+        },
+        {
+          "de": "der Fisch",
+          "ua": "риба"
+        },
+        {
+          "de": "das Pferd",
+          "ua": "кінь"
+        },
+        {
+          "de": "die Maus",
+          "ua": "миша"
+        },
+        {
+          "de": "der Hase",
+          "ua": "заєць / кролик"
+        },
+        {
+          "de": "die Kuh",
+          "ua": "корова"
+        },
+        {
+          "de": "das Schwein",
+          "ua": "свиня"
+        }
+      ]
+    },
+    "places": {
+      "name": "Місця й транспорт",
+      "words": [
+        {
+          "de": "die Stadt",
+          "ua": "місто"
+        },
+        {
+          "de": "die Straße",
+          "ua": "вулиця"
+        },
+        {
+          "de": "das Geschäft",
+          "ua": "магазин"
+        },
+        {
+          "de": "der Bahnhof",
+          "ua": "вокзал"
+        },
+        {
+          "de": "der Park",
+          "ua": "парк"
+        },
+        {
+          "de": "das Auto",
+          "ua": "автомобіль"
+        },
+        {
+          "de": "der Bus",
+          "ua": "автобус"
+        },
+        {
+          "de": "der Zug",
+          "ua": "поїзд"
+        },
+        {
+          "de": "das Fahrrad",
+          "ua": "велосипед"
+        },
+        {
+          "de": "zu Fuß",
+          "ua": "пішки"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "category": "pronouns",
+  "approved": true,
+  "items": [
+    {
+      "de": "ich",
+      "ua": "я",
+      "file": "assets/illustrations/pronouns/ich.png"
+    },
+    {
+      "de": "du",
+      "ua": "ти",
+      "file": "assets/illustrations/pronouns/du.png"
+    },
+    {
+      "de": "er",
+      "ua": "він",
+      "file": "assets/illustrations/pronouns/er.png"
+    },
+    {
+      "de": "sie",
+      "ua": "вона",
+      "file": "assets/illustrations/pronouns/sie_she.png"
+    },
+    {
+      "de": "es",
+      "ua": "воно",
+      "file": "assets/illustrations/pronouns/es.png"
+    },
+    {
+      "de": "wir",
+      "ua": "ми",
+      "file": "assets/illustrations/pronouns/wir.png"
+    },
+    {
+      "de": "ihr",
+      "ua": "ви (до кількох людей)",
+      "file": "assets/illustrations/pronouns/ihr.png"
+    },
+    {
+      "de": "sie",
+      "ua": "вони",
+      "file": "assets/illustrations/pronouns/sie_they.png"
+    },
+    {
+      "de": "Sie",
+      "ua": "Ви (ввічливо)",
+      "file": "assets/illustrations/pronouns/Sie_formal.png"
+    },
+    {
+      "de": "derjenige",
+      "ua": "той, хто / який",
+      "file": "assets/illustrations/pronouns/derjenige.png"
+    },
+    {
+      "de": "diejenige",
+      "ua": "та, хто / яка",
+      "file": "assets/illustrations/pronouns/diejenige.png"
+    },
+    {
+      "de": "dasjenige",
+      "ua": "те, що / яке",
+      "file": "assets/illustrations/pronouns/dasjenige.png"
+    },
+    {
+      "de": "alle",
+      "ua": "всі",
+      "file": "assets/illustrations/pronouns/alle.png"
+    },
+    {
+      "de": "jemand",
+      "ua": "хтось",
+      "file": "assets/illustrations/pronouns/jemand.png"
+    },
+    {
+      "de": "niemand",
+      "ua": "ніхто",
+      "file": "assets/illustrations/pronouns/niemand.png"
+    }
+  ]
+}

@@ -3,30 +3,69 @@ on:
   push:
     branches: [main]
     paths:
-      - 'art-inbox/*.zip'
+      - 'art-inbox/**'
+      - 'scripts/**'
+      - 'assets/illustrations/**'
+      - 'index.html'
+      - '.github/workflows/import-art.yml'
+      - '.github/tests/artwork.cjs'
   workflow_dispatch:
 permissions:
   contents: write
+  pages: write
+  id-token: write
 concurrency:
   group: artwork-import-main
   cancel-in-progress: false
 jobs:
   import-art:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          persist-credentials: true
-      - name: Validate and extract original transparent PNGs
+          python-version: '3.12'
+      - run: pip install Pillow==11.3.0
+      - name: Validate and import approved originals
         run: python3 scripts/import_art.py
-      - name: Commit extracted artwork
+      - name: Test import failures and original bytes
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install browser
+        run: |
+          npm install --no-save playwright@1.56.1
+          npx playwright install --with-deps chromium
+      - name: Verify artwork bindings and mobile layouts
+        run: node .github/tests/artwork.cjs
+      - name: Verify app behavior
+        run: node .github/tests/browser-smoke.cjs
+      - name: Commit validated artwork and bindings
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/illustrations/
           if ! git diff --cached --quiet; then
-            git commit -m "Import original transparent artwork from ZIP archives"
+            git commit -m "Import approved original artwork and exact word bindings"
             git push
-          else
-            echo "No artwork changes to commit"
           fi
+      - name: Stage public site
+        run: |
+          mkdir _site
+          cp index.html _site/
+          cp -r assets audio _site/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Publish validated site
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Verify published artwork
+        env:
+          ART_SITE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: node .github/tests/artwork.cjs
