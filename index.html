@@ -270,6 +270,30 @@ gBut:'<path d="M9 31H54M45 22L54 31L45 40" /><path d="M32 15V47" stroke="#ff5726
 const grammarTimeArt={heute:'timeToday',morgen:'timeTomorrow',gestern:'timeYesterday','der Morgen':'timeMorning','der Abend':'timeEvening','die Nacht':'timeNight','die Stunde':'timeHour','die Minute':'timeMinute',wer:'qWho',was:'qWhat',wo:'qWhere',wohin:'qToWhere',woher:'qFromWhere',wann:'qWhen',warum:'qWhy',wie:'qHow','wie viel':'qHowMuch',ja:'gYes',nein:'gNo',nicht:'gNot',auch:'gAlso',sehr:'gVery',hier:'gHere',dort:'gThere',jetzt:'gNow',immer:'gAlways',vielleicht:'gMaybe',und:'gAnd',oder:'gOr',aber:'gBut'};
 const priorGrammarWord=doodleWord;
 doodleWord=function(de){return grammarTimeArt[String(de).trim()]||priorGrammarWord(de)};
+
+/* Seven individual weekday calendar stickers and distinct body anatomy art. */
+Object.assign(doodleShapes,{
+weekdayMon:'<path d="M9 12H55V56H9ZM9 23H55M20 6V18M44 6V18" fill="#fffaf4"/><path d="M19 42L28 32L35 39L45 29" stroke="#ff5726"/>',
+weekdayTue:'<path d="M9 12H55V56H9ZM9 23H55M20 6V18M44 6V18" fill="#fffaf4"/><path d="M21 33H43M21 40H43M21 47H35" stroke="#ff5726"/>',
+weekdayWed:'<path d="M9 12H55V56H9ZM9 23H55M20 6V18M44 6V18" fill="#fffaf4"/><circle cx="32" cy="40" r="10" fill="#ffe1aa"/><path d="M27 40H37" stroke="#ff5726"/>',
+weekdayThu:'<path d="M9 12H55V56H9ZM9 23H55M20 6V18M44 6V18" fill="#fffaf4"/><path d="M21 32L32 44L44 32M32 31V47" stroke="#ff5726"/>',
+weekdayFri:'<path d="M9 12H55V56H9ZM9 23H55M20 6V18M44 6V18" fill="#fffaf4"/><path d="M21 34H44M21 41H38M21 48H33" stroke="#ff5726"/>',
+weekdaySat:'<path d="M9 12H55V56H9ZM9 23H55M20 6V18M44 6V18" fill="#fffaf4"/><path d="M21 39L28 46L44 31" stroke="#ff5726"/><circle cx="45" cy="45" r="3" fill="#ffbd74"/>',
+weekdaySun:'<path d="M9 12H55V56H9ZM9 23H55M20 6V18M44 6V18" fill="#fffaf4"/><circle cx="32" cy="39" r="10" fill="#ffd16b"/><path d="M32 25V28M32 50V53M18 39H21M43 39H46" stroke="#ff5726"/>',
+bodyArm:'<path d="M12 54Q5 49 11 41L22 30L27 14Q29 6 35 9Q39 11 36 20L34 34L47 28Q54 26 56 33Q57 38 50 42L33 55Z" fill="#fff5e9"/><path d="M22 46L31 39" stroke="#ff5726"/>',
+bodyLeg:'<path d="M18 7H45L41 32L52 52Q55 58 45 59H30Q25 56 29 50L31 36L22 34L17 54Q16 59 7 58Q2 56 7 49L14 27Z" fill="#fff5e9"/><path d="M24 13H39M34 46L41 46" stroke="#ff5726"/>',
+bodyEar:'<path d="M32 6Q13 6 13 29Q13 41 24 47Q28 49 29 57Q30 61 38 57Q43 54 41 47Q40 41 47 34Q54 24 46 13Q40 6 32 6Z" fill="#fff5e9"/><path d="M29 42Q20 35 24 25Q27 16 36 21Q42 25 37 34Q32 37 33 43" stroke="#ff5726"/>',
+bodyMouth:'<path d="M7 32Q20 22 32 30Q44 22 57 32Q45 52 32 52Q19 52 7 32Z" fill="#ffb5a6"/><path d="M10 33Q32 43 54 33M24 46Q32 42 40 46" stroke="#ff5726"/>',
+bodyNose:'<path d="M30 7Q28 22 21 37Q16 46 29 48Q35 53 42 47Q48 42 40 38Q35 33 36 7" fill="#fff5e9"/><path d="M27 46Q32 51 38 46" stroke="#ff5726"/>',
+bodyBelly:'<circle cx="32" cy="15" r="10" fill="#fff5e9"/><path d="M15 56V40Q15 28 32 28Q49 28 49 40V56Z" fill="#fff5e9"/><ellipse cx="32" cy="44" rx="11" ry="9" fill="#ffe1c3"/><circle cx="32" cy="45" r="2" fill="#ff5726"/>',
+bodyHead:'<path d="M12 29Q12 7 32 7Q52 7 52 29Q52 44 42 50V57H22V50Q12 44 12 29Z" fill="#fff5e9"/><path d="M17 20Q31 7 47 20" stroke="#ff5726"/><circle cx="25" cy="31" r="2.5" fill="#102b50"/><circle cx="39" cy="31" r="2.5" fill="#102b50"/><path d="M27 41Q32 45 37 41" stroke="#ff5726"/>',
+bodyHand:'<path d="M16 57Q8 47 11 36Q13 31 20 39V13Q20 7 26 9V31V8Q29 3 34 8V30V12Q39 6 43 13V33Q48 24 54 29Q60 38 45 57Z" fill="#fff5e9"/><path d="M22 42L29 48" stroke="#ff5726"/>',
+bodyFoot:'<path d="M23 7H42V37Q46 44 56 45Q61 47 58 55Q56 59 45 59H10Q5 57 9 50L18 40Z" fill="#fff5e9"/><path d="M29 50H50" stroke="#ff5726"/>',
+bodyEye:'<path d="M5 32Q32 5 59 32Q32 59 5 32Z" fill="#fffaf4"/><circle cx="32" cy="32" r="11" fill="#a8d7fa"/><circle cx="32" cy="32" r="5" fill="#102b50"/><path d="M36 26L40 22" stroke="#ff5726"/>'
+});
+const weekdayAndBodyArt={Montag:'weekdayMon',Dienstag:'weekdayTue',Mittwoch:'weekdayWed',Donnerstag:'weekdayThu',Freitag:'weekdayFri',Samstag:'weekdaySat',Sonntag:'weekdaySun','der Kopf':'bodyHead','die Hand':'bodyHand','der Arm':'bodyArm','das Bein':'bodyLeg','der Fuß':'bodyFoot','das Auge':'bodyEye','das Ohr':'bodyEar','der Mund':'bodyMouth','die Nase':'bodyNose','der Bauch':'bodyBelly'};
+const previousWeekdayWord=doodleWord;
+doodleWord=function(de){return weekdayAndBodyArt[String(de).trim()]||previousWeekdayWord(de)};
 function doodleIcon(kind){if(kind.startsWith('swatch:'))return illustrationSwatch(kind.slice(7));if(kind.startsWith('number:'))return illustrationNumber(kind.slice(7));if(kind==='boy'||kind==='girl')return '<img class="doodle-icon illustrated-asset" src="assets/illustrations/characters/'+kind+'.svg" alt="" loading="lazy" decoding="async">';const body=doodleShapes[kind]||doodleShapes.star;return '<svg class="doodle-icon" viewBox="0 0 64 64" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><g stroke="#102b50" stroke-width="2.9" stroke-linejoin="round" stroke-linecap="round" fill="none">'+body+'</g></svg>'}
 function doodleCategory(name){const m={'Займенники':'people','Дієслова':'run','Кольори':'palette','Числа':'numbers','Привітання':'speech','Сім’я':'people','Люди й ознаки':'smile','Їжа й напої':'apple','Дім':'house','Школа':'school','Час і дні':'clock','Питальні слова':'questionmark','Службові слова':'question','Тіло':'hand','Тварини':'cat','Місця й транспорт':'car'};return m[name]||'star'}
 /* Custom hand-drawn pronoun characters: same navy/orange illustration system. */
