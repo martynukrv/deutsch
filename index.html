@@ -207,6 +207,32 @@ machen:'actMake',sagen:'talk',fragen:'actAsk',lieben:'heart',lachen:'actLaugh',w
 };
 const previousVerbArt=doodleWord;
 doodleWord=function(de){return verbArt[String(de).trim()]||previousVerbArt(de)};
+
+/* Greeting, family and descriptive word illustrations, all SVG with no background. */
+Object.assign(doodleShapes,{
+helloWave:'<circle cx="24" cy="18" r="10" fill="#fff5e9"/><path d="M9 57V46Q9 32 24 32Q39 32 39 46V57M35 38L48 29M48 29L47 15M48 29L56 20M48 29L59 30"/><path d="M10 15L5 10M39 9L45 4" stroke="#ff5726"/>',
+goodMorning:'<path d="M8 57H56M12 44Q32 13 52 44" fill="#fff1c1"/><circle cx="32" cy="23" r="11" fill="#ffd16b"/><path d="M32 3V8M12 23H7M52 23H57M17 9L21 13M47 9L43 13" stroke="#ff5726"/>',
+goodDay:'<circle cx="32" cy="30" r="15" fill="#ffd16b"/><path d="M32 3V10M32 50V59M5 30H13M51 30H59M13 11L19 17M45 43L51 49M51 11L45 17M19 43L13 49" stroke="#ff5726"/>',
+goodEvening:'<path d="M45 8Q20 15 23 37Q26 52 48 50Q30 63 15 47Q-2 24 23 10Q33 5 45 8Z" fill="#ffdb9d"/><path d="M46 19L49 24L55 25L50 29L51 35L46 32L40 35L42 29L37 25L43 24Z" fill="#ffb951"/>',
+goodbyeWave:'<circle cx="22" cy="18" r="10" fill="#fff5e9"/><path d="M7 57V46Q7 32 22 32Q37 32 37 46V57M35 35L50 24M50 24L49 12M50 24L58 16M50 24L61 27"/><path d="M43 7L51 5M58 38L62 43" stroke="#ff5726"/>',
+thanksHeart:'<path d="M32 52L10 30Q2 20 11 13Q22 6 32 20Q42 6 53 13Q62 20 54 30Z" fill="#ffb7a9"/><path d="M20 22L25 18M40 22L45 18" stroke="#ff5726"/>',
+pleaseGift:'<path d="M10 26H54V55H10ZM7 20H57V26H7ZM32 20V55M32 20Q17 20 18 11Q20 3 32 20ZM32 20Q47 20 46 11Q44 3 32 20Z" fill="#fff6e7"/><path d="M32 28V49" stroke="#ff5726"/>',
+sorryFace:'<circle cx="32" cy="30" r="24" fill="#fff5e9"/><path d="M20 24Q24 21 28 24M36 24Q40 21 44 24M24 44Q32 36 40 44" stroke="#ff5726"/><path d="M48 34Q56 40 50 47Q43 48 48 34Z" fill="#9ed7fa"/>',
+howAreYou:'<circle cx="22" cy="30" r="16" fill="#fff5e9"/><path d="M12 55Q14 46 22 46Q30 46 32 55M17 28H19M25 28H27M18 36Q22 40 26 36"/><path d="M40 10H59V29H50L43 36V29H40ZM47 17Q48 12 53 15Q57 19 52 23M52 26V27" fill="#fffaf4" stroke="#ff5726"/>',
+familyParents:'<circle cx="20" cy="19" r="10" fill="#fff5e9"/><circle cx="45" cy="19" r="10" fill="#fff5e9"/><path d="M5 57V45Q5 32 20 32Q35 32 35 45V57M31 57V45Q31 32 45 32Q59 32 59 45V57"/><path d="M12 13L20 8L28 13M37 13L45 8L53 13" stroke="#ff5726"/>',
+familyGrandma:'<circle cx="32" cy="25" r="17" fill="#fff5e9"/><path d="M12 57Q12 43 32 43Q52 43 52 57M16 21Q12 5 27 7Q32 0 38 7Q54 4 49 22" fill="#fffaf4"/><path d="M19 26H29M35 26H45M29 26H35M26 34Q32 39 38 34" stroke="#ff5726"/>',
+familyGrandpa:'<circle cx="32" cy="25" r="17" fill="#fff5e9"/><path d="M12 57Q12 43 32 43Q52 43 52 57M18 17Q31 8 46 17M17 27H29M35 27H47M29 27H35" /><path d="M24 34Q32 40 40 34M28 40Q32 43 36 40" stroke="#ff5726"/>',
+bigArt:'<path d="M8 53L55 6M35 6H55V26M9 34V54H29" stroke="#ff5726"/><circle cx="23" cy="24" r="9" fill="#fff5e9"/><circle cx="43" cy="43" r="13" fill="#ffd3a7"/>',
+smallArt:'<path d="M8 8L54 54M34 54H54V34M8 28V8H28" stroke="#ff5726"/><circle cx="23" cy="42" r="13" fill="#fff5e9"/><circle cx="43" cy="22" r="7" fill="#ffd3a7"/>',
+badArt:'<circle cx="32" cy="31" r="23" fill="#fff5e9"/><path d="M20 25L28 30M28 25L20 30M36 25L44 30M44 25L36 30M22 45Q32 35 42 45" stroke="#ff5726"/>',
+beautifulArt:'<path d="M32 4L39 24L60 25L43 39L49 59L32 47L15 59L21 39L4 25L25 24Z" fill="#ffe2a5"/><path d="M22 29L26 33M38 33L42 29M27 40Q32 44 37 40" stroke="#ff5726"/>',
+oldArt:'<path d="M10 51L32 8L54 51Z" fill="#fff5e9"/><path d="M21 37H43M32 24V44M25 57H39" stroke="#ff5726"/>',
+youngArt:'<circle cx="32" cy="27" r="18" fill="#fff5e9"/><path d="M14 57Q16 44 32 44Q48 44 50 57M18 17Q32 3 46 17M25 27H27M37 27H39M27 35Q32 40 37 35" stroke="#ff5726"/>',
+newArt:'<path d="M13 14H51V53H13Z" fill="#fff5e9"/><path d="M20 21H44V46H20Z" fill="#d7ecff"/><path d="M32 2V9M53 6L48 12M59 25H53" stroke="#ff5726"/>'
+});
+const greetingFamilyArt={'Hallo!':'helloWave','Guten Morgen!':'goodMorning','Guten Tag!':'goodDay','Guten Abend!':'goodEvening','Tschüss!':'goodbyeWave','Auf Wiedersehen!':'goodbyeWave','Danke!':'thanksHeart','Bitte!':'pleaseGift','Entschuldigung!':'sorryFace',"Wie geht's?":'howAreYou','Gut, danke.':'thanksHeart','die Eltern':'familyParents','die Oma':'familyGrandma','der Opa':'familyGrandpa','groß':'bigArt','klein':'smallArt','schlecht':'badArt','schön':'beautifulArt','alt':'oldArt','jung':'youngArt','neu':'newArt'};
+const previousGreetingArt=doodleWord;
+doodleWord=function(de){return greetingFamilyArt[String(de).trim()]||previousGreetingArt(de)};
 function doodleIcon(kind){if(kind.startsWith('swatch:'))return illustrationSwatch(kind.slice(7));if(kind.startsWith('number:'))return illustrationNumber(kind.slice(7));if(kind==='boy'||kind==='girl')return '<img class="doodle-icon illustrated-asset" src="assets/illustrations/characters/'+kind+'.svg" alt="" loading="lazy" decoding="async">';const body=doodleShapes[kind]||doodleShapes.star;return '<svg class="doodle-icon" viewBox="0 0 64 64" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><g stroke="#102b50" stroke-width="2.9" stroke-linejoin="round" stroke-linecap="round" fill="none">'+body+'</g></svg>'}
 function doodleCategory(name){const m={'Займенники':'people','Дієслова':'run','Кольори':'palette','Числа':'numbers','Привітання':'speech','Сім’я':'people','Люди й ознаки':'smile','Їжа й напої':'apple','Дім':'house','Школа':'school','Час і дні':'clock','Питальні слова':'questionmark','Службові слова':'question','Тіло':'hand','Тварини':'cat','Місця й транспорт':'car'};return m[name]||'star'}
 /* Custom hand-drawn pronoun characters: same navy/orange illustration system. */
