@@ -9,6 +9,15 @@ const fs=require('fs');
   const errors=[];page.on('pageerror',e=>errors.push(e.message));
   const url=process.env.ART_SITE_URL||pathToFileURL(path.resolve('index.html')).href;
   await page.goto(url,{waitUntil:'load'});
+  await page.locator('#wordsTab').click();
+  for(const width of [320,390,1280]){
+   await page.setViewportSize({width,height:900});
+   await page.locator('#vocabIconGrid img.category-art').evaluateAll(els=>els.forEach(el=>el.loading='eager'));
+   await page.waitForFunction(()=>{const icons=[...document.querySelectorAll('#vocabIconGrid img.category-art')];return icons.length===16&&icons.every(el=>el.complete&&el.naturalWidth>0)});
+   const categoryAudit=await page.evaluate(()=>({count:document.querySelectorAll('#vocabIconGrid img.category-art').length,overflow:document.documentElement.scrollWidth>document.documentElement.clientWidth+5,distinct:new Set([...document.querySelectorAll('#vocabIconGrid img.category-art')].map(el=>el.getAttribute('src'))).size}));
+   if(categoryAudit.count!==16||categoryAudit.distinct!==16||categoryAudit.overflow)throw Error('Category illustration failure '+width+JSON.stringify(categoryAudit));
+  }
+  console.log('PASS 16 distinct category PNGs: all loaded at 320/390/1280px');
   const categories=await page.evaluate(()=>vocabCategories.map((c,i)=>({name:c.name,index:i,approved:!!window.DEUTSCH_WORD_ART?.[c.name]})));
   const approved=categories.filter(c=>c.approved);
   if(!approved.length)throw Error('No approved artwork loaded');
@@ -36,3 +45,4 @@ const fs=require('fs');
   console.log('PASS approved artwork: exact word/meaning bindings, all images loaded, mobile/desktop, reorder safety',url);
  }finally{await browser.close()}
 })().catch(e=>{console.error(e);process.exit(1)});
+

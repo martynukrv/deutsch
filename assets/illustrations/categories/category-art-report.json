@@ -1,0 +1,178 @@
+[
+  {
+    "category": "pronouns",
+    "source_box": [
+      0,
+      0,
+      320,
+      345
+    ],
+    "path": "assets/illustrations/categories/pronouns.png",
+    "sha256": "97bff50a1ad6327f597a1d66055d74c31bbab943982f3f5720fe4881432c2f5d"
+  },
+  {
+    "category": "verbs",
+    "source_box": [
+      320,
+      0,
+      640,
+      345
+    ],
+    "path": "assets/illustrations/categories/verbs.png",
+    "sha256": "68e0d46148da0bd1816da18bd5bc56b2d8ac2e52f0850f612e57f5328bab493c"
+  },
+  {
+    "category": "colors",
+    "source_box": [
+      640,
+      0,
+      935,
+      345
+    ],
+    "path": "assets/illustrations/categories/colors.png",
+    "sha256": "42413b4af053c2e0a730c2d033f7f1c0d1a65abd533814d6ab0c97e76c900c3c"
+  },
+  {
+    "category": "numbers",
+    "source_box": [
+      935,
+      0,
+      1254,
+      345
+    ],
+    "path": "assets/illustrations/categories/numbers.png",
+    "sha256": "9c67df882c3aaf3ed74a7e3734f2677527495e68199d1c851cfaab6de23a12bc"
+  },
+  {
+    "category": "greetings",
+    "source_box": [
+      0,
+      345,
+      320,
+      660
+    ],
+    "path": "assets/illustrations/categories/greetings.png",
+    "sha256": "610d7e347d477e2855822bf11cda8161765f261af1b2e009c4e110443c8ed5db"
+  },
+  {
+    "category": "family",
+    "source_box": [
+      320,
+      345,
+      640,
+      660
+    ],
+    "path": "assets/illustrations/categories/family.png",
+    "sha256": "38794ebb20b1f597e3baf582f89cacd357e126ed8512111f6d4e89b843447129"
+  },
+  {
+    "category": "people",
+    "source_box": [
+      640,
+      345,
+      935,
+      660
+    ],
+    "path": "assets/illustrations/categories/people.png",
+    "sha256": "e73093d1220e9aa08e348c94d47cd8de2251ee906caee8f15f4461378c822dcc"
+  },
+  {
+    "category": "food",
+    "source_box": [
+      935,
+      345,
+      1254,
+      660
+    ],
+    "path": "assets/illustrations/categories/food.png",
+    "sha256": "30c171949e0ee593ef9531ef8bf68f1590125abd01c11d4ca2ad8ae7ef941ae0"
+  },
+  {
+    "category": "home",
+    "source_box": [
+      0,
+      660,
+      320,
+      940
+    ],
+    "path": "assets/illustrations/categories/home.png",
+    "sha256": "c706c68eb002be393096cde68c1c0ab91221b8a31433c188dc83100b5a729870"
+  },
+  {
+    "category": "school",
+    "source_box": [
+      320,
+      660,
+      640,
+      940
+    ],
+    "path": "assets/illustrations/categories/school.png",
+    "sha256": "aa21c90f25a6ca321fea06d02d3c5c1675e9b2de57b3b7962bec28e04d636526"
+  },
+  {
+    "category": "time",
+    "source_box": [
+      640,
+      660,
+      935,
+      940
+    ],
+    "path": "assets/illustrations/categories/time.png",
+    "sha256": "d673571dbf05b62ce9bb4647fade7cd2f44f38af46aeaf2808cf6ebe990ecbbe"
+  },
+  {
+    "category": "questions",
+    "source_box": [
+      935,
+      660,
+      1254,
+      940
+    ],
+    "path": "assets/illustrations/categories/questions.png",
+    "sha256": "abd168c7c172edd0bea5eb5dcee0ebb5f07ddcd160972faadf1917a70aecdac2"
+  },
+  {
+    "category": "grammar",
+    "source_box": [
+      0,
+      940,
+      320,
+      1254
+    ],
+    "path": "assets/illustrations/categories/grammar.png",
+    "sha256": "afe6b20341531b33766ede68e439653e9852cf507321809c2935a2983c5bfd4e"
+  },
+  {
+    "category": "body",
+    "source_box": [
+      320,
+      940,
+      615,
+      1254
+    ],
+    "path": "assets/illustrations/categories/body.png",
+    "sha256": "1bd25ff7ced8af14f27aa16dafe2970e52dc4b0a3278de5903a19742f63914b5"
+  },
+  {
+    "category": "animals",
+    "source_box": [
+      615,
+      940,
+      935,
+      1254
+    ],
+    "path": "assets/illustrations/categories/animals.png",
+    "sha256": "0ffe9e2a81e2a0e1970dad7216bf47789564c3048ec437802923b9d5f0bea3a3"
+  },
+  {
+    "category": "transport",
+    "source_box": [
+      935,
+      940,
+      1254,
+      1254
+    ],
+    "path": "assets/illustrations/categories/transport.png",
+    "sha256": "5be4c7e1118998a988afd55628892e2136efa6e074d666a7bcf21e1dd885545e"
+  }
+]
