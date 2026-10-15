@@ -175,6 +175,38 @@ walkingArt:'<circle cx="35" cy="10" r="7" fill="#fff4e9"/><path d="M33 18L24 35L
 const placesAndSchoolArt={'die Wohnung':'apartmentArt','das Zimmer':'roomArt','die Küche':'kitchenArt','das Bad':'bathroomArt','das Heft':'notebookArt','der Lehrer':'teacherArt','die Lehrerin':'teacherArt','der Schüler':'studentArt','die Schülerin':'studentArt','die Aufgabe':'exerciseArt','die Straße':'streetArt','der Bahnhof':'stationArt','der Park':'parkArt','der Bus':'busArt','das Auto':'carArt','zu Fuß':'walkingArt'};
 const previousDoodleWord=doodleWord;
 doodleWord=function(de){return placesAndSchoolArt[String(de).trim()]||previousDoodleWord(de)};
+
+/* Individual illustrated action cards. All are transparent SVG silhouettes. */
+Object.assign(doodleShapes,{
+actMake:'<circle cx="19" cy="12" r="7" fill="#fff5e9"/><path d="M18 21L21 38L11 56M21 38L37 55M20 25L36 32L45 25M20 25L9 34"/><path d="M42 12L52 17L46 28L36 23Z" fill="#ffd5a5"/><path d="M43 17L49 22" stroke="#ff5726"/>',
+actAsk:'<circle cx="22" cy="15" r="9" fill="#fff5e9"/><path d="M11 56V44Q11 29 23 29Q35 29 35 44V56M33 38L46 31"/><path d="M42 13Q42 4 51 5Q60 6 57 16Q56 20 50 23V27M50 34V35" stroke="#ff5726"/>',
+actLaugh:'<circle cx="32" cy="28" r="23" fill="#fff7e9"/><path d="M18 24Q24 18 29 24M36 24Q42 18 47 24M21 35Q32 55 43 35Z" fill="#ff9b76"/><path d="M6 13L12 8M53 10L59 5" stroke="#ff5726"/>',
+actLive:'<path d="M7 31L32 9L57 31V56H7Z" fill="#fff5e9"/><path d="M25 56V37H39V56M14 35H22V43H14M43 35H51V43H43" fill="#c9e6fb"/><path d="M18 14L24 9M46 10L53 15" stroke="#ff5726"/>',
+actPlay:'<circle cx="22" cy="14" r="8" fill="#fff5e9"/><path d="M20 23L25 39L14 57M25 39L38 56M21 27L11 35M24 27L40 32"/><circle cx="49" cy="43" r="11" fill="#fffaf4"/><path d="M44 36L54 49M41 45L55 41" stroke="#ff5726"/>',
+actHave:'<circle cx="20" cy="14" r="8" fill="#fff5e9"/><path d="M12 57V39Q12 26 20 26Q31 26 31 39V57M25 33L41 36M14 34L7 28"/><path d="M39 22H56V42H39Z" fill="#ffd9a5"/><path d="M45 27H51M45 34H51" stroke="#ff5726"/>',
+actCome:'<circle cx="21" cy="12" r="7" fill="#fff5e9"/><path d="M19 21L24 37L13 55M24 37L40 55M19 26L9 35M24 26L36 30"/><path d="M41 14H57M50 7L57 14L50 21" stroke="#ff5726"/>',
+actSee:'<circle cx="32" cy="15" r="9" fill="#fff5e9"/><path d="M17 57V43Q17 29 32 29Q47 29 47 43V57"/><path d="M13 16L7 12M51 16L57 12M24 15H28M36 15H40M28 21Q32 24 36 21" stroke="#ff5726"/>',
+actHear:'<circle cx="29" cy="22" r="14" fill="#fff5e9"/><path d="M14 57V48Q14 36 29 36Q44 36 44 48V57M40 18Q52 18 49 31Q48 36 43 36M46 12Q60 18 55 35" /><path d="M49 7Q62 13 61 29" stroke="#ff5726"/>',
+actLearn:'<circle cx="17" cy="15" r="8" fill="#fff5e9"/><path d="M9 56V40Q9 27 18 27Q27 27 29 40V56M24 36L36 31"/><path d="M32 11H59V42H32ZM38 19H53M38 26H51M38 33H48" fill="#fffaf4"/><path d="M40 8L46 4" stroke="#ff5726"/>',
+actWork:'<circle cx="21" cy="13" r="8" fill="#fff5e9"/><path d="M12 55V38Q12 25 22 25Q34 25 34 38V55M28 34L42 39"/><path d="M36 38H60V55H36ZM41 27H55V38H41Z" fill="#fffaf4"/><path d="M45 43H53" stroke="#ff5726"/>',
+actEat:'<circle cx="20" cy="13" r="8" fill="#fff5e9"/><path d="M11 56V39Q11 26 21 26Q32 26 32 39V56M28 33L42 36"/><path d="M36 41Q36 54 48 54Q60 54 60 41Z" fill="#fffaf4"/><path d="M47 10V31M42 12V22M52 12V22M42 22H52" stroke="#ff5726"/>',
+actDrink:'<circle cx="20" cy="13" r="8" fill="#fff5e9"/><path d="M11 56V39Q11 26 21 26Q32 26 32 39V56M27 31L41 23"/><path d="M38 17H54L51 42H42Z" fill="#d4f0ff"/><path d="M40 30H52" stroke="#ff5726"/>',
+actWrite:'<circle cx="20" cy="13" r="8" fill="#fff5e9"/><path d="M11 56V39Q11 26 21 26Q32 26 32 39V56M26 34L41 42"/><path d="M34 44H60V55H34Z" fill="#fffaf4"/><path d="M38 42L54 20L59 25L43 47Z" fill="#ffbe77"/>',
+actKnow:'<circle cx="32" cy="17" r="11" fill="#fff5e9"/><path d="M16 57V45Q16 31 32 31Q48 31 48 45V57"/><path d="M32 3V0M17 5L12 1M47 5L52 1M23 20Q32 26 41 20" stroke="#ff5726"/>',
+actWant:'<circle cx="24" cy="13" r="8" fill="#fff5e9"/><path d="M14 57V39Q14 25 24 25Q34 25 34 39V57M31 32L46 26"/><path d="M45 7Q39 1 34 8Q30 14 46 25Q62 14 58 8Q53 1 45 7Z" fill="#ffb5a3"/>',
+actCan:'<circle cx="20" cy="13" r="8" fill="#fff5e9"/><path d="M12 57V40Q12 26 20 26Q30 26 30 40V57M28 33L42 27"/><path d="M39 20L46 13L52 20M46 13V49M38 49H55" stroke="#ff5726"/>',
+actNeed:'<circle cx="19" cy="14" r="8" fill="#fff5e9"/><path d="M10 57V40Q10 27 20 27Q31 27 31 40V57M28 35L40 38"/><path d="M40 14H58V53H40ZM44 24H54M44 33H54M44 42H50" fill="#fffaf4"/><path d="M35 12L39 8M57 8L61 12" stroke="#ff5726"/>',
+actGive:'<circle cx="16" cy="13" r="7" fill="#fff5e9"/><circle cx="50" cy="13" r="7" fill="#fff5e9"/><path d="M6 57V40Q6 27 16 27Q26 27 26 40V57M40 57V40Q40 27 50 27Q60 27 60 40V57M23 34L32 30L42 34"/><path d="M28 23H37V33H28Z" fill="#ffbe77"/>',
+actTake:'<circle cx="17" cy="13" r="7" fill="#fff5e9"/><circle cx="50" cy="13" r="7" fill="#fff5e9"/><path d="M6 57V40Q6 27 17 27Q27 27 27 40V57M40 57V40Q40 27 50 27Q60 27 60 40V57M25 33L35 30L43 34"/><path d="M30 23H39V33H30Z" fill="#ffbe77"/><path d="M36 18L31 13" stroke="#ff5726"/>',
+actFind:'<circle cx="22" cy="13" r="8" fill="#fff5e9"/><path d="M12 57V39Q12 26 22 26Q32 26 32 39V57M28 33L38 28"/><circle cx="46" cy="24" r="12" fill="#e6f5ff"/><path d="M54 33L62 43M42 24H50" stroke="#ff5726"/>',
+actBuy:'<circle cx="19" cy="13" r="8" fill="#fff5e9"/><path d="M10 57V39Q10 26 20 26Q30 26 30 39V57M27 32L41 37"/><path d="M37 34H59V56H37ZM43 34V28Q43 21 48 21Q54 21 54 28V34" fill="#fffaf4"/><path d="M44 43H52" stroke="#ff5726"/>',
+actStay:'<circle cx="22" cy="13" r="8" fill="#fff5e9"/><path d="M12 57V39Q12 26 22 26Q32 26 32 39V57M30 36L43 36"/><path d="M41 13H57V57H41ZM44 17L53 17" fill="#fffaf4"/><path d="M48 25V45" stroke="#ff5726"/>'
+});
+const verbArt={
+machen:'actMake',sagen:'talk',fragen:'actAsk',lieben:'heart',lachen:'actLaugh',wohnen:'actLive',singen:'music',spielen:'actPlay',tanzen:'dance',sein:'person',haben:'actHave',gehen:'walkingArt',kommen:'actCome',sehen:'actSee',hören:'actHear',sprechen:'talk',lernen:'actLearn',arbeiten:'actWork',essen:'actEat',trinken:'actDrink',schlafen:'sleep',lesen:'book',schreiben:'actWrite',wissen:'actKnow',kennen:'people',wollen:'actWant',können:'actCan',müssen:'actNeed',brauchen:'actNeed',geben:'actGive',nehmen:'actTake',finden:'actFind',kaufen:'actBuy',fahren:'carArt',bleiben:'actStay'
+};
+const previousVerbArt=doodleWord;
+doodleWord=function(de){return verbArt[String(de).trim()]||previousVerbArt(de)};
 function doodleIcon(kind){if(kind.startsWith('swatch:'))return illustrationSwatch(kind.slice(7));if(kind.startsWith('number:'))return illustrationNumber(kind.slice(7));if(kind==='boy'||kind==='girl')return '<img class="doodle-icon illustrated-asset" src="assets/illustrations/characters/'+kind+'.svg" alt="" loading="lazy" decoding="async">';const body=doodleShapes[kind]||doodleShapes.star;return '<svg class="doodle-icon" viewBox="0 0 64 64" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><g stroke="#102b50" stroke-width="2.9" stroke-linejoin="round" stroke-linecap="round" fill="none">'+body+'</g></svg>'}
 function doodleCategory(name){const m={'Займенники':'people','Дієслова':'run','Кольори':'palette','Числа':'numbers','Привітання':'speech','Сім’я':'people','Люди й ознаки':'smile','Їжа й напої':'apple','Дім':'house','Школа':'school','Час і дні':'clock','Питальні слова':'questionmark','Службові слова':'question','Тіло':'hand','Тварини':'cat','Місця й транспорт':'car'};return m[name]||'star'}
 /* Custom hand-drawn pronoun characters: same navy/orange illustration system. */
