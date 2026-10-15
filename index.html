@@ -280,7 +280,7 @@ color:'<path d="M32 5Q6 5 7 32Q7 58 32 58Q40 58 39 47Q38 39 47 41Q61 42 58 27Q55
 food:'<path d="M13 7V28M7 7V23Q7 32 13 32Q19 32 19 23V7M13 32V58M43 58V7Q28 15 32 37H43V58"/><path d="M32 37H43" stroke="#ff5726"/>',
 question:'<path d="M18 21Q19 7 34 7Q53 7 51 23Q50 31 34 38V43M34 54V56"/><path d="M17 16L11 12M50 12L55 7" stroke="#ff5726"/>'
 });
-const previousDoodleWord=doodleWord;
+const previousVerbDoodleWord=doodleWord;
 doodleWord=function(de){let w=String(de).toLowerCase().replace(/^(der|die|das|ein|eine)\s+/,'').replace(/[.!?]/g,'').trim();
 const actions={machen:'hand',sagen:'talk',fragen:'question',lieben:'heart',lachen:'smile',wohnen:'house',singen:'music',spielen:'star',tanzen:'dance',sein:'person',haben:'hand',gehen:'run',kommen:'run',sehen:'eye',hören:'head',sprechen:'talk',lernen:'book',arbeiten:'pencil',essen:'food',trinken:'cup',schlafen:'sleep',lesen:'book',schreiben:'pencil',wissen:'idea',kennen:'people',wollen:'heart',können:'star',müssen:'clock',brauchen:'hand',geben:'gift',nehmen:'hand',finden:'eye',kaufen:'bag',fahren:'car',bleiben:'house',groß:'up',klein:'down',gut:'check',schlecht:'cross',schön:'flower',alt:'clock',jung:'boy',neu:'gift',ja:'check',nein:'cross',nicht:'cross',auch:'people',sehr:'star',hier:'house',dort:'city',jetzt:'clock',immer:'clock',vielleicht:'question',und:'people',oder:'question',aber:'talk',wer:'question',was:'question',wo:'question',wohin:'question',woher:'question',wann:'clock',warum:'question',wie:'question','wie viel':'numbers'};
 if(actions[w])return actions[w];if(/^(rot|blau|grün|gelb|schwarz|weiß|grau|braun|orange|rosa|lila)$/.test(w))return'color';return previousDoodleWord(de)};
