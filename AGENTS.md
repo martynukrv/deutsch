@@ -7,7 +7,7 @@ All new and replacement illustrations must follow the user's fixed palette:
 - #FFFFFF — white
 - #FFF1E5 — cream
 
-Do not add other colors, even for illustrations of color vocabulary, fruit, leaves, flowers, skin, animals or other naturally colored objects. Natural object colors are not an exception. This rule was explicitly confirmed by the user on 15 October 2026.
+The sole exception, explicitly authorized by the user on 16 October 2026, is the COLOR VOCABULARY category: represent its 11 words with a uniform paint-blot swatch set, the same shape, scale and treatment, differing only by the actual named color. The swatches may depart from the general illustration style and use red, blue, green, yellow, black, white, grey, brown, orange, pink and purple. This exception applies only to the color vocabulary swatches and their reuse in lessons. All other illustrations, including fruit, leaves, flowers, skin and animals, must retain the four-color brand palette. Do not infer additional exceptions.
 
 Match the approved pronoun/verb/category style: thick organic navy contours, simple friendly cartoon forms, restrained detail, flat white/cream/orange surfaces, transparent backgrounds. Avoid glossy emoji rendering, colored gradients, realistic lighting and excessive roundness.
 
@@ -16,3 +16,4 @@ Generate artwork using the image generation tool and approved references. Never 
 The assistant performs generation, cropping, mapping, GitHub uploads, verification and publication. When the user asks to approve art first, wait for that artistic approval; when the user explicitly requests drawing and insertion, complete the authorized pipeline. Do not ask them to manually upload files or edit mappings.
 
 For import and publication, follow art-inbox/README.md. Inspect CI results and the published-site artwork checks before reporting completion.
+

@@ -2,7 +2,7 @@
 
 The assistant performs generation, cropping, upload, word bindings, testing and publication. The user only reviews the artistic result. Do not ask the user to upload files to GitHub or edit mappings.
 
-Palette: `#102B50`, `#FF5726`, `#FFFFFF`, `#FFF1E5`.
+Palette: `#102B50`, `#FF5726`, `#FFFFFF`, `#FFF1E5`. The sole user-authorized exception is the color vocabulary category: use uniform paint-blot swatches filled with the actual named colors. See `AGENTS.md` and the `colors` entry in `catalog.json`; do not extend this exception to other illustrations.
 
 ## Approved originals
 
@@ -32,4 +32,5 @@ For prepared PNG ZIPs, the matching manifest is:
 ```
 
 Images must be PNG with genuinely transparent and visible pixels, 32–4096 pixels per side, at most 8 MiB each and 100 MiB unpacked per ZIP. Invalid paths, duplicate files, incomplete categories and unknown words stop publication. The runtime uses exact category + German word + Ukrainian meaning, never list position. Other categories retain their existing art until approved replacements are supplied.
+
 

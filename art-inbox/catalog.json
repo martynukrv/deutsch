@@ -264,7 +264,9 @@
           "de": "lila",
           "ua": "фіолетовий"
         }
-      ]
+      ],
+      "illustration_style": "uniform paint-blot swatches; same silhouette, scale and treatment; only fill color differs",
+      "palette_exception": "Actual named colors permitted ONLY for color vocabulary swatches and their lesson reuse. All other artwork uses the four brand colors."
     },
     "numbers": {
       "name": "Числа",

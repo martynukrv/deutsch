@@ -4,99 +4,99 @@
     "de": "rot",
     "ua": "червоний",
     "path": "assets/illustrations/colors/rot.png",
-    "sha256": "96fde1e68fc562b5747d7fc1752086feb6e71a4c7c7109303da090e0ef2830ce",
-    "width": 295,
-    "height": 303
+    "sha256": "4a1c3367ac31541c78cfd413ee9bfdbf3795fa81c3edaccf5dca25235c86d9e6",
+    "width": 340,
+    "height": 340
   },
   {
     "category": "colors",
     "de": "blau",
     "ua": "синій",
     "path": "assets/illustrations/colors/blau.png",
-    "sha256": "76844ac43b47c7f552c86a4caf9cf220500eeba71d022c0436fd8e4ca505ff97",
-    "width": 251,
-    "height": 353
+    "sha256": "07ba652f31384e80df6d627c0162cd2ba0801a32ee849c5b90e59f8e8dfc7bfc",
+    "width": 340,
+    "height": 340
   },
   {
     "category": "colors",
     "de": "grün",
     "ua": "зелений",
     "path": "assets/illustrations/colors/gruen.png",
-    "sha256": "d275be7b932f268a9388827f909fd5c2b0eba8dbd971fa6506fa334c5ad0be68",
-    "width": 296,
-    "height": 320
+    "sha256": "917ee62cfd66a917aa83eb795eac4e7389d624a780b18abe07a95bcabeb71f06",
+    "width": 340,
+    "height": 340
   },
   {
     "category": "colors",
     "de": "gelb",
     "ua": "жовтий",
     "path": "assets/illustrations/colors/gelb.png",
-    "sha256": "aa828605fc439b5c41681c8eaaaf742c4c42d3f14e5eb70275d12f8c96824f47",
-    "width": 343,
-    "height": 326
+    "sha256": "60f7df319bbcc78c83443e196f42bec582a48a3ab393ccff176f5b72ae10a6ca",
+    "width": 340,
+    "height": 340
   },
   {
     "category": "colors",
     "de": "schwarz",
     "ua": "чорний",
     "path": "assets/illustrations/colors/schwarz.png",
-    "sha256": "cd239f9aea745b3a826cec907c4e22290569b21c3e20b1f1e0d3f465dd0c1cd3",
-    "width": 345,
-    "height": 338
+    "sha256": "ae0d7bd1f08006d5707dc44be0e4c8874e032d54d44104d068cebeb0cb26285b",
+    "width": 340,
+    "height": 340
   },
   {
     "category": "colors",
     "de": "weiß",
     "ua": "білий",
     "path": "assets/illustrations/colors/weiss.png",
-    "sha256": "ee00b4866cd2650deb55a0f873dfa8a8f904472e5210d6c252345a8e8b5f6215",
-    "width": 354,
-    "height": 282
+    "sha256": "78a34fca6ff691f753abcf98826b6b269afd2d9863ec552d0eaafc2cfc6090b4",
+    "width": 340,
+    "height": 340
   },
   {
     "category": "colors",
     "de": "grau",
     "ua": "сірий",
     "path": "assets/illustrations/colors/grau.png",
-    "sha256": "eb14f6b82cc72416505a29750a820d40479092296ee3c756efdf1313293d522f",
-    "width": 347,
-    "height": 249
+    "sha256": "974ba3867b4d4add9937c4f6fc54685f3ab9b04296976eaf62288073b802ed35",
+    "width": 340,
+    "height": 340
   },
   {
     "category": "colors",
     "de": "braun",
     "ua": "коричневий",
     "path": "assets/illustrations/colors/braun.png",
-    "sha256": "c1a2d508210647ec91865d56e0ec7a906fe1b04ef417c92b781d61e60779eebd",
-    "width": 339,
-    "height": 256
+    "sha256": "968f1df4e9b9eb6c44fb450491aebfa024c0d71339064c2a93b25e3e3d5b8c80",
+    "width": 340,
+    "height": 340
   },
   {
     "category": "colors",
     "de": "orange",
     "ua": "помаранчевий",
     "path": "assets/illustrations/colors/orange.png",
-    "sha256": "a71e0da026dc93778799aa3bcbc64203f00df560e5ac69160ae946dcc7acbaab",
-    "width": 276,
-    "height": 294
+    "sha256": "c3fb1cb560fa1b2631af78e6f969b2efb3e8fee5ac4a8052cc2f14fc67dc6283",
+    "width": 340,
+    "height": 340
   },
   {
     "category": "colors",
     "de": "rosa",
     "ua": "рожевий",
     "path": "assets/illustrations/colors/rosa.png",
-    "sha256": "f84f265daf6c516629e9a6ea9c78d232a09eede75b59bece3abdc9a64619ca12",
-    "width": 271,
-    "height": 347
+    "sha256": "b4d8cf4f1a1e850a9ff8ccbcec33f9609486d7cd141bd5bfcf7c4d17de80718d",
+    "width": 340,
+    "height": 340
   },
   {
     "category": "colors",
     "de": "lila",
     "ua": "фіолетовий",
     "path": "assets/illustrations/colors/lila.png",
-    "sha256": "f57c56d0576b1cf40f9ee8df1eb3b8e77c4d93f0aec8400444fd4f18bc4e6a4f",
-    "width": 282,
-    "height": 344
+    "sha256": "c17ef6dfae8af85b50b784803810985cde29e686d2d6cb54c9d40dd4a81d8484",
+    "width": 340,
+    "height": 340
   },
   {
     "category": "pronouns",
