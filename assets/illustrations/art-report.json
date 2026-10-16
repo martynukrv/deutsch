@@ -4,7 +4,7 @@
     "de": "rot",
     "ua": "червоний",
     "path": "assets/illustrations/colors/rot.png",
-    "sha256": "b087b9007f952ffbb6abab7e26cb9a035b73a7d32373564dcb2c412a845a6d37",
+    "sha256": "e202137da47a7ba67d996f79c83b92bc1719d145b2d34b8d597679d83d24e647",
     "width": 390,
     "height": 390
   },
@@ -13,7 +13,7 @@
     "de": "blau",
     "ua": "синій",
     "path": "assets/illustrations/colors/blau.png",
-    "sha256": "45370dd591a2a9f68a64ce3dec57e2c6e86f9e4b6838c16f18aeada38fb01d2c",
+    "sha256": "30bf7c4fc6a6f8fe98f50126bccd373420037f82f37d2ae3ef5618bdd61c3efd",
     "width": 390,
     "height": 390
   },
@@ -22,7 +22,7 @@
     "de": "grün",
     "ua": "зелений",
     "path": "assets/illustrations/colors/gruen.png",
-    "sha256": "2ce17df8f039691a4044f2e22f55e18dec361c7430acecc53d49c3deeb0d3387",
+    "sha256": "ba3ecb3081e336d994571660b6b8a7e79cb670ab0cf013c06840424746f0d27c",
     "width": 390,
     "height": 390
   },
@@ -31,7 +31,7 @@
     "de": "gelb",
     "ua": "жовтий",
     "path": "assets/illustrations/colors/gelb.png",
-    "sha256": "fb137aa57e7cee1cd5518bbe4e5607b7c00dea23e052746a0305f546d7cf2361",
+    "sha256": "8f8659ea6b40c3c6ba6cc42aa9553b80636f868b026a82db27e10cce666516a4",
     "width": 390,
     "height": 390
   },
@@ -40,7 +40,7 @@
     "de": "schwarz",
     "ua": "чорний",
     "path": "assets/illustrations/colors/schwarz.png",
-    "sha256": "66938f28feddc174fa1e75c6a18bfc074cdb15aab1d9979139b649e9438d5c62",
+    "sha256": "d02f0bdee1db58b884281d303529245da5f77bff381da8a49a1632aaf6a78188",
     "width": 390,
     "height": 390
   },
@@ -49,7 +49,7 @@
     "de": "weiß",
     "ua": "білий",
     "path": "assets/illustrations/colors/weiss.png",
-    "sha256": "18af332b71ac688d72419c0556d923e597ee0f2c1cc8031f828239fd1df15f9b",
+    "sha256": "90349ca9ab2a27f9592f820b878650ac6e321507693c8cf8d4cbf444a1f1e96c",
     "width": 390,
     "height": 390
   },
@@ -58,7 +58,7 @@
     "de": "grau",
     "ua": "сірий",
     "path": "assets/illustrations/colors/grau.png",
-    "sha256": "bd5da9b7f102cddc47a56855ec13c6bbab44eabedabec789c22305161f6728f0",
+    "sha256": "477efa1f5c960d03460ee77265a406c99729655c6a85754a2eb70ad03bb7141e",
     "width": 390,
     "height": 390
   },
@@ -67,7 +67,7 @@
     "de": "braun",
     "ua": "коричневий",
     "path": "assets/illustrations/colors/braun.png",
-    "sha256": "f4cdee8900663f31fb7cfdc28b826a4f3a1d5df78afb1d184856786a4460792a",
+    "sha256": "91a2bccae60988a726498c65bde361ac32345beb5118ded4c486dd829bf346a8",
     "width": 390,
     "height": 390
   },
@@ -76,7 +76,7 @@
     "de": "orange",
     "ua": "помаранчевий",
     "path": "assets/illustrations/colors/orange.png",
-    "sha256": "ce846d7034edc0453bb05bba71a1bbfc0ed6b4c54b1e7cf925fea8bde3f21f9a",
+    "sha256": "75897517e4a41a578d438ed5d7c3c4c9310f7f279e23c48844e6965bee7ccc87",
     "width": 390,
     "height": 390
   },
@@ -85,7 +85,7 @@
     "de": "rosa",
     "ua": "рожевий",
     "path": "assets/illustrations/colors/rosa.png",
-    "sha256": "4e2986d0f978eba1fa29fe110633e13cb45e8717cd7a362e9569624250c1df49",
+    "sha256": "25d4d245e2a4fc84c69b15f94cb71d6b0ece718062bc55e3a0296932912dea40",
     "width": 390,
     "height": 390
   },
@@ -94,7 +94,7 @@
     "de": "lila",
     "ua": "фіолетовий",
     "path": "assets/illustrations/colors/lila.png",
-    "sha256": "57bec6526a6003afb90a692f548ff058be0428a2f49521a30567c2415b6f28a9",
+    "sha256": "508b074daf882690788c96250d9a075bbf6cc95f4e37c59cf62368b19052dab2",
     "width": 390,
     "height": 390
   },

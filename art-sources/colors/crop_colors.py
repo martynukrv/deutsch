@@ -7,18 +7,18 @@ ROOT=Path(__file__).resolve().parents[2]
 source=Path(__file__).with_name('approved-sheet.png')
 im=Image.open(source).convert('RGBA')
 names=['rot','blau','gruen','gelb','schwarz','weiss','grau','braun','orange','rosa','lila']
-xs=[0,370,730,1090,1448];ys=[0,375,725,1086]
+xs=[0,365,735,1095,1448];ys=[0,375,710,1086]
 out=ROOT/'assets/illustrations/colors';out.mkdir(parents=True,exist_ok=True)
 report=[]
 for i,name in enumerate(names):
  x=i%4;y=i//4;box=(xs[x],ys[y],xs[x+1],ys[y+1]);part=im.crop(box)
  # Keep the generated paint swatch; omit disconnected extraction specks.
- a=np.array(part.getchannel('A'));labels,_=ndimage.label(a>16);sizes=np.bincount(labels.ravel());sizes[0]=0
- keep=ndimage.binary_dilation(labels==int(sizes.argmax()),iterations=1)
+ a=np.array(part.getchannel('A'));labels,_=ndimage.label(a>16);sizes=np.bincount(labels.ravel());keep_ids=sizes>=60;keep_ids[0]=False
+ keep=ndimage.binary_dilation(keep_ids[labels],iterations=1)
  part.putalpha(Image.fromarray(np.where(keep,a,0).astype('uint8')))
  bb=part.getchannel('A').getbbox()
  assert bb and min(bb[0],bb[1],part.width-bb[2],part.height-bb[3])>0,(name,bb,'Touches crop boundary')
- part=part.crop(bb);assert max(part.size)<=350,(name,part.size)
+ part=part.crop(bb);assert max(part.size)<=370,(name,part.size)
  canvas=Image.new('RGBA',(390,390));canvas.paste(part,((390-part.width)//2,(390-part.height)//2));p=out/(name+'.png');canvas.save(p)
  report.append({'name':name,'source_box':box,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()})
 words=json.loads((ROOT/'art-inbox/catalog.json').read_text())['categories']['colors']['words']
@@ -28,4 +28,4 @@ with zipfile.ZipFile(ROOT/'art-inbox/colors.zip','w',compression=zipfile.ZIP_DEF
  for n in names:
   p=out/(n+'.png');z.write(p,p.relative_to(ROOT))
 source.with_name('crop-report.json').write_text(json.dumps(report,indent=2)+'\n')
-print('11 approved paint-slime PNGs, transparent 390x390 canvases; no redraw or recoloring.')
+print('11 approved user-linked bouncy paint splat PNGs, transparent 390x390 canvases; no redraw or recoloring.')

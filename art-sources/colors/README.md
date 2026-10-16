@@ -1,13 +1,14 @@
-# Color vocabulary — selected variant 3, paint-slime mascots
+# Color artwork — exact user-selected shared image
 
-The user selected variant 3 on 16 October 2026 after reviewing three playful alternatives. approved-sheet.png preserves that exact image generation result. These 11 cheerful paint-slime mascots replace the earlier plain paint swatches. Do not regenerate or substitute another variant without approval.
+The user explicitly selected this image on 16 October 2026:
+https://chatgpt.com/s/m_6ad1c65c98a4819186f9a78249ba7dcb
 
-Each mascot has the same recognizable paint-puddle character design, similar scale, expression and pose, and the actual named body color. Color vocabulary and its lesson reuse remain the ONLY exception to the app's four-color brand palette. All other new art follows AGENTS.md, including three preview variants before cropping or insertion.
+approved-sheet.png is the actual original PNG downloaded from that public image share. Visual identity: bouncy asymmetrical PAINT SPLATS WITHOUT EYES OR MOUTHS, white highlights, navy outlines and nearby motion marks. This replaces the earlier slime mascots. Variant numbers in the prior chat/gallery were inconsistent; use this exact image and URL as authoritative, never infer from a number.
 
-crop_colors.py uses individually checked transparent gutters, retains original RGB and alpha, omits disconnected extraction specks, and centers each full mascot on a transparent 390x390 canvas. It does not draw, recolor or resize the generated character. Coordinates and hashes remain in crop-report.json.
+All 11 complete compositions, including motion marks, are cropped with transparent boundaries and centered on transparent 390x390 canvases. Source RGB and retained alpha are preserved; no drawing, recoloring or scaling. Original source, crop coordinates and output hashes are retained.
 
 Reproduce with Pillow, numpy and scipy:
 `python3 art-sources/colors/crop_colors.py`
 `python3 scripts/import_art.py`
 
-colors.json maps all 11 PNGs to exact German words and Ukrainian meanings. The runtime shares them across dictionary cards and lesson vocabulary. The content-hash URLs invalidate cached earlier artwork.
+Color vocabulary remains the only actual-color exception. Other illustrations retain the four brand colors. New artwork still needs three previews and the user's explicit selection before cropping or insertion.
