@@ -16,7 +16,7 @@ const path = require('path');
  console.log('APP',JSON.stringify(result));
  if(errors.length)throw new Error('JavaScript errors: '+errors.join('; '));
  if(Object.values(result.check).some(x=>!x)||!result.diagnostic||!result.taskCount)throw new Error('Missing UI or tasks');
- await page.evaluate(()=>{setMode('words')});
+ await page.evaluate(()=>{openVocabCategory(0)});
  await page.waitForTimeout(200);
  console.log('VOCAB',await page.locator('#wordGrid').innerText().then(s=>s.slice(0,120)));
  await page.evaluate(()=>startVocabQuiz(false));
@@ -45,7 +45,7 @@ const path = require('path');
  if(errors.length)throw new Error('JavaScript errors: '+errors.join('; '));
  // Exercise incorrect answer, retry-only flow, and completed lesson summary.
  await page.evaluate(()=>{
-   setMode('words');
+   openVocabCategory(0);
    startVocabQuiz(false);
    const it=vq.items[vq.index];
    answerVq(null,it,'__definitely_wrong__');
@@ -72,7 +72,7 @@ const path = require('path');
   if(!document.querySelector('#trainerMascot img[src$="boy-happy.svg"]'))throw Error('Correct-answer mascot missing');
   setMascotReaction('trainerMascot','encourage');
   if(!document.querySelector('#trainerMascot img[src$="girl-encourage.svg"]'))throw Error('Incorrect-answer mascot missing');
-  setMode('words');startVocabQuiz(false);
+  openVocabCategory(0);startVocabQuiz(false);
   setMascotReaction('vqMascot','happy');
   if(!document.querySelector('#vqMascot img[src$="boy-happy.svg"]'))throw Error('Quiz mascot missing');
   endVocabQuiz();
@@ -91,7 +91,7 @@ const path = require('path');
  console.log('PASS mascot expressions and responsive visual layout');
 
  // Verify progress persists across a reload and check mobile/desktop overflow.
- const storage=await page.evaluate(()=>{setMode('words');startVocabQuiz(false);const it=vq.items[vq.index];recordVq(it,true);return {key:vqStatsKey(),word:it.w[0],value:localStorage.getItem(vqStatsKey())}});
+ const storage=await page.evaluate(()=>{openVocabCategory(0);startVocabQuiz(false);const it=vq.items[vq.index];recordVq(it,true);return {key:vqStatsKey(),word:it.w[0],value:localStorage.getItem(vqStatsKey())}});
  if(!storage.value||!JSON.parse(storage.value)[storage.word.toLocaleLowerCase('de-DE')])throw new Error('Vocabulary progress not saved');
  await page.reload({waitUntil:'load'});
  const persisted=await page.evaluate(({key,word})=>{const obj=JSON.parse(localStorage.getItem(key)||'{}');return obj[word.toLocaleLowerCase('de-DE')]},storage);
@@ -142,3 +142,4 @@ const path = require('path');
  console.log('PASS Chromium smoke test');
  await browser.close();
 })().catch(e=>{console.error(e);process.exit(1)});
+
