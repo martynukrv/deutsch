@@ -1,13 +1,13 @@
-# Color vocabulary — uniform paint swatches
+# Color vocabulary — selected variant 3, paint-slime mascots
 
-On 16 October 2026 the user requested a uniform paint-blot representation of color words and explicitly authorized actual colors as the ONLY exception to the app's four-color illustration palette. These 11 swatches replace the earlier object illustrations. All other artwork retains the brand palette; see AGENTS.md.
+The user selected variant 3 on 16 October 2026 after reviewing three playful alternatives. approved-sheet.png preserves that exact image generation result. These 11 cheerful paint-slime mascots replace the earlier plain paint swatches. Do not regenerate or substitute another variant without approval.
 
-approved-sheet.png preserves the generated swatch sheet. All swatches have matching paint-blot shapes and consistent scale, an opaque colored fill, a thin neutral outline, and transparent margins. White remains visibly outlined on light backgrounds.
+Each mascot has the same recognizable paint-puddle character design, similar scale, expression and pose, and the actual named body color. Color vocabulary and its lesson reuse remain the ONLY exception to the app's four-color brand palette. All other new art follows AGENTS.md, including three preview variants before cropping or insertion.
 
-crop_colors.py uses checked cell boundaries, retains the original generated pixels and alpha of the main swatch, omits disconnected extraction specks, and centers each image on a transparent 340x340 canvas without drawing, recoloring or scaling.
+crop_colors.py uses individually checked transparent gutters, retains original RGB and alpha, omits disconnected extraction specks, and centers each full mascot on a transparent 390x390 canvas. It does not draw, recolor or resize the generated character. Coordinates and hashes remain in crop-report.json.
 
 Reproduce with Pillow, numpy and scipy:
 `python3 art-sources/colors/crop_colors.py`
 `python3 scripts/import_art.py`
 
-colors.json maps all 11 PNGs to exact German words and Ukrainian meanings. The runtime reuses the same swatches in dictionary cards and lesson vocabulary. Source coordinates and checksums remain in crop-report.json.
+colors.json maps all 11 PNGs to exact German words and Ukrainian meanings. The runtime shares them across dictionary cards and lesson vocabulary. The content-hash URLs invalidate cached earlier artwork.

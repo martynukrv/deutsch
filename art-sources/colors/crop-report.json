@@ -2,111 +2,111 @@
   {
     "name": "rot",
     "source_box": [
-      15,
-      130,
-      320,
-      470
+      0,
+      0,
+      370,
+      375
     ],
-    "sha256": "4a1c3367ac31541c78cfd413ee9bfdbf3795fa81c3edaccf5dca25235c86d9e6"
+    "sha256": "b087b9007f952ffbb6abab7e26cb9a035b73a7d32373564dcb2c412a845a6d37"
   },
   {
     "name": "blau",
     "source_box": [
-      320,
-      130,
-      625,
-      470
+      370,
+      0,
+      730,
+      375
     ],
-    "sha256": "07ba652f31384e80df6d627c0162cd2ba0801a32ee849c5b90e59f8e8dfc7bfc"
+    "sha256": "45370dd591a2a9f68a64ce3dec57e2c6e86f9e4b6838c16f18aeada38fb01d2c"
   },
   {
     "name": "gruen",
     "source_box": [
-      625,
-      130,
-      930,
-      470
+      730,
+      0,
+      1090,
+      375
     ],
-    "sha256": "917ee62cfd66a917aa83eb795eac4e7389d624a780b18abe07a95bcabeb71f06"
+    "sha256": "2ce17df8f039691a4044f2e22f55e18dec361c7430acecc53d49c3deeb0d3387"
   },
   {
     "name": "gelb",
     "source_box": [
-      930,
-      130,
-      1240,
-      470
+      1090,
+      0,
+      1448,
+      375
     ],
-    "sha256": "60f7df319bbcc78c83443e196f42bec582a48a3ab393ccff176f5b72ae10a6ca"
+    "sha256": "fb137aa57e7cee1cd5518bbe4e5607b7c00dea23e052746a0305f546d7cf2361"
   },
   {
     "name": "schwarz",
     "source_box": [
-      15,
-      470,
-      320,
-      800
+      0,
+      375,
+      370,
+      725
     ],
-    "sha256": "ae0d7bd1f08006d5707dc44be0e4c8874e032d54d44104d068cebeb0cb26285b"
+    "sha256": "66938f28feddc174fa1e75c6a18bfc074cdb15aab1d9979139b649e9438d5c62"
   },
   {
     "name": "weiss",
     "source_box": [
-      320,
-      470,
-      625,
-      800
+      370,
+      375,
+      730,
+      725
     ],
-    "sha256": "78a34fca6ff691f753abcf98826b6b269afd2d9863ec552d0eaafc2cfc6090b4"
+    "sha256": "18af332b71ac688d72419c0556d923e597ee0f2c1cc8031f828239fd1df15f9b"
   },
   {
     "name": "grau",
     "source_box": [
-      625,
-      470,
-      930,
-      800
+      730,
+      375,
+      1090,
+      725
     ],
-    "sha256": "974ba3867b4d4add9937c4f6fc54685f3ab9b04296976eaf62288073b802ed35"
+    "sha256": "bd5da9b7f102cddc47a56855ec13c6bbab44eabedabec789c22305161f6728f0"
   },
   {
     "name": "braun",
     "source_box": [
-      930,
-      470,
-      1240,
-      800
+      1090,
+      375,
+      1448,
+      725
     ],
-    "sha256": "968f1df4e9b9eb6c44fb450491aebfa024c0d71339064c2a93b25e3e3d5b8c80"
+    "sha256": "f4cdee8900663f31fb7cfdc28b826a4f3a1d5df78afb1d184856786a4460792a"
   },
   {
     "name": "orange",
     "source_box": [
-      15,
-      800,
-      320,
-      1150
+      0,
+      725,
+      370,
+      1086
     ],
-    "sha256": "c3fb1cb560fa1b2631af78e6f969b2efb3e8fee5ac4a8052cc2f14fc67dc6283"
+    "sha256": "ce846d7034edc0453bb05bba71a1bbfc0ed6b4c54b1e7cf925fea8bde3f21f9a"
   },
   {
     "name": "rosa",
     "source_box": [
-      320,
-      800,
-      625,
-      1150
+      370,
+      725,
+      730,
+      1086
     ],
-    "sha256": "b4d8cf4f1a1e850a9ff8ccbcec33f9609486d7cd141bd5bfcf7c4d17de80718d"
+    "sha256": "4e2986d0f978eba1fa29fe110633e13cb45e8717cd7a362e9569624250c1df49"
   },
   {
     "name": "lila",
     "source_box": [
-      625,
-      800,
-      930,
-      1150
+      730,
+      725,
+      1090,
+      1086
     ],
-    "sha256": "c17ef6dfae8af85b50b784803810985cde29e686d2d6cb54c9d40dd4a81d8484"
+    "sha256": "57bec6526a6003afb90a692f548ff058be0428a2f49521a30567c2415b6f28a9"
   }
 ]
