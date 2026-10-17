@@ -1,0 +1,214 @@
+{
+  "approved": true,
+  "authorization": "User requested replacement of remaining homepage artwork; standing instruction to draw and immediately insert without waiting.",
+  "items": [
+    {
+      "kind": "welcome",
+      "label": "Привітальний персонаж",
+      "source": "original-sheet.png",
+      "box": [
+        0,
+        0,
+        355,
+        295
+      ],
+      "file": "assets/illustrations/homepage/welcome.png",
+      "sha256": "88471546061e542a5af5a0bc5ce5123c0e08be7fe21494092052726058f66f14"
+    },
+    {
+      "kind": "lessonGroupStatement",
+      "label": "Твердження",
+      "source": "original-sheet.png",
+      "box": [
+        355,
+        0,
+        725,
+        295
+      ],
+      "file": "assets/illustrations/homepage/group-statements.png",
+      "sha256": "fb767d683068ac9acbb619c5961721ead90fd97cf67fb9a8030ee72c530f36b0"
+    },
+    {
+      "kind": "lessonGroupNegative",
+      "label": "Заперечення",
+      "source": "original-sheet.png",
+      "box": [
+        725,
+        0,
+        1090,
+        295
+      ],
+      "file": "assets/illustrations/homepage/group-negation.png",
+      "sha256": "7416bd40eaa4cb03196f555dc92437a3780f80072669bf151de2eb992c82c467"
+    },
+    {
+      "kind": "lessonGroupQuestion",
+      "label": "Питання",
+      "source": "original-sheet.png",
+      "box": [
+        1090,
+        0,
+        1448,
+        295
+      ],
+      "file": "assets/illustrations/homepage/group-questions.png",
+      "sha256": "821cffc7fc688656078f39ea9bcce29612c6f88892d9eabf6bbe6e2d11678c30"
+    },
+    {
+      "kind": "lessonPronouns",
+      "label": "Займенники",
+      "source": "original-sheet.png",
+      "box": [
+        0,
+        295,
+        383,
+        585
+      ],
+      "file": "assets/illustrations/homepage/pronouns.png",
+      "sha256": "46c8804aa277b604dc0789971f29a828a98b431e4654965fb2631e5c15f26bd9"
+    },
+    {
+      "kind": "lessonVerbs",
+      "label": "Базові дієслова",
+      "source": "original-sheet.png",
+      "box": [
+        383,
+        295,
+        734,
+        558
+      ],
+      "file": "assets/illustrations/homepage/verbs.png",
+      "sha256": "f334166398bdcfb7d7895f85e9b0d876a093f594509eea606027ad78b6bb1ffd"
+    },
+    {
+      "kind": "lessonSein",
+      "label": "sein",
+      "source": "original-sheet.png",
+      "box": [
+        734,
+        295,
+        1080,
+        570
+      ],
+      "file": "assets/illustrations/homepage/sein.png",
+      "sha256": "8987b86f303fd3914c53f7ca7a51ab486b8656e9717ba7e163e3b3ecc806cb67"
+    },
+    {
+      "kind": "lessonHaben",
+      "label": "haben",
+      "source": "original-sheet.png",
+      "box": [
+        1080,
+        295,
+        1448,
+        574
+      ],
+      "file": "assets/illustrations/homepage/haben.png",
+      "sha256": "448c5118ba0df0543d06e9ff80e8f3d412a4c8b935c9f4d93957ca047df674ef"
+    },
+    {
+      "kind": "lessonPlaceTime",
+      "label": "Місце та час",
+      "source": "original-sheet.png",
+      "box": [
+        0,
+        585,
+        380,
+        799
+      ],
+      "file": "assets/illustrations/homepage/place-time.png",
+      "sha256": "74faa0d8292764f4685d435572cb5ac48109915aba258cff7b4156eae57ad6d8"
+    },
+    {
+      "kind": "lessonNicht",
+      "label": "nicht",
+      "source": "original-sheet.png",
+      "box": [
+        380,
+        558,
+        728,
+        808
+      ],
+      "file": "assets/illustrations/homepage/nicht.png",
+      "sha256": "68d253c6ef7942991964be29f1753d00ed0f2dec4878deb24228a7a24ccf1c70"
+    },
+    {
+      "kind": "lessonNegActions",
+      "label": "Заперечення дій",
+      "source": "original-sheet.png",
+      "box": [
+        728,
+        570,
+        1090,
+        815
+      ],
+      "file": "assets/illustrations/homepage/negative-actions.png",
+      "sha256": "c4ca5f2210a00da768518f0eb75539e1c19a2d21dc5c4e17814257315f54eb53"
+    },
+    {
+      "kind": "lessonNegPractice",
+      "label": "Практика заперечень",
+      "source": "original-sheet.png",
+      "box": [
+        1090,
+        574,
+        1448,
+        822
+      ],
+      "file": "assets/illustrations/homepage/negative-practice.png",
+      "sha256": "d6ece6279637ed5dc9963d05de4edccd22c05d8531356c4c17d53c1b7bf544c4"
+    },
+    {
+      "kind": "lessonYesNo",
+      "label": "Так / ні",
+      "source": "original-sheet.png",
+      "box": [
+        0,
+        799,
+        383,
+        1086
+      ],
+      "file": "assets/illustrations/homepage/yes-no.png",
+      "sha256": "e3ac7acc4f646eff4116e1d5cbdd7a272bfdb7011523e445d9f86b37a4292f44"
+    },
+    {
+      "kind": "lessonQuestionWords",
+      "label": "Питальні слова",
+      "source": "original-sheet.png",
+      "box": [
+        383,
+        808,
+        744,
+        1086
+      ],
+      "file": "assets/illustrations/homepage/question-words.png",
+      "sha256": "4b7c51cdf383ded7f9d6434795d145b179d0399d61ccab8f1a1f84d7ae4ae9aa"
+    },
+    {
+      "kind": "lessonHabenQuestion",
+      "label": "Питання з haben",
+      "source": "original-sheet.png",
+      "box": [
+        744,
+        815,
+        1092,
+        1086
+      ],
+      "file": "assets/illustrations/homepage/haben-question.png",
+      "sha256": "24c1f55ca1a115f10d9fd81180ad9e99b58aeb5f4df29a2a88645c91c212ca38"
+    },
+    {
+      "kind": "lessonQuestionPractice",
+      "label": "Практика питань",
+      "source": "original-sheet.png",
+      "box": [
+        1092,
+        822,
+        1448,
+        1086
+      ],
+      "file": "assets/illustrations/homepage/question-practice.png",
+      "sha256": "52d9ad3f8dd6696def6615556019da4b6ee7118b15f4bc9f877045e2e5cfe1b6"
+    }
+  ]
+}

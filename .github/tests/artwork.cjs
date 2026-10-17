@@ -9,6 +9,21 @@ const fs=require('fs');
   const errors=[];page.on('pageerror',e=>errors.push(e.message));
   const url=process.env.ART_SITE_URL||pathToFileURL(path.resolve('index.html')).href;
   await page.goto(url,{waitUntil:'load'});
+  for(const width of [320,390,768,1280]){
+   await page.setViewportSize({width,height:900});
+   await page.locator('#homeView img').evaluateAll(els=>els.forEach(el=>el.loading='eager'));
+   await page.waitForFunction(()=>{const images=[...document.querySelectorAll('#homeView img')];return images.length===16&&images.every(im=>im.complete&&im.naturalWidth>0)});
+   const home=await page.evaluate(()=>({
+    images:document.querySelectorAll('#homeView img').length,
+    lessons:document.querySelectorAll('#learningPath .path-icon img').length,
+    topics:document.querySelectorAll('#learningPath .lesson-group-icon img').length,
+    distinct:new Set([...document.querySelectorAll('#homeView img')].map(im=>im.src)).size,
+    oldArt:document.querySelectorAll('#homeView .doodle-hero svg,#learningPath .path-icon svg,#learningPath .lesson-group-icon svg').length,
+    overflow:document.documentElement.scrollWidth>document.documentElement.clientWidth+5
+   }));
+   if(home.images!==16||home.lessons!==12||home.topics!==3||home.distinct!==16||home.oldArt||home.overflow)throw Error('Homepage artwork failure '+width+JSON.stringify(home));
+  }
+  console.log('PASS homepage artwork: welcome, 3 topics, 12 lessons loaded without old SVGs or overflow at 320/390/768/1280px');
   await page.locator('#wordsTab').click();
   for(const width of [320,390,768,1280]){
    await page.setViewportSize({width,height:900});

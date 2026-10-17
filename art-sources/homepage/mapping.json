@@ -1,0 +1,18 @@
+{
+  "welcome": "assets/illustrations/homepage/welcome.png?v=88471546061e",
+  "lessonGroupStatement": "assets/illustrations/homepage/group-statements.png?v=fb767d683068",
+  "lessonGroupNegative": "assets/illustrations/homepage/group-negation.png?v=7416bd40eaa4",
+  "lessonGroupQuestion": "assets/illustrations/homepage/group-questions.png?v=821cffc7fc68",
+  "lessonPronouns": "assets/illustrations/homepage/pronouns.png?v=46c8804aa277",
+  "lessonVerbs": "assets/illustrations/homepage/verbs.png?v=f334166398bd",
+  "lessonSein": "assets/illustrations/homepage/sein.png?v=8987b86f303f",
+  "lessonHaben": "assets/illustrations/homepage/haben.png?v=448c5118ba0d",
+  "lessonPlaceTime": "assets/illustrations/homepage/place-time.png?v=74faa0d82927",
+  "lessonNicht": "assets/illustrations/homepage/nicht.png?v=68d253c6ef79",
+  "lessonNegActions": "assets/illustrations/homepage/negative-actions.png?v=c4ca5f2210a0",
+  "lessonNegPractice": "assets/illustrations/homepage/negative-practice.png?v=d6ece6279637",
+  "lessonYesNo": "assets/illustrations/homepage/yes-no.png?v=e3ac7acc4f64",
+  "lessonQuestionWords": "assets/illustrations/homepage/question-words.png?v=4b7c51cdf383",
+  "lessonHabenQuestion": "assets/illustrations/homepage/haben-question.png?v=24c1f55ca1a1",
+  "lessonQuestionPractice": "assets/illustrations/homepage/question-practice.png?v=52d9ad3f8dd6"
+}
