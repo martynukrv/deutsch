@@ -5,17 +5,17 @@
  const day=ms=>{const d=new Date(ms);return [d.getFullYear(),d.getMonth()+1,d.getDate()].join('-')};
  const afterDays=(ms,n)=>{const d=new Date(ms);d.setHours(0,0,0,0);d.setDate(d.getDate()+n);return d.getTime()};
  const fresh=()=>({version:1,cards:{},newLimit:5,history:[]});
- function load(){const raw=profileStorage.getItem(key);if(raw){const data=JSON.parse(raw);if(data.version!==1||!data.cards||!Array.isArray(data.history))throw Error('Unsupported review data');return data}
+ function load(now=Date.now()){const raw=profileStorage.getItem(key);if(raw){const data=JSON.parse(raw);if(data.version!==1||!data.cards||!Array.isArray(data.history))throw Error('Unsupported review data');return data}
   const data=fresh(),stats=loadVqStats();
   // Old totals have no dates or skill history. Enrol recognition only, due now.
-  for(const w of catalog){if(stats[clean(w.de)]?.ok||stats[clean(w.de)]?.bad)data.cards[w.id+':ua']={wordId:w.id,type:'ua',step:0,due:Date.now(),ok:0,bad:0,introduced:0,migrated:true}}
+  for(const w of catalog){if(stats[clean(w.de)]?.ok||stats[clean(w.de)]?.bad)data.cards[w.id+':ua']={wordId:w.id,type:'ua',step:0,due:now,ok:0,bad:0,introduced:0,migrated:true}}
   save(data);return data;
  }
  function save(data){profileStorage.setItem(key,JSON.stringify(data))}
  function resolve(w){return lookup.get(JSON.stringify(w.slice(0,2)))}
  function runtime(entry){const catIndex=vocabCategories.findIndex(c=>c.words.some(w=>w[0]===entry.de&&w[1]===entry.ua));if(catIndex<0)return null;return {w:vocabCategories[catIndex].words.find(w=>w[0]===entry.de&&w[1]===entry.ua),catIndex}}
  function record(item,ok,now=Date.now()){
-  const entry=resolve(item.w);if(!entry||item.srsRecorded)return;const data=load(),type=item.answerSkill||item.type,cardKey=entry.id+':'+type,previous=data.cards[cardKey];
+  const entry=resolve(item.w);if(!entry||item.srsRecorded)return;const data=load(now),type=item.answerSkill||item.type,cardKey=entry.id+':'+type,previous=data.cards[cardKey];
   const card=previous?{...previous}:{wordId:entry.id,type,step:0,ok:0,bad:0,introduced:now};
   card[ok?'ok':'bad']++;card.last=now;
   if(!ok){card.step=0;card.due=now+10*60*1000}
@@ -25,7 +25,7 @@
   if(data.history.length>5000)data.history=data.history.slice(-5000);save(data);item.srsRecorded=true;
  }
  function snapshot(now=Date.now()){
-  const data=load(),cards=Object.values(data.cards),known=new Set(cards.map(c=>c.wordId));
+  const data=load(now),cards=Object.values(data.cards),known=new Set(cards.map(c=>c.wordId));
   const firstSeen=new Map();for(const c of cards)firstSeen.set(c.wordId,Math.min(firstSeen.get(c.wordId)??Infinity,c.introduced||0));
   const introduced=new Set([...firstSeen].filter(([,at])=>at>0&&day(at)===day(now)).map(([id])=>id));
   const due=cards.filter(c=>c.due<=now&&catalog.some(w=>w.id===c.wordId));

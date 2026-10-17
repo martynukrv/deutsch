@@ -24,7 +24,7 @@ await p.evaluate(()=>{
  if(R.snapshot().remaining!==0||R.items('new').length)throw Error('Daily new-word limit exceeded');
  reviewNow=R.afterDays(reviewNow,1);if(R.items('new').length!==5)throw Error('Next day new limit did not reset');
  // Migration is conservative and does not rewrite historical totals.
- Date.now=realNow;profileStorage.removeItem(R.key);profileStorage.setItem(vqStatsKey(),JSON.stringify({ich:{ok:8,bad:2}}));const s=R.snapshot();
+ const migrationTime=realNow();let tick=0;Date.now=()=>migrationTime+(tick++*3);profileStorage.removeItem(R.key);profileStorage.setItem(vqStatsKey(),JSON.stringify({ich:{ok:8,bad:2}}));const s=R.snapshot();
  if(s.due.length!==1||s.due[0].type!=='ua'||s.due[0].step!==0||loadVqStats().ich.ok!==8)throw Error('Legacy migration inferred false mastery or lost totals');
  Date.now=realNow;R.render();setMode('home');
 });
