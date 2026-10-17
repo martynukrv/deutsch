@@ -48,7 +48,9 @@ jobs:
       - name: Verify artwork bindings and mobile layouts
         run: node .github/tests/artwork.cjs
       - name: Verify app behavior
-        run: node .github/tests/browser-smoke.cjs
+        run: |
+          node .github/tests/browser-smoke.cjs
+          node .github/tests/profiles.cjs
       - name: Verify selectable vocabulary practice
         run: node .github/tests/vocab-modes.cjs
       - name: Verify recorded audio playback

@@ -7,7 +7,7 @@ const path=require('path'),fs=require('fs');
   const page=await browser.newPage({viewport:{width:390,height:844}}),errors=[];
   page.on('pageerror',e=>errors.push(e.message));
   await page.goto(process.env.ART_SITE_URL||pathToFileURL(path.resolve('index.html')).href,{waitUntil:'load'});
-  await page.evaluate(()=>{localStorage.removeItem('deutsch16_vocab_modes_v1');vqModes=loadVqModes();openVocabCategory(7)});
+  await page.evaluate(()=>{profileStorage.removeItem('deutsch16_vocab_modes_v1');vqModes=loadVqModes();openVocabCategory(7)});
   if(await page.locator('[data-vq-mode][aria-pressed="true"]').count()!==1||await page.locator('[data-vq-mode="ua"]').getAttribute('aria-pressed')!=='true')throw Error('Beginner default must be German-to-Ukrainian only');
   await page.locator('#startVocabQuiz').click();
   if(!await page.evaluate(()=>vq.items.length>0&&vq.items.every(it=>it.type==='ua')))throw Error('Unselected exercise in beginner practice');
