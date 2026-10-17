@@ -1,0 +1,3277 @@
+{
+  "count": 409,
+  "entries": [
+    {
+      "id": "rq001",
+      "text": "derjenige",
+      "path": "audio/henri-20261017/rq001_derjenige_eb780131908b.mp3",
+      "sha256": "eb780131908b1f36185187d6bb770fe91554bb9c389af62ef4ac4fca9dedb1c4",
+      "duration": 1.044898,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq002",
+      "text": "diejenige",
+      "path": "audio/henri-20261017/rq002_diejenige_75afcfd86bf7.mp3",
+      "sha256": "75afcfd86bf7f0e5fe1e26b4a3840af3720dc7d201b0005434cd10b3b5bc6c91",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq003",
+      "text": "dasjenige",
+      "path": "audio/henri-20261017/rq003_dasjenige_7a2078462842.mp3",
+      "sha256": "7a207846284268e6f49872ebd19eb3130971d39dd6096a6fa4bd0b4a09e0a86b",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq004",
+      "text": "alle",
+      "path": "audio/henri-20261017/rq004_alle_4d7d00bf2dcb.mp3",
+      "sha256": "4d7d00bf2dcbd538b36a21d97b61fc050142e914f63987d910405419fd7640d3",
+      "duration": 0.574694,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq005",
+      "text": "jemand",
+      "path": "audio/henri-20261017/rq005_jemand_dace15dc0421.mp3",
+      "sha256": "dace15dc0421dcc802156d7112e15bb5d3bb803f8d7af1bcc99be04d0d6fff04",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq006",
+      "text": "niemand",
+      "path": "audio/henri-20261017/rq006_niemand_368dc7354885.mp3",
+      "sha256": "368dc7354885ae59010405ecd423a813acb8116901551f5fb96148334c2e964b",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq007",
+      "text": "etwas",
+      "path": "audio/henri-20261017/rq007_etwas_f27498bee8fd.mp3",
+      "sha256": "f27498bee8fd8251df23061d8978be80bf9214465ba73ecf33024bd84c2beb09",
+      "duration": 0.783673,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq008",
+      "text": "jeder",
+      "path": "audio/henri-20261017/rq008_jeder_99c2d799ae07.mp3",
+      "sha256": "99c2d799ae073be3a9d2b2f8e697779f3434f6ac50dcdf6d8019b1fd6a047583",
+      "duration": 0.757551,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq009",
+      "text": "öffnen",
+      "path": "audio/henri-20261017/rq009_oeffnen_df66a8ed49d0.mp3",
+      "sha256": "df66a8ed49d0b7278ff6d3c715d543bc868665421b7e3c67e409bb470fdd1194",
+      "duration": 0.705306,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq010",
+      "text": "schließen",
+      "path": "audio/henri-20261017/rq010_schliessen_929942d62d61.mp3",
+      "sha256": "929942d62d61c7d0f01ae9d39c6e77e0b8474dff87b8cffdbbd37f5960a7f5ee",
+      "duration": 0.783673,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq011",
+      "text": "helfen",
+      "path": "audio/henri-20261017/rq011_helfen_1dfed2cacfab.mp3",
+      "sha256": "1dfed2cacfab2b90bde811c207767c6fada308b41ed95ba4e0936bfdfd58aec2",
+      "duration": 0.757551,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq012",
+      "text": "hell",
+      "path": "audio/henri-20261017/rq012_hell_90bdd645ecd9.mp3",
+      "sha256": "90bdd645ecd97f1bf0f94fdf7b00925139ec33e7dce7b1379d2d4211d38d3759",
+      "duration": 0.574694,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq013",
+      "text": "dunkel",
+      "path": "audio/henri-20261017/rq013_dunkel_966e24ec0002.mp3",
+      "sha256": "966e24ec0002697051af9747f757bdefc34d475a96d2f76f3104a664de89e4a9",
+      "duration": 0.705306,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq014",
+      "text": "bunt",
+      "path": "audio/henri-20261017/rq014_bunt_76ae1cb1b845.mp3",
+      "sha256": "76ae1cb1b845d8e8b8e1592308f3f4b373291b30e546ac1b51ab9f779cb1b8c1",
+      "duration": 0.679184,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq015",
+      "text": "sechzig",
+      "path": "audio/henri-20261017/rq015_sechzig_3e9271f5710b.mp3",
+      "sha256": "3e9271f5710bcfaba4931fae95b0bcfcb52f5a15fd467e3d9431f0ace4ce2963",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq016",
+      "text": "siebzig",
+      "path": "audio/henri-20261017/rq016_siebzig_8f674d984f0a.mp3",
+      "sha256": "8f674d984f0a377e629afd518a2e6451b3178ce2d487b0b5d97385a72eee0236",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq017",
+      "text": "achtzig",
+      "path": "audio/henri-20261017/rq017_achtzig_dd5dfcd353fc.mp3",
+      "sha256": "dd5dfcd353fcaedb56e9279e40a392fa658d7fe896ef143d4043e692f4fa3965",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq018",
+      "text": "neunzig",
+      "path": "audio/henri-20261017/rq018_neunzig_927d723b7a82.mp3",
+      "sha256": "927d723b7a82c9de903ae66c095392589b476a2b4271485fdc7b8ba6d6232d76",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq019",
+      "text": "Gute Nacht!",
+      "path": "audio/henri-20261017/rq019_gute_nacht_dd7360c2d1a2.mp3",
+      "sha256": "dd7360c2d1a21d5cf20abedf8cda9178703d76f681711adb62cfcb473cf7f127",
+      "duration": 0.862041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq020",
+      "text": "Bis bald!",
+      "path": "audio/henri-20261017/rq020_bis_bald_0355fd91114a.mp3",
+      "sha256": "0355fd91114a4fb522e4a0d6988104840b88ba519c7546385ef8b981d3dc902d",
+      "duration": 0.783673,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq021",
+      "text": "die Tante",
+      "path": "audio/henri-20261017/rq021_die_tante_1441feb999de.mp3",
+      "sha256": "1441feb999de1e3c603e129d2ed45447193a78b09f9d8121c4b75b910de3cf2e",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq022",
+      "text": "der Onkel",
+      "path": "audio/henri-20261017/rq022_der_onkel_16d5fe9d22b1.mp3",
+      "sha256": "16d5fe9d22b1212aa8ef37ef3037841b4d98ece2ee0e82077929c6d49ed6e543",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq023",
+      "text": "das Baby",
+      "path": "audio/henri-20261017/rq023_das_baby_917646c0a000.mp3",
+      "sha256": "917646c0a000866d7625b43488c3531b3d6c34508a9364bf4a09a38b6d345958",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq024",
+      "text": "die Freundin",
+      "path": "audio/henri-20261017/rq024_die_freundin_c9aa36cdacdc.mp3",
+      "sha256": "c9aa36cdacdc78104ec45467304f34d99e5a1b0b3941f41968e27c905e7840cc",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq025",
+      "text": "glücklich",
+      "path": "audio/henri-20261017/rq025_gluecklich_348f41d9b2f1.mp3",
+      "sha256": "348f41d9b2f17b171ac3af0d92f77f8d095025eac736ae891f4620dfa2729768",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq026",
+      "text": "müde",
+      "path": "audio/henri-20261017/rq026_muede_02c30e233c81.mp3",
+      "sha256": "02c30e233c81b53742605ad964d63b671aa99cc2c7e2a625f4850891a775a3cc",
+      "duration": 0.731429,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq027",
+      "text": "die Kartoffel",
+      "path": "audio/henri-20261017/rq027_die_kartoffel_1dd6d4078e92.mp3",
+      "sha256": "1dd6d4078e924709a85f66f9088bd7cd043a8a5fe97e6ed27c0d5dd3b42aff4e",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq028",
+      "text": "die Tomate",
+      "path": "audio/henri-20261017/rq028_die_tomate_4e2341b725a1.mp3",
+      "sha256": "4e2341b725a10578ff48c7391efd23a183546d4c3777ef0044bc02144e297029",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq029",
+      "text": "die Suppe",
+      "path": "audio/henri-20261017/rq029_die_suppe_ef946ab8ad74.mp3",
+      "sha256": "ef946ab8ad74ae06ea57d2ca7820e76e1ec601a6df88c5e46bfc89a7dff88e90",
+      "duration": 0.757551,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq030",
+      "text": "die Lampe",
+      "path": "audio/henri-20261017/rq030_die_lampe_176259faf41c.mp3",
+      "sha256": "176259faf41c1392d93714aef7985c62248c32cb5e56ca956e946d9a0ade59bb",
+      "duration": 0.809796,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq031",
+      "text": "das Sofa",
+      "path": "audio/henri-20261017/rq031_das_sofa_004d66b3ca02.mp3",
+      "sha256": "004d66b3ca025256205ec2bd28b78a9bd5d28221eedfc3058b273dbadcb291f2",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq032",
+      "text": "der Schrank",
+      "path": "audio/henri-20261017/rq032_der_schrank_50f9f37b34eb.mp3",
+      "sha256": "50f9f37b34eb96162d21bcdafcaf9214b4fb8ac8fa450145b5157b4b3e4218ea",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq033",
+      "text": "der Rucksack",
+      "path": "audio/henri-20261017/rq033_der_rucksack_80aaa16a16b5.mp3",
+      "sha256": "80aaa16a16b5b3360450896bab69059f694fa5937093a6ed10cdedd00bf55077",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq034",
+      "text": "das Lineal",
+      "path": "audio/henri-20261017/rq034_das_lineal_ab50fcb3e2e6.mp3",
+      "sha256": "ab50fcb3e2e6068da405b1ee76f6851547dc83865a12c917a9a828dd6266114d",
+      "duration": 1.044898,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq035",
+      "text": "der Radiergummi",
+      "path": "audio/henri-20261017/rq035_der_radiergummi_475298efdd67.mp3",
+      "sha256": "475298efdd67624ebc456698b1e9241bf585b510043542abd5b369ee14d59d79",
+      "duration": 1.07102,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq036",
+      "text": "die Woche",
+      "path": "audio/henri-20261017/rq036_die_woche_f01cf14eb6b7.mp3",
+      "sha256": "f01cf14eb6b743a3d5ca444b870f06aec48ea582d293731de665ed31104410bf",
+      "duration": 0.757551,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq037",
+      "text": "der Monat",
+      "path": "audio/henri-20261017/rq037_der_monat_9f6b99011922.mp3",
+      "sha256": "9f6b99011922408918c1218e536c11601fae9a5c4a6b72c2e888904f0d7271e2",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq038",
+      "text": "das Jahr",
+      "path": "audio/henri-20261017/rq038_das_jahr_2caf05088160.mp3",
+      "sha256": "2caf0508816063d857688125f74faaf166be12b40c20ff9602fda5c390e3ccde",
+      "duration": 0.809796,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq039",
+      "text": "wie lange",
+      "path": "audio/henri-20261017/rq039_wie_lange_6016df4bc02d.mp3",
+      "sha256": "6016df4bc02de50e5b4317e1dd427bc11b7c1589d1979e35771bb2e5cd8de105",
+      "duration": 0.783673,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq040",
+      "text": "wie oft",
+      "path": "audio/henri-20261017/rq040_wie_oft_fd104e6a9b3e.mp3",
+      "sha256": "fd104e6a9b3e05774a4aaaa7ff71ea093f386a7916b5bd66b31dd25a7bd8a39f",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq041",
+      "text": "welche",
+      "path": "audio/henri-20261017/rq041_welche_b086aec2268e.mp3",
+      "sha256": "b086aec2268e0f9552d5675cbf6f181a0e7581d3af7d33fdd1d191b34126f2af",
+      "duration": 0.783673,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq042",
+      "text": "weil",
+      "path": "audio/henri-20261017/rq042_weil_0855e4092f82.mp3",
+      "sha256": "0855e4092f82958baf6b7a4111489c4bff58b3248806a0f0d02fbbd79b37ef44",
+      "duration": 0.653061,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq043",
+      "text": "mit",
+      "path": "audio/henri-20261017/rq043_mit_9dcee690f8a9.mp3",
+      "sha256": "9dcee690f8a90c9c2b7d237c8ffee9dd7741b10e2a9c5b2e9cb74784c80316db",
+      "duration": 0.653061,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq044",
+      "text": "ohne",
+      "path": "audio/henri-20261017/rq044_ohne_37640c51f307.mp3",
+      "sha256": "37640c51f3070b52cdb7501e97998a54d7aee2d01a281fe81292ad4281a333a5",
+      "duration": 0.600816,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq045",
+      "text": "der Rücken",
+      "path": "audio/henri-20261017/rq045_der_ruecken_dd24e2bbc747.mp3",
+      "sha256": "dd24e2bbc74767f58fc05585e086d8588fb889582701a8f6ff1c25daf3876a50",
+      "duration": 0.809796,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq046",
+      "text": "der Hals",
+      "path": "audio/henri-20261017/rq046_der_hals_ca75e01e2878.mp3",
+      "sha256": "ca75e01e2878ba4cb574d5f416f0dce93060d356da001637c16d6b3e0e2d0163",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq047",
+      "text": "der Zahn",
+      "path": "audio/henri-20261017/rq047_der_zahn_5f722704c5ee.mp3",
+      "sha256": "5f722704c5ee93fbd366fc4c8514c1dc7799d2355e5060db0c156aa8e057b50a",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq048",
+      "text": "die Ente",
+      "path": "audio/henri-20261017/rq048_die_ente_5d74abfacad0.mp3",
+      "sha256": "5d74abfacad0c420cf5ca39d964b82a0a7419ac2e69a87d615d4d77d5ccdc037",
+      "duration": 0.783673,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq049",
+      "text": "das Schaf",
+      "path": "audio/henri-20261017/rq049_das_schaf_d034490096d1.mp3",
+      "sha256": "d034490096d1b7423019e79d4b40afcfae2eb87431c29d8293e43f91830133b3",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq050",
+      "text": "der Elefant",
+      "path": "audio/henri-20261017/rq050_der_elefant_38b88e82920f.mp3",
+      "sha256": "38b88e82920fee3d3bc4ea237d45b4be8ef62035ed0d62e6b4e0a24bd7168348",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq051",
+      "text": "das Flugzeug",
+      "path": "audio/henri-20261017/rq051_das_flugzeug_67c3015198fd.mp3",
+      "sha256": "67c3015198fd59827dcd5a8e70b948fdc64290c2e5a4e150e03c82e1faf06856",
+      "duration": 1.097143,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq052",
+      "text": "das Schiff",
+      "path": "audio/henri-20261017/rq052_das_schiff_f94d98d84bf6.mp3",
+      "sha256": "f94d98d84bf65535847b8068d7e7edd2f0cc950c4439813fbf1e8bb80566f397",
+      "duration": 0.809796,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq053",
+      "text": "die Haltestelle",
+      "path": "audio/henri-20261017/rq053_die_haltestelle_27cd4456b6a3.mp3",
+      "sha256": "27cd4456b6a348d9c8acbaeec79b516d66522dd14a4ed0a1d9d8422617df1dbe",
+      "duration": 1.07102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq054",
+      "text": "das T-Shirt",
+      "path": "audio/henri-20261017/rq054_das_t_shirt_253aab4f242d.mp3",
+      "sha256": "253aab4f242d4b1507cb8565e6fd5a101adc353da574127a19c90e736520c596",
+      "duration": 1.044898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq055",
+      "text": "die Hose",
+      "path": "audio/henri-20261017/rq055_die_hose_05f091267305.mp3",
+      "sha256": "05f0912673051501c8a53a2654f26c33902df5a486d74cad909286678332b192",
+      "duration": 0.809796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq056",
+      "text": "das Kleid",
+      "path": "audio/henri-20261017/rq056_das_kleid_c81a2cb0dcda.mp3",
+      "sha256": "c81a2cb0dcda0413e0ddc67d86ff1e97fe4fd1913171e35ef7866695a8e6ce22",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq057",
+      "text": "die Jacke",
+      "path": "audio/henri-20261017/rq057_die_jacke_fd04f6ee3da5.mp3",
+      "sha256": "fd04f6ee3da5b9411b2ad02d809671592b7b0bc544dbee2a5f3159ecaa266daa",
+      "duration": 0.757551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq058",
+      "text": "der Schuh",
+      "path": "audio/henri-20261017/rq058_der_schuh_4517f2f4a69d.mp3",
+      "sha256": "4517f2f4a69d6fbe7af8dba8dfaa99dec9e1edb8f65a21997a96d6e38735e490",
+      "duration": 0.757551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq059",
+      "text": "die Mütze",
+      "path": "audio/henri-20261017/rq059_die_muetze_607e93137245.mp3",
+      "sha256": "607e9313724577e4e76dba168df2de8561cd5f22c56487cbb98212673fc3b238",
+      "duration": 0.809796,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq060",
+      "text": "der Schal",
+      "path": "audio/henri-20261017/rq060_der_schal_339c4be9cb42.mp3",
+      "sha256": "339c4be9cb428301c0e1b6d14d684a7baa47df4c8932ae07efdc371857411acd",
+      "duration": 0.809796,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq061",
+      "text": "die Sonne",
+      "path": "audio/henri-20261017/rq061_die_sonne_9ee7a9fb6f8b.mp3",
+      "sha256": "9ee7a9fb6f8b6d1159dceaa7098057ccc5325f084441cd7354933466f9035717",
+      "duration": 0.783673,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq062",
+      "text": "der Regen",
+      "path": "audio/henri-20261017/rq062_der_regen_aea649b23033.mp3",
+      "sha256": "aea649b23033dfd27c447ca3befa38f9a5b7aa90b9292a34b37ef5e266753320",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq063",
+      "text": "der Schnee",
+      "path": "audio/henri-20261017/rq063_der_schnee_74c451299678.mp3",
+      "sha256": "74c451299678fcf0adaf1f8df1280cee7dc2b5f6c440b02e1f7b7bc9e3533c06",
+      "duration": 0.809796,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq064",
+      "text": "der Wind",
+      "path": "audio/henri-20261017/rq064_der_wind_48d70c431172.mp3",
+      "sha256": "48d70c4311722bd23f2c42d93804dbe10e8bdf9f2b9e539640c87963047e17f4",
+      "duration": 0.809796,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq065",
+      "text": "die Wolke",
+      "path": "audio/henri-20261017/rq065_die_wolke_738e8b90ae99.mp3",
+      "sha256": "738e8b90ae9909cdacd8e1edde12e069923b8c3d82e71f8959b3fb383a6a5142",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq066",
+      "text": "der Baum",
+      "path": "audio/henri-20261017/rq066_der_baum_c7bc6b34ff7b.mp3",
+      "sha256": "c7bc6b34ff7bebcb471adcddf7ac22575a173dae0d841720fd90dac42e058018",
+      "duration": 0.809796,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq067",
+      "text": "die Blume",
+      "path": "audio/henri-20261017/rq067_die_blume_80b851589bd2.mp3",
+      "sha256": "80b851589bd2ede2f512fd5dbe5e8d05f2e8af34045b9824f44e9015ddf4559c",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq068",
+      "text": "lerne",
+      "path": "audio/henri-20261017/rq068_lerne_a4862c25433a.mp3",
+      "sha256": "a4862c25433a5255d1801928e29f1d40965cc11614e6ed42f710070a92ecb930",
+      "duration": 0.757551,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq069",
+      "text": "lernst",
+      "path": "audio/henri-20261017/rq069_lernst_db3626364ead.mp3",
+      "sha256": "db3626364ead1f8545c73cb01b5b8893f8f2992a2d975afcf35ba1a07d96c43e",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq070",
+      "text": "lernt",
+      "path": "audio/henri-20261017/rq070_lernt_3db9855a04b8.mp3",
+      "sha256": "3db9855a04b8e7bd73012b8ed369a820ff731b60beb513b32223ae076581906d",
+      "duration": 0.757551,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq071",
+      "text": "höre",
+      "path": "audio/henri-20261017/rq071_hoere_eb50d0ffa682.mp3",
+      "sha256": "eb50d0ffa68254995b616b6c31e0734ec7ab3c7bc50862ee34e6bf2a1eb59b34",
+      "duration": 0.679184,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq072",
+      "text": "hörst",
+      "path": "audio/henri-20261017/rq072_hoerst_70023bba1295.mp3",
+      "sha256": "70023bba1295c42219411868f0d7bebdac64c8cbad7cdc0da93db23fa0bf842b",
+      "duration": 0.731429,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq073",
+      "text": "hört",
+      "path": "audio/henri-20261017/rq073_hoert_fa52f6d50775.mp3",
+      "sha256": "fa52f6d5077553865ddd5126c560bf366016094d84bc09bcf97b6a247944f52c",
+      "duration": 0.653061,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq074",
+      "text": "gehe",
+      "path": "audio/henri-20261017/rq074_gehe_5308275a02e4.mp3",
+      "sha256": "5308275a02e49fe8b65ec678d6e3549bb13810e3e423a90ec3bf11a1e5b21ed9",
+      "duration": 0.626939,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq075",
+      "text": "gehst",
+      "path": "audio/henri-20261017/rq075_gehst_9d5c85cf34d8.mp3",
+      "sha256": "9d5c85cf34d8e27c1c6a1cb2c18618f77f12edc7460a7f6205062187796ad966",
+      "duration": 0.731429,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "rq076",
+      "text": "geht",
+      "path": "audio/henri-20261017/rq076_geht_4352650e7ab0.mp3",
+      "sha256": "4352650e7ab00945a4666d3cf5e03745495d142bbfa2baa5b5648e8ca071e2b3",
+      "duration": 0.626939,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq077",
+      "text": "komme",
+      "path": "audio/henri-20261017/rq077_komme_4907a61a96e4.mp3",
+      "sha256": "4907a61a96e49e8d383e293baa0955b1cd75c67c78e38724029d050232648f10",
+      "duration": 0.626939,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq078",
+      "text": "kommst",
+      "path": "audio/henri-20261017/rq078_kommst_b493c3f77756.mp3",
+      "sha256": "b493c3f77756ff4eedd3d3e4113a194e0bfb53b13752b44f44dc897cfe262ec3",
+      "duration": 0.783673,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq079",
+      "text": "kommt",
+      "path": "audio/henri-20261017/rq079_kommt_b1251d8a3a54.mp3",
+      "sha256": "b1251d8a3a543ae9f370ff340ee778814ded98c99ae41e6abebe2386459676bd",
+      "duration": 0.653061,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq080",
+      "text": "sehe",
+      "path": "audio/henri-20261017/rq080_sehe_b120ad15dd68.mp3",
+      "sha256": "b120ad15dd68a06f0bba774648d05955da86f143ffaaac291f3dfffb03843f8c",
+      "duration": 0.731429,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq081",
+      "text": "siehst",
+      "path": "audio/henri-20261017/rq081_siehst_6d0432ec7fde.mp3",
+      "sha256": "6d0432ec7fde4b370753b161578c23d85e3615e869f254695a45b3212630a198",
+      "duration": 0.809796,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq082",
+      "text": "sieht",
+      "path": "audio/henri-20261017/rq082_sieht_d739bb703472.mp3",
+      "sha256": "d739bb7034723229678c2863972ab049e2e82d1874adb9e880a227e952ca4197",
+      "duration": 0.705306,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq083",
+      "text": "seht",
+      "path": "audio/henri-20261017/rq083_seht_e8f0b67c4637.mp3",
+      "sha256": "e8f0b67c4637ebcc6b8fdf429adcb921f860a11510aa3f161ac97789ed252423",
+      "duration": 0.731429,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq084",
+      "text": "spreche",
+      "path": "audio/henri-20261017/rq084_spreche_2d4d3913c155.mp3",
+      "sha256": "2d4d3913c1558d3010a8a7b4dab795bcf71b33bf8b4a5df8d784e219c743be60",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq085",
+      "text": "sprichst",
+      "path": "audio/henri-20261017/rq085_sprichst_8b4e1d11f0a7.mp3",
+      "sha256": "8b4e1d11f0a7f4c9601fb5b7762a70ba134fb922a15131781e78c7d643e6a73b",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq086",
+      "text": "spricht",
+      "path": "audio/henri-20261017/rq086_spricht_aae4ec6abb5a.mp3",
+      "sha256": "aae4ec6abb5a206af766dc540358e8b14cfc4660673509fa2b4e2fa76b715ae3",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq087",
+      "text": "sprecht",
+      "path": "audio/henri-20261017/rq087_sprecht_2500eb0a8710.mp3",
+      "sha256": "2500eb0a871086727b50d2ee42fb5d58e45997ca4ac0ef850cbdff76d25337ba",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq088",
+      "text": "arbeite",
+      "path": "audio/henri-20261017/rq088_arbeite_c1945fdd5bfc.mp3",
+      "sha256": "c1945fdd5bfcf2973157a9b6c8bea6d4cd4b84575727dd0210cc4d8b1c377417",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq089",
+      "text": "arbeitest",
+      "path": "audio/henri-20261017/rq089_arbeitest_ebb7f42cb5cc.mp3",
+      "sha256": "ebb7f42cb5cc8c354f94057df76591256c72ab2c00245ac87bfe135fb5b5d57a",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq090",
+      "text": "arbeitet",
+      "path": "audio/henri-20261017/rq090_arbeitet_2986b9373033.mp3",
+      "sha256": "2986b93730333bdf3ac7e37765ffc67bf1664ee3fdad69ccaebecfb155850e36",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq091",
+      "text": "esse",
+      "path": "audio/henri-20261017/rq091_esse_9f26fdf95979.mp3",
+      "sha256": "9f26fdf95979a6ea08c5f7fad4e82163df8ab456e20702dbd81b7328922ce3f2",
+      "duration": 0.626939,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq092",
+      "text": "isst",
+      "path": "audio/henri-20261017/rq092_isst_2fab7d0ad9fc.mp3",
+      "sha256": "2fab7d0ad9fcf612a9813cb4c4e8828ac7ae8ec90568a2b4c4a383b7afd18690",
+      "duration": 0.626939,
+      "verification": "homophone"
+    },
+    {
+      "id": "rq093",
+      "text": "esst",
+      "path": "audio/henri-20261017/rq093_esst_eb3ea8108888.mp3",
+      "sha256": "eb3ea8108888cf84e8da021a58f509659b853c4f83ebf2ae93fe51ca2fde7dd1",
+      "duration": 0.653061,
+      "verification": "homophone"
+    },
+    {
+      "id": "rq094",
+      "text": "trinke",
+      "path": "audio/henri-20261017/rq094_trinke_5fab88c16ad1.mp3",
+      "sha256": "5fab88c16ad1fa2b49cc072d0a4ad4736ac621827591ca472ec7626835496c85",
+      "duration": 0.731429,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq095",
+      "text": "trinkst",
+      "path": "audio/henri-20261017/rq095_trinkst_dec8572ae8d7.mp3",
+      "sha256": "dec8572ae8d7201512dc15b30371b793ac533ef257c417338d469dfab11ae4e2",
+      "duration": 0.783673,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq096",
+      "text": "trinkt",
+      "path": "audio/henri-20261017/rq096_trinkt_addce096aa45.mp3",
+      "sha256": "addce096aa45648e43ee2bda7538d47f3e25a7620a45f39594ed733efe96937a",
+      "duration": 0.705306,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq097",
+      "text": "schlafe",
+      "path": "audio/henri-20261017/rq097_schlafe_51db1ba20cd3.mp3",
+      "sha256": "51db1ba20cd3ed44258725415b9f5546e6eaf6dd3c7547bc1f7ad5503f0066ca",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq098",
+      "text": "schläfst",
+      "path": "audio/henri-20261017/rq098_schlaefst_42ab09756d84.mp3",
+      "sha256": "42ab09756d847cb5532c5c65e67a455a8b8bd066b22e1330b962de86c5eb955b",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq099",
+      "text": "schläft",
+      "path": "audio/henri-20261017/rq099_schlaeft_243664c6c662.mp3",
+      "sha256": "243664c6c6627a240483e3bf62101976778e511531c98bb9900b0f634dd56f76",
+      "duration": 0.809796,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq100",
+      "text": "schlaft",
+      "path": "audio/henri-20261017/rq100_schlaft_4e37bd46405d.mp3",
+      "sha256": "4e37bd46405da727a780cd6310a31e7dec72411453ca1e5cfd4be3b633e5fa19",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq101",
+      "text": "lese",
+      "path": "audio/henri-20261017/rq101_lese_030ebc381bd1.mp3",
+      "sha256": "030ebc381bd11cde26f2ce1c1436cf349509559b3c0b3329996254af01780a5b",
+      "duration": 0.757551,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq102",
+      "text": "liest",
+      "path": "audio/henri-20261017/rq102_liest_22aeeaf10f1e.mp3",
+      "sha256": "22aeeaf10f1e2db8be9f83618b1cc7f5c6c12866d1e20fd53248f73a1e88cd84",
+      "duration": 0.783673,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq103",
+      "text": "lest",
+      "path": "audio/henri-20261017/rq103_lest_26cbb458b906.mp3",
+      "sha256": "26cbb458b906c90102181b2babaeda382f5dd432fc4322c597adf91a905632ce",
+      "duration": 0.757551,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq104",
+      "text": "schreibe",
+      "path": "audio/henri-20261017/rq104_schreibe_d076b999a48e.mp3",
+      "sha256": "d076b999a48e157e649d73ba8281a509b754c8c0ddb2d42a719d20c8a6f82f1d",
+      "duration": 0.809796,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq105",
+      "text": "schreibst",
+      "path": "audio/henri-20261017/rq105_schreibst_e259a244badc.mp3",
+      "sha256": "e259a244badc1eaf269d21ad3caa46128a9351dc52a58be694bc27997d465a90",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq106",
+      "text": "schreibt",
+      "path": "audio/henri-20261017/rq106_schreibt_cc20d4302c38.mp3",
+      "sha256": "cc20d4302c38b75f6fe200a8f79f39749084ed0fdd0200ac7f9e5ce99bccb086",
+      "duration": 0.783673,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq107",
+      "text": "weißt",
+      "path": "audio/henri-20261017/rq107_weisst_1a1480e273e3.mp3",
+      "sha256": "1a1480e273e359f8a129088cd666506d9595e5120988376e1a9438f1d3678e91",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq108",
+      "text": "wisst",
+      "path": "audio/henri-20261017/rq108_wisst_779d3e09c053.mp3",
+      "sha256": "779d3e09c05314156d9b6d0b44e30a5b7cb6f6841e6163486a074f73e38c8cf1",
+      "duration": 0.705306,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq109",
+      "text": "kenne",
+      "path": "audio/henri-20261017/rq109_kenne_b1485bf096d3.mp3",
+      "sha256": "b1485bf096d398aa1953a81e930ab5af8d6875c32867d0f51885b8f5fd3db300",
+      "duration": 0.626939,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq110",
+      "text": "kennst",
+      "path": "audio/henri-20261017/rq110_kennst_df2c29cbf1a4.mp3",
+      "sha256": "df2c29cbf1a4714be412b759451548b820bf61b76c3af3444dd2b7dae4b549f8",
+      "duration": 0.783673,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq111",
+      "text": "kennt",
+      "path": "audio/henri-20261017/rq111_kennt_c21b28f2bf4a.mp3",
+      "sha256": "c21b28f2bf4a75360d77384571998620ae4888dba1d8ed74f27d1cb06fc3fb5e",
+      "duration": 0.653061,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq112",
+      "text": "will",
+      "path": "audio/henri-20261017/rq112_will_d7095e2ed83b.mp3",
+      "sha256": "d7095e2ed83b47dab982e995bb849933a841245922543aa695f44b6d4345acd3",
+      "duration": 0.653061,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq113",
+      "text": "willst",
+      "path": "audio/henri-20261017/rq113_willst_e438f20aef5e.mp3",
+      "sha256": "e438f20aef5e9a531324be52cce26804dfd33e8ed7a7904896cc18ddb2abf0ef",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq114",
+      "text": "wollt",
+      "path": "audio/henri-20261017/rq114_wollt_4639237858a5.mp3",
+      "sha256": "4639237858a5917cc2db8d123dccfc9a2edf60abb3fc4f6d7cdbfec65e7da439",
+      "duration": 0.731429,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq115",
+      "text": "kann",
+      "path": "audio/henri-20261017/rq115_kann_80e421c39177.mp3",
+      "sha256": "80e421c39177243d87717ab93e2528fce347960f8ed1976cc1f4f0977d9902b5",
+      "duration": 0.626939,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq116",
+      "text": "kannst",
+      "path": "audio/henri-20261017/rq116_kannst_cd497abb16d9.mp3",
+      "sha256": "cd497abb16d969b01563c77cf4bdeedaaeac9a6c1caefccfc1a863471ab5d4e9",
+      "duration": 0.783673,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq117",
+      "text": "könnt",
+      "path": "audio/henri-20261017/rq117_koennt_f95cee278952.mp3",
+      "sha256": "f95cee278952b76d8c940f887bcb203fe08870ff3baf7a51d0ebbd4c66ce2943",
+      "duration": 0.653061,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq118",
+      "text": "muss",
+      "path": "audio/henri-20261017/rq118_muss_56ce6cca128d.mp3",
+      "sha256": "56ce6cca128dddee04d10c6ebee4e953e1f4532aaffe85acbe4c5c2c3f5753df",
+      "duration": 0.731429,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq119",
+      "text": "musst",
+      "path": "audio/henri-20261017/rq119_musst_b2d83bb2fd5d.mp3",
+      "sha256": "b2d83bb2fd5d96378eaa182ab9985515f940690213b89672eba46799c78908d5",
+      "duration": 0.757551,
+      "verification": "homophone"
+    },
+    {
+      "id": "rq120",
+      "text": "müsst",
+      "path": "audio/henri-20261017/rq120_muesst_429e55ba5da2.mp3",
+      "sha256": "429e55ba5da2b089307b97e8339f047d6db99c17fceb2509433ad28e5f22092d",
+      "duration": 0.731429,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq121",
+      "text": "brauche",
+      "path": "audio/henri-20261017/rq121_brauche_1640ae395e08.mp3",
+      "sha256": "1640ae395e08ac12124d1ede5182aa357ad54e9eda4b2bebcb7437c5f39aac93",
+      "duration": 0.757551,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq122",
+      "text": "brauchst",
+      "path": "audio/henri-20261017/rq122_brauchst_831c58ec3527.mp3",
+      "sha256": "831c58ec35278d050ace6cf9d7e012cf7824ba501afec7dcc392b08f89773797",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq123",
+      "text": "braucht",
+      "path": "audio/henri-20261017/rq123_braucht_f3c3e43a0b05.mp3",
+      "sha256": "f3c3e43a0b052436126adbf0cd6c4a1dc6eb130da50be953eaf2fa99af576f15",
+      "duration": 0.757551,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq124",
+      "text": "gebe",
+      "path": "audio/henri-20261017/rq124_gebe_6578c79bdb27.mp3",
+      "sha256": "6578c79bdb27f809bbd9f9a8e8403dc93235ab757a50b58fd29a7c584dce13e4",
+      "duration": 0.626939,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq125",
+      "text": "gibst",
+      "path": "audio/henri-20261017/rq125_gibst_346d378660d4.mp3",
+      "sha256": "346d378660d4dbe09c58574704f81ae4d8ad2f1210fc9148133350f7ef0a07a5",
+      "duration": 0.731429,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq126",
+      "text": "gibt",
+      "path": "audio/henri-20261017/rq126_gibt_ee5ad10e3fa5.mp3",
+      "sha256": "ee5ad10e3fa5b8b0f9956781bf08a3d0ef3e2610d3e551591e5717a02ed61283",
+      "duration": 0.653061,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq127",
+      "text": "gebt",
+      "path": "audio/henri-20261017/rq127_gebt_b544ccd5ebc7.mp3",
+      "sha256": "b544ccd5ebc7ce6322a52165cd4bc1b2513f73bfcc5f0612c3e1811e8034c39a",
+      "duration": 0.653061,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq128",
+      "text": "nehme",
+      "path": "audio/henri-20261017/rq128_nehme_0794fd55bfb1.mp3",
+      "sha256": "0794fd55bfb1b68f41472cf316518b5be61a4944fffbff638c6e5eebcb09cf24",
+      "duration": 0.731429,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq129",
+      "text": "nimmst",
+      "path": "audio/henri-20261017/rq129_nimmst_7ad76dbc3d5f.mp3",
+      "sha256": "7ad76dbc3d5fdb0c2a62f89e4eb03d43ed91195c803c4c03d0c872f11bbc1d3a",
+      "duration": 0.809796,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq130",
+      "text": "nimmt",
+      "path": "audio/henri-20261017/rq130_nimmt_46ae580cfe04.mp3",
+      "sha256": "46ae580cfe045c3a12f197afecd1d86dcf36ad3009fade80d28a804a0beeeaaf",
+      "duration": 0.679184,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq131",
+      "text": "nehmt",
+      "path": "audio/henri-20261017/rq131_nehmt_68b7046b7692.mp3",
+      "sha256": "68b7046b76922a50d4ceb672bc5fee466433e5f9f20d1ec2fba69c7568723555",
+      "duration": 0.731429,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq132",
+      "text": "finde",
+      "path": "audio/henri-20261017/rq132_finde_9887305788c7.mp3",
+      "sha256": "9887305788c77db2ea2ab0e04db256a71f99b7d56385e4c72aa34f860bab67d8",
+      "duration": 0.731429,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq133",
+      "text": "findest",
+      "path": "audio/henri-20261017/rq133_findest_e2f20fdc991c.mp3",
+      "sha256": "e2f20fdc991cd903221094b2081fd61aa1b54e8b5767cc45363ab61e7876d134",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq134",
+      "text": "findet",
+      "path": "audio/henri-20261017/rq134_findet_4ec9b08b9bc0.mp3",
+      "sha256": "4ec9b08b9bc02634683dd9b5f7419e8c589a8881c5649bdeee144a104d617b9d",
+      "duration": 0.783673,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq135",
+      "text": "kaufe",
+      "path": "audio/henri-20261017/rq135_kaufe_a7c4e17b7f91.mp3",
+      "sha256": "a7c4e17b7f910c12632de7c4817dc1b26b3cb8e5a36bc5bf15b123d2f690e069",
+      "duration": 0.731429,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq136",
+      "text": "kaufst",
+      "path": "audio/henri-20261017/rq136_kaufst_941f7409d3b8.mp3",
+      "sha256": "941f7409d3b8d2de7890ba9818ee3d8f5078e5e3a9767019e41a8ff42221b435",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq137",
+      "text": "kauft",
+      "path": "audio/henri-20261017/rq137_kauft_ad0d5ebf9fd6.mp3",
+      "sha256": "ad0d5ebf9fd687e593e36a38e42d383d9ffa940e5bde95eb37fe0effc1dd5577",
+      "duration": 0.757551,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq138",
+      "text": "fahre",
+      "path": "audio/henri-20261017/rq138_fahre_13b1075fab53.mp3",
+      "sha256": "13b1075fab53be8defc75ef4310827c23a1b1ae1050392c5ce9230cead3c3b81",
+      "duration": 0.757551,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq139",
+      "text": "fährst",
+      "path": "audio/henri-20261017/rq139_faehrst_841fa49c5a50.mp3",
+      "sha256": "841fa49c5a507eabb9a618604d45af1aa363351dfe4ce1e9e377379d7e4254ba",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq140",
+      "text": "fährt",
+      "path": "audio/henri-20261017/rq140_faehrt_bc5da2483c48.mp3",
+      "sha256": "bc5da2483c489247ff4f515954d29e7c678ccf949c49b736cb1a7d0059ce8402",
+      "duration": 0.757551,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq141",
+      "text": "fahrt",
+      "path": "audio/henri-20261017/rq141_fahrt_6b3d99451cdc.mp3",
+      "sha256": "6b3d99451cdc1218326c922467ab5f47707f4298886238be26926eb568a77802",
+      "duration": 0.731429,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq142",
+      "text": "bleibe",
+      "path": "audio/henri-20261017/rq142_bleibe_f12f2a3303c9.mp3",
+      "sha256": "f12f2a3303c9673df0dc0ee23e935bd80e466edec73c4e56fb2cbe9182f3c223",
+      "duration": 0.705306,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq143",
+      "text": "bleibst",
+      "path": "audio/henri-20261017/rq143_bleibst_3ec3519fcbb0.mp3",
+      "sha256": "3ec3519fcbb00d00beb01fd1f1f12396246526551e661c45456dcb1e3fdfa9d3",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq144",
+      "text": "bleibt",
+      "path": "audio/henri-20261017/rq144_bleibt_1b7f24bab22a.mp3",
+      "sha256": "1b7f24bab22a17b4487058bd78e248be51311cbccaa8f3a16ea6b1ac70ae3e02",
+      "duration": 0.705306,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq145",
+      "text": "öffne",
+      "path": "audio/henri-20261017/rq145_oeffne_5b8b95232291.mp3",
+      "sha256": "5b8b95232291435d068ca8602b97973fc827c165b3f6c04ceed4e5a04cf630a9",
+      "duration": 0.653061,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq146",
+      "text": "öffnest",
+      "path": "audio/henri-20261017/rq146_oeffnest_c4606a37eaa1.mp3",
+      "sha256": "c4606a37eaa190afa42241020a0bc436bcab76fedbfe369cb6f4276d1a34e681",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq147",
+      "text": "öffnet",
+      "path": "audio/henri-20261017/rq147_oeffnet_a549dfadfb81.mp3",
+      "sha256": "a549dfadfb81949e706af5ae89f9149d561e45e9ad4b870a71a03af9a04d9643",
+      "duration": 0.757551,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq148",
+      "text": "schließe",
+      "path": "audio/henri-20261017/rq148_schliesse_0778e2a6fea6.mp3",
+      "sha256": "0778e2a6fea6b8720029e0f7aec031bef93a6ef85252988f8fd21f58baaefc19",
+      "duration": 0.809796,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq149",
+      "text": "schließt",
+      "path": "audio/henri-20261017/rq149_schliesst_00b13f0cc21f.mp3",
+      "sha256": "00b13f0cc21f4093b22d3072f4f1043bd5edeaf61cd5ee10a6aaca53f8cf712f",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq150",
+      "text": "helfe",
+      "path": "audio/henri-20261017/rq150_helfe_df4f1614957f.mp3",
+      "sha256": "df4f1614957fd387cbe064aac9fb010b2678f2c836d345cbff83bcb5f789f81c",
+      "duration": 0.705306,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq151",
+      "text": "hilfst",
+      "path": "audio/henri-20261017/rq151_hilfst_bcdf447c7696.mp3",
+      "sha256": "bcdf447c7696af9d07894201f08fa2d5e50ea16ff647dc8681d0001a3e1c54b0",
+      "duration": 0.757551,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq152",
+      "text": "hilft",
+      "path": "audio/henri-20261017/rq152_hilft_095510cbcd9e.mp3",
+      "sha256": "095510cbcd9eee78a808fd6c0c2ce832dd31b00a209e4f74a6763f4a403fead6",
+      "duration": 0.731429,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq153",
+      "text": "helft",
+      "path": "audio/henri-20261017/rq153_helft_50982560a271.mp3",
+      "sha256": "50982560a2717fbee82f2c2ecd922b7287f3a441f932f913fe96805549dfcb51",
+      "duration": 0.731429,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq154",
+      "text": "Es macht.",
+      "path": "audio/henri-20261017/rq154_es_macht_b024b09e1798.mp3",
+      "sha256": "b024b09e1798817a51e0b917bb172ce7657fe8441e2239d7e8c2ad05331a89f9",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq155",
+      "text": "Es sagt.",
+      "path": "audio/henri-20261017/rq155_es_sagt_b281ad8f3a38.mp3",
+      "sha256": "b281ad8f3a38ee8fc696329dbf3ea4c8fc710163d345082cb065024cc0c1ab10",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq156",
+      "text": "Wir sagen.",
+      "path": "audio/henri-20261017/rq156_wir_sagen_2b8c23fdcdaa.mp3",
+      "sha256": "2b8c23fdcdaa5f88ec745d118770a9798198300daac14a3152a55dcf120157a1",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq157",
+      "text": "Ihr sagt.",
+      "path": "audio/henri-20261017/rq157_ihr_sagt_82e81186a1f0.mp3",
+      "sha256": "82e81186a1f0f2573cd7300627c0ba6555346bcd55d0d3aca23760504167c4b0",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq158",
+      "text": "Sie sagen.",
+      "path": "audio/henri-20261017/rq158_sie_sagen_d27bf3e49edd.mp3",
+      "sha256": "d27bf3e49eddc3aafac932f1a29cf579defe0055ed4878163d4b3d4380ff7f75",
+      "duration": 1.018776,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq159",
+      "text": "Es fragt.",
+      "path": "audio/henri-20261017/rq159_es_fragt_f4edf473b03a.mp3",
+      "sha256": "f4edf473b03a820e266de332ed8264918be44f020d93c0c74b4ad3fee4318024",
+      "duration": 1.07102,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq160",
+      "text": "Wir fragen.",
+      "path": "audio/henri-20261017/rq160_wir_fragen_9d933fbf3268.mp3",
+      "sha256": "9d933fbf3268c5f7e81531259b9ac5ef9a64d2730bfab7793602cc56a37346e9",
+      "duration": 1.149388,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq161",
+      "text": "Ihr fragt.",
+      "path": "audio/henri-20261017/rq161_ihr_fragt_bcc1766fc2a3.mp3",
+      "sha256": "bcc1766fc2a389f21b6fd36078210c3547cbea6a97c8526a23d620a9d0b4dc4d",
+      "duration": 1.07102,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq162",
+      "text": "Sie fragen.",
+      "path": "audio/henri-20261017/rq162_sie_fragen_7014812b7a2a.mp3",
+      "sha256": "7014812b7a2a5d46362e5298697cbce06a97cf851706c32d0ff6ad4ddb8d6feb",
+      "duration": 1.07102,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq163",
+      "text": "Es liebt.",
+      "path": "audio/henri-20261017/rq163_es_liebt_c15cff7817bb.mp3",
+      "sha256": "c15cff7817bbf308123ab4f04146cdd9a82a83a4373404815518dfc7af3404eb",
+      "duration": 1.018776,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq164",
+      "text": "Wir lieben.",
+      "path": "audio/henri-20261017/rq164_wir_lieben_ae46dd3dba27.mp3",
+      "sha256": "ae46dd3dba27d61d5c589f6ab167b0d7c87e41772bd3f191e5f2c1f41af23ee2",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq165",
+      "text": "Ihr liebt.",
+      "path": "audio/henri-20261017/rq165_ihr_liebt_d4f6a88011de.mp3",
+      "sha256": "d4f6a88011debe32f495a6f0fe2e5d0b4755f63e82b19c3b049bc7c99448b52e",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq166",
+      "text": "Sie lieben.",
+      "path": "audio/henri-20261017/rq166_sie_lieben_7b690af06545.mp3",
+      "sha256": "7b690af065459a4ad7a97b2ade59aac5c18de9a697bcee19ff9f40f4cf21ad4e",
+      "duration": 1.018776,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq167",
+      "text": "Es lacht.",
+      "path": "audio/henri-20261017/rq167_es_lacht_db7741d3b86b.mp3",
+      "sha256": "db7741d3b86b43d21beb13fd442787fd9d3dcb124ff921b16a9d09dfee7f04da",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq168",
+      "text": "Wir lachen.",
+      "path": "audio/henri-20261017/rq168_wir_lachen_04a292d5582f.mp3",
+      "sha256": "04a292d5582f5c38a0418e0bd08fc50fdc61e179c4457dd2df2025bdf47d4abd",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq169",
+      "text": "Ihr lacht.",
+      "path": "audio/henri-20261017/rq169_ihr_lacht_c76691741466.mp3",
+      "sha256": "c76691741466c68bbd91f1c9d011f734c68dcf392458bc4d6019ee60999f5526",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq170",
+      "text": "Sie lachen.",
+      "path": "audio/henri-20261017/rq170_sie_lachen_c203e0519123.mp3",
+      "sha256": "c203e05191233a89d9fcc1aaa47cd4b5107ab4622addadd364c3ff602b15faa2",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq171",
+      "text": "Es wohnt.",
+      "path": "audio/henri-20261017/rq171_es_wohnt_083edfaa6293.mp3",
+      "sha256": "083edfaa6293a1a3c195ef5934b5348fff67a604e59531f08a2318c320ac9205",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq172",
+      "text": "Wir wohnen.",
+      "path": "audio/henri-20261017/rq172_wir_wohnen_c11db02d14ec.mp3",
+      "sha256": "c11db02d14ecdcfaeb7d13fc8d80a7a6ac5ae2c4637350d757dba757f387abd8",
+      "duration": 1.044898,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq173",
+      "text": "Ihr wohnt.",
+      "path": "audio/henri-20261017/rq173_ihr_wohnt_2bffc7490ae3.mp3",
+      "sha256": "2bffc7490ae3fc1a8c14997d426ddc6223f5ca3cba7f9ade40df20f3195c455f",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq174",
+      "text": "Sie wohnen.",
+      "path": "audio/henri-20261017/rq174_sie_wohnen_13801fd7aa99.mp3",
+      "sha256": "13801fd7aa99da9b8135bda7de11928ea4101cbb25c26e12018e65d6cd720dcb",
+      "duration": 1.044898,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq175",
+      "text": "Es singt.",
+      "path": "audio/henri-20261017/rq175_es_singt_4b3e4316b826.mp3",
+      "sha256": "4b3e4316b82654da6485e0bfd81b0b7d956aea44cd8f7f9a1aa25c1238c9244c",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq176",
+      "text": "Wir singen.",
+      "path": "audio/henri-20261017/rq176_wir_singen_99ccef3e7939.mp3",
+      "sha256": "99ccef3e7939c0f486d4a14cb1d78b0c627a53b1d9d4f727c459437fbe881082",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq177",
+      "text": "Ihr singt.",
+      "path": "audio/henri-20261017/rq177_ihr_singt_2c64c054a579.mp3",
+      "sha256": "2c64c054a5798637da09aab8bd9901c1a2d1b5685791ca9ef33a0b5c817d849c",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq178",
+      "text": "Sie singen.",
+      "path": "audio/henri-20261017/rq178_sie_singen_c44fca18cd54.mp3",
+      "sha256": "c44fca18cd54af53a8392565e7de8faa9fb170f850420efc5b11c28f37bd56ad",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq179",
+      "text": "Es spielt.",
+      "path": "audio/henri-20261017/rq179_es_spielt_bed19c4dd442.mp3",
+      "sha256": "bed19c4dd4425f36c469e135826932e0fc0137a775afd6e514797d1c9d2e533e",
+      "duration": 1.018776,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq180",
+      "text": "Ihr spielt.",
+      "path": "audio/henri-20261017/rq180_ihr_spielt_def516b3ef94.mp3",
+      "sha256": "def516b3ef944da22ef711950375c2a251db43bc6ac2706636ca48b20972e284",
+      "duration": 1.018776,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq181",
+      "text": "Sie spielen.",
+      "path": "audio/henri-20261017/rq181_sie_spielen_0063c15c28af.mp3",
+      "sha256": "0063c15c28af89a44216a2811c4aaaa0ab5ffac3722d7714a5a0d9b9f2eb8807",
+      "duration": 1.07102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq182",
+      "text": "Es tanzt.",
+      "path": "audio/henri-20261017/rq182_es_tanzt_05fe25309c51.mp3",
+      "sha256": "05fe25309c51b2f41401e3836f696c99fd024f29c281412ba947da56890a5d29",
+      "duration": 1.044898,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq183",
+      "text": "Wir tanzen.",
+      "path": "audio/henri-20261017/rq183_wir_tanzen_a3bdd99fc303.mp3",
+      "sha256": "a3bdd99fc3032d708aa1ea6c1e395507d315f7ffc7a193b929f04b89b5e9a125",
+      "duration": 1.097143,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq184",
+      "text": "Ihr tanzt.",
+      "path": "audio/henri-20261017/rq184_ihr_tanzt_ddbbb98e01df.mp3",
+      "sha256": "ddbbb98e01dfe624f23461b3f63d22a9add90174e325f6d62b24c631e81328cd",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq185",
+      "text": "Sie tanzen.",
+      "path": "audio/henri-20261017/rq185_sie_tanzen_09e159985dc0.mp3",
+      "sha256": "09e159985dc047389409782cc13db06d243335309d12a5d9d6f72ec16092f2f5",
+      "duration": 1.07102,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq186",
+      "text": "Es ist.",
+      "path": "audio/henri-20261017/rq186_es_ist_dcb80af27363.mp3",
+      "sha256": "dcb80af2736312e46124688ff7eefea00d574ecb4d63402e6a948490249bce00",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq187",
+      "text": "Wir sind.",
+      "path": "audio/henri-20261017/rq187_wir_sind_10d83b29f9d3.mp3",
+      "sha256": "10d83b29f9d355aed11cb4ca66dfac4bd30cb7c950e5bfdd2b06650648e1db92",
+      "duration": 1.018776,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq188",
+      "text": "Ihr seid.",
+      "path": "audio/henri-20261017/rq188_ihr_seid_783c83bb5ee6.mp3",
+      "sha256": "783c83bb5ee6f82bcae9eebe7782f326a8fdb475075141c479860ec27c4a698e",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq189",
+      "text": "Sie sind.",
+      "path": "audio/henri-20261017/rq189_sie_sind_0508d9bdd152.mp3",
+      "sha256": "0508d9bdd15255c5197952d239b3e137538ff25c5d89965afc07b50dd360017a",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq190",
+      "text": "Es hat.",
+      "path": "audio/henri-20261017/rq190_es_hat_858a8293b574.mp3",
+      "sha256": "858a8293b574571371ff4829f481e274512e7f2c7c010460fe127d30524db2f1",
+      "duration": 0.809796,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq191",
+      "text": "Wir haben.",
+      "path": "audio/henri-20261017/rq191_wir_haben_642ed6e7c8b1.mp3",
+      "sha256": "642ed6e7c8b1ce8aca9666c994a8fbbc5fd96c6fbe6e36bd70ec6a916787e9bf",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq192",
+      "text": "Ihr habt.",
+      "path": "audio/henri-20261017/rq192_ihr_habt_cd823bbf2f9e.mp3",
+      "sha256": "cd823bbf2f9e8807d9e44ea04d57940fae8b564a1e7c58308ce9976977986376",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq193",
+      "text": "Sie haben.",
+      "path": "audio/henri-20261017/rq193_sie_haben_3ab1642a62db.mp3",
+      "sha256": "3ab1642a62dbe2706395f8b494ae08810107c04eb66cefe3bee4a0f5d32b0193",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq194",
+      "text": "Ich gehe.",
+      "path": "audio/henri-20261017/rq194_ich_gehe_a459761b35c7.mp3",
+      "sha256": "a459761b35c7c367c8d68f788fb27d9d3dd25869b8b0f937d737eadae22313bf",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq195",
+      "text": "Du gehst.",
+      "path": "audio/henri-20261017/rq195_du_gehst_e7b7f29175cf.mp3",
+      "sha256": "e7b7f29175cf343c6f5bb5a7ccd30200576c5b50e2d223c0d98e4cd8c91d3186",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq196",
+      "text": "Er geht.",
+      "path": "audio/henri-20261017/rq196_er_geht_719f85bb2ff5.mp3",
+      "sha256": "719f85bb2ff5ecf74c81fcc45827e354a267b35a57f301209c39dfa90b3eb464",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq197",
+      "text": "Sie geht.",
+      "path": "audio/henri-20261017/rq197_sie_geht_96f889cac43e.mp3",
+      "sha256": "96f889cac43e8ef7fb4267237b4682bac3a9bd725fdf3dddeebcc0813cb25ef5",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq198",
+      "text": "Es geht.",
+      "path": "audio/henri-20261017/rq198_es_geht_14a076457075.mp3",
+      "sha256": "14a076457075c6866f5258e6034a2adb909c61f0fbe46e12b2dfcfb01b1e611b",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq199",
+      "text": "Wir gehen.",
+      "path": "audio/henri-20261017/rq199_wir_gehen_0dfb985f0c33.mp3",
+      "sha256": "0dfb985f0c33f5ad8f8a5e7e0e5850739796fd2b9fa4d6b82829ada47efd41a8",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq200",
+      "text": "Ihr geht.",
+      "path": "audio/henri-20261017/rq200_ihr_geht_a1bf64a2bcfe.mp3",
+      "sha256": "a1bf64a2bcfe407e312aa98b01a0d0ab9501194b4cdae877de47344fedb35c47",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq201",
+      "text": "Sie gehen.",
+      "path": "audio/henri-20261017/rq201_sie_gehen_1614a3a34b18.mp3",
+      "sha256": "1614a3a34b18faeee3f0cab9744d2fd3a1b05ff6d330383a43ed2cf98b3226a9",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq202",
+      "text": "Ich komme.",
+      "path": "audio/henri-20261017/rq202_ich_komme_21005aa1f27d.mp3",
+      "sha256": "21005aa1f27db5d3d77c2dac89492125bd6a2dd6ef101200c6b294203f418049",
+      "duration": 0.862041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq203",
+      "text": "Du kommst.",
+      "path": "audio/henri-20261017/rq203_du_kommst_c50a3695dc19.mp3",
+      "sha256": "c50a3695dc19ea0191bb2b8ec3a9eab5a40213f3a31a60a96056d51aec9137d5",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq204",
+      "text": "Er kommt.",
+      "path": "audio/henri-20261017/rq204_er_kommt_203f6465158d.mp3",
+      "sha256": "203f6465158d687a6f77449b2024e31efd0650bd08dc00f68934e97e9ab3be10",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq205",
+      "text": "Sie kommt.",
+      "path": "audio/henri-20261017/rq205_sie_kommt_bc8dceacc7f5.mp3",
+      "sha256": "bc8dceacc7f536e7315a8eebfbbcd274c1c83cd0e3d0017b1be51e4611785714",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq206",
+      "text": "Es kommt.",
+      "path": "audio/henri-20261017/rq206_es_kommt_6489c26752b6.mp3",
+      "sha256": "6489c26752b6fc00e03fb40cb81e0027b80df563710d7db7cfa8a53036cadde5",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq207",
+      "text": "Wir kommen.",
+      "path": "audio/henri-20261017/rq207_wir_kommen_ed88a93a7b4a.mp3",
+      "sha256": "ed88a93a7b4a66f1c2f59343e8f5ff5cadf5528d4f4cd89ea24c542e68603928",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq208",
+      "text": "Ihr kommt.",
+      "path": "audio/henri-20261017/rq208_ihr_kommt_dab240206976.mp3",
+      "sha256": "dab240206976e7c6801dc405494ede88d6ef930e8f2309e288501567aa50df62",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq209",
+      "text": "Sie kommen.",
+      "path": "audio/henri-20261017/rq209_sie_kommen_2bbb766417cb.mp3",
+      "sha256": "2bbb766417cb2729b6de4098484f87fce0f71ce227dbdcad16baecc9aac7d5a2",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq210",
+      "text": "Ich sehe.",
+      "path": "audio/henri-20261017/rq210_ich_sehe_878ebefca784.mp3",
+      "sha256": "878ebefca7844ee5fe0169d7ca1d603bb25da3556dab748f22e275179fee75f4",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq211",
+      "text": "Du siehst.",
+      "path": "audio/henri-20261017/rq211_du_siehst_783332d22361.mp3",
+      "sha256": "783332d22361882e246dbb7ac6bfd105328286947db262806ced91856800c313",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq212",
+      "text": "Er sieht.",
+      "path": "audio/henri-20261017/rq212_er_sieht_6723cc530d5d.mp3",
+      "sha256": "6723cc530d5d167aa5591fc86b960b0bfeb4a899244b6d94de474fc448b2492e",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq213",
+      "text": "Sie sieht.",
+      "path": "audio/henri-20261017/rq213_sie_sieht_4bdef4f80d53.mp3",
+      "sha256": "4bdef4f80d53949492093e8139cd7529b2fe796f9203055e894a40f9ab4d6fc6",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq214",
+      "text": "Es sieht.",
+      "path": "audio/henri-20261017/rq214_es_sieht_25826f379b53.mp3",
+      "sha256": "25826f379b5388904a07c31fe24548187c86b9f518f221fa8d1c3e3094fc8277",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq215",
+      "text": "Wir sehen.",
+      "path": "audio/henri-20261017/rq215_wir_sehen_00df9e75978d.mp3",
+      "sha256": "00df9e75978d438e98078c64543f65d739d95f49d08381b86638bb5249cd1a9e",
+      "duration": 1.018776,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq216",
+      "text": "Ihr seht.",
+      "path": "audio/henri-20261017/rq216_ihr_seht_cf0ecae0c1af.mp3",
+      "sha256": "cf0ecae0c1af6eb9c77291704f4f4ec668b4bce5c5b1a277085d250b5b84f691",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq217",
+      "text": "Sie sehen.",
+      "path": "audio/henri-20261017/rq217_sie_sehen_758664182435.mp3",
+      "sha256": "758664182435834cec855d2645a477df78e25102a53735b778a36088ee09e8db",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq218",
+      "text": "Ich höre.",
+      "path": "audio/henri-20261017/rq218_ich_hoere_1801ec5848e8.mp3",
+      "sha256": "1801ec5848e88f4a684b08ba76cc60638db064bf8780c6b07b43a6a59f26d426",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq219",
+      "text": "Du hörst.",
+      "path": "audio/henri-20261017/rq219_du_hoerst_e2b65591a905.mp3",
+      "sha256": "e2b65591a9050b62776d765c18a564f665ad28cc553ad6795262f562b9a55006",
+      "duration": 0.992653,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq220",
+      "text": "Er hört.",
+      "path": "audio/henri-20261017/rq220_er_hoert_bca227fc9730.mp3",
+      "sha256": "bca227fc9730863ffa90c29a214504d57ace16cd792c60c590c49ef9a83fb8c7",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq221",
+      "text": "Sie hört.",
+      "path": "audio/henri-20261017/rq221_sie_hoert_e335ebd7d26f.mp3",
+      "sha256": "e335ebd7d26f6bf76d367440942ed337538b2b9d9d6d5b369b278bee6186c351",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq222",
+      "text": "Es hört.",
+      "path": "audio/henri-20261017/rq222_es_hoert_4b40ab3b866c.mp3",
+      "sha256": "4b40ab3b866ca39997d0b99d39733c7977714ec1f5178c6c3252a24a92ae121d",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq223",
+      "text": "Wir hören.",
+      "path": "audio/henri-20261017/rq223_wir_hoeren_30fa1f109df3.mp3",
+      "sha256": "30fa1f109df30c4d244be406291fddb10b7955e3a3991b8de7d0f569c04ebd85",
+      "duration": 1.018776,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq224",
+      "text": "Ihr hört.",
+      "path": "audio/henri-20261017/rq224_ihr_hoert_f3617e4bccd8.mp3",
+      "sha256": "f3617e4bccd8ce082977760dffa38f083decbd32583f0451a289e8863c91afa4",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq225",
+      "text": "Sie hören.",
+      "path": "audio/henri-20261017/rq225_sie_hoeren_fc4edcbb5c24.mp3",
+      "sha256": "fc4edcbb5c24564f5ba80324706585086ede6c7d85423d1ddd557edaf3bfaa92",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq226",
+      "text": "Ich spreche.",
+      "path": "audio/henri-20261017/rq226_ich_spreche_9b804c48daca.mp3",
+      "sha256": "9b804c48daca8e072cdefa74992f44bdf71cc4626da63592b097d7ed63dedc7f",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq227",
+      "text": "Du sprichst.",
+      "path": "audio/henri-20261017/rq227_du_sprichst_91e64bf75ed4.mp3",
+      "sha256": "91e64bf75ed44b74a6add17b0618e71cb9510482a2d72743aab7d33d00be46c5",
+      "duration": 1.044898,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq228",
+      "text": "Er spricht.",
+      "path": "audio/henri-20261017/rq228_er_spricht_68bd266216b9.mp3",
+      "sha256": "68bd266216b9448751e1f51252780e3c688bb364d2e43b2740cee6728369d020",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq229",
+      "text": "Sie spricht.",
+      "path": "audio/henri-20261017/rq229_sie_spricht_cf4fb50f4e61.mp3",
+      "sha256": "cf4fb50f4e61ea5c5086b4ac36b0a2e9fccec9f89e6e156b6e41da892e054879",
+      "duration": 1.018776,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq230",
+      "text": "Es spricht.",
+      "path": "audio/henri-20261017/rq230_es_spricht_8f6e38dc661b.mp3",
+      "sha256": "8f6e38dc661b4b21beef4aad896759386d841203366235334794023b46555ce5",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq231",
+      "text": "Wir sprechen.",
+      "path": "audio/henri-20261017/rq231_wir_sprechen_35d2f2a942d6.mp3",
+      "sha256": "35d2f2a942d615421a176db266e1c5a05b3152c5581ec3160999410f733ff4cd",
+      "duration": 1.07102,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq232",
+      "text": "Ihr sprecht.",
+      "path": "audio/henri-20261017/rq232_ihr_sprecht_31d7cf4a9301.mp3",
+      "sha256": "31d7cf4a9301981fb85710b5d713b4fbc67be68481e505a8905f0d39516d6268",
+      "duration": 1.018776,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq233",
+      "text": "Sie sprechen.",
+      "path": "audio/henri-20261017/rq233_sie_sprechen_ee7d7545a2eb.mp3",
+      "sha256": "ee7d7545a2ebb2b6c7d5557c369a5dc6e86e79e5641af76721c2a87ab23af0c2",
+      "duration": 1.044898,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq234",
+      "text": "Ich lerne.",
+      "path": "audio/henri-20261017/rq234_ich_lerne_c8d9b2ee9ef6.mp3",
+      "sha256": "c8d9b2ee9ef6c34b55352cdc53b84b28385c7b0ab519bde26540677995d764aa",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq235",
+      "text": "Du lernst.",
+      "path": "audio/henri-20261017/rq235_du_lernst_434ac486a394.mp3",
+      "sha256": "434ac486a394003f73018ede29f683f4d5ddbb8c40d625a0ebb1bc6caa185780",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq236",
+      "text": "Er lernt.",
+      "path": "audio/henri-20261017/rq236_er_lernt_74f10dac646e.mp3",
+      "sha256": "74f10dac646e3afab8b9c7718945d1c8700cf198b7839ec21758f35827872971",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq237",
+      "text": "Sie lernt.",
+      "path": "audio/henri-20261017/rq237_sie_lernt_f322f57b3d0d.mp3",
+      "sha256": "f322f57b3d0d3b295a3e8cdb98a32224ca6c2cd21380d76bb6b7664a3b442b02",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq238",
+      "text": "Es lernt.",
+      "path": "audio/henri-20261017/rq238_es_lernt_51c608d4e627.mp3",
+      "sha256": "51c608d4e627b1c23fe835c009e91e3194d176d727045ce340ed87d07fb2052e",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq239",
+      "text": "Wir lernen.",
+      "path": "audio/henri-20261017/rq239_wir_lernen_b726e8e5e4fd.mp3",
+      "sha256": "b726e8e5e4fd9071d2be58d217e69d53a3685149cca5003c10ca1b6a4e30813f",
+      "duration": 1.018776,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq240",
+      "text": "Ihr lernt.",
+      "path": "audio/henri-20261017/rq240_ihr_lernt_f5138aa6d161.mp3",
+      "sha256": "f5138aa6d16111a2e1225e010fa6c1a3cb74812e722a0531d6b240f87b210581",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq241",
+      "text": "Sie lernen.",
+      "path": "audio/henri-20261017/rq241_sie_lernen_3f9224f84c45.mp3",
+      "sha256": "3f9224f84c4525de7f537598480c61aded6699b71f129b7cbd60ab9e35ebe297",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq242",
+      "text": "Ich arbeite.",
+      "path": "audio/henri-20261017/rq242_ich_arbeite_1d364fe597ef.mp3",
+      "sha256": "1d364fe597ef93f0f47f397b83bb70440f5a2051c944b8ebb935223356b7f96f",
+      "duration": 1.097143,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq243",
+      "text": "Du arbeitest.",
+      "path": "audio/henri-20261017/rq243_du_arbeitest_0b87d21031bb.mp3",
+      "sha256": "0b87d21031bba62e085d5a1b87995c9d5eda245b91a9f573e781156c0908abf8",
+      "duration": 1.227755,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq244",
+      "text": "Er arbeitet.",
+      "path": "audio/henri-20261017/rq244_er_arbeitet_3283afd9a49e.mp3",
+      "sha256": "3283afd9a49e6f7d9e860dd63f61d0af3081dc7bbe36618147f43eee6642a960",
+      "duration": 1.149388,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq245",
+      "text": "Sie arbeitet.",
+      "path": "audio/henri-20261017/rq245_sie_arbeitet_55aa9391f876.mp3",
+      "sha256": "55aa9391f8760d83f37e8337a08a20c0eeba49140176663d1287fc8aa1f271ae",
+      "duration": 1.201633,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq246",
+      "text": "Es arbeitet.",
+      "path": "audio/henri-20261017/rq246_es_arbeitet_3fe7b3dbbe02.mp3",
+      "sha256": "3fe7b3dbbe025fc6dac9518c8981278c2a36ab6693a123b83c05ea19ff7cd765",
+      "duration": 1.149388,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq247",
+      "text": "Wir arbeiten.",
+      "path": "audio/henri-20261017/rq247_wir_arbeiten_d7005cce60ef.mp3",
+      "sha256": "d7005cce60ef08400f8bad8cf914fb670082bee13b4b4ae5b08682d39cad5013",
+      "duration": 1.201633,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq248",
+      "text": "Ihr arbeitet.",
+      "path": "audio/henri-20261017/rq248_ihr_arbeitet_8543f71feb03.mp3",
+      "sha256": "8543f71feb03926b8f9db3dd68b113502db9f007633daec8617c57243116fe10",
+      "duration": 1.17551,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq249",
+      "text": "Sie arbeiten.",
+      "path": "audio/henri-20261017/rq249_sie_arbeiten_3d1183324495.mp3",
+      "sha256": "3d1183324495f865b810bbf1162d737224082587fb68f2c2a143c63e679e9d95",
+      "duration": 1.149388,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq250",
+      "text": "Ich esse.",
+      "path": "audio/henri-20261017/rq250_ich_esse_6ce8e2a46d4f.mp3",
+      "sha256": "6ce8e2a46d4f565f16514d3a55a44dfd19e823879fc0251daddf27d2c8ff59e1",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq251",
+      "text": "Du isst.",
+      "path": "audio/henri-20261017/rq251_du_isst_2d2be34f4ca1.mp3",
+      "sha256": "2d2be34f4ca149517b4488a1515d2f4ff80f0029fb8a80d7a61db6b0e0ae9aee",
+      "duration": 0.862041,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "rq252",
+      "text": "Er isst.",
+      "path": "audio/henri-20261017/rq252_er_isst_e5398d234f34.mp3",
+      "sha256": "e5398d234f344efa2a4e6b715bdd09ea5c2d8e94a236178073bce943e3297ae5",
+      "duration": 0.888163,
+      "verification": "homophone"
+    },
+    {
+      "id": "rq253",
+      "text": "Sie isst.",
+      "path": "audio/henri-20261017/rq253_sie_isst_a2dca29e1d5f.mp3",
+      "sha256": "a2dca29e1d5f2353cea0acc8877fd3e6ef26706a3b961437070d68d48ea81b4c",
+      "duration": 0.940408,
+      "verification": "homophone"
+    },
+    {
+      "id": "rq254",
+      "text": "Es isst.",
+      "path": "audio/henri-20261017/rq254_es_isst_1ef813d795e1.mp3",
+      "sha256": "1ef813d795e1d9ca42a3be801bab739a3d8fd69838e20b0ca9b6df4fe74e6278",
+      "duration": 0.940408,
+      "verification": "homophone"
+    },
+    {
+      "id": "rq255",
+      "text": "Wir essen.",
+      "path": "audio/henri-20261017/rq255_wir_essen_26025f0f1da4.mp3",
+      "sha256": "26025f0f1da43fce96550a1becbbcf942db00e85eac388bc04c66431c83ffbb0",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq256",
+      "text": "Ihr esst.",
+      "path": "audio/henri-20261017/rq256_ihr_esst_80a1223a9c84.mp3",
+      "sha256": "80a1223a9c84af0c90d17cbb5d085f22367b36575b269e54d5553d78419eef6f",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq257",
+      "text": "Sie essen.",
+      "path": "audio/henri-20261017/rq257_sie_essen_81cc20555d3d.mp3",
+      "sha256": "81cc20555d3d3f72413300412e5fe95228d911ba18682d41270620fc085a7966",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq258",
+      "text": "Ich trinke.",
+      "path": "audio/henri-20261017/rq258_ich_trinke_1733386b9410.mp3",
+      "sha256": "1733386b9410edd0fb2ebd097f2bed3c4eb3ede026e8a3902dc245facd5d801e",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq259",
+      "text": "Du trinkst.",
+      "path": "audio/henri-20261017/rq259_du_trinkst_350d880cfb04.mp3",
+      "sha256": "350d880cfb0442f0ea311e0d65575f016b41bc695079451347bcabdf6781447f",
+      "duration": 1.018776,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq260",
+      "text": "Er trinkt.",
+      "path": "audio/henri-20261017/rq260_er_trinkt_04a936981d5a.mp3",
+      "sha256": "04a936981d5aceb74321bd447ac59867ddb61eb71e283b67bc16454a7b246ae8",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq261",
+      "text": "Sie trinkt.",
+      "path": "audio/henri-20261017/rq261_sie_trinkt_f9d9f97b5b5b.mp3",
+      "sha256": "f9d9f97b5b5b3413a92bb1418ad2949c397e26fac36665c4f35e8b4c24bfa185",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq262",
+      "text": "Es trinkt.",
+      "path": "audio/henri-20261017/rq262_es_trinkt_2046745b16a6.mp3",
+      "sha256": "2046745b16a6dcdfddb1da2d92c118e70fe19715295fcc0d3f51bb1d9edb8bff",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq263",
+      "text": "Wir trinken.",
+      "path": "audio/henri-20261017/rq263_wir_trinken_357e2e4e4ee5.mp3",
+      "sha256": "357e2e4e4ee5c39c5cd62bcc8d20cd2bd850f579a97367363eebec66ea367e9c",
+      "duration": 1.044898,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq264",
+      "text": "Ihr trinkt.",
+      "path": "audio/henri-20261017/rq264_ihr_trinkt_86d90f66fa0d.mp3",
+      "sha256": "86d90f66fa0d4eb3f2cc6006ac3d8319fd0fc88cc27f06975fe73042adadc654",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq265",
+      "text": "Sie trinken.",
+      "path": "audio/henri-20261017/rq265_sie_trinken_9594d0199c69.mp3",
+      "sha256": "9594d0199c696c073daff5a504af3c653f47d4ad098b15f6c091827539fded33",
+      "duration": 1.044898,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq266",
+      "text": "Ich schlafe.",
+      "path": "audio/henri-20261017/rq266_ich_schlafe_eec5aea43a84.mp3",
+      "sha256": "eec5aea43a8444295e4652919a5940f61ea4c8e845ed2cd4dcb03a3287bf85f3",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq267",
+      "text": "Du schläfst.",
+      "path": "audio/henri-20261017/rq267_du_schlaefst_ac18f5d0fcd6.mp3",
+      "sha256": "ac18f5d0fcd64cef15152fae9f5939c2f88523d31be5d085e14e2db647bf3e4f",
+      "duration": 1.044898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq268",
+      "text": "Er schläft.",
+      "path": "audio/henri-20261017/rq268_er_schlaeft_a792ec3ecf94.mp3",
+      "sha256": "a792ec3ecf94be2d7eec45bd54b23b45632f29dbf8baa59ccb20ecf897b60ebc",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq269",
+      "text": "Sie schläft.",
+      "path": "audio/henri-20261017/rq269_sie_schlaeft_ded89532ca73.mp3",
+      "sha256": "ded89532ca7331cc9ea1cdb39be23b0ff50328fd1d087db1fe6fef26f0e464e9",
+      "duration": 1.044898,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq270",
+      "text": "Es schläft.",
+      "path": "audio/henri-20261017/rq270_es_schlaeft_2939fc985a00.mp3",
+      "sha256": "2939fc985a00c64b4addea5b35d167fd983652ca2dbb42f62d8eb90f53493d59",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq271",
+      "text": "Wir schlafen.",
+      "path": "audio/henri-20261017/rq271_wir_schlafen_eb0e9dcaac15.mp3",
+      "sha256": "eb0e9dcaac15fd5d96e36586ee56dc86d7e1aceb0b691c882be3318c70c0b853",
+      "duration": 1.097143,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq272",
+      "text": "Ihr schlaft.",
+      "path": "audio/henri-20261017/rq272_ihr_schlaft_3733871b5f78.mp3",
+      "sha256": "3733871b5f78e74e9f7a2d247209a2cb7d1346e35296046ee9c76593a93f7e67",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq273",
+      "text": "Sie schlafen.",
+      "path": "audio/henri-20261017/rq273_sie_schlafen_3ef1629fbeaa.mp3",
+      "sha256": "3ef1629fbeaaaa197fb3e7488b12123197c84d971986623a198661c020bd69d3",
+      "duration": 1.044898,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq274",
+      "text": "Ich lese.",
+      "path": "audio/henri-20261017/rq274_ich_lese_aa346a6cd91c.mp3",
+      "sha256": "aa346a6cd91cd4365ed5b913ae66df4eea6f9c056934ec9449bc51016a350539",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq275",
+      "text": "Du liest.",
+      "path": "audio/henri-20261017/rq275_du_liest_509ef73cf5c9.mp3",
+      "sha256": "509ef73cf5c9449399d3d9b22b974a19701e3ec711996d7607450157bf9ed6fe",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq276",
+      "text": "Er liest.",
+      "path": "audio/henri-20261017/rq276_er_liest_739efc6af910.mp3",
+      "sha256": "739efc6af9103b75b22845cc5d337a33e3d1ea58becc0c732666a2f82231ef24",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq277",
+      "text": "Sie liest.",
+      "path": "audio/henri-20261017/rq277_sie_liest_566786a5a209.mp3",
+      "sha256": "566786a5a209ba33c2c184a8c6a6912e7a97573fdd1b056f6cb68df0f27b6cf2",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq278",
+      "text": "Es liest.",
+      "path": "audio/henri-20261017/rq278_es_liest_24526bf53987.mp3",
+      "sha256": "24526bf539877f288ef08c90d116f0a1d172bd654269a5bfac19ff7676ae008a",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq279",
+      "text": "Wir lesen.",
+      "path": "audio/henri-20261017/rq279_wir_lesen_c58839eda6a5.mp3",
+      "sha256": "c58839eda6a5f69559becabd30bbff92aa94a3b6269c023113ae254604a02c60",
+      "duration": 1.044898,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq280",
+      "text": "Ihr lest.",
+      "path": "audio/henri-20261017/rq280_ihr_lest_a390210c4561.mp3",
+      "sha256": "a390210c45614c896811d7412d4c53d0bdf4aaa4db48a7f14228fac82f386f77",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq281",
+      "text": "Sie lesen.",
+      "path": "audio/henri-20261017/rq281_sie_lesen_4f6fee98c22a.mp3",
+      "sha256": "4f6fee98c22af4aace00517f16b10d399aa882cc0949980c3762b04bc350f18b",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq282",
+      "text": "Ich schreibe.",
+      "path": "audio/henri-20261017/rq282_ich_schreibe_2a00705b9b67.mp3",
+      "sha256": "2a00705b9b67f8e37d1e6f8c49581dfa09b243b62c1bfed2ef63485ff40451c0",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq283",
+      "text": "Du schreibst.",
+      "path": "audio/henri-20261017/rq283_du_schreibst_3267066c0d55.mp3",
+      "sha256": "3267066c0d55cd2e62e9a27b4854de71cecb594f4bdb14550c032a28ee56d9dc",
+      "duration": 1.044898,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq284",
+      "text": "Er schreibt.",
+      "path": "audio/henri-20261017/rq284_er_schreibt_fc64b1d31d16.mp3",
+      "sha256": "fc64b1d31d167d6d68679fc96f9f160207bd28b13167fb9717ca7278c37cf486",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq285",
+      "text": "Sie schreibt.",
+      "path": "audio/henri-20261017/rq285_sie_schreibt_cd26ec96b867.mp3",
+      "sha256": "cd26ec96b867af7601aa4744cfbe2d59867ebec4df5f24fee302fc688602990c",
+      "duration": 1.044898,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq286",
+      "text": "Es schreibt.",
+      "path": "audio/henri-20261017/rq286_es_schreibt_f89cc38b01e6.mp3",
+      "sha256": "f89cc38b01e6837dcc7237da01c00cc8aa176d6b6806d9e23e3fc7e83c7d04c5",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq287",
+      "text": "Wir schreiben.",
+      "path": "audio/henri-20261017/rq287_wir_schreiben_31f22d01c15d.mp3",
+      "sha256": "31f22d01c15dc8c47c9c726b26ba14d43c703cd90078e37d69429e11fc0b1c06",
+      "duration": 1.044898,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq288",
+      "text": "Ihr schreibt.",
+      "path": "audio/henri-20261017/rq288_ihr_schreibt_f29ef624982d.mp3",
+      "sha256": "f29ef624982db65c0edbcacc9950566d504c7b11cf216136d69812fbe955b5b6",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq289",
+      "text": "Sie schreiben.",
+      "path": "audio/henri-20261017/rq289_sie_schreiben_4e1d237f3933.mp3",
+      "sha256": "4e1d237f3933af8c8c861290cdedb50c17b3e2df0268a51b6ba27b9698960d77",
+      "duration": 1.07102,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq290",
+      "text": "Ich weiß.",
+      "path": "audio/henri-20261017/rq290_ich_weiss_a5dae8cd7d15.mp3",
+      "sha256": "a5dae8cd7d1598e001909df3090a9a37d7db24cedb22885cab63f9ec88cb7996",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq291",
+      "text": "Du weißt.",
+      "path": "audio/henri-20261017/rq291_du_weisst_ade9a6c0bd21.mp3",
+      "sha256": "ade9a6c0bd214cc33d25e948ffed8a0cbd227c611163f9016a1c6c84aaa7ce74",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq292",
+      "text": "Er weiß.",
+      "path": "audio/henri-20261017/rq292_er_weiss_5a22f81d6044.mp3",
+      "sha256": "5a22f81d60448acdf7569d0c50e6762329886c3aa1f869e8ec8cff153c3e360b",
+      "duration": 0.940408,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "rq293",
+      "text": "Sie weiß.",
+      "path": "audio/henri-20261017/rq293_sie_weiss_a3410952b5fd.mp3",
+      "sha256": "a3410952b5fd0b94abf27994bdb3f033f4df2290c0a208f8634c8d284a6a4865",
+      "duration": 1.018776,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq294",
+      "text": "Es weiß.",
+      "path": "audio/henri-20261017/rq294_es_weiss_bfb9a9a73a3b.mp3",
+      "sha256": "bfb9a9a73a3b69593832264db5f439a66d5fef34a86924ed1489b7b198b83665",
+      "duration": 0.966531,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "rq295",
+      "text": "Wir wissen.",
+      "path": "audio/henri-20261017/rq295_wir_wissen_c9b672ce3174.mp3",
+      "sha256": "c9b672ce3174ba60a7b7be932ca809f0753ca0c40782930ef93c66d21c1d0ed9",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq296",
+      "text": "Ihr wisst.",
+      "path": "audio/henri-20261017/rq296_ihr_wisst_8a81e62ea8a2.mp3",
+      "sha256": "8a81e62ea8a2ecfd81672ba1d86f7a1b32dea2b0c9b112b4be3f68d65a756cc8",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq297",
+      "text": "Sie wissen.",
+      "path": "audio/henri-20261017/rq297_sie_wissen_8af61c39e3ca.mp3",
+      "sha256": "8af61c39e3ca03609a4f720e73952673c144448e4957664b79243368f689f3e4",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq298",
+      "text": "Ich kenne.",
+      "path": "audio/henri-20261017/rq298_ich_kenne_3ec1f81d9dd6.mp3",
+      "sha256": "3ec1f81d9dd63fbe4bc89d5a1bb6f03128df6756bafd75baec86abf43e25a288",
+      "duration": 0.862041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq299",
+      "text": "Du kennst.",
+      "path": "audio/henri-20261017/rq299_du_kennst_ad60cde0bb00.mp3",
+      "sha256": "ad60cde0bb002c01b8bcaceb27afb0c33b10d00362e8cb58ebe97c14d8c06171",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq300",
+      "text": "Er kennt.",
+      "path": "audio/henri-20261017/rq300_er_kennt_cd8d83ebb864.mp3",
+      "sha256": "cd8d83ebb86495505734ca128871f1f5ed4b1c7323a02b0e5d4d9f0f57ac545e",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq301",
+      "text": "Sie kennt.",
+      "path": "audio/henri-20261017/rq301_sie_kennt_c3636b2eabce.mp3",
+      "sha256": "c3636b2eabce86d720c65ea991c04d264e3676db8d4ccbc133b87a74a5f118f4",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq302",
+      "text": "Es kennt.",
+      "path": "audio/henri-20261017/rq302_es_kennt_4a8e2715cea4.mp3",
+      "sha256": "4a8e2715cea43ec36080a76c0e4e245329d5049e02c99dd89458cc5f62dbb5b3",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq303",
+      "text": "Wir kennen.",
+      "path": "audio/henri-20261017/rq303_wir_kennen_c964dd46f33b.mp3",
+      "sha256": "c964dd46f33b0dce626fb1813b126c7d3f43795e0cfe20324ef8d2af669fa378",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq304",
+      "text": "Ihr kennt.",
+      "path": "audio/henri-20261017/rq304_ihr_kennt_9617d92b1d4a.mp3",
+      "sha256": "9617d92b1d4a7546b31abe4b864fdb58b09109cb768bf463680c8fdb670720e5",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq305",
+      "text": "Sie kennen.",
+      "path": "audio/henri-20261017/rq305_sie_kennen_bb59fd35cdc8.mp3",
+      "sha256": "bb59fd35cdc897b3ade2239bb384b7ded170055108f3eeeef4dbf86abc69e9b3",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq306",
+      "text": "Ich will.",
+      "path": "audio/henri-20261017/rq306_ich_will_03e4fb57298e.mp3",
+      "sha256": "03e4fb57298e7ea44e1d92597737ea9d073b15f100455093cb5541b51773d75c",
+      "duration": 0.809796,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq307",
+      "text": "Du willst.",
+      "path": "audio/henri-20261017/rq307_du_willst_5a9c7bc2ce7b.mp3",
+      "sha256": "5a9c7bc2ce7bdd0472119ecd12ac1dfdf780bc00fc0fc9b0e81423a4aedfd6b1",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq308",
+      "text": "Er will.",
+      "path": "audio/henri-20261017/rq308_er_will_60661fb74702.mp3",
+      "sha256": "60661fb747021d438f878abc230aed12d551605f15d1a03a8e63ac54e4bbe5dd",
+      "duration": 0.731429,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq309",
+      "text": "Sie will.",
+      "path": "audio/henri-20261017/rq309_sie_will_3289131b9a2d.mp3",
+      "sha256": "3289131b9a2d66d2cebff36652452db0f87beb5b26ca2cea2cf7a638b4e8adc0",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq310",
+      "text": "Es will.",
+      "path": "audio/henri-20261017/rq310_es_will_0fc0309f7aeb.mp3",
+      "sha256": "0fc0309f7aebb90ede56e76db8bb6a58f46cc4991538c8527b9d2d00e415f2de",
+      "duration": 0.783673,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq311",
+      "text": "Wir wollen.",
+      "path": "audio/henri-20261017/rq311_wir_wollen_9feb637ff6c8.mp3",
+      "sha256": "9feb637ff6c8a0e31781405084ad1aff0d681fcc431fcf5e9856b18a66cb6fa5",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq312",
+      "text": "Ihr wollt.",
+      "path": "audio/henri-20261017/rq312_ihr_wollt_5e0bdc61748a.mp3",
+      "sha256": "5e0bdc61748a79bd21cf44cbd186056c66839ea1053015916c37a233478de6db",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq313",
+      "text": "Sie wollen.",
+      "path": "audio/henri-20261017/rq313_sie_wollen_961ae97cefe0.mp3",
+      "sha256": "961ae97cefe0a9f9bc4bd7ddf98f5cdde9fdc20194947f233b88aa99b0d8c874",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq314",
+      "text": "Ich kann.",
+      "path": "audio/henri-20261017/rq314_ich_kann_6eb6c6b8eab2.mp3",
+      "sha256": "6eb6c6b8eab21cfbdf5a23efde46d4438fb1d74027f425fd3de176ebb8f57d2f",
+      "duration": 0.809796,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq315",
+      "text": "Du kannst.",
+      "path": "audio/henri-20261017/rq315_du_kannst_4be6288376cd.mp3",
+      "sha256": "4be6288376cdf5cab3025ed659cc795acb883a78bc9636db210bc8531e8043ed",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq316",
+      "text": "Er kann.",
+      "path": "audio/henri-20261017/rq316_er_kann_52c0b70500da.mp3",
+      "sha256": "52c0b70500daa08f3c73dbd47e8b4580827de55b47e7875670823b007e9b6129",
+      "duration": 0.783673,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq317",
+      "text": "Sie kann.",
+      "path": "audio/henri-20261017/rq317_sie_kann_6f91d1989840.mp3",
+      "sha256": "6f91d1989840f736a2cbd7ba3557b628da2af31e32447f57e263c9695c812063",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq318",
+      "text": "Es kann.",
+      "path": "audio/henri-20261017/rq318_es_kann_eccb2aeef389.mp3",
+      "sha256": "eccb2aeef38912803a7f3fb68ad7d4f38a4a17e5622ccaabd97e2d2937644202",
+      "duration": 0.783673,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq319",
+      "text": "Wir können.",
+      "path": "audio/henri-20261017/rq319_wir_koennen_f8a6535f3b49.mp3",
+      "sha256": "f8a6535f3b49253f30e97f5ebee0928ac8afe5b1851fe08ae0fa6698ffcc239f",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq320",
+      "text": "Ihr könnt.",
+      "path": "audio/henri-20261017/rq320_ihr_koennt_8c555d6e9b4b.mp3",
+      "sha256": "8c555d6e9b4b8850c45033afbe3e4a9fd1c8366a87fbab016176302f9e53cbd9",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq321",
+      "text": "Sie können.",
+      "path": "audio/henri-20261017/rq321_sie_koennen_73a13afd5859.mp3",
+      "sha256": "73a13afd5859567a884e411f73245313b5137fc7842be2c20ab87e26347fde97",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq322",
+      "text": "Ich muss.",
+      "path": "audio/henri-20261017/rq322_ich_muss_ac43e0f38e04.mp3",
+      "sha256": "ac43e0f38e04b66851f1bd3bcffa60f4fe42c8a6783bff1346733001e49973a0",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq323",
+      "text": "Du musst.",
+      "path": "audio/henri-20261017/rq323_du_musst_f1156397ea8a.mp3",
+      "sha256": "f1156397ea8a2bf276e98204a474e22050c3f2a95c005a583ccf7508b5481856",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq324",
+      "text": "Er muss.",
+      "path": "audio/henri-20261017/rq324_er_muss_17f547ab15ec.mp3",
+      "sha256": "17f547ab15ec1312879aa5a87776f1298fa66ed200b726611364b6000c7c59e7",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq325",
+      "text": "Sie muss.",
+      "path": "audio/henri-20261017/rq325_sie_muss_32ebc147be99.mp3",
+      "sha256": "32ebc147be991199d87ed08d4e565480001cef26e0e0d11edd4500a8747fcf26",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq326",
+      "text": "Es muss.",
+      "path": "audio/henri-20261017/rq326_es_muss_f05164644706.mp3",
+      "sha256": "f05164644706b21cab501f71534ec4202df62d222ac657dbc2819c053d62e997",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq327",
+      "text": "Wir müssen.",
+      "path": "audio/henri-20261017/rq327_wir_muessen_a6bc5c36e79d.mp3",
+      "sha256": "a6bc5c36e79d3e44933962136f3d0cb03c711614ae33c91753fdd40a1c2a1772",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq328",
+      "text": "Ihr müsst.",
+      "path": "audio/henri-20261017/rq328_ihr_muesst_603d5f461f24.mp3",
+      "sha256": "603d5f461f24f3b002950b32c6b66a25de7695af4af68ebc07942e4f035c5f81",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq329",
+      "text": "Sie müssen.",
+      "path": "audio/henri-20261017/rq329_sie_muessen_25b93e77b281.mp3",
+      "sha256": "25b93e77b2811dfe8be9009aa1351e3d2bfb233651556557c1d2d68e16c45e18",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq330",
+      "text": "Ich brauche.",
+      "path": "audio/henri-20261017/rq330_ich_brauche_a6d4d89ae5ac.mp3",
+      "sha256": "a6d4d89ae5ac6b52c9874bbf789f13dac61525d2ec7a465abc80bf9f40c00c38",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq331",
+      "text": "Du brauchst.",
+      "path": "audio/henri-20261017/rq331_du_brauchst_f7e72f52eb28.mp3",
+      "sha256": "f7e72f52eb285fb45047ce2de9500156e08069ac936a7bc0a6359ccb689f9529",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq332",
+      "text": "Er braucht.",
+      "path": "audio/henri-20261017/rq332_er_braucht_2fd4e1390e0f.mp3",
+      "sha256": "2fd4e1390e0fb32628e387d0c7a3722cc329534cf58c04f46ede000ec65ad0c3",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq333",
+      "text": "Sie braucht.",
+      "path": "audio/henri-20261017/rq333_sie_braucht_f225429baa15.mp3",
+      "sha256": "f225429baa15c00a7b249eed6dab75dc4e28b27d4d537fd8dfa4ceb3fcc555dc",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq334",
+      "text": "Es braucht.",
+      "path": "audio/henri-20261017/rq334_es_braucht_e38e6025c20b.mp3",
+      "sha256": "e38e6025c20b671bfe73ba382f35405ea85e00e2a341cc77774d3abfe097c628",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq335",
+      "text": "Wir brauchen.",
+      "path": "audio/henri-20261017/rq335_wir_brauchen_19ee993dd4cc.mp3",
+      "sha256": "19ee993dd4cc12fdd75725b1d35ffd0d61a712b3fb4e6c3667aaf0c596f1909e",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq336",
+      "text": "Ihr braucht.",
+      "path": "audio/henri-20261017/rq336_ihr_braucht_27b3cc255f2b.mp3",
+      "sha256": "27b3cc255f2bf07ec3af5145f0dbd6e4463ce41483e4925f40dc7b1a811b0bf9",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq337",
+      "text": "Sie brauchen.",
+      "path": "audio/henri-20261017/rq337_sie_brauchen_24ca6e1136c3.mp3",
+      "sha256": "24ca6e1136c39c1390b4bbaac6866fc5ad0322988591a873705f3e6d0e10377f",
+      "duration": 1.018776,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq338",
+      "text": "Ich gebe.",
+      "path": "audio/henri-20261017/rq338_ich_gebe_4716871b327d.mp3",
+      "sha256": "4716871b327db4a355389d1e3e1c7a8d225390b2aa4b24cafa05b49dab0bbd9a",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq339",
+      "text": "Du gibst.",
+      "path": "audio/henri-20261017/rq339_du_gibst_db12a87df343.mp3",
+      "sha256": "db12a87df3433015a1a2b9372b2ff0ba7868281e0c4f564172022b764c141a25",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq340",
+      "text": "Er gibt.",
+      "path": "audio/henri-20261017/rq340_er_gibt_414ded0dcc3d.mp3",
+      "sha256": "414ded0dcc3de89c28859813885d1377acd141eda6c21e87c95959c6e5cda40c",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq341",
+      "text": "Sie gibt.",
+      "path": "audio/henri-20261017/rq341_sie_gibt_d89d38a03268.mp3",
+      "sha256": "d89d38a03268bbb5366f7d1c785be6a2ee52266ae628a846c4a473e11a39a616",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq342",
+      "text": "Es gibt.",
+      "path": "audio/henri-20261017/rq342_es_gibt_f84aaad3d6fe.mp3",
+      "sha256": "f84aaad3d6fea2a85a9f68b1ddf9d44ad651b7db20eab8587edbd494bd40699d",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq343",
+      "text": "Wir geben.",
+      "path": "audio/henri-20261017/rq343_wir_geben_760947e37a40.mp3",
+      "sha256": "760947e37a405e693f6a529b01f21543bab3ea9d905c6da0618b0471385f02e4",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq344",
+      "text": "Ihr gebt.",
+      "path": "audio/henri-20261017/rq344_ihr_gebt_6f9f44ed357b.mp3",
+      "sha256": "6f9f44ed357b774b32aaf862970ea88579820161b4c70f2fcd6250def0c85e65",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq345",
+      "text": "Sie geben.",
+      "path": "audio/henri-20261017/rq345_sie_geben_dde467c642c9.mp3",
+      "sha256": "dde467c642c9164f2f71c0a249753cd03c3ac98ecee0f13b1cc88d138f70bfea",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq346",
+      "text": "Ich nehme.",
+      "path": "audio/henri-20261017/rq346_ich_nehme_c810d0c2b343.mp3",
+      "sha256": "c810d0c2b3432388b2e6ccc0fc29a980b88cfb3826a4c01e1f2c0bbbf98e44aa",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq347",
+      "text": "Du nimmst.",
+      "path": "audio/henri-20261017/rq347_du_nimmst_038207c5050b.mp3",
+      "sha256": "038207c5050ba193c0075af7e9f190fab7b4193d66d3fe4fe3c9d18dc06a1c5b",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq348",
+      "text": "Er nimmt.",
+      "path": "audio/henri-20261017/rq348_er_nimmt_de496d91410f.mp3",
+      "sha256": "de496d91410fd022d4b38da86e219b940341da98262da47acfbc9dd77600ca74",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq349",
+      "text": "Sie nimmt.",
+      "path": "audio/henri-20261017/rq349_sie_nimmt_774547376094.mp3",
+      "sha256": "774547376094d34ac7f65ec5dbee94fefb83138d41b2ddd94905af733081316a",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq350",
+      "text": "Es nimmt.",
+      "path": "audio/henri-20261017/rq350_es_nimmt_f2e36971e752.mp3",
+      "sha256": "f2e36971e752c50550f7e6e48edf69867390026ed1b20581f78f435d54797915",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq351",
+      "text": "Wir nehmen.",
+      "path": "audio/henri-20261017/rq351_wir_nehmen_73c555998db1.mp3",
+      "sha256": "73c555998db162b75a39d8e48b09388c1e113de39154a1e39e60f7d0d307ee31",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq352",
+      "text": "Ihr nehmt.",
+      "path": "audio/henri-20261017/rq352_ihr_nehmt_733b9c35a454.mp3",
+      "sha256": "733b9c35a454f97fa208cbf5257204d1a86108982e248128aa4a8dd164134102",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq353",
+      "text": "Sie nehmen.",
+      "path": "audio/henri-20261017/rq353_sie_nehmen_454252795ba8.mp3",
+      "sha256": "454252795ba873554235511896ce606d9e283ad974659141f83fa34b3d358d4f",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq354",
+      "text": "Ich finde.",
+      "path": "audio/henri-20261017/rq354_ich_finde_5fcb59c9ba77.mp3",
+      "sha256": "5fcb59c9ba77b798341e253b524a297f44cdf35a8b9ed4bbc1f0ff38eb8325b4",
+      "duration": 0.862041,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq355",
+      "text": "Du findest.",
+      "path": "audio/henri-20261017/rq355_du_findest_7914154920c5.mp3",
+      "sha256": "7914154920c58f7567c9684d304735f29c92b1ffb2ffa11d8eea74cebcd74633",
+      "duration": 1.018776,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq356",
+      "text": "Er findet.",
+      "path": "audio/henri-20261017/rq356_er_findet_b95dc48f8923.mp3",
+      "sha256": "b95dc48f892313243597a1e054f9bc4314d30f580c0ee216ea683dfa12ccfcda",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq357",
+      "text": "Sie findet.",
+      "path": "audio/henri-20261017/rq357_sie_findet_097e02b8f503.mp3",
+      "sha256": "097e02b8f5039d17ee24b746ab4da97993171cc3f4125ff7780e4d12461fa62b",
+      "duration": 1.018776,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq358",
+      "text": "Es findet.",
+      "path": "audio/henri-20261017/rq358_es_findet_2763eefbc66a.mp3",
+      "sha256": "2763eefbc66a6ea0a7f76a238f5412d0cfeb710e404abfe79ba3e725633cdd93",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq359",
+      "text": "Wir finden.",
+      "path": "audio/henri-20261017/rq359_wir_finden_c6358a97a3e0.mp3",
+      "sha256": "c6358a97a3e0d0cc8fc880009605482b346c4d524e1200f324624ccdbe2936aa",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq360",
+      "text": "Ihr findet.",
+      "path": "audio/henri-20261017/rq360_ihr_findet_fc718950a65a.mp3",
+      "sha256": "fc718950a65a2e153e6f6c446922b854acc7d89c5f66997f02cf11f2513df2a5",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq361",
+      "text": "Sie finden.",
+      "path": "audio/henri-20261017/rq361_sie_finden_b35fca255c97.mp3",
+      "sha256": "b35fca255c97523dd2f05d286a78e266005a909d19573eb166bbd0f9ba0d00dd",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq362",
+      "text": "Ich kaufe.",
+      "path": "audio/henri-20261017/rq362_ich_kaufe_cac74ff9f7e6.mp3",
+      "sha256": "cac74ff9f7e6c3bb7568ea64285c323ea938f13e265172feaae2c365188cff0b",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq363",
+      "text": "Du kaufst.",
+      "path": "audio/henri-20261017/rq363_du_kaufst_ed6ff17162a3.mp3",
+      "sha256": "ed6ff17162a394b76e3d07af70152252b11aa53fca335b153a98c5cd1266e9fa",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq364",
+      "text": "Er kauft.",
+      "path": "audio/henri-20261017/rq364_er_kauft_f49b9b366402.mp3",
+      "sha256": "f49b9b3664025c2ef2b753470f40a101ff2245aec24dcb6fab6bb2a255b9c864",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq365",
+      "text": "Sie kauft.",
+      "path": "audio/henri-20261017/rq365_sie_kauft_e41d4150d799.mp3",
+      "sha256": "e41d4150d799cada68dc1b955c48e7e57635c76251000941162cb1525d7173e6",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq366",
+      "text": "Es kauft.",
+      "path": "audio/henri-20261017/rq366_es_kauft_b27721206f9e.mp3",
+      "sha256": "b27721206f9eb5984f776f7517102226fad8bdb55394cafee60ef9b284176266",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq367",
+      "text": "Wir kaufen.",
+      "path": "audio/henri-20261017/rq367_wir_kaufen_a4e488619ce5.mp3",
+      "sha256": "a4e488619ce5d88af0f3da6608cd62e3b5adc949cb0f000db0506ac1b01458d1",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq368",
+      "text": "Ihr kauft.",
+      "path": "audio/henri-20261017/rq368_ihr_kauft_0e02a1c46791.mp3",
+      "sha256": "0e02a1c4679100b4021794c7079a47a5987f320c6ffb8c089973ac5b27efb935",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq369",
+      "text": "Sie kaufen.",
+      "path": "audio/henri-20261017/rq369_sie_kaufen_5a0122c8f2c0.mp3",
+      "sha256": "5a0122c8f2c03e5f3bc974834aff3e3bc50c1e379ee51bcefbd712b35d696aad",
+      "duration": 1.018776,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq370",
+      "text": "Ich fahre.",
+      "path": "audio/henri-20261017/rq370_ich_fahre_e4cc235262ed.mp3",
+      "sha256": "e4cc235262edc5f64318c99cade159ebb187d533a9b045b93607b58ea97f0917",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq371",
+      "text": "Du fährst.",
+      "path": "audio/henri-20261017/rq371_du_faehrst_c96b61a31d67.mp3",
+      "sha256": "c96b61a31d67068a2af096cfbdbaaeeebc239d21e55e818365f4e4332df97213",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq372",
+      "text": "Er fährt.",
+      "path": "audio/henri-20261017/rq372_er_faehrt_1765bd8118c7.mp3",
+      "sha256": "1765bd8118c79c0115ce69f007ef59c0433b7195cb47db182f9ade98cbfd083f",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq373",
+      "text": "Sie fährt.",
+      "path": "audio/henri-20261017/rq373_sie_faehrt_b43608424c99.mp3",
+      "sha256": "b43608424c999890b0dc0c70b1074e6861736ee9f4363d8a54ac0ec0fc8ee023",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq374",
+      "text": "Es fährt.",
+      "path": "audio/henri-20261017/rq374_es_faehrt_e5ff8cf135f3.mp3",
+      "sha256": "e5ff8cf135f34e45a183c335ba1018ff88faddd394513b9b8aa277de4baa4810",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq375",
+      "text": "Wir fahren.",
+      "path": "audio/henri-20261017/rq375_wir_fahren_3915493029b5.mp3",
+      "sha256": "3915493029b5a60db0735c911ad1e52086a0f6a599ee127fe1be3959e2f671a8",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq376",
+      "text": "Ihr fahrt.",
+      "path": "audio/henri-20261017/rq376_ihr_fahrt_bc77ea4e7908.mp3",
+      "sha256": "bc77ea4e79088c41e72b0aa1aa1431c3940e60f8fd7aea323088cdbf2e07bb57",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq377",
+      "text": "Sie fahren.",
+      "path": "audio/henri-20261017/rq377_sie_fahren_1805c3837dc8.mp3",
+      "sha256": "1805c3837dc81f73d742b648bb2b43c1505b7b91fb456ec83799ccbcb62fda91",
+      "duration": 1.018776,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq378",
+      "text": "Ich bleibe.",
+      "path": "audio/henri-20261017/rq378_ich_bleibe_6c5cde540a82.mp3",
+      "sha256": "6c5cde540a8254b9d10a33a5e47d2cef3ce8d5bb7f5b212eb77a833d379a59be",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq379",
+      "text": "Du bleibst.",
+      "path": "audio/henri-20261017/rq379_du_bleibst_534a55b321db.mp3",
+      "sha256": "534a55b321db5b15200932491000829d1b931b84ef9e418bcb3d5b3d3b56067a",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq380",
+      "text": "Er bleibt.",
+      "path": "audio/henri-20261017/rq380_er_bleibt_6c8b11cf46a6.mp3",
+      "sha256": "6c8b11cf46a6feb7dd3910f849cedeb38c8517d4f32cb5524211406ba7890161",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq381",
+      "text": "Sie bleibt.",
+      "path": "audio/henri-20261017/rq381_sie_bleibt_4f9b0032fe50.mp3",
+      "sha256": "4f9b0032fe50dd095d5e44b8a58e4d048dcaf23d517a906f5cb2ac8093a102cb",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq382",
+      "text": "Es bleibt.",
+      "path": "audio/henri-20261017/rq382_es_bleibt_5a853a69b619.mp3",
+      "sha256": "5a853a69b619984db3dc089c8142b5cd4f9d928243a39d33e912da7b8e55828c",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq383",
+      "text": "Wir bleiben.",
+      "path": "audio/henri-20261017/rq383_wir_bleiben_ea212731ad95.mp3",
+      "sha256": "ea212731ad95fc53393e85381c8b5016ecddf59b0c3742a0a5ac6e2064ecf1d8",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq384",
+      "text": "Ihr bleibt.",
+      "path": "audio/henri-20261017/rq384_ihr_bleibt_4f12f320d6c5.mp3",
+      "sha256": "4f12f320d6c59bad20fa6a4362df36061647512d77cd5c1aa803fd4bfbe64288",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq385",
+      "text": "Sie bleiben.",
+      "path": "audio/henri-20261017/rq385_sie_bleiben_48f4e4ade082.mp3",
+      "sha256": "48f4e4ade0828943b88fc1b1392b388a3e45d6dbca567a0c0756649ce2f17aef",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq386",
+      "text": "Ich öffne.",
+      "path": "audio/henri-20261017/rq386_ich_oeffne_17367af97a44.mp3",
+      "sha256": "17367af97a44026220790bbf2d4dbc4cd110669cfb29c988fdfbbe93239295f0",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq387",
+      "text": "Du öffnest.",
+      "path": "audio/henri-20261017/rq387_du_oeffnest_7fd0ff2e6472.mp3",
+      "sha256": "7fd0ff2e647291752863b9beeb582e51ba26887b153b801bdfef56b7fb62167f",
+      "duration": 1.07102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq388",
+      "text": "Er öffnet.",
+      "path": "audio/henri-20261017/rq388_er_oeffnet_798fa121dbd1.mp3",
+      "sha256": "798fa121dbd1e037d4503c6cbe397c575980a92483e231a7ad5bd6010d13df89",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq389",
+      "text": "Sie öffnet.",
+      "path": "audio/henri-20261017/rq389_sie_oeffnet_1aba3db9a60e.mp3",
+      "sha256": "1aba3db9a60e19abdd1155ca356ecf2aaad17bc8d21702b070461dffd516831b",
+      "duration": 1.07102,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq390",
+      "text": "Es öffnet.",
+      "path": "audio/henri-20261017/rq390_es_oeffnet_f9ae660ec72e.mp3",
+      "sha256": "f9ae660ec72e556107b1ef2da8fc4d20261833d85951d2e5c24508553daf47d6",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq391",
+      "text": "Wir öffnen.",
+      "path": "audio/henri-20261017/rq391_wir_oeffnen_4f16ebe41e83.mp3",
+      "sha256": "4f16ebe41e835529830aaf2ab6e9b9650ab7807fd8d62b024dbf3667c816923a",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq392",
+      "text": "Ihr öffnet.",
+      "path": "audio/henri-20261017/rq392_ihr_oeffnet_a283b6ddb374.mp3",
+      "sha256": "a283b6ddb37492e4989316f9a08a4364c9ed8817e60600293aaa6a6e30df9246",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq393",
+      "text": "Sie öffnen.",
+      "path": "audio/henri-20261017/rq393_sie_oeffnen_900a71c496f9.mp3",
+      "sha256": "900a71c496f9d6a2193248a813c3ac0da90b6ff3c4ccb3e26384cb5abc9e262d",
+      "duration": 1.018776,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq394",
+      "text": "Ich schließe.",
+      "path": "audio/henri-20261017/rq394_ich_schliesse_b8d7f2296c24.mp3",
+      "sha256": "b8d7f2296c24482fefd7f761c669876a5cfbd9e4df8b01efae78912b7e86c214",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq395",
+      "text": "Du schließt.",
+      "path": "audio/henri-20261017/rq395_du_schliesst_c91f47d0649d.mp3",
+      "sha256": "c91f47d0649d3887f8eaf252e716f1d2c1f2d241800b1f03783a1a5f564ab220",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq396",
+      "text": "Er schließt.",
+      "path": "audio/henri-20261017/rq396_er_schliesst_f0f9298d7848.mp3",
+      "sha256": "f0f9298d784852b7b0dd719273965b8d0577e8e42c2eeb7f2c79d370ee2d5742",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq397",
+      "text": "Sie schließt.",
+      "path": "audio/henri-20261017/rq397_sie_schliesst_39811d67128b.mp3",
+      "sha256": "39811d67128b5042b4745f2f953ba5c5ab41e8087abd4963cd68162568b2cb22",
+      "duration": 1.018776,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq398",
+      "text": "Es schließt.",
+      "path": "audio/henri-20261017/rq398_es_schliesst_2f521c0abf17.mp3",
+      "sha256": "2f521c0abf1729cc20b6582d94f869fe2d1daf44c3dd2ac4fd6836aa2b944364",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq399",
+      "text": "Wir schließen.",
+      "path": "audio/henri-20261017/rq399_wir_schliessen_73dd45023876.mp3",
+      "sha256": "73dd45023876687a4a16e45f08f97d195c827874431a6ecd0617dba07f655d4f",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq400",
+      "text": "Ihr schließt.",
+      "path": "audio/henri-20261017/rq400_ihr_schliesst_74c12a61e2e1.mp3",
+      "sha256": "74c12a61e2e1222703a7783073f9d5459f4061d69c7e69ae392b934e6a2ea6d4",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq401",
+      "text": "Sie schließen.",
+      "path": "audio/henri-20261017/rq401_sie_schliessen_ae04dfa611dd.mp3",
+      "sha256": "ae04dfa611dd16199c6e57b4b5ac46faca3cf6c4effaca24ce8bb0604fc1eb1f",
+      "duration": 1.018776,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq402",
+      "text": "Ich helfe.",
+      "path": "audio/henri-20261017/rq402_ich_helfe_fd0858ea2f10.mp3",
+      "sha256": "fd0858ea2f1042e9bf374b1227529f3453ac3299c3e0a87b288c1f28ff799e3d",
+      "duration": 0.888163,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq403",
+      "text": "Du hilfst.",
+      "path": "audio/henri-20261017/rq403_du_hilfst_562d3f85cd75.mp3",
+      "sha256": "562d3f85cd75b969cd7912097c7520eb1460511ccca2e52668f4e84c45480589",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq404",
+      "text": "Er hilft.",
+      "path": "audio/henri-20261017/rq404_er_hilft_c4a1ee0d70c4.mp3",
+      "sha256": "c4a1ee0d70c4e45c7f84f2213a5a66d0962274de2290283c9fea155f8dcf65b3",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq405",
+      "text": "Sie hilft.",
+      "path": "audio/henri-20261017/rq405_sie_hilft_5749e9adf04e.mp3",
+      "sha256": "5749e9adf04eb16a406124e95d9f6d0ea8a8477f5af69a3642b9ce5da8449782",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq406",
+      "text": "Es hilft.",
+      "path": "audio/henri-20261017/rq406_es_hilft_6e49e146f5a0.mp3",
+      "sha256": "6e49e146f5a0325e094ba48b3152c4cedb656bf1fa5ce4274b679bb792a15460",
+      "duration": 0.940408,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq407",
+      "text": "Wir helfen.",
+      "path": "audio/henri-20261017/rq407_wir_helfen_e8add4f81a79.mp3",
+      "sha256": "e8add4f81a7993230af353a9ee907913a90bac6feae2296de3b79bed937e39c2",
+      "duration": 0.966531,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq408",
+      "text": "Ihr helft.",
+      "path": "audio/henri-20261017/rq408_ihr_helft_82d1e461de54.mp3",
+      "sha256": "82d1e461de544b754286a611f0a0e8b09d34fe4172c1d046a1b35b73c04be3bb",
+      "duration": 0.914286,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq409",
+      "text": "Sie helfen.",
+      "path": "audio/henri-20261017/rq409_sie_helfen_a16523b62dbe.mp3",
+      "sha256": "a16523b62dbe14b54be139010af0122eb5840c309e38273e80e4be4dec0d418a",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    }
+  ]
+}
