@@ -40,7 +40,22 @@
   index=0;answers=[];question();
  }
  function wordSession(){cancel();wordPractice=true;retry=false;recorded=new Set();const words=data.lexicon.filter(w=>w.lessonIds.includes(lesson.id)),valid=types.filter(t=>['ua','de','listen','write','speak'].includes(t)),modes=valid.length?valid:['ua'];items=shuffle(shuffle(words).map((w,n)=>({p:{de:w.de,ua:w.ua,phraseId:w.id,sourceLessonId:lesson.id},type:modes[n%modes.length]})));index=0;answers=[];question();}
- function normalize(s){return clean(s).replace(/ä/g,'ae').replace(/ö/g,'oe').replace(/ü/g,'ue').replace(/ß/g,'ss').replace(/[.,!?;:]/g,'').replace(/\s+/g,' ').trim()}
+ function spokenNumbers(value){
+  if(!/\d|€|kiew|einhundert|eintausend|\b(?:ein\s+uhr|uhr\s+(?:fünfzehn|dreißig))/i.test(String(value)))return String(value);
+  const units=['null','eins','zwei','drei','vier','fünf','sechs','sieben','acht','neun','zehn','elf','zwölf','dreizehn','vierzehn','fünfzehn','sechzehn','siebzehn','achtzehn','neunzehn'],tens={20:'zwanzig',30:'dreißig',40:'vierzig',50:'fünfzig',60:'sechzig',70:'siebzig',80:'achtzig',90:'neunzig'};
+  const number=n=>{n=Number(n);if(n<20)return units[n];if(n<100)return(n%10?(n%10===1?'ein':units[n%10])+'und':'')+tens[Math.floor(n/10)*10];if(n<1000)return(Math.floor(n/100)===1?'':units[Math.floor(n/100)])+'hundert'+(n%100?number(n%100):'');if(n<10000)return(Math.floor(n/1000)===1?'':units[Math.floor(n/1000)])+'tausend'+(n%1000?number(n%1000):'');return String(n)};
+  const ordinal=(n,end)=>({1:'erst',3:'dritt',7:'siebt',8:'acht'}[n]||number(n)+(n<20?'t':'st'))+end;
+  const time=(h,m)=>m===30?'halb '+number((h+1)%24):m===15?'viertel nach '+number(h):number(h)+' uhr'+(m?' '+number(m):'');
+  let text=String(value).normalize('NFC').toLocaleLowerCase('de-DE');
+  const months='(januar|februar|märz|april|mai|juni|juli|august|september|oktober|november|dezember)';
+  text=text.replace(new RegExp('\\bam\\s+(\\d{1,2})\\.?\\s*'+months+'\\b','g'),(_,n,m)=>'am '+ordinal(Number(n),'en')+' '+m).replace(new RegExp('\\bder\\s+(\\d{1,2})\\.?\\s*'+months+'\\b','g'),(_,n,m)=>'der '+ordinal(Number(n),'e')+' '+m);
+  text=text.replace(/\b(\d+)[,.](\d{2})\s*(?:€|euro\b)/g,(_,n,c)=>number(n)+' euro '+number(c)).replace(/€/g,' euro ');
+  text=text.replace(/\b(\d{1,2}):(\d{2})(?:\s*uhr)?\b/g,(_,h,m)=>Number(h)<24&&Number(m)<60?time(Number(h),Number(m)):_);
+  text=text.replace(/\b\d+\b/g,n=>number(n)).replace(/\bein uhr\b/g,'eins uhr');
+  for(let h=0;h<24;h++)for(const [m,word]of [[15,'fünfzehn'],[30,'dreißig']])text=text.replace(new RegExp('\\b'+number(h)+' uhr '+word+'\\b','g'),time(h,m));
+  return text.replace(/\bkiew\b/g,'kyjiw').replace(/\beinhundert\b/g,'hundert').replace(/\beintausend\b/g,'tausend');
+ }
+ function normalize(s){return clean(spokenNumbers(s)).replace(/ä/g,'ae').replace(/ö/g,'oe').replace(/ü/g,'ue').replace(/ß/g,'ss').replace(/[.,!?;:]/g,'').replace(/\s+/g,' ').trim()}
  function variants(p){const list=[p.de,...(p.variants||[])],parts=p.de.replace(/[.!?]$/,'').split(' '),pronouns=['Ich','Du','Er','Sie','Es','Wir','Ihr'],adverbs=['heute','morgen','gestern','jetzt','hier','dort'];if(!p.de.includes(',')&&p.de.endsWith('.')){const at=parts.findIndex((t,n)=>n>1&&adverbs.includes(t));if(pronouns.includes(parts[0])&&at>1){const a=parts[at],rest=parts.filter((_,n)=>n!==at);rest[0]=parts[0]==='Sie'&&p.ua.includes('ввічливо')?'Sie':rest[0].toLowerCase();list.push(a[0].toUpperCase()+a.slice(1)+' '+rest[1]+' '+rest[0]+(rest.length>2?' '+rest.slice(2).join(' '):'')+'.')}if(adverbs.includes(parts[0].toLowerCase())&&['ich','du','er','sie','es','wir','ihr','Sie'].includes(parts[2]))list.push(parts[2][0].toUpperCase()+parts[2].slice(1)+' '+parts[1]+' '+parts[0].toLowerCase()+(parts.length>3?' '+parts.slice(3).join(' '):'')+'.')}
  return list.map(normalize)}
  function question(){cancel();locked=false;selected=[];voiceMismatch='';phase='practice';const t=items[index],p=t.p,type=t.type;let q='',input='';
