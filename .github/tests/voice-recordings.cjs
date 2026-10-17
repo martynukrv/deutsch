@@ -21,6 +21,6 @@ const fs=require('fs'),path=require('path');
    await Promise.all(Array.from({length:8},worker));return {loaded,words:vocabCategories.reduce((n,c)=>n+c.words.length,0),combinations:generatedVerbTasks(1).length};
   },entries);
   if(result.loaded!==453||result.words!==282||result.combinations!==342)throw Error(JSON.stringify(result));
-  console.log('PASS 453 exact recorded bindings (409 original + 44 lesson phrases) and playable MP3s, 282 dictionary entries, all 425 lesson phrase variants, all 342 pronoun–verb tasks and every conjugated word',process.env.ART_SITE_URL||'local');
+  console.log('PASS 453 exact recorded bindings (409 original + 44 lesson phrases) and playable MP3s, 282 dictionary entries, all 494 lesson phrase variants, all 342 pronoun–verb tasks and every conjugated word',process.env.ART_SITE_URL||'local');
  }finally{await browser.close()}
 })().catch(e=>{console.error(e);process.exit(1)});

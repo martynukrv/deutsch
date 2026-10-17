@@ -6,7 +6,7 @@ window.DEUTSCH_LESSON_CATALOG = {
     welcome: 'Hallo! — Привіт!',
     open: 'Відкрити →',
     lesson: 'Урок',
-    practiceHints: {negativePractice: 'Змішані речення із запереченням', questionPractice: 'Змішані питання'},
+    practiceHints: {negativePractice: 'Твердження ↔ заперечення', questionPractice: 'Твердження · заперечення · питання'},
     groups: {
       statements: {title: 'Твердження', description: 'Вчимося будувати прості правильні речення.'},
       negation: {title: 'Заперечення', description: 'Вчимося говорити, що хтось чогось не робить.'},

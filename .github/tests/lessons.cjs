@@ -3,9 +3,15 @@ const{chromium}=require('playwright'),{pathToFileURL}=require('url'),path=requir
 await p.evaluate(()=>{profileStorage.removeItem(DEUTSCH_REVIEW.key);profileStorage.removeItem(vqStatsKey());profileStorage.removeItem('deutsch16_lessons_v1');
  if(flatStages().length!==18||lessonGroups.length!==5||lessonRules.length!==18||lessonExtra.length!==18)throw Error('Expanded lesson program incomplete');
  const labels=[...document.querySelectorAll('#learningPath .path-copy b')].map(el=>el.textContent);if(labels.some((s,n)=>!s.startsWith((n+1)+'. ')))throw Error('Lesson numbering resets');
- const phrases=DEUTSCH_LEARNING_PHRASES;if(phrases.length!==425||new Set(phrases.map(p=>p.id)).size!==425)throw Error('Permanent phrase IDs missing');
+ const phrases=DEUTSCH_LEARNING_PHRASES;if(phrases.length!==494||new Set(phrases.map(p=>p.id)).size!==494)throw Error('Permanent phrase IDs missing');
  for(let n=0;n<18;n++){openLesson(n);if(!tasks.length||!lessonRules[n][2]||!document.getElementById('lessonTitle').textContent)throw Error('Lesson missing practice or rule '+n);for(const t of lessonTasks(n)){if(!DEUTSCH_REVIEW.resolve([t.de,t.ua]))throw Error('Unbound phrase '+t.de);const tokens=words(t);if(tokens.length!==t.opts.length||tokens.some((w,i)=>!t.opts[i].some(x=>same(x,w))))throw Error('Invalid phrase options '+t.de)}}
  if(lessonTasks(4).some(t=>!/(heute|morgen|hier|dort|jetzt)/i.test(t.de))||lessonTasks(9).some(t=>! /^(Was|Wo|Wann|Wie|Warum|Wer) /.test(t.de)))throw Error('Topic routing mixed unrelated questions');
+ for(const [n,count,types] of [[6,36,1],[7,72,2],[11,108,3]]){
+  const pool=lessonTasks(n);if(pool.length!==count||new Set(pool.map(t=>t.formType)).size!==types)throw Error('Incomplete transformation coverage '+n);
+  for(const t of pool){if(!t.baseDe||!recordedAudioFiles(t.baseDe)||!recordedAudioFiles(t.de))throw Error('Transformation audio missing');if(t.person===8&&t.formType==='question'&&!t.de.includes(' Sie?'))throw Error('Formal Sie lost');}
+  for(let repeat=0;repeat<20;repeat++){openLesson(n);const counts=Object.values(tasks.reduce((a,t)=>(a[t.formType]=(a[t.formType]||0)+1,a),{}));if(tasks.length!==20||Math.max(...counts)-Math.min(...counts)>1||counts.length!==types)throw Error('Unbalanced transformation session');if(document.getElementById('transformationPrompt').hidden||!document.querySelector('#transformationPrompt [data-speak]'))throw Error('Source phrase hidden');}
+ }
+ openLesson(0);if(!document.getElementById('transformationPrompt').hidden)throw Error('Source prompt leaked to standard lesson');
  // Correct and incorrect first attempts schedule phrases; retry cannot erase failure.
  openLesson(12);window.successPhrase=tasks[0];selected=words(tasks[0]);check(selected.join(' '),'pick');let c=Object.values(DEUTSCH_REVIEW.snapshot().data.cards)[0];if(c.type!=='de'||c.step!==1||DEUTSCH_REVIEW.snapshot().newToday!==0)throw Error('Phrase was not scheduled independently of new words');
  i=1;render();window.failedPhrase=tasks[i];selected=words(tasks[i]);selected[0]='Du';check(selected.join(' '),'pick');let failed=Object.values(DEUTSCH_REVIEW.snapshot().data.cards).find(c=>c.wordId===DEUTSCH_REVIEW.resolve([failedPhrase.de,failedPhrase.ua]).id);if(failed.bad!==1||failed.step!==0)throw Error('Phrase failure not scheduled');
@@ -26,5 +32,5 @@ await p.locator('#mic').click();await p.evaluate(()=>{const r=lessonRecognition,
 if(!await p.evaluate(()=>wrongCount===0&&!locked&&DEUTSCH_REVIEW.snapshot().known.size===0))throw Error('Unconfirmed lesson speech penalized profile');
 await p.getByRole('button',{name:'Підтвердити помилку'}).click();if(!await p.evaluate(()=>wrongCount===1&&Object.values(DEUTSCH_REVIEW.snapshot().data.cards)[0].type==='speak'))throw Error('Confirmed speech did not schedule pronunciation');
 await p.evaluate(()=>newSession());await p.locator('#mic').click();await p.evaluate(()=>{const r=lessonRecognition,oldResult=r.onresult,oldEnd=r.onend;openLesson(17);const result=[{transcript:'late',confidence:1}];result.isFinal=true;oldResult({resultIndex:0,results:[result]});oldEnd();if(!r.aborted||selectedLesson!==17||wrongCount!==0||locked)throw Error('Late lesson recognition changed new exercise')});
-if(errors.length)throw Error(errors.join('; '));console.log('PASS 18 numbered lessons, topic-specific tasks, 425 stable phrases, per-skill scheduling, first-attempt grading, saved lesson completion/continue, timer isolation and profile boundaries');
+if(errors.length)throw Error(errors.join('; '));console.log('PASS 18 numbered lessons, topic-specific tasks, 494 stable phrases, per-skill scheduling, first-attempt grading, saved lesson completion/continue, timer isolation and profile boundaries');
 }finally{await b.close()}})().catch(e=>{console.error(e);process.exit(1)});
