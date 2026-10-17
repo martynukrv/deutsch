@@ -139,6 +139,19 @@ const path = require('path');
  });
  console.log('LESSONS',JSON.stringify(lessons));
  if(lessons.some(x=>!x.taskCount||!x.valid))throw new Error('Some lessons have empty or invalid exercises');
+ await page.evaluate(()=>{
+  const generated=generatedVerbTasks(1),dictionary=vocabCategories[1].words.map(w=>w[0]);
+  if(generated.length!==342||verbConjugations.length!==38||dictionary.some(de=>!verbConjugations.some(v=>v.de===de)))throw Error('Incomplete verb catalog');
+  for(const v of verbConjugations){const tasks=generated.filter(t=>t.verb===v.de);if(tasks.length!==9||new Set(tasks.map(t=>t.person)).size!==9||tasks.some(t=>t.de!==lessonPersons[t.person][0]+' '+v.forms[lessonFormIndices[t.person]]+'.'||t.ua!==lessonPersons[t.person][1]+' '+v.ua[t.person===8?4:lessonFormIndices[t.person]]+'.'||t.opts.some((options,i)=>!options.includes(words(t)[i]))))throw Error('Incomplete person/form coverage: '+v.de)}
+  const irregular={sein:['bin','bist','ist','sind','seid','sind'],haben:['habe','hast','hat','haben','habt','haben'],sehen:['sehe','siehst','sieht','sehen','seht','sehen'],wissen:['weiß','weißt','weiß','wissen','wisst','wissen'],nehmen:['nehme','nimmst','nimmt','nehmen','nehmt','nehmen'],helfen:['helfe','hilfst','hilft','helfen','helft','helfen'],arbeiten:['arbeite','arbeitest','arbeitet','arbeiten','arbeitet','arbeiten'],öffnen:['öffne','öffnest','öffnet','öffnen','öffnet','öffnen']};
+  for(const [de,forms] of Object.entries(irregular))if(JSON.stringify(verbConjugations.find(v=>v.de===de).forms)!==JSON.stringify(forms))throw Error('Wrong irregular conjugation: '+de);
+  for(const greeting of ['Hallo!','Guten Morgen!','Danke!','Bitte!','Entschuldigung!'])if(!recordedAudioFiles(greeting)||JSON.stringify(recordedAudioFiles(greeting))!==JSON.stringify(recordedAudioFiles(greeting.replace('!',''))))throw Error('Punctuation hides existing recording');
+  openLesson(1);
+  if(document.querySelectorAll('#verbPracticeSelect option').length!==39)throw Error('Missing verb selection');
+  for(const v of verbConjugations){selectedPracticeVerb=v.de;newSession();if(tasks.length!==9||tasks.some(t=>t.verb!==v.de)||new Set(tasks.map(t=>t.person)).size!==9)throw Error('Selected verb does not cover all persons')}
+  selectedPracticeVerb='all';openLesson(0);
+ });
+ console.log('PASS 38 verbs × 9 pronouns, explicit irregular forms, selectable complete practice and punctuation-safe recorded audio');
  console.log('PASS Chromium smoke test');
  await browser.close();
 })().catch(e=>{console.error(e);process.exit(1)});
