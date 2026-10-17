@@ -8,7 +8,7 @@ on:
       - 'assets/illustrations/**'
       - 'index.html'
       - '.github/workflows/import-art.yml'
-      - '.github/tests/artwork.cjs'
+      - '.github/tests/**'
   workflow_dispatch:
 permissions:
   contents: write
@@ -45,6 +45,8 @@ jobs:
         run: node .github/tests/artwork.cjs
       - name: Verify app behavior
         run: node .github/tests/browser-smoke.cjs
+      - name: Verify selectable vocabulary practice
+        run: node .github/tests/vocab-modes.cjs
       - name: Commit validated artwork and bindings
         run: |
           git config user.name "github-actions[bot]"
@@ -65,7 +67,9 @@ jobs:
       - name: Publish validated site
         id: deployment
         uses: actions/deploy-pages@v4
-      - name: Verify published artwork
+      - name: Verify published artwork and vocabulary practice
         env:
           ART_SITE_URL: ${{ steps.deployment.outputs.page_url }}
-        run: node .github/tests/artwork.cjs
+        run: |
+          node .github/tests/artwork.cjs
+          node .github/tests/vocab-modes.cjs
