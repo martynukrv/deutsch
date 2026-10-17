@@ -1,5 +1,86 @@
 [
   {
+    "category": "animals",
+    "de": "der Hund",
+    "ua": "собака",
+    "path": "assets/illustrations/animals/hund.png",
+    "sha256": "79df5594905424f3003ea1adbf8bf5f6f897dc937bd7a21946fdb0ee46b28042",
+    "width": 483,
+    "height": 417
+  },
+  {
+    "category": "animals",
+    "de": "die Katze",
+    "ua": "кіт / кішка",
+    "path": "assets/illustrations/animals/katze.png",
+    "sha256": "2657a998616822ea58d5377be9fbdda32bfb96246d448cedaf53e8b22492fb41",
+    "width": 469,
+    "height": 435
+  },
+  {
+    "category": "animals",
+    "de": "der Vogel",
+    "ua": "птах",
+    "path": "assets/illustrations/animals/vogel.png",
+    "sha256": "5460f4572b14c5545bd3808e98d4928a7fdf74dfeccf2d97925f8afceedd6e1e",
+    "width": 415,
+    "height": 423
+  },
+  {
+    "category": "animals",
+    "de": "der Fisch",
+    "ua": "риба",
+    "path": "assets/illustrations/animals/fisch.png",
+    "sha256": "e25037f475666276e829f4f305dff374643ec433ca004ce7d4fc6e99a89c0032",
+    "width": 446,
+    "height": 391
+  },
+  {
+    "category": "animals",
+    "de": "das Pferd",
+    "ua": "кінь",
+    "path": "assets/illustrations/animals/pferd.png",
+    "sha256": "671a4c352fe83246322ddc5e548707dbde09ab5a19f1898f7242680209eea7da",
+    "width": 489,
+    "height": 403
+  },
+  {
+    "category": "animals",
+    "de": "die Maus",
+    "ua": "миша",
+    "path": "assets/illustrations/animals/maus.png",
+    "sha256": "ad29dbb067810bcb951ab2756937b30ade0380e9eee61e5b826e7acb332613c6",
+    "width": 429,
+    "height": 419
+  },
+  {
+    "category": "animals",
+    "de": "der Hase",
+    "ua": "заєць / кролик",
+    "path": "assets/illustrations/animals/hase.png",
+    "sha256": "6520edd7106df2f41d41d0dd16dbe4b09140d37a9902986391b83544a03a4a5b",
+    "width": 444,
+    "height": 421
+  },
+  {
+    "category": "animals",
+    "de": "die Kuh",
+    "ua": "корова",
+    "path": "assets/illustrations/animals/kuh.png",
+    "sha256": "653ae11cfde67367c7c6c17a005df362dde5a4fa223f1aaecc1c18eeb0bf5c91",
+    "width": 453,
+    "height": 392
+  },
+  {
+    "category": "animals",
+    "de": "das Schwein",
+    "ua": "свиня",
+    "path": "assets/illustrations/animals/schwein.png",
+    "sha256": "6285aaa6645b551340c57939838c3495139d3201d85b591a468c7f7254a791fe",
+    "width": 417,
+    "height": 389
+  },
+  {
     "category": "colors",
     "de": "rot",
     "ua": "червоний",

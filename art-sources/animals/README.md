@@ -1,0 +1,1 @@
+Approved playful animal variant, selected by user 17 October 2026. User requested navy and orange tapered brand accent dashes on both sides. original-sheet.png preserves the refined artwork. Nine individually checked crops retain full compositions and side dashes, with 20px transparent padding.

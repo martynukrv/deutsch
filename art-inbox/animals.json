@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "category": "animals",
+  "approved": true,
+  "items": [
+    {
+      "de": "der Hund",
+      "ua": "собака",
+      "file": "hund.png"
+    },
+    {
+      "de": "die Katze",
+      "ua": "кіт / кішка",
+      "file": "katze.png"
+    },
+    {
+      "de": "der Vogel",
+      "ua": "птах",
+      "file": "vogel.png"
+    },
+    {
+      "de": "der Fisch",
+      "ua": "риба",
+      "file": "fisch.png"
+    },
+    {
+      "de": "das Pferd",
+      "ua": "кінь",
+      "file": "pferd.png"
+    },
+    {
+      "de": "die Maus",
+      "ua": "миша",
+      "file": "maus.png"
+    },
+    {
+      "de": "der Hase",
+      "ua": "заєць / кролик",
+      "file": "hase.png"
+    },
+    {
+      "de": "die Kuh",
+      "ua": "корова",
+      "file": "kuh.png"
+    },
+    {
+      "de": "das Schwein",
+      "ua": "свиня",
+      "file": "schwein.png"
+    }
+  ]
+}

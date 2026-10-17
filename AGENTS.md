@@ -23,3 +23,5 @@ For import and publication, follow art-inbox/README.md. Inspect CI results and t
 
 
 On 17 October 2026 the user explicitly selected the original food sheet (Playful German Food Doodle Sheet(1).png), rejected the palette-corrected version, and requested immediate cropping and insertion. Preserve that exact selected food artwork, including its light-blue water. This approval is specific to the existing food sheet and does not broaden the palette for future illustrations.
+
+On 17 October 2026 the user requested signature short tapered navy/orange accent dashes beside each illustration, matching the food artwork. Include these marks in future vocabulary illustrations and retain them when cropping.
