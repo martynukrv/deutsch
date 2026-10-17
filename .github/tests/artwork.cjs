@@ -72,7 +72,18 @@ const fs=require('fs');
     await page.evaluate(i=>openVocabCategory(i),category.index);
     // Eager-load all cards so lazy images below the fold are also checked.
     await page.locator('#wordGrid img').evaluateAll(els=>els.forEach(el=>el.loading='eager'));
-    await page.waitForFunction(()=>[...document.querySelectorAll('#wordGrid img')].every(im=>im.complete&&im.naturalWidth>0));
+    try{
+     await page.waitForFunction(()=>[...document.querySelectorAll('#wordGrid img')].every(im=>im.complete&&im.naturalWidth>0));
+    }catch(error){
+     const failed=await page.locator('#wordGrid img').evaluateAll(els=>els.filter(im=>!im.complete||!im.naturalWidth).map(im=>im.src));
+     if(!process.env.ART_SITE_URL)throw Error('Local artwork failed: '+JSON.stringify(failed));
+     // Reload the exact failed URLs once after a deployment; keep all assertions mandatory.
+     console.log('Retrying published artwork',JSON.stringify(failed));
+     await page.evaluate(async urls=>{for(const url of urls){const response=await fetch(url,{cache:'reload'});if(!response.ok)throw Error('Artwork retry HTTP '+response.status+' '+url);await response.arrayBuffer()}},failed);
+     await page.reload({waitUntil:'load'});await page.evaluate(i=>openVocabCategory(i),category.index);
+     await page.locator('#wordGrid img').evaluateAll(els=>els.forEach(el=>el.loading='eager'));
+     await page.waitForFunction(()=>[...document.querySelectorAll('#wordGrid img')].every(im=>im.complete&&im.naturalWidth>0));
+    }
     const result=await page.evaluate(()=>{
      const c=vocabCategories[activeVocab];
      return {count:document.querySelectorAll('#wordGrid img').length,total:c.words.length,
