@@ -8,4 +8,10 @@ Every vocabulary training answer updates the appropriate card. A typing fallback
 
 The home plan takes at most 20 due skill cards per session and retains the remainder. New-word sessions default to five new words per local day, configurable 0/5/10/15/20/30. Manual dictionary practice is unlimited but newly attempted words count toward today's introductions. Additional skills for previously introduced words do not consume the new-word budget. Each runtime item carries its original category for correct distractors across mixed-category sessions.
 
-This first version covers dictionary words. Lesson phrase repetition and richer lesson progression are subsequent work; current lesson exercises remain available. Profiles and schedules are local to the browser and not cloud-synced.
+The lesson program now has 18 globally numbered lessons in five groups. Stable lesson IDs persist in profileStorage under deutsch16_lessons_v1; deutsch16_last_lesson_v1 identifies the exact resumable lesson without timestamp tie ambiguity. A completed session with at least 80% correct first attempts marks a lesson completed. Home progress measures completed lessons, independent of dictionary usage.
+
+phrase-catalog.js contains 425 stable German/Ukrainian phrase variants, including every 38 × 9 pronoun–verb combination and topic-specific tasks. Preserve phrase IDs when editing content. Lesson first attempts enrol recall, writing (all positions typed), or speaking cards; corrections cannot erase the first failed attempt. Skipping records a failed recall. Due phrase cards reuse mixed daily practice with full-phrase choices, writing and speech. Phrase introductions never consume the new-word budget, and existing word schedules remain intact. Session tokens and cancellable recognition prevent previous lessons from changing new sessions.
+
+lessons-expanded.js holds six additional lessons and topic-specific overrides for place/time and question words. New lesson illustrations reuse matching approved artwork. New phrase audio uses existing recordings, composition where possible, or device speech synthesis; 44 phrases lacking recorded routing are listed in audio/recording/lesson-expansion-20261017.txt in exact recording order with [pause] markers.
+
+Profiles and schedules remain local to the browser and are not cloud-synced.

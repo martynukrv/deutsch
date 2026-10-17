@@ -23,6 +23,7 @@ jobs:
           node .github/tests/browser-smoke.cjs
           node .github/tests/profiles.cjs
           node .github/tests/review.cjs
+          node .github/tests/lessons.cjs
       - name: Audit published GitHub Pages
         run: node .github/tests/published-audit.cjs
       - name: Upload screenshots

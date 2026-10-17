@@ -26,7 +26,7 @@ const fs=require('fs');
   for(const width of [320,390,768,1280]){
    await page.setViewportSize({width,height:900});
    await page.locator('#homeView img').evaluateAll(els=>els.forEach(el=>el.loading='eager'));
-   await page.waitForFunction(()=>{const images=[...document.querySelectorAll('#homeView img')];return images.length===16&&images.every(im=>im.complete&&im.naturalWidth>0)});
+   await page.waitForFunction(()=>{const images=[...document.querySelectorAll('#homeView img')];return images.length===24&&images.every(im=>im.complete&&im.naturalWidth>0)});
    const home=await page.evaluate(()=>({
     images:document.querySelectorAll('#homeView img').length,
     lessons:document.querySelectorAll('#learningPath .path-icon img').length,
@@ -35,9 +35,9 @@ const fs=require('fs');
     oldArt:document.querySelectorAll('#homeView .doodle-hero svg,#learningPath .path-icon svg,#learningPath .lesson-group-icon svg').length,
     overflow:document.documentElement.scrollWidth>document.documentElement.clientWidth+5
    }));
-   if(home.images!==16||home.lessons!==12||home.topics!==3||home.distinct!==16||home.oldArt||home.overflow)throw Error('Homepage artwork failure '+width+JSON.stringify(home));
+   if(home.images!==24||home.lessons!==18||home.topics!==5||home.distinct<16||home.oldArt||home.overflow)throw Error('Homepage artwork failure '+width+JSON.stringify(home));
   }
-  console.log('PASS homepage artwork: welcome, 3 topics, 12 lessons loaded without old SVGs or overflow at 320/390/768/1280px');
+  console.log('PASS homepage artwork: welcome, 5 topics, 18 lessons loaded without old SVGs or overflow at 320/390/768/1280px');
   await page.locator('#wordsTab').click();
   for(const width of [320,390,768,1280]){
    await page.setViewportSize({width,height:900});
