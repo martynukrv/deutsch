@@ -99,6 +99,114 @@
     "height": 390
   },
   {
+    "category": "food",
+    "de": "das Wasser",
+    "ua": "вода",
+    "path": "assets/illustrations/food/wasser.png",
+    "sha256": "d30924c83d8945c276e81d6b1385cccc2684624087c8f2189b8956eec7d2c3d7",
+    "width": 320,
+    "height": 326
+  },
+  {
+    "category": "food",
+    "de": "das Brot",
+    "ua": "хліб",
+    "path": "assets/illustrations/food/brot.png",
+    "sha256": "640d2f89a226c4e7a78e9941d1bc1c1926bd9a94571175d14c85b8a57f4ffe5d",
+    "width": 399,
+    "height": 290
+  },
+  {
+    "category": "food",
+    "de": "die Milch",
+    "ua": "молоко",
+    "path": "assets/illustrations/food/milch.png",
+    "sha256": "6083e1796d0842612c467591e7e1a6a63c7961e6a95d4f6af0effe77dcda8077",
+    "width": 350,
+    "height": 340
+  },
+  {
+    "category": "food",
+    "de": "der Kaffee",
+    "ua": "кава",
+    "path": "assets/illustrations/food/kaffee.png",
+    "sha256": "244e6402b148d141bb45170ad41b65815b1106bc87626717b790ffc6f1151aa7",
+    "width": 328,
+    "height": 353
+  },
+  {
+    "category": "food",
+    "de": "der Tee",
+    "ua": "чай",
+    "path": "assets/illustrations/food/tee.png",
+    "sha256": "1ccaa782f6658ff98d334592e01e492d5fdc300d1d82d1f8d6ad7fc10fd0828a",
+    "width": 365,
+    "height": 348
+  },
+  {
+    "category": "food",
+    "de": "der Apfel",
+    "ua": "яблуко",
+    "path": "assets/illustrations/food/apfel.png",
+    "sha256": "2c60c7c8bf43cbf13634d1b32a43d7738a9ebaa77e3ecd8096916fdb69c4394f",
+    "width": 372,
+    "height": 354
+  },
+  {
+    "category": "food",
+    "de": "die Banane",
+    "ua": "банан",
+    "path": "assets/illustrations/food/banane.png",
+    "sha256": "ce3e607e9d65dcf3dc8459f76f2f19a474e64daad2cb215bbc3d447c4ae876ef",
+    "width": 370,
+    "height": 335
+  },
+  {
+    "category": "food",
+    "de": "das Fleisch",
+    "ua": "м’ясо",
+    "path": "assets/illustrations/food/fleisch.png",
+    "sha256": "ec78a284f7cf8e8297fc063f85a6e2f6893c42128dfb450d7851f7fa20df0248",
+    "width": 380,
+    "height": 298
+  },
+  {
+    "category": "food",
+    "de": "der Käse",
+    "ua": "сир",
+    "path": "assets/illustrations/food/kaese.png",
+    "sha256": "c9b765e86c1cf315e1e41e704b993ef0b75496f6de9d02e47a0fc499b00e665d",
+    "width": 358,
+    "height": 316
+  },
+  {
+    "category": "food",
+    "de": "das Ei",
+    "ua": "яйце",
+    "path": "assets/illustrations/food/ei.png",
+    "sha256": "e277592431df3d36126adabf0ebf4540fca7b5b4ff7e42f4ddc6f05297627d14",
+    "width": 298,
+    "height": 323
+  },
+  {
+    "category": "food",
+    "de": "das Gemüse",
+    "ua": "овочі",
+    "path": "assets/illustrations/food/gemuese.png",
+    "sha256": "d75d1480c78bac806ce515f748d04f2a22d60a3474022e6fd781f69d88967c88",
+    "width": 441,
+    "height": 349
+  },
+  {
+    "category": "food",
+    "de": "das Obst",
+    "ua": "фрукти",
+    "path": "assets/illustrations/food/obst.png",
+    "sha256": "077ad48af0fcd9aecbff7e29ff4123de1bc2e4eb04c9f4f5d3541698fe2b9cd2",
+    "width": 389,
+    "height": 332
+  },
+  {
     "category": "pronouns",
     "de": "ich",
     "ua": "я",
