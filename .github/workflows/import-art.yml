@@ -74,9 +74,12 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
+          name: github-pages-${{ github.run_attempt }}
       - name: Publish validated site
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-${{ github.run_attempt }}
       - name: Verify published artwork and vocabulary practice
         env:
           ART_SITE_URL: ${{ steps.deployment.outputs.page_url }}
@@ -84,3 +87,4 @@ jobs:
           node .github/tests/artwork.cjs
           node .github/tests/vocab-modes.cjs
           node .github/tests/voice-recordings.cjs
+          node .github/tests/lessons.cjs
