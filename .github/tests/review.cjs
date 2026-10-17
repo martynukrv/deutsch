@@ -19,6 +19,7 @@ await p.evaluate(()=>{
  R.start('due');if(!vq.daily||vq.items.length!==2)throw Error('Daily queue failed to launch');
  for(const it of vq.items)if(vqOptions(it).every(w=>w!==it.w))throw Error('Daily choices missing target');
  endVocabQuiz();
+ const savedModes=vqModes,savedRandom=Math.random;try{vqModes=VQ_TYPES.slice();Math.random=()=>0;const mixed=R.items('new');if(new Set(mixed.map(it=>it.type)).size!==5||mixed.every((it,i)=>it.type===VQ_TYPES[i]))throw Error('New-word skills not shuffled')}finally{vqModes=savedModes;Math.random=savedRandom}
  const novel=R.items('new');if(novel.length!==5)throw Error('Default daily new limit missing');
  for(const it of novel)R.record(it,true);
  if(R.snapshot().remaining!==0||R.items('new').length)throw Error('Daily new-word limit exceeded');
