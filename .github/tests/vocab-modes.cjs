@@ -18,11 +18,11 @@ const path=require('path'),fs=require('fs');
   await page.reload({waitUntil:'load'});await page.evaluate(()=>openVocabCategory(7));
   if(!await page.evaluate(()=>JSON.stringify(vqModes)===JSON.stringify(['de','write'])))throw Error('Mode selection lost on reload');
   await page.locator('#startVocabQuiz').click();
-  let choice=await page.evaluate(()=>vq.items[vq.index].w[0]);
+  let choice=await page.evaluate(()=>{vq.index=vq.items.findIndex(it=>it.type==='de');renderVq();return vq.items[vq.index].w[0]});
   await page.locator('[data-vq]').evaluateAll((els,answer)=>els.find(el=>el.dataset.vq===answer).click(),choice);
   if(!await page.evaluate(()=>vq.correct===1&&vq.locked))throw Error('Ukrainian-to-German choice failed');
   await page.locator('#vqExit').click();await page.locator('#startVocabQuiz').click();
-  await page.evaluate(()=>{const types=vq.items.map(it=>it.type);if(types.some(t=>!['de','write'].includes(t))||!types.includes('write')||types.lastIndexOf('de')>types.indexOf('write'))throw Error('Practice must use selected modes in difficulty order');vq.index=vq.items.findIndex(it=>it.type==='write');renderVq()});
+  await page.evaluate(()=>{const types=vq.items.map(it=>it.type);if(types.some(t=>!['de','write'].includes(t))||!types.includes('write')||!types.includes('de'))throw Error('Practice must include only selected modes');vq.index=vq.items.findIndex(it=>it.type==='write');renderVq()});
   await page.locator('#vqWriteForm button[type="submit"]').click();
   if(!await page.evaluate(()=>vq.correct===0&&vq.wrong===0&&!!document.getElementById('vqWriteError').textContent))throw Error('Empty answer counted');
   await page.locator('#vqWriteInput').fill('M');await page.locator('[data-vq-letter="ä"]').click();
@@ -88,7 +88,28 @@ const path=require('path'),fs=require('fs');
    }
    for(const index of [16,17]){openVocabCategory(index);startVocabQuiz(false,true);if(VQ_TYPES.some(t=>!vq.items.some(it=>it.type===t)))throw Error('New category missing practice skill');endVocabQuiz()}
   });
+  // Seeded randomness makes checks reproducible while exercising real session starts.
+  await page.evaluate(()=>{
+   const originalRandom=Math.random;let seed=1741;Math.random=()=>{seed=(Math.imul(seed,1664525)+1013904223)>>>0;return seed/4294967296};
+   try{
+    openVocabCategory(1);
+    const sessions=[];
+    for(let run=0;run<4;run++){
+     startVocabQuiz(false,false,VQ_TYPES.slice());
+     const counts=VQ_TYPES.map(t=>vq.items.filter(it=>it.type===t).length);
+     if(Math.min(...counts)<1||Math.max(...counts)-Math.min(...counts)>1)throw Error('Mixed session omitted or unbalanced selected skills');
+     const transitions=vq.items.slice(1).filter((it,i)=>it.type!==vq.items[i].type).length;
+     if(transitions<=4)throw Error('Skills remain grouped into blocks');
+     sessions.push(JSON.stringify(vq.items.map(it=>[it.w[0],it.type])));endVocabQuiz();
+    }
+    if(new Set(sessions).size!==4)throw Error('Session restart reused word/skill order');
+    const lessonSessions=[];selectedLesson=1;selectedPracticeVerb='all';
+    const pool=generatedVerbTasks(1);if(pool.length!==342||new Set(pool.map(t=>t.verb)).size!==38)throw Error('Expanded phrase pool missing');
+    for(let run=0;run<3;run++){newSession();if(tasks.some(t=>!pool.some(p=>p.de===t.de&&p.ua===t.ua)))throw Error('Session outside expanded pool');lessonSessions.push(JSON.stringify(tasks.map(t=>t.de)))}
+    if(new Set(lessonSessions).size!==3)throw Error('Lesson restart reused phrases');
+   }finally{Math.random=originalRandom;endVocabQuiz()}
+  });
   if(errors.length)throw Error(errors.join('; '));
-  console.log('PASS selectable/persisted skills, gradual practice, typed answers/umlauts, full final/retry, mocked speech/cancellation/fallback and 320–1280px layouts');
+  console.log('PASS selectable/persisted skills, randomized balanced practice, typed answers/umlauts, full final/retry, mocked speech/cancellation/fallback and 320–1280px layouts');
  }finally{await browser.close()}
 })().catch(e=>{console.error(e);process.exit(1)});
