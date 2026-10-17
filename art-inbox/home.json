@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "category": "home",
+  "approved": true,
+  "items": [
+    {
+      "de": "das Haus",
+      "ua": "будинок",
+      "file": "haus.png"
+    },
+    {
+      "de": "die Wohnung",
+      "ua": "квартира",
+      "file": "wohnung.png"
+    },
+    {
+      "de": "das Zimmer",
+      "ua": "кімната",
+      "file": "zimmer.png"
+    },
+    {
+      "de": "die Tür",
+      "ua": "двері",
+      "file": "tuer.png"
+    },
+    {
+      "de": "das Fenster",
+      "ua": "вікно",
+      "file": "fenster.png"
+    },
+    {
+      "de": "der Tisch",
+      "ua": "стіл",
+      "file": "tisch.png"
+    },
+    {
+      "de": "der Stuhl",
+      "ua": "стілець",
+      "file": "stuhl.png"
+    },
+    {
+      "de": "das Bett",
+      "ua": "ліжко",
+      "file": "bett.png"
+    },
+    {
+      "de": "die Küche",
+      "ua": "кухня",
+      "file": "kueche.png"
+    },
+    {
+      "de": "das Bad",
+      "ua": "ванна кімната",
+      "file": "bad.png"
+    }
+  ]
+}

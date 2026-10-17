@@ -288,6 +288,96 @@
     "height": 332
   },
   {
+    "category": "home",
+    "de": "das Haus",
+    "ua": "будинок",
+    "path": "assets/illustrations/home/haus.png",
+    "sha256": "e8e99f41e99f3ecaea31a38d010d0d7d5c8925dce2596de61e0f02de65877429",
+    "width": 400,
+    "height": 400
+  },
+  {
+    "category": "home",
+    "de": "die Wohnung",
+    "ua": "квартира",
+    "path": "assets/illustrations/home/wohnung.png",
+    "sha256": "8ae5f52a0da77039bf987bdd5a9cb6114589d2a0a3cd6bdeab10d5095d7ea2e3",
+    "width": 405,
+    "height": 405
+  },
+  {
+    "category": "home",
+    "de": "das Zimmer",
+    "ua": "кімната",
+    "path": "assets/illustrations/home/zimmer.png",
+    "sha256": "c41099c0a084a75269e9042de54764a5732f27ab24cdbb474240767f5f5019ee",
+    "width": 399,
+    "height": 399
+  },
+  {
+    "category": "home",
+    "de": "die Tür",
+    "ua": "двері",
+    "path": "assets/illustrations/home/tuer.png",
+    "sha256": "6124eead3d0b5ca5576bbc5a3c1b9e478b4658984fea8e0b655e95968ff537f3",
+    "width": 382,
+    "height": 382
+  },
+  {
+    "category": "home",
+    "de": "das Fenster",
+    "ua": "вікно",
+    "path": "assets/illustrations/home/fenster.png",
+    "sha256": "d7434b92c9adbb20b816a5688f43b4f8c1d22a92bbbb11a675131a436deb7ca0",
+    "width": 408,
+    "height": 408
+  },
+  {
+    "category": "home",
+    "de": "der Tisch",
+    "ua": "стіл",
+    "path": "assets/illustrations/home/tisch.png",
+    "sha256": "985a7e06da0389c9fe4a169ccbea8b1c3a0f5aa64d1e3cd4a00d80f29d641da3",
+    "width": 436,
+    "height": 436
+  },
+  {
+    "category": "home",
+    "de": "der Stuhl",
+    "ua": "стілець",
+    "path": "assets/illustrations/home/stuhl.png",
+    "sha256": "03a9e3a8f4cc57440969553c587647f571afbd0730ef304f9b82904a491fff38",
+    "width": 391,
+    "height": 391
+  },
+  {
+    "category": "home",
+    "de": "das Bett",
+    "ua": "ліжко",
+    "path": "assets/illustrations/home/bett.png",
+    "sha256": "ee027ec78844d280f85a5cb149f8d26302e4fc467b3d9a263f5842007fc0dd92",
+    "width": 429,
+    "height": 429
+  },
+  {
+    "category": "home",
+    "de": "die Küche",
+    "ua": "кухня",
+    "path": "assets/illustrations/home/kueche.png",
+    "sha256": "c1a39d1aabb6d529a5651455d3387f507427eff79ba99544e365752c9150673b",
+    "width": 419,
+    "height": 419
+  },
+  {
+    "category": "home",
+    "de": "das Bad",
+    "ua": "ванна кімната",
+    "path": "assets/illustrations/home/bad.png",
+    "sha256": "bf82e3362831ee0418346e9b996641fff34813dd0814c52d26cef5d179e01851",
+    "width": 386,
+    "height": 386
+  },
+  {
     "category": "pronouns",
     "de": "ich",
     "ua": "я",

@@ -1,0 +1,127 @@
+{
+  "category": "home",
+  "approved": true,
+  "authorization": "User explicitly requested one version and immediate insertion without waiting, 2026-10-17.",
+  "items": [
+    {
+      "de": "das Haus",
+      "ua": "будинок",
+      "source": "haus.png",
+      "name": "haus",
+      "original_box": [
+        0,
+        0,
+        400,
+        410
+      ]
+    },
+    {
+      "de": "die Wohnung",
+      "ua": "квартира",
+      "source": "wohnung.png",
+      "name": "wohnung",
+      "original_box": [
+        400,
+        0,
+        800,
+        410
+      ]
+    },
+    {
+      "de": "das Zimmer",
+      "ua": "кімната",
+      "source": "zimmer.png",
+      "name": "zimmer",
+      "original_box": [
+        800,
+        0,
+        1205,
+        410
+      ]
+    },
+    {
+      "de": "die Tür",
+      "ua": "двері",
+      "source": "tuer.png",
+      "name": "tuer",
+      "original_box": [
+        1205,
+        0,
+        1585,
+        410
+      ]
+    },
+    {
+      "de": "das Fenster",
+      "ua": "вікно",
+      "source": "fenster.png",
+      "name": "fenster",
+      "original_box": [
+        1585,
+        0,
+        1983,
+        410
+      ]
+    },
+    {
+      "de": "der Tisch",
+      "ua": "стіл",
+      "source": "tisch.png",
+      "name": "tisch",
+      "original_box": [
+        0,
+        410,
+        425,
+        793
+      ]
+    },
+    {
+      "de": "der Stuhl",
+      "ua": "стілець",
+      "source": "stuhl.png",
+      "name": "stuhl",
+      "original_box": [
+        425,
+        410,
+        800,
+        793
+      ]
+    },
+    {
+      "de": "das Bett",
+      "ua": "ліжко",
+      "source": "bett.png",
+      "name": "bett",
+      "original_box": [
+        800,
+        410,
+        1213,
+        793
+      ]
+    },
+    {
+      "de": "die Küche",
+      "ua": "кухня",
+      "source": "kueche.png",
+      "name": "kueche",
+      "original_box": [
+        1213,
+        410,
+        1607,
+        793
+      ]
+    },
+    {
+      "de": "das Bad",
+      "ua": "ванна кімната",
+      "source": "bad.png",
+      "name": "bad",
+      "original_box": [
+        1607,
+        410,
+        1983,
+        793
+      ]
+    }
+  ]
+}

@@ -11,7 +11,7 @@ The sole exception, explicitly authorized by the user on 16 October 2026, is the
 
 Art direction: keep every new illustration playful, lively and game-like, with expressive shapes and the cheerful energy of the approved characters. Avoid sterile, dull stock-icon treatment. The user explicitly requested this on 16 October 2026.
 
-Before cropping, mapping or replacing any new artwork, show THREE genuinely different artistic versions and wait for the user to choose which version to crop and insert. Do not publish a preview merely because it was generated. Preserve all other artwork until a version is selected.
+Current workflow, explicitly authorized on 17 October 2026: generate ONE version for the next unconverted category in the fixed approved style, display it, then crop, map, upload and publish immediately without waiting for a reply. Report after the work and upload are complete. This supersedes the earlier three-version approval workflow. Exceptions to the fixed style require an explicit user instruction.
 
 Match the approved pronoun/verb/category style: thick organic navy contours, simple friendly cartoon forms, restrained detail, flat white/cream/orange surfaces, transparent backgrounds. Avoid glossy emoji rendering, colored gradients, realistic lighting and excessive roundness.
 
