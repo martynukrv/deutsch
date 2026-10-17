@@ -9,6 +9,20 @@ const fs=require('fs');
   const errors=[];page.on('pageerror',e=>errors.push(e.message));
   const url=process.env.ART_SITE_URL||pathToFileURL(path.resolve('index.html')).href;
   await page.goto(url,{waitUntil:'load'});
+  await page.evaluate(()=>{
+   const titles=flatStages().map(st=>st.s[1]);
+   if(titles[2]!=='sein — бути'||titles[3]!=='haben — мати'||titles[5]!=='nicht — не'||!titles[10].includes('мати'))throw Error('Lesson title translation missing');
+   const lang=document.documentElement.lang;
+   const before=[...document.querySelectorAll('#learningPath .lesson-group-icon img')].map(im=>im.getAttribute('src'));
+   try{
+    window.DEUTSCH_LESSON_CATALOG.zz={lessons:{sein:'Localized test title'}};
+    document.documentElement.lang='zz';renderHome();
+    if(flatStages()[2].s[1]!=='Localized test title'||flatStages()[3].s[1]!=='haben — мати')throw Error('Locale selection or Ukrainian fallback failed');
+    const after=[...document.querySelectorAll('#learningPath .lesson-group-icon img')].map(im=>im.getAttribute('src'));
+    if(JSON.stringify(before)!==JSON.stringify(after))throw Error('Topic artwork depends on translated titles');
+   }finally{document.documentElement.lang=lang;delete window.DEUTSCH_LESSON_CATALOG.zz;renderHome()}
+  });
+  console.log('PASS localized lesson titles, language selection, missing-translation fallback and stable artwork');
   for(const width of [320,390,768,1280]){
    await page.setViewportSize({width,height:900});
    await page.locator('#homeView img').evaluateAll(els=>els.forEach(el=>el.loading='eager'));
