@@ -53,6 +53,7 @@ jobs:
           node .github/tests/profiles.cjs
           node .github/tests/review.cjs
           node .github/tests/lessons.cjs
+          node .github/tests/first-lesson.cjs
       - name: Verify selectable vocabulary practice
         run: node .github/tests/vocab-modes.cjs
       - name: Verify recorded audio playback
@@ -88,3 +89,4 @@ jobs:
           node .github/tests/vocab-modes.cjs
           node .github/tests/voice-recordings.cjs
           node .github/tests/lessons.cjs
+          node .github/tests/first-lesson.cjs

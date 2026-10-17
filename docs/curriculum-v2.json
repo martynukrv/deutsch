@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "status": "planning-only-not-loaded-by-app",
+  "status": "rolling-implementation-one-lesson-at-a-time",
   "created": "2026-10-17",
   "language": "uk",
   "basis": "Original material adapted to themes from all 16 Petrov sessions; reordered by prerequisites. No claim of exhaustive transcript coverage or certified CEFR equivalence.",
@@ -165,7 +165,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/first-lesson.js"
     },
     {
       "id": "personal-pronouns",
