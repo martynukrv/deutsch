@@ -1,0 +1,1860 @@
+{
+  "version": 2,
+  "status": "planning-only-not-loaded-by-app",
+  "created": "2026-10-17",
+  "language": "uk",
+  "basis": "Original material adapted to themes from all 16 Petrov sessions; reordered by prerequisites. No claim of exhaustive transcript coverage or certified CEFR equivalence.",
+  "modules": [
+    {
+      "number": 1,
+      "titleUk": "Перші речення",
+      "start": 1,
+      "end": 6,
+      "referenceSessions": [
+        1,
+        2
+      ]
+    },
+    {
+      "number": 2,
+      "titleUk": "Запитання, заперечення та знайомство",
+      "start": 7,
+      "end": 12,
+      "referenceSessions": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 3,
+      "titleUk": "Предмети та люди",
+      "start": 13,
+      "end": 18,
+      "referenceSessions": [
+        4,
+        9,
+        13
+      ]
+    },
+    {
+      "number": 4,
+      "titleUk": "Кого і що: Akkusativ",
+      "start": 19,
+      "end": 24,
+      "referenceSessions": [
+        2,
+        3,
+        9
+      ]
+    },
+    {
+      "number": 5,
+      "titleUk": "Можливості, бажання та прохання",
+      "start": 25,
+      "end": 30,
+      "referenceSessions": [
+        7,
+        8,
+        10,
+        15
+      ]
+    },
+    {
+      "number": 6,
+      "titleUk": "Кому й для кого: Dativ і прийменники",
+      "start": 31,
+      "end": 36,
+      "referenceSessions": [
+        3,
+        6,
+        9
+      ]
+    },
+    {
+      "number": 7,
+      "titleUk": "Числа, час і простір",
+      "start": 37,
+      "end": 42,
+      "referenceSessions": [
+        4,
+        5,
+        6,
+        10,
+        12,
+        15
+      ]
+    },
+    {
+      "number": 8,
+      "titleUk": "Мій день і складніші дієслова",
+      "start": 43,
+      "end": 48,
+      "referenceSessions": [
+        7,
+        12,
+        14
+      ]
+    },
+    {
+      "number": 9,
+      "titleUk": "Минулий час",
+      "start": 49,
+      "end": 55,
+      "referenceSessions": [
+        3,
+        5,
+        7,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "number": 10,
+      "titleUk": "Пов’язуємо думки",
+      "start": 56,
+      "end": 62,
+      "referenceSessions": [
+        7,
+        8,
+        12,
+        16
+      ]
+    },
+    {
+      "number": 11,
+      "titleUk": "Опис і порівняння",
+      "start": 63,
+      "end": 70,
+      "referenceSessions": [
+        11,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "number": 12,
+      "titleUk": "Повсякденне життя та підсумок",
+      "start": 71,
+      "end": 80,
+      "referenceSessions": [
+        4,
+        8,
+        10,
+        12,
+        13,
+        15,
+        16
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "sounds-greetings",
+      "number": 1,
+      "module": 1,
+      "titleUk": "Звуки, читання й перші привітання",
+      "goalUk": "Алфавіт як довідник; ä/ö/ü/ß, типові буквосполучення; Hallo, danke, bitte. Готові фрази позначені як фрази, а не вже пояснена граматика.",
+      "prerequisiteIds": [],
+      "referenceSessions": [
+        1,
+        2
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "personal-pronouns",
+      "number": 2,
+      "module": 1,
+      "titleUk": "Хто виконує дію",
+      "goalUk": "ich, du, er, sie, es, wir, ihr, sie, Sie; відрізняємо особу, кількість і ввічливе звертання.",
+      "prerequisiteIds": [
+        "sounds-greetings"
+      ],
+      "referenceSessions": [
+        1,
+        2
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "present-regular",
+      "number": 3,
+      "module": 1,
+      "titleUk": "Звичайні дієслова в теперішньому часі",
+      "goalUk": "Короткі речення з 5–6 правильними дієсловами; узгодження за особами. Не давати всі 38 дієслів одразу.",
+      "prerequisiteIds": [
+        "personal-pronouns"
+      ],
+      "referenceSessions": [
+        1,
+        2
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "present-sein",
+      "number": 4,
+      "module": 1,
+      "titleUk": "Бути: sein",
+      "goalUk": "bin, bist, ist, sind, seid; хто я і де я, з невеликим набором знайомих слів.",
+      "prerequisiteIds": [
+        "present-regular"
+      ],
+      "referenceSessions": [
+        1,
+        2
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "present-haben",
+      "number": 5,
+      "module": 1,
+      "titleUk": "Мати: haben",
+      "goalUk": "habe, hast, hat, haben, habt; спочатку Zeit, Hunger, Durst як сталі сполучення, без непояснених відмінків.",
+      "prerequisiteIds": [
+        "present-sein"
+      ],
+      "referenceSessions": [
+        1,
+        2
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "checkpoint-first-sentences",
+      "number": 6,
+      "module": 1,
+      "titleUk": "Практика: мої перші речення",
+      "goalUk": "Змішане відтворення вивчених тверджень; коротка зв’язна мініісторія.",
+      "prerequisiteIds": [
+        "present-haben"
+      ],
+      "referenceSessions": [
+        1,
+        2
+      ],
+      "kind": "checkpoint",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "main-clause-order",
+      "number": 7,
+      "module": 2,
+      "titleUk": "Порядок слів, місце та час",
+      "goalUk": "Дієслово на другій позиції; heute, morgen, hier, dort; Heute lerne ich. Майбутній зміст через Präsens + morgen.",
+      "prerequisiteIds": [
+        "checkpoint-first-sentences"
+      ],
+      "referenceSessions": [
+        1,
+        2,
+        4
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "negation-nicht",
+      "number": 8,
+      "module": 2,
+      "titleUk": "Заперечення з nicht",
+      "goalUk": "Прості дії й стани; позиція nicht на відібраних конструкціях, без правила «завжди після дієслова».",
+      "prerequisiteIds": [
+        "main-clause-order"
+      ],
+      "referenceSessions": [
+        1,
+        2,
+        4
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "yes-no-questions",
+      "number": 9,
+      "module": 2,
+      "titleUk": "Запитання «так / ні»",
+      "goalUk": "Дієслово перед підметом; включити sein і haben; перетворювати твердження на питання.",
+      "prerequisiteIds": [
+        "negation-nicht"
+      ],
+      "referenceSessions": [
+        1,
+        2,
+        4
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "w-questions",
+      "number": 10,
+      "module": 2,
+      "titleUk": "Хто, що, де, коли і як",
+      "goalUk": "wer, was, wo, wann, wie, warum; відповіді з уже знайомих слів.",
+      "prerequisiteIds": [
+        "yes-no-questions"
+      ],
+      "referenceSessions": [
+        1,
+        2,
+        4
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "introduce-yourself",
+      "number": 11,
+      "module": 2,
+      "titleUk": "Знайомство: ім’я, місто, мова, вік",
+      "goalUk": "heißen, wohnen, kommen, числа 0–20, wie alt; aus + назва країни як початковий готовий зворот. Детальне правило aus — пізніше.",
+      "prerequisiteIds": [
+        "w-questions"
+      ],
+      "referenceSessions": [
+        1,
+        2,
+        4
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "checkpoint-introduction",
+      "number": 12,
+      "module": 2,
+      "titleUk": "Практика: знайомимося",
+      "goalUk": "Діалог та коротке представлення себе; твердження, заперечення й питання впереміш.",
+      "prerequisiteIds": [
+        "introduce-yourself"
+      ],
+      "referenceSessions": [
+        1,
+        2,
+        4
+      ],
+      "kind": "checkpoint",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "nouns-definite",
+      "number": 13,
+      "module": 3,
+      "titleUk": "Іменники й означені артиклі",
+      "goalUk": "der/die/das у Nominativ; велика літера; учимо слово разом з артиклем.",
+      "prerequisiteIds": [
+        "checkpoint-introduction"
+      ],
+      "referenceSessions": [
+        4,
+        9,
+        13
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "nouns-indefinite-negative",
+      "number": 14,
+      "module": 3,
+      "titleUk": "Один предмет або жодного",
+      "goalUk": "ein/eine, kein/keine у Nominativ; Das ist …; відмінність nicht і kein на конкретних прикладах.",
+      "prerequisiteIds": [
+        "nouns-definite"
+      ],
+      "referenceSessions": [
+        4,
+        9,
+        13
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "noun-plurals",
+      "number": 15,
+      "module": 3,
+      "titleUk": "Множина",
+      "goalUk": "die + типові множини; не виводимо всі форми з одного правила; додаємо множину в картки іменників.",
+      "prerequisiteIds": [
+        "nouns-indefinite-negative"
+      ],
+      "referenceSessions": [
+        4,
+        9,
+        13
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "possessives-nominative",
+      "number": 16,
+      "module": 3,
+      "titleUk": "Мій, твій, його, її, наш",
+      "goalUk": "mein/dein/sein/ihr/unser/euer/Ihr у Nominativ; чітко відрізняємо ihr та Ihr.",
+      "prerequisiteIds": [
+        "noun-plurals"
+      ],
+      "referenceSessions": [
+        4,
+        9,
+        13
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "family-descriptions",
+      "number": 17,
+      "module": 3,
+      "titleUk": "Моя сім’я та прості описи",
+      "goalUk": "Родина, професії, базові кольори й ознаки після sein; професія після sein без артикля на простих прикладах.",
+      "prerequisiteIds": [
+        "possessives-nominative"
+      ],
+      "referenceSessions": [
+        4,
+        9,
+        13
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "checkpoint-family",
+      "number": 18,
+      "module": 3,
+      "titleUk": "Практика: люди й речі навколо мене",
+      "goalUk": "Розповідь про сім’ю і знайомі предмети, вибір артикля та присвійного слова.",
+      "prerequisiteIds": [
+        "family-descriptions"
+      ],
+      "referenceSessions": [
+        4,
+        9,
+        13
+      ],
+      "kind": "checkpoint",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "accusative-nouns",
+      "number": 19,
+      "module": 4,
+      "titleUk": "Бачу кого? Маю що?",
+      "goalUk": "den/einen/keinen; жіночий і середній рід; es gibt + Akkusativ. Предмети замість абстрактної таблиці всіх відмінків.",
+      "prerequisiteIds": [
+        "checkpoint-family"
+      ],
+      "referenceSessions": [
+        2,
+        3,
+        9
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "accusative-pronouns",
+      "number": 20,
+      "module": 4,
+      "titleUk": "Мене, тебе, його",
+      "goalUk": "mich/dich/ihn/sie/es/uns/euch/sie/Sie; кого бачу, шукаю, знаю.",
+      "prerequisiteIds": [
+        "accusative-nouns"
+      ],
+      "referenceSessions": [
+        2,
+        3,
+        9
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "present-irregular",
+      "number": 21,
+      "module": 4,
+      "titleUk": "Часті дієслова зі зміною основи",
+      "goalUk": "essen, lesen, sehen, sprechen, nehmen; неправильні форми в конкретних реченнях.",
+      "prerequisiteIds": [
+        "accusative-pronouns"
+      ],
+      "referenceSessions": [
+        2,
+        3,
+        9
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "likes-hobbies",
+      "number": 22,
+      "module": 4,
+      "titleUk": "Що мені подобається",
+      "goalUk": "mögen + предмет, gern + дія; їжа, напої, хобі; без змішування mögen і möchten.",
+      "prerequisiteIds": [
+        "present-irregular"
+      ],
+      "referenceSessions": [
+        2,
+        3,
+        9
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "cafe-first-dialogue",
+      "number": 23,
+      "module": 4,
+      "titleUk": "Перший діалог у кафе",
+      "goalUk": "Вибір їжі й напою, Ich nehme …, запитання; тільки відомі конструкції.",
+      "prerequisiteIds": [
+        "likes-hobbies"
+      ],
+      "referenceSessions": [
+        2,
+        3,
+        9
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "checkpoint-objects",
+      "number": 24,
+      "module": 4,
+      "titleUk": "Практика: вибираємо й замовляємо",
+      "goalUk": "Ситуаційний діалог; Akkusativ і неправильні форми без нової граматики.",
+      "prerequisiteIds": [
+        "cafe-first-dialogue"
+      ],
+      "referenceSessions": [
+        2,
+        3,
+        9
+      ],
+      "kind": "checkpoint",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "modal-koennen",
+      "number": 25,
+      "module": 5,
+      "titleUk": "Можу та вмію",
+      "goalUk": "können; модальне дієслово + інфінітив у кінці; позитивні й заперечні речення.",
+      "prerequisiteIds": [
+        "checkpoint-objects"
+      ],
+      "referenceSessions": [
+        7,
+        8,
+        10,
+        15
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "modal-muessen-sollen",
+      "number": 26,
+      "module": 5,
+      "titleUk": "Треба та слід",
+      "goalUk": "müssen/sollen; обов’язок і передана порада/вказівка; прості знайомі дії.",
+      "prerequisiteIds": [
+        "modal-koennen"
+      ],
+      "referenceSessions": [
+        7,
+        8,
+        10,
+        15
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "modal-wollen-moechten",
+      "number": 27,
+      "module": 5,
+      "titleUk": "Хочу та хотів би",
+      "goalUk": "wollen/möchten; прохання в кафе й магазині, ввічливий вибір.",
+      "prerequisiteIds": [
+        "modal-muessen-sollen"
+      ],
+      "referenceSessions": [
+        7,
+        8,
+        10,
+        15
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "modal-duerfen",
+      "number": 28,
+      "module": 5,
+      "titleUk": "Можна та не можна",
+      "goalUk": "dürfen; Darf ich …?; різниця nicht müssen і nicht dürfen.",
+      "prerequisiteIds": [
+        "modal-wollen-moechten"
+      ],
+      "referenceSessions": [
+        7,
+        8,
+        10,
+        15
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "imperative",
+      "number": 29,
+      "module": 5,
+      "titleUk": "Прохання та вказівки",
+      "goalUk": "Наказовий спосіб du/ihr/Sie; ввічливе bitte; типові неправильні форми.",
+      "prerequisiteIds": [
+        "modal-duerfen"
+      ],
+      "referenceSessions": [
+        7,
+        8,
+        10,
+        15
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "checkpoint-requests",
+      "number": 30,
+      "module": 5,
+      "titleUk": "Практика: домовляємося й просимо",
+      "goalUk": "Діалоги про можливість, дозвіл, бажання і необхідність.",
+      "prerequisiteIds": [
+        "imperative"
+      ],
+      "referenceSessions": [
+        7,
+        8,
+        10,
+        15
+      ],
+      "kind": "checkpoint",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "dative-nouns",
+      "number": 31,
+      "module": 6,
+      "titleUk": "Кому: Dativ з іменниками",
+      "goalUk": "dem/der/dem/den, einem/einer; множина; helfen, antworten, geben.",
+      "prerequisiteIds": [
+        "checkpoint-requests"
+      ],
+      "referenceSessions": [
+        3,
+        6,
+        9
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "dative-pronouns",
+      "number": 32,
+      "module": 6,
+      "titleUk": "Мені, тобі, йому",
+      "goalUk": "mir/dir/ihm/ihr/ihm/uns/euch/ihnen/Ihnen; допомога й передавання.",
+      "prerequisiteIds": [
+        "dative-nouns"
+      ],
+      "referenceSessions": [
+        3,
+        6,
+        9
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "two-objects",
+      "number": 33,
+      "module": 6,
+      "titleUk": "Хто кому що дає",
+      "goalUk": "Dativ + Akkusativ на іменниках; займенники вводимо поступово. Не вчимо хибне правило «Dativ завжди перший».",
+      "prerequisiteIds": [
+        "dative-pronouns"
+      ],
+      "referenceSessions": [
+        3,
+        6,
+        9
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "dative-prepositions",
+      "number": 34,
+      "module": 6,
+      "titleUk": "Зі мною, до тебе, від нього",
+      "goalUk": "mit, zu, von, aus, bei, nach + Dativ; базові скорочення zum/zur/beim.",
+      "prerequisiteIds": [
+        "two-objects"
+      ],
+      "referenceSessions": [
+        3,
+        6,
+        9
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "accusative-prepositions",
+      "number": 35,
+      "module": 6,
+      "titleUk": "Для мене, без тебе",
+      "goalUk": "für, ohne, gegen, durch, um + Akkusativ; присвійні форми в уже відомих відмінках.",
+      "prerequisiteIds": [
+        "dative-prepositions"
+      ],
+      "referenceSessions": [
+        3,
+        6,
+        9
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "checkpoint-gifts",
+      "number": 36,
+      "module": 6,
+      "titleUk": "Практика: допомога, подарунки й плани",
+      "goalUk": "Кому, що і для кого; короткі діалоги з прийменниками.",
+      "prerequisiteIds": [
+        "accusative-prepositions"
+      ],
+      "referenceSessions": [
+        3,
+        6,
+        9
+      ],
+      "kind": "checkpoint",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "numbers-prices",
+      "number": 37,
+      "module": 7,
+      "titleUk": "Великі числа та ціни",
+      "goalUk": "Повтор 0–20; 21–100, сотні, тисячі; кількість і ціни. Не вимагати запам’ятати кожне складене число як окреме слово.",
+      "prerequisiteIds": [
+        "checkpoint-gifts"
+      ],
+      "referenceSessions": [
+        4,
+        5,
+        6,
+        10,
+        12,
+        15
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "clock-dates",
+      "number": 38,
+      "module": 7,
+      "titleUk": "Годинник, дні, дати й день народження",
+      "goalUk": "Час, am/um, місяці, порядкові числівники й дати; окремі короткі кроки всередині уроку.",
+      "prerequisiteIds": [
+        "numbers-prices"
+      ],
+      "referenceSessions": [
+        4,
+        5,
+        6,
+        10,
+        12,
+        15
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "location-wo",
+      "number": 39,
+      "module": 7,
+      "titleUk": "Де: місце",
+      "goalUk": "in/an/auf та інші відібрані Wechselpräpositionen з Dativ; локація, зокрема під час руху в межах місця.",
+      "prerequisiteIds": [
+        "clock-dates"
+      ],
+      "referenceSessions": [
+        4,
+        5,
+        6,
+        10,
+        12,
+        15
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "destination-wohin",
+      "number": 40,
+      "module": 7,
+      "titleUk": "Куди: напрямок",
+      "goalUk": "Ті самі прийменники з Akkusativ для цілі/зміни місця. Не правило «будь-який рух = Akkusativ».",
+      "prerequisiteIds": [
+        "location-wo"
+      ],
+      "referenceSessions": [
+        4,
+        5,
+        6,
+        10,
+        12,
+        15
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "directions-home",
+      "number": 41,
+      "module": 7,
+      "titleUk": "Місто, маршрут, вдома й додому",
+      "goalUk": "links/rechts/geradeaus, сторони світу, wo/wohin, zu Hause/nach Hause; zu/nach/in у типових маршрутах.",
+      "prerequisiteIds": [
+        "destination-wohin"
+      ],
+      "referenceSessions": [
+        4,
+        5,
+        6,
+        10,
+        12,
+        15
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "checkpoint-meeting-route",
+      "number": 42,
+      "module": 7,
+      "titleUk": "Практика: зустріч у місті",
+      "goalUk": "Назвати дату, час, ціну й пояснити маршрут.",
+      "prerequisiteIds": [
+        "directions-home"
+      ],
+      "referenceSessions": [
+        4,
+        5,
+        6,
+        10,
+        12,
+        15
+      ],
+      "kind": "checkpoint",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "separable-present",
+      "number": 43,
+      "module": 8,
+      "titleUk": "Відокремлювані префікси",
+      "goalUk": "aufstehen, anrufen, einkaufen; рамка речення в Präsens і з модальним дієсловом.",
+      "prerequisiteIds": [
+        "checkpoint-meeting-route"
+      ],
+      "referenceSessions": [
+        7,
+        12,
+        14
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "inseparable-present",
+      "number": 44,
+      "module": 8,
+      "titleUk": "Невідокремлювані префікси та -ieren",
+      "goalUk": "verstehen, erklären, besuchen, telefonieren; значення й теперішні форми. Partizip II лише у відповідному наступному блоці.",
+      "prerequisiteIds": [
+        "separable-present"
+      ],
+      "referenceSessions": [
+        7,
+        12,
+        14
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "reflexive-present",
+      "number": 45,
+      "module": 8,
+      "titleUk": "Зворотні дієслова",
+      "goalUk": "sich treffen, sich freuen, sich waschen; знайомі Akkusativ/Dativ у відібраних зворотних конструкціях.",
+      "prerequisiteIds": [
+        "inseparable-present"
+      ],
+      "referenceSessions": [
+        7,
+        12,
+        14
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "daily-frequency",
+      "number": 46,
+      "module": 8,
+      "titleUk": "Розпорядок дня та частота",
+      "goalUk": "immer, oft, manchmal, selten, nie; morgens/abends; sequenced routine зі знайомими дієсловами.",
+      "prerequisiteIds": [
+        "reflexive-present"
+      ],
+      "referenceSessions": [
+        7,
+        12,
+        14
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "arrange-meeting",
+      "number": 47,
+      "module": 8,
+      "titleUk": "Домовляємося про зустріч",
+      "goalUk": "Час, місце, дзвінок, запрошення; прийняти або відмовитися.",
+      "prerequisiteIds": [
+        "daily-frequency"
+      ],
+      "referenceSessions": [
+        7,
+        12,
+        14
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "checkpoint-my-day",
+      "number": 48,
+      "module": 8,
+      "titleUk": "Практика: мій звичайний день",
+      "goalUk": "Зв’язна розповідь у теперішньому часі й короткий діалог про зустріч.",
+      "prerequisiteIds": [
+        "arrange-meeting"
+      ],
+      "referenceSessions": [
+        7,
+        12,
+        14
+      ],
+      "kind": "checkpoint",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "perfekt-haben-regular",
+      "number": 49,
+      "module": 9,
+      "titleUk": "Perfekt з haben",
+      "goalUk": "Допоміжне дієслово + Partizip II; правильні дієслова, твердження й питання.",
+      "prerequisiteIds": [
+        "checkpoint-my-day"
+      ],
+      "referenceSessions": [
+        3,
+        5,
+        7,
+        10,
+        12,
+        14
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "perfekt-irregular",
+      "number": 50,
+      "module": 9,
+      "titleUk": "Часті неправильні Partizip II",
+      "goalUk": "gegessen, getrunken, gelesen, gesehen, geschrieben та інші невеликими наборами.",
+      "prerequisiteIds": [
+        "perfekt-haben-regular"
+      ],
+      "referenceSessions": [
+        3,
+        5,
+        7,
+        10,
+        12,
+        14
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "perfekt-sein",
+      "number": 51,
+      "module": 9,
+      "titleUk": "Perfekt з sein",
+      "goalUk": "gegangen, gekommen, gefahren, geblieben; вибір допоміжного дієслова через вивчені значення й конструкції, не лише «рух».",
+      "prerequisiteIds": [
+        "perfekt-irregular"
+      ],
+      "referenceSessions": [
+        3,
+        5,
+        7,
+        10,
+        12,
+        14
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "perfekt-prefixes",
+      "number": 52,
+      "module": 9,
+      "titleUk": "Perfekt і префікси",
+      "goalUk": "aufgestanden/angerufen; besucht/verstanden; telefoniert. Зіставити з уже відомими теперішніми формами.",
+      "prerequisiteIds": [
+        "perfekt-sein"
+      ],
+      "referenceSessions": [
+        3,
+        5,
+        7,
+        10,
+        12,
+        14
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "perfekt-reflexive",
+      "number": 53,
+      "module": 9,
+      "titleUk": "Зворотні дієслова в Perfekt",
+      "goalUk": "Ich habe mich …; зустрічі та щоденні справи; місце займенника.",
+      "prerequisiteIds": [
+        "perfekt-prefixes"
+      ],
+      "referenceSessions": [
+        3,
+        5,
+        7,
+        10,
+        12,
+        14
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "past-sein-haben",
+      "number": 54,
+      "module": 9,
+      "titleUk": "Був і мав: war та hatte",
+      "goalUk": "Часті прості минулі форми sein/haben; спогади, стан і володіння.",
+      "prerequisiteIds": [
+        "perfekt-reflexive"
+      ],
+      "referenceSessions": [
+        3,
+        5,
+        7,
+        10,
+        12,
+        14
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "checkpoint-yesterday",
+      "number": 55,
+      "module": 9,
+      "titleUk": "Практика: що було вчора",
+      "goalUk": "Розповісти послідовність подій і відповісти на уточнення.",
+      "prerequisiteIds": [
+        "past-sein-haben"
+      ],
+      "referenceSessions": [
+        3,
+        5,
+        7,
+        10,
+        12,
+        14
+      ],
+      "kind": "checkpoint",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "impersonal-man",
+      "number": 56,
+      "module": 10,
+      "titleUk": "Коли кажуть «тут можна» або «люди роблять»",
+      "goalUk": "man, третя особа однини; порівняти з конкретним підметом та es.",
+      "prerequisiteIds": [
+        "checkpoint-yesterday"
+      ],
+      "referenceSessions": [
+        7,
+        8,
+        12,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "coordinate-clauses",
+      "number": 57,
+      "module": 10,
+      "titleUk": "І, але, або, адже",
+      "goalUk": "und/aber/oder/denn; поєднання знайомих речень зі збереженням головного порядку слів.",
+      "prerequisiteIds": [
+        "impersonal-man"
+      ],
+      "referenceSessions": [
+        7,
+        8,
+        12,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "subordinate-dass",
+      "number": 58,
+      "module": 10,
+      "titleUk": "Я знаю, що…",
+      "goalUk": "dass і дієслово в кінці; спочатку одне дієслово, потім знайомі складені форми.",
+      "prerequisiteIds": [
+        "coordinate-clauses"
+      ],
+      "referenceSessions": [
+        7,
+        8,
+        12,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "cause-weil-deshalb",
+      "number": 59,
+      "module": 10,
+      "titleUk": "Чому, тому що, тому",
+      "goalUk": "warum; weil з дієсловом у кінці; deshalb/darum із порядком головного речення.",
+      "prerequisiteIds": [
+        "subordinate-dass"
+      ],
+      "referenceSessions": [
+        7,
+        8,
+        12,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "condition-wenn",
+      "number": 60,
+      "module": 10,
+      "titleUk": "Коли або якщо",
+      "goalUk": "wenn для звичної ситуації чи умови; прості плани без введення Konjunktiv II.",
+      "prerequisiteIds": [
+        "cause-weil-deshalb"
+      ],
+      "referenceSessions": [
+        7,
+        8,
+        12,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "infinitive-zu",
+      "number": 61,
+      "module": 10,
+      "titleUk": "Зробити щось: інфінітив із zu",
+      "goalUk": "Після простих відомих рамок; порівняти з модальними без zu. Складні um…zu залишити на розширення.",
+      "prerequisiteIds": [
+        "condition-wenn"
+      ],
+      "referenceSessions": [
+        7,
+        8,
+        12,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "checkpoint-reasons-plans",
+      "number": 62,
+      "module": 10,
+      "titleUk": "Практика: пояснюємо рішення",
+      "goalUk": "Пов’язана розповідь, причина, умова і план.",
+      "prerequisiteIds": [
+        "infinitive-zu"
+      ],
+      "referenceSessions": [
+        7,
+        8,
+        12,
+        16
+      ],
+      "kind": "checkpoint",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "adjectives-predicative",
+      "number": 63,
+      "module": 11,
+      "titleUk": "Опис, колір, погода й самопочуття",
+      "goalUk": "Прикметник після sein без закінчення; Mir ist kalt як окрема відома Dativ-конструкція. Повторення простих описів.",
+      "prerequisiteIds": [
+        "checkpoint-reasons-plans"
+      ],
+      "referenceSessions": [
+        11,
+        13,
+        14,
+        15,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "adjectives-comparative",
+      "number": 64,
+      "module": 11,
+      "titleUk": "Більший і швидший, ніж",
+      "goalUk": "Komparativ + als; часті неправильні форми; рівність so … wie.",
+      "prerequisiteIds": [
+        "adjectives-predicative"
+      ],
+      "referenceSessions": [
+        11,
+        13,
+        14,
+        15,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "adjectives-superlative",
+      "number": 65,
+      "module": 11,
+      "titleUk": "Найкращий і найбільший",
+      "goalUk": "am …sten; gern/lieber/am liebsten; вибір і вподобання.",
+      "prerequisiteIds": [
+        "adjectives-comparative"
+      ],
+      "referenceSessions": [
+        11,
+        13,
+        14,
+        15,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "adjective-definite-na",
+      "number": 66,
+      "module": 11,
+      "titleUk": "Опис з der/die/das",
+      "goalUk": "Закінчення прикметника після означеного артикля у Nominativ/Akkusativ; маленькі набори.",
+      "prerequisiteIds": [
+        "adjectives-superlative"
+      ],
+      "referenceSessions": [
+        11,
+        13,
+        14,
+        15,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "adjective-indefinite-na",
+      "number": 67,
+      "module": 11,
+      "titleUk": "Опис з ein/mein/kein",
+      "goalUk": "Закінчення у Nominativ/Akkusativ після неозначеного, присвійного та заперечного слова.",
+      "prerequisiteIds": [
+        "adjective-definite-na"
+      ],
+      "referenceSessions": [
+        11,
+        13,
+        14,
+        15,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "adjective-dative",
+      "number": 68,
+      "module": 11,
+      "titleUk": "Прикметники в Dativ",
+      "goalUk": "Знайомі речі й люди: mit einem guten Freund; без Genitiv-таблиць.",
+      "prerequisiteIds": [
+        "adjective-indefinite-na"
+      ],
+      "referenceSessions": [
+        11,
+        13,
+        14,
+        15,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "adjective-no-article",
+      "number": 69,
+      "module": 11,
+      "titleUk": "Множина й опис без артикля",
+      "goalUk": "Відібрані часті конструкції; відрізняємо від опису після sein; не вимагати всю парадигму одразу.",
+      "prerequisiteIds": [
+        "adjective-dative"
+      ],
+      "referenceSessions": [
+        11,
+        13,
+        14,
+        15,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "checkpoint-describe-compare",
+      "number": 70,
+      "module": 11,
+      "titleUk": "Практика: описуємо й порівнюємо",
+      "goalUk": "Обрати річ, описати людину/місце, пояснити вибір.",
+      "prerequisiteIds": [
+        "adjective-no-article"
+      ],
+      "referenceSessions": [
+        11,
+        13,
+        14,
+        15,
+        16
+      ],
+      "kind": "checkpoint",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "personal-details",
+      "number": 71,
+      "module": 12,
+      "titleUk": "Адреса, телефон та анкета",
+      "goalUk": "Назвати й записати персональні дані, попросити повторити чи продиктувати; використовувати вигадані дані.",
+      "prerequisiteIds": [
+        "checkpoint-describe-compare"
+      ],
+      "referenceSessions": [
+        4,
+        8,
+        10,
+        12,
+        13,
+        15,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "shopping-clothes",
+      "number": 72,
+      "module": 12,
+      "titleUk": "Магазин та одяг",
+      "goalUk": "Ціна, розмір, кількість, вибір, оплата; практичний короткий текст.",
+      "prerequisiteIds": [
+        "personal-details"
+      ],
+      "referenceSessions": [
+        4,
+        8,
+        10,
+        12,
+        13,
+        15,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "health-help",
+      "number": 73,
+      "module": 12,
+      "titleUk": "Самопочуття й звернення по допомогу",
+      "goalUk": "Частини тіла, опис симптомів, домовленість про візит; мовні завдання, не медичні поради.",
+      "prerequisiteIds": [
+        "shopping-clothes"
+      ],
+      "referenceSessions": [
+        4,
+        8,
+        10,
+        12,
+        13,
+        15,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "housing-household",
+      "number": 74,
+      "module": 12,
+      "titleUk": "Житло та домашні справи",
+      "goalUk": "Кімнати, меблі, правила, побутова проблема й просте прохання.",
+      "prerequisiteIds": [
+        "health-help"
+      ],
+      "referenceSessions": [
+        4,
+        8,
+        10,
+        12,
+        13,
+        15,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "school-work",
+      "number": 75,
+      "module": 12,
+      "titleUk": "Школа, навчання та робота",
+      "goalUk": "Розклад, завдання, заняття, професії; нейтральне ядро й окремі дитячі/дорослі ситуації без зміни граматичної складності.",
+      "prerequisiteIds": [
+        "housing-household"
+      ],
+      "referenceSessions": [
+        4,
+        8,
+        10,
+        12,
+        13,
+        15,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "travel-accommodation",
+      "number": 76,
+      "module": 12,
+      "titleUk": "Транспорт, квитки та житло в подорожі",
+      "goalUk": "Розклад, маршрут, бронювання, питання й проста проблема.",
+      "prerequisiteIds": [
+        "school-work"
+      ],
+      "referenceSessions": [
+        4,
+        8,
+        10,
+        12,
+        13,
+        15,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "short-messages",
+      "number": 77,
+      "module": 12,
+      "titleUk": "Повідомлення та домовленості",
+      "goalUk": "Написати коротке запрошення, відповідь, перенесення зустрічі; читання й аудіювання схожих повідомлень.",
+      "prerequisiteIds": [
+        "travel-accommodation"
+      ],
+      "referenceSessions": [
+        4,
+        8,
+        10,
+        12,
+        13,
+        15,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "future-plans",
+      "number": 78,
+      "module": 12,
+      "titleUk": "Плани та бажання",
+      "goalUk": "Повтор Präsens + час і модальних; окремо просте Futur I з werden, без складних припущень.",
+      "prerequisiteIds": [
+        "short-messages"
+      ],
+      "referenceSessions": [
+        4,
+        8,
+        10,
+        12,
+        13,
+        15,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "supplement-or-expanded-treatment",
+      "status": "planned"
+    },
+    {
+      "id": "connected-story",
+      "number": 79,
+      "module": 12,
+      "titleUk": "Моя історія: зараз, учора, далі",
+      "goalUk": "Зв’язна розповідь про себе, сім’ю, події й бажання. Не вводити нову граматику; необов’язкові прислів’я — лише як зрозумілий культурний бонус.",
+      "prerequisiteIds": [
+        "future-plans"
+      ],
+      "referenceSessions": [
+        4,
+        8,
+        10,
+        12,
+        13,
+        15,
+        16
+      ],
+      "kind": "lesson",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    },
+    {
+      "id": "checkpoint-final",
+      "number": 80,
+      "module": 12,
+      "titleUk": "Фінальна практика",
+      "goalUk": "Читання, слухання, письмо й говоріння на матеріалі курсу; діалоги, нові комбінації знайомого, персональні повторення.",
+      "prerequisiteIds": [
+        "connected-story"
+      ],
+      "referenceSessions": [
+        4,
+        8,
+        10,
+        12,
+        13,
+        15,
+        16
+      ],
+      "kind": "checkpoint",
+      "adaptation": "course-theme-adaptation",
+      "status": "planned"
+    }
+  ],
+  "referenceCoverageByModule": {
+    "1": [
+      1,
+      2
+    ],
+    "2": [
+      1,
+      2,
+      4
+    ],
+    "3": [
+      4,
+      6,
+      9
+    ],
+    "4": [
+      2,
+      3,
+      7,
+      12
+    ],
+    "5": [
+      7,
+      9
+    ],
+    "6": [
+      6,
+      7
+    ],
+    "7": [
+      5,
+      8,
+      9,
+      10
+    ],
+    "8": [
+      4,
+      5,
+      10,
+      12
+    ],
+    "9": [
+      3,
+      4,
+      6
+    ],
+    "10": [
+      5,
+      7,
+      9,
+      12
+    ],
+    "11": [
+      11
+    ],
+    "12": [
+      7,
+      8,
+      9,
+      10,
+      12
+    ],
+    "13": [
+      3,
+      11,
+      12
+    ],
+    "14": [
+      7,
+      8,
+      9,
+      11
+    ],
+    "15": [
+      5,
+      7,
+      11,
+      12
+    ],
+    "16": [
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  "legacyLessonDestinations": {
+    "pronouns": [
+      2
+    ],
+    "verbs": [
+      3,
+      21
+    ],
+    "sein": [
+      4
+    ],
+    "haben": [
+      5,
+      19
+    ],
+    "placeTime": [
+      7
+    ],
+    "nicht": [
+      8
+    ],
+    "negativeActions": [
+      8
+    ],
+    "negativePractice": [
+      12
+    ],
+    "yesNo": [
+      9
+    ],
+    "questionWords": [
+      10
+    ],
+    "habenQuestion": [
+      9
+    ],
+    "questionPractice": [
+      12
+    ],
+    "articles": [
+      13
+    ],
+    "indefiniteArticles": [
+      14
+    ],
+    "keinObjects": [
+      14,
+      19
+    ],
+    "possessives": [
+      16,
+      35
+    ],
+    "can": [
+      25
+    ],
+    "wouldLike": [
+      27
+    ]
+  },
+  "referenceUrls": [
+    "https://startdeutsch.ru/video/videouroki/71-poliglot-nemetskij-yazyk-za-16-chasov-s-dmitriem-petrovym/502-1-urok-poliglot-nemetskij-yazyk",
+    "https://startdeutsch.ru/video/videouroki/71-poliglot-nemetskij-yazyk-za-16-chasov-s-dmitriem-petrovym/503-2-urok-poliglot-nemetskij-yazyk",
+    "https://startdeutsch.ru/video/videouroki/71-poliglot-nemetskij-yazyk-za-16-chasov-s-dmitriem-petrovym/504-3-urok-poliglot-nemetskij-yazyk",
+    "https://startdeutsch.ru/video/videouroki/71-poliglot-nemetskij-yazyk-za-16-chasov-s-dmitriem-petrovym/505-4-urok-poliglot-nemetskij-yazyk",
+    "https://startdeutsch.ru/video/videouroki/71-poliglot-nemetskij-yazyk-za-16-chasov-s-dmitriem-petrovym/506-5-urok-poliglot-nemetskij-yazyk",
+    "https://startdeutsch.ru/video/videouroki/71-poliglot-nemetskij-yazyk-za-16-chasov-s-dmitriem-petrovym/507-6-urok-poliglot-nemetskij-yazyk",
+    "https://startdeutsch.ru/video/videouroki/71-poliglot-nemetskij-yazyk-za-16-chasov-s-dmitriem-petrovym/508-7-urok-poliglot-nemetskij-yazyk",
+    "https://startdeutsch.ru/video/videouroki/71-poliglot-nemetskij-yazyk-za-16-chasov-s-dmitriem-petrovym/509-8-urok-poliglot-nemetskij-yazyk",
+    "https://startdeutsch.ru/video/videouroki/71-poliglot-nemetskij-yazyk-za-16-chasov-s-dmitriem-petrovym/510-9-urok-poliglot-nemetskij-yazyk",
+    "https://startdeutsch.ru/video/videouroki/71-poliglot-nemetskij-yazyk-za-16-chasov-s-dmitriem-petrovym/511-10-urok-poliglot-nemetskij-yazyk",
+    "https://startdeutsch.ru/video/videouroki/71-poliglot-nemetskij-yazyk-za-16-chasov-s-dmitriem-petrovym/512-11-urok-poliglot-nemetskij-yazyk",
+    "https://startdeutsch.ru/video/videouroki/71-poliglot-nemetskij-yazyk-za-16-chasov-s-dmitriem-petrovym/513-12-urok-poliglot-nemetskij-yazyk",
+    "https://startdeutsch.ru/video/videouroki/71-poliglot-nemetskij-yazyk-za-16-chasov-s-dmitriem-petrovym/514-13-urok-poliglot-nemetskij-yazyk",
+    "https://startdeutsch.ru/video/videouroki/71-poliglot-nemetskij-yazyk-za-16-chasov-s-dmitriem-petrovym/515-14-urok-poliglot-nemetskij-yazyk",
+    "https://startdeutsch.ru/video/videouroki/71-poliglot-nemetskij-yazyk-za-16-chasov-s-dmitriem-petrovym/516-15-urok-poliglot-nemetskij-yazyk",
+    "https://startdeutsch.ru/video/videouroki/71-poliglot-nemetskij-yazyk-za-16-chasov-s-dmitriem-petrovym/517-16-urok-poliglot-nemetskij-yazyk"
+  ]
+}

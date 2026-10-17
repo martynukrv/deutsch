@@ -1,5 +1,7 @@
 # Curriculum comparison: Petrov reference, 17 October 2026
 
+**Superseded planning decision:** the user subsequently requested a full curriculum rebuild. See [the new 80-lesson plan](curriculum-v2-uk.md) and [its structured catalog](curriculum-v2.json). The implementation history below describes the existing app, not the final intended structure.
+
 The existing app has 18 short lessons, not the content equivalent of 16 long TV sessions. Retain their semantic IDs and completion history. Keep profiles, selectable exercise modes, audio and spaced reviews.
 
 ## Evidence and limits
