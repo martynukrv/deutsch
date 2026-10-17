@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "category": "food",
+  "approved": true,
+  "items": [
+    {
+      "de": "das Wasser",
+      "ua": "вода",
+      "file": "wasser.png"
+    },
+    {
+      "de": "das Brot",
+      "ua": "хліб",
+      "file": "brot.png"
+    },
+    {
+      "de": "die Milch",
+      "ua": "молоко",
+      "file": "milch.png"
+    },
+    {
+      "de": "der Kaffee",
+      "ua": "кава",
+      "file": "kaffee.png"
+    },
+    {
+      "de": "der Tee",
+      "ua": "чай",
+      "file": "tee.png"
+    },
+    {
+      "de": "der Apfel",
+      "ua": "яблуко",
+      "file": "apfel.png"
+    },
+    {
+      "de": "die Banane",
+      "ua": "банан",
+      "file": "banane.png"
+    },
+    {
+      "de": "das Fleisch",
+      "ua": "м’ясо",
+      "file": "fleisch.png"
+    },
+    {
+      "de": "der Käse",
+      "ua": "сир",
+      "file": "kaese.png"
+    },
+    {
+      "de": "das Ei",
+      "ua": "яйце",
+      "file": "ei.png"
+    },
+    {
+      "de": "das Gemüse",
+      "ua": "овочі",
+      "file": "gemuese.png"
+    },
+    {
+      "de": "das Obst",
+      "ua": "фрукти",
+      "file": "obst.png"
+    }
+  ]
+}

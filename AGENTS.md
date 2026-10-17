@@ -21,3 +21,5 @@ The assistant performs generation, cropping, mapping, GitHub uploads, verificati
 
 For import and publication, follow art-inbox/README.md. Inspect CI results and the published-site artwork checks before reporting completion.
 
+
+On 17 October 2026 the user explicitly selected the original food sheet (Playful German Food Doodle Sheet(1).png), rejected the palette-corrected version, and requested immediate cropping and insertion. Preserve that exact selected food artwork, including its light-blue water. This approval is specific to the existing food sheet and does not broaden the palette for future illustrations.

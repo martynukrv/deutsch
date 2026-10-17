@@ -1,0 +1,150 @@
+{
+  "category": "food",
+  "approved": true,
+  "items": [
+    {
+      "de": "das Wasser",
+      "ua": "вода",
+      "source": "transparent-sheet.png",
+      "box": [
+        0,
+        0,
+        370,
+        336
+      ],
+      "name": "wasser"
+    },
+    {
+      "de": "das Brot",
+      "ua": "хліб",
+      "source": "transparent-sheet.png",
+      "box": [
+        370,
+        0,
+        770,
+        336
+      ],
+      "name": "brot"
+    },
+    {
+      "de": "die Milch",
+      "ua": "молоко",
+      "source": "transparent-sheet.png",
+      "box": [
+        770,
+        0,
+        1150,
+        336
+      ],
+      "name": "milch"
+    },
+    {
+      "de": "der Kaffee",
+      "ua": "кава",
+      "source": "transparent-sheet.png",
+      "box": [
+        1150,
+        0,
+        1536,
+        336
+      ],
+      "name": "kaffee"
+    },
+    {
+      "de": "der Tee",
+      "ua": "чай",
+      "source": "transparent-sheet.png",
+      "box": [
+        0,
+        336,
+        370,
+        670
+      ],
+      "name": "tee"
+    },
+    {
+      "de": "der Apfel",
+      "ua": "яблуко",
+      "source": "transparent-sheet.png",
+      "box": [
+        370,
+        336,
+        770,
+        670
+      ],
+      "name": "apfel"
+    },
+    {
+      "de": "die Banane",
+      "ua": "банан",
+      "source": "transparent-sheet.png",
+      "box": [
+        770,
+        336,
+        1150,
+        670
+      ],
+      "name": "banane"
+    },
+    {
+      "de": "das Fleisch",
+      "ua": "м’ясо",
+      "source": "transparent-sheet.png",
+      "box": [
+        1150,
+        336,
+        1536,
+        670
+      ],
+      "name": "fleisch"
+    },
+    {
+      "de": "der Käse",
+      "ua": "сир",
+      "source": "transparent-sheet.png",
+      "box": [
+        0,
+        670,
+        370,
+        1024
+      ],
+      "name": "kaese"
+    },
+    {
+      "de": "das Ei",
+      "ua": "яйце",
+      "source": "transparent-sheet.png",
+      "box": [
+        370,
+        670,
+        705,
+        1024
+      ],
+      "name": "ei"
+    },
+    {
+      "de": "das Gemüse",
+      "ua": "овочі",
+      "source": "transparent-sheet.png",
+      "box": [
+        705,
+        670,
+        1150,
+        1024
+      ],
+      "name": "gemuese"
+    },
+    {
+      "de": "das Obst",
+      "ua": "фрукти",
+      "source": "transparent-sheet.png",
+      "box": [
+        1150,
+        670,
+        1536,
+        1024
+      ],
+      "name": "obst"
+    }
+  ]
+}
