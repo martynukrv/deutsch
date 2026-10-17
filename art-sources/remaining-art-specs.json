@@ -1,0 +1,171 @@
+{
+  "style": "Use case: illustration-story. Production German vocabulary sprite sheet. Match reference STYLE ONLY: playful lively game-like cartoon, thick organic navy #102B50 contours, orange #FF5726, white and cream #FFF1E5 ONLY, flat clean shapes, expressive characters. Signature short tapered navy/orange dashes on BOTH sides of EVERY sprite. Genuine transparent background. No labels, words, captions, watermark or grid lines. Each sprite fully inside its equal cell, centered with generous transparent gutters, no touching or overlap. Same scale and consistent line weight.",
+  "categories": [
+    {
+      "key": "greetings",
+      "cols": 4,
+      "rows": 3,
+      "subjects": [
+        "friendly boy waving hello",
+        "smiling boy stretching beside rising sun, morning",
+        "girl waving beneath high sun, daytime",
+        "person greeting beside setting sun, evening",
+        "girl cheerfully waving goodbye walking away",
+        "two people politely waving goodbye to one another",
+        "grateful person hands on heart",
+        "person offering a small gift with open hand, please or you are welcome",
+        "apologetic person with hand on chest, sorry",
+        "two friends one tilting head inquisitively toward the other, how are you",
+        "happy person giving thumbs up, feeling good"
+      ]
+    },
+    {
+      "key": "family",
+      "cols": 5,
+      "rows": 2,
+      "subjects": [
+        "loving mother, adult woman with orange cardigan",
+        "father, adult man with orange sweater",
+        "mother and father standing together",
+        "older brother with younger sibling, arrow pointing to brother",
+        "older sister with younger sibling, arrow pointing to sister",
+        "young son standing beside adult parent, arrow pointing to son",
+        "young daughter beside adult parent, arrow pointing to daughter",
+        "grandmother with bun and glasses",
+        "grandfather with glasses and moustache",
+        "happy family of parents and two children together"
+      ]
+    },
+    {
+      "key": "people",
+      "cols": 5,
+      "rows": 3,
+      "subjects": [
+        "adult man",
+        "adult woman",
+        "gender-neutral small child",
+        "boy with tousled hair",
+        "girl with ponytail",
+        "two friends arms around shoulders",
+        "very tall friendly person beside small person, arrow emphasizes height",
+        "tiny friendly person beside tall person, arrow emphasizes small one",
+        "smiling person giving thumbs up, good",
+        "frowning person giving thumbs down, bad",
+        "beautiful flower admired by happy person",
+        "elderly person with cane",
+        "young child jumping energetically",
+        "brand new pristine shoe with tiny sparkle"
+      ]
+    },
+    {
+      "key": "school",
+      "cols": 4,
+      "rows": 3,
+      "subjects": [
+        "school building with bell",
+        "male teacher pointing at blank chalkboard",
+        "female teacher pointing at blank chalkboard",
+        "schoolboy with backpack",
+        "schoolgirl with backpack",
+        "open book with blank pages",
+        "spiral exercise notebook with blank pages",
+        "pencil",
+        "worksheet with empty check boxes and pencil, task",
+        "curious child with question mark in speech bubble",
+        "confident child with check mark in speech bubble, answer"
+      ]
+    },
+    {
+      "key": "time",
+      "cols": 5,
+      "rows": 3,
+      "subjects": [
+        "calendar with orange current day cell and hand pointing down to it, today",
+        "calendar with arrow pointing one cell to right from highlighted current day, tomorrow",
+        "calendar with arrow pointing one cell left from current day, yesterday",
+        "rising sun behind horizon, morning",
+        "setting sun behind horizon, evening",
+        "crescent moon with sleepy face and stars, night",
+        "seven-slot calendar strip with ONLY first slot orange, Monday",
+        "seven-slot calendar strip with ONLY second slot orange, Tuesday",
+        "seven-slot calendar strip with ONLY third slot orange, Wednesday",
+        "seven-slot calendar strip with ONLY fourth slot orange, Thursday",
+        "seven-slot calendar strip with ONLY fifth slot orange, Friday",
+        "seven-slot calendar strip with ONLY sixth slot orange, Saturday",
+        "seven-slot calendar strip with ONLY seventh slot orange, Sunday",
+        "analog clock hour hand moving around clock, hour",
+        "small stopwatch with short highlighted arc, minute"
+      ]
+    },
+    {
+      "key": "questions",
+      "cols": 3,
+      "rows": 3,
+      "subjects": [
+        "mysterious friendly person silhouette and question mark, who",
+        "curious child examining unidentified object in open box, what",
+        "map pin over little map with question mark, where",
+        "walking child following arrow to map pin, where to",
+        "child leaving little house following arrow away, where from",
+        "clock with question mark, when",
+        "puzzled child thinking with question mark, why",
+        "child examining simple gear mechanism with question mark, how",
+        "three small blocks and a counting hand with question mark, how many"
+      ]
+    },
+    {
+      "key": "grammar",
+      "cols": 5,
+      "rows": 3,
+      "subjects": [
+        "happy nodding person with check mark, yes",
+        "person shaking head with cross mark, no",
+        "simple orange prohibition sign over small running shoe, not",
+        "two cheerful people side by side with second joining first, also",
+        "very excited person with large emphasis burst, very",
+        "person pointing to ground directly under their feet, here",
+        "person pointing to distant flag, there",
+        "hand pointing to clock center with emphasis dashes, now",
+        "clock encircled by continuous loop arrow, always",
+        "uncertain person tilting head with balanced palms, maybe",
+        "two small blocks joined by plus symbol, and",
+        "two paths splitting left and right, or",
+        "friendly person raising index finger with opposing directional arrows, but"
+      ]
+    },
+    {
+      "key": "body",
+      "cols": 5,
+      "rows": 2,
+      "subjects": [
+        "friendly head in three-quarter view with hair, head",
+        "open hand with exactly five fingers, wrist only",
+        "bent entire arm from shoulder to hand, clearly showing elbow",
+        "entire leg from upper thigh to ankle with small foot",
+        "bare foot in side view with five toes",
+        "single expressive eye",
+        "single ear",
+        "smiling mouth with clear lips and small tongue",
+        "nose in three-quarter view",
+        "friendly torso with rounded belly and navel, shirt lifted slightly"
+      ]
+    },
+    {
+      "key": "places",
+      "cols": 5,
+      "rows": 2,
+      "subjects": [
+        "compact city skyline",
+        "curving street with pavement and simple streetlamp",
+        "small shop with orange striped awning",
+        "railway station building beside short platform and rail",
+        "park bench and tree",
+        "small orange car in three-quarter view",
+        "orange city bus",
+        "orange passenger train",
+        "bicycle with two wheels",
+        "person walking with visible stepping feet"
+      ]
+    }
+  ]
+}

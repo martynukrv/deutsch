@@ -1,0 +1,187 @@
+{
+  "category": "time",
+  "approved": true,
+  "authorization": "User requested all remaining categories sequentially, one version each, immediate insertion without waiting, 17 October 2026.",
+  "items": [
+    {
+      "de": "heute",
+      "ua": "сьогодні",
+      "source": "01.png",
+      "name": "01",
+      "original_box": [
+        0,
+        0,
+        339,
+        366
+      ]
+    },
+    {
+      "de": "morgen",
+      "ua": "завтра",
+      "source": "02.png",
+      "name": "02",
+      "original_box": [
+        339,
+        0,
+        656,
+        366
+      ]
+    },
+    {
+      "de": "gestern",
+      "ua": "вчора",
+      "source": "03.png",
+      "name": "03",
+      "original_box": [
+        656,
+        0,
+        974,
+        366
+      ]
+    },
+    {
+      "de": "der Morgen",
+      "ua": "ранок",
+      "source": "04.png",
+      "name": "04",
+      "original_box": [
+        974,
+        0,
+        1294,
+        366
+      ]
+    },
+    {
+      "de": "der Abend",
+      "ua": "вечір",
+      "source": "05.png",
+      "name": "05",
+      "original_box": [
+        1294,
+        0,
+        1619,
+        366
+      ]
+    },
+    {
+      "de": "die Nacht",
+      "ua": "ніч",
+      "source": "06.png",
+      "name": "06",
+      "original_box": [
+        0,
+        366,
+        331,
+        653
+      ]
+    },
+    {
+      "de": "Montag",
+      "ua": "понеділок",
+      "source": "07.png",
+      "name": "07",
+      "original_box": [
+        331,
+        366,
+        659,
+        653
+      ]
+    },
+    {
+      "de": "Dienstag",
+      "ua": "вівторок",
+      "source": "08.png",
+      "name": "08",
+      "original_box": [
+        659,
+        366,
+        975,
+        653
+      ]
+    },
+    {
+      "de": "Mittwoch",
+      "ua": "середа",
+      "source": "09.png",
+      "name": "09",
+      "original_box": [
+        975,
+        366,
+        1292,
+        653
+      ]
+    },
+    {
+      "de": "Donnerstag",
+      "ua": "четвер",
+      "source": "10.png",
+      "name": "10",
+      "original_box": [
+        1292,
+        366,
+        1619,
+        653
+      ]
+    },
+    {
+      "de": "Freitag",
+      "ua": "п’ятниця",
+      "source": "11.png",
+      "name": "11",
+      "original_box": [
+        0,
+        653,
+        341,
+        971
+      ]
+    },
+    {
+      "de": "Samstag",
+      "ua": "субота",
+      "source": "12.png",
+      "name": "12",
+      "original_box": [
+        341,
+        653,
+        660,
+        971
+      ]
+    },
+    {
+      "de": "Sonntag",
+      "ua": "неділя",
+      "source": "13.png",
+      "name": "13",
+      "original_box": [
+        660,
+        653,
+        973,
+        971
+      ]
+    },
+    {
+      "de": "die Stunde",
+      "ua": "година",
+      "source": "14.png",
+      "name": "14",
+      "original_box": [
+        973,
+        653,
+        1292,
+        971
+      ]
+    },
+    {
+      "de": "die Minute",
+      "ua": "хвилина",
+      "source": "15.png",
+      "name": "15",
+      "original_box": [
+        1292,
+        653,
+        1619,
+        971
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "category": "places",
+  "approved": true,
+  "items": [
+    {
+      "de": "die Stadt",
+      "ua": "місто",
+      "file": "01.png"
+    },
+    {
+      "de": "die Straße",
+      "ua": "вулиця",
+      "file": "02.png"
+    },
+    {
+      "de": "das Geschäft",
+      "ua": "магазин",
+      "file": "03.png"
+    },
+    {
+      "de": "der Bahnhof",
+      "ua": "вокзал",
+      "file": "04.png"
+    },
+    {
+      "de": "der Park",
+      "ua": "парк",
+      "file": "05.png"
+    },
+    {
+      "de": "das Auto",
+      "ua": "автомобіль",
+      "file": "06.png"
+    },
+    {
+      "de": "der Bus",
+      "ua": "автобус",
+      "file": "07.png"
+    },
+    {
+      "de": "der Zug",
+      "ua": "поїзд",
+      "file": "08.png"
+    },
+    {
+      "de": "das Fahrrad",
+      "ua": "велосипед",
+      "file": "09.png"
+    },
+    {
+      "de": "zu Fuß",
+      "ua": "пішки",
+      "file": "10.png"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "category": "places",
+  "approved": true,
+  "authorization": "User requested all remaining categories sequentially, one version each, immediate insertion without waiting, 17 October 2026.",
+  "items": [
+    {
+      "de": "die Stadt",
+      "ua": "місто",
+      "source": "01.png",
+      "name": "01",
+      "original_box": [
+        0,
+        0,
+        402,
+        403
+      ]
+    },
+    {
+      "de": "die Straße",
+      "ua": "вулиця",
+      "source": "02.png",
+      "name": "02",
+      "original_box": [
+        402,
+        0,
+        791,
+        403
+      ]
+    },
+    {
+      "de": "das Geschäft",
+      "ua": "магазин",
+      "source": "03.png",
+      "name": "03",
+      "original_box": [
+        791,
+        0,
+        1190,
+        403
+      ]
+    },
+    {
+      "de": "der Bahnhof",
+      "ua": "вокзал",
+      "source": "04.png",
+      "name": "04",
+      "original_box": [
+        1190,
+        0,
+        1601,
+        403
+      ]
+    },
+    {
+      "de": "der Park",
+      "ua": "парк",
+      "source": "05.png",
+      "name": "05",
+      "original_box": [
+        1601,
+        0,
+        1983,
+        403
+      ]
+    },
+    {
+      "de": "das Auto",
+      "ua": "автомобіль",
+      "source": "06.png",
+      "name": "06",
+      "original_box": [
+        0,
+        403,
+        396,
+        793
+      ]
+    },
+    {
+      "de": "der Bus",
+      "ua": "автобус",
+      "source": "07.png",
+      "name": "07",
+      "original_box": [
+        396,
+        403,
+        812,
+        793
+      ]
+    },
+    {
+      "de": "der Zug",
+      "ua": "поїзд",
+      "source": "08.png",
+      "name": "08",
+      "original_box": [
+        812,
+        403,
+        1214,
+        793
+      ]
+    },
+    {
+      "de": "das Fahrrad",
+      "ua": "велосипед",
+      "source": "09.png",
+      "name": "09",
+      "original_box": [
+        1214,
+        403,
+        1614,
+        793
+      ]
+    },
+    {
+      "de": "zu Fuß",
+      "ua": "пішки",
+      "source": "10.png",
+      "name": "10",
+      "original_box": [
+        1614,
+        403,
+        1983,
+        793
+      ]
+    }
+  ]
+}

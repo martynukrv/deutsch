@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "category": "greetings",
+  "approved": true,
+  "items": [
+    {
+      "de": "Hallo!",
+      "ua": "Привіт!",
+      "file": "01.png"
+    },
+    {
+      "de": "Guten Morgen!",
+      "ua": "Добрий ранок!",
+      "file": "02.png"
+    },
+    {
+      "de": "Guten Tag!",
+      "ua": "Добрий день!",
+      "file": "03.png"
+    },
+    {
+      "de": "Guten Abend!",
+      "ua": "Добрий вечір!",
+      "file": "04.png"
+    },
+    {
+      "de": "Tschüss!",
+      "ua": "Бувай!",
+      "file": "05.png"
+    },
+    {
+      "de": "Auf Wiedersehen!",
+      "ua": "До побачення!",
+      "file": "06.png"
+    },
+    {
+      "de": "Danke!",
+      "ua": "Дякую!",
+      "file": "07.png"
+    },
+    {
+      "de": "Bitte!",
+      "ua": "Будь ласка!",
+      "file": "08.png"
+    },
+    {
+      "de": "Entschuldigung!",
+      "ua": "Перепрошую!",
+      "file": "09.png"
+    },
+    {
+      "de": "Wie geht's?",
+      "ua": "Як справи?",
+      "file": "10.png"
+    },
+    {
+      "de": "Gut, danke.",
+      "ua": "Добре, дякую.",
+      "file": "11.png"
+    }
+  ]
+}

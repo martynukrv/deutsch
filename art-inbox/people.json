@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "category": "people",
+  "approved": true,
+  "items": [
+    {
+      "de": "der Mann",
+      "ua": "чоловік",
+      "file": "01.png"
+    },
+    {
+      "de": "die Frau",
+      "ua": "жінка",
+      "file": "02.png"
+    },
+    {
+      "de": "das Kind",
+      "ua": "дитина",
+      "file": "03.png"
+    },
+    {
+      "de": "der Junge",
+      "ua": "хлопчик",
+      "file": "04.png"
+    },
+    {
+      "de": "das Mädchen",
+      "ua": "дівчинка",
+      "file": "05.png"
+    },
+    {
+      "de": "der Freund",
+      "ua": "друг",
+      "file": "06.png"
+    },
+    {
+      "de": "groß",
+      "ua": "великий / високий",
+      "file": "07.png"
+    },
+    {
+      "de": "klein",
+      "ua": "малий",
+      "file": "08.png"
+    },
+    {
+      "de": "gut",
+      "ua": "добрий / добре",
+      "file": "09.png"
+    },
+    {
+      "de": "schlecht",
+      "ua": "поганий / погано",
+      "file": "10.png"
+    },
+    {
+      "de": "schön",
+      "ua": "гарний",
+      "file": "11.png"
+    },
+    {
+      "de": "alt",
+      "ua": "старий",
+      "file": "12.png"
+    },
+    {
+      "de": "jung",
+      "ua": "молодий",
+      "file": "13.png"
+    },
+    {
+      "de": "neu",
+      "ua": "новий",
+      "file": "14.png"
+    }
+  ]
+}

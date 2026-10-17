@@ -1,0 +1,307 @@
+{
+  "category": "numbers",
+  "approved": true,
+  "authorization": "User requested all remaining categories sequentially, one version each, immediate insertion without waiting, 17 October 2026.",
+  "items": [
+    {
+      "de": "null",
+      "ua": "0",
+      "source": "01.png",
+      "name": "01",
+      "original_box": [
+        0,
+        0,
+        270,
+        260
+      ]
+    },
+    {
+      "de": "eins",
+      "ua": "1",
+      "source": "02.png",
+      "name": "02",
+      "original_box": [
+        270,
+        0,
+        500,
+        260
+      ]
+    },
+    {
+      "de": "zwei",
+      "ua": "2",
+      "source": "03.png",
+      "name": "03",
+      "original_box": [
+        500,
+        0,
+        760,
+        260
+      ]
+    },
+    {
+      "de": "drei",
+      "ua": "3",
+      "source": "04.png",
+      "name": "04",
+      "original_box": [
+        760,
+        0,
+        1000,
+        260
+      ]
+    },
+    {
+      "de": "vier",
+      "ua": "4",
+      "source": "05.png",
+      "name": "05",
+      "original_box": [
+        1000,
+        0,
+        1254,
+        260
+      ]
+    },
+    {
+      "de": "fünf",
+      "ua": "5",
+      "source": "06.png",
+      "name": "06",
+      "original_box": [
+        0,
+        260,
+        257,
+        497
+      ]
+    },
+    {
+      "de": "sechs",
+      "ua": "6",
+      "source": "07.png",
+      "name": "07",
+      "original_box": [
+        257,
+        260,
+        507,
+        497
+      ]
+    },
+    {
+      "de": "sieben",
+      "ua": "7",
+      "source": "08.png",
+      "name": "08",
+      "original_box": [
+        507,
+        260,
+        751,
+        497
+      ]
+    },
+    {
+      "de": "acht",
+      "ua": "8",
+      "source": "09.png",
+      "name": "09",
+      "original_box": [
+        751,
+        260,
+        1008,
+        497
+      ]
+    },
+    {
+      "de": "neun",
+      "ua": "9",
+      "source": "10.png",
+      "name": "10",
+      "original_box": [
+        1008,
+        260,
+        1254,
+        497
+      ]
+    },
+    {
+      "de": "zehn",
+      "ua": "10",
+      "source": "11.png",
+      "name": "11",
+      "original_box": [
+        0,
+        497,
+        268,
+        724
+      ]
+    },
+    {
+      "de": "elf",
+      "ua": "11",
+      "source": "12.png",
+      "name": "12",
+      "original_box": [
+        268,
+        497,
+        500,
+        724
+      ]
+    },
+    {
+      "de": "zwölf",
+      "ua": "12",
+      "source": "13.png",
+      "name": "13",
+      "original_box": [
+        500,
+        497,
+        762,
+        724
+      ]
+    },
+    {
+      "de": "dreizehn",
+      "ua": "13",
+      "source": "14.png",
+      "name": "14",
+      "original_box": [
+        762,
+        497,
+        1012,
+        724
+      ]
+    },
+    {
+      "de": "vierzehn",
+      "ua": "14",
+      "source": "15.png",
+      "name": "15",
+      "original_box": [
+        1012,
+        497,
+        1254,
+        724
+      ]
+    },
+    {
+      "de": "fünfzehn",
+      "ua": "15",
+      "source": "16.png",
+      "name": "16",
+      "original_box": [
+        0,
+        724,
+        267,
+        970
+      ]
+    },
+    {
+      "de": "sechzehn",
+      "ua": "16",
+      "source": "17.png",
+      "name": "17",
+      "original_box": [
+        267,
+        724,
+        507,
+        970
+      ]
+    },
+    {
+      "de": "siebzehn",
+      "ua": "17",
+      "source": "18.png",
+      "name": "18",
+      "original_box": [
+        507,
+        724,
+        758,
+        970
+      ]
+    },
+    {
+      "de": "achtzehn",
+      "ua": "18",
+      "source": "19.png",
+      "name": "19",
+      "original_box": [
+        758,
+        724,
+        1009,
+        970
+      ]
+    },
+    {
+      "de": "neunzehn",
+      "ua": "19",
+      "source": "20.png",
+      "name": "20",
+      "original_box": [
+        1009,
+        724,
+        1254,
+        970
+      ]
+    },
+    {
+      "de": "zwanzig",
+      "ua": "20",
+      "source": "21.png",
+      "name": "21",
+      "original_box": [
+        0,
+        970,
+        265,
+        1254
+      ]
+    },
+    {
+      "de": "dreißig",
+      "ua": "30",
+      "source": "22.png",
+      "name": "22",
+      "original_box": [
+        265,
+        970,
+        515,
+        1254
+      ]
+    },
+    {
+      "de": "vierzig",
+      "ua": "40",
+      "source": "23.png",
+      "name": "23",
+      "original_box": [
+        515,
+        970,
+        754,
+        1254
+      ]
+    },
+    {
+      "de": "fünfzig",
+      "ua": "50",
+      "source": "24.png",
+      "name": "24",
+      "original_box": [
+        754,
+        970,
+        999,
+        1254
+      ]
+    },
+    {
+      "de": "hundert",
+      "ua": "100",
+      "source": "25.png",
+      "name": "25",
+      "original_box": [
+        999,
+        970,
+        1254,
+        1254
+      ]
+    }
+  ]
+}

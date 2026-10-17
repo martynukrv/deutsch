@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "category": "time",
+  "approved": true,
+  "items": [
+    {
+      "de": "heute",
+      "ua": "сьогодні",
+      "file": "01.png"
+    },
+    {
+      "de": "morgen",
+      "ua": "завтра",
+      "file": "02.png"
+    },
+    {
+      "de": "gestern",
+      "ua": "вчора",
+      "file": "03.png"
+    },
+    {
+      "de": "der Morgen",
+      "ua": "ранок",
+      "file": "04.png"
+    },
+    {
+      "de": "der Abend",
+      "ua": "вечір",
+      "file": "05.png"
+    },
+    {
+      "de": "die Nacht",
+      "ua": "ніч",
+      "file": "06.png"
+    },
+    {
+      "de": "Montag",
+      "ua": "понеділок",
+      "file": "07.png"
+    },
+    {
+      "de": "Dienstag",
+      "ua": "вівторок",
+      "file": "08.png"
+    },
+    {
+      "de": "Mittwoch",
+      "ua": "середа",
+      "file": "09.png"
+    },
+    {
+      "de": "Donnerstag",
+      "ua": "четвер",
+      "file": "10.png"
+    },
+    {
+      "de": "Freitag",
+      "ua": "п’ятниця",
+      "file": "11.png"
+    },
+    {
+      "de": "Samstag",
+      "ua": "субота",
+      "file": "12.png"
+    },
+    {
+      "de": "Sonntag",
+      "ua": "неділя",
+      "file": "13.png"
+    },
+    {
+      "de": "die Stunde",
+      "ua": "година",
+      "file": "14.png"
+    },
+    {
+      "de": "die Minute",
+      "ua": "хвилина",
+      "file": "15.png"
+    }
+  ]
+}

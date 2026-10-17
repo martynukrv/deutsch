@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "category": "school",
+  "approved": true,
+  "items": [
+    {
+      "de": "die Schule",
+      "ua": "школа",
+      "file": "01.png"
+    },
+    {
+      "de": "der Lehrer",
+      "ua": "вчитель",
+      "file": "02.png"
+    },
+    {
+      "de": "die Lehrerin",
+      "ua": "вчителька",
+      "file": "03.png"
+    },
+    {
+      "de": "der Schüler",
+      "ua": "учень",
+      "file": "04.png"
+    },
+    {
+      "de": "die Schülerin",
+      "ua": "учениця",
+      "file": "05.png"
+    },
+    {
+      "de": "das Buch",
+      "ua": "книга",
+      "file": "06.png"
+    },
+    {
+      "de": "das Heft",
+      "ua": "зошит",
+      "file": "07.png"
+    },
+    {
+      "de": "der Stift",
+      "ua": "ручка / олівець",
+      "file": "08.png"
+    },
+    {
+      "de": "die Aufgabe",
+      "ua": "завдання",
+      "file": "09.png"
+    },
+    {
+      "de": "die Frage",
+      "ua": "питання",
+      "file": "10.png"
+    },
+    {
+      "de": "die Antwort",
+      "ua": "відповідь",
+      "file": "11.png"
+    }
+  ]
+}

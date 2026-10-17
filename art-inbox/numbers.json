@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "category": "numbers",
+  "approved": true,
+  "items": [
+    {
+      "de": "null",
+      "ua": "0",
+      "file": "01.png"
+    },
+    {
+      "de": "eins",
+      "ua": "1",
+      "file": "02.png"
+    },
+    {
+      "de": "zwei",
+      "ua": "2",
+      "file": "03.png"
+    },
+    {
+      "de": "drei",
+      "ua": "3",
+      "file": "04.png"
+    },
+    {
+      "de": "vier",
+      "ua": "4",
+      "file": "05.png"
+    },
+    {
+      "de": "fünf",
+      "ua": "5",
+      "file": "06.png"
+    },
+    {
+      "de": "sechs",
+      "ua": "6",
+      "file": "07.png"
+    },
+    {
+      "de": "sieben",
+      "ua": "7",
+      "file": "08.png"
+    },
+    {
+      "de": "acht",
+      "ua": "8",
+      "file": "09.png"
+    },
+    {
+      "de": "neun",
+      "ua": "9",
+      "file": "10.png"
+    },
+    {
+      "de": "zehn",
+      "ua": "10",
+      "file": "11.png"
+    },
+    {
+      "de": "elf",
+      "ua": "11",
+      "file": "12.png"
+    },
+    {
+      "de": "zwölf",
+      "ua": "12",
+      "file": "13.png"
+    },
+    {
+      "de": "dreizehn",
+      "ua": "13",
+      "file": "14.png"
+    },
+    {
+      "de": "vierzehn",
+      "ua": "14",
+      "file": "15.png"
+    },
+    {
+      "de": "fünfzehn",
+      "ua": "15",
+      "file": "16.png"
+    },
+    {
+      "de": "sechzehn",
+      "ua": "16",
+      "file": "17.png"
+    },
+    {
+      "de": "siebzehn",
+      "ua": "17",
+      "file": "18.png"
+    },
+    {
+      "de": "achtzehn",
+      "ua": "18",
+      "file": "19.png"
+    },
+    {
+      "de": "neunzehn",
+      "ua": "19",
+      "file": "20.png"
+    },
+    {
+      "de": "zwanzig",
+      "ua": "20",
+      "file": "21.png"
+    },
+    {
+      "de": "dreißig",
+      "ua": "30",
+      "file": "22.png"
+    },
+    {
+      "de": "vierzig",
+      "ua": "40",
+      "file": "23.png"
+    },
+    {
+      "de": "fünfzig",
+      "ua": "50",
+      "file": "24.png"
+    },
+    {
+      "de": "hundert",
+      "ua": "100",
+      "file": "25.png"
+    }
+  ]
+}

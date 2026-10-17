@@ -1,0 +1,139 @@
+{
+  "category": "school",
+  "approved": true,
+  "authorization": "User requested all remaining categories sequentially, one version each, immediate insertion without waiting, 17 October 2026.",
+  "items": [
+    {
+      "de": "die Schule",
+      "ua": "школа",
+      "source": "01.png",
+      "name": "01",
+      "original_box": [
+        0,
+        0,
+        365,
+        380
+      ]
+    },
+    {
+      "de": "der Lehrer",
+      "ua": "вчитель",
+      "source": "02.png",
+      "name": "02",
+      "original_box": [
+        365,
+        0,
+        738,
+        380
+      ]
+    },
+    {
+      "de": "die Lehrerin",
+      "ua": "вчителька",
+      "source": "03.png",
+      "name": "03",
+      "original_box": [
+        738,
+        0,
+        1120,
+        380
+      ]
+    },
+    {
+      "de": "der Schüler",
+      "ua": "учень",
+      "source": "04.png",
+      "name": "04",
+      "original_box": [
+        1120,
+        0,
+        1448,
+        380
+      ]
+    },
+    {
+      "de": "die Schülerin",
+      "ua": "учениця",
+      "source": "05.png",
+      "name": "05",
+      "original_box": [
+        0,
+        380,
+        350,
+        725
+      ]
+    },
+    {
+      "de": "das Buch",
+      "ua": "книга",
+      "source": "06.png",
+      "name": "06",
+      "original_box": [
+        350,
+        380,
+        746,
+        680
+      ]
+    },
+    {
+      "de": "das Heft",
+      "ua": "зошит",
+      "source": "07.png",
+      "name": "07",
+      "original_box": [
+        746,
+        380,
+        1125,
+        690
+      ]
+    },
+    {
+      "de": "der Stift",
+      "ua": "ручка / олівець",
+      "source": "08.png",
+      "name": "08",
+      "original_box": [
+        1125,
+        380,
+        1448,
+        700
+      ]
+    },
+    {
+      "de": "die Aufgabe",
+      "ua": "завдання",
+      "source": "09.png",
+      "name": "09",
+      "original_box": [
+        0,
+        725,
+        370,
+        1086
+      ]
+    },
+    {
+      "de": "die Frage",
+      "ua": "питання",
+      "source": "10.png",
+      "name": "10",
+      "original_box": [
+        370,
+        680,
+        737,
+        1086
+      ]
+    },
+    {
+      "de": "die Antwort",
+      "ua": "відповідь",
+      "source": "11.png",
+      "name": "11",
+      "original_box": [
+        737,
+        690,
+        1125,
+        1086
+      ]
+    }
+  ]
+}

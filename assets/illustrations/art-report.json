@@ -81,6 +81,96 @@
     "height": 389
   },
   {
+    "category": "body",
+    "de": "der Kopf",
+    "ua": "голова",
+    "path": "assets/illustrations/body/01.png",
+    "sha256": "9c8ca0249f5028fbcf1da728830164e35ab730e1e7dd85df5408e062eba7dffb",
+    "width": 409,
+    "height": 409
+  },
+  {
+    "category": "body",
+    "de": "die Hand",
+    "ua": "рука / кисть",
+    "path": "assets/illustrations/body/02.png",
+    "sha256": "4760def3453defcee13a4aa312cb3d77127356c599ab1b468e2f317ea19da3cb",
+    "width": 371,
+    "height": 371
+  },
+  {
+    "category": "body",
+    "de": "der Arm",
+    "ua": "рука",
+    "path": "assets/illustrations/body/03.png",
+    "sha256": "b72fd02af8369ece14dde439aed6f563ecdd64bce61e35f66cc5ce241d2936b6",
+    "width": 416,
+    "height": 416
+  },
+  {
+    "category": "body",
+    "de": "das Bein",
+    "ua": "нога",
+    "path": "assets/illustrations/body/04.png",
+    "sha256": "8bc3791aa4c7bf1b7a2c2357a321a1059e7392a010bbfef79890ca579a8719a9",
+    "width": 404,
+    "height": 404
+  },
+  {
+    "category": "body",
+    "de": "der Fuß",
+    "ua": "стопа",
+    "path": "assets/illustrations/body/05.png",
+    "sha256": "74ad5855b480338ec45034e9ec15004a9bafaddcb29341a02b6ae3f78bdcd29b",
+    "width": 417,
+    "height": 417
+  },
+  {
+    "category": "body",
+    "de": "das Auge",
+    "ua": "око",
+    "path": "assets/illustrations/body/06.png",
+    "sha256": "e458c86054295ec73dc0afea67b2e2aec603b3b9e34bba478cb36f9e007ea86e",
+    "width": 414,
+    "height": 414
+  },
+  {
+    "category": "body",
+    "de": "das Ohr",
+    "ua": "вухо",
+    "path": "assets/illustrations/body/07.png",
+    "sha256": "8ee21da28dd4ce6ab5a799b8b0d9fce18a0e7365b0afd53639f32d3b36ab3ea2",
+    "width": 355,
+    "height": 355
+  },
+  {
+    "category": "body",
+    "de": "der Mund",
+    "ua": "рот",
+    "path": "assets/illustrations/body/08.png",
+    "sha256": "e38ef51976c742b06e25e9c67d3bd7cbabd22f19e58614267807265ef23f71cc",
+    "width": 433,
+    "height": 433
+  },
+  {
+    "category": "body",
+    "de": "die Nase",
+    "ua": "ніс",
+    "path": "assets/illustrations/body/09.png",
+    "sha256": "ca476af8aaa7602d24235a0b87cddaa3c9b018c4709d1d0ef7ea86f6609274a0",
+    "width": 341,
+    "height": 341
+  },
+  {
+    "category": "body",
+    "de": "der Bauch",
+    "ua": "живіт",
+    "path": "assets/illustrations/body/10.png",
+    "sha256": "561f018b88f6e1f90131086decbfb547db9250db1e92a8ee60614147283c2f6f",
+    "width": 417,
+    "height": 417
+  },
+  {
     "category": "colors",
     "de": "rot",
     "ua": "червоний",
@@ -178,6 +268,96 @@
     "sha256": "508b074daf882690788c96250d9a075bbf6cc95f4e37c59cf62368b19052dab2",
     "width": 390,
     "height": 390
+  },
+  {
+    "category": "family",
+    "de": "die Mutter",
+    "ua": "мама",
+    "path": "assets/illustrations/family/01.png",
+    "sha256": "ee80475ce13b22ca2b6c15641366241d5bd869eb6ce67cfd8dfd9156276fb63e",
+    "width": 367,
+    "height": 367
+  },
+  {
+    "category": "family",
+    "de": "der Vater",
+    "ua": "тато",
+    "path": "assets/illustrations/family/02.png",
+    "sha256": "4ec2916a33c852853a57e67872fa29f68744d3f22181283e50dc878221778fe7",
+    "width": 369,
+    "height": 369
+  },
+  {
+    "category": "family",
+    "de": "die Eltern",
+    "ua": "батьки",
+    "path": "assets/illustrations/family/03.png",
+    "sha256": "9b25facd1994ebf562ddffbe603bfdd045006c7c66045ecf9a8a545d9177f678",
+    "width": 408,
+    "height": 408
+  },
+  {
+    "category": "family",
+    "de": "der Bruder",
+    "ua": "брат",
+    "path": "assets/illustrations/family/04.png",
+    "sha256": "7d0c4c4c5292fdc416908518eba66b2858cfc3c64900601dfb4698f9b535e2a2",
+    "width": 387,
+    "height": 387
+  },
+  {
+    "category": "family",
+    "de": "die Schwester",
+    "ua": "сестра",
+    "path": "assets/illustrations/family/05.png",
+    "sha256": "eb9eda414d965d646429e7ab4e7360a39d9030bf9bdd4c0eac834fd2d6947cab",
+    "width": 399,
+    "height": 399
+  },
+  {
+    "category": "family",
+    "de": "der Sohn",
+    "ua": "син",
+    "path": "assets/illustrations/family/06.png",
+    "sha256": "0584c47f1a431de6feec90e433b6ee509d97e1b365ce1e5547679f17b9a5d0e7",
+    "width": 400,
+    "height": 400
+  },
+  {
+    "category": "family",
+    "de": "die Tochter",
+    "ua": "донька",
+    "path": "assets/illustrations/family/07.png",
+    "sha256": "37d9c2bdef65c690c6747b21ddb786c357612cf016827c04cb27140b4acd962c",
+    "width": 396,
+    "height": 396
+  },
+  {
+    "category": "family",
+    "de": "die Oma",
+    "ua": "бабуся",
+    "path": "assets/illustrations/family/08.png",
+    "sha256": "cef2658c2f6345884bf6224e7522daf1f14151d2d8fb96eed27374cb73f04e4d",
+    "width": 364,
+    "height": 364
+  },
+  {
+    "category": "family",
+    "de": "der Opa",
+    "ua": "дідусь",
+    "path": "assets/illustrations/family/09.png",
+    "sha256": "d039d19b20b00198eddacacd1fc415f6b38dd72df56c370ac4722c9cf25f2a39",
+    "width": 387,
+    "height": 387
+  },
+  {
+    "category": "family",
+    "de": "die Familie",
+    "ua": "сім’я",
+    "path": "assets/illustrations/family/10.png",
+    "sha256": "66077ba5f6a0382137cad041ba5ee9c5ac00703e5aead6d344b70cef77eb2ad9",
+    "width": 426,
+    "height": 426
   },
   {
     "category": "food",
@@ -288,6 +468,222 @@
     "height": 332
   },
   {
+    "category": "grammar",
+    "de": "ja",
+    "ua": "так",
+    "path": "assets/illustrations/grammar/01.png",
+    "sha256": "35b755159a94f2ef4787d755230c020e7e19e7aaa465f1f9fb553b85c0cf23f8",
+    "width": 334,
+    "height": 334
+  },
+  {
+    "category": "grammar",
+    "de": "nein",
+    "ua": "ні",
+    "path": "assets/illustrations/grammar/02.png",
+    "sha256": "e1aa9a04d46394b888d6cbff7b2512b74a7deeab59fa4f2a13110c2d64705a4f",
+    "width": 352,
+    "height": 352
+  },
+  {
+    "category": "grammar",
+    "de": "nicht",
+    "ua": "не",
+    "path": "assets/illustrations/grammar/03.png",
+    "sha256": "5d53cdb503dabaf89fec4b66c6ae2162fe9969f753517c5960c4d9a93404dc72",
+    "width": 347,
+    "height": 347
+  },
+  {
+    "category": "grammar",
+    "de": "auch",
+    "ua": "також",
+    "path": "assets/illustrations/grammar/04.png",
+    "sha256": "f956cffe72ae3bfc043bd9901857bcf0fcb59927e27ab9546a2a58c0884afe72",
+    "width": 351,
+    "height": 351
+  },
+  {
+    "category": "grammar",
+    "de": "sehr",
+    "ua": "дуже",
+    "path": "assets/illustrations/grammar/05.png",
+    "sha256": "7435e3f11c4d738ce1352d18cdcfecb0c329c64c49c9bde046638340f8437f38",
+    "width": 322,
+    "height": 322
+  },
+  {
+    "category": "grammar",
+    "de": "hier",
+    "ua": "тут",
+    "path": "assets/illustrations/grammar/06.png",
+    "sha256": "87c7632526a06659039d65a5952596630ab0a827dcaec315510141dcce769c6d",
+    "width": 325,
+    "height": 325
+  },
+  {
+    "category": "grammar",
+    "de": "dort",
+    "ua": "там",
+    "path": "assets/illustrations/grammar/07.png",
+    "sha256": "6bb8e12497fabc183fcc6de9dc81d210715a96315621a81d7fdc4b42ac8401b1",
+    "width": 369,
+    "height": 369
+  },
+  {
+    "category": "grammar",
+    "de": "jetzt",
+    "ua": "зараз",
+    "path": "assets/illustrations/grammar/08.png",
+    "sha256": "2e8541415556bb910145acf975cb5bb28704a8d209cfdbd4c97207d92c2a86e0",
+    "width": 341,
+    "height": 341
+  },
+  {
+    "category": "grammar",
+    "de": "immer",
+    "ua": "завжди",
+    "path": "assets/illustrations/grammar/09.png",
+    "sha256": "fd9e79bb846a6e52beda70347eea31b19820ad30107b8e4e334ebe1c8b22f6a4",
+    "width": 338,
+    "height": 338
+  },
+  {
+    "category": "grammar",
+    "de": "vielleicht",
+    "ua": "можливо",
+    "path": "assets/illustrations/grammar/10.png",
+    "sha256": "09959e89a568ef70d13f7a06cf0f997a2aa8a428fb34c1c6a2bbaa1654db4ea2",
+    "width": 318,
+    "height": 318
+  },
+  {
+    "category": "grammar",
+    "de": "und",
+    "ua": "і",
+    "path": "assets/illustrations/grammar/11.png",
+    "sha256": "c1526c2b36d0e6092529a29ff9295b0cee10b88a52112e777b5fe483bd9e2610",
+    "width": 355,
+    "height": 355
+  },
+  {
+    "category": "grammar",
+    "de": "oder",
+    "ua": "або",
+    "path": "assets/illustrations/grammar/12.png",
+    "sha256": "6fb0d2b8c4a09faed4dbdd7608eccca39b11bef90d0a5c031c9581f279c5c328",
+    "width": 326,
+    "height": 326
+  },
+  {
+    "category": "grammar",
+    "de": "aber",
+    "ua": "але",
+    "path": "assets/illustrations/grammar/13.png",
+    "sha256": "a18dc03a368fb096e36bccf50d63a8549c26518528b546ade71ba85e26cb2615",
+    "width": 356,
+    "height": 356
+  },
+  {
+    "category": "greetings",
+    "de": "Hallo!",
+    "ua": "Привіт!",
+    "path": "assets/illustrations/greetings/01.png",
+    "sha256": "e6c408caadf3de8d3cc5cfda238d083b7464b875a70041759a3713d4da96bca0",
+    "width": 392,
+    "height": 392
+  },
+  {
+    "category": "greetings",
+    "de": "Guten Morgen!",
+    "ua": "Добрий ранок!",
+    "path": "assets/illustrations/greetings/02.png",
+    "sha256": "6dcdc656acbfc0cebd276899e7c8974b7bd69f8fbdea80a51b4eeafce0a05da9",
+    "width": 389,
+    "height": 389
+  },
+  {
+    "category": "greetings",
+    "de": "Guten Tag!",
+    "ua": "Добрий день!",
+    "path": "assets/illustrations/greetings/03.png",
+    "sha256": "b5a6f48349a8f60a1bfcef7e5e3d663ecdfd2f3fcf936762e0fbf9c4c4d45ec3",
+    "width": 392,
+    "height": 392
+  },
+  {
+    "category": "greetings",
+    "de": "Guten Abend!",
+    "ua": "Добрий вечір!",
+    "path": "assets/illustrations/greetings/04.png",
+    "sha256": "d1549e52eeee76a08b01a4d059c4e13a951e812ba1db95e7664b5654f6bfe571",
+    "width": 369,
+    "height": 369
+  },
+  {
+    "category": "greetings",
+    "de": "Tschüss!",
+    "ua": "Бувай!",
+    "path": "assets/illustrations/greetings/05.png",
+    "sha256": "e8fb97906d935a890309e6b5ab615e0ddb337313818a69285c7da6a965ebb477",
+    "width": 377,
+    "height": 377
+  },
+  {
+    "category": "greetings",
+    "de": "Auf Wiedersehen!",
+    "ua": "До побачення!",
+    "path": "assets/illustrations/greetings/06.png",
+    "sha256": "ee63527fcd098825033d73ce8a04f751427db7beaa01b3e611b700f27d09d90a",
+    "width": 423,
+    "height": 423
+  },
+  {
+    "category": "greetings",
+    "de": "Danke!",
+    "ua": "Дякую!",
+    "path": "assets/illustrations/greetings/07.png",
+    "sha256": "dec9bc3b3b0708520510a6e715ac4aa02da4f49c385502757ade298cb069537c",
+    "width": 373,
+    "height": 373
+  },
+  {
+    "category": "greetings",
+    "de": "Bitte!",
+    "ua": "Будь ласка!",
+    "path": "assets/illustrations/greetings/08.png",
+    "sha256": "ae646a07373d1ff1ab4fa915bfa502fa998d894926fff7913fb8577247f5c699",
+    "width": 395,
+    "height": 395
+  },
+  {
+    "category": "greetings",
+    "de": "Entschuldigung!",
+    "ua": "Перепрошую!",
+    "path": "assets/illustrations/greetings/09.png",
+    "sha256": "87dc7bfba2281d0712ac3624ff6f1b8f0c45dee78bd1060a414aa01fc1beee63",
+    "width": 374,
+    "height": 374
+  },
+  {
+    "category": "greetings",
+    "de": "Wie geht's?",
+    "ua": "Як справи?",
+    "path": "assets/illustrations/greetings/10.png",
+    "sha256": "af63f9affad14e3c286cfe3af0e4ddf4e371c94187345c78dc7b6839367b7f0f",
+    "width": 410,
+    "height": 410
+  },
+  {
+    "category": "greetings",
+    "de": "Gut, danke.",
+    "ua": "Добре, дякую.",
+    "path": "assets/illustrations/greetings/11.png",
+    "sha256": "6a68ab467ff36654fd7a8df8e7b2243b46822070b863b8ed6348437fd34d979e",
+    "width": 372,
+    "height": 372
+  },
+  {
     "category": "home",
     "de": "das Haus",
     "ua": "будинок",
@@ -376,6 +772,447 @@
     "sha256": "bf82e3362831ee0418346e9b996641fff34813dd0814c52d26cef5d179e01851",
     "width": 386,
     "height": 386
+  },
+  {
+    "category": "numbers",
+    "de": "null",
+    "ua": "0",
+    "path": "assets/illustrations/numbers/01.png",
+    "sha256": "64cfce3bafa1edcb8d5cc29bf4e9f56bf644a9184a43a9ddaafc07b08a930d56",
+    "width": 255,
+    "height": 255
+  },
+  {
+    "category": "numbers",
+    "de": "eins",
+    "ua": "1",
+    "path": "assets/illustrations/numbers/02.png",
+    "sha256": "23752f302581fa1ae1390eae9f7efe95ffb188c296a3a0a01ce662c8d92db963",
+    "width": 236,
+    "height": 236
+  },
+  {
+    "category": "numbers",
+    "de": "zwei",
+    "ua": "2",
+    "path": "assets/illustrations/numbers/03.png",
+    "sha256": "de14a3f1599e4bdba83ea7c70f58d25b2c47ca5f59fa52061ff588286a84f688",
+    "width": 239,
+    "height": 239
+  },
+  {
+    "category": "numbers",
+    "de": "drei",
+    "ua": "3",
+    "path": "assets/illustrations/numbers/04.png",
+    "sha256": "58bb5357001b775dde3dde7ba2ae658ae9b77e41827c4c6def287d7447449ea9",
+    "width": 254,
+    "height": 254
+  },
+  {
+    "category": "numbers",
+    "de": "vier",
+    "ua": "4",
+    "path": "assets/illustrations/numbers/05.png",
+    "sha256": "00c7014e68dfa35250d8fbe479571e6aac122a0f476c79c00f31e2de127317cb",
+    "width": 248,
+    "height": 248
+  },
+  {
+    "category": "numbers",
+    "de": "fünf",
+    "ua": "5",
+    "path": "assets/illustrations/numbers/06.png",
+    "sha256": "c878aa8aff0178ab740845df6e36c322a706169b53f352d7aa04c736584667d6",
+    "width": 255,
+    "height": 255
+  },
+  {
+    "category": "numbers",
+    "de": "sechs",
+    "ua": "6",
+    "path": "assets/illustrations/numbers/07.png",
+    "sha256": "c55ea404603206be834c52bdae83dda3e2a642dba62b708f351eadf64f3d6ade",
+    "width": 245,
+    "height": 245
+  },
+  {
+    "category": "numbers",
+    "de": "sieben",
+    "ua": "7",
+    "path": "assets/illustrations/numbers/08.png",
+    "sha256": "c0ea3ecac96e97f31ae38472c1ff0711a9e1b370e0ec8cad453d41f968d5e3d8",
+    "width": 244,
+    "height": 244
+  },
+  {
+    "category": "numbers",
+    "de": "acht",
+    "ua": "8",
+    "path": "assets/illustrations/numbers/09.png",
+    "sha256": "e48a346684149cb8388845d6e8731119182d1b2fff89600d84fb433ba80f02ff",
+    "width": 249,
+    "height": 249
+  },
+  {
+    "category": "numbers",
+    "de": "neun",
+    "ua": "9",
+    "path": "assets/illustrations/numbers/10.png",
+    "sha256": "a7009b6454d11fcbe506dc9ce0a41b5666dfb243095648b7a32f9e508bccf4a8",
+    "width": 244,
+    "height": 244
+  },
+  {
+    "category": "numbers",
+    "de": "zehn",
+    "ua": "10",
+    "path": "assets/illustrations/numbers/11.png",
+    "sha256": "75c84f5988e11e010b49624bea08a9b91a0c6a4df5f07bbbe547c86cc91ac8a6",
+    "width": 275,
+    "height": 275
+  },
+  {
+    "category": "numbers",
+    "de": "elf",
+    "ua": "11",
+    "path": "assets/illustrations/numbers/12.png",
+    "sha256": "1afb1b2e23af2bae6ddfed017bd82890c213e186d777299dd95d175a43093491",
+    "width": 247,
+    "height": 247
+  },
+  {
+    "category": "numbers",
+    "de": "zwölf",
+    "ua": "12",
+    "path": "assets/illustrations/numbers/13.png",
+    "sha256": "efb500c85411c207c1f082b7623b2f4b3565f75b2624525b9920ca6279211cf5",
+    "width": 281,
+    "height": 281
+  },
+  {
+    "category": "numbers",
+    "de": "dreizehn",
+    "ua": "13",
+    "path": "assets/illustrations/numbers/14.png",
+    "sha256": "7f26157e88040a4943ad24f69f6b1a01aef7f1903731a9d05825cc7eb74f8912",
+    "width": 272,
+    "height": 272
+  },
+  {
+    "category": "numbers",
+    "de": "vierzehn",
+    "ua": "14",
+    "path": "assets/illustrations/numbers/15.png",
+    "sha256": "df8232c2c7b0c7268da50ba4a0eeaa5e191ec6dc4b8b93c423ef7482c858886a",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "category": "numbers",
+    "de": "fünfzehn",
+    "ua": "15",
+    "path": "assets/illustrations/numbers/16.png",
+    "sha256": "87fdc4fe7be61cdd190c091ee06b6248296e6bab67024a578e1523d153358c4d",
+    "width": 275,
+    "height": 275
+  },
+  {
+    "category": "numbers",
+    "de": "sechzehn",
+    "ua": "16",
+    "path": "assets/illustrations/numbers/17.png",
+    "sha256": "7ea00934665f6ababe1781ac1198cfc6ea5838f6022eae8f8cfea5518eacaade",
+    "width": 261,
+    "height": 261
+  },
+  {
+    "category": "numbers",
+    "de": "siebzehn",
+    "ua": "17",
+    "path": "assets/illustrations/numbers/18.png",
+    "sha256": "2b17d1a7bde969d15eca45211ca2b2c5796373ec8fc894189d0c2c49775530f7",
+    "width": 276,
+    "height": 276
+  },
+  {
+    "category": "numbers",
+    "de": "achtzehn",
+    "ua": "18",
+    "path": "assets/illustrations/numbers/19.png",
+    "sha256": "c88d7223756a03434bd418b8820a958be4125739dead9f5a830e84cc5d69f5e2",
+    "width": 261,
+    "height": 261
+  },
+  {
+    "category": "numbers",
+    "de": "neunzehn",
+    "ua": "19",
+    "path": "assets/illustrations/numbers/20.png",
+    "sha256": "290e3c15b33fb90c23b035b636b41031dcb3472e152b30c84bcc0100b93e7571",
+    "width": 270,
+    "height": 270
+  },
+  {
+    "category": "numbers",
+    "de": "zwanzig",
+    "ua": "20",
+    "path": "assets/illustrations/numbers/21.png",
+    "sha256": "1c6574958d03dae5b55dcaa4d68302eda153e2ea1e6b413c7a0cd6939fed45f2",
+    "width": 308,
+    "height": 308
+  },
+  {
+    "category": "numbers",
+    "de": "dreißig",
+    "ua": "30",
+    "path": "assets/illustrations/numbers/22.png",
+    "sha256": "64f96e45e696f854e93415dd60a8da1914077ced5ee3f0c5bd7ae3294405622f",
+    "width": 282,
+    "height": 282
+  },
+  {
+    "category": "numbers",
+    "de": "vierzig",
+    "ua": "40",
+    "path": "assets/illustrations/numbers/23.png",
+    "sha256": "5188c33526ee5977a98d63948c95ffa53524b4accc7c118f0b7532798178b82a",
+    "width": 271,
+    "height": 271
+  },
+  {
+    "category": "numbers",
+    "de": "fünfzig",
+    "ua": "50",
+    "path": "assets/illustrations/numbers/24.png",
+    "sha256": "6324e684a7f990b1fdd6464d6336ec2b2a5cf712bc84b0a39be92f32b3c31d2b",
+    "width": 286,
+    "height": 286
+  },
+  {
+    "category": "numbers",
+    "de": "hundert",
+    "ua": "100",
+    "path": "assets/illustrations/numbers/25.png",
+    "sha256": "234602ebb0e4f6a270536fb095778484e8ffc7a5be4b0cb751dad43fe294e61d",
+    "width": 287,
+    "height": 287
+  },
+  {
+    "category": "people",
+    "de": "der Mann",
+    "ua": "чоловік",
+    "path": "assets/illustrations/people/01.png",
+    "sha256": "52b15a0db63440134c719b26bf95d5235767c96c05ee145446ff10d3d10e44d2",
+    "width": 381,
+    "height": 381
+  },
+  {
+    "category": "people",
+    "de": "die Frau",
+    "ua": "жінка",
+    "path": "assets/illustrations/people/02.png",
+    "sha256": "ffd0ade2ca9e2b0b84b0caf4a074ac95f58a85782c2c376eff38a3f22914602e",
+    "width": 364,
+    "height": 364
+  },
+  {
+    "category": "people",
+    "de": "das Kind",
+    "ua": "дитина",
+    "path": "assets/illustrations/people/03.png",
+    "sha256": "2ed510c5f5f9a3b4ee526e27a152b297397f80362164ba76df82616ae6cd6b7c",
+    "width": 345,
+    "height": 345
+  },
+  {
+    "category": "people",
+    "de": "der Junge",
+    "ua": "хлопчик",
+    "path": "assets/illustrations/people/04.png",
+    "sha256": "bd09c0bbc769b0db43c2e7ca1cfeb66f3f7f1a9273a027176ffeb491cfb65473",
+    "width": 354,
+    "height": 354
+  },
+  {
+    "category": "people",
+    "de": "das Mädchen",
+    "ua": "дівчинка",
+    "path": "assets/illustrations/people/05.png",
+    "sha256": "98b84cc41dfe2794233da8863cf1b01fa7c7312d94d7fd916617cab3a7c2f4e5",
+    "width": 344,
+    "height": 344
+  },
+  {
+    "category": "people",
+    "de": "der Freund",
+    "ua": "друг",
+    "path": "assets/illustrations/people/06.png",
+    "sha256": "69288daa6f1e7250b08a2540d6702fef4ba545e59a14245345da9b0d32545a08",
+    "width": 361,
+    "height": 361
+  },
+  {
+    "category": "people",
+    "de": "groß",
+    "ua": "великий / високий",
+    "path": "assets/illustrations/people/07.png",
+    "sha256": "1c031d013c7e9a7351e9a4cf4f644b2944e49d0fe136e73ecb76c7da8b9d4ef0",
+    "width": 353,
+    "height": 353
+  },
+  {
+    "category": "people",
+    "de": "klein",
+    "ua": "малий",
+    "path": "assets/illustrations/people/08.png",
+    "sha256": "09bc651aef68844d5f27155c4f46a2c93f9299dcbe7f95fc67a7c3c610712a52",
+    "width": 343,
+    "height": 343
+  },
+  {
+    "category": "people",
+    "de": "gut",
+    "ua": "добрий / добре",
+    "path": "assets/illustrations/people/09.png",
+    "sha256": "1707f784e56c03468c56f7dda78852999173cb1a89f02fb16a7644848ada1918",
+    "width": 354,
+    "height": 354
+  },
+  {
+    "category": "people",
+    "de": "schlecht",
+    "ua": "поганий / погано",
+    "path": "assets/illustrations/people/10.png",
+    "sha256": "6cd54303c59c93da191a424dc1e2fad8fb26ca91315119a53aa4e54cda1f312f",
+    "width": 356,
+    "height": 356
+  },
+  {
+    "category": "people",
+    "de": "schön",
+    "ua": "гарний",
+    "path": "assets/illustrations/people/11.png",
+    "sha256": "8fd27662e6373c210a21528c3ca68574bb247ab2674988606bbca40f810ef1f9",
+    "width": 378,
+    "height": 378
+  },
+  {
+    "category": "people",
+    "de": "alt",
+    "ua": "старий",
+    "path": "assets/illustrations/people/12.png",
+    "sha256": "85b788a5d6a7fb07931b728f60932d4160bdabb44272d710b02e2de04996f318",
+    "width": 319,
+    "height": 319
+  },
+  {
+    "category": "people",
+    "de": "jung",
+    "ua": "молодий",
+    "path": "assets/illustrations/people/13.png",
+    "sha256": "ee3af84aebe35a330386d26b12f283e3e2311e486cb930060eee082ccf3d43a8",
+    "width": 301,
+    "height": 301
+  },
+  {
+    "category": "people",
+    "de": "neu",
+    "ua": "новий",
+    "path": "assets/illustrations/people/14.png",
+    "sha256": "b3fa5bc81b0eee21ece86350b248d438d99be4d4c1e907871ef42e2a9b0ed10c",
+    "width": 381,
+    "height": 381
+  },
+  {
+    "category": "places",
+    "de": "die Stadt",
+    "ua": "місто",
+    "path": "assets/illustrations/places/01.png",
+    "sha256": "e64b618c2d98977e7d9c819a1663a9926aaefa9b2ea0ac3a5ac9ec46053083dc",
+    "width": 414,
+    "height": 414
+  },
+  {
+    "category": "places",
+    "de": "die Straße",
+    "ua": "вулиця",
+    "path": "assets/illustrations/places/02.png",
+    "sha256": "6e34418be7521038fc3a4a555dbad959ad812d2ff162a0515129b61e0af23785",
+    "width": 394,
+    "height": 394
+  },
+  {
+    "category": "places",
+    "de": "das Geschäft",
+    "ua": "магазин",
+    "path": "assets/illustrations/places/03.png",
+    "sha256": "668244adf430055f92f7164f8eb76b737a93454ea29e79488731a54ea8166272",
+    "width": 381,
+    "height": 381
+  },
+  {
+    "category": "places",
+    "de": "der Bahnhof",
+    "ua": "вокзал",
+    "path": "assets/illustrations/places/04.png",
+    "sha256": "12bf4b1291be5b6bc2b47a5d524385dfd4128031a62bae70f0f59a9cf6b27781",
+    "width": 397,
+    "height": 397
+  },
+  {
+    "category": "places",
+    "de": "der Park",
+    "ua": "парк",
+    "path": "assets/illustrations/places/05.png",
+    "sha256": "90b3cd76cb52861952b46489310aeee4359fe30dd33622ab9ba8c95fefb225ae",
+    "width": 377,
+    "height": 377
+  },
+  {
+    "category": "places",
+    "de": "das Auto",
+    "ua": "автомобіль",
+    "path": "assets/illustrations/places/06.png",
+    "sha256": "025028c6bbee134e3414c632735e05997fce69407983071c235b50a342053c7f",
+    "width": 385,
+    "height": 385
+  },
+  {
+    "category": "places",
+    "de": "der Bus",
+    "ua": "автобус",
+    "path": "assets/illustrations/places/07.png",
+    "sha256": "eefd50ac54c1183ebd84f3b65abcc45cbc67502427cb809f5617930811312cb8",
+    "width": 421,
+    "height": 421
+  },
+  {
+    "category": "places",
+    "de": "der Zug",
+    "ua": "поїзд",
+    "path": "assets/illustrations/places/08.png",
+    "sha256": "871314fe24cb79ad36fa58d8753dd96b578f1b494100e7b0cc1f5db311f0766c",
+    "width": 408,
+    "height": 408
+  },
+  {
+    "category": "places",
+    "de": "das Fahrrad",
+    "ua": "велосипед",
+    "path": "assets/illustrations/places/09.png",
+    "sha256": "7973288b22e6987a32c03ec732fc5fbd411c8dc5789c961ad43de59be3511784",
+    "width": 385,
+    "height": 385
+  },
+  {
+    "category": "places",
+    "de": "zu Fuß",
+    "ua": "пішки",
+    "path": "assets/illustrations/places/10.png",
+    "sha256": "0daa4df3619b1a733c9d782c06b4f560e2df2cea957abf4ec5c21b7dc795ddff",
+    "width": 364,
+    "height": 364
   },
   {
     "category": "pronouns",
@@ -511,6 +1348,321 @@
     "sha256": "afacb7afd8bcb9457998dbe2a5baad06190fc7a95b679781060888022a9359eb",
     "width": 277,
     "height": 242
+  },
+  {
+    "category": "questions",
+    "de": "wer",
+    "ua": "хто",
+    "path": "assets/illustrations/questions/01.png",
+    "sha256": "f5c5de57c41127cf66741cd8a80440c153bfca522c627dd0b560e65675047a9e",
+    "width": 421,
+    "height": 421
+  },
+  {
+    "category": "questions",
+    "de": "was",
+    "ua": "що",
+    "path": "assets/illustrations/questions/02.png",
+    "sha256": "d71bbb1c1f245c834d21b19ce50a01fe1d6a0edecbeea125f5c8046123d11ce6",
+    "width": 419,
+    "height": 419
+  },
+  {
+    "category": "questions",
+    "de": "wo",
+    "ua": "де",
+    "path": "assets/illustrations/questions/03.png",
+    "sha256": "927f23ec151fff7b8cee4e7a4586ca9000356426d8ff419183fdc73f9a5f3f1b",
+    "width": 374,
+    "height": 374
+  },
+  {
+    "category": "questions",
+    "de": "wohin",
+    "ua": "куди",
+    "path": "assets/illustrations/questions/04.png",
+    "sha256": "19b55d06dfe640753b68d2177934447dc9dcf2056421b6957d261a0deb9560ae",
+    "width": 464,
+    "height": 464
+  },
+  {
+    "category": "questions",
+    "de": "woher",
+    "ua": "звідки",
+    "path": "assets/illustrations/questions/05.png",
+    "sha256": "b2eec0027b0e35308cea807aa164047485fe3a9b2ebd2bcf2936750836ae016e",
+    "width": 435,
+    "height": 435
+  },
+  {
+    "category": "questions",
+    "de": "wann",
+    "ua": "коли",
+    "path": "assets/illustrations/questions/06.png",
+    "sha256": "d4e6fee04c378540b6fbe1f585e9743984822def9a848f9c8588e549050332f2",
+    "width": 388,
+    "height": 388
+  },
+  {
+    "category": "questions",
+    "de": "warum",
+    "ua": "чому",
+    "path": "assets/illustrations/questions/07.png",
+    "sha256": "9eb109fad2c1c465bbb26b73ccebdf40ddeb60dfa8c5a0ee69f97c42e04c4773",
+    "width": 415,
+    "height": 415
+  },
+  {
+    "category": "questions",
+    "de": "wie",
+    "ua": "як",
+    "path": "assets/illustrations/questions/08.png",
+    "sha256": "55c06280ba387a3ca835bd22c4b9a7cec5f4ba6d5b818ae25cb949c5372e6a5f",
+    "width": 445,
+    "height": 445
+  },
+  {
+    "category": "questions",
+    "de": "wie viel",
+    "ua": "скільки",
+    "path": "assets/illustrations/questions/09.png",
+    "sha256": "bbdff5e0ebfe1178abc07497b9cbf007384c42384b3b66596b1740d7537268c3",
+    "width": 444,
+    "height": 444
+  },
+  {
+    "category": "school",
+    "de": "die Schule",
+    "ua": "школа",
+    "path": "assets/illustrations/school/01.png",
+    "sha256": "85c89b78c4d109b3f2f7dc014856c2b73382add9dacd48f76e65fcf994814bc5",
+    "width": 364,
+    "height": 364
+  },
+  {
+    "category": "school",
+    "de": "der Lehrer",
+    "ua": "вчитель",
+    "path": "assets/illustrations/school/02.png",
+    "sha256": "147d1ead2a6d0524c34c04933d615a30476f19adc191abb92d0413688a85a26b",
+    "width": 394,
+    "height": 394
+  },
+  {
+    "category": "school",
+    "de": "die Lehrerin",
+    "ua": "вчителька",
+    "path": "assets/illustrations/school/03.png",
+    "sha256": "704e8fd65e96d31b6ff03b163556b200b90f5f186abe69d88c9d95bca892999b",
+    "width": 397,
+    "height": 397
+  },
+  {
+    "category": "school",
+    "de": "der Schüler",
+    "ua": "учень",
+    "path": "assets/illustrations/school/04.png",
+    "sha256": "98550238a1e71d6d2bfdfa8d9ce9283130f7b8902aa81285a5bd0aa0f652a103",
+    "width": 370,
+    "height": 370
+  },
+  {
+    "category": "school",
+    "de": "die Schülerin",
+    "ua": "учениця",
+    "path": "assets/illustrations/school/05.png",
+    "sha256": "2be2c82c6039b6db32650a764e09ab8415274d249ca3643eb508b955a484fc08",
+    "width": 382,
+    "height": 382
+  },
+  {
+    "category": "school",
+    "de": "das Buch",
+    "ua": "книга",
+    "path": "assets/illustrations/school/06.png",
+    "sha256": "09c750db64070d185ee26976ed448bef87806aa227958045ca8939e6bd12e58f",
+    "width": 428,
+    "height": 428
+  },
+  {
+    "category": "school",
+    "de": "das Heft",
+    "ua": "зошит",
+    "path": "assets/illustrations/school/07.png",
+    "sha256": "f8ce32c8f6a28b5e269f8dfa57289f5f542699ec73738da6d2a247d834f96d42",
+    "width": 384,
+    "height": 384
+  },
+  {
+    "category": "school",
+    "de": "der Stift",
+    "ua": "ручка / олівець",
+    "path": "assets/illustrations/school/08.png",
+    "sha256": "8e1e9e45606334110dae24c54e1243460b467a68949bc65fcf8dd942cb6df340",
+    "width": 313,
+    "height": 313
+  },
+  {
+    "category": "school",
+    "de": "die Aufgabe",
+    "ua": "завдання",
+    "path": "assets/illustrations/school/09.png",
+    "sha256": "d303831bdff4a42d81dc2c3922ae88eb54cab017b12b2519b29a50e39cd3e03e",
+    "width": 367,
+    "height": 367
+  },
+  {
+    "category": "school",
+    "de": "die Frage",
+    "ua": "питання",
+    "path": "assets/illustrations/school/10.png",
+    "sha256": "d019c02d9b0dcffe9b447bca15145ac2f5adfdb2cdfda50d23a666cb0f04b8c1",
+    "width": 404,
+    "height": 404
+  },
+  {
+    "category": "school",
+    "de": "die Antwort",
+    "ua": "відповідь",
+    "path": "assets/illustrations/school/11.png",
+    "sha256": "e381a80c8d05678bdcc2b9cfbb08d6dee5627553c6a9e8184783c8557f2e64f5",
+    "width": 419,
+    "height": 419
+  },
+  {
+    "category": "time",
+    "de": "heute",
+    "ua": "сьогодні",
+    "path": "assets/illustrations/time/01.png",
+    "sha256": "8155c1b4dbead5e4bb1a53e7a2d33c2dda9be549248c6f8360e4c2436940f74b",
+    "width": 339,
+    "height": 339
+  },
+  {
+    "category": "time",
+    "de": "morgen",
+    "ua": "завтра",
+    "path": "assets/illustrations/time/02.png",
+    "sha256": "516b016ec436b143d35d7a411e851d98b684fe6410362cdac13beba4abe86b9c",
+    "width": 329,
+    "height": 329
+  },
+  {
+    "category": "time",
+    "de": "gestern",
+    "ua": "вчора",
+    "path": "assets/illustrations/time/03.png",
+    "sha256": "71d8ab688e88596484ccfe96e99f9a5e7aac2ad236ac6660c21e96f79b031192",
+    "width": 348,
+    "height": 348
+  },
+  {
+    "category": "time",
+    "de": "der Morgen",
+    "ua": "ранок",
+    "path": "assets/illustrations/time/04.png",
+    "sha256": "36fa748d058a1fdff54b3131b097007e4ea945487e55ed23d2d72dd0c36b1006",
+    "width": 332,
+    "height": 332
+  },
+  {
+    "category": "time",
+    "de": "der Abend",
+    "ua": "вечір",
+    "path": "assets/illustrations/time/05.png",
+    "sha256": "0c73542ae4b8e3f9e80114881b99476ffb9cbe7198e00421fe5332852e6d93f3",
+    "width": 366,
+    "height": 366
+  },
+  {
+    "category": "time",
+    "de": "die Nacht",
+    "ua": "ніч",
+    "path": "assets/illustrations/time/06.png",
+    "sha256": "87ff734d227732bd29c5c907a00ae2083c44573688ca1eb0d42b1116550076df",
+    "width": 332,
+    "height": 332
+  },
+  {
+    "category": "time",
+    "de": "Montag",
+    "ua": "понеділок",
+    "path": "assets/illustrations/time/07.png",
+    "sha256": "78e81603b07312658d1c5c9c7d12d7193b03a1ae19f2bb18dfe4b271dc4c436b",
+    "width": 349,
+    "height": 349
+  },
+  {
+    "category": "time",
+    "de": "Dienstag",
+    "ua": "вівторок",
+    "path": "assets/illustrations/time/08.png",
+    "sha256": "7c8874992364431a99984b4c7cf98e9c940e4d19a6425b8c6885a068be470960",
+    "width": 348,
+    "height": 348
+  },
+  {
+    "category": "time",
+    "de": "Mittwoch",
+    "ua": "середа",
+    "path": "assets/illustrations/time/09.png",
+    "sha256": "9424c4a85399ed0c637f238bb811548a53993479a80ee993cde531f57b1b1597",
+    "width": 346,
+    "height": 346
+  },
+  {
+    "category": "time",
+    "de": "Donnerstag",
+    "ua": "четвер",
+    "path": "assets/illustrations/time/10.png",
+    "sha256": "9b6bf0b60b52ea0d77c30122f3b52b43c1d837fe95e1ea7a6b642dc348befba0",
+    "width": 342,
+    "height": 342
+  },
+  {
+    "category": "time",
+    "de": "Freitag",
+    "ua": "п’ятниця",
+    "path": "assets/illustrations/time/11.png",
+    "sha256": "4555f28e0b66c78b0190e2e1dacd63293d29ba46d4a437b8fd4e43255b6b891a",
+    "width": 352,
+    "height": 352
+  },
+  {
+    "category": "time",
+    "de": "Samstag",
+    "ua": "субота",
+    "path": "assets/illustrations/time/12.png",
+    "sha256": "5713d604e8b49f6b1efc15c4abeb1a7738e3d9e8acba20ee0669a5db77974d4b",
+    "width": 349,
+    "height": 349
+  },
+  {
+    "category": "time",
+    "de": "Sonntag",
+    "ua": "неділя",
+    "path": "assets/illustrations/time/13.png",
+    "sha256": "d04aaa8dc87f2c574e05a3dbf1b4e0b1b41af01cf9bbc9db85f75f930efef115",
+    "width": 345,
+    "height": 345
+  },
+  {
+    "category": "time",
+    "de": "die Stunde",
+    "ua": "година",
+    "path": "assets/illustrations/time/14.png",
+    "sha256": "5d25ba8b979ad1eaa7d1a293b4dca524c21d1b69072a6994095e2cadb58c7630",
+    "width": 340,
+    "height": 340
+  },
+  {
+    "category": "time",
+    "de": "die Minute",
+    "ua": "хвилина",
+    "path": "assets/illustrations/time/15.png",
+    "sha256": "ac0992222c1789e7cb5b7da20733b3934b523bba261cc01762179ace88d659d5",
+    "width": 329,
+    "height": 329
   },
   {
     "category": "verbs",

@@ -1,0 +1,127 @@
+{
+  "category": "family",
+  "approved": true,
+  "authorization": "User requested all remaining categories sequentially, one version each, immediate insertion without waiting, 17 October 2026.",
+  "items": [
+    {
+      "de": "die Mutter",
+      "ua": "мама",
+      "source": "01.png",
+      "name": "01",
+      "original_box": [
+        0,
+        0,
+        395,
+        393
+      ]
+    },
+    {
+      "de": "der Vater",
+      "ua": "тато",
+      "source": "02.png",
+      "name": "02",
+      "original_box": [
+        395,
+        0,
+        763,
+        393
+      ]
+    },
+    {
+      "de": "die Eltern",
+      "ua": "батьки",
+      "source": "03.png",
+      "name": "03",
+      "original_box": [
+        763,
+        0,
+        1190,
+        393
+      ]
+    },
+    {
+      "de": "der Bruder",
+      "ua": "брат",
+      "source": "04.png",
+      "name": "04",
+      "original_box": [
+        1190,
+        0,
+        1583,
+        393
+      ]
+    },
+    {
+      "de": "die Schwester",
+      "ua": "сестра",
+      "source": "05.png",
+      "name": "05",
+      "original_box": [
+        1583,
+        0,
+        1983,
+        393
+      ]
+    },
+    {
+      "de": "der Sohn",
+      "ua": "син",
+      "source": "06.png",
+      "name": "06",
+      "original_box": [
+        0,
+        393,
+        404,
+        793
+      ]
+    },
+    {
+      "de": "die Tochter",
+      "ua": "донька",
+      "source": "07.png",
+      "name": "07",
+      "original_box": [
+        404,
+        393,
+        827,
+        793
+      ]
+    },
+    {
+      "de": "die Oma",
+      "ua": "бабуся",
+      "source": "08.png",
+      "name": "08",
+      "original_box": [
+        827,
+        393,
+        1186,
+        793
+      ]
+    },
+    {
+      "de": "der Opa",
+      "ua": "дідусь",
+      "source": "09.png",
+      "name": "09",
+      "original_box": [
+        1186,
+        393,
+        1546,
+        793
+      ]
+    },
+    {
+      "de": "die Familie",
+      "ua": "сім’я",
+      "source": "10.png",
+      "name": "10",
+      "original_box": [
+        1546,
+        393,
+        1983,
+        793
+      ]
+    }
+  ]
+}

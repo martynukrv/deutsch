@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "category": "body",
+  "approved": true,
+  "items": [
+    {
+      "de": "der Kopf",
+      "ua": "голова",
+      "file": "01.png"
+    },
+    {
+      "de": "die Hand",
+      "ua": "рука / кисть",
+      "file": "02.png"
+    },
+    {
+      "de": "der Arm",
+      "ua": "рука",
+      "file": "03.png"
+    },
+    {
+      "de": "das Bein",
+      "ua": "нога",
+      "file": "04.png"
+    },
+    {
+      "de": "der Fuß",
+      "ua": "стопа",
+      "file": "05.png"
+    },
+    {
+      "de": "das Auge",
+      "ua": "око",
+      "file": "06.png"
+    },
+    {
+      "de": "das Ohr",
+      "ua": "вухо",
+      "file": "07.png"
+    },
+    {
+      "de": "der Mund",
+      "ua": "рот",
+      "file": "08.png"
+    },
+    {
+      "de": "die Nase",
+      "ua": "ніс",
+      "file": "09.png"
+    },
+    {
+      "de": "der Bauch",
+      "ua": "живіт",
+      "file": "10.png"
+    }
+  ]
+}

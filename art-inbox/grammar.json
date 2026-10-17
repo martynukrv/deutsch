@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "category": "grammar",
+  "approved": true,
+  "items": [
+    {
+      "de": "ja",
+      "ua": "так",
+      "file": "01.png"
+    },
+    {
+      "de": "nein",
+      "ua": "ні",
+      "file": "02.png"
+    },
+    {
+      "de": "nicht",
+      "ua": "не",
+      "file": "03.png"
+    },
+    {
+      "de": "auch",
+      "ua": "також",
+      "file": "04.png"
+    },
+    {
+      "de": "sehr",
+      "ua": "дуже",
+      "file": "05.png"
+    },
+    {
+      "de": "hier",
+      "ua": "тут",
+      "file": "06.png"
+    },
+    {
+      "de": "dort",
+      "ua": "там",
+      "file": "07.png"
+    },
+    {
+      "de": "jetzt",
+      "ua": "зараз",
+      "file": "08.png"
+    },
+    {
+      "de": "immer",
+      "ua": "завжди",
+      "file": "09.png"
+    },
+    {
+      "de": "vielleicht",
+      "ua": "можливо",
+      "file": "10.png"
+    },
+    {
+      "de": "und",
+      "ua": "і",
+      "file": "11.png"
+    },
+    {
+      "de": "oder",
+      "ua": "або",
+      "file": "12.png"
+    },
+    {
+      "de": "aber",
+      "ua": "але",
+      "file": "13.png"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "category": "questions",
+  "approved": true,
+  "items": [
+    {
+      "de": "wer",
+      "ua": "хто",
+      "file": "01.png"
+    },
+    {
+      "de": "was",
+      "ua": "що",
+      "file": "02.png"
+    },
+    {
+      "de": "wo",
+      "ua": "де",
+      "file": "03.png"
+    },
+    {
+      "de": "wohin",
+      "ua": "куди",
+      "file": "04.png"
+    },
+    {
+      "de": "woher",
+      "ua": "звідки",
+      "file": "05.png"
+    },
+    {
+      "de": "wann",
+      "ua": "коли",
+      "file": "06.png"
+    },
+    {
+      "de": "warum",
+      "ua": "чому",
+      "file": "07.png"
+    },
+    {
+      "de": "wie",
+      "ua": "як",
+      "file": "08.png"
+    },
+    {
+      "de": "wie viel",
+      "ua": "скільки",
+      "file": "09.png"
+    }
+  ]
+}

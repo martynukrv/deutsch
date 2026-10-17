@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "category": "family",
+  "approved": true,
+  "items": [
+    {
+      "de": "die Mutter",
+      "ua": "мама",
+      "file": "01.png"
+    },
+    {
+      "de": "der Vater",
+      "ua": "тато",
+      "file": "02.png"
+    },
+    {
+      "de": "die Eltern",
+      "ua": "батьки",
+      "file": "03.png"
+    },
+    {
+      "de": "der Bruder",
+      "ua": "брат",
+      "file": "04.png"
+    },
+    {
+      "de": "die Schwester",
+      "ua": "сестра",
+      "file": "05.png"
+    },
+    {
+      "de": "der Sohn",
+      "ua": "син",
+      "file": "06.png"
+    },
+    {
+      "de": "die Tochter",
+      "ua": "донька",
+      "file": "07.png"
+    },
+    {
+      "de": "die Oma",
+      "ua": "бабуся",
+      "file": "08.png"
+    },
+    {
+      "de": "der Opa",
+      "ua": "дідусь",
+      "file": "09.png"
+    },
+    {
+      "de": "die Familie",
+      "ua": "сім’я",
+      "file": "10.png"
+    }
+  ]
+}

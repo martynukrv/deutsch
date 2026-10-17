@@ -1,0 +1,127 @@
+{
+  "category": "body",
+  "approved": true,
+  "authorization": "User requested all remaining categories sequentially, one version each, immediate insertion without waiting, 17 October 2026.",
+  "items": [
+    {
+      "de": "der Kopf",
+      "ua": "голова",
+      "source": "01.png",
+      "name": "01",
+      "original_box": [
+        0,
+        0,
+        421,
+        411
+      ]
+    },
+    {
+      "de": "die Hand",
+      "ua": "рука / кисть",
+      "source": "02.png",
+      "name": "02",
+      "original_box": [
+        421,
+        0,
+        793,
+        411
+      ]
+    },
+    {
+      "de": "der Arm",
+      "ua": "рука",
+      "source": "03.png",
+      "name": "03",
+      "original_box": [
+        793,
+        0,
+        1207,
+        411
+      ]
+    },
+    {
+      "de": "das Bein",
+      "ua": "нога",
+      "source": "04.png",
+      "name": "04",
+      "original_box": [
+        1207,
+        0,
+        1568,
+        411
+      ]
+    },
+    {
+      "de": "der Fuß",
+      "ua": "стопа",
+      "source": "05.png",
+      "name": "05",
+      "original_box": [
+        1568,
+        0,
+        1983,
+        411
+      ]
+    },
+    {
+      "de": "das Auge",
+      "ua": "око",
+      "source": "06.png",
+      "name": "06",
+      "original_box": [
+        0,
+        411,
+        422,
+        793
+      ]
+    },
+    {
+      "de": "das Ohr",
+      "ua": "вухо",
+      "source": "07.png",
+      "name": "07",
+      "original_box": [
+        422,
+        411,
+        784,
+        793
+      ]
+    },
+    {
+      "de": "der Mund",
+      "ua": "рот",
+      "source": "08.png",
+      "name": "08",
+      "original_box": [
+        784,
+        411,
+        1199,
+        793
+      ]
+    },
+    {
+      "de": "die Nase",
+      "ua": "ніс",
+      "source": "09.png",
+      "name": "09",
+      "original_box": [
+        1199,
+        411,
+        1557,
+        793
+      ]
+    },
+    {
+      "de": "der Bauch",
+      "ua": "живіт",
+      "source": "10.png",
+      "name": "10",
+      "original_box": [
+        1557,
+        411,
+        1983,
+        793
+      ]
+    }
+  ]
+}

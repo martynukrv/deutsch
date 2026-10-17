@@ -1,0 +1,115 @@
+{
+  "category": "questions",
+  "approved": true,
+  "authorization": "User requested all remaining categories sequentially, one version each, immediate insertion without waiting, 17 October 2026.",
+  "items": [
+    {
+      "de": "wer",
+      "ua": "хто",
+      "source": "01.png",
+      "name": "01",
+      "original_box": [
+        0,
+        0,
+        428,
+        437
+      ]
+    },
+    {
+      "de": "was",
+      "ua": "що",
+      "source": "02.png",
+      "name": "02",
+      "original_box": [
+        428,
+        0,
+        890,
+        437
+      ]
+    },
+    {
+      "de": "wo",
+      "ua": "де",
+      "source": "03.png",
+      "name": "03",
+      "original_box": [
+        890,
+        0,
+        1312,
+        437
+      ]
+    },
+    {
+      "de": "wohin",
+      "ua": "куди",
+      "source": "04.png",
+      "name": "04",
+      "original_box": [
+        0,
+        437,
+        444,
+        811
+      ]
+    },
+    {
+      "de": "woher",
+      "ua": "звідки",
+      "source": "05.png",
+      "name": "05",
+      "original_box": [
+        444,
+        437,
+        893,
+        811
+      ]
+    },
+    {
+      "de": "wann",
+      "ua": "коли",
+      "source": "06.png",
+      "name": "06",
+      "original_box": [
+        893,
+        437,
+        1312,
+        811
+      ]
+    },
+    {
+      "de": "warum",
+      "ua": "чому",
+      "source": "07.png",
+      "name": "07",
+      "original_box": [
+        0,
+        811,
+        438,
+        1199
+      ]
+    },
+    {
+      "de": "wie",
+      "ua": "як",
+      "source": "08.png",
+      "name": "08",
+      "original_box": [
+        438,
+        811,
+        874,
+        1199
+      ]
+    },
+    {
+      "de": "wie viel",
+      "ua": "скільки",
+      "source": "09.png",
+      "name": "09",
+      "original_box": [
+        874,
+        811,
+        1312,
+        1199
+      ]
+    }
+  ]
+}
