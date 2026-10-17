@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "status": "rolling-implementation-one-lesson-at-a-time",
+  "status": "implemented-awaiting-human-recordings-for-new-material",
   "created": "2026-10-17",
   "language": "uk",
   "basis": "Original material adapted to themes from all 16 Petrov sessions; reordered by prerequisites. No claim of exhaustive transcript coverage or certified CEFR equivalence.",
@@ -183,7 +183,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "present-regular",
@@ -200,7 +201,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "present-sein",
@@ -217,7 +219,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "present-haben",
@@ -234,7 +237,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "checkpoint-first-sentences",
@@ -251,7 +255,8 @@
       ],
       "kind": "checkpoint",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "main-clause-order",
@@ -269,7 +274,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "negation-nicht",
@@ -287,7 +293,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "yes-no-questions",
@@ -305,7 +312,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "w-questions",
@@ -323,7 +331,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "introduce-yourself",
@@ -341,7 +350,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "checkpoint-introduction",
@@ -359,7 +369,8 @@
       ],
       "kind": "checkpoint",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "nouns-definite",
@@ -377,7 +388,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "nouns-indefinite-negative",
@@ -395,7 +407,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "noun-plurals",
@@ -413,7 +426,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "possessives-nominative",
@@ -431,7 +445,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "family-descriptions",
@@ -449,7 +464,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "checkpoint-family",
@@ -467,7 +483,8 @@
       ],
       "kind": "checkpoint",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "accusative-nouns",
@@ -485,7 +502,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "accusative-pronouns",
@@ -503,7 +521,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "present-irregular",
@@ -521,7 +540,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "likes-hobbies",
@@ -539,7 +559,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "cafe-first-dialogue",
@@ -557,7 +578,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "checkpoint-objects",
@@ -575,7 +597,8 @@
       ],
       "kind": "checkpoint",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "modal-koennen",
@@ -594,7 +617,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "modal-muessen-sollen",
@@ -613,7 +637,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "modal-wollen-moechten",
@@ -632,7 +657,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "modal-duerfen",
@@ -651,7 +677,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "imperative",
@@ -670,7 +697,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "checkpoint-requests",
@@ -689,7 +717,8 @@
       ],
       "kind": "checkpoint",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "dative-nouns",
@@ -707,7 +736,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "dative-pronouns",
@@ -725,7 +755,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "two-objects",
@@ -743,7 +774,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "dative-prepositions",
@@ -761,7 +793,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "accusative-prepositions",
@@ -779,7 +812,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "checkpoint-gifts",
@@ -797,7 +831,8 @@
       ],
       "kind": "checkpoint",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "numbers-prices",
@@ -818,7 +853,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "clock-dates",
@@ -839,7 +875,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "location-wo",
@@ -860,7 +897,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "destination-wohin",
@@ -881,7 +919,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "directions-home",
@@ -902,7 +941,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "checkpoint-meeting-route",
@@ -923,7 +963,8 @@
       ],
       "kind": "checkpoint",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "separable-present",
@@ -941,7 +982,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "inseparable-present",
@@ -959,7 +1001,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "reflexive-present",
@@ -977,7 +1020,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "daily-frequency",
@@ -995,7 +1039,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "arrange-meeting",
@@ -1013,7 +1058,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "checkpoint-my-day",
@@ -1031,7 +1077,8 @@
       ],
       "kind": "checkpoint",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "perfekt-haben-regular",
@@ -1052,7 +1099,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "perfekt-irregular",
@@ -1073,7 +1121,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "perfekt-sein",
@@ -1094,7 +1143,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "perfekt-prefixes",
@@ -1115,7 +1165,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "perfekt-reflexive",
@@ -1136,7 +1187,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "past-sein-haben",
@@ -1157,7 +1209,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "checkpoint-yesterday",
@@ -1178,7 +1231,8 @@
       ],
       "kind": "checkpoint",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "impersonal-man",
@@ -1197,7 +1251,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "coordinate-clauses",
@@ -1216,7 +1271,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "subordinate-dass",
@@ -1235,7 +1291,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "cause-weil-deshalb",
@@ -1254,7 +1311,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "condition-wenn",
@@ -1273,7 +1331,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "infinitive-zu",
@@ -1292,7 +1351,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "checkpoint-reasons-plans",
@@ -1311,7 +1371,8 @@
       ],
       "kind": "checkpoint",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "adjectives-predicative",
@@ -1331,7 +1392,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "adjectives-comparative",
@@ -1351,7 +1413,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "adjectives-superlative",
@@ -1371,7 +1434,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "adjective-definite-na",
@@ -1391,7 +1455,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "adjective-indefinite-na",
@@ -1411,7 +1476,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "adjective-dative",
@@ -1431,7 +1497,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "adjective-no-article",
@@ -1451,7 +1518,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "checkpoint-describe-compare",
@@ -1471,7 +1539,8 @@
       ],
       "kind": "checkpoint",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "personal-details",
@@ -1493,7 +1562,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "shopping-clothes",
@@ -1515,7 +1585,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "health-help",
@@ -1537,7 +1608,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "housing-household",
@@ -1559,7 +1631,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "school-work",
@@ -1581,7 +1654,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "travel-accommodation",
@@ -1603,7 +1677,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "short-messages",
@@ -1625,7 +1700,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "future-plans",
@@ -1647,7 +1723,8 @@
       ],
       "kind": "lesson",
       "adaptation": "supplement-or-expanded-treatment",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "connected-story",
@@ -1669,7 +1746,8 @@
       ],
       "kind": "lesson",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     },
     {
       "id": "checkpoint-final",
@@ -1691,7 +1769,8 @@
       ],
       "kind": "checkpoint",
       "adaptation": "course-theme-adaptation",
-      "status": "planned"
+      "status": "implemented",
+      "implementation": "assets/learning/course-player.js"
     }
   ],
   "referenceCoverageByModule": {

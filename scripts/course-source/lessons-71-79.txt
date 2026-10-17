@@ -1,0 +1,99 @@
+@@71
+У формулярі часто немає повного речення: Name, Vorname, Adresse, Telefonnummer. Тут тренуємо вигадані дані. Buchstabieren Sie bitte — прохання назвати по літерах; навички слухання цифр спираються на урок про числа. Не вводь реальні особисті дані у вправу.
+der Vorname=ім’я;der Nachname=прізвище;die Adresse=адреса;die Telefonnummer=номер телефону;buchstabieren=називати по літерах;das Formular=формуляр;die Hausnummer=номер будинку;ausfüllen=заповнювати
+Mein ~Vorname~ ist Mia.|Моє ім’я — Міа.
+Mein ~Nachname~ ist Weber.|Моє прізвище — Вебер.
+Ich wohne in der ~Schulstraße~.|Я мешкаю на Шкільній вулиці.
+Meine Hausnummer ist ~zwölf~.|Номер мого будинку — дванадцять.
+Wie ist Ihre ~Adresse~?|Яка Ваша адреса (ввічливо)?
+~Buchstabieren~ Sie bitte Ihren Namen!|Назвіть, будь ласка, своє ім’я по літерах!
+Bitte schreiben Sie Ihre ~Telefonnummer~!|Напишіть, будь ласка, свій номер телефону!
+Ich möchte das Formular ~ausfüllen~.|Я хотів би / хотіла б заповнити формуляр.
+@@72
+У магазині поєднуємо ціни, Akkusativ, порівняння й ввічливе möchten. Розмір та колір — частина вибору; замість невивчених складних зворотів просимо простими реченнями. anprobieren відокремлюється, але після können лишається цілим інфінітивом.
+die Jacke=куртка;die Hose=штани;das Hemd=сорочка;die Größe=розмір;anprobieren=приміряти;teuer=дорогий;billig=дешевий;bezahlen=оплачувати
+Ich suche eine ~Jacke~.|Я шукаю куртку.
+Haben Sie das Hemd in Größe ~vierzig~?|У Вас є ця сорочка сорокового розміру?
+Kann ich die Hose ~anprobieren~?|Можна приміряти штани?
+Die Jacke ist zu ~groß~.|Куртка завелика.
+Ich möchte eine ~kleinere~ Größe.|Я хотів би / хотіла б менший розмір.
+Das ist zu ~teuer~.|Це задорого.
+Kann ich mit Karte ~bezahlen~?|Можна оплатити карткою?
+Ich nehme die ~blaue~ Jacke.|Я візьму синю куртку.
+@@73
+Описуємо самопочуття мовою, а не ставимо діагноз. Ich habe Kopfschmerzen, mein Hals tut weh — готові конструкції для скарги. Для зустрічі з лікарем використовуємо einen Termin brauchen і beim Arzt sein. Тут немає рекомендацій щодо ліків чи лікування.
+die Kopfschmerzen=головний біль;der Hals=горло;wehtun=боліти;das Fieber=підвищена температура;der Arzt=лікар;die Ärztin=лікарка;der Termin=запланований прийом
+Ich habe ~Kopfschmerzen~.|У мене болить голова.
+Mein Hals tut ~weh~.|У мене болить горло.
+Ich fühle ~mich~ nicht gut.|Я недобре почуваюся.
+Ich habe ~Fieber~.|У мене підвищена температура.
+Ich brauche einen ~Termin~.|Мені потрібен запис на прийом.
+Wann kann ich zum Arzt ~kommen~?|Коли я можу прийти до лікаря?
+Ich war gestern ~beim~ Arzt.|Я вчора був / була в лікаря.
+Können Sie bitte langsam ~sprechen~?|Можете, будь ласка, говорити повільно (ввічливо)?
+@@74
+Розповідаємо про житло й побутову проблему знайомими відмінками та рамкою речення. kaputt — несправний, funktionieren — працювати про пристрій. Просимо допомоги через können. Прибирати й ремонтувати — різні дії: aufräumen і reparieren.
+die Wohnung=квартира;die Küche=кухня;das Bad=ванна кімната;die Heizung=опалення;kaputt=несправний;funktionieren=функціонувати;aufräumen=прибирати;reparieren=ремонтувати;putzen=прибирати / чистити
+Unsere Wohnung hat drei ~Zimmer~.|Наша квартира має три кімнати.
+Die Küche ist neben dem ~Bad~.|Кухня поруч із ванною кімнатою.
+Die Heizung ~funktioniert~ nicht.|Опалення не працює.
+Das Fenster ist ~kaputt~.|Вікно несправне.
+Können Sie das bitte ~reparieren~?|Можете це, будь ласка, відремонтувати (ввічливо)?
+Ich muss mein Zimmer ~aufräumen~.|Я мушу прибрати свою кімнату.
+Wir haben die Küche ~geputzt~.|Ми прибрали кухню.
+Der Tisch steht vor dem ~Fenster~.|Стіл стоїть перед вікном.
+@@75
+Одна граматична основа працює для школи та роботи: початок заняття, розклад, завдання, прохання пояснити. anfangen — відокремлюване дієслово, verstehen — невідокремлюване. Дитячі й дорослі приклади обидва доступні, але не впливають на особисті дані профілю.
+der Unterricht=урок / заняття;die Arbeit=робота;die Aufgabe=завдання;die Pause=перерва;anfangen=починатися;erklären=пояснювати;die Hausaufgaben=домашнє завдання;die Frage=запитання
+Der Unterricht fängt um neun Uhr ~an~.|Заняття починається о дев’ятій годині.
+Meine Arbeit beginnt um ~acht~ Uhr.|Моя робота починається о восьмій годині.
+Ich habe eine ~Frage~.|У мене є запитання.
+Ich verstehe die Aufgabe ~nicht~.|Я не розумію завдання.
+Kannst du das bitte ~erklären~?|Можеш це, будь ласка, пояснити?
+Wann haben wir ~Pause~?|Коли в нас перерва?
+Ich habe meine Hausaufgaben ~gemacht~.|Я зробив / зробила своє домашнє завдання.
+Wir müssen morgen früh ~anfangen~.|Ми мусимо завтра рано почати.
+@@76
+У подорожі потрібні квиток, час відправлення, напрямок і житло. Знайомі aus/in/mit визначають відмінки, möchten і können роблять прохання ввічливим. buchen — бронювати, gebucht — форма Perfekt за вже відомою моделлю. Діалоги використовують вигадані поїздки.
+die Fahrkarte=квиток на транспорт;der Zug=поїзд;abfahren=відправлятися;das Gleis=колія;das Hotel=готель;buchen=бронювати;die Nacht=ніч;das Zimmer=кімната
+Ich möchte eine ~Fahrkarte~ nach Berlin.|Я хотів би / хотіла б квиток до Берліна.
+Wann fährt der Zug ~ab~?|Коли відправляється поїзд?
+Der Zug fährt von Gleis ~drei~ ab.|Поїзд відправляється з третьої колії.
+Ich fahre mit dem ~Zug~.|Я їду поїздом.
+Ich habe ein Zimmer ~gebucht~.|Я забронював / забронювала кімнату.
+Wir bleiben zwei ~Nächte~.|Ми залишаємося на дві ночі.
+Haben Sie ein ~freies~ Zimmer?|У Вас є вільна кімната (ввічливо)?
+Können Sie uns bitte ~helfen~?|Можете нам, будь ласка, допомогти (ввічливо)?
+@@77
+Коротке повідомлення має привітання, зрозумілу мету й завершення. У запрошенні називаємо час/місце; у відповіді підтверджуємо або пропонуємо інше. Для перенесення вчимо verschieben як ціле дієслово з Akkusativ. Приклади можна скласти у два повідомлення: запрошення й відповідь.
+die Nachricht=повідомлення;einladen=запрошувати;verschieben=переносити (зустріч);morgen=завтра;leider=на жаль;bis bald=до скорого
+~Hallo~ Mia!|Привіт, Міа!
+Ich möchte dich ~einladen~.|Я хотів би / хотіла б запросити тебе.
+Hast du morgen ~Zeit~?|У тебе є час завтра?
+Wir treffen uns um acht Uhr ~im~ Park.|Ми зустрінемося о восьмій годині в парку.
+Danke für deine ~Nachricht~.|Дякую за твоє повідомлення.
+Leider kann ich morgen ~nicht~ kommen.|На жаль, завтра я не можу прийти.
+Können wir den Termin ~verschieben~?|Ми можемо перенести зустріч?
+Bis ~bald~!|До скорого!
+@@78
+Заплановане майбутнє часто передаємо Präsens + час: Morgen lerne ich. Futur I: werde, wirst, wird, werden, werdet, werden + інфінітив наприкінці. Тут це плани, а не складні припущення. möchten і wollen зберігають різницю ввічливості/прямого бажання; не додаємо до них зайве werden.
+werden=допоміжне дієслово майбутнього часу;morgen=завтра;nächste Woche=наступного тижня;reisen=подорожувати;der Plan=план;üben=практикуватися
+Morgen ~lerne~ ich Deutsch.|Завтра я вивчатиму німецьку (теперішня форма).
+Ich ~werde~ morgen Deutsch lernen.|Я завтра вивчатиму німецьку (Futur I).
+Du ~wirst~ nach Berlin fahren.|Ти поїдеш до Берліна (Futur I).
+Er ~wird~ uns helfen.|Він допоможе нам (Futur I).
+Wir ~werden~ nächste Woche reisen.|Ми подорожуватимемо наступного тижня (Futur I).
+Ihr ~werdet~ hier wohnen.|Ви (кілька людей) мешкатимете тут (Futur I).
+Sie ~werden~ morgen kommen.|Вони прийдуть завтра (Futur I).
+Ich ~möchte~ jeden Tag üben.|Я хотів би / хотіла б практикуватися щодня.
+@@79
+Пов’язуємо вже вивчені моделі в історію про Міа. Спочатку вона представляється й описує звичний день; потім згадує вчора; далі пояснює рішення і план. Нової граматики тут немає. Читай приклади послідовно, а в практиці відтворюй знайомі форми в довільному порядку.
+Mia=Міа (ім’я);jeden Tag=щодня;gestern=вчора;deshalb=тому;morgen=завтра;zusammen=разом
+Ich ~heiße~ Mia.|Мене звати Міа.
+Ich ~wohne~ in Berlin.|Я мешкаю в Берліні.
+Ich lerne jeden Tag ~Deutsch~.|Я щодня вивчаю німецьку.
+Gestern habe ich meine Freundin ~besucht~.|Учора я відвідала свою подругу.
+Wir haben zusammen ~gekocht~.|Ми разом приготували їжу.
+Danach sind wir in den Park ~gegangen~.|Після цього ми пішли в парк.
+Ich lerne Deutsch, weil ich hier arbeiten ~möchte~.|Я вивчаю німецьку, тому що хотіла б тут працювати.
+Morgen ~werde~ ich wieder üben.|Завтра я знову практикуватимуся.

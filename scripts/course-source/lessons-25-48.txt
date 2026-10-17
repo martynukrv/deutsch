@@ -1,0 +1,220 @@
+@@25
+können виражає можливість або вміння. Форми: kann, kannst, kann, können, könnt, können. У твердженні відмінюється können, а основне дієслово стоїть у кінці в інфінітиві без zu. У питанні модальне дієслово йде першим.
+können=могти / вміти;schwimmen=плавати;helfen=допомагати;gut=добре
+Ich ~kann~ schwimmen.|Я вмію плавати.
+Du ~kannst~ gut singen.|Ти вмієш добре співати.
+Er ~kann~ hier arbeiten.|Він може тут працювати.
+Wir ~können~ Deutsch lernen.|Ми можемо вивчати німецьку.
+Ihr ~könnt~ heute kommen.|Ви (кілька людей) можете прийти сьогодні.
+Sie ~können~ gut lesen.|Вони вміють добре читати.
+~Kannst~ du helfen?|Ти можеш допомогти?
+Ich kann nicht ~kommen~.|Я не можу прийти.
+@@26
+müssen передає необхідність: muss, musst, muss, müssen, müsst, müssen. sollen передає вказівку, очікування або пораду від когось: soll, sollst, soll, sollen, sollt, sollen. Інфінітив без zu стоїть у кінці. Не змішуємо «мушу» й «мені сказали/слід».
+müssen=мусити;sollen=мати зробити / слід;lernen=вчитися;arbeiten=працювати;schlafen=спати;warten=чекати
+Ich ~muss~ lernen.|Я мушу вчитися.
+Du ~musst~ arbeiten.|Ти мусиш працювати.
+Er ~muss~ warten.|Він мусить чекати.
+Wir ~müssen~ kommen.|Ми мусимо прийти.
+Ihr ~müsst~ schlafen.|Ви (кілька людей) мусите спати.
+Ich ~soll~ helfen.|Мені сказали допомогти.
+Du ~sollst~ hier warten.|Тобі слід чекати тут.
+Wir ~sollen~ Deutsch sprechen.|Нам сказали говорити німецькою.
+@@27
+wollen — пряме бажання: will, willst, will, wollen, wollt, wollen. möchten — ввічливе «хотів/хотіла б»: möchte, möchtest, möchte, möchten, möchtet, möchten. Можна назвати предмет або додати інфінітив у кінці. Форму möchten тут використовуємо як готовий спосіб ввічливо просити.
+wollen=хотіти;möchten=хотіти б (ввічливо);kaufen=купувати;trinken=пити;reisen=подорожувати
+Ich ~will~ Deutsch lernen.|Я хочу вивчати німецьку.
+Du ~willst~ spielen.|Ти хочеш грати.
+Wir ~wollen~ reisen.|Ми хочемо подорожувати.
+Er ~will~ ein Buch kaufen.|Він хоче купити книжку.
+Ich ~möchte~ einen Tee.|Я хотів би / хотіла б чаю.
+Du ~möchtest~ Wasser trinken.|Ти хотів би / хотіла б випити води.
+Wir ~möchten~ hier wohnen.|Ми хотіли б тут мешкати.
+Was ~möchten~ Sie?|Що Ви хотіли б (ввічливо)?
+@@28
+dürfen означає дозвіл: darf, darfst, darf, dürfen, dürft, dürfen. nicht dürfen — заборона, nicht müssen — відсутність необхідності. Darf ich …? — ввічливо запитуємо дозволу. Інфінітив без zu стоїть у кінці.
+dürfen=мати дозвіл;rauchen=курити;bleiben=залишатися;gehen=йти;öffnen=відчиняти;das Fenster=вікно
+~Darf~ ich fragen?|Можна запитати?
+Du ~darfst~ hier spielen.|Тобі можна тут грати.
+Wir ~dürfen~ gehen.|Нам можна йти.
+Ihr ~dürft~ bleiben.|Вам (кільком людям) можна залишитися.
+Sie dürfen hier ~nicht~ rauchen.|Вам тут не можна курити (заборона).
+Du musst ~nicht~ warten.|Тобі не потрібно чекати (немає необхідності).
+~Darf~ ich das Fenster öffnen?|Можна мені відчинити вікно?
+Wir müssen heute ~nicht~ arbeiten.|Нам сьогодні не потрібно працювати.
+@@29
+Наказовий спосіб передає прохання або вказівку. Для du часто забираємо займенник і -st; для ihr — форму ihr без займенника; для Sie — інфінітивоподібну форму + Sie. Є особливі форми: nimm, sprich, lies; sein → sei/seid/seien Sie. bitte пом’якшує прохання.
+bitte=будь ласка;nehmen=брати;lesen=читати;sprechen=говорити;langsam=повільно;leise=тихо
+~Komm~ bitte!|Прийди, будь ласка (до однієї людини).
+~Kommt~ bitte!|Прийдіть, будь ласка (до кількох людей).
+~Kommen~ Sie bitte!|Прийдіть, будь ласка (ввічливо).
+~Nimm~ das Buch!|Візьми книжку!
+~Lies~ bitte!|Прочитай, будь ласка!
+~Sprich~ bitte langsam!|Говори, будь ласка, повільно!
+~Sei~ bitte leise!|Будь, будь ласка, тихим / тихою!
+~Öffnen~ Sie bitte das Fenster!|Відчиніть, будь ласка, вікно (ввічливо)!
+@@31
+Dativ називає адресата після geben або додаток після helfen/antworten. Артиклі: dem/einem (чол. і сер.), der/einer (жін.), den у множині; до іменника множини зазвичай додається -n, якщо його ще немає і множина не на -s. Керування запам’ятовуємо з дієсловом.
+helfen=допомагати;antworten=відповідати;geben=давати;die Freundin=подруга;der Lehrer=учитель;das Kind=дитина;der Mann=чоловік;die Frau=жінка;die Lehrerin=вчителька
+Ich helfe ~dem~ Kind.|Я допомагаю дитині.
+Du hilfst ~einem~ Freund.|Ти допомагаєш другові.
+Er antwortet ~der~ Lehrerin.|Він відповідає вчительці.
+Wir helfen ~den~ Kindern.|Ми допомагаємо дітям.
+Ich gebe ~dem~ Mann das Buch.|Я даю чоловікові книжку.
+Sie gibt ~einer~ Freundin Wasser.|Вона дає подрузі воду.
+Ich antworte ~dem~ Lehrer.|Я відповідаю вчителеві.
+Wir geben ~den~ Freunden Bücher.|Ми даємо друзям книжки.
+@@32
+Займенники Dativ: mir, dir, ihm, ihr, ihm, uns, euch, ihnen, Ihnen. Вони відповідають ролі адресата, а не просто будь-якому українському перекладу. helfen, antworten та geben у наших прикладах показують цю роль. Ввічливе Ihnen завжди має велику літеру.
+mir=мені;dir=тобі;ihm=йому (Dativ);ihr=їй (Dativ);ihnen=їм;Ihnen=Вам (ввічливо);uns=нам;euch=вам (кілька людей)
+Du hilfst ~mir~.|Ти допомагаєш мені.
+Ich helfe ~dir~.|Я допомагаю тобі.
+Wir antworten ~ihm~.|Ми відповідаємо йому.
+Er gibt ~ihr~ das Buch.|Він дає їй книжку.
+Sie hilft ~uns~.|Вона допомагає нам.
+Ich antworte ~euch~.|Я відповідаю вам (кілька людей).
+Wir helfen ~ihnen~.|Ми допомагаємо їм.
+Ich helfe ~Ihnen~.|Я допомагаю Вам (ввічливо).
+@@33
+У реченні з geben є адресат Dativ і предмет Akkusativ. Коли обидва — іменники, типовий порядок: Ich gebe dem Kind das Buch. Займенник часто випереджає іменник; коли обидва додатки — особові займенники, ненаголошений Akkusativ зазвичай перед Dativ: Ich gebe es ihm. Це не правило про абсолютно незмінний порядок у всіх контекстах.
+geben=давати;zeigen=показувати;schenken=дарувати;das Geschenk=подарунок;der Ball=м’яч;das Bild=картина / зображення
+Ich gebe ~dem~ Kind den Ball.|Я даю дитині м’яч.
+Du zeigst ~der~ Frau das Bild.|Ти показуєш жінці картину.
+Er schenkt ~seinem~ Vater ein Buch.|Він дарує своєму батькові книжку.
+Wir geben ~den~ Kindern Wasser.|Ми даємо дітям воду.
+Ich gebe ~ihm~ das Buch.|Я даю йому книжку.
+Ich gebe ~es~ dem Kind.|Я даю це дитині.
+Ich gebe es ~ihm~.|Я даю це йому.
+Sie zeigt es ~mir~.|Вона показує це мені.
+@@34
+mit, zu, von, aus, bei, nach у цих значеннях потребують Dativ. zum = zu dem, zur = zu der, beim = bei dem. Країни без артикля вживаємо з nach для напрямку; до людини — zu. Присвійні форми теж позначають Dativ: mit meinem Vater, mit meiner Mutter, mit meinen Eltern. Для України вивчаємо aus der Ukraine і in die Ukraine як конкретні конструкції.
+mit=з (разом);zu=до;von=від;aus=з (походження);bei=у / при;nach=до (місто, країна без артикля);die Eltern=батьки;der Arzt=лікар;fahren=їхати
+Ich komme ~mit~ dir.|Я приходжу з тобою.
+Du gehst ~zu~ mir.|Ти йдеш до мене.
+Das Buch ist ~von~ meinem Freund.|Ця книжка від мого друга.
+Ich komme ~aus~ der Ukraine.|Я родом з України.
+Wir sind ~bei~ unseren Eltern.|Ми в наших батьків.
+Sie fährt ~nach~ Berlin.|Вона їде до Берліна.
+Ich gehe ~zum~ Arzt.|Я йду до лікаря.
+Er geht ~zur~ Schule.|Він іде до школи.
+@@35
+für, ohne, gegen, durch, um потребують Akkusativ. З ними змінюються і присвійні форми: für meinen Vater, ohne deine Tasche. um уживаємо також із часом: um acht Uhr. Прийменник визначає відмінок незалежно від українського перекладу.
+für=для;ohne=без;gegen=проти / об;durch=через;um=навколо / о (час);die Tasche=сумка;der Bruder=брат;das Haus=будинок;der Park=парк
+Das ist ~für~ dich.|Це для тебе.
+Ich gehe ~ohne~ meinen Bruder.|Я йду без свого брата.
+Wir spielen ~gegen~ die Kinder.|Ми граємо проти дітей.
+Sie geht ~durch~ den Park.|Вона йде через парк.
+Wir gehen ~um~ das Haus.|Ми йдемо навколо будинку.
+Das Geschenk ist für ~meinen~ Vater.|Подарунок для мого батька.
+Ich komme ohne ~meine~ Tasche.|Я приходжу без своєї сумки.
+Ich komme ~um~ acht Uhr.|Я прийду о восьмій годині.
+@@37
+У числах 21–99 одиниці вимовляємо перед десятками: einundzwanzig. Сотні й тисячі приєднуємо до цього принципу; запам’ятовуємо sechzehn, siebzehn, dreißig, sechzig, siebzig. У цінах 2,50 € читаємо zwei Euro fünfzig. Числа не є новими окремими дієсловами чи відмінками.
+zwanzig=двадцять;dreißig=тридцять;hundert=сто;tausend=тисяча;kosten=коштувати;der Euro=євро;der Cent=цент;der Mensch=людина
+Das kostet ~zwanzig~ Euro.|Це коштує двадцять євро.
+Das Buch kostet ~einundzwanzig~ Euro.|Книжка коштує двадцять один євро.
+Ich habe ~dreißig~ Euro.|Я маю тридцять євро.
+Das kostet ~fünfzig~ Cent.|Це коштує п’ятдесят центів.
+Wir haben ~hundert~ Bücher.|Ми маємо сто книжок.
+Hier sind ~tausend~ Menschen.|Тут тисяча людей.
+Das kostet zwei Euro ~fünfzig~.|Це коштує два євро п’ятдесят центів.
+Wie viel ~kostet~ das?|Скільки це коштує?
+@@38
+Час: um acht Uhr, um halb neun означає о 8:30 — половина до дев’ятої. Дні й дати: am Montag, am ersten Mai. Порядкові числа до 19 переважно мають -te, від 20 — -ste; особливі erste, dritte, siebte, achte. Для дня народження запам’ятовуємо am … Geburtstag haben.
+die Uhr=година / годинник;halb=половина до наступної години;der Montag=понеділок;der Mai=травень;der Geburtstag=день народження;der Termin=запланована зустріч
+Ich komme ~um~ acht Uhr.|Я прийду о восьмій годині.
+Wir kommen um ~halb~ neun.|Ми прийдемо о пів на дев’яту.
+Ich arbeite ~am~ Montag.|Я працюю в понеділок.
+Der Termin ist am ~ersten~ Mai.|Зустріч першого травня.
+Ich habe am ~dritten~ Mai Geburtstag.|Мій день народження третього травня.
+Heute ist der ~zwanzigste~ Mai.|Сьогодні двадцяте травня.
+Es ist ~Viertel~ nach acht.|Зараз чверть на дев’яту.
+Wann hast du ~Geburtstag~?|Коли в тебе день народження?
+@@39
+На питання wo? просторові in, an, auf, unter, über, vor, hinter, neben, zwischen тут уживаються з Dativ. im = in dem, am = an dem. Важлива локація, а не відсутність руху: Ich laufe im Park описує біг усередині парку й теж має Dativ.
+in=в / у;auf=на (поверхні);unter=під;neben=поруч із;der Park=парк;die Wand=стіна;stehen=стояти;liegen=лежати;laufen=бігати;hängen=вішати / висіти
+Das Buch liegt auf ~dem~ Tisch.|Книжка лежить на столі.
+Die Katze ist unter ~dem~ Stuhl.|Кішка під стільцем.
+Ich bin ~im~ Park.|Я в парку.
+Das Bild hängt an ~der~ Wand.|Картина висить на стіні.
+Wir stehen vor ~der~ Schule.|Ми стоїмо перед школою.
+Der Hund ist neben ~dem~ Kind.|Собака поруч із дитиною.
+Ich laufe ~im~ Park.|Я бігаю в парку.
+Die Tasche liegt auf ~dem~ Stuhl.|Сумка лежить на стільці.
+@@40
+На питання wohin? ці самі просторові прийменники потребують Akkusativ, коли задають ціль розташування: auf den Tisch, in die Schule. ins = in das. stellen означає ставити, legen — класти; порівнюємо з stehen/liegen з попереднього уроку.
+stellen=ставити;legen=класти;hängen=вішати / висіти;das Zimmer=кімната;der Garten=сад;die Wand=стіна
+Ich lege das Buch auf ~den~ Tisch.|Я кладу книжку на стіл.
+Du stellst den Stuhl in ~das~ Zimmer.|Ти ставиш стілець у кімнату.
+Wir gehen in ~den~ Park.|Ми йдемо в парк.
+Sie geht in ~die~ Schule.|Вона заходить до школи.
+Ich hänge das Bild an ~die~ Wand.|Я вішаю картину на стіну.
+Die Katze geht unter ~den~ Tisch.|Кішка йде під стіл.
+Er geht ~ins~ Zimmer.|Він заходить у кімнату.
+Wir gehen in ~den~ Garten.|Ми йдемо в сад.
+@@41
+zu Hause — вдома, nach Hause — додому. До міста їдемо nach Berlin, до людини йдемо zu meinem Freund; в Україну — in die Ukraine. Маршрут можна пояснити готовими напрямками. Norden — північ, Süden — південь, Osten — схід, Westen — захід; не плутаємо останні два.
+links=ліворуч;rechts=праворуч;geradeaus=прямо;der Norden=північ;der Süden=південь;der Osten=схід;der Westen=захід;der Bahnhof=вокзал
+Ich bin ~zu~ Hause.|Я вдома.
+Ich gehe ~nach~ Hause.|Я йду додому.
+Wir fahren ~nach~ Berlin.|Ми їдемо до Берліна.
+Sie fährt in ~die~ Ukraine.|Вона їде в Україну.
+Gehen Sie ~geradeaus~!|Ідіть прямо (ввічливо)!
+Gehen Sie nach ~links~!|Ідіть ліворуч (ввічливо)!
+Der Bahnhof ist ~rechts~.|Вокзал праворуч.
+Der ~Osten~ ist hier.|Схід у цьому напрямку.
+@@43
+У відокремлюваного дієслова префікс у звичайному головному реченні стоїть наприкінці: Ich stehe auf. У питанні теж відокремлюємо: Rufst du an? Після модального весь інфінітив залишається разом: Ich muss aufstehen. Значення вчимо разом із дієсловом.
+aufstehen=вставати;anrufen=телефонувати;einkaufen=робити покупки;aufmachen=відчиняти;mitkommen=йти разом;zurückkommen=повертатися
+Ich stehe früh ~auf~.|Я встаю рано.
+Du rufst mich ~an~.|Ти телефонуєш мені.
+Wir kaufen heute ~ein~.|Ми сьогодні робимо покупки.
+Sie macht die Tür ~auf~.|Вона відчиняє двері.
+Kommst du ~mit~?|Ти йдеш із нами?
+Er kommt morgen ~zurück~.|Він повертається завтра.
+Ich muss früh ~aufstehen~.|Я мушу рано вставати.
+Kannst du mich ~anrufen~?|Ти можеш мені зателефонувати?
+@@44
+be-, emp-, ent-, er-, ge-, miss-, ver-, zer- — типові невідокремлювані префікси. Вони залишаються з дієсловом у реченні; форми з -ieren теж не розділяємо. Не вгадуємо все значення за префіксом: verstehen та besuchen вчимо як цілі слова. Їхній Perfekt буде після знайомства з Partizip II.
+verstehen=розуміти;besuchen=відвідувати;erklären=пояснювати;bezahlen=оплачувати;telefonieren=розмовляти телефоном;studieren=навчатися у виші;das Wort=слово
+Ich ~verstehe~ dich.|Я розумію тебе.
+~Verstehst~ du mich?|Ти мене розумієш?
+Wir ~besuchen~ unsere Freunde.|Ми відвідуємо своїх друзів.
+Sie ~erklärt~ das Wort.|Вона пояснює слово.
+Ich ~bezahle~ die Rechnung.|Я оплачую рахунок.
+Du ~telefonierst~ heute.|Ти сьогодні розмовляєш телефоном.
+Er ~studiert~ in Berlin.|Він навчається у виші в Берліні.
+Wir können das ~erklären~.|Ми можемо це пояснити.
+@@45
+У зворотних конструкціях займенник стосується підмета: ich mich, du dich, er/sie/es sich, wir uns, ihr euch, sie/Sie sich. У Ich wasche mir die Hände прямим додатком уже є die Hände, тому mir — Dativ. Учимо зворот разом із керуванням: sich mit jemandem treffen.
+sich treffen=зустрічатися;sich freuen=радіти;sich waschen=митися;die Hand=рука / кисть;die Hände=руки / кисті
+Ich freue ~mich~.|Я радію.
+Du wäschst ~dich~.|Ти миєшся.
+Er freut ~sich~.|Він радіє.
+Wir treffen ~uns~ heute.|Ми зустрічаємося сьогодні.
+Ihr freut ~euch~.|Ви (кілька людей) радієте.
+Sie waschen ~sich~.|Вони миються.
+Ich wasche ~mir~ die Hände.|Я мию собі руки.
+Ich treffe ~mich~ mit meinem Freund.|Я зустрічаюся зі своїм другом.
+@@46
+Частоту передають immer, oft, manchmal, selten, nie. Для звичного часу доби — morgens, abends; для кожного дня — jeden Tag. Якщо обставина відкриває речення, дієслово все одно друге. Розповідаємо день послідовно: zuerst, dann, danach.
+immer=завжди;oft=часто;manchmal=іноді;selten=рідко;nie=ніколи;morgens=вранці (звично);abends=увечері (звично);zuerst=спочатку;danach=після цього
+Morgens stehe ich früh ~auf~.|Вранці я рано встаю.
+Ich trinke ~oft~ Tee.|Я часто п’ю чай.
+Manchmal ~lese~ ich abends.|Іноді я читаю ввечері.
+Wir spielen ~jeden~ Tag.|Ми граємо щодня.
+Sie kommt ~immer~ früh.|Вона завжди приходить рано.
+Ich rauche ~nie~.|Я ніколи не курю.
+Zuerst ~lerne~ ich Deutsch.|Спочатку я вивчаю німецьку.
+Danach ~kaufe~ ich ein.|Після цього я роблю покупки.
+@@47
+Домовляємося про місце й час знайомими питаннями та модальними дієсловами. um — точний час, am — день; bei dir — у тебе, mit dir — з тобою. Згода, відмова й інша пропозиція повинні бути зрозумілими з контексту. Діалогові репліки можна читати парами згори вниз.
+sich treffen=зустрічатися;passen=підходити;leider=на жаль;gern=залюбки;morgen=завтра;der Samstag=субота
+Wann können wir ~uns~ treffen?|Коли ми можемо зустрітися?
+Wir können uns ~morgen~ treffen.|Ми можемо зустрітися завтра.
+Hast du ~am~ Samstag Zeit?|У тебе є час у суботу?
+Ja, ich habe ~Zeit~.|Так, я маю час.
+Treffen wir uns ~um~ acht Uhr?|Зустрінемося о восьмій годині?
+Das ~passt~ gut.|Це добре підходить.
+Leider kann ich ~nicht~ kommen.|На жаль, я не можу прийти.
+Ich rufe dich morgen ~an~.|Я зателефоную тобі завтра.

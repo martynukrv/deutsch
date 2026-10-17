@@ -3,7 +3,7 @@ const{chromium}=require('playwright'),{pathToFileURL}=require('url'),path=requir
 await p.evaluate(()=>{profileStorage.removeItem(DEUTSCH_REVIEW.key);profileStorage.removeItem(vqStatsKey());profileStorage.removeItem('deutsch16_lessons_v1');
  if(flatStages().length!==18||lessonGroups.length!==5||lessonRules.length!==18||lessonExtra.length!==18)throw Error('Expanded lesson program incomplete');
  const labels=[...document.querySelectorAll('#learningPath .path-copy b')].map(el=>el.textContent);if(labels.some((s,n)=>!s.startsWith((n+1)+'. ')))throw Error('Lesson numbering resets');
- const phrases=DEUTSCH_LEARNING_PHRASES;if(phrases.length!==494||new Set(phrases.map(p=>p.id)).size!==494)throw Error('Permanent phrase IDs missing');
+ const phrases=DEUTSCH_LEARNING_PHRASES;if(phrases.length<494||new Set(phrases.map(p=>p.id)).size!==phrases.length)throw Error('Permanent phrase IDs missing');
  for(let n=0;n<18;n++){openLesson(n);if(!tasks.length||!lessonRules[n][2]||!document.getElementById('lessonTitle').textContent)throw Error('Lesson missing practice or rule '+n);for(const t of lessonTasks(n)){if(!DEUTSCH_REVIEW.resolve([t.de,t.ua]))throw Error('Unbound phrase '+t.de);const tokens=words(t);if(tokens.length!==t.opts.length||tokens.some((w,i)=>!t.opts[i].some(x=>same(x,w))))throw Error('Invalid phrase options '+t.de)}}
  if(lessonTasks(4).some(t=>!/(heute|morgen|hier|dort|jetzt)/i.test(t.de))||lessonTasks(9).some(t=>! /^(Was|Wo|Wann|Wie|Warum|Wer) /.test(t.de)))throw Error('Topic routing mixed unrelated questions');
  for(const [n,count,types] of [[6,36,1],[7,72,2],[11,108,3]]){
@@ -32,5 +32,5 @@ await p.locator('#mic').click();await p.evaluate(()=>{const r=lessonRecognition,
 if(!await p.evaluate(()=>wrongCount===0&&!locked&&DEUTSCH_REVIEW.snapshot().known.size===0))throw Error('Unconfirmed lesson speech penalized profile');
 await p.getByRole('button',{name:'Підтвердити помилку'}).click();if(!await p.evaluate(()=>wrongCount===1&&Object.values(DEUTSCH_REVIEW.snapshot().data.cards)[0].type==='speak'))throw Error('Confirmed speech did not schedule pronunciation');
 await p.evaluate(()=>newSession());await p.locator('#mic').click();await p.evaluate(()=>{const r=lessonRecognition,oldResult=r.onresult,oldEnd=r.onend;openLesson(17);const result=[{transcript:'late',confidence:1}];result.isFinal=true;oldResult({resultIndex:0,results:[result]});oldEnd();if(!r.aborted||selectedLesson!==17||wrongCount!==0||locked)throw Error('Late lesson recognition changed new exercise')});
-if(errors.length)throw Error(errors.join('; '));console.log('PASS 18 numbered lessons, topic-specific tasks, 494 stable phrases, per-skill scheduling, first-attempt grading, saved lesson completion/continue, timer isolation and profile boundaries');
+if(errors.length)throw Error(errors.join('; '));console.log('PASS 18 numbered lessons, topic-specific tasks, preserved legacy phrases plus authored course registry, per-skill scheduling, first-attempt grading, saved lesson completion/continue, timer isolation and profile boundaries');
 }finally{await b.close()}})().catch(e=>{console.error(e);process.exit(1)});

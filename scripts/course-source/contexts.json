@@ -1,0 +1,445 @@
+{
+  "6": {
+    "sentences": [
+      "Ich bin Mia.",
+      "Ich bin hier.",
+      "Ich lerne Deutsch.",
+      "Ich habe Zeit."
+    ],
+    "questions": [
+      {
+        "prompt": "Як звати людину в тексті?",
+        "answer": "Міа",
+        "options": [
+          "Міа",
+          "Роман",
+          "Олексій"
+        ]
+      },
+      {
+        "prompt": "Що вона вивчає?",
+        "answer": "Німецьку",
+        "options": [
+          "Німецьку",
+          "Французьку",
+          "Математику"
+        ]
+      },
+      {
+        "prompt": "Чи має вона час?",
+        "answer": "Так",
+        "options": [
+          "Так",
+          "Ні",
+          "У тексті не сказано"
+        ]
+      }
+    ]
+  },
+  "12": {
+    "sentences": [
+      "Ich heiße Mia.",
+      "Ich wohne in Berlin.",
+      "Heute habe ich Zeit.",
+      "Morgen arbeite ich nicht."
+    ],
+    "questions": [
+      {
+        "prompt": "Де мешкає Міа?",
+        "answer": "У Берліні",
+        "options": [
+          "У Берліні",
+          "У Києві",
+          "У тексті не сказано"
+        ]
+      },
+      {
+        "prompt": "Коли вона має час?",
+        "answer": "Сьогодні",
+        "options": [
+          "Сьогодні",
+          "Завтра",
+          "Учора"
+        ]
+      },
+      {
+        "prompt": "Чи працює вона завтра?",
+        "answer": "Ні",
+        "options": [
+          "Ні",
+          "Так",
+          "У тексті не сказано"
+        ]
+      }
+    ]
+  },
+  "18": {
+    "sentences": [
+      "Das ist meine Familie.",
+      "Mein Vater ist Lehrer.",
+      "Meine Mutter ist hier.",
+      "Unsere Katze ist weiß."
+    ],
+    "questions": [
+      {
+        "prompt": "Ким працює батько?",
+        "answer": "Учителем",
+        "options": [
+          "Учителем",
+          "Лікарем",
+          "У тексті не сказано"
+        ]
+      },
+      {
+        "prompt": "Якого кольору кішка?",
+        "answer": "Біла",
+        "options": [
+          "Біла",
+          "Чорна",
+          "Руда"
+        ]
+      },
+      {
+        "prompt": "Де мама?",
+        "answer": "Тут",
+        "options": [
+          "Тут",
+          "Там",
+          "У тексті не сказано"
+        ]
+      }
+    ]
+  },
+  "24": {
+    "sentences": [
+      "Ich nehme einen Tee.",
+      "Ich trinke gern Tee.",
+      "Meine Freundin nimmt Wasser."
+    ],
+    "questions": [
+      {
+        "prompt": "Що замовляє оповідач?",
+        "answer": "Чай",
+        "options": [
+          "Чай",
+          "Каву",
+          "Молоко"
+        ]
+      },
+      {
+        "prompt": "Що бере подруга?",
+        "answer": "Воду",
+        "options": [
+          "Воду",
+          "Каву",
+          "Чай"
+        ]
+      },
+      {
+        "prompt": "Який напій подобається оповідачеві?",
+        "answer": "Чай",
+        "options": [
+          "Чай",
+          "Кава",
+          "У тексті не сказано"
+        ]
+      }
+    ]
+  },
+  "30": {
+    "sentences": [
+      "Ich möchte Deutsch lernen.",
+      "Heute muss ich arbeiten.",
+      "Morgen kann ich lernen.",
+      "Du kannst lernen."
+    ],
+    "questions": [
+      {
+        "prompt": "Що оповідач мусить робити сьогодні?",
+        "answer": "Працювати",
+        "options": [
+          "Працювати",
+          "Танцювати",
+          "Подорожувати"
+        ]
+      },
+      {
+        "prompt": "Коли він може вчитися?",
+        "answer": "Завтра",
+        "options": [
+          "Завтра",
+          "Учора",
+          "Зараз"
+        ]
+      },
+      {
+        "prompt": "Чого він хоче навчитися?",
+        "answer": "Німецької",
+        "options": [
+          "Німецької",
+          "Плавати",
+          "У тексті не сказано"
+        ]
+      }
+    ]
+  },
+  "36": {
+    "sentences": [
+      "Ich habe ein Geschenk für meinen Vater.",
+      "Das ist ein Buch.",
+      "Mein Vater liest gern.",
+      "Ich gebe ihm das Buch."
+    ],
+    "questions": [
+      {
+        "prompt": "Для кого подарунок?",
+        "answer": "Для батька",
+        "options": [
+          "Для батька",
+          "Для матері",
+          "Для подруги"
+        ]
+      },
+      {
+        "prompt": "Що дарують?",
+        "answer": "Книжку",
+        "options": [
+          "Книжку",
+          "М’яч",
+          "Сумку"
+        ]
+      },
+      {
+        "prompt": "Що любить робити батько?",
+        "answer": "Читати",
+        "options": [
+          "Читати",
+          "Співати",
+          "Грати"
+        ]
+      }
+    ]
+  },
+  "42": {
+    "sentences": [
+      "Ich komme am Montag.",
+      "Ich komme um acht Uhr.",
+      "Der Bahnhof ist rechts.",
+      "Das Café ist neben dem Bahnhof."
+    ],
+    "questions": [
+      {
+        "prompt": "Якого дня приходить оповідач?",
+        "answer": "У понеділок",
+        "options": [
+          "У понеділок",
+          "У суботу",
+          "У п’ятницю"
+        ]
+      },
+      {
+        "prompt": "О котрій приходить оповідач?",
+        "answer": "О восьмій",
+        "options": [
+          "О восьмій",
+          "О дев’ятій",
+          "О пів на дев’яту"
+        ]
+      },
+      {
+        "prompt": "Де кафе?",
+        "answer": "Поруч із вокзалом",
+        "options": [
+          "Поруч із вокзалом",
+          "У школі",
+          "За парком"
+        ]
+      }
+    ]
+  },
+  "48": {
+    "sentences": [
+      "Morgens stehe ich um sieben Uhr auf.",
+      "Dann lerne ich Deutsch.",
+      "Danach kaufe ich ein.",
+      "Abends rufe ich meine Freundin an."
+    ],
+    "questions": [
+      {
+        "prompt": "О котрій оповідач встає?",
+        "answer": "О сьомій",
+        "options": [
+          "О сьомій",
+          "О восьмій",
+          "О дев’ятій"
+        ]
+      },
+      {
+        "prompt": "Що він робить після навчання?",
+        "answer": "Робить покупки",
+        "options": [
+          "Робить покупки",
+          "Спить",
+          "Іде до школи"
+        ]
+      },
+      {
+        "prompt": "Кому він телефонує ввечері?",
+        "answer": "Подрузі",
+        "options": [
+          "Подрузі",
+          "Батькові",
+          "Лікареві"
+        ]
+      }
+    ]
+  },
+  "55": {
+    "sentences": [
+      "Gestern bin ich früh aufgestanden.",
+      "Ich habe Deutsch gelernt.",
+      "Danach habe ich meine Freundin besucht.",
+      "Wir sind im Park geblieben."
+    ],
+    "questions": [
+      {
+        "prompt": "Коли відбулися події?",
+        "answer": "Учора",
+        "options": [
+          "Учора",
+          "Завтра",
+          "Щотижня"
+        ]
+      },
+      {
+        "prompt": "Кого відвідав оповідач?",
+        "answer": "Подругу",
+        "options": [
+          "Подругу",
+          "Лікаря",
+          "Учителя"
+        ]
+      },
+      {
+        "prompt": "Де вони залишилися?",
+        "answer": "У парку",
+        "options": [
+          "У парку",
+          "У школі",
+          "У кафе"
+        ]
+      }
+    ]
+  },
+  "62": {
+    "sentences": [
+      "Ich lerne Deutsch, weil ich in Berlin wohne.",
+      "Heute bin ich müde.",
+      "Deshalb bleibe ich zu Hause.",
+      "Wenn ich Zeit habe, rufe ich meine Freundin an."
+    ],
+    "questions": [
+      {
+        "prompt": "Чому оповідач вивчає німецьку?",
+        "answer": "Бо мешкає в Берліні",
+        "options": [
+          "Бо мешкає в Берліні",
+          "Бо завтра іспит",
+          "У тексті не сказано"
+        ]
+      },
+      {
+        "prompt": "Чому він залишається вдома?",
+        "answer": "Бо втомлений",
+        "options": [
+          "Бо втомлений",
+          "Бо йде дощ",
+          "Бо чекає лікаря"
+        ]
+      },
+      {
+        "prompt": "За якої умови він зателефонує подрузі?",
+        "answer": "Якщо матиме час",
+        "options": [
+          "Якщо матиме час",
+          "Якщо вона прийде",
+          "Якщо піде дощ"
+        ]
+      }
+    ]
+  },
+  "70": {
+    "sentences": [
+      "Ich habe ein kleines Auto.",
+      "Das Auto ist blau.",
+      "Meine Freundin hat ein größeres Auto.",
+      "Am liebsten fahre ich mit dem Zug."
+    ],
+    "questions": [
+      {
+        "prompt": "Якого кольору авто оповідача?",
+        "answer": "Синє",
+        "options": [
+          "Синє",
+          "Біле",
+          "Червоне"
+        ]
+      },
+      {
+        "prompt": "У кого більше авто?",
+        "answer": "У подруги",
+        "options": [
+          "У подруги",
+          "В оповідача",
+          "Вони однакові"
+        ]
+      },
+      {
+        "prompt": "Яким транспортом він найбільше любить їздити?",
+        "answer": "Поїздом",
+        "options": [
+          "Поїздом",
+          "Автомобілем",
+          "Автобусом"
+        ]
+      }
+    ]
+  },
+  "80": {
+    "sentences": [
+      "Ich heiße Mia und wohne in Berlin.",
+      "Gestern habe ich meine Freundin besucht.",
+      "Wir haben zusammen gekocht.",
+      "Morgen werde ich Deutsch lernen, weil ich hier arbeiten möchte."
+    ],
+    "questions": [
+      {
+        "prompt": "Що Міа робила з подругою?",
+        "answer": "Готувала їжу",
+        "options": [
+          "Готувала їжу",
+          "Купувала квитки",
+          "Читала книжку"
+        ]
+      },
+      {
+        "prompt": "Що вона планує на завтра?",
+        "answer": "Вивчати німецьку",
+        "options": [
+          "Вивчати німецьку",
+          "Їхати додому",
+          "Відвідувати лікаря"
+        ]
+      },
+      {
+        "prompt": "Навіщо вона вивчає німецьку?",
+        "answer": "Хоче тут працювати",
+        "options": [
+          "Хоче тут працювати",
+          "Хоче купити авто",
+          "У тексті не сказано"
+        ]
+      }
+    ]
+  }
+}

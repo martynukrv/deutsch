@@ -1,0 +1,212 @@
+@@2
+Особовий займенник показує, хто діє. ich — я, du — ти; er/sie/es — він/вона/воно; wir — ми, ihr — ви до кількох людей; sie — вони, Sie — ввічливе Ви. Ввічливе Sie завжди пишемо з великої літери; на початку речення значення визначає контекст. Тут упізнаємо займенники, без невивчених дієслів.
+ich=я;du=ти;er=він;sie=вона;es=воно;wir=ми;ihr=ви (кілька людей);sie=вони;Sie=Ви (ввічливо)
+~ich~|я
+~du~|ти
+~er~|він
+~sie~|вона
+~es~|воно
+~wir~|ми
+~ihr~|ви (кілька людей)
+~sie~|вони
+~Sie~|Ви (ввічливо)
+@@3
+У Präsens правильне дієслово узгоджується з особою: ich -e, du -st, er/sie/es -t, wir -en, ihr -t, sie/Sie -en. У простому твердженні підмет стоїть перед дієсловом. Починаємо з lernen, spielen, wohnen, fragen, machen; значення зіставляємо з прикладами.
+lernen=вчитися;spielen=грати;wohnen=мешкати;fragen=запитувати;machen=робити;hier=тут
+Ich ~lerne~.|Я вчуся.
+Du ~lernst~.|Ти вчишся.
+Er ~spielt~.|Він грає.
+Sie ~spielt~.|Вона грає.
+Es ~spielt~.|Воно грає.
+Wir ~wohnen~ hier.|Ми мешкаємо тут.
+Ihr ~fragt~.|Ви (кілька людей) запитуєте.
+Sie ~lernen~.|Вони вчаться.
+Sie ~fragen~.|Ви (ввічливо) запитуєте.
+@@4
+sein означає «бути»: ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind. Українською «є» часто пропускаємо. hier означає «тут», dort — «там»; bereit — «готовий/готова». Форму sein вчимо окремо.
+sein=бути;hier=тут;dort=там;bereit=готовий / готова
+Ich ~bin~ hier.|Я тут.
+Du ~bist~ dort.|Ти там.
+Er ~ist~ hier.|Він тут.
+Sie ~ist~ bereit.|Вона готова.
+Es ~ist~ hier.|Воно тут.
+Wir ~sind~ bereit.|Ми готові.
+Ihr ~seid~ hier.|Ви (кілька людей) тут.
+Sie ~sind~ dort.|Вони там.
+Sie ~sind~ bereit.|Ви (ввічливо) готові.
+@@5
+haben означає «мати»: ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie/Sie haben. Вивчаємо готові сполучення Zeit haben — мати час, Hunger haben — бути голодним, Durst haben — хотіти пити. Відмінки з предметами розберемо пізніше.
+haben=мати;die Zeit=час;der Hunger=голод;der Durst=спрага
+Ich ~habe~ Zeit.|Я маю час.
+Du ~hast~ Hunger.|Ти голодний / голодна.
+Er ~hat~ Durst.|Він хоче пити.
+Sie ~hat~ Zeit.|Вона має час.
+Wir ~haben~ Hunger.|Ми голодні.
+Ihr ~habt~ Durst.|Ви (кілька людей) хочете пити.
+Sie ~haben~ Zeit.|Вони мають час.
+Sie ~haben~ Hunger.|Ви (ввічливо) голодні.
+@@7
+У розповідному реченні відмінюване дієслово займає другу позицію. Якщо на початку heute або morgen, підмет стоїть після дієслова: Heute lerne ich. Позиція — це член речення, а не обов’язково одне слово. Präsens із morgen може описувати заплановане майбутнє.
+heute=сьогодні;morgen=завтра;jetzt=зараз;hier=тут;dort=там;Deutsch=німецька мова
+Heute ~lerne~ ich.|Сьогодні я вчуся.
+Morgen ~spielst~ du.|Завтра ти граєш.
+Jetzt ~lernen~ wir.|Зараз ми вчимося.
+Hier ~wohnt~ er.|Тут він мешкає.
+Dort ~spielt~ sie.|Там вона грає.
+Heute ~habe~ ich Zeit.|Сьогодні я маю час.
+Morgen ~sind~ wir hier.|Завтра ми тут.
+Ich ~lerne~ heute Deutsch.|Я сьогодні вивчаю німецьку.
+@@8
+nicht заперечує дію, стан або частину речення. У наших коротких реченнях з дією воно стоїть у кінці; перед ознакою чи місцем — безпосередньо перед ними: nicht bereit, nicht hier. Позиція залежить від змісту: правила «завжди одразу після дієслова» немає. У arbeiten між основою та -t з’являється -e: er arbeitet.
+nicht=не;arbeiten=працювати;tanzen=танцювати;singen=співати;bereit=готовий / готова
+Ich spiele ~nicht~.|Я не граю.
+Du lernst ~nicht~.|Ти не вчишся.
+Er arbeitet ~nicht~.|Він не працює.
+Sie singt ~nicht~.|Вона не співає.
+Wir tanzen ~nicht~.|Ми не танцюємо.
+Ihr seid ~nicht~ hier.|Ви (кілька людей) не тут.
+Ich bin ~nicht~ bereit.|Я не готовий / не готова.
+Heute arbeitet er ~nicht~.|Сьогодні він не працює.
+@@9
+У питанні з відповіддю «так / ні» відмінюване дієслово стоїть першим: Lernst du? Це стосується також sein і haben. Форму за особою зберігаємо; відповідь може бути короткою — ja або nein.
+ja=так;nein=ні;arbeiten=працювати;lernen=вчитися;spielen=грати
+~Lernst~ du?|Ти вчишся?
+~Spielt~ er?|Він грає?
+~Singt~ sie?|Вона співає?
+~Arbeiten~ wir heute?|Ми сьогодні працюємо?
+~Seid~ ihr bereit?|Ви (кілька людей) готові?
+~Bist~ du hier?|Ти тут?
+~Hat~ er Zeit?|Він має час?
+~Haben~ Sie Durst?|Ви (ввічливо) хочете пити?
+@@10
+Питальне слово відкриває питання; далі йдуть відмінюване дієслово та підмет: Wo wohnst du? Якщо wer сам є підметом, додаткове er/du не потрібне: Wer lernt? Вивчаємо також heißen — зватися і kommen — приходити.
+wer=хто;was=що;wo=де;wann=коли;wie=як;warum=чому;heißen=зватися;kommen=приходити
+~Wer~ lernt hier?|Хто тут вчиться?
+~Was~ machst du?|Що ти робиш?
+~Wo~ wohnst du?|Де ти мешкаєш?
+~Wann~ kommst du?|Коли ти приходиш?
+~Wie~ heißt du?|Як тебе звати?
+~Warum~ lernst du Deutsch?|Чому ти вивчаєш німецьку?
+~Wo~ seid ihr?|Де ви (кілька людей)?
+~Wann~ haben Sie Zeit?|Коли Ви (ввічливо) маєте час?
+@@11
+Знайомимося готовими моделями: Ich heiße …; Ich wohne in …; Ich komme aus …; Ich bin … Jahre alt. Професію після sein зазвичай називаємо без артикля. aus der Ukraine вчимо як цілий зворот до уроку про прийменники. Числа 0–20 доступні у словнику.
+heißen=зватися;wohnen=мешкати;kommen=приходити / приїжджати;der Schüler=учень;die Schülerin=учениця;das Jahr=рік;alt=старий / віком
+Ich ~heiße~ Roman.|Мене звати Роман.
+Ich ~heiße~ Oleksii.|Мене звати Олексій.
+Ich ~wohne~ in Kyjiw.|Я мешкаю в Києві.
+Ich ~komme~ aus der Ukraine.|Я з України.
+Ich ~bin~ zehn Jahre alt.|Мені десять років.
+Ich ~bin~ Schüler.|Я учень.
+Ich ~bin~ Schülerin.|Я учениця.
+Wie ~alt~ bist du?|Скільки тобі років?
+@@13
+Німецькі іменники пишемо з великої літери й вивчаємо з артиклем: der, die або das. Тут це Nominativ — називання предмета: Das ist der Tisch. Граматичний рід не завжди збігається з українським; артикль є частиною словникової картки.
+der Tisch=стіл;die Tür=двері;das Buch=книжка;der Stuhl=стілець;die Schule=школа;das Kind=дитина;der Hund=собака;die Katze=кішка
+Das ist ~der~ Tisch.|Це стіл (означений артикль).
+Das ist ~die~ Tür.|Це двері (означений артикль).
+Das ist ~das~ Buch.|Це книжка (означений артикль).
+Hier ist ~der~ Stuhl.|Тут стілець.
+Dort ist ~die~ Schule.|Там школа.
+Hier ist ~das~ Kind.|Тут дитина.
+Das ist ~der~ Hund.|Це собака (означений артикль).
+Das ist ~die~ Katze.|Це кішка (означений артикль).
+@@14
+Коли вперше називаємо один предмет, уживаємо ein для чоловічого/середнього роду і eine для жіночого. kein/keine заперечує такий іменник: Das ist kein Buch. Для ознаки після sein використовуємо nicht: Das ist nicht gut. У цьому уроці тільки Nominativ.
+ein=один / неозначений артикль;eine=одна / неозначений артикль;kein=жоден / не;keine=жодна / не;gut=добрий / добре
+Das ist ~ein~ Tisch.|Це стіл (неозначений артикль).
+Das ist ~eine~ Katze.|Це кішка (неозначений артикль).
+Das ist ~ein~ Buch.|Це книжка (неозначений артикль).
+Das ist ~kein~ Tisch.|Це не стіл.
+Das ist ~keine~ Schule.|Це не школа.
+Das ist ~kein~ Kind.|Це не дитина.
+Das ist ~keine~ Tür.|Це не двері.
+Das ist ~nicht~ gut.|Це недобре.
+@@15
+У множині означений артикль — die для всіх родів. Форму множини вчимо разом зі словом: das Buch — die Bücher. Одного універсального закінчення немає. Для множини після das уживаємо sind: Das sind Bücher. Неозначеного ein у множині немає.
+die Bücher=книжки;die Kinder=діти;die Tische=столи;die Stühle=стільці;die Türen=двері (множина);die Katzen=кішки;die Hunde=собаки;die Schulen=школи
+Das sind ~Bücher~.|Це книжки.
+Die ~Kinder~ spielen.|Діти грають.
+Hier sind die ~Tische~.|Тут столи.
+Dort sind die ~Stühle~.|Там стільці.
+Die ~Türen~ sind hier.|Двері тут.
+Die ~Katzen~ sind dort.|Кішки там.
+Die ~Hunde~ spielen.|Собаки грають.
+Die ~Schulen~ sind hier.|Школи тут.
+@@16
+Присвійне слово залежить від власника, а закінчення — від іменника: mein Buch, meine Katze. У Nominativ для чоловічого/середнього роду немає -e; для жіночого й множини є -e. sein — його, ihr — її або їхній; Ihr — Ваш. euer дає eure перед потрібним закінченням.
+mein=мій;dein=твій;sein=його (присвійне);ihr=її / їхній;unser=наш;euer=ваш (кілька людей);Ihr=Ваш (ввічливо)
+Das ist ~mein~ Buch.|Це моя книжка.
+Das ist ~meine~ Katze.|Це моя кішка.
+Das ist ~dein~ Hund.|Це твій собака.
+Das ist ~seine~ Schule.|Це його школа.
+Das sind ~ihre~ Bücher.|Це її книжки.
+Das ist ~unser~ Tisch.|Це наш стіл.
+Das ist ~eure~ Katze.|Це ваша кішка (кілька людей).
+Ist das ~Ihr~ Buch?|Це Ваша книжка (ввічливо)?
+@@17
+Розповідаємо про сім’ю через знайомі sein, присвійні слова й вік. Після sein прикметник не отримує закінчення: Die Katze ist klein. Професію називаємо без артикля: Er ist Lehrer. Кольори й ознаки тут є новими словами, не новою відмінковою таблицею.
+die Mutter=мати;der Vater=батько;der Sohn=син;die Tochter=донька;der Lehrer=учитель;klein=маленький;groß=великий;weiß=білий
+Das ist meine ~Mutter~.|Це моя мама.
+Das ist mein ~Vater~.|Це мій тато.
+Mein Sohn ist ~zehn~ Jahre alt.|Моєму синові десять років.
+Meine Tochter ist ~klein~.|Моя донька маленька.
+Er ist ~Lehrer~.|Він учитель.
+Die Katze ist ~weiß~.|Кішка біла.
+Unser Hund ist ~groß~.|Наш собака великий.
+Meine Kinder ~lernen~ Deutsch.|Мої діти вивчають німецьку.
+@@19
+Akkusativ позначає прямий додаток після наших sehen, haben, suchen. Чоловічий рід змінює der/ein/kein на den/einen/keinen; жіночий і середній тут зберігають die/eine та das/ein. es gibt також потребує Akkusativ. Це правило не для кожного дієслова: керування вчимо зі словом.
+sehen=бачити;suchen=шукати;der Freund=друг;der Apfel=яблуко;der Kaffee=кава;es gibt=є / існує
+Ich sehe ~den~ Hund.|Я бачу собаку (означений артикль).
+Du hast ~einen~ Freund.|Ти маєш друга.
+Er sucht ~die~ Katze.|Він шукає кішку.
+Wir haben ~ein~ Buch.|Ми маємо книжку.
+Ich habe ~keinen~ Hund.|У мене немає собаки.
+Sie hat ~keine~ Katze.|У неї немає кішки.
+Hier gibt es ~einen~ Tisch.|Тут є стіл.
+Ich suche ~das~ Kind.|Я шукаю дитину.
+@@20
+Akkusativ-займенники замінюють додаток: ich → mich, du → dich, er → ihn, sie → sie, es → es, wir → uns, ihr → euch, sie/Sie → sie/Sie. За запитанням «кого?» впізнаємо об’єкт, але остаточно форму визначає німецьке дієслово чи прийменник.
+mich=мене;dich=тебе;ihn=його (додаток);uns=нас;euch=вас (кілька людей);suchen=шукати;kennen=знати / бути знайомим
+Du suchst ~mich~.|Ти шукаєш мене.
+Ich suche ~dich~.|Я шукаю тебе.
+Wir suchen ~ihn~.|Ми шукаємо його.
+Er kennt ~sie~.|Він знає її.
+Sie kennt ~uns~.|Вона знає нас.
+Ich suche ~euch~.|Я шукаю вас (кілька людей).
+Wir kennen ~sie~.|Ми знаємо їх.
+Ich kenne ~Sie~.|Я знаю Вас (ввічливо).
+@@21
+Деякі часті дієслова змінюють голосний у du та er/sie/es: essen → isst; lesen → liest; sehen → sieht; sprechen → spricht; nehmen → nimmt. wir/ihr/sie мають свої звичайні закінчення. Форми вчимо з прикладом, не застосовуємо одну зміну до всіх дієслів.
+essen=їсти;lesen=читати;sprechen=говорити;nehmen=брати;das Brot=хліб;der Tee=чай;das Wasser=вода
+Du ~isst~ Brot.|Ти їси хліб.
+Er ~liest~ ein Buch.|Він читає книжку.
+Sie ~sieht~ den Hund.|Вона бачить собаку.
+Du ~sprichst~ Deutsch.|Ти говориш німецькою.
+Er ~nimmt~ das Buch.|Він бере книжку.
+Wir ~essen~ Brot.|Ми їмо хліб.
+Ihr ~lest~ Bücher.|Ви (кілька людей) читаєте книжки.
+Sie ~nehmen~ Wasser.|Вони беруть воду.
+@@22
+mögen + іменник виражає вподобання: Ich mag Tee. gern додаємо до дії: Ich lese gern. Форми mögen: mag, magst, mag, mögen, mögt, mögen. möchten означає ввічливе бажання й буде далі. Для загальних назв їжі часто немає артикля.
+mögen=любити / подобатися;gern=охоче;die Musik=музика;der Sport=спорт;der Fisch=риба;das Gemüse=овочі
+Ich ~mag~ Tee.|Я люблю чай.
+Du ~magst~ Musik.|Ти любиш музику.
+Er ~mag~ Sport.|Він любить спорт.
+Wir ~mögen~ Gemüse.|Ми любимо овочі.
+Ihr ~mögt~ Fisch.|Ви (кілька людей) любите рибу.
+Ich lese ~gern~.|Я охоче читаю.
+Sie spielt ~gern~.|Вона охоче грає.
+Wir singen ~gern~.|Ми охоче співаємо.
+@@23
+У кафе поєднуємо знайомі питання, nehmen та Akkusativ. Ich nehme … — вибір замовлення, bitte — ввічливість. Загальні назви напоїв без кількості можуть бути без артикля; einen Kaffee означає одну порцію. Роль клієнта й роль працівника позначені в перекладі там, де потрібно.
+der Kaffee=кава;der Tee=чай;das Wasser=вода;die Milch=молоко;der Zucker=цукор;die Rechnung=рахунок;das Café=кафе
+Was ~nehmen~ Sie?|Що Ви замовляєте (ввічливо)?
+Ich nehme ~einen~ Kaffee.|Я візьму одну каву.
+Ich nehme ~einen~ Tee.|Я візьму один чай.
+Ich nehme ~Wasser~.|Я візьму воду.
+Trinken Sie ~Kaffee~?|Ви п’єте каву (ввічливо)?
+Ich trinke ~Tee~.|Я п’ю чай.
+Die Rechnung, ~bitte~.|Рахунок, будь ласка.
+~Danke~ schön!|Щиро дякую!

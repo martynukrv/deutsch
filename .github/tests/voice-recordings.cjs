@@ -12,7 +12,7 @@ const fs=require('fs'),path=require('path');
    if(entries.length!==453||Object.keys(window.DEUTSCH_RECORDED_AUDIO||{}).length!==453)throw Error('Wrong recorded clip count');
    for(const c of vocabCategories)for(const w of c.words)if(!recordedAudioFiles(w[0]))throw Error('Dictionary still uses browser voice: '+w[0]);
    for(const v of verbConjugations)for(const form of v.forms)if(recordedAudioFiles(form)?.length!==1)throw Error('Verb form has no recorded clip: '+form);
-   for(const phrase of window.DEUTSCH_LEARNING_PHRASES)if(!recordedAudioFiles(phrase.de))throw Error('Lesson phrase still uses browser voice: '+phrase.de);
+   for(const phrase of window.DEUTSCH_LEARNING_PHRASES){const recorded=recordedAudioFiles(phrase.de),pending=window.DEUTSCH_COURSE_AUDIO?.missing.some(x=>audioKey(x.text)===audioKey(phrase.de));if(!recorded&&(!phrase.courseV2||!pending))throw Error('Untracked missing lesson recording: '+phrase.de)}
    for(const t of generatedVerbTasks(1))if(recordedAudioFiles(t.de)?.length!==1)throw Error('Full phrase has no recorded clip: '+t.de);
    const paths=entries.map(e=>{const files=recordedAudioFiles(e.text);if(files?.length!==1||!files[0].startsWith('audio/'+e.batch+'/'))throw Error('Wrong exact recording binding: '+e.id);return files[0]});
    if(new Set(paths).size!==453)throw Error('Reused or missing voice clip');
@@ -21,6 +21,6 @@ const fs=require('fs'),path=require('path');
    await Promise.all(Array.from({length:8},worker));return {loaded,words:vocabCategories.reduce((n,c)=>n+c.words.length,0),combinations:generatedVerbTasks(1).length};
   },entries);
   if(result.loaded!==453||result.words!==282||result.combinations!==342)throw Error(JSON.stringify(result));
-  console.log('PASS 453 exact recorded bindings (409 original + 44 lesson phrases) and playable MP3s, 282 dictionary entries, all 494 lesson phrase variants, all 342 pronoun–verb tasks and every conjugated word',process.env.ART_SITE_URL||'local');
+  console.log('PASS 453 exact recorded bindings (409 original + 44 lesson phrases) and playable MP3s, 282 dictionary entries, all legacy recordings preserved; new course missing clips explicitly audited, all 342 pronoun–verb tasks and every conjugated word',process.env.ART_SITE_URL||'local');
  }finally{await browser.close()}
 })().catch(e=>{console.error(e);process.exit(1)});
