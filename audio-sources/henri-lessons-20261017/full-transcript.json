@@ -1,0 +1,1354 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.78,
+    "text": " Wie heißt du?",
+    "words": [
+      {
+        "word": " Wie",
+        "start": 0.0,
+        "end": 0.22,
+        "probability": 0.6826958060264587
+      },
+      {
+        "word": " heißt",
+        "start": 0.22,
+        "end": 0.54,
+        "probability": 0.6952090859413147
+      },
+      {
+        "word": " du?",
+        "start": 0.54,
+        "end": 0.78,
+        "probability": 0.9404696226119995
+      }
+    ]
+  },
+  {
+    "start": 1.84,
+    "end": 3.06,
+    "text": " Warum lernst du Deutsch?",
+    "words": [
+      {
+        "word": " Warum",
+        "start": 1.84,
+        "end": 2.22,
+        "probability": 0.7775819301605225
+      },
+      {
+        "word": " lernst",
+        "start": 2.22,
+        "end": 2.62,
+        "probability": 0.9832840164502462
+      },
+      {
+        "word": " du",
+        "start": 2.62,
+        "end": 2.76,
+        "probability": 0.9889442920684814
+      },
+      {
+        "word": " Deutsch?",
+        "start": 2.76,
+        "end": 3.06,
+        "probability": 0.9570428729057312
+      }
+    ]
+  },
+  {
+    "start": 4.12,
+    "end": 5.3,
+    "text": " Das ist der Tisch.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 4.12,
+        "end": 4.44,
+        "probability": 0.9721747040748596
+      },
+      {
+        "word": " ist",
+        "start": 4.44,
+        "end": 4.74,
+        "probability": 0.9956725835800171
+      },
+      {
+        "word": " der",
+        "start": 4.74,
+        "end": 4.92,
+        "probability": 0.9772552847862244
+      },
+      {
+        "word": " Tisch.",
+        "start": 4.92,
+        "end": 5.3,
+        "probability": 0.9835683107376099
+      }
+    ]
+  },
+  {
+    "start": 6.2,
+    "end": 7.46,
+    "text": " Das ist die Lampe.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 6.2,
+        "end": 6.6,
+        "probability": 0.9910598397254944
+      },
+      {
+        "word": " ist",
+        "start": 6.6,
+        "end": 6.9,
+        "probability": 0.9967932105064392
+      },
+      {
+        "word": " die",
+        "start": 6.9,
+        "end": 7.08,
+        "probability": 0.9937194585800171
+      },
+      {
+        "word": " Lampe.",
+        "start": 7.08,
+        "end": 7.46,
+        "probability": 0.9838428795337677
+      }
+    ]
+  },
+  {
+    "start": 8.42,
+    "end": 9.52,
+    "text": " Das ist das Buch.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 8.42,
+        "end": 8.72,
+        "probability": 0.996539831161499
+      },
+      {
+        "word": " ist",
+        "start": 8.72,
+        "end": 9.0,
+        "probability": 0.9971394538879395
+      },
+      {
+        "word": " das",
+        "start": 9.0,
+        "end": 9.2,
+        "probability": 0.9987030029296875
+      },
+      {
+        "word": " Buch.",
+        "start": 9.2,
+        "end": 9.52,
+        "probability": 0.976484477519989
+      }
+    ]
+  },
+  {
+    "start": 10.44,
+    "end": 11.76,
+    "text": " Das ist der Stuhl.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 10.44,
+        "end": 10.78,
+        "probability": 0.9980083107948303
+      },
+      {
+        "word": " ist",
+        "start": 10.78,
+        "end": 11.06,
+        "probability": 0.9983662962913513
+      },
+      {
+        "word": " der",
+        "start": 11.06,
+        "end": 11.24,
+        "probability": 0.9980598092079163
+      },
+      {
+        "word": " Stuhl.",
+        "start": 11.24,
+        "end": 11.76,
+        "probability": 0.9976692199707031
+      }
+    ]
+  },
+  {
+    "start": 12.56,
+    "end": 13.6,
+    "text": " Das ist die Tür.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 12.56,
+        "end": 12.84,
+        "probability": 0.9982811212539673
+      },
+      {
+        "word": " ist",
+        "start": 12.84,
+        "end": 13.12,
+        "probability": 0.9973829388618469
+      },
+      {
+        "word": " die",
+        "start": 13.12,
+        "end": 13.3,
+        "probability": 0.9993353486061096
+      },
+      {
+        "word": " Tür.",
+        "start": 13.3,
+        "end": 13.6,
+        "probability": 0.9985013008117676
+      }
+    ]
+  },
+  {
+    "start": 14.48,
+    "end": 15.8,
+    "text": " Das ist das Fenster.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 14.48,
+        "end": 14.86,
+        "probability": 0.998454213142395
+      },
+      {
+        "word": " ist",
+        "start": 14.86,
+        "end": 15.12,
+        "probability": 0.9979534149169922
+      },
+      {
+        "word": " das",
+        "start": 15.12,
+        "end": 15.3,
+        "probability": 0.9993312358856201
+      },
+      {
+        "word": " Fenster.",
+        "start": 15.3,
+        "end": 15.8,
+        "probability": 0.9983672797679901
+      }
+    ]
+  },
+  {
+    "start": 16.7,
+    "end": 17.8,
+    "text": " Das ist der Hund.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 16.7,
+        "end": 17.08,
+        "probability": 0.9982072114944458
+      },
+      {
+        "word": " ist",
+        "start": 17.08,
+        "end": 17.36,
+        "probability": 0.9983969330787659
+      },
+      {
+        "word": " der",
+        "start": 17.36,
+        "end": 17.54,
+        "probability": 0.9984014630317688
+      },
+      {
+        "word": " Hund.",
+        "start": 17.54,
+        "end": 17.8,
+        "probability": 0.9870997667312622
+      }
+    ]
+  },
+  {
+    "start": 18.68,
+    "end": 19.98,
+    "text": " Das ist die Katze.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 18.68,
+        "end": 19.06,
+        "probability": 0.9984473586082458
+      },
+      {
+        "word": " ist",
+        "start": 19.06,
+        "end": 19.36,
+        "probability": 0.9965071082115173
+      },
+      {
+        "word": " die",
+        "start": 19.36,
+        "end": 19.54,
+        "probability": 0.998205304145813
+      },
+      {
+        "word": " Katze.",
+        "start": 19.54,
+        "end": 19.98,
+        "probability": 0.9936230778694153
+      }
+    ]
+  },
+  {
+    "start": 20.88,
+    "end": 21.92,
+    "text": " Das ist ein Tisch.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 20.88,
+        "end": 21.12,
+        "probability": 0.9979193806648254
+      },
+      {
+        "word": " ist",
+        "start": 21.12,
+        "end": 21.44,
+        "probability": 0.9977155923843384
+      },
+      {
+        "word": " ein",
+        "start": 21.44,
+        "end": 21.64,
+        "probability": 0.9988382458686829
+      },
+      {
+        "word": " Tisch.",
+        "start": 21.64,
+        "end": 21.92,
+        "probability": 0.980066180229187
+      }
+    ]
+  },
+  {
+    "start": 22.74,
+    "end": 24.04,
+    "text": " Das ist eine Lampe.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 22.74,
+        "end": 23.02,
+        "probability": 0.9983795881271362
+      },
+      {
+        "word": " ist",
+        "start": 23.02,
+        "end": 23.34,
+        "probability": 0.9980565905570984
+      },
+      {
+        "word": " eine",
+        "start": 23.34,
+        "end": 23.62,
+        "probability": 0.9981058835983276
+      },
+      {
+        "word": " Lampe.",
+        "start": 23.62,
+        "end": 24.04,
+        "probability": 0.9906099438667297
+      }
+    ]
+  },
+  {
+    "start": 24.78,
+    "end": 25.92,
+    "text": " Das ist ein Buch.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 24.78,
+        "end": 25.08,
+        "probability": 0.9980251789093018
+      },
+      {
+        "word": " ist",
+        "start": 25.08,
+        "end": 25.42,
+        "probability": 0.9974676370620728
+      },
+      {
+        "word": " ein",
+        "start": 25.42,
+        "end": 25.64,
+        "probability": 0.9993732571601868
+      },
+      {
+        "word": " Buch.",
+        "start": 25.64,
+        "end": 25.92,
+        "probability": 0.990006148815155
+      }
+    ]
+  },
+  {
+    "start": 26.78,
+    "end": 28.16,
+    "text": " Das ist ein Stuhl.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 26.78,
+        "end": 27.14,
+        "probability": 0.9978654980659485
+      },
+      {
+        "word": " ist",
+        "start": 27.14,
+        "end": 27.42,
+        "probability": 0.9980980753898621
+      },
+      {
+        "word": " ein",
+        "start": 27.42,
+        "end": 27.64,
+        "probability": 0.9989027976989746
+      },
+      {
+        "word": " Stuhl.",
+        "start": 27.64,
+        "end": 28.16,
+        "probability": 0.9995962778727213
+      }
+    ]
+  },
+  {
+    "start": 28.92,
+    "end": 30.14,
+    "text": " Das ist eine Tür.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 28.89,
+        "end": 29.22,
+        "probability": 0.6401654481887817
+      },
+      {
+        "word": " ist",
+        "start": 29.22,
+        "end": 29.52,
+        "probability": 0.988959789276123
+      },
+      {
+        "word": " eine",
+        "start": 29.52,
+        "end": 29.8,
+        "probability": 0.903992772102356
+      },
+      {
+        "word": " Tür.",
+        "start": 29.8,
+        "end": 30.14,
+        "probability": 0.9953799247741699
+      }
+    ]
+  },
+  {
+    "start": 30.94,
+    "end": 32.38,
+    "text": " Das ist ein Fenster.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 30.94,
+        "end": 31.38,
+        "probability": 0.9850629568099976
+      },
+      {
+        "word": " ist",
+        "start": 31.38,
+        "end": 31.68,
+        "probability": 0.9942691326141357
+      },
+      {
+        "word": " ein",
+        "start": 31.68,
+        "end": 31.86,
+        "probability": 0.9992944002151489
+      },
+      {
+        "word": " Fenster.",
+        "start": 31.86,
+        "end": 32.38,
+        "probability": 0.9989529252052307
+      }
+    ]
+  },
+  {
+    "start": 33.36,
+    "end": 34.32,
+    "text": " Das ist ein Hund.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 33.36,
+        "end": 33.54,
+        "probability": 0.9932985901832581
+      },
+      {
+        "word": " ist",
+        "start": 33.54,
+        "end": 33.84,
+        "probability": 0.9972487092018127
+      },
+      {
+        "word": " ein",
+        "start": 33.84,
+        "end": 34.06,
+        "probability": 0.9987668991088867
+      },
+      {
+        "word": " Hund.",
+        "start": 34.06,
+        "end": 34.32,
+        "probability": 0.9882292747497559
+      }
+    ]
+  },
+  {
+    "start": 35.24,
+    "end": 36.6,
+    "text": " Das ist eine Katze.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 35.24,
+        "end": 35.56,
+        "probability": 0.9965927004814148
+      },
+      {
+        "word": " ist",
+        "start": 35.56,
+        "end": 35.84,
+        "probability": 0.9976413249969482
+      },
+      {
+        "word": " eine",
+        "start": 35.84,
+        "end": 36.12,
+        "probability": 0.9967520236968994
+      },
+      {
+        "word": " Katze.",
+        "start": 36.12,
+        "end": 36.6,
+        "probability": 0.9939839243888855
+      }
+    ]
+  },
+  {
+    "start": 37.48,
+    "end": 38.62,
+    "text": " Das ist kein Tisch.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 37.48,
+        "end": 37.66,
+        "probability": 0.9966546297073364
+      },
+      {
+        "word": " ist",
+        "start": 37.66,
+        "end": 37.92,
+        "probability": 0.9964560866355896
+      },
+      {
+        "word": " kein",
+        "start": 37.92,
+        "end": 38.26,
+        "probability": 0.993413507938385
+      },
+      {
+        "word": " Tisch.",
+        "start": 38.26,
+        "end": 38.62,
+        "probability": 0.9474102258682251
+      }
+    ]
+  },
+  {
+    "start": 39.46,
+    "end": 40.8,
+    "text": " Das ist keine Lampe.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 39.46,
+        "end": 39.74,
+        "probability": 0.9972652196884155
+      },
+      {
+        "word": " ist",
+        "start": 39.74,
+        "end": 39.98,
+        "probability": 0.9968535304069519
+      },
+      {
+        "word": " keine",
+        "start": 39.98,
+        "end": 40.34,
+        "probability": 0.995732843875885
+      },
+      {
+        "word": " Lampe.",
+        "start": 40.34,
+        "end": 40.8,
+        "probability": 0.9901656210422516
+      }
+    ]
+  },
+  {
+    "start": 41.62,
+    "end": 42.8,
+    "text": " Das ist kein Buch.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 41.62,
+        "end": 41.88,
+        "probability": 0.995352029800415
+      },
+      {
+        "word": " ist",
+        "start": 41.88,
+        "end": 42.14,
+        "probability": 0.99713134765625
+      },
+      {
+        "word": " kein",
+        "start": 42.14,
+        "end": 42.46,
+        "probability": 0.9991414546966553
+      },
+      {
+        "word": " Buch.",
+        "start": 42.46,
+        "end": 42.8,
+        "probability": 0.9910915493965149
+      }
+    ]
+  },
+  {
+    "start": 43.76,
+    "end": 44.96,
+    "text": " Ich habe keinen Hund.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 43.76,
+        "end": 43.94,
+        "probability": 0.9659690856933594
+      },
+      {
+        "word": " habe",
+        "start": 43.94,
+        "end": 44.16,
+        "probability": 0.9957757592201233
+      },
+      {
+        "word": " keinen",
+        "start": 44.16,
+        "end": 44.56,
+        "probability": 0.9918935298919678
+      },
+      {
+        "word": " Hund.",
+        "start": 44.56,
+        "end": 44.96,
+        "probability": 0.992493212223053
+      }
+    ]
+  },
+  {
+    "start": 45.74,
+    "end": 47.14,
+    "text": " Du hast keine Katze.",
+    "words": [
+      {
+        "word": " Du",
+        "start": 45.74,
+        "end": 46.0,
+        "probability": 0.9871197938919067
+      },
+      {
+        "word": " hast",
+        "start": 46.0,
+        "end": 46.26,
+        "probability": 0.998394787311554
+      },
+      {
+        "word": " keine",
+        "start": 46.26,
+        "end": 46.64,
+        "probability": 0.9982556700706482
+      },
+      {
+        "word": " Katze.",
+        "start": 46.64,
+        "end": 47.14,
+        "probability": 0.9979334771633148
+      }
+    ]
+  },
+  {
+    "start": 48.02,
+    "end": 49.18,
+    "text": " Er hat kein Buch.",
+    "words": [
+      {
+        "word": " Er",
+        "start": 48.02,
+        "end": 48.24,
+        "probability": 0.9950078725814819
+      },
+      {
+        "word": " hat",
+        "start": 48.24,
+        "end": 48.52,
+        "probability": 0.9992719292640686
+      },
+      {
+        "word": " kein",
+        "start": 48.52,
+        "end": 48.84,
+        "probability": 0.9786984920501709
+      },
+      {
+        "word": " Buch.",
+        "start": 48.84,
+        "end": 49.18,
+        "probability": 0.9987536668777466
+      }
+    ]
+  },
+  {
+    "start": 50.12,
+    "end": 51.32,
+    "text": " Wir haben keine Zeit.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 50.12,
+        "end": 50.28,
+        "probability": 0.9953558444976807
+      },
+      {
+        "word": " haben",
+        "start": 50.28,
+        "end": 50.56,
+        "probability": 0.9995508790016174
+      },
+      {
+        "word": " keine",
+        "start": 50.56,
+        "end": 50.9,
+        "probability": 0.9988206028938293
+      },
+      {
+        "word": " Zeit.",
+        "start": 50.9,
+        "end": 51.32,
+        "probability": 0.999405026435852
+      }
+    ]
+  },
+  {
+    "start": 52.28,
+    "end": 53.44,
+    "text": " Sie hat kein Geld.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 52.28,
+        "end": 52.54,
+        "probability": 0.9968996047973633
+      },
+      {
+        "word": " hat",
+        "start": 52.54,
+        "end": 52.8,
+        "probability": 0.9981393814086914
+      },
+      {
+        "word": " kein",
+        "start": 52.8,
+        "end": 53.12,
+        "probability": 0.9993621706962585
+      },
+      {
+        "word": " Geld.",
+        "start": 53.12,
+        "end": 53.44,
+        "probability": 0.9990559220314026
+      }
+    ]
+  },
+  {
+    "start": 54.36,
+    "end": 55.76,
+    "text": " Das ist mein Buch.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 54.36,
+        "end": 54.74,
+        "probability": 0.9958782196044922
+      },
+      {
+        "word": " ist",
+        "start": 54.74,
+        "end": 55.04,
+        "probability": 0.9964154958724976
+      },
+      {
+        "word": " mein",
+        "start": 55.04,
+        "end": 55.4,
+        "probability": 0.9968485236167908
+      },
+      {
+        "word": " Buch.",
+        "start": 55.4,
+        "end": 55.76,
+        "probability": 0.9989976286888123
+      }
+    ]
+  },
+  {
+    "start": 56.48,
+    "end": 57.84,
+    "text": " Das ist meine Tasche.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 56.48,
+        "end": 56.86,
+        "probability": 0.9973338842391968
+      },
+      {
+        "word": " ist",
+        "start": 56.86,
+        "end": 57.12,
+        "probability": 0.9969402551651001
+      },
+      {
+        "word": " meine",
+        "start": 57.12,
+        "end": 57.4,
+        "probability": 0.9985608458518982
+      },
+      {
+        "word": " Tasche.",
+        "start": 57.4,
+        "end": 57.84,
+        "probability": 0.9976844191551208
+      }
+    ]
+  },
+  {
+    "start": 58.6,
+    "end": 60.12,
+    "text": " Das ist dein Stuhl.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 58.58,
+        "end": 58.92,
+        "probability": 0.451276570558548
+      },
+      {
+        "word": " ist",
+        "start": 58.92,
+        "end": 59.2,
+        "probability": 0.9745122194290161
+      },
+      {
+        "word": " dein",
+        "start": 59.2,
+        "end": 59.5,
+        "probability": 0.17296774685382843
+      },
+      {
+        "word": " Stuhl.",
+        "start": 59.5,
+        "end": 60.12,
+        "probability": 0.9853495359420776
+      }
+    ]
+  },
+  {
+    "start": 60.64,
+    "end": 62.18,
+    "text": " Das ist deine Lampe.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 60.64,
+        "end": 61.12,
+        "probability": 0.966977059841156
+      },
+      {
+        "word": " ist",
+        "start": 61.12,
+        "end": 61.4,
+        "probability": 0.9949677586555481
+      },
+      {
+        "word": " deine",
+        "start": 61.4,
+        "end": 61.74,
+        "probability": 0.7776913046836853
+      },
+      {
+        "word": " Lampe.",
+        "start": 61.74,
+        "end": 62.18,
+        "probability": 0.9836895167827606
+      }
+    ]
+  },
+  {
+    "start": 63.12,
+    "end": 64.26,
+    "text": " Das ist mein Hund.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 63.12,
+        "end": 63.28,
+        "probability": 0.9847100377082825
+      },
+      {
+        "word": " ist",
+        "start": 63.28,
+        "end": 63.6,
+        "probability": 0.9963453412055969
+      },
+      {
+        "word": " mein",
+        "start": 63.6,
+        "end": 63.94,
+        "probability": 0.9841402769088745
+      },
+      {
+        "word": " Hund.",
+        "start": 63.94,
+        "end": 64.26,
+        "probability": 0.9933385252952576
+      }
+    ]
+  },
+  {
+    "start": 65.18,
+    "end": 66.5,
+    "text": " Das ist meine Katze.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 65.18,
+        "end": 65.46,
+        "probability": 0.9971471428871155
+      },
+      {
+        "word": " ist",
+        "start": 65.46,
+        "end": 65.74,
+        "probability": 0.9965147376060486
+      },
+      {
+        "word": " meine",
+        "start": 65.74,
+        "end": 66.04,
+        "probability": 0.9974873065948486
+      },
+      {
+        "word": " Katze.",
+        "start": 66.04,
+        "end": 66.5,
+        "probability": 0.9964708387851715
+      }
+    ]
+  },
+  {
+    "start": 67.36,
+    "end": 68.7,
+    "text": " Das ist dein Fenster.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 67.36,
+        "end": 67.6,
+        "probability": 0.9969700574874878
+      },
+      {
+        "word": " ist",
+        "start": 67.6,
+        "end": 67.86,
+        "probability": 0.9949449896812439
+      },
+      {
+        "word": " dein",
+        "start": 67.86,
+        "end": 68.16,
+        "probability": 0.9823529124259949
+      },
+      {
+        "word": " Fenster.",
+        "start": 68.16,
+        "end": 68.7,
+        "probability": 0.9985899031162262
+      }
+    ]
+  },
+  {
+    "start": 69.56,
+    "end": 70.82,
+    "text": " Das ist deine Tür.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 69.56,
+        "end": 69.82,
+        "probability": 0.9936542510986328
+      },
+      {
+        "word": " ist",
+        "start": 69.82,
+        "end": 70.1,
+        "probability": 0.9959273934364319
+      },
+      {
+        "word": " deine",
+        "start": 70.1,
+        "end": 70.48,
+        "probability": 0.9908841252326965
+      },
+      {
+        "word": " Tür.",
+        "start": 70.48,
+        "end": 70.82,
+        "probability": 0.9976206421852112
+      }
+    ]
+  },
+  {
+    "start": 71.84,
+    "end": 72.96,
+    "text": " Ich kann Deutsch lernen.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 71.84,
+        "end": 71.98,
+        "probability": 0.901070237159729
+      },
+      {
+        "word": " kann",
+        "start": 71.98,
+        "end": 72.24,
+        "probability": 0.9939351677894592
+      },
+      {
+        "word": " Deutsch",
+        "start": 72.24,
+        "end": 72.6,
+        "probability": 0.9772031307220459
+      },
+      {
+        "word": " lernen.",
+        "start": 72.6,
+        "end": 72.96,
+        "probability": 0.9982535243034363
+      }
+    ]
+  },
+  {
+    "start": 73.82,
+    "end": 74.74,
+    "text": " Kannst du mir helfen?",
+    "words": [
+      {
+        "word": " Kannst",
+        "start": 73.82,
+        "end": 74.14,
+        "probability": 0.9867517650127411
+      },
+      {
+        "word": " du",
+        "start": 74.14,
+        "end": 74.26,
+        "probability": 0.9751729965209961
+      },
+      {
+        "word": " mir",
+        "start": 74.26,
+        "end": 74.4,
+        "probability": 0.9983338713645935
+      },
+      {
+        "word": " helfen?",
+        "start": 74.4,
+        "end": 74.74,
+        "probability": 0.9984898567199707
+      }
+    ]
+  },
+  {
+    "start": 75.6,
+    "end": 76.94,
+    "text": " Ich möchte Wasser trinken.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 75.6,
+        "end": 75.86,
+        "probability": 0.9864670634269714
+      },
+      {
+        "word": " möchte",
+        "start": 75.86,
+        "end": 76.18,
+        "probability": 0.9989326596260071
+      },
+      {
+        "word": " Wasser",
+        "start": 76.18,
+        "end": 76.46,
+        "probability": 0.9394133687019348
+      },
+      {
+        "word": " trinken.",
+        "start": 76.46,
+        "end": 76.94,
+        "probability": 0.9992052614688873
+      }
+    ]
+  },
+  {
+    "start": 77.8,
+    "end": 79.14,
+    "text": " Du möchtest Brot essen.",
+    "words": [
+      {
+        "word": " Du",
+        "start": 77.8,
+        "end": 78.02,
+        "probability": 0.9883927702903748
+      },
+      {
+        "word": " möchtest",
+        "start": 78.02,
+        "end": 78.48,
+        "probability": 0.9978593786557516
+      },
+      {
+        "word": " Brot",
+        "start": 78.48,
+        "end": 78.86,
+        "probability": 0.9829723536968231
+      },
+      {
+        "word": " essen.",
+        "start": 78.86,
+        "end": 79.14,
+        "probability": 0.9691952466964722
+      }
+    ]
+  },
+  {
+    "start": 80.06,
+    "end": 81.36,
+    "text": " Er möchte Deutsch lernen.",
+    "words": [
+      {
+        "word": " Er",
+        "start": 80.06,
+        "end": 80.26,
+        "probability": 0.9939687252044678
+      },
+      {
+        "word": " möchte",
+        "start": 80.26,
+        "end": 80.62,
+        "probability": 0.9942820072174072
+      },
+      {
+        "word": " Deutsch",
+        "start": 80.62,
+        "end": 81.02,
+        "probability": 0.9946298599243164
+      },
+      {
+        "word": " lernen.",
+        "start": 81.02,
+        "end": 81.36,
+        "probability": 0.9987357258796692
+      }
+    ]
+  },
+  {
+    "start": 82.32,
+    "end": 83.64,
+    "text": " Sie möchte heute spielen.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 82.32,
+        "end": 82.52,
+        "probability": 0.9965810179710388
+      },
+      {
+        "word": " möchte",
+        "start": 82.52,
+        "end": 82.94,
+        "probability": 0.9951817393302917
+      },
+      {
+        "word": " heute",
+        "start": 82.94,
+        "end": 83.2,
+        "probability": 0.9872796535491943
+      },
+      {
+        "word": " spielen.",
+        "start": 83.2,
+        "end": 83.64,
+        "probability": 0.9724006652832031
+      }
+    ]
+  },
+  {
+    "start": 84.62,
+    "end": 86.12,
+    "text": " Wir möchten hier wohnen.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 84.62,
+        "end": 84.9,
+        "probability": 0.992516815662384
+      },
+      {
+        "word": " möchten",
+        "start": 84.9,
+        "end": 85.32,
+        "probability": 0.9976227879524231
+      },
+      {
+        "word": " hier",
+        "start": 85.32,
+        "end": 85.62,
+        "probability": 0.9991911053657532
+      },
+      {
+        "word": " wohnen.",
+        "start": 85.62,
+        "end": 86.12,
+        "probability": 0.9962161978085836
+      }
+    ]
+  },
+  {
+    "start": 86.98,
+    "end": 87.82,
+    "text": " Ihr möchtet morgen.",
+    "words": [
+      {
+        "word": " Ihr",
+        "start": 86.98,
+        "end": 87.18,
+        "probability": 0.9795960187911987
+      },
+      {
+        "word": " möchtet",
+        "start": 87.18,
+        "end": 87.64,
+        "probability": 0.9972425301869711
+      },
+      {
+        "word": " morgen.",
+        "start": 87.64,
+        "end": 87.82,
+        "probability": 0.8714849948883057
+      }
+    ]
+  },
+  {
+    "start": 88.58000000000001,
+    "end": 90.8,
+    "text": " Sie möchten hier arbeiten.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 88.58000000000001,
+        "end": 89.44,
+        "probability": 0.6005744934082031
+      },
+      {
+        "word": " möchten",
+        "start": 89.44,
+        "end": 89.84,
+        "probability": 0.9910038709640503
+      },
+      {
+        "word": " hier",
+        "start": 89.84,
+        "end": 90.16,
+        "probability": 0.9943640232086182
+      },
+      {
+        "word": " arbeiten.",
+        "start": 90.16,
+        "end": 90.8,
+        "probability": 0.9968994855880737
+      }
+    ]
+  },
+  {
+    "start": 91.38,
+    "end": 92.94,
+    "text": " Möchtest du Wasser trinken?",
+    "words": [
+      {
+        "word": " Möchtest",
+        "start": 91.38,
+        "end": 92.1,
+        "probability": 0.9653774201869965
+      },
+      {
+        "word": " du",
+        "start": 92.1,
+        "end": 92.24,
+        "probability": 0.8738061189651489
+      },
+      {
+        "word": " Wasser",
+        "start": 92.24,
+        "end": 92.48,
+        "probability": 0.9263056516647339
+      },
+      {
+        "word": " trinken?",
+        "start": 92.48,
+        "end": 92.94,
+        "probability": 0.997800201177597
+      }
+    ]
+  }
+]

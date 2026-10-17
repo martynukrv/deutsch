@@ -1,5 +1,5 @@
 {
-  "count": 409,
+  "count": 453,
   "entries": [
     {
       "id": "rq001",
@@ -3271,6 +3271,358 @@
       "path": "audio/henri-20261017/rq409_sie_helfen_a16523b62dbe.mp3",
       "sha256": "a16523b62dbe14b54be139010af0122eb5840c309e38273e80e4be4dec0d418a",
       "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq001",
+      "text": "Wie heißt du?",
+      "path": "audio/henri-lessons-20261017/rq001_wie_heisst_du_2eee0ba8013f.mp3",
+      "sha256": "2eee0ba8013f60556b2c471fe70b28414cf0acb295ea35193ae41bca3274f2e5",
+      "duration": 1.018776,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq002",
+      "text": "Warum lernst du Deutsch?",
+      "path": "audio/henri-lessons-20261017/rq002_warum_lernst_du_deutsch_2d0e09e04dfb.mp3",
+      "sha256": "2d0e09e04dfb28567b02ed83d5cc5bc8747d58e2fe0da9a432a8fce08a19ed11",
+      "duration": 1.567347,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq003",
+      "text": "Das ist der Tisch.",
+      "path": "audio/henri-lessons-20261017/rq003_das_ist_der_tisch_d706897f13fa.mp3",
+      "sha256": "d706897f13fae31a4411f0a31411cb8509ed91218a5dcae723e852ab4cd5e0c8",
+      "duration": 1.436735,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq004",
+      "text": "Das ist die Lampe.",
+      "path": "audio/henri-lessons-20261017/rq004_das_ist_die_lampe_3ade377d83db.mp3",
+      "sha256": "3ade377d83db7029c9bb11d153cf7fb53a15d41b205918c21f5b29cb827c4165",
+      "duration": 1.436735,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq005",
+      "text": "Das ist das Buch.",
+      "path": "audio/henri-lessons-20261017/rq005_das_ist_das_buch_bda80b5f9a5b.mp3",
+      "sha256": "bda80b5f9a5b2d7ab86f4418ec1567decfd97de57b317b421b2e30f3ac84df51",
+      "duration": 1.436735,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq006",
+      "text": "Das ist der Stuhl.",
+      "path": "audio/henri-lessons-20261017/rq006_das_ist_der_stuhl_b13ba29b6509.mp3",
+      "sha256": "b13ba29b6509f1ace08d623d942fc1df4f18ca32641e98c4ff4a0a5a34f7e5c0",
+      "duration": 1.410612,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq007",
+      "text": "Das ist die Tür.",
+      "path": "audio/henri-lessons-20261017/rq007_das_ist_die_tur_9eccc4a7473b.mp3",
+      "sha256": "9eccc4a7473b90161cc0d1745e82627d09ea3999c2dbce2763db97552826a415",
+      "duration": 1.38449,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq008",
+      "text": "Das ist das Fenster.",
+      "path": "audio/henri-lessons-20261017/rq008_das_ist_das_fenster_f9bd3a63959f.mp3",
+      "sha256": "f9bd3a63959f5ccffc6cc22e032de0f99783d059e12d0a8eb18cc41f6f7e2a4c",
+      "duration": 1.567347,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq009",
+      "text": "Das ist der Hund.",
+      "path": "audio/henri-lessons-20261017/rq009_das_ist_der_hund_b91f2f6198d9.mp3",
+      "sha256": "b91f2f6198d99e24de5c5190b1f6c393f85fa4b2042282d82bf45211a3f302fe",
+      "duration": 1.436735,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq010",
+      "text": "Das ist die Katze.",
+      "path": "audio/henri-lessons-20261017/rq010_das_ist_die_katze_4ccb534980f8.mp3",
+      "sha256": "4ccb534980f8baea08077db041f0b1bd7888e3b025923f4f9fdfa04c6788c101",
+      "duration": 1.436735,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq011",
+      "text": "Das ist ein Tisch.",
+      "path": "audio/henri-lessons-20261017/rq011_das_ist_ein_tisch_d1e3e14594ed.mp3",
+      "sha256": "d1e3e14594ed0219b461739f092bb56ea76db3010c27cbfb9197d7fa191123f5",
+      "duration": 1.462857,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq012",
+      "text": "Das ist eine Lampe.",
+      "path": "audio/henri-lessons-20261017/rq012_das_ist_eine_lampe_c3c14918d60e.mp3",
+      "sha256": "c3c14918d60e8e6e8fa3d7974c81db527c8b0e0ca5e02befce12581bffb37a69",
+      "duration": 1.515102,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq013",
+      "text": "Das ist ein Buch.",
+      "path": "audio/henri-lessons-20261017/rq013_das_ist_ein_buch_f76399136463.mp3",
+      "sha256": "f76399136463dd9318ec9fcb946ef3b994f6dc217e6b4ad2bb8f4e7a8f540845",
+      "duration": 1.410612,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq014",
+      "text": "Das ist ein Stuhl.",
+      "path": "audio/henri-lessons-20261017/rq014_das_ist_ein_stuhl_b8863267fa74.mp3",
+      "sha256": "b8863267fa74fc0d4d26b56cdeb4ea05aca7c05615df9b00de61e97c44f28c29",
+      "duration": 1.462857,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq015",
+      "text": "Das ist eine Tür.",
+      "path": "audio/henri-lessons-20261017/rq015_das_ist_eine_tur_a5ec5fc87b5a.mp3",
+      "sha256": "a5ec5fc87b5aed17717d1d41c44df407ca932a2d072b42f75f9479e56d5f7c74",
+      "duration": 1.515102,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq016",
+      "text": "Das ist ein Fenster.",
+      "path": "audio/henri-lessons-20261017/rq016_das_ist_ein_fenster_fcea71b52330.mp3",
+      "sha256": "fcea71b523309185fbac0c6c2b98f737010338f1f3db1c56179e149ab8eb37b2",
+      "duration": 1.567347,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq017",
+      "text": "Das ist ein Hund.",
+      "path": "audio/henri-lessons-20261017/rq017_das_ist_ein_hund_7880cf73904c.mp3",
+      "sha256": "7880cf73904cf3983b6278aed0dfa378272451f6f392bf09cce27eb9ca5f1f4d",
+      "duration": 1.410612,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq018",
+      "text": "Das ist eine Katze.",
+      "path": "audio/henri-lessons-20261017/rq018_das_ist_eine_katze_99450b9b1339.mp3",
+      "sha256": "99450b9b1339b0ea3669f5927a8c64727898f3e525287bfbea07aecc908b7983",
+      "duration": 1.541224,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq019",
+      "text": "Das ist kein Tisch.",
+      "path": "audio/henri-lessons-20261017/rq019_das_ist_kein_tisch_23f9db3ff8e9.mp3",
+      "sha256": "23f9db3ff8e9c403bc122ec43ee84754958dc567893c791c54203e05f668c7fe",
+      "duration": 1.567347,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq020",
+      "text": "Das ist keine Lampe.",
+      "path": "audio/henri-lessons-20261017/rq020_das_ist_keine_lampe_72d0cc2874d8.mp3",
+      "sha256": "72d0cc2874d8da9832eb85848766ac8209acf57c19cea10b65ec5ef955335034",
+      "duration": 1.567347,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq021",
+      "text": "Das ist kein Buch.",
+      "path": "audio/henri-lessons-20261017/rq021_das_ist_kein_buch_24def3f7c0e2.mp3",
+      "sha256": "24def3f7c0e21caad719b86459ac95bdd601487909bb9c4507cef6e0e7af21a9",
+      "duration": 1.515102,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq022",
+      "text": "Ich habe keinen Hund.",
+      "path": "audio/henri-lessons-20261017/rq022_ich_habe_keinen_hund_c4269338c625.mp3",
+      "sha256": "c4269338c6252a1c05b150c7f463630810d583ef04885cdd557b7fd74cedf83b",
+      "duration": 1.541224,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq023",
+      "text": "Du hast keine Katze.",
+      "path": "audio/henri-lessons-20261017/rq023_du_hast_keine_katze_620953cdc6f2.mp3",
+      "sha256": "620953cdc6f20d94d65e46cab9f1bfb73a2e058fdebdd56a8f168a595eb977f0",
+      "duration": 1.567347,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq024",
+      "text": "Er hat kein Buch.",
+      "path": "audio/henri-lessons-20261017/rq024_er_hat_kein_buch_724ace6b8280.mp3",
+      "sha256": "724ace6b82806326396831fe1b2b71f294c88f9f9ddcc35a0cb1fe6101e5ffea",
+      "duration": 1.567347,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq025",
+      "text": "Wir haben keine Zeit.",
+      "path": "audio/henri-lessons-20261017/rq025_wir_haben_keine_zeit_63719fc05017.mp3",
+      "sha256": "63719fc050178d7056e2115096e71aa9ce71fd4ddf13c36063cb82cb8d3ebc9c",
+      "duration": 1.619592,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq026",
+      "text": "Sie hat kein Geld.",
+      "path": "audio/henri-lessons-20261017/rq026_sie_hat_kein_geld_eebb06d4ef7a.mp3",
+      "sha256": "eebb06d4ef7ad7d3d939ef9f3222805f1f70a0dfe74dfb6fd20cb8d6bf5cb7b7",
+      "duration": 1.567347,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq027",
+      "text": "Das ist mein Buch.",
+      "path": "audio/henri-lessons-20261017/rq027_das_ist_mein_buch_974b55513b3b.mp3",
+      "sha256": "974b55513b3bf61ff60c90057f1117e4c31ddb811f04891b1c34247406de93c8",
+      "duration": 1.541224,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq028",
+      "text": "Das ist meine Tasche.",
+      "path": "audio/henri-lessons-20261017/rq028_das_ist_meine_tasche_bc39dd1d9287.mp3",
+      "sha256": "bc39dd1d9287c7a31eb2da805788ec5327a860e06f07c944175ee647d48e7857",
+      "duration": 1.48898,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq029",
+      "text": "Das ist dein Stuhl.",
+      "path": "audio/henri-lessons-20261017/rq029_das_ist_dein_stuhl_32b0a39740be.mp3",
+      "sha256": "32b0a39740be97d36520e59f605e8d83d9026f94f6a2814720413b790cae96b7",
+      "duration": 1.593469,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq030",
+      "text": "Das ist deine Lampe.",
+      "path": "audio/henri-lessons-20261017/rq030_das_ist_deine_lampe_f763be0f048b.mp3",
+      "sha256": "f763be0f048bbf428517f0f1a8309597c62407bc814164bb06931109ef1fb31e",
+      "duration": 1.567347,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq031",
+      "text": "Das ist mein Hund.",
+      "path": "audio/henri-lessons-20261017/rq031_das_ist_mein_hund_d6ba342149f7.mp3",
+      "sha256": "d6ba342149f710f765c34e7de772d10641cc1f07f55f93e51336858ee8bba130",
+      "duration": 1.567347,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq032",
+      "text": "Das ist meine Katze.",
+      "path": "audio/henri-lessons-20261017/rq032_das_ist_meine_katze_7e9720bf01b6.mp3",
+      "sha256": "7e9720bf01b6fa53aa6e69e7412f2a5eebdc10ca1c9f97eaa14bad528cd31cf8",
+      "duration": 1.541224,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq033",
+      "text": "Das ist dein Fenster.",
+      "path": "audio/henri-lessons-20261017/rq033_das_ist_dein_fenster_5af6ee0d5ed3.mp3",
+      "sha256": "5af6ee0d5ed3dbac0fd17ea53d53a7291c1f0562cbd11c0d4ad31f07f8b64fce",
+      "duration": 1.671837,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq034",
+      "text": "Das ist deine Tür.",
+      "path": "audio/henri-lessons-20261017/rq034_das_ist_deine_tur_712b3eded915.mp3",
+      "sha256": "712b3eded915664029ecf35d4128de858368ea59d2160570cf7c5012cb7900ba",
+      "duration": 1.541224,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq035",
+      "text": "Ich kann Deutsch lernen.",
+      "path": "audio/henri-lessons-20261017/rq035_ich_kann_deutsch_lernen_b59285c9bde6.mp3",
+      "sha256": "b59285c9bde6887798f5d5870265424490e8f5af746a659a12a20465c2963b90",
+      "duration": 1.48898,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq036",
+      "text": "Kannst du mir helfen?",
+      "path": "audio/henri-lessons-20261017/rq036_kannst_du_mir_helfen_068e4ab22427.mp3",
+      "sha256": "068e4ab2242709ced8b06e4084b005e2515ca00f8fb50385fe8350ca91cb6e09",
+      "duration": 1.253878,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq037",
+      "text": "Ich möchte Wasser trinken.",
+      "path": "audio/henri-lessons-20261017/rq037_ich_mochte_wasser_trinken_8866d6a99c38.mp3",
+      "sha256": "8866d6a99c3850c709744213e612bffa0d89a3263e32af50bad9f3cf4379a809",
+      "duration": 1.593469,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq038",
+      "text": "Du möchtest Brot essen.",
+      "path": "audio/henri-lessons-20261017/rq038_du_mochtest_brot_essen_f69fbd237c62.mp3",
+      "sha256": "f69fbd237c62bde4ad68138404c55e7f2c6f90c0bf0efdcecde96b75810ede5a",
+      "duration": 1.619592,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq039",
+      "text": "Er möchte Deutsch lernen.",
+      "path": "audio/henri-lessons-20261017/rq039_er_mochte_deutsch_lernen_1b6735e983fb.mp3",
+      "sha256": "1b6735e983fb2e7af277e59ccc8b2e51f18c6262ca74a557f58f99517e6d4d2a",
+      "duration": 1.645714,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq040",
+      "text": "Sie möchte heute spielen.",
+      "path": "audio/henri-lessons-20261017/rq040_sie_mochte_heute_spielen_3e845290d2e5.mp3",
+      "sha256": "3e845290d2e55d3b97d43a535b5aa7f84d93f7e95c329135309257e95c20348f",
+      "duration": 1.776327,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq041",
+      "text": "Wir möchten hier wohnen.",
+      "path": "audio/henri-lessons-20261017/rq041_wir_mochten_hier_wohnen_f1d63adb5083.mp3",
+      "sha256": "f1d63adb5083fc35d073090e424a93dad774f422dcac3e19637bc8ad8aa134de",
+      "duration": 1.724082,
+      "verification": "exact-full"
+    },
+    {
+      "id": "rq042",
+      "text": "Ihr möchtet morgen kommen.",
+      "path": "audio/henri-lessons-20261017/rq042_ihr_mochtet_morgen_kommen_854abbc1d4e9.mp3",
+      "sha256": "854abbc1d4e90bb78a8b96f41caa5da3341efd8b82a7325a264e1913be73d636",
+      "duration": 1.645714,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq043",
+      "text": "Sie möchten hier arbeiten.",
+      "path": "audio/henri-lessons-20261017/rq043_sie_mochten_hier_arbeiten_b7eedd80922a.mp3",
+      "sha256": "b7eedd80922ad60c355ab3fa7d6b066c8f061baf6c6fdb57e61500b1688a065f",
+      "duration": 1.854694,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "rq044",
+      "text": "Möchtest du Wasser trinken?",
+      "path": "audio/henri-lessons-20261017/rq044_mochtest_du_wasser_trinken_e33bcc567971.mp3",
+      "sha256": "e33bcc56797129b0c507f7864292f63ffbb647616ee6e77e2dde4bf2b5622cad",
+      "duration": 1.567347,
       "verification": "exact-full"
     }
   ]

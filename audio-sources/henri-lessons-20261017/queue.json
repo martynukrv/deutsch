@@ -1,0 +1,224 @@
+{
+  "entries": [
+    {
+      "id": "rq001",
+      "text": "Wie heißt du?",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq002",
+      "text": "Warum lernst du Deutsch?",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq003",
+      "text": "Das ist der Tisch.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq004",
+      "text": "Das ist die Lampe.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq005",
+      "text": "Das ist das Buch.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq006",
+      "text": "Das ist der Stuhl.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq007",
+      "text": "Das ist die Tür.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq008",
+      "text": "Das ist das Fenster.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq009",
+      "text": "Das ist der Hund.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq010",
+      "text": "Das ist die Katze.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq011",
+      "text": "Das ist ein Tisch.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq012",
+      "text": "Das ist eine Lampe.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq013",
+      "text": "Das ist ein Buch.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq014",
+      "text": "Das ist ein Stuhl.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq015",
+      "text": "Das ist eine Tür.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq016",
+      "text": "Das ist ein Fenster.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq017",
+      "text": "Das ist ein Hund.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq018",
+      "text": "Das ist eine Katze.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq019",
+      "text": "Das ist kein Tisch.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq020",
+      "text": "Das ist keine Lampe.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq021",
+      "text": "Das ist kein Buch.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq022",
+      "text": "Ich habe keinen Hund.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq023",
+      "text": "Du hast keine Katze.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq024",
+      "text": "Er hat kein Buch.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq025",
+      "text": "Wir haben keine Zeit.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq026",
+      "text": "Sie hat kein Geld.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq027",
+      "text": "Das ist mein Buch.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq028",
+      "text": "Das ist meine Tasche.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq029",
+      "text": "Das ist dein Stuhl.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq030",
+      "text": "Das ist deine Lampe.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq031",
+      "text": "Das ist mein Hund.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq032",
+      "text": "Das ist meine Katze.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq033",
+      "text": "Das ist dein Fenster.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq034",
+      "text": "Das ist deine Tür.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq035",
+      "text": "Ich kann Deutsch lernen.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq036",
+      "text": "Kannst du mir helfen?",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq037",
+      "text": "Ich möchte Wasser trinken.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq038",
+      "text": "Du möchtest Brot essen.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq039",
+      "text": "Er möchte Deutsch lernen.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq040",
+      "text": "Sie möchte heute spielen.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq041",
+      "text": "Wir möchten hier wohnen.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq042",
+      "text": "Ihr möchtet morgen kommen.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq043",
+      "text": "Sie möchten hier arbeiten.",
+      "kind": "lesson-phrase"
+    },
+    {
+      "id": "rq044",
+      "text": "Möchtest du Wasser trinken?",
+      "kind": "lesson-phrase"
+    }
+  ]
+}

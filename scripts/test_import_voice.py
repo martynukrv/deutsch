@@ -18,7 +18,9 @@ class VoiceImportTests(unittest.TestCase):
         data = json.loads(p.read_text()); callback(data); p.write_text(json.dumps(data))
     def test_original_clip_bytes(self):
         pending, bindings, report = collect(self.root)
-        self.assertEqual((len(pending), len(bindings), len(report)), (409, 409, 409))
+        self.assertEqual((len(pending), len(bindings), len(report)), (453, 453, 453))
+        self.assertEqual(sum(dest.startswith('audio/henri-20261017/') for dest in pending), 409)
+        self.assertEqual(sum(dest.startswith('audio/henri-lessons-20261017/') for dest in pending), 44)
         main(self.root)
         for dest, raw in pending.items():
             self.assertEqual(raw, (self.root / dest).read_bytes())
