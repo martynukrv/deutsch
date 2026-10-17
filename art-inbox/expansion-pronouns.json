@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "pronouns",
+  "approved": true,
+  "items": [
+    {
+      "de": "etwas",
+      "ua": "щось",
+      "file": "exp_01.png"
+    },
+    {
+      "de": "nichts",
+      "ua": "нічого",
+      "file": "exp_02.png"
+    },
+    {
+      "de": "jeder",
+      "ua": "кожен",
+      "file": "exp_03.png"
+    }
+  ]
+}

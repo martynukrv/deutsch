@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "questions",
+  "approved": true,
+  "items": [
+    {
+      "de": "wie lange",
+      "ua": "як довго",
+      "file": "exp_34.png"
+    },
+    {
+      "de": "wie oft",
+      "ua": "як часто",
+      "file": "exp_35.png"
+    },
+    {
+      "de": "welche",
+      "ua": "які",
+      "file": "exp_36.png"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "verbs",
+  "approved": true,
+  "items": [
+    {
+      "de": "öffnen",
+      "ua": "відчиняти",
+      "file": "exp_04.png"
+    },
+    {
+      "de": "schließen",
+      "ua": "зачиняти",
+      "file": "exp_05.png"
+    },
+    {
+      "de": "helfen",
+      "ua": "допомагати",
+      "file": "exp_06.png"
+    }
+  ]
+}

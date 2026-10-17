@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "animals",
+  "approved": true,
+  "items": [
+    {
+      "de": "die Ente",
+      "ua": "качка",
+      "file": "exp_43.png"
+    },
+    {
+      "de": "das Schaf",
+      "ua": "вівця",
+      "file": "exp_44.png"
+    },
+    {
+      "de": "der Elefant",
+      "ua": "слон",
+      "file": "exp_45.png"
+    }
+  ]
+}

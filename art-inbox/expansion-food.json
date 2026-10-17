@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "food",
+  "approved": true,
+  "items": [
+    {
+      "de": "die Kartoffel",
+      "ua": "картопля",
+      "file": "exp_22.png"
+    },
+    {
+      "de": "die Tomate",
+      "ua": "помідор",
+      "file": "exp_23.png"
+    },
+    {
+      "de": "die Suppe",
+      "ua": "суп",
+      "file": "exp_24.png"
+    }
+  ]
+}

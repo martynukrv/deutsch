@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "category": "clothes",
+  "approved": true,
+  "items": [
+    {
+      "de": "das T-Shirt",
+      "ua": "футболка",
+      "file": "exp_49.png"
+    },
+    {
+      "de": "die Hose",
+      "ua": "штани",
+      "file": "exp_50.png"
+    },
+    {
+      "de": "das Kleid",
+      "ua": "сукня",
+      "file": "exp_51.png"
+    },
+    {
+      "de": "die Jacke",
+      "ua": "куртка",
+      "file": "exp_52.png"
+    },
+    {
+      "de": "der Schuh",
+      "ua": "черевик",
+      "file": "exp_53.png"
+    },
+    {
+      "de": "die Mütze",
+      "ua": "шапка",
+      "file": "exp_54.png"
+    },
+    {
+      "de": "der Schal",
+      "ua": "шарф",
+      "file": "exp_55.png"
+    }
+  ]
+}

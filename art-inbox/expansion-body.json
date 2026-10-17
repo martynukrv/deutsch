@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "body",
+  "approved": true,
+  "items": [
+    {
+      "de": "der Rücken",
+      "ua": "спина",
+      "file": "exp_40.png"
+    },
+    {
+      "de": "der Hals",
+      "ua": "шия",
+      "file": "exp_41.png"
+    },
+    {
+      "de": "der Zahn",
+      "ua": "зуб",
+      "file": "exp_42.png"
+    }
+  ]
+}

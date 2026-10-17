@@ -270,6 +270,564 @@
     "height": 390
   },
   {
+    "category": "animals",
+    "de": "die Ente",
+    "ua": "качка",
+    "path": "assets/illustrations/animals/exp_43.png",
+    "sha256": "2011d9aa8c2620af9c831423f30df1fd434b521c2d49170335c41639594df568",
+    "width": 290,
+    "height": 266
+  },
+  {
+    "category": "animals",
+    "de": "das Schaf",
+    "ua": "вівця",
+    "path": "assets/illustrations/animals/exp_44.png",
+    "sha256": "2582613a3f4461d607206c5d9702e952d81aed55a299508cc5e2b4ea7f119623",
+    "width": 366,
+    "height": 245
+  },
+  {
+    "category": "animals",
+    "de": "der Elefant",
+    "ua": "слон",
+    "path": "assets/illustrations/animals/exp_45.png",
+    "sha256": "ce31b579c764d09191f3de61cd5b9d20318fe3024188fbb8d4be308342579a58",
+    "width": 382,
+    "height": 292
+  },
+  {
+    "category": "body",
+    "de": "der Rücken",
+    "ua": "спина",
+    "path": "assets/illustrations/body/exp_40.png",
+    "sha256": "814cb510d51e08b3d048a7124bed1ef4d81dc6b9bc2141696115a0c13708cc7a",
+    "width": 263,
+    "height": 278
+  },
+  {
+    "category": "body",
+    "de": "der Hals",
+    "ua": "шия",
+    "path": "assets/illustrations/body/exp_41.png",
+    "sha256": "6ec5806ec8d4bdb94c6e63d625ed62e1960432543fed234a86bb0d065b6c8d93",
+    "width": 288,
+    "height": 258
+  },
+  {
+    "category": "body",
+    "de": "der Zahn",
+    "ua": "зуб",
+    "path": "assets/illustrations/body/exp_42.png",
+    "sha256": "20a536359612a82064441f6eb518fd30b88556a0352d9fd85abca7e4721a78d3",
+    "width": 296,
+    "height": 233
+  },
+  {
+    "category": "clothes",
+    "de": "das T-Shirt",
+    "ua": "футболка",
+    "path": "assets/illustrations/clothes/exp_49.png",
+    "sha256": "96215145c67fcaa6df076f65092533c1d7c84a9a43067b249ef6e38260438038",
+    "width": 318,
+    "height": 246
+  },
+  {
+    "category": "clothes",
+    "de": "die Hose",
+    "ua": "штани",
+    "path": "assets/illustrations/clothes/exp_50.png",
+    "sha256": "8f76c147a4a79c9ef54ed95bd40143c5aa2f89bcc442d8392d27d311ee55f86a",
+    "width": 265,
+    "height": 260
+  },
+  {
+    "category": "clothes",
+    "de": "das Kleid",
+    "ua": "сукня",
+    "path": "assets/illustrations/clothes/exp_51.png",
+    "sha256": "46a477a5e604f40fe4518acb4e1f158843a34e0f9086f4e9866bca4ec4fb4fe5",
+    "width": 282,
+    "height": 264
+  },
+  {
+    "category": "clothes",
+    "de": "die Jacke",
+    "ua": "куртка",
+    "path": "assets/illustrations/clothes/exp_52.png",
+    "sha256": "f49c81000bfb754126fbe1b8299bf6824c7c2df1cc3b40be846acea5d103ad99",
+    "width": 308,
+    "height": 263
+  },
+  {
+    "category": "clothes",
+    "de": "der Schuh",
+    "ua": "черевик",
+    "path": "assets/illustrations/clothes/exp_53.png",
+    "sha256": "a01833178767ce2ad0697e025f689291778d9a88a905a6eeba9bd451fe2b610b",
+    "width": 302,
+    "height": 218
+  },
+  {
+    "category": "clothes",
+    "de": "die Mütze",
+    "ua": "шапка",
+    "path": "assets/illustrations/clothes/exp_54.png",
+    "sha256": "f7cd2de5e0336849fe2f2e6f829a2df09ba18e278e764ace9b44a9f597e4c350",
+    "width": 278,
+    "height": 259
+  },
+  {
+    "category": "clothes",
+    "de": "der Schal",
+    "ua": "шарф",
+    "path": "assets/illustrations/clothes/exp_55.png",
+    "sha256": "c8859c10feb1c3d42f156cefed9a9e02b59a19c2d1792e3ba304597bc6daca14",
+    "width": 331,
+    "height": 289
+  },
+  {
+    "category": "colors",
+    "de": "hell",
+    "ua": "світлий",
+    "path": "assets/illustrations/colors/exp_07.png",
+    "sha256": "99a0c6c57870e96e5496fc4811b6ffb6fa9e6daed76933061ea3f0f6c718ac81",
+    "width": 317,
+    "height": 273
+  },
+  {
+    "category": "colors",
+    "de": "dunkel",
+    "ua": "темний",
+    "path": "assets/illustrations/colors/exp_08.png",
+    "sha256": "1e2cf0cf50aa9dd051b980941346e461b89ab3db5e60d07dd6d92e10165e823b",
+    "width": 316,
+    "height": 274
+  },
+  {
+    "category": "colors",
+    "de": "bunt",
+    "ua": "різнобарвний",
+    "path": "assets/illustrations/colors/exp_09.png",
+    "sha256": "b0371c0fb96a51b8390a17badd590bd00e7133f970553ad8a5da6760240c8d60",
+    "width": 344,
+    "height": 260
+  },
+  {
+    "category": "family",
+    "de": "die Tante",
+    "ua": "тітка",
+    "path": "assets/illustrations/family/exp_16.png",
+    "sha256": "8994ddf785a9a4904bcfa03c6157058db031f784da6d15d73089df78b65c21a8",
+    "width": 330,
+    "height": 319
+  },
+  {
+    "category": "family",
+    "de": "der Onkel",
+    "ua": "дядько",
+    "path": "assets/illustrations/family/exp_17.png",
+    "sha256": "ffb8e5aa39a7afef8e39a826a332812d408b3d1f6852b89260bf8ac44af47883",
+    "width": 317,
+    "height": 295
+  },
+  {
+    "category": "family",
+    "de": "das Baby",
+    "ua": "немовля",
+    "path": "assets/illustrations/family/exp_18.png",
+    "sha256": "5f5d9347d547f527389fbe550e1dddff876a3b89f8954dc1d080a49727e1aa2d",
+    "width": 315,
+    "height": 279
+  },
+  {
+    "category": "food",
+    "de": "die Kartoffel",
+    "ua": "картопля",
+    "path": "assets/illustrations/food/exp_22.png",
+    "sha256": "1ab0793295da9d65218a236fc7ab8455466aee75f457cbbec1a3c448e2917a40",
+    "width": 360,
+    "height": 258
+  },
+  {
+    "category": "food",
+    "de": "die Tomate",
+    "ua": "помідор",
+    "path": "assets/illustrations/food/exp_23.png",
+    "sha256": "1b391abdf69003e3b282c359a868d6bd46b5e03622b45de30c4950499078d78b",
+    "width": 350,
+    "height": 253
+  },
+  {
+    "category": "food",
+    "de": "die Suppe",
+    "ua": "суп",
+    "path": "assets/illustrations/food/exp_24.png",
+    "sha256": "6c8067571eafe71e1a8a47565677604e00c8d90a161f9ba09f74e31a381cb95d",
+    "width": 334,
+    "height": 272
+  },
+  {
+    "category": "grammar",
+    "de": "weil",
+    "ua": "тому що",
+    "path": "assets/illustrations/grammar/exp_37.png",
+    "sha256": "341aa03088acaf76283b0f494817c123a2a438b7cbcb31b0ac9e7b7fb3227ac3",
+    "width": 321,
+    "height": 310
+  },
+  {
+    "category": "grammar",
+    "de": "mit",
+    "ua": "з / разом із",
+    "path": "assets/illustrations/grammar/exp_38.png",
+    "sha256": "e731650f6c5cf4bcac2805131751ad024fa75f6f2156432240ed1805d5680a7a",
+    "width": 376,
+    "height": 279
+  },
+  {
+    "category": "grammar",
+    "de": "ohne",
+    "ua": "без",
+    "path": "assets/illustrations/grammar/exp_39.png",
+    "sha256": "39e3fc82eaac9c8d1df43d70342dc59547e97b4313c10e747df9f7ff66925bf3",
+    "width": 433,
+    "height": 281
+  },
+  {
+    "category": "greetings",
+    "de": "Gute Nacht!",
+    "ua": "На добраніч!",
+    "path": "assets/illustrations/greetings/exp_14.png",
+    "sha256": "75b17781a759aad04bbeb028f9e36c6753b17665d0c2e5e0ccf7858d97d79df0",
+    "width": 356,
+    "height": 309
+  },
+  {
+    "category": "greetings",
+    "de": "Bis bald!",
+    "ua": "До скорої зустрічі!",
+    "path": "assets/illustrations/greetings/exp_15.png",
+    "sha256": "1ec2241c5cfe98c2b4a1a3f803e67d295088080834530ad0d1e50a57fcd4f8ed",
+    "width": 375,
+    "height": 295
+  },
+  {
+    "category": "home",
+    "de": "die Lampe",
+    "ua": "лампа",
+    "path": "assets/illustrations/home/exp_25.png",
+    "sha256": "df1e81465ad03ef183375bcedf80be47338cbb02c626da6d18ceec5d1fa5b74b",
+    "width": 287,
+    "height": 293
+  },
+  {
+    "category": "home",
+    "de": "das Sofa",
+    "ua": "диван",
+    "path": "assets/illustrations/home/exp_26.png",
+    "sha256": "cdbd26fa052d074b2f6653f1ff581aa6405b60944251f9ad0c918e5c64cde18d",
+    "width": 397,
+    "height": 251
+  },
+  {
+    "category": "home",
+    "de": "der Schrank",
+    "ua": "шафа",
+    "path": "assets/illustrations/home/exp_27.png",
+    "sha256": "597fe87295ca7600d40793977b6a7c9456811907594e9a67c79158c99fe17e8d",
+    "width": 359,
+    "height": 300
+  },
+  {
+    "category": "nature",
+    "de": "die Sonne",
+    "ua": "сонце",
+    "path": "assets/illustrations/nature/exp_56.png",
+    "sha256": "50b5b296e40c9e5f9409ffa03cc55695fd7048e46686bc8923e4083ceefce1c8",
+    "width": 311,
+    "height": 289
+  },
+  {
+    "category": "nature",
+    "de": "der Regen",
+    "ua": "дощ",
+    "path": "assets/illustrations/nature/exp_57.png",
+    "sha256": "26d1130c1f4e018c0f2f3d538d89b558a69f1f66825549e0919ca1d53805e676",
+    "width": 315,
+    "height": 278
+  },
+  {
+    "category": "nature",
+    "de": "der Schnee",
+    "ua": "сніг",
+    "path": "assets/illustrations/nature/exp_58.png",
+    "sha256": "b10f8b9ecb7b67c8de2122dc58a176b098ce9b1dcb59adccaa4615616e79d53d",
+    "width": 307,
+    "height": 275
+  },
+  {
+    "category": "nature",
+    "de": "der Wind",
+    "ua": "вітер",
+    "path": "assets/illustrations/nature/exp_59.png",
+    "sha256": "335118745ac862e57d1fdc450a50b416f5762a2b7816305403916dd2fa67c683",
+    "width": 356,
+    "height": 245
+  },
+  {
+    "category": "nature",
+    "de": "die Wolke",
+    "ua": "хмара",
+    "path": "assets/illustrations/nature/exp_60.png",
+    "sha256": "542a9723ceb1b57fd7a73a4e43fe81ad9c1ff09b21e52b1319854887c387cd0f",
+    "width": 315,
+    "height": 213
+  },
+  {
+    "category": "nature",
+    "de": "der Baum",
+    "ua": "дерево",
+    "path": "assets/illustrations/nature/exp_61.png",
+    "sha256": "ce0f3c7c63a4fa780bdc66ad81222988f9f3e655abb03498221f9f9d3992309f",
+    "width": 329,
+    "height": 297
+  },
+  {
+    "category": "nature",
+    "de": "die Blume",
+    "ua": "квітка",
+    "path": "assets/illustrations/nature/exp_62.png",
+    "sha256": "b8b6b1525fd37d50a675264a7a3824c2787d653fb86a480d6d32a90fab2256ec",
+    "width": 271,
+    "height": 298
+  },
+  {
+    "category": "numbers",
+    "de": "sechzig",
+    "ua": "60",
+    "path": "assets/illustrations/numbers/exp_10.png",
+    "sha256": "230fe4c0dd52481df8101a92c5dfff54929108f6a407e4c26ac6d3eba985f055",
+    "width": 363,
+    "height": 226
+  },
+  {
+    "category": "numbers",
+    "de": "siebzig",
+    "ua": "70",
+    "path": "assets/illustrations/numbers/exp_11.png",
+    "sha256": "62d70e9d228dec60bfca987a07018a9f0140ac3e728037423c154c048c199358",
+    "width": 354,
+    "height": 230
+  },
+  {
+    "category": "numbers",
+    "de": "achtzig",
+    "ua": "80",
+    "path": "assets/illustrations/numbers/exp_12.png",
+    "sha256": "46f4e6cb05b3040a8dcb6d38681b69b8219ce19bd24f718d533126c8723c2caa",
+    "width": 352,
+    "height": 228
+  },
+  {
+    "category": "numbers",
+    "de": "neunzig",
+    "ua": "90",
+    "path": "assets/illustrations/numbers/exp_13.png",
+    "sha256": "66569ae7b3e3b4a09d48b1bf205e7abe87251bcd3cf7bc91df290cf97cfb1a0d",
+    "width": 353,
+    "height": 248
+  },
+  {
+    "category": "people",
+    "de": "die Freundin",
+    "ua": "подруга",
+    "path": "assets/illustrations/people/exp_19.png",
+    "sha256": "41c29f4ee1138c2d4bc561eec96c100b9f88c24a0a418c9fb9b53b442c6c7475",
+    "width": 431,
+    "height": 281
+  },
+  {
+    "category": "people",
+    "de": "glücklich",
+    "ua": "щасливий",
+    "path": "assets/illustrations/people/exp_20.png",
+    "sha256": "cfb0af3d86bc4a93d74462f2ddc33d038e66c013a80ac3f9d3289989c1d99ed3",
+    "width": 307,
+    "height": 300
+  },
+  {
+    "category": "people",
+    "de": "müde",
+    "ua": "втомлений",
+    "path": "assets/illustrations/people/exp_21.png",
+    "sha256": "1b7ee759eebcccebabcdbdefc2b6c8f41e712f1e5963cea38c285abb17e289fd",
+    "width": 295,
+    "height": 278
+  },
+  {
+    "category": "places",
+    "de": "das Flugzeug",
+    "ua": "літак",
+    "path": "assets/illustrations/places/exp_46.png",
+    "sha256": "d045fb78f044976159c3d4ba9d52fa578b37fab1799743e9eb0403b226a52a82",
+    "width": 365,
+    "height": 226
+  },
+  {
+    "category": "places",
+    "de": "das Schiff",
+    "ua": "корабель",
+    "path": "assets/illustrations/places/exp_47.png",
+    "sha256": "fb6b29c34c8243561a283c12c57a27f5971fdfbb57fd331558e848ab100a535f",
+    "width": 428,
+    "height": 273
+  },
+  {
+    "category": "places",
+    "de": "die Haltestelle",
+    "ua": "зупинка",
+    "path": "assets/illustrations/places/exp_48.png",
+    "sha256": "8aa73877e65d736534bd8a733d3100630e4dc2c1ec4dac18d161501ed8ea850b",
+    "width": 297,
+    "height": 282
+  },
+  {
+    "category": "pronouns",
+    "de": "etwas",
+    "ua": "щось",
+    "path": "assets/illustrations/pronouns/exp_01.png",
+    "sha256": "518a562102788afd7eefdaf9c1d6dda8759d8741ba883674bed7ef318ad9b62e",
+    "width": 317,
+    "height": 287
+  },
+  {
+    "category": "pronouns",
+    "de": "nichts",
+    "ua": "нічого",
+    "path": "assets/illustrations/pronouns/exp_02.png",
+    "sha256": "f3f49d7ad1e3ef5ee2834ab74dfa841e6478a3ea510421f0f6fc6065c4e11f59",
+    "width": 341,
+    "height": 297
+  },
+  {
+    "category": "pronouns",
+    "de": "jeder",
+    "ua": "кожен",
+    "path": "assets/illustrations/pronouns/exp_03.png",
+    "sha256": "20ade7b0c03a094d2557552233aa62aedbb4ebaff36c108f999e77aab1424205",
+    "width": 419,
+    "height": 280
+  },
+  {
+    "category": "questions",
+    "de": "wie lange",
+    "ua": "як довго",
+    "path": "assets/illustrations/questions/exp_34.png",
+    "sha256": "9a928204b8f82d76c28e13a16928d0ac81580511d5ea42b4013418ec0d8ad1ad",
+    "width": 353,
+    "height": 264
+  },
+  {
+    "category": "questions",
+    "de": "wie oft",
+    "ua": "як часто",
+    "path": "assets/illustrations/questions/exp_35.png",
+    "sha256": "bb9e4054b6cc9e6ef0b089fb3b8389903db6c40b7ed68656a42e6c2999e19068",
+    "width": 313,
+    "height": 262
+  },
+  {
+    "category": "questions",
+    "de": "welche",
+    "ua": "які",
+    "path": "assets/illustrations/questions/exp_36.png",
+    "sha256": "58e1a21e9b81ba8060c0742e2b88c692945004f37d7295ca5fc92aedbaa796ce",
+    "width": 439,
+    "height": 251
+  },
+  {
+    "category": "school",
+    "de": "der Rucksack",
+    "ua": "рюкзак",
+    "path": "assets/illustrations/school/exp_28.png",
+    "sha256": "076b35567372c4051de900d7b3172abe2883c335aec99097943235d18dc8db16",
+    "width": 303,
+    "height": 265
+  },
+  {
+    "category": "school",
+    "de": "das Lineal",
+    "ua": "лінійка",
+    "path": "assets/illustrations/school/exp_29.png",
+    "sha256": "6b27b989e7a999226b76e93d856c9efefe738dbe6c47c72e2be7c69e0a48c9bc",
+    "width": 369,
+    "height": 199
+  },
+  {
+    "category": "school",
+    "de": "der Radiergummi",
+    "ua": "гумка",
+    "path": "assets/illustrations/school/exp_30.png",
+    "sha256": "552a9ff300c56968f73dbd1498e49e140d281ecb8d6b950d33893ee6529963b9",
+    "width": 302,
+    "height": 215
+  },
+  {
+    "category": "time",
+    "de": "die Woche",
+    "ua": "тиждень",
+    "path": "assets/illustrations/time/exp_31.png",
+    "sha256": "8fe29c35cf6a2c5964e1308d1652e7f5ffa70a2375b2d48b7aa4fabc5644512c",
+    "width": 395,
+    "height": 201
+  },
+  {
+    "category": "time",
+    "de": "der Monat",
+    "ua": "місяць",
+    "path": "assets/illustrations/time/exp_32.png",
+    "sha256": "19fecd787fe4df22df2ab6f484c3c19fc18e1c76fac7535c5faf36973ed9289e",
+    "width": 341,
+    "height": 244
+  },
+  {
+    "category": "time",
+    "de": "das Jahr",
+    "ua": "рік",
+    "path": "assets/illustrations/time/exp_33.png",
+    "sha256": "6ca018998da657c494ccaab7d915b79756deb7e46a5579d733360c3c190a1b7d",
+    "width": 330,
+    "height": 272
+  },
+  {
+    "category": "verbs",
+    "de": "öffnen",
+    "ua": "відчиняти",
+    "path": "assets/illustrations/verbs/exp_04.png",
+    "sha256": "b0c3fab7c725c9c8a89a7b6b361660bb88f13b31cbec52216704d74fa9b6ef27",
+    "width": 307,
+    "height": 308
+  },
+  {
+    "category": "verbs",
+    "de": "schließen",
+    "ua": "зачиняти",
+    "path": "assets/illustrations/verbs/exp_05.png",
+    "sha256": "98156a8cb869f58b875d73952edd66ae90d5a030bbde9c30fde3c84e85147460",
+    "width": 311,
+    "height": 291
+  },
+  {
+    "category": "verbs",
+    "de": "helfen",
+    "ua": "допомагати",
+    "path": "assets/illustrations/verbs/exp_06.png",
+    "sha256": "901fd6c8cf8afb9973516d57dc8a792521c938d9a6a88e91446316420c2ca2d7",
+    "width": 384,
+    "height": 283
+  },
+  {
     "category": "family",
     "de": "die Mutter",
     "ua": "мама",

@@ -1,0 +1,901 @@
+{
+  "approved": true,
+  "items": [
+    {
+      "category": "pronouns",
+      "de": "etwas",
+      "ua": "щось",
+      "source": "sheet-1.png",
+      "box": [
+        35,
+        20,
+        325,
+        282
+      ],
+      "padding": 18,
+      "name": "exp_01.png"
+    },
+    {
+      "category": "pronouns",
+      "de": "nichts",
+      "ua": "нічого",
+      "source": "sheet-1.png",
+      "box": [
+        382,
+        15,
+        700,
+        283
+      ],
+      "padding": 18,
+      "name": "exp_02.png"
+    },
+    {
+      "category": "pronouns",
+      "de": "jeder",
+      "ua": "кожен",
+      "source": "sheet-1.png",
+      "box": [
+        731,
+        42,
+        1130,
+        294
+      ],
+      "padding": 18,
+      "name": "exp_03.png"
+    },
+    {
+      "category": "verbs",
+      "de": "öffnen",
+      "ua": "відчиняти",
+      "source": "sheet-1.png",
+      "box": [
+        1149,
+        11,
+        1430,
+        294
+      ],
+      "padding": 18,
+      "name": "exp_04.png"
+    },
+    {
+      "category": "verbs",
+      "de": "schließen",
+      "ua": "зачиняти",
+      "source": "sheet-1.png",
+      "box": [
+        30,
+        289,
+        310,
+        554
+      ],
+      "padding": 18,
+      "name": "exp_05.png"
+    },
+    {
+      "category": "verbs",
+      "de": "helfen",
+      "ua": "допомагати",
+      "source": "sheet-1.png",
+      "box": [
+        384,
+        298,
+        750,
+        558
+      ],
+      "padding": 18,
+      "name": "exp_06.png"
+    },
+    {
+      "category": "colors",
+      "de": "hell",
+      "ua": "світлий",
+      "source": "sheet-1.png",
+      "box": [
+        761,
+        298,
+        1056,
+        545
+      ],
+      "padding": 18,
+      "name": "exp_07.png"
+    },
+    {
+      "category": "colors",
+      "de": "dunkel",
+      "ua": "темний",
+      "source": "sheet-1.png",
+      "box": [
+        1133,
+        301,
+        1429,
+        546
+      ],
+      "padding": 18,
+      "name": "exp_08.png"
+    },
+    {
+      "category": "colors",
+      "de": "bunt",
+      "ua": "різнобарвний",
+      "source": "sheet-1.png",
+      "box": [
+        31,
+        564,
+        346,
+        792
+      ],
+      "padding": 18,
+      "name": "exp_09.png"
+    },
+    {
+      "category": "numbers",
+      "de": "sechzig",
+      "ua": "60",
+      "source": "sheet-1.png",
+      "box": [
+        373,
+        578,
+        711,
+        775
+      ],
+      "padding": 18,
+      "name": "exp_10.png"
+    },
+    {
+      "category": "numbers",
+      "de": "siebzig",
+      "ua": "70",
+      "source": "sheet-1.png",
+      "box": [
+        753,
+        576,
+        1086,
+        780
+      ],
+      "padding": 18,
+      "name": "exp_11.png"
+    },
+    {
+      "category": "numbers",
+      "de": "achtzig",
+      "ua": "80",
+      "source": "sheet-1.png",
+      "box": [
+        1113,
+        579,
+        1441,
+        776
+      ],
+      "padding": 18,
+      "name": "exp_12.png"
+    },
+    {
+      "category": "numbers",
+      "de": "neunzig",
+      "ua": "90",
+      "source": "sheet-1.png",
+      "box": [
+        18,
+        811,
+        346,
+        1034
+      ],
+      "padding": 18,
+      "name": "exp_13.png"
+    },
+    {
+      "category": "greetings",
+      "de": "Gute Nacht!",
+      "ua": "На добраніч!",
+      "source": "sheet-1.png",
+      "box": [
+        371,
+        778,
+        700,
+        1058
+      ],
+      "padding": 18,
+      "name": "exp_14.png"
+    },
+    {
+      "category": "greetings",
+      "de": "Bis bald!",
+      "ua": "До скорої зустрічі!",
+      "source": "sheet-1.png",
+      "box": [
+        734,
+        788,
+        1082,
+        1054
+      ],
+      "padding": 18,
+      "name": "exp_15.png"
+    },
+    {
+      "category": "family",
+      "de": "die Tante",
+      "ua": "тітка",
+      "source": "sheet-1.png",
+      "box": [
+        1122,
+        773,
+        1425,
+        1062
+      ],
+      "padding": 18,
+      "name": "exp_16.png"
+    },
+    {
+      "category": "family",
+      "de": "der Onkel",
+      "ua": "дядько",
+      "source": "sheet-2.png",
+      "box": [
+        58,
+        8,
+        351,
+        281
+      ],
+      "padding": 18,
+      "name": "exp_17.png"
+    },
+    {
+      "category": "family",
+      "de": "das Baby",
+      "ua": "немовля",
+      "source": "sheet-2.png",
+      "box": [
+        433,
+        23,
+        724,
+        278
+      ],
+      "padding": 18,
+      "name": "exp_18.png"
+    },
+    {
+      "category": "people",
+      "de": "die Freundin",
+      "ua": "подруга",
+      "source": "sheet-2.png",
+      "box": [
+        771,
+        23,
+        1180,
+        281
+      ],
+      "padding": 18,
+      "name": "exp_19.png"
+    },
+    {
+      "category": "people",
+      "de": "glücklich",
+      "ua": "щасливий",
+      "source": "sheet-2.png",
+      "box": [
+        1203,
+        7,
+        1486,
+        284
+      ],
+      "padding": 18,
+      "name": "exp_20.png"
+    },
+    {
+      "category": "people",
+      "de": "müde",
+      "ua": "втомлений",
+      "source": "sheet-2.png",
+      "box": [
+        81,
+        280,
+        351,
+        535
+      ],
+      "padding": 18,
+      "name": "exp_21.png"
+    },
+    {
+      "category": "food",
+      "de": "die Kartoffel",
+      "ua": "картопля",
+      "source": "sheet-2.png",
+      "box": [
+        413,
+        309,
+        749,
+        540
+      ],
+      "padding": 18,
+      "name": "exp_22.png"
+    },
+    {
+      "category": "food",
+      "de": "die Tomate",
+      "ua": "помідор",
+      "source": "sheet-2.png",
+      "box": [
+        794,
+        302,
+        1118,
+        531
+      ],
+      "padding": 18,
+      "name": "exp_23.png"
+    },
+    {
+      "category": "food",
+      "de": "die Suppe",
+      "ua": "суп",
+      "source": "sheet-2.png",
+      "box": [
+        1198,
+        298,
+        1508,
+        547
+      ],
+      "padding": 18,
+      "name": "exp_24.png"
+    },
+    {
+      "category": "home",
+      "de": "die Lampe",
+      "ua": "лампа",
+      "source": "sheet-2.png",
+      "box": [
+        80,
+        535,
+        344,
+        799
+      ],
+      "padding": 18,
+      "name": "exp_25.png"
+    },
+    {
+      "category": "home",
+      "de": "das Sofa",
+      "ua": "диван",
+      "source": "sheet-2.png",
+      "box": [
+        393,
+        565,
+        766,
+        794
+      ],
+      "padding": 18,
+      "name": "exp_26.png"
+    },
+    {
+      "category": "home",
+      "de": "der Schrank",
+      "ua": "шафа",
+      "source": "sheet-2.png",
+      "box": [
+        797,
+        528,
+        1127,
+        806
+      ],
+      "padding": 18,
+      "name": "exp_27.png"
+    },
+    {
+      "category": "school",
+      "de": "der Rucksack",
+      "ua": "рюкзак",
+      "source": "sheet-2.png",
+      "box": [
+        1218,
+        555,
+        1495,
+        789
+      ],
+      "padding": 18,
+      "name": "exp_28.png"
+    },
+    {
+      "category": "school",
+      "de": "das Lineal",
+      "ua": "лінійка",
+      "source": "sheet-2.png",
+      "box": [
+        37,
+        811,
+        383,
+        982
+      ],
+      "padding": 18,
+      "name": "exp_29.png"
+    },
+    {
+      "category": "school",
+      "de": "der Radiergummi",
+      "ua": "гумка",
+      "source": "sheet-2.png",
+      "box": [
+        441,
+        806,
+        714,
+        998
+      ],
+      "padding": 18,
+      "name": "exp_30.png"
+    },
+    {
+      "category": "time",
+      "de": "die Woche",
+      "ua": "тиждень",
+      "source": "sheet-2.png",
+      "box": [
+        764,
+        817,
+        1134,
+        992
+      ],
+      "padding": 18,
+      "name": "exp_31.png"
+    },
+    {
+      "category": "time",
+      "de": "der Monat",
+      "ua": "місяць",
+      "source": "sheet-2.png",
+      "box": [
+        1205,
+        786,
+        1520,
+        1002
+      ],
+      "padding": 18,
+      "name": "exp_32.png"
+    },
+    {
+      "category": "time",
+      "de": "das Jahr",
+      "ua": "рік",
+      "source": "sheet-3.png",
+      "box": [
+        72,
+        16,
+        371,
+        258
+      ],
+      "padding": 18,
+      "name": "exp_33.png"
+    },
+    {
+      "category": "questions",
+      "de": "wie lange",
+      "ua": "як довго",
+      "source": "sheet-3.png",
+      "box": [
+        414,
+        23,
+        740,
+        259
+      ],
+      "padding": 18,
+      "name": "exp_34.png"
+    },
+    {
+      "category": "questions",
+      "de": "wie oft",
+      "ua": "як часто",
+      "source": "sheet-3.png",
+      "box": [
+        778,
+        22,
+        1070,
+        255
+      ],
+      "padding": 18,
+      "name": "exp_35.png"
+    },
+    {
+      "category": "questions",
+      "de": "welche",
+      "ua": "які",
+      "source": "sheet-3.png",
+      "box": [
+        1096,
+        30,
+        1509,
+        253
+      ],
+      "padding": 18,
+      "name": "exp_36.png"
+    },
+    {
+      "category": "grammar",
+      "de": "weil",
+      "ua": "тому що",
+      "source": "sheet-3.png",
+      "box": [
+        76,
+        254,
+        368,
+        528
+      ],
+      "padding": 18,
+      "name": "exp_37.png"
+    },
+    {
+      "category": "grammar",
+      "de": "mit",
+      "ua": "з / разом із",
+      "source": "sheet-3.png",
+      "box": [
+        400,
+        281,
+        746,
+        524
+      ],
+      "padding": 18,
+      "name": "exp_38.png"
+    },
+    {
+      "category": "grammar",
+      "de": "ohne",
+      "ua": "без",
+      "source": "sheet-3.png",
+      "box": [
+        752,
+        262,
+        1149,
+        515
+      ],
+      "padding": 18,
+      "name": "exp_39.png"
+    },
+    {
+      "category": "body",
+      "de": "der Rücken",
+      "ua": "спина",
+      "source": "sheet-3.png",
+      "box": [
+        1190,
+        266,
+        1428,
+        521
+      ],
+      "padding": 18,
+      "name": "exp_40.png"
+    },
+    {
+      "category": "body",
+      "de": "der Hals",
+      "ua": "шия",
+      "source": "sheet-3.png",
+      "box": [
+        76,
+        529,
+        337,
+        751
+      ],
+      "padding": 18,
+      "name": "exp_41.png"
+    },
+    {
+      "category": "body",
+      "de": "der Zahn",
+      "ua": "зуб",
+      "source": "sheet-3.png",
+      "box": [
+        442,
+        544,
+        711,
+        744
+      ],
+      "padding": 18,
+      "name": "exp_42.png"
+    },
+    {
+      "category": "animals",
+      "de": "die Ente",
+      "ua": "качка",
+      "source": "sheet-3.png",
+      "box": [
+        779,
+        520,
+        1046,
+        757
+      ],
+      "padding": 18,
+      "name": "exp_43.png"
+    },
+    {
+      "category": "animals",
+      "de": "das Schaf",
+      "ua": "вівця",
+      "source": "sheet-3.png",
+      "box": [
+        1142,
+        527,
+        1488,
+        744
+      ],
+      "padding": 18,
+      "name": "exp_44.png"
+    },
+    {
+      "category": "animals",
+      "de": "der Elefant",
+      "ua": "слон",
+      "source": "sheet-3.png",
+      "box": [
+        36,
+        751,
+        392,
+        1008
+      ],
+      "padding": 18,
+      "name": "exp_45.png"
+    },
+    {
+      "category": "places",
+      "de": "das Flugzeug",
+      "ua": "літак",
+      "source": "sheet-3.png",
+      "box": [
+        410,
+        776,
+        746,
+        979
+      ],
+      "padding": 18,
+      "name": "exp_46.png"
+    },
+    {
+      "category": "places",
+      "de": "das Schiff",
+      "ua": "корабель",
+      "source": "sheet-3.png",
+      "box": [
+        742,
+        760,
+        1144,
+        1009
+      ],
+      "padding": 18,
+      "name": "exp_47.png"
+    },
+    {
+      "category": "places",
+      "de": "die Haltestelle",
+      "ua": "зупинка",
+      "source": "sheet-3.png",
+      "box": [
+        1210,
+        739,
+        1484,
+        998
+      ],
+      "padding": 18,
+      "name": "exp_48.png"
+    },
+    {
+      "category": "clothes",
+      "de": "das T-Shirt",
+      "ua": "футболка",
+      "source": "sheet-4.png",
+      "box": [
+        51,
+        49,
+        340,
+        267
+      ],
+      "padding": 18,
+      "name": "exp_49.png"
+    },
+    {
+      "category": "clothes",
+      "de": "die Hose",
+      "ua": "штани",
+      "source": "sheet-4.png",
+      "box": [
+        416,
+        43,
+        654,
+        273
+      ],
+      "padding": 18,
+      "name": "exp_50.png"
+    },
+    {
+      "category": "clothes",
+      "de": "das Kleid",
+      "ua": "сукня",
+      "source": "sheet-4.png",
+      "box": [
+        720,
+        48,
+        977,
+        277
+      ],
+      "padding": 18,
+      "name": "exp_51.png"
+    },
+    {
+      "category": "clothes",
+      "de": "die Jacke",
+      "ua": "куртка",
+      "source": "sheet-4.png",
+      "box": [
+        1053,
+        43,
+        1338,
+        275
+      ],
+      "padding": 18,
+      "name": "exp_52.png"
+    },
+    {
+      "category": "clothes",
+      "de": "der Schuh",
+      "ua": "черевик",
+      "source": "sheet-4.png",
+      "box": [
+        51,
+        342,
+        322,
+        530
+      ],
+      "padding": 18,
+      "name": "exp_53.png"
+    },
+    {
+      "category": "clothes",
+      "de": "die Mütze",
+      "ua": "шапка",
+      "source": "sheet-4.png",
+      "box": [
+        399,
+        307,
+        653,
+        542
+      ],
+      "padding": 18,
+      "name": "exp_54.png"
+    },
+    {
+      "category": "clothes",
+      "de": "der Schal",
+      "ua": "шарф",
+      "source": "sheet-4.png",
+      "box": [
+        691,
+        308,
+        998,
+        568
+      ],
+      "padding": 18,
+      "name": "exp_55.png"
+    },
+    {
+      "category": "nature",
+      "de": "die Sonne",
+      "ua": "сонце",
+      "source": "sheet-4.png",
+      "box": [
+        1050,
+        300,
+        1334,
+        564
+      ],
+      "padding": 18,
+      "name": "exp_56.png"
+    },
+    {
+      "category": "nature",
+      "de": "der Regen",
+      "ua": "дощ",
+      "source": "sheet-4.png",
+      "box": [
+        55,
+        578,
+        344,
+        829
+      ],
+      "padding": 18,
+      "name": "exp_57.png"
+    },
+    {
+      "category": "nature",
+      "de": "der Schnee",
+      "ua": "сніг",
+      "source": "sheet-4.png",
+      "box": [
+        392,
+        581,
+        669,
+        829
+      ],
+      "padding": 18,
+      "name": "exp_58.png"
+    },
+    {
+      "category": "nature",
+      "de": "der Wind",
+      "ua": "вітер",
+      "source": "sheet-4.png",
+      "box": [
+        691,
+        597,
+        1016,
+        812
+      ],
+      "padding": 18,
+      "name": "exp_59.png"
+    },
+    {
+      "category": "nature",
+      "de": "die Wolke",
+      "ua": "хмара",
+      "source": "sheet-4.png",
+      "box": [
+        1051,
+        625,
+        1333,
+        807
+      ],
+      "padding": 18,
+      "name": "exp_60.png"
+    },
+    {
+      "category": "nature",
+      "de": "der Baum",
+      "ua": "дерево",
+      "source": "sheet-4.png",
+      "box": [
+        38,
+        846,
+        340,
+        1117
+      ],
+      "padding": 18,
+      "name": "exp_61.png"
+    },
+    {
+      "category": "nature",
+      "de": "die Blume",
+      "ua": "квітка",
+      "source": "sheet-4.png",
+      "box": [
+        407,
+        848,
+        651,
+        1117
+      ],
+      "padding": 18,
+      "name": "exp_62.png"
+    },
+    {
+      "category": "category-icons",
+      "de": "clothes",
+      "ua": "Одяг",
+      "source": "sheet-4.png",
+      "box": [
+        712,
+        848,
+        990,
+        1116
+      ],
+      "padding": 18,
+      "name": "exp_63.png"
+    },
+    {
+      "category": "category-icons",
+      "de": "nature",
+      "ua": "Погода й природа",
+      "source": "sheet-4.png",
+      "box": [
+        1035,
+        855,
+        1337,
+        1108
+      ],
+      "padding": 18,
+      "name": "exp_64.png"
+    }
+  ]
+}

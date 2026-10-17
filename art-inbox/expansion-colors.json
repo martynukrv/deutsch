@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "colors",
+  "approved": true,
+  "items": [
+    {
+      "de": "hell",
+      "ua": "світлий",
+      "file": "exp_07.png"
+    },
+    {
+      "de": "dunkel",
+      "ua": "темний",
+      "file": "exp_08.png"
+    },
+    {
+      "de": "bunt",
+      "ua": "різнобарвний",
+      "file": "exp_09.png"
+    }
+  ]
+}

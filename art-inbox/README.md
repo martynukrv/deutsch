@@ -1,5 +1,9 @@
 # Deutsch 16 artwork pipeline
 
+## Incremental vocabulary additions
+
+A category can have several approved archives (for example food.zip and expansion-food.zip). Manifests retain the same category identifier. Each word and output filename must remain unique across archives. Combined coverage must exactly match catalog.json; unknown, duplicated, missing or unbound entries stop publication. Existing packages need not be rebuilt. The October 17 expansion's originals, prompts and checked crop rectangles are in art-sources/expansion-20261017/.
+
 The assistant performs generation, cropping, upload, word bindings, testing and publication. The user only reviews the artistic result. Do not ask the user to upload files to GitHub or edit mappings.
 
 Palette: `#102B50`, `#FF5726`, `#FFFFFF`, `#FFF1E5`. The sole user-authorized exception is the color vocabulary category: use uniform paint-blot swatches filled with the actual named colors. See `AGENTS.md` and the `colors` entry in `catalog.json`; do not extend this exception to other illustrations.

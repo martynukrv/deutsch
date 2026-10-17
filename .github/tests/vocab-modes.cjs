@@ -79,6 +79,15 @@ const path=require('path'),fs=require('fs');
    if(await page.evaluate(()=>document.documentElement.scrollWidth>document.documentElement.clientWidth+5))throw Error('Writing overflow at '+width);
    await page.screenshot({path:`audit-screenshots/vocab-writing-${width}.png`,fullPage:true});await page.locator('#vqExit').click();
   }
+  // New categories and added words must be part of every selected practice skill.
+  await page.evaluate(()=>{
+   if(vocabCategories.length!==18||vocabCategories.reduce((n,c)=>n+c.words.length,0)!==282)throw Error('Expanded vocabulary missing');
+   for(const c of vocabCategories){
+    if(new Set(c.words.map(w=>JSON.stringify(w.slice(0,2)))).size!==c.words.length)throw Error('Duplicate vocabulary in '+c.name);
+    if(c.words.some(w=>!window.DEUTSCH_WORD_ART?.[c.name]?.[JSON.stringify(w.slice(0,2))]))throw Error('Missing exact illustration in '+c.name);
+   }
+   for(const index of [16,17]){openVocabCategory(index);startVocabQuiz(false,true);if(VQ_TYPES.some(t=>!vq.items.some(it=>it.type===t)))throw Error('New category missing practice skill');endVocabQuiz()}
+  });
   if(errors.length)throw Error(errors.join('; '));
   console.log('PASS selectable/persisted skills, gradual practice, typed answers/umlauts, full final/retry, mocked speech/cancellation/fallback and 320–1280px layouts');
  }finally{await browser.close()}

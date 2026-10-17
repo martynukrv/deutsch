@@ -38,6 +38,11 @@ class ArtworkTests(unittest.TestCase):
     def test_duplicate_word(self):
         self.manifest(lambda m:m['items'].append(m['items'][0]))
         with self.assertRaises(ValueError): collect(self.root)
+    def test_duplicate_across_packages(self):
+        inbox = self.root / 'art-inbox'
+        shutil.copyfile(inbox / 'pronouns.zip', inbox / 'duplicate-pronouns.zip')
+        shutil.copyfile(inbox / 'pronouns.json', inbox / 'duplicate-pronouns.json')
+        with self.assertRaises(ValueError): collect(self.root)
     def test_unapproved(self):
         self.manifest(lambda m:m.update(approved=False))
         with self.assertRaises(ValueError): main(self.root)

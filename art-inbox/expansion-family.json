@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "family",
+  "approved": true,
+  "items": [
+    {
+      "de": "die Tante",
+      "ua": "тітка",
+      "file": "exp_16.png"
+    },
+    {
+      "de": "der Onkel",
+      "ua": "дядько",
+      "file": "exp_17.png"
+    },
+    {
+      "de": "das Baby",
+      "ua": "немовля",
+      "file": "exp_18.png"
+    }
+  ]
+}

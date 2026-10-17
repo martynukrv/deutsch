@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "grammar",
+  "approved": true,
+  "items": [
+    {
+      "de": "weil",
+      "ua": "тому що",
+      "file": "exp_37.png"
+    },
+    {
+      "de": "mit",
+      "ua": "з / разом із",
+      "file": "exp_38.png"
+    },
+    {
+      "de": "ohne",
+      "ua": "без",
+      "file": "exp_39.png"
+    }
+  ]
+}

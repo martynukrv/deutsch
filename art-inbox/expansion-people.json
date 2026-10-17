@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "people",
+  "approved": true,
+  "items": [
+    {
+      "de": "die Freundin",
+      "ua": "подруга",
+      "file": "exp_19.png"
+    },
+    {
+      "de": "glücklich",
+      "ua": "щасливий",
+      "file": "exp_20.png"
+    },
+    {
+      "de": "müde",
+      "ua": "втомлений",
+      "file": "exp_21.png"
+    }
+  ]
+}

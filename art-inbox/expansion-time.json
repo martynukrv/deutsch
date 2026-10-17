@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "time",
+  "approved": true,
+  "items": [
+    {
+      "de": "die Woche",
+      "ua": "тиждень",
+      "file": "exp_31.png"
+    },
+    {
+      "de": "der Monat",
+      "ua": "місяць",
+      "file": "exp_32.png"
+    },
+    {
+      "de": "das Jahr",
+      "ua": "рік",
+      "file": "exp_33.png"
+    }
+  ]
+}

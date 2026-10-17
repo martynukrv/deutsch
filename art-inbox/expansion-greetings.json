@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "category": "greetings",
+  "approved": true,
+  "items": [
+    {
+      "de": "Gute Nacht!",
+      "ua": "На добраніч!",
+      "file": "exp_14.png"
+    },
+    {
+      "de": "Bis bald!",
+      "ua": "До скорої зустрічі!",
+      "file": "exp_15.png"
+    }
+  ]
+}

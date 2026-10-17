@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "home",
+  "approved": true,
+  "items": [
+    {
+      "de": "die Lampe",
+      "ua": "лампа",
+      "file": "exp_25.png"
+    },
+    {
+      "de": "das Sofa",
+      "ua": "диван",
+      "file": "exp_26.png"
+    },
+    {
+      "de": "der Schrank",
+      "ua": "шафа",
+      "file": "exp_27.png"
+    }
+  ]
+}

@@ -118,7 +118,7 @@ const path = require('path');
   return {total:categories.reduce((n,c)=>n+c.total,0),missing:all,sharedGenericCount:mapping.length,categories};
  });
  console.log('ART AUDIT',JSON.stringify(artAudit));
- if(artAudit.total!==220)throw Error('Vocabulary count changed: '+artAudit.total);
+ if(artAudit.total!==282)throw Error('Vocabulary count changed: '+artAudit.total);
  if(artAudit.missing.length)throw Error('Undefined illustration keys: '+JSON.stringify(artAudit.missing));
  const audio=await page.evaluate(()=>Object.values(AUDIO_MAP));
  if(audio.length<100)throw new Error('Too few mapped audio files: '+audio.length);

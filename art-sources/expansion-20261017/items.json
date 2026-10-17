@@ -1,0 +1,322 @@
+[
+  {
+    "category": "pronouns",
+    "de": "etwas",
+    "ua": "щось"
+  },
+  {
+    "category": "pronouns",
+    "de": "nichts",
+    "ua": "нічого"
+  },
+  {
+    "category": "pronouns",
+    "de": "jeder",
+    "ua": "кожен"
+  },
+  {
+    "category": "verbs",
+    "de": "öffnen",
+    "ua": "відчиняти"
+  },
+  {
+    "category": "verbs",
+    "de": "schließen",
+    "ua": "зачиняти"
+  },
+  {
+    "category": "verbs",
+    "de": "helfen",
+    "ua": "допомагати"
+  },
+  {
+    "category": "colors",
+    "de": "hell",
+    "ua": "світлий"
+  },
+  {
+    "category": "colors",
+    "de": "dunkel",
+    "ua": "темний"
+  },
+  {
+    "category": "colors",
+    "de": "bunt",
+    "ua": "різнобарвний"
+  },
+  {
+    "category": "numbers",
+    "de": "sechzig",
+    "ua": "60"
+  },
+  {
+    "category": "numbers",
+    "de": "siebzig",
+    "ua": "70"
+  },
+  {
+    "category": "numbers",
+    "de": "achtzig",
+    "ua": "80"
+  },
+  {
+    "category": "numbers",
+    "de": "neunzig",
+    "ua": "90"
+  },
+  {
+    "category": "greetings",
+    "de": "Gute Nacht!",
+    "ua": "На добраніч!"
+  },
+  {
+    "category": "greetings",
+    "de": "Bis bald!",
+    "ua": "До скорої зустрічі!"
+  },
+  {
+    "category": "family",
+    "de": "die Tante",
+    "ua": "тітка"
+  },
+  {
+    "category": "family",
+    "de": "der Onkel",
+    "ua": "дядько"
+  },
+  {
+    "category": "family",
+    "de": "das Baby",
+    "ua": "немовля"
+  },
+  {
+    "category": "people",
+    "de": "die Freundin",
+    "ua": "подруга"
+  },
+  {
+    "category": "people",
+    "de": "glücklich",
+    "ua": "щасливий"
+  },
+  {
+    "category": "people",
+    "de": "müde",
+    "ua": "втомлений"
+  },
+  {
+    "category": "food",
+    "de": "die Kartoffel",
+    "ua": "картопля"
+  },
+  {
+    "category": "food",
+    "de": "die Tomate",
+    "ua": "помідор"
+  },
+  {
+    "category": "food",
+    "de": "die Suppe",
+    "ua": "суп"
+  },
+  {
+    "category": "home",
+    "de": "die Lampe",
+    "ua": "лампа"
+  },
+  {
+    "category": "home",
+    "de": "das Sofa",
+    "ua": "диван"
+  },
+  {
+    "category": "home",
+    "de": "der Schrank",
+    "ua": "шафа"
+  },
+  {
+    "category": "school",
+    "de": "der Rucksack",
+    "ua": "рюкзак"
+  },
+  {
+    "category": "school",
+    "de": "das Lineal",
+    "ua": "лінійка"
+  },
+  {
+    "category": "school",
+    "de": "der Radiergummi",
+    "ua": "гумка"
+  },
+  {
+    "category": "time",
+    "de": "die Woche",
+    "ua": "тиждень"
+  },
+  {
+    "category": "time",
+    "de": "der Monat",
+    "ua": "місяць"
+  },
+  {
+    "category": "time",
+    "de": "das Jahr",
+    "ua": "рік"
+  },
+  {
+    "category": "questions",
+    "de": "wie lange",
+    "ua": "як довго"
+  },
+  {
+    "category": "questions",
+    "de": "wie oft",
+    "ua": "як часто"
+  },
+  {
+    "category": "questions",
+    "de": "welche",
+    "ua": "які"
+  },
+  {
+    "category": "grammar",
+    "de": "weil",
+    "ua": "тому що"
+  },
+  {
+    "category": "grammar",
+    "de": "mit",
+    "ua": "з / разом із"
+  },
+  {
+    "category": "grammar",
+    "de": "ohne",
+    "ua": "без"
+  },
+  {
+    "category": "body",
+    "de": "der Rücken",
+    "ua": "спина"
+  },
+  {
+    "category": "body",
+    "de": "der Hals",
+    "ua": "шия"
+  },
+  {
+    "category": "body",
+    "de": "der Zahn",
+    "ua": "зуб"
+  },
+  {
+    "category": "animals",
+    "de": "die Ente",
+    "ua": "качка"
+  },
+  {
+    "category": "animals",
+    "de": "das Schaf",
+    "ua": "вівця"
+  },
+  {
+    "category": "animals",
+    "de": "der Elefant",
+    "ua": "слон"
+  },
+  {
+    "category": "places",
+    "de": "das Flugzeug",
+    "ua": "літак"
+  },
+  {
+    "category": "places",
+    "de": "das Schiff",
+    "ua": "корабель"
+  },
+  {
+    "category": "places",
+    "de": "die Haltestelle",
+    "ua": "зупинка"
+  },
+  {
+    "category": "clothes",
+    "de": "das T-Shirt",
+    "ua": "футболка"
+  },
+  {
+    "category": "clothes",
+    "de": "die Hose",
+    "ua": "штани"
+  },
+  {
+    "category": "clothes",
+    "de": "das Kleid",
+    "ua": "сукня"
+  },
+  {
+    "category": "clothes",
+    "de": "die Jacke",
+    "ua": "куртка"
+  },
+  {
+    "category": "clothes",
+    "de": "der Schuh",
+    "ua": "черевик"
+  },
+  {
+    "category": "clothes",
+    "de": "die Mütze",
+    "ua": "шапка"
+  },
+  {
+    "category": "clothes",
+    "de": "der Schal",
+    "ua": "шарф"
+  },
+  {
+    "category": "nature",
+    "de": "die Sonne",
+    "ua": "сонце"
+  },
+  {
+    "category": "nature",
+    "de": "der Regen",
+    "ua": "дощ"
+  },
+  {
+    "category": "nature",
+    "de": "der Schnee",
+    "ua": "сніг"
+  },
+  {
+    "category": "nature",
+    "de": "der Wind",
+    "ua": "вітер"
+  },
+  {
+    "category": "nature",
+    "de": "die Wolke",
+    "ua": "хмара"
+  },
+  {
+    "category": "nature",
+    "de": "der Baum",
+    "ua": "дерево"
+  },
+  {
+    "category": "nature",
+    "de": "die Blume",
+    "ua": "квітка"
+  },
+  {
+    "category": "category-icons",
+    "de": "clothes",
+    "ua": "Одяг"
+  },
+  {
+    "category": "category-icons",
+    "de": "nature",
+    "ua": "Погода й природа"
+  }
+]

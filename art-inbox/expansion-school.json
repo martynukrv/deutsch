@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "school",
+  "approved": true,
+  "items": [
+    {
+      "de": "der Rucksack",
+      "ua": "рюкзак",
+      "file": "exp_28.png"
+    },
+    {
+      "de": "das Lineal",
+      "ua": "лінійка",
+      "file": "exp_29.png"
+    },
+    {
+      "de": "der Radiergummi",
+      "ua": "гумка",
+      "file": "exp_30.png"
+    }
+  ]
+}

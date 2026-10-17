@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "places",
+  "approved": true,
+  "items": [
+    {
+      "de": "das Flugzeug",
+      "ua": "літак",
+      "file": "exp_46.png"
+    },
+    {
+      "de": "das Schiff",
+      "ua": "корабель",
+      "file": "exp_47.png"
+    },
+    {
+      "de": "die Haltestelle",
+      "ua": "зупинка",
+      "file": "exp_48.png"
+    }
+  ]
+}

@@ -35,10 +35,9 @@ def collect(root):
         if category not in catalog['categories'] or not re.fullmatch(r'[a-z]+', category):
             raise ValueError(f'Unknown category: {category}')
         spec = catalog['categories'][category]
-        if spec['name'] in bindings:
-            raise ValueError(f'Duplicate category: {category}')
         expected = {(w['de'], w['ua']) for w in spec['words']}
-        mapped, seen_files = {}, set()
+        mapped = bindings.setdefault(spec['name'], {})
+        seen_files = set()
         with zipfile.ZipFile(archive) as z:
             entries = {}
             total = 0
@@ -78,9 +77,15 @@ def collect(root):
                 seen_files.add(filename)
                 report.append({'category': category, 'de': key[0], 'ua': key[1],
                                'path': dest, 'sha256': digest, 'width': width, 'height': height})
-            if set(entries) != seen_files or len(mapped) != len(expected):
-                raise ValueError(f'Incomplete word/image coverage in {archive.name}')
-        bindings[spec['name']] = mapped
+            if set(entries) != seen_files:
+                raise ValueError(f'Unmapped PNG in {archive.name}')
+    # A category may grow across several approved packages; its combined coverage must stay exact.
+    for category, spec in catalog['categories'].items():
+        if spec['name'] not in bindings:
+            continue
+        expected = {json.dumps((w['de'], w['ua']), ensure_ascii=False, separators=(',', ':')) for w in spec['words']}
+        if set(bindings[spec['name']]) != expected:
+            raise ValueError(f'Incomplete word/image coverage in {category}')
     return pending, bindings, report
 
 def main(root=ROOT):

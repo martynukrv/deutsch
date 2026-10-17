@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "category": "nature",
+  "approved": true,
+  "items": [
+    {
+      "de": "die Sonne",
+      "ua": "сонце",
+      "file": "exp_56.png"
+    },
+    {
+      "de": "der Regen",
+      "ua": "дощ",
+      "file": "exp_57.png"
+    },
+    {
+      "de": "der Schnee",
+      "ua": "сніг",
+      "file": "exp_58.png"
+    },
+    {
+      "de": "der Wind",
+      "ua": "вітер",
+      "file": "exp_59.png"
+    },
+    {
+      "de": "die Wolke",
+      "ua": "хмара",
+      "file": "exp_60.png"
+    },
+    {
+      "de": "der Baum",
+      "ua": "дерево",
+      "file": "exp_61.png"
+    },
+    {
+      "de": "die Blume",
+      "ua": "квітка",
+      "file": "exp_62.png"
+    }
+  ]
+}

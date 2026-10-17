@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "category": "numbers",
+  "approved": true,
+  "items": [
+    {
+      "de": "sechzig",
+      "ua": "60",
+      "file": "exp_10.png"
+    },
+    {
+      "de": "siebzig",
+      "ua": "70",
+      "file": "exp_11.png"
+    },
+    {
+      "de": "achtzig",
+      "ua": "80",
+      "file": "exp_12.png"
+    },
+    {
+      "de": "neunzig",
+      "ua": "90",
+      "file": "exp_13.png"
+    }
+  ]
+}
