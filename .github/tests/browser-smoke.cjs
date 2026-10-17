@@ -69,12 +69,12 @@ const path = require('path');
  await page.evaluate(()=>{
   setMode('trainer');
   setMascotReaction('trainerMascot','happy');
-  if(!document.querySelector('#trainerMascot img[src$="boy-happy.svg"]'))throw Error('Correct-answer mascot missing');
+  if(!document.querySelector('#trainerMascot img[src$="boy-happy-20261017.png"]'))throw Error('Correct-answer mascot missing');
   setMascotReaction('trainerMascot','encourage');
-  if(!document.querySelector('#trainerMascot img[src$="girl-encourage.svg"]'))throw Error('Incorrect-answer mascot missing');
+  if(!document.querySelector('#trainerMascot img[src$="girl-encourage-20261017.png"]'))throw Error('Incorrect-answer mascot missing');
   openVocabCategory(0);startVocabQuiz(false);
   setMascotReaction('vqMascot','happy');
-  if(!document.querySelector('#vqMascot img[src$="boy-happy.svg"]'))throw Error('Quiz mascot missing');
+  if(!document.querySelector('#vqMascot img[src$="boy-happy-20261017.png"]'))throw Error('Quiz mascot missing');
   endVocabQuiz();
  });
  for(const width of [320,390,768,1280]){
