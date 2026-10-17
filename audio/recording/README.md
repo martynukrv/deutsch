@@ -1,4 +1,4 @@
-# Pending voice recording — 17 October 2026
+# Completed voice recording script — 17 October 2026
 
 queue.txt is the complete recording script: every line ends with [pause]. queue-additions.txt contains only items after the previously supplied first 73 lines. Keep that exact order when recording. queue.json supplies stable rq001… identifiers, exact transcripts and types for later audio splitting/binding.
 
@@ -7,3 +7,7 @@ queue.txt is the complete recording script: every line ends with [pause]. queue-
 Training covers all 38 dictionary verbs × 9 personal-pronoun meanings = 342 tasks (304 distinct German phrases). The first beginner lesson retains five verbs, with all nine pronouns. The verbs lesson offers the whole pool or any individual verb with all nine combinations. It uses explicit six-person present-tense forms, including stem changes and modal verbs.
 
 Regenerate the queue after integrating recordings with `node scripts/build_recording_queue.cjs`. Existing punctuation-bearing audio keys are normalized at runtime, restoring previously recorded greetings.
+
+## Recording completed
+
+The supplied complete 409-item file has now been cut, verified and integrated. This folder retains the original recording script for traceability. Original audio, frozen queue and transcript evidence are in audio-sources/henri-20261017; the validated clip package is in audio-inbox. Regenerating the queue now accounts for the newly installed recorded-audio.js map.

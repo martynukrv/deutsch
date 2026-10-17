@@ -1,0 +1,4466 @@
+{
+  "language": "de",
+  "duration": 500.84575,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 13.8,
+      "text": " derjenige, diejenige, dasjenige, alle, jemand, niemand, etwas, jeder, öffnen, schließen,",
+      "avg_logprob": -0.15396202397796344,
+      "words": [
+        {
+          "word": " derjenige,",
+          "start": 0.0,
+          "end": 0.86,
+          "probability": 0.798093835512797
+        },
+        {
+          "word": " diejenige,",
+          "start": 1.82,
+          "end": 2.62,
+          "probability": 0.9919696648915609
+        },
+        {
+          "word": " dasjenige,",
+          "start": 3.46,
+          "end": 4.26,
+          "probability": 0.9875615040461222
+        },
+        {
+          "word": " alle,",
+          "start": 5.06,
+          "end": 5.38,
+          "probability": 0.9853813052177429
+        },
+        {
+          "word": " jemand,",
+          "start": 6.38,
+          "end": 6.8,
+          "probability": 0.9567559957504272
+        },
+        {
+          "word": " niemand,",
+          "start": 7.9,
+          "end": 8.2,
+          "probability": 0.9887123107910156
+        },
+        {
+          "word": " etwas,",
+          "start": 9.28,
+          "end": 9.64,
+          "probability": 0.9832398295402527
+        },
+        {
+          "word": " jeder,",
+          "start": 10.68,
+          "end": 11.06,
+          "probability": 0.9799731969833374
+        },
+        {
+          "word": " öffnen,",
+          "start": 12.04,
+          "end": 12.44,
+          "probability": 0.9784741799036661
+        },
+        {
+          "word": " schließen,",
+          "start": 13.42,
+          "end": 13.8,
+          "probability": 0.9914579689502716
+        }
+      ]
+    },
+    {
+      "start": 14.82,
+      "end": 24.28,
+      "text": " helfen, hell, dunkel, bunt, 60, 70, 80, 90.",
+      "avg_logprob": -0.15396202397796344,
+      "words": [
+        {
+          "word": " helfen,",
+          "start": 14.82,
+          "end": 15.16,
+          "probability": 0.993960976600647
+        },
+        {
+          "word": " hell,",
+          "start": 16.24,
+          "end": 16.42,
+          "probability": 0.9707154035568237
+        },
+        {
+          "word": " dunkel,",
+          "start": 17.24,
+          "end": 17.78,
+          "probability": 0.9714021384716034
+        },
+        {
+          "word": " bunt,",
+          "start": 18.7,
+          "end": 19.0,
+          "probability": 0.9870492517948151
+        },
+        {
+          "word": " 60,",
+          "start": 20.0,
+          "end": 20.32,
+          "probability": 0.8324294686317444
+        },
+        {
+          "word": " 70,",
+          "start": 21.22,
+          "end": 21.66,
+          "probability": 0.9857861995697021
+        },
+        {
+          "word": " 80,",
+          "start": 22.5,
+          "end": 22.9,
+          "probability": 0.9976755976676941
+        },
+        {
+          "word": " 90.",
+          "start": 23.78,
+          "end": 24.28,
+          "probability": 0.9921467900276184
+        }
+      ]
+    },
+    {
+      "start": 24.28,
+      "end": 27.16,
+      "text": " Gute Nacht! Bis bald!",
+      "avg_logprob": -0.16020087607495195,
+      "words": [
+        {
+          "word": " Gute",
+          "start": 24.28,
+          "end": 25.56,
+          "probability": 0.581475630402565
+        },
+        {
+          "word": " Nacht!",
+          "start": 25.56,
+          "end": 25.86,
+          "probability": 0.99783855676651
+        },
+        {
+          "word": " Bis",
+          "start": 26.46,
+          "end": 26.8,
+          "probability": 0.9626713991165161
+        },
+        {
+          "word": " bald!",
+          "start": 26.8,
+          "end": 27.16,
+          "probability": 0.9949827194213867
+        }
+      ]
+    },
+    {
+      "start": 27.78,
+      "end": 37.98,
+      "text": " Die Tante, der Onkel, das Baby, die Freundin, glücklich, müde, die Kartoffel, die Tomate,",
+      "avg_logprob": -0.16020087607495195,
+      "words": [
+        {
+          "word": " Die",
+          "start": 27.78,
+          "end": 28.12,
+          "probability": 0.6712008714675903
+        },
+        {
+          "word": " Tante,",
+          "start": 28.12,
+          "end": 28.54,
+          "probability": 0.9883483350276947
+        },
+        {
+          "word": " der",
+          "start": 29.1,
+          "end": 29.42,
+          "probability": 0.9875604510307312
+        },
+        {
+          "word": " Onkel,",
+          "start": 29.42,
+          "end": 29.88,
+          "probability": 0.9802020192146301
+        },
+        {
+          "word": " das",
+          "start": 30.58,
+          "end": 30.82,
+          "probability": 0.9848010540008545
+        },
+        {
+          "word": " Baby,",
+          "start": 30.82,
+          "end": 31.16,
+          "probability": 0.9939077496528625
+        },
+        {
+          "word": " die",
+          "start": 31.96,
+          "end": 32.14,
+          "probability": 0.9965544939041138
+        },
+        {
+          "word": " Freundin,",
+          "start": 32.14,
+          "end": 32.8,
+          "probability": 0.9988766014575958
+        },
+        {
+          "word": " glücklich,",
+          "start": 33.46,
+          "end": 33.96,
+          "probability": 0.9808416664600372
+        },
+        {
+          "word": " müde,",
+          "start": 34.66,
+          "end": 35.16,
+          "probability": 0.9942783117294312
+        },
+        {
+          "word": " die",
+          "start": 35.76,
+          "end": 36.14,
+          "probability": 0.9949657320976257
+        },
+        {
+          "word": " Kartoffel,",
+          "start": 36.14,
+          "end": 36.74,
+          "probability": 0.9792654116948446
+        },
+        {
+          "word": " die",
+          "start": 37.34,
+          "end": 37.5,
+          "probability": 0.9988033771514893
+        },
+        {
+          "word": " Tomate,",
+          "start": 37.5,
+          "end": 37.98,
+          "probability": 0.9853025078773499
+        }
+      ]
+    },
+    {
+      "start": 38.62,
+      "end": 47.22,
+      "text": " die Suppe, die Lampe, das Sofa, der Schrank, der Rucksack, das Lineal, der Radiergummi,",
+      "avg_logprob": -0.16020087607495195,
+      "words": [
+        {
+          "word": " die",
+          "start": 38.62,
+          "end": 38.88,
+          "probability": 0.9984310269355774
+        },
+        {
+          "word": " Suppe,",
+          "start": 38.88,
+          "end": 39.3,
+          "probability": 0.9224003553390503
+        },
+        {
+          "word": " die",
+          "start": 39.96,
+          "end": 40.06,
+          "probability": 0.9979726672172546
+        },
+        {
+          "word": " Lampe,",
+          "start": 40.06,
+          "end": 40.44,
+          "probability": 0.9870773553848267
+        },
+        {
+          "word": " das",
+          "start": 41.18,
+          "end": 41.28,
+          "probability": 0.9955143332481384
+        },
+        {
+          "word": " Sofa,",
+          "start": 41.28,
+          "end": 41.74,
+          "probability": 0.9782754480838776
+        },
+        {
+          "word": " der",
+          "start": 42.44,
+          "end": 42.6,
+          "probability": 0.997787594795227
+        },
+        {
+          "word": " Schrank,",
+          "start": 42.6,
+          "end": 42.98,
+          "probability": 0.9626642763614655
+        },
+        {
+          "word": " der",
+          "start": 43.72,
+          "end": 43.82,
+          "probability": 0.9966211318969727
+        },
+        {
+          "word": " Rucksack,",
+          "start": 43.82,
+          "end": 44.36,
+          "probability": 0.9892366727193197
+        },
+        {
+          "word": " das",
+          "start": 45.04,
+          "end": 45.12,
+          "probability": 0.9963108897209167
+        },
+        {
+          "word": " Lineal,",
+          "start": 45.12,
+          "end": 45.78,
+          "probability": 0.8267436921596527
+        },
+        {
+          "word": " der",
+          "start": 46.26,
+          "end": 46.46,
+          "probability": 0.9936879277229309
+        },
+        {
+          "word": " Radiergummi,",
+          "start": 46.46,
+          "end": 47.22,
+          "probability": 0.9449530482292176
+        }
+      ]
+    },
+    {
+      "start": 47.22,
+      "end": 58.42,
+      "text": " Die Woche, der Monat, das Jahr, wie lange, wie oft, welche, weil, mit, ohne, der Rücken,",
+      "avg_logprob": -0.14905734546482563,
+      "words": [
+        {
+          "word": " Die",
+          "start": 47.22,
+          "end": 47.96,
+          "probability": 0.25531908869743347
+        },
+        {
+          "word": " Woche,",
+          "start": 47.96,
+          "end": 48.22,
+          "probability": 0.8656055927276611
+        },
+        {
+          "word": " der",
+          "start": 48.82,
+          "end": 49.08,
+          "probability": 0.9694620966911316
+        },
+        {
+          "word": " Monat,",
+          "start": 49.08,
+          "end": 49.68,
+          "probability": 0.9952453374862671
+        },
+        {
+          "word": " das",
+          "start": 50.24,
+          "end": 50.4,
+          "probability": 0.9852837324142456
+        },
+        {
+          "word": " Jahr,",
+          "start": 50.4,
+          "end": 50.74,
+          "probability": 0.9519556164741516
+        },
+        {
+          "word": " wie",
+          "start": 51.36,
+          "end": 51.58,
+          "probability": 0.9540325403213501
+        },
+        {
+          "word": " lange,",
+          "start": 51.58,
+          "end": 51.84,
+          "probability": 0.994768500328064
+        },
+        {
+          "word": " wie",
+          "start": 52.58,
+          "end": 52.76,
+          "probability": 0.9981997013092041
+        },
+        {
+          "word": " oft,",
+          "start": 52.76,
+          "end": 53.1,
+          "probability": 0.9977812170982361
+        },
+        {
+          "word": " welche,",
+          "start": 53.74,
+          "end": 54.1,
+          "probability": 0.9447590112686157
+        },
+        {
+          "word": " weil,",
+          "start": 54.84,
+          "end": 55.2,
+          "probability": 0.9494099020957947
+        },
+        {
+          "word": " mit,",
+          "start": 56.04,
+          "end": 56.18,
+          "probability": 0.9939731955528259
+        },
+        {
+          "word": " ohne,",
+          "start": 56.88,
+          "end": 57.18,
+          "probability": 0.9961690306663513
+        },
+        {
+          "word": " der",
+          "start": 57.94,
+          "end": 58.12,
+          "probability": 0.9875801205635071
+        },
+        {
+          "word": " Rücken,",
+          "start": 58.12,
+          "end": 58.42,
+          "probability": 0.950799822807312
+        }
+      ]
+    },
+    {
+      "start": 59.14,
+      "end": 74.92,
+      "text": " der Hals, der Zahn, die Ente, das Schaf, der Elefant, das Flugzeug, das Schiff, die",
+      "avg_logprob": -0.14905734546482563,
+      "words": [
+        {
+          "word": " der",
+          "start": 59.14,
+          "end": 59.26,
+          "probability": 0.9977434873580933
+        },
+        {
+          "word": " Hals,",
+          "start": 59.26,
+          "end": 59.68,
+          "probability": 0.9863620698451996
+        },
+        {
+          "word": " der",
+          "start": 60.3,
+          "end": 60.44,
+          "probability": 0.9989128112792969
+        },
+        {
+          "word": " Zahn,",
+          "start": 60.44,
+          "end": 60.88,
+          "probability": 0.950825959444046
+        },
+        {
+          "word": " die",
+          "start": 61.52,
+          "end": 61.66,
+          "probability": 0.9950212240219116
+        },
+        {
+          "word": " Ente,",
+          "start": 61.66,
+          "end": 62.12,
+          "probability": 0.882066547870636
+        },
+        {
+          "word": " das",
+          "start": 62.68,
+          "end": 62.82,
+          "probability": 0.994309663772583
+        },
+        {
+          "word": " Schaf,",
+          "start": 62.82,
+          "end": 63.22,
+          "probability": 0.9822421669960022
+        },
+        {
+          "word": " der",
+          "start": 63.82,
+          "end": 63.98,
+          "probability": 0.99722820520401
+        },
+        {
+          "word": " Elefant,",
+          "start": 63.98,
+          "end": 64.5,
+          "probability": 0.9746534824371338
+        },
+        {
+          "word": " das",
+          "start": 65.06,
+          "end": 65.3,
+          "probability": 0.998161256313324
+        },
+        {
+          "word": " Flugzeug,",
+          "start": 65.3,
+          "end": 65.9,
+          "probability": 0.9988927245140076
+        },
+        {
+          "word": " das",
+          "start": 66.46,
+          "end": 66.68,
+          "probability": 0.998019814491272
+        },
+        {
+          "word": " Schiff,",
+          "start": 66.68,
+          "end": 67.02,
+          "probability": 0.9991437494754791
+        },
+        {
+          "word": " die",
+          "start": 74.88,
+          "end": 74.92,
+          "probability": 0.9973883032798767
+        }
+      ]
+    },
+    {
+      "start": 74.92,
+      "end": 84.28,
+      "text": " Mütze, der Schal, die Sonne, der Regen, der Schnee, der Wind, die Wolke, der Baum, die Blume,",
+      "avg_logprob": -0.18861837430698117,
+      "words": [
+        {
+          "word": " Mütze,",
+          "start": 74.92,
+          "end": 75.38,
+          "probability": 0.6717484587182602
+        },
+        {
+          "word": " der",
+          "start": 75.72,
+          "end": 76.06,
+          "probability": 0.9913191199302673
+        },
+        {
+          "word": " Schal,",
+          "start": 76.06,
+          "end": 76.52,
+          "probability": 0.9335412383079529
+        },
+        {
+          "word": " die",
+          "start": 76.94,
+          "end": 77.24,
+          "probability": 0.9954980611801147
+        },
+        {
+          "word": " Sonne,",
+          "start": 77.24,
+          "end": 77.64,
+          "probability": 0.9973565936088562
+        },
+        {
+          "word": " der",
+          "start": 78.08,
+          "end": 78.36,
+          "probability": 0.9968810081481934
+        },
+        {
+          "word": " Regen,",
+          "start": 78.36,
+          "end": 78.84,
+          "probability": 0.9957124590873718
+        },
+        {
+          "word": " der",
+          "start": 79.2,
+          "end": 79.44,
+          "probability": 0.9982253909111023
+        },
+        {
+          "word": " Schnee,",
+          "start": 79.44,
+          "end": 79.96,
+          "probability": 0.997794508934021
+        },
+        {
+          "word": " der",
+          "start": 80.32,
+          "end": 80.54,
+          "probability": 0.9978567957878113
+        },
+        {
+          "word": " Wind,",
+          "start": 80.54,
+          "end": 80.82,
+          "probability": 0.9933632612228394
+        },
+        {
+          "word": " die",
+          "start": 81.44,
+          "end": 81.66,
+          "probability": 0.9960070252418518
+        },
+        {
+          "word": " Wolke,",
+          "start": 81.66,
+          "end": 82.04,
+          "probability": 0.9937710464000702
+        },
+        {
+          "word": " der",
+          "start": 82.68,
+          "end": 82.8,
+          "probability": 0.997542142868042
+        },
+        {
+          "word": " Baum,",
+          "start": 82.8,
+          "end": 83.14,
+          "probability": 0.9870076775550842
+        },
+        {
+          "word": " die",
+          "start": 83.78,
+          "end": 83.9,
+          "probability": 0.9969281554222107
+        },
+        {
+          "word": " Blume,",
+          "start": 83.9,
+          "end": 84.28,
+          "probability": 0.9942394495010376
+        }
+      ]
+    },
+    {
+      "start": 85.0,
+      "end": 95.44,
+      "text": " Lerne, Lernst, Lernt, Höhre, Hörst, Hört, Gehe, Geßt, Geht, Komme, Kommst, Kommt,",
+      "avg_logprob": -0.18861837430698117,
+      "words": [
+        {
+          "word": " Lerne,",
+          "start": 85.0,
+          "end": 85.4,
+          "probability": 0.6811420818169912
+        },
+        {
+          "word": " Lernst,",
+          "start": 86.04,
+          "end": 86.52,
+          "probability": 0.969827135403951
+        },
+        {
+          "word": " Lernt,",
+          "start": 87.04,
+          "end": 87.48,
+          "probability": 0.8759479522705078
+        },
+        {
+          "word": " Höhre,",
+          "start": 88.04,
+          "end": 88.36,
+          "probability": 0.7087953388690948
+        },
+        {
+          "word": " Hörst,",
+          "start": 88.96,
+          "end": 89.38,
+          "probability": 0.865552544593811
+        },
+        {
+          "word": " Hört,",
+          "start": 89.8,
+          "end": 90.0,
+          "probability": 0.8301014304161072
+        },
+        {
+          "word": " Gehe,",
+          "start": 90.74,
+          "end": 91.08,
+          "probability": 0.9504334628582001
+        },
+        {
+          "word": " Geßt,",
+          "start": 91.56,
+          "end": 92.2,
+          "probability": 0.8298324743906657
+        },
+        {
+          "word": " Geht,",
+          "start": 92.52,
+          "end": 92.8,
+          "probability": 0.9877932071685791
+        },
+        {
+          "word": " Komme,",
+          "start": 93.48,
+          "end": 93.64,
+          "probability": 0.7895683348178864
+        },
+        {
+          "word": " Kommst,",
+          "start": 94.2,
+          "end": 94.68,
+          "probability": 0.7828433811664581
+        },
+        {
+          "word": " Kommt,",
+          "start": 95.08,
+          "end": 95.44,
+          "probability": 0.9355988204479218
+        }
+      ]
+    },
+    {
+      "start": 95.44,
+      "end": 105.92,
+      "text": " sehe, siehst, sieht, seht, spreche, sprichst, spricht, sprecht, arbeite, arbeitest, arbeitet,",
+      "avg_logprob": -0.192427339553833,
+      "words": [
+        {
+          "word": " sehe,",
+          "start": 95.44,
+          "end": 96.52,
+          "probability": 0.46298761712387204
+        },
+        {
+          "word": " siehst,",
+          "start": 96.66,
+          "end": 97.38,
+          "probability": 0.8590711653232574
+        },
+        {
+          "word": " sieht,",
+          "start": 97.82,
+          "end": 98.08,
+          "probability": 0.961816668510437
+        },
+        {
+          "word": " seht,",
+          "start": 98.62,
+          "end": 99.36,
+          "probability": 0.8519467115402222
+        },
+        {
+          "word": " spreche,",
+          "start": 99.72,
+          "end": 100.02,
+          "probability": 0.9926030039787292
+        },
+        {
+          "word": " sprichst,",
+          "start": 100.56,
+          "end": 101.18,
+          "probability": 0.944349467754364
+        },
+        {
+          "word": " spricht,",
+          "start": 101.42,
+          "end": 101.82,
+          "probability": 0.9668302536010742
+        },
+        {
+          "word": " sprecht,",
+          "start": 102.2,
+          "end": 102.94,
+          "probability": 0.9239748120307922
+        },
+        {
+          "word": " arbeite,",
+          "start": 103.34,
+          "end": 103.96,
+          "probability": 0.9702644348144531
+        },
+        {
+          "word": " arbeitest,",
+          "start": 104.34,
+          "end": 105.06,
+          "probability": 0.945297360420227
+        },
+        {
+          "word": " arbeitet,",
+          "start": 105.44,
+          "end": 105.92,
+          "probability": 0.9680125713348389
+        }
+      ]
+    },
+    {
+      "start": 106.6,
+      "end": 115.92,
+      "text": " esse, ist, est, trinke, trinkst, trinkt, schlafe, schläft, schläft, schlaft, lese,",
+      "avg_logprob": -0.192427339553833,
+      "words": [
+        {
+          "word": " esse,",
+          "start": 106.6,
+          "end": 106.82,
+          "probability": 0.9488586783409119
+        },
+        {
+          "word": " ist,",
+          "start": 107.44,
+          "end": 107.68,
+          "probability": 0.8989412784576416
+        },
+        {
+          "word": " est,",
+          "start": 108.18,
+          "end": 108.42,
+          "probability": 0.43593528866767883
+        },
+        {
+          "word": " trinke,",
+          "start": 109.08,
+          "end": 109.44,
+          "probability": 0.9841115276018778
+        },
+        {
+          "word": " trinkst,",
+          "start": 109.96,
+          "end": 110.48,
+          "probability": 0.9294216632843018
+        },
+        {
+          "word": " trinkt,",
+          "start": 110.82,
+          "end": 111.24,
+          "probability": 0.9823619922002157
+        },
+        {
+          "word": " schlafe,",
+          "start": 111.8,
+          "end": 112.2,
+          "probability": 0.9844449361165365
+        },
+        {
+          "word": " schläft,",
+          "start": 112.8,
+          "end": 113.06,
+          "probability": 0.9372702042261759
+        },
+        {
+          "word": " schläft,",
+          "start": 113.54,
+          "end": 114.06,
+          "probability": 0.9594346682230631
+        },
+        {
+          "word": " schlaft,",
+          "start": 114.5,
+          "end": 114.96,
+          "probability": 0.8853378097216288
+        },
+        {
+          "word": " lese,",
+          "start": 115.58,
+          "end": 115.92,
+          "probability": 0.964885801076889
+        }
+      ]
+    },
+    {
+      "start": 115.92,
+      "end": 125.66,
+      "text": " liest, lest, schreibe, schreibst, schreibt, weißt, wisst, kenne, kennst, kennt, will,",
+      "avg_logprob": -0.21952388469989484,
+      "words": [
+        {
+          "word": " liest,",
+          "start": 115.92,
+          "end": 116.94,
+          "probability": 0.5037830960936844
+        },
+        {
+          "word": " lest,",
+          "start": 117.32,
+          "end": 117.68,
+          "probability": 0.6244557052850723
+        },
+        {
+          "word": " schreibe,",
+          "start": 117.8,
+          "end": 118.74,
+          "probability": 0.964899480342865
+        },
+        {
+          "word": " schreibst,",
+          "start": 119.16,
+          "end": 119.76,
+          "probability": 0.9726915160814921
+        },
+        {
+          "word": " schreibt,",
+          "start": 120.06,
+          "end": 120.4,
+          "probability": 0.9730355739593506
+        },
+        {
+          "word": " weißt,",
+          "start": 121.08,
+          "end": 121.5,
+          "probability": 0.7148880064487457
+        },
+        {
+          "word": " wisst,",
+          "start": 121.92,
+          "end": 122.5,
+          "probability": 0.9143949151039124
+        },
+        {
+          "word": " kenne,",
+          "start": 122.84,
+          "end": 123.12,
+          "probability": 0.937200278043747
+        },
+        {
+          "word": " kennst,",
+          "start": 123.6,
+          "end": 124.08,
+          "probability": 0.8823911249637604
+        },
+        {
+          "word": " kennt,",
+          "start": 124.44,
+          "end": 124.62,
+          "probability": 0.8616808652877808
+        },
+        {
+          "word": " will,",
+          "start": 125.4,
+          "end": 125.66,
+          "probability": 0.9918625354766846
+        }
+      ]
+    },
+    {
+      "start": 125.98,
+      "end": 135.88,
+      "text": " willst, wollt, kann, kannst, könnt, muss, muss, müsst, brauche, brauchst, braucht, gebe,",
+      "avg_logprob": -0.21952388469989484,
+      "words": [
+        {
+          "word": " willst,",
+          "start": 125.98,
+          "end": 126.48,
+          "probability": 0.9276671409606934
+        },
+        {
+          "word": " wollt,",
+          "start": 126.94,
+          "end": 127.16,
+          "probability": 0.8623923659324646
+        },
+        {
+          "word": " kann,",
+          "start": 127.94,
+          "end": 128.18,
+          "probability": 0.9679651856422424
+        },
+        {
+          "word": " kannst,",
+          "start": 128.66,
+          "end": 128.96,
+          "probability": 0.7101035714149475
+        },
+        {
+          "word": " könnt,",
+          "start": 129.52,
+          "end": 129.7,
+          "probability": 0.831263542175293
+        },
+        {
+          "word": " muss,",
+          "start": 130.42,
+          "end": 130.66,
+          "probability": 0.9754385948181152
+        },
+        {
+          "word": " muss,",
+          "start": 131.04,
+          "end": 131.38,
+          "probability": 0.8925955891609192
+        },
+        {
+          "word": " müsst,",
+          "start": 131.78,
+          "end": 132.22,
+          "probability": 0.7263983488082886
+        },
+        {
+          "word": " brauche,",
+          "start": 132.88,
+          "end": 133.26,
+          "probability": 0.9498656094074249
+        },
+        {
+          "word": " brauchst,",
+          "start": 133.74,
+          "end": 134.34,
+          "probability": 0.9498531222343445
+        },
+        {
+          "word": " braucht,",
+          "start": 134.58,
+          "end": 134.88,
+          "probability": 0.9723525643348694
+        },
+        {
+          "word": " gebe,",
+          "start": 135.62,
+          "end": 135.88,
+          "probability": 0.7441285848617554
+        }
+      ]
+    },
+    {
+      "start": 135.88,
+      "end": 146.88,
+      "text": " gibst, gibt, gebt, nehme, nimmst, nimmt, nehmt, finde, findest, findet, kaufe, kaufst, kauft,",
+      "avg_logprob": -0.1626054110915162,
+      "words": [
+        {
+          "word": " gibst,",
+          "start": 135.88,
+          "end": 136.92,
+          "probability": 0.4935147320920805
+        },
+        {
+          "word": " gibt,",
+          "start": 136.96,
+          "end": 137.4,
+          "probability": 0.9661890864372253
+        },
+        {
+          "word": " gebt,",
+          "start": 137.9,
+          "end": 138.66,
+          "probability": 0.7540695071220398
+        },
+        {
+          "word": " nehme,",
+          "start": 138.66,
+          "end": 139.12,
+          "probability": 0.6732391119003296
+        },
+        {
+          "word": " nimmst,",
+          "start": 139.7,
+          "end": 140.16,
+          "probability": 0.9810891548792521
+        },
+        {
+          "word": " nimmt,",
+          "start": 140.32,
+          "end": 140.9,
+          "probability": 0.6818483670552572
+        },
+        {
+          "word": " nehmt,",
+          "start": 141.08,
+          "end": 141.62,
+          "probability": 0.9544405341148376
+        },
+        {
+          "word": " finde,",
+          "start": 142.12,
+          "end": 142.4,
+          "probability": 0.9153316617012024
+        },
+        {
+          "word": " findest,",
+          "start": 142.82,
+          "end": 143.46,
+          "probability": 0.9927676320075989
+        },
+        {
+          "word": " findet,",
+          "start": 143.8,
+          "end": 144.16,
+          "probability": 0.8964220285415649
+        },
+        {
+          "word": " kaufe,",
+          "start": 144.84,
+          "end": 145.26,
+          "probability": 0.9789272248744965
+        },
+        {
+          "word": " kaufst,",
+          "start": 145.72,
+          "end": 146.26,
+          "probability": 0.9694819847742716
+        },
+        {
+          "word": " kauft,",
+          "start": 146.6,
+          "end": 146.88,
+          "probability": 0.8667854964733124
+        }
+      ]
+    },
+    {
+      "start": 147.58,
+      "end": 156.54,
+      "text": " fahre, fährst, fährt, fahrt, bleibe, bleibst, bleibt, öffne, öffnest, öffnet, schließe,",
+      "avg_logprob": -0.1626054110915162,
+      "words": [
+        {
+          "word": " fahre,",
+          "start": 147.58,
+          "end": 147.94,
+          "probability": 0.9693722526232401
+        },
+        {
+          "word": " fährst,",
+          "start": 148.38,
+          "end": 148.88,
+          "probability": 0.9627604087193807
+        },
+        {
+          "word": " fährt,",
+          "start": 149.24,
+          "end": 149.48,
+          "probability": 0.9653801023960114
+        },
+        {
+          "word": " fahrt,",
+          "start": 150.0,
+          "end": 150.52,
+          "probability": 0.9762547810872396
+        },
+        {
+          "word": " bleibe,",
+          "start": 150.86,
+          "end": 151.22,
+          "probability": 0.9105527400970459
+        },
+        {
+          "word": " bleibst,",
+          "start": 151.72,
+          "end": 152.24,
+          "probability": 0.9811004996299744
+        },
+        {
+          "word": " bleibt,",
+          "start": 152.48,
+          "end": 152.78,
+          "probability": 0.9620336294174194
+        },
+        {
+          "word": " öffne,",
+          "start": 153.5,
+          "end": 153.84,
+          "probability": 0.9880644083023071
+        },
+        {
+          "word": " öffnest,",
+          "start": 154.28,
+          "end": 154.76,
+          "probability": 0.9736425280570984
+        },
+        {
+          "word": " öffnet,",
+          "start": 155.14,
+          "end": 155.5,
+          "probability": 0.9949718316396078
+        },
+        {
+          "word": " schließe,",
+          "start": 156.16,
+          "end": 156.54,
+          "probability": 0.9812281727790833
+        }
+      ]
+    },
+    {
+      "start": 156.54,
+      "end": 166.42,
+      "text": " schließt, helfe, hilfst, hilft, helft, es macht, es sagt, wir sagen, ihr sagt, sie",
+      "avg_logprob": -0.16800977637370426,
+      "words": [
+        {
+          "word": " schließt,",
+          "start": 156.54,
+          "end": 157.7,
+          "probability": 0.6957941104968389
+        },
+        {
+          "word": " helfe,",
+          "start": 157.72,
+          "end": 158.3,
+          "probability": 0.9559513628482819
+        },
+        {
+          "word": " hilfst,",
+          "start": 158.68,
+          "end": 159.28,
+          "probability": 0.635321170091629
+        },
+        {
+          "word": " hilft,",
+          "start": 159.38,
+          "end": 159.84,
+          "probability": 0.9416067600250244
+        },
+        {
+          "word": " helft,",
+          "start": 160.08,
+          "end": 160.62,
+          "probability": 0.9651748836040497
+        },
+        {
+          "word": " es",
+          "start": 161.26,
+          "end": 161.26,
+          "probability": 0.9631730318069458
+        },
+        {
+          "word": " macht,",
+          "start": 161.26,
+          "end": 161.66,
+          "probability": 0.998837411403656
+        },
+        {
+          "word": " es",
+          "start": 162.36,
+          "end": 162.54,
+          "probability": 0.9916696548461914
+        },
+        {
+          "word": " sagt,",
+          "start": 162.54,
+          "end": 162.98,
+          "probability": 0.9586632251739502
+        },
+        {
+          "word": " wir",
+          "start": 163.66,
+          "end": 163.82,
+          "probability": 0.9894146919250488
+        },
+        {
+          "word": " sagen,",
+          "start": 163.82,
+          "end": 164.28,
+          "probability": 0.9953828454017639
+        },
+        {
+          "word": " ihr",
+          "start": 164.86,
+          "end": 165.02,
+          "probability": 0.9854835271835327
+        },
+        {
+          "word": " sagt,",
+          "start": 165.02,
+          "end": 165.46,
+          "probability": 0.9940553903579712
+        },
+        {
+          "word": " sie",
+          "start": 166.26,
+          "end": 166.42,
+          "probability": 0.9376012682914734
+        }
+      ]
+    },
+    {
+      "start": 166.42,
+      "end": 177.26,
+      "text": " sagen, es fragt, wir fragen, ihr fragt, sie fragen, es liebt, wir lieben, ihr",
+      "avg_logprob": -0.16800977637370426,
+      "words": [
+        {
+          "word": " sagen,",
+          "start": 166.42,
+          "end": 166.9,
+          "probability": 0.9915607571601868
+        },
+        {
+          "word": " es",
+          "start": 167.74,
+          "end": 167.92,
+          "probability": 0.9860029220581055
+        },
+        {
+          "word": " fragt,",
+          "start": 167.92,
+          "end": 169.02,
+          "probability": 0.9929701387882233
+        },
+        {
+          "word": " wir",
+          "start": 169.38,
+          "end": 169.56,
+          "probability": 0.988949179649353
+        },
+        {
+          "word": " fragen,",
+          "start": 169.56,
+          "end": 170.14,
+          "probability": 0.9889065027236938
+        },
+        {
+          "word": " ihr",
+          "start": 170.94,
+          "end": 171.12,
+          "probability": 0.996216356754303
+        },
+        {
+          "word": " fragt,",
+          "start": 171.12,
+          "end": 171.96,
+          "probability": 0.9947370886802673
+        },
+        {
+          "word": " sie",
+          "start": 172.58,
+          "end": 172.76,
+          "probability": 0.9859472513198853
+        },
+        {
+          "word": " fragen,",
+          "start": 172.76,
+          "end": 173.28,
+          "probability": 0.9819856882095337
+        },
+        {
+          "word": " es",
+          "start": 174.2,
+          "end": 174.38,
+          "probability": 0.9809867739677429
+        },
+        {
+          "word": " liebt,",
+          "start": 174.38,
+          "end": 174.88,
+          "probability": 0.994083434343338
+        },
+        {
+          "word": " wir",
+          "start": 175.68,
+          "end": 175.92,
+          "probability": 0.9908792972564697
+        },
+        {
+          "word": " lieben,",
+          "start": 175.92,
+          "end": 176.42,
+          "probability": 0.9951866865158081
+        },
+        {
+          "word": " ihr",
+          "start": 177.06,
+          "end": 177.26,
+          "probability": 0.9958892464637756
+        }
+      ]
+    },
+    {
+      "start": 177.26,
+      "end": 188.1,
+      "text": " liebt. Sie lieben. Es lacht. Wir lachen. Ihr lacht. Sie lachen. Es wohnt. Wir wohnen.",
+      "avg_logprob": -0.1393428479415783,
+      "words": [
+        {
+          "word": " liebt.",
+          "start": 177.26,
+          "end": 177.78,
+          "probability": 0.5269518569111824
+        },
+        {
+          "word": " Sie",
+          "start": 178.18,
+          "end": 178.68,
+          "probability": 0.7355133891105652
+        },
+        {
+          "word": " lieben.",
+          "start": 178.68,
+          "end": 179.28,
+          "probability": 0.9796605706214905
+        },
+        {
+          "word": " Es",
+          "start": 180.04,
+          "end": 180.2,
+          "probability": 0.9120877385139465
+        },
+        {
+          "word": " lacht.",
+          "start": 180.2,
+          "end": 180.62,
+          "probability": 0.9867956340312958
+        },
+        {
+          "word": " Wir",
+          "start": 181.5,
+          "end": 181.64,
+          "probability": 0.9645674824714661
+        },
+        {
+          "word": " lachen.",
+          "start": 181.64,
+          "end": 182.04,
+          "probability": 0.9960862100124359
+        },
+        {
+          "word": " Ihr",
+          "start": 182.84,
+          "end": 183.02,
+          "probability": 0.8924638628959656
+        },
+        {
+          "word": " lacht.",
+          "start": 183.02,
+          "end": 183.4,
+          "probability": 0.9950566291809082
+        },
+        {
+          "word": " Sie",
+          "start": 184.28,
+          "end": 184.42,
+          "probability": 0.991635799407959
+        },
+        {
+          "word": " lachen.",
+          "start": 184.42,
+          "end": 184.82,
+          "probability": 0.9972991645336151
+        },
+        {
+          "word": " Es",
+          "start": 185.76,
+          "end": 185.92,
+          "probability": 0.9823119640350342
+        },
+        {
+          "word": " wohnt.",
+          "start": 185.92,
+          "end": 186.46,
+          "probability": 0.9900876879692078
+        },
+        {
+          "word": " Wir",
+          "start": 187.32,
+          "end": 187.48,
+          "probability": 0.9880195260047913
+        },
+        {
+          "word": " wohnen.",
+          "start": 187.48,
+          "end": 188.1,
+          "probability": 0.9864935477574667
+        }
+      ]
+    },
+    {
+      "start": 188.74,
+      "end": 199.52,
+      "text": " Ihr wohnt. Sie wohnen. Es singt. Wir singen. Ihr singt. Sie singen. Es spielt. Ihr spielt.",
+      "avg_logprob": -0.1393428479415783,
+      "words": [
+        {
+          "word": " Ihr",
+          "start": 188.74,
+          "end": 188.94,
+          "probability": 0.9812545776367188
+        },
+        {
+          "word": " wohnt.",
+          "start": 188.94,
+          "end": 189.44,
+          "probability": 0.9919394552707672
+        },
+        {
+          "word": " Sie",
+          "start": 190.22,
+          "end": 190.32,
+          "probability": 0.9945106506347656
+        },
+        {
+          "word": " wohnen.",
+          "start": 190.32,
+          "end": 190.98,
+          "probability": 0.9944548010826111
+        },
+        {
+          "word": " Es",
+          "start": 191.72,
+          "end": 191.92,
+          "probability": 0.9818195104598999
+        },
+        {
+          "word": " singt.",
+          "start": 191.92,
+          "end": 192.44,
+          "probability": 0.7092438787221909
+        },
+        {
+          "word": " Wir",
+          "start": 193.22,
+          "end": 193.42,
+          "probability": 0.9933021068572998
+        },
+        {
+          "word": " singen.",
+          "start": 193.42,
+          "end": 193.94,
+          "probability": 0.9925455152988434
+        },
+        {
+          "word": " Ihr",
+          "start": 194.58,
+          "end": 194.8,
+          "probability": 0.9862896203994751
+        },
+        {
+          "word": " singt.",
+          "start": 194.8,
+          "end": 195.28,
+          "probability": 0.9690093994140625
+        },
+        {
+          "word": " Sie",
+          "start": 196.0,
+          "end": 196.16,
+          "probability": 0.9960324168205261
+        },
+        {
+          "word": " singen.",
+          "start": 196.16,
+          "end": 196.7,
+          "probability": 0.9964784383773804
+        },
+        {
+          "word": " Es",
+          "start": 197.48,
+          "end": 197.64,
+          "probability": 0.9940508008003235
+        },
+        {
+          "word": " spielt.",
+          "start": 197.64,
+          "end": 198.02,
+          "probability": 0.99399733543396
+        },
+        {
+          "word": " Ihr",
+          "start": 198.98,
+          "end": 199.2,
+          "probability": 0.982304573059082
+        },
+        {
+          "word": " spielt.",
+          "start": 199.2,
+          "end": 199.52,
+          "probability": 0.9964286684989929
+        }
+      ]
+    },
+    {
+      "start": 199.52,
+      "end": 212.66,
+      "text": " Sie spielen. Es tanzt. Wir tanzen. Ihr tanzt. Sie tanzen. Es ist. Wir sind. Ihr seid. Sie sind.",
+      "avg_logprob": -0.12763665550771883,
+      "words": [
+        {
+          "word": " Sie",
+          "start": 199.52,
+          "end": 200.64,
+          "probability": 0.6044203639030457
+        },
+        {
+          "word": " spielen.",
+          "start": 200.64,
+          "end": 201.12,
+          "probability": 0.8893049359321594
+        },
+        {
+          "word": " Es",
+          "start": 201.82,
+          "end": 202.18,
+          "probability": 0.7525593042373657
+        },
+        {
+          "word": " tanzt.",
+          "start": 202.18,
+          "end": 202.8,
+          "probability": 0.8868075907230377
+        },
+        {
+          "word": " Wir",
+          "start": 203.54,
+          "end": 203.68,
+          "probability": 0.9636270999908447
+        },
+        {
+          "word": " tanzen.",
+          "start": 203.68,
+          "end": 204.22,
+          "probability": 0.9531538188457489
+        },
+        {
+          "word": " Ihr",
+          "start": 204.94,
+          "end": 205.14,
+          "probability": 0.9083903431892395
+        },
+        {
+          "word": " tanzt.",
+          "start": 205.14,
+          "end": 205.7,
+          "probability": 0.9563106894493103
+        },
+        {
+          "word": " Sie",
+          "start": 206.38,
+          "end": 206.52,
+          "probability": 0.9901611804962158
+        },
+        {
+          "word": " tanzen.",
+          "start": 206.52,
+          "end": 207.02,
+          "probability": 0.9664398729801178
+        },
+        {
+          "word": " Es",
+          "start": 207.92,
+          "end": 208.1,
+          "probability": 0.9835456609725952
+        },
+        {
+          "word": " ist.",
+          "start": 208.1,
+          "end": 208.46,
+          "probability": 0.994461715221405
+        },
+        {
+          "word": " Wir",
+          "start": 209.38,
+          "end": 209.56,
+          "probability": 0.9864012598991394
+        },
+        {
+          "word": " sind.",
+          "start": 209.56,
+          "end": 209.9,
+          "probability": 0.999228835105896
+        },
+        {
+          "word": " Ihr",
+          "start": 210.7,
+          "end": 210.94,
+          "probability": 0.9948019981384277
+        },
+        {
+          "word": " seid.",
+          "start": 210.94,
+          "end": 211.26,
+          "probability": 0.9952432513237
+        },
+        {
+          "word": " Sie",
+          "start": 212.16,
+          "end": 212.34,
+          "probability": 0.9919258952140808
+        },
+        {
+          "word": " sind.",
+          "start": 212.34,
+          "end": 212.66,
+          "probability": 0.9993281364440918
+        }
+      ]
+    },
+    {
+      "start": 213.46,
+      "end": 225.6,
+      "text": " Es hat. Wir haben. Ihr habt. Sie haben. Ich gehe. Du gehst. Er geht. Sie geht. Es geht. Wir gehen.",
+      "avg_logprob": -0.12763665550771883,
+      "words": [
+        {
+          "word": " Es",
+          "start": 213.46,
+          "end": 213.7,
+          "probability": 0.9934526681900024
+        },
+        {
+          "word": " hat.",
+          "start": 213.7,
+          "end": 214.0,
+          "probability": 0.998751163482666
+        },
+        {
+          "word": " Wir",
+          "start": 214.76,
+          "end": 214.96,
+          "probability": 0.9907234311103821
+        },
+        {
+          "word": " haben.",
+          "start": 214.96,
+          "end": 215.4,
+          "probability": 0.9991222023963928
+        },
+        {
+          "word": " Ihr",
+          "start": 216.12,
+          "end": 216.34,
+          "probability": 0.9839286804199219
+        },
+        {
+          "word": " habt.",
+          "start": 216.34,
+          "end": 216.72,
+          "probability": 0.9284093976020813
+        },
+        {
+          "word": " Sie",
+          "start": 217.46,
+          "end": 217.6,
+          "probability": 0.9913347363471985
+        },
+        {
+          "word": " haben.",
+          "start": 217.6,
+          "end": 217.98,
+          "probability": 0.9989437460899353
+        },
+        {
+          "word": " Ich",
+          "start": 218.78,
+          "end": 218.98,
+          "probability": 0.9887996912002563
+        },
+        {
+          "word": " gehe.",
+          "start": 218.98,
+          "end": 219.28,
+          "probability": 0.9847937226295471
+        },
+        {
+          "word": " Du",
+          "start": 219.92,
+          "end": 220.24,
+          "probability": 0.9909552931785583
+        },
+        {
+          "word": " gehst.",
+          "start": 220.24,
+          "end": 220.82,
+          "probability": 0.9360286891460419
+        },
+        {
+          "word": " Er",
+          "start": 221.36,
+          "end": 221.54,
+          "probability": 0.9853726029396057
+        },
+        {
+          "word": " geht.",
+          "start": 221.54,
+          "end": 221.82,
+          "probability": 0.9986862540245056
+        },
+        {
+          "word": " Sie",
+          "start": 222.56,
+          "end": 222.76,
+          "probability": 0.993334174156189
+        },
+        {
+          "word": " geht.",
+          "start": 222.76,
+          "end": 223.06,
+          "probability": 0.9985721111297607
+        },
+        {
+          "word": " Es",
+          "start": 223.68,
+          "end": 223.96,
+          "probability": 0.9896244406700134
+        },
+        {
+          "word": " geht.",
+          "start": 223.96,
+          "end": 224.26,
+          "probability": 0.9993003606796265
+        },
+        {
+          "word": " Wir",
+          "start": 225.0,
+          "end": 225.24,
+          "probability": 0.9881191849708557
+        },
+        {
+          "word": " gehen.",
+          "start": 225.24,
+          "end": 225.6,
+          "probability": 0.997687816619873
+        }
+      ]
+    },
+    {
+      "start": 225.6,
+      "end": 237.74,
+      "text": " ihr geht sie gehen ich komme du kommst er kommt sie kommt es kommt wir kommen ihr kommt sie",
+      "avg_logprob": -0.15162620252492476,
+      "words": [
+        {
+          "word": " ihr",
+          "start": 225.6,
+          "end": 226.48,
+          "probability": 0.010929370298981667
+        },
+        {
+          "word": " geht",
+          "start": 226.48,
+          "end": 226.84,
+          "probability": 0.860135018825531
+        },
+        {
+          "word": " sie",
+          "start": 226.84,
+          "end": 227.66,
+          "probability": 0.2032751441001892
+        },
+        {
+          "word": " gehen",
+          "start": 227.66,
+          "end": 228.16,
+          "probability": 0.8972258567810059
+        },
+        {
+          "word": " ich",
+          "start": 228.16,
+          "end": 229.04,
+          "probability": 0.6931295394897461
+        },
+        {
+          "word": " komme",
+          "start": 229.04,
+          "end": 229.4,
+          "probability": 0.9938138723373413
+        },
+        {
+          "word": " du",
+          "start": 229.4,
+          "end": 230.28,
+          "probability": 0.8289478421211243
+        },
+        {
+          "word": " kommst",
+          "start": 230.28,
+          "end": 230.94,
+          "probability": 0.9822812080383301
+        },
+        {
+          "word": " er",
+          "start": 230.94,
+          "end": 231.58,
+          "probability": 0.9330291748046875
+        },
+        {
+          "word": " kommt",
+          "start": 231.58,
+          "end": 232.02,
+          "probability": 0.9938336610794067
+        },
+        {
+          "word": " sie",
+          "start": 232.02,
+          "end": 232.8,
+          "probability": 0.9889842867851257
+        },
+        {
+          "word": " kommt",
+          "start": 232.8,
+          "end": 233.26,
+          "probability": 0.996446430683136
+        },
+        {
+          "word": " es",
+          "start": 233.26,
+          "end": 234.02,
+          "probability": 0.9530167579650879
+        },
+        {
+          "word": " kommt",
+          "start": 234.02,
+          "end": 234.46,
+          "probability": 0.9933779835700989
+        },
+        {
+          "word": " wir",
+          "start": 234.46,
+          "end": 235.28,
+          "probability": 0.9815664291381836
+        },
+        {
+          "word": " kommen",
+          "start": 235.28,
+          "end": 235.7,
+          "probability": 0.9974405765533447
+        },
+        {
+          "word": " ihr",
+          "start": 235.7,
+          "end": 236.54,
+          "probability": 0.935465395450592
+        },
+        {
+          "word": " kommt",
+          "start": 236.54,
+          "end": 237.0,
+          "probability": 0.9932178854942322
+        },
+        {
+          "word": " sie",
+          "start": 237.0,
+          "end": 237.74,
+          "probability": 0.9922305941581726
+        }
+      ]
+    },
+    {
+      "start": 237.74,
+      "end": 250.28,
+      "text": " kommen ich sehe du siehst er sieht sie sieht es sieht wir sehen ihr seht sie sehen ich höre du",
+      "avg_logprob": -0.15162620252492476,
+      "words": [
+        {
+          "word": " kommen",
+          "start": 237.74,
+          "end": 238.14,
+          "probability": 0.993902325630188
+        },
+        {
+          "word": " ich",
+          "start": 238.14,
+          "end": 239.12,
+          "probability": 0.9461132287979126
+        },
+        {
+          "word": " sehe",
+          "start": 239.12,
+          "end": 239.52,
+          "probability": 0.976125955581665
+        },
+        {
+          "word": " du",
+          "start": 239.52,
+          "end": 240.42,
+          "probability": 0.9523158073425293
+        },
+        {
+          "word": " siehst",
+          "start": 240.42,
+          "end": 241.06,
+          "probability": 0.9933546185493469
+        },
+        {
+          "word": " er",
+          "start": 241.06,
+          "end": 241.68,
+          "probability": 0.9717540144920349
+        },
+        {
+          "word": " sieht",
+          "start": 241.68,
+          "end": 242.08,
+          "probability": 0.9919615387916565
+        },
+        {
+          "word": " sie",
+          "start": 242.08,
+          "end": 242.88,
+          "probability": 0.9845661520957947
+        },
+        {
+          "word": " sieht",
+          "start": 242.88,
+          "end": 243.34,
+          "probability": 0.980637788772583
+        },
+        {
+          "word": " es",
+          "start": 243.34,
+          "end": 244.04,
+          "probability": 0.9694471955299377
+        },
+        {
+          "word": " sieht",
+          "start": 244.04,
+          "end": 244.4,
+          "probability": 0.9949648976325989
+        },
+        {
+          "word": " wir",
+          "start": 244.4,
+          "end": 245.24,
+          "probability": 0.9779167771339417
+        },
+        {
+          "word": " sehen",
+          "start": 245.24,
+          "end": 245.7,
+          "probability": 0.9934676289558411
+        },
+        {
+          "word": " ihr",
+          "start": 245.7,
+          "end": 246.52,
+          "probability": 0.9863643050193787
+        },
+        {
+          "word": " seht",
+          "start": 246.52,
+          "end": 247.02,
+          "probability": 0.9716770052909851
+        },
+        {
+          "word": " sie",
+          "start": 247.02,
+          "end": 247.7,
+          "probability": 0.9845694899559021
+        },
+        {
+          "word": " sehen",
+          "start": 247.7,
+          "end": 248.16,
+          "probability": 0.9909291863441467
+        },
+        {
+          "word": " ich",
+          "start": 248.16,
+          "end": 249.06,
+          "probability": 0.9647142291069031
+        },
+        {
+          "word": " höre",
+          "start": 249.06,
+          "end": 249.54,
+          "probability": 0.9978123903274536
+        },
+        {
+          "word": " du",
+          "start": 249.54,
+          "end": 250.28,
+          "probability": 0.9809524416923523
+        }
+      ]
+    },
+    {
+      "start": 250.28,
+      "end": 258.14,
+      "text": " du hörst, er hört, sie hört, es hört, wir hören, ihr hört, sie hören",
+      "avg_logprob": -0.17033867104144035,
+      "words": [
+        {
+          "word": " du",
+          "start": 250.28,
+          "end": 250.32,
+          "probability": 0.050247978419065475
+        },
+        {
+          "word": " hörst,",
+          "start": 250.32,
+          "end": 250.98,
+          "probability": 0.8790247440338135
+        },
+        {
+          "word": " er",
+          "start": 251.2,
+          "end": 251.58,
+          "probability": 0.9941526055335999
+        },
+        {
+          "word": " hört,",
+          "start": 251.58,
+          "end": 251.94,
+          "probability": 0.996861457824707
+        },
+        {
+          "word": " sie",
+          "start": 252.58,
+          "end": 252.74,
+          "probability": 0.9987583160400391
+        },
+        {
+          "word": " hört,",
+          "start": 252.74,
+          "end": 253.18,
+          "probability": 0.9955059289932251
+        },
+        {
+          "word": " es",
+          "start": 253.74,
+          "end": 253.92,
+          "probability": 0.980113685131073
+        },
+        {
+          "word": " hört,",
+          "start": 253.92,
+          "end": 254.46,
+          "probability": 0.9987621307373047
+        },
+        {
+          "word": " wir",
+          "start": 254.9,
+          "end": 255.14,
+          "probability": 0.9924208521842957
+        },
+        {
+          "word": " hören,",
+          "start": 255.14,
+          "end": 255.6,
+          "probability": 0.9900640845298767
+        },
+        {
+          "word": " ihr",
+          "start": 256.24,
+          "end": 256.48,
+          "probability": 0.9949705004692078
+        },
+        {
+          "word": " hört,",
+          "start": 256.48,
+          "end": 256.9,
+          "probability": 0.9982094764709473
+        },
+        {
+          "word": " sie",
+          "start": 257.5,
+          "end": 257.66,
+          "probability": 0.9971550703048706
+        },
+        {
+          "word": " hören",
+          "start": 257.66,
+          "end": 258.14,
+          "probability": 0.9848302602767944
+        }
+      ]
+    },
+    {
+      "start": 258.14,
+      "end": 267.02,
+      "text": " ich spreche, du sprichst, er spricht, sie spricht, es spricht, wir sprechen, ihr",
+      "avg_logprob": -0.17033867104144035,
+      "words": [
+        {
+          "word": " ich",
+          "start": 258.14,
+          "end": 259.06,
+          "probability": 0.5188385844230652
+        },
+        {
+          "word": " spreche,",
+          "start": 259.06,
+          "end": 259.62,
+          "probability": 0.9981775879859924
+        },
+        {
+          "word": " du",
+          "start": 260.24,
+          "end": 260.38,
+          "probability": 0.993882417678833
+        },
+        {
+          "word": " sprichst,",
+          "start": 260.38,
+          "end": 261.26,
+          "probability": 0.964315136273702
+        },
+        {
+          "word": " er",
+          "start": 261.56,
+          "end": 261.72,
+          "probability": 0.997364342212677
+        },
+        {
+          "word": " spricht,",
+          "start": 261.72,
+          "end": 262.1,
+          "probability": 0.9781002402305603
+        },
+        {
+          "word": " sie",
+          "start": 262.88,
+          "end": 263.04,
+          "probability": 0.999363124370575
+        },
+        {
+          "word": " spricht,",
+          "start": 263.04,
+          "end": 263.5,
+          "probability": 0.9865272641181946
+        },
+        {
+          "word": " es",
+          "start": 264.12,
+          "end": 264.28,
+          "probability": 0.9933723211288452
+        },
+        {
+          "word": " spricht,",
+          "start": 264.28,
+          "end": 264.76,
+          "probability": 0.9950182437896729
+        },
+        {
+          "word": " wir",
+          "start": 265.5,
+          "end": 265.68,
+          "probability": 0.9955548644065857
+        },
+        {
+          "word": " sprechen,",
+          "start": 265.68,
+          "end": 266.18,
+          "probability": 0.9954066276550293
+        },
+        {
+          "word": " ihr",
+          "start": 266.86,
+          "end": 267.02,
+          "probability": 0.9980169534683228
+        }
+      ]
+    },
+    {
+      "start": 267.02,
+      "end": 275.94,
+      "text": " sprecht, sie sprechen, ich lerne, du lernst, er lernt, sie lernt, es lernt, wir",
+      "avg_logprob": -0.17033867104144035,
+      "words": [
+        {
+          "word": " sprecht,",
+          "start": 267.02,
+          "end": 267.66,
+          "probability": 0.8038521409034729
+        },
+        {
+          "word": " sie",
+          "start": 268.16,
+          "end": 268.34,
+          "probability": 0.9982194304466248
+        },
+        {
+          "word": " sprechen,",
+          "start": 268.34,
+          "end": 268.84,
+          "probability": 0.9892059564590454
+        },
+        {
+          "word": " ich",
+          "start": 269.64,
+          "end": 269.82,
+          "probability": 0.9935956597328186
+        },
+        {
+          "word": " lerne,",
+          "start": 269.82,
+          "end": 270.3,
+          "probability": 0.9707977771759033
+        },
+        {
+          "word": " du",
+          "start": 270.94,
+          "end": 271.08,
+          "probability": 0.991979718208313
+        },
+        {
+          "word": " lernst,",
+          "start": 271.08,
+          "end": 271.72,
+          "probability": 0.9962563713391622
+        },
+        {
+          "word": " er",
+          "start": 272.16,
+          "end": 272.36,
+          "probability": 0.9976140260696411
+        },
+        {
+          "word": " lernt,",
+          "start": 272.36,
+          "end": 272.78,
+          "probability": 0.9931080937385559
+        },
+        {
+          "word": " sie",
+          "start": 273.3,
+          "end": 273.52,
+          "probability": 0.9993059635162354
+        },
+        {
+          "word": " lernt,",
+          "start": 273.52,
+          "end": 274.0,
+          "probability": 0.9987970888614655
+        },
+        {
+          "word": " es",
+          "start": 274.5,
+          "end": 274.68,
+          "probability": 0.9883365035057068
+        },
+        {
+          "word": " lernt,",
+          "start": 274.68,
+          "end": 275.16,
+          "probability": 0.9953081905841827
+        },
+        {
+          "word": " wir",
+          "start": 275.76,
+          "end": 275.94,
+          "probability": 0.9943444728851318
+        }
+      ]
+    },
+    {
+      "start": 275.94,
+      "end": 285.68,
+      "text": " lernen. Ihr lernt. Sie lernen. Ich arbeite. Du arbeitest. Er arbeitet. Sie arbeitet. Es",
+      "avg_logprob": -0.1608301731673154,
+      "words": [
+        {
+          "word": " lernen.",
+          "start": 275.94,
+          "end": 276.42,
+          "probability": 0.23058369755744934
+        },
+        {
+          "word": " Ihr",
+          "start": 276.9,
+          "end": 277.22,
+          "probability": 0.016425227746367455
+        },
+        {
+          "word": " lernt.",
+          "start": 277.22,
+          "end": 277.7,
+          "probability": 0.9872961044311523
+        },
+        {
+          "word": " Sie",
+          "start": 278.24,
+          "end": 278.36,
+          "probability": 0.9603992104530334
+        },
+        {
+          "word": " lernen.",
+          "start": 278.36,
+          "end": 278.8,
+          "probability": 0.9868349432945251
+        },
+        {
+          "word": " Ich",
+          "start": 279.64,
+          "end": 279.84,
+          "probability": 0.9453073143959045
+        },
+        {
+          "word": " arbeite.",
+          "start": 279.84,
+          "end": 280.5,
+          "probability": 0.9979168772697449
+        },
+        {
+          "word": " Du",
+          "start": 281.1,
+          "end": 281.26,
+          "probability": 0.9708906412124634
+        },
+        {
+          "word": " arbeitest.",
+          "start": 281.26,
+          "end": 282.04,
+          "probability": 0.9545304775238037
+        },
+        {
+          "word": " Er",
+          "start": 282.6,
+          "end": 282.76,
+          "probability": 0.9848042726516724
+        },
+        {
+          "word": " arbeitet.",
+          "start": 282.76,
+          "end": 283.36,
+          "probability": 0.9964039325714111
+        },
+        {
+          "word": " Sie",
+          "start": 284.06,
+          "end": 284.22,
+          "probability": 0.9925966262817383
+        },
+        {
+          "word": " arbeitet.",
+          "start": 284.22,
+          "end": 284.78,
+          "probability": 0.9958933591842651
+        },
+        {
+          "word": " Es",
+          "start": 285.52,
+          "end": 285.68,
+          "probability": 0.9771190285682678
+        }
+      ]
+    },
+    {
+      "start": 285.68,
+      "end": 296.46,
+      "text": " arbeitet. Wir arbeiten. Ihr arbeitet. Sie arbeiten. Ich esse. Du ist. Er ist. Sie ist. Es",
+      "avg_logprob": -0.1608301731673154,
+      "words": [
+        {
+          "word": " arbeitet.",
+          "start": 285.68,
+          "end": 286.3,
+          "probability": 0.9978072047233582
+        },
+        {
+          "word": " Wir",
+          "start": 287.04,
+          "end": 287.18,
+          "probability": 0.9945831894874573
+        },
+        {
+          "word": " arbeiten.",
+          "start": 287.18,
+          "end": 287.86,
+          "probability": 0.9975401163101196
+        },
+        {
+          "word": " Ihr",
+          "start": 288.44,
+          "end": 288.64,
+          "probability": 0.9632979035377502
+        },
+        {
+          "word": " arbeitet.",
+          "start": 288.64,
+          "end": 289.22,
+          "probability": 0.9969011545181274
+        },
+        {
+          "word": " Sie",
+          "start": 289.94,
+          "end": 290.06,
+          "probability": 0.9941752552986145
+        },
+        {
+          "word": " arbeiten.",
+          "start": 290.06,
+          "end": 290.64,
+          "probability": 0.9961573481559753
+        },
+        {
+          "word": " Ich",
+          "start": 291.5,
+          "end": 291.68,
+          "probability": 0.9945428371429443
+        },
+        {
+          "word": " esse.",
+          "start": 291.68,
+          "end": 292.0,
+          "probability": 0.9662686586380005
+        },
+        {
+          "word": " Du",
+          "start": 292.66,
+          "end": 292.9,
+          "probability": 0.9923766255378723
+        },
+        {
+          "word": " ist.",
+          "start": 292.9,
+          "end": 293.24,
+          "probability": 0.6415185332298279
+        },
+        {
+          "word": " Er",
+          "start": 293.76,
+          "end": 294.1,
+          "probability": 0.9930671453475952
+        },
+        {
+          "word": " ist.",
+          "start": 294.1,
+          "end": 294.44,
+          "probability": 0.9720520377159119
+        },
+        {
+          "word": " Sie",
+          "start": 295.04,
+          "end": 295.28,
+          "probability": 0.9929261803627014
+        },
+        {
+          "word": " ist.",
+          "start": 295.28,
+          "end": 295.66,
+          "probability": 0.9680527448654175
+        },
+        {
+          "word": " Es",
+          "start": 296.28,
+          "end": 296.46,
+          "probability": 0.9888578653335571
+        }
+      ]
+    },
+    {
+      "start": 296.46,
+      "end": 306.56,
+      "text": " ist. Wir essen. Ihr esst. Sie essen. Ich trinke. Du trinkst. Er trinkt. Sie trinkt. Es",
+      "avg_logprob": -0.12394447854974053,
+      "words": [
+        {
+          "word": " ist.",
+          "start": 296.46,
+          "end": 296.8,
+          "probability": 0.2293468564748764
+        },
+        {
+          "word": " Wir",
+          "start": 297.26,
+          "end": 297.74,
+          "probability": 0.7142994403839111
+        },
+        {
+          "word": " essen.",
+          "start": 297.74,
+          "end": 298.16,
+          "probability": 0.9773153066635132
+        },
+        {
+          "word": " Ihr",
+          "start": 298.72,
+          "end": 299.02,
+          "probability": 0.6808189153671265
+        },
+        {
+          "word": " esst.",
+          "start": 299.02,
+          "end": 299.64,
+          "probability": 0.6190606653690338
+        },
+        {
+          "word": " Sie",
+          "start": 299.98,
+          "end": 300.2,
+          "probability": 0.979097843170166
+        },
+        {
+          "word": " essen.",
+          "start": 300.2,
+          "end": 300.6,
+          "probability": 0.9777867794036865
+        },
+        {
+          "word": " Ich",
+          "start": 301.42,
+          "end": 301.58,
+          "probability": 0.9810389280319214
+        },
+        {
+          "word": " trinke.",
+          "start": 301.58,
+          "end": 302.06,
+          "probability": 0.9583233197530111
+        },
+        {
+          "word": " Du",
+          "start": 302.64,
+          "end": 302.86,
+          "probability": 0.987537682056427
+        },
+        {
+          "word": " trinkst.",
+          "start": 302.86,
+          "end": 303.52,
+          "probability": 0.9756972392400106
+        },
+        {
+          "word": " Er",
+          "start": 303.96,
+          "end": 304.14,
+          "probability": 0.9882516264915466
+        },
+        {
+          "word": " trinkt.",
+          "start": 304.14,
+          "end": 304.72,
+          "probability": 0.9892242153485616
+        },
+        {
+          "word": " Sie",
+          "start": 305.2,
+          "end": 305.34,
+          "probability": 0.9943406581878662
+        },
+        {
+          "word": " trinkt.",
+          "start": 305.34,
+          "end": 306.06,
+          "probability": 0.9922847151756287
+        },
+        {
+          "word": " Es",
+          "start": 306.4,
+          "end": 306.56,
+          "probability": 0.9399840831756592
+        }
+      ]
+    },
+    {
+      "start": 306.56,
+      "end": 315.76,
+      "text": " trinkt. Wir trinken. Ihr trinkt. Sie trinken. Ich schlafe. Du schläft. Er schläft. Sie",
+      "avg_logprob": -0.12394447854974053,
+      "words": [
+        {
+          "word": " trinkt.",
+          "start": 306.56,
+          "end": 307.18,
+          "probability": 0.9915944735209147
+        },
+        {
+          "word": " Wir",
+          "start": 307.7,
+          "end": 307.88,
+          "probability": 0.9935198426246643
+        },
+        {
+          "word": " trinken.",
+          "start": 307.88,
+          "end": 308.34,
+          "probability": 0.9984400272369385
+        },
+        {
+          "word": " Ihr",
+          "start": 309.02,
+          "end": 309.18,
+          "probability": 0.9621281623840332
+        },
+        {
+          "word": " trinkt.",
+          "start": 309.18,
+          "end": 309.78,
+          "probability": 0.9971377849578857
+        },
+        {
+          "word": " Sie",
+          "start": 310.26,
+          "end": 310.38,
+          "probability": 0.9944032430648804
+        },
+        {
+          "word": " trinken.",
+          "start": 310.38,
+          "end": 310.88,
+          "probability": 0.9954652190208435
+        },
+        {
+          "word": " Ich",
+          "start": 311.7,
+          "end": 311.86,
+          "probability": 0.9924911856651306
+        },
+        {
+          "word": " schlafe.",
+          "start": 311.86,
+          "end": 312.38,
+          "probability": 0.989499032497406
+        },
+        {
+          "word": " Du",
+          "start": 313.04,
+          "end": 313.22,
+          "probability": 0.9948092699050903
+        },
+        {
+          "word": " schläft.",
+          "start": 313.22,
+          "end": 313.62,
+          "probability": 0.878011167049408
+        },
+        {
+          "word": " Er",
+          "start": 314.24,
+          "end": 314.5,
+          "probability": 0.9968172311782837
+        },
+        {
+          "word": " schläft.",
+          "start": 314.5,
+          "end": 314.94,
+          "probability": 0.9868577718734741
+        },
+        {
+          "word": " Sie",
+          "start": 315.6,
+          "end": 315.76,
+          "probability": 0.9953898191452026
+        }
+      ]
+    },
+    {
+      "start": 315.76,
+      "end": 325.44,
+      "text": " schläft. Es schläft. Wir schlafen. Ihr schlaft. Sie schlafen. Ich lese. Du liest. Er liest.",
+      "avg_logprob": -0.12394447854974053,
+      "words": [
+        {
+          "word": " schläft.",
+          "start": 315.76,
+          "end": 316.28,
+          "probability": 0.985402524471283
+        },
+        {
+          "word": " Es",
+          "start": 316.88,
+          "end": 317.04,
+          "probability": 0.982475221157074
+        },
+        {
+          "word": " schläft.",
+          "start": 317.04,
+          "end": 317.52,
+          "probability": 0.9846689502398173
+        },
+        {
+          "word": " Wir",
+          "start": 318.22,
+          "end": 318.4,
+          "probability": 0.991905689239502
+        },
+        {
+          "word": " schlafen.",
+          "start": 318.4,
+          "end": 318.94,
+          "probability": 0.9915618101755778
+        },
+        {
+          "word": " Ihr",
+          "start": 319.52,
+          "end": 319.7,
+          "probability": 0.9229997992515564
+        },
+        {
+          "word": " schlaft.",
+          "start": 319.7,
+          "end": 320.26,
+          "probability": 0.9474275906880697
+        },
+        {
+          "word": " Sie",
+          "start": 320.84,
+          "end": 320.98,
+          "probability": 0.9973487854003906
+        },
+        {
+          "word": " schlafen.",
+          "start": 320.98,
+          "end": 321.5,
+          "probability": 0.9955746531486511
+        },
+        {
+          "word": " Ich",
+          "start": 322.26,
+          "end": 322.52,
+          "probability": 0.9930154085159302
+        },
+        {
+          "word": " lese.",
+          "start": 322.52,
+          "end": 322.92,
+          "probability": 0.9807718694210052
+        },
+        {
+          "word": " Du",
+          "start": 323.6,
+          "end": 323.8,
+          "probability": 0.9971413016319275
+        },
+        {
+          "word": " liest.",
+          "start": 323.8,
+          "end": 324.28,
+          "probability": 0.9754671156406403
+        },
+        {
+          "word": " Er",
+          "start": 324.82,
+          "end": 325.02,
+          "probability": 0.995557963848114
+        },
+        {
+          "word": " liest.",
+          "start": 325.02,
+          "end": 325.44,
+          "probability": 0.9962379336357117
+        }
+      ]
+    },
+    {
+      "start": 325.44,
+      "end": 336.28,
+      "text": " sie liest, es liest, wir lesen, ihr lest, sie lesen, ich schreibe, du schreibst, er schreibt, sie",
+      "avg_logprob": -0.16440891186075826,
+      "words": [
+        {
+          "word": " sie",
+          "start": 325.44,
+          "end": 326.16,
+          "probability": 0.1142401322722435
+        },
+        {
+          "word": " liest,",
+          "start": 326.16,
+          "end": 326.76,
+          "probability": 0.9164412319660187
+        },
+        {
+          "word": " es",
+          "start": 327.08,
+          "end": 327.36,
+          "probability": 0.917547881603241
+        },
+        {
+          "word": " liest,",
+          "start": 327.36,
+          "end": 327.9,
+          "probability": 0.9979319274425507
+        },
+        {
+          "word": " wir",
+          "start": 328.36,
+          "end": 328.62,
+          "probability": 0.983247697353363
+        },
+        {
+          "word": " lesen,",
+          "start": 328.62,
+          "end": 329.22,
+          "probability": 0.98781818151474
+        },
+        {
+          "word": " ihr",
+          "start": 329.7,
+          "end": 329.86,
+          "probability": 0.9914727210998535
+        },
+        {
+          "word": " lest,",
+          "start": 329.86,
+          "end": 330.3,
+          "probability": 0.6049384921789169
+        },
+        {
+          "word": " sie",
+          "start": 330.9,
+          "end": 331.06,
+          "probability": 0.9907540082931519
+        },
+        {
+          "word": " lesen,",
+          "start": 331.06,
+          "end": 331.88,
+          "probability": 0.9908083379268646
+        },
+        {
+          "word": " ich",
+          "start": 332.26,
+          "end": 332.42,
+          "probability": 0.9850541949272156
+        },
+        {
+          "word": " schreibe,",
+          "start": 332.42,
+          "end": 333.0,
+          "probability": 0.983886202176412
+        },
+        {
+          "word": " du",
+          "start": 333.6,
+          "end": 333.72,
+          "probability": 0.9803188443183899
+        },
+        {
+          "word": " schreibst,",
+          "start": 333.72,
+          "end": 334.42,
+          "probability": 0.990597665309906
+        },
+        {
+          "word": " er",
+          "start": 334.88,
+          "end": 335.0,
+          "probability": 0.9947606921195984
+        },
+        {
+          "word": " schreibt,",
+          "start": 335.0,
+          "end": 335.52,
+          "probability": 0.9915032982826233
+        },
+        {
+          "word": " sie",
+          "start": 336.14,
+          "end": 336.28,
+          "probability": 0.9990310668945312
+        }
+      ]
+    },
+    {
+      "start": 336.28,
+      "end": 354.44,
+      "text": " schreibt, es schreibt, wir schreiben, ihr schreibt, sie schreiben, ich weiß, du",
+      "avg_logprob": -0.16440891186075826,
+      "words": [
+        {
+          "word": " schreibt,",
+          "start": 336.28,
+          "end": 336.78,
+          "probability": 0.9952143430709839
+        },
+        {
+          "word": " es",
+          "start": 337.36,
+          "end": 337.5,
+          "probability": 0.964273989200592
+        },
+        {
+          "word": " schreibt,",
+          "start": 337.5,
+          "end": 338.0,
+          "probability": 0.9955537915229797
+        },
+        {
+          "word": " wir",
+          "start": 338.54,
+          "end": 338.68,
+          "probability": 0.9946505427360535
+        },
+        {
+          "word": " schreiben,",
+          "start": 338.68,
+          "end": 339.16,
+          "probability": 0.6452203392982483
+        },
+        {
+          "word": " ihr",
+          "start": 339.94,
+          "end": 340.08,
+          "probability": 0.9937965869903564
+        },
+        {
+          "word": " schreibt,",
+          "start": 340.08,
+          "end": 340.56,
+          "probability": 0.9946800470352173
+        },
+        {
+          "word": " sie",
+          "start": 341.3,
+          "end": 341.46,
+          "probability": 0.9975443482398987
+        },
+        {
+          "word": " schreiben,",
+          "start": 341.46,
+          "end": 341.96,
+          "probability": 0.653225839138031
+        },
+        {
+          "word": " ich",
+          "start": 342.72,
+          "end": 342.88,
+          "probability": 0.9902706146240234
+        },
+        {
+          "word": " weiß,",
+          "start": 342.88,
+          "end": 343.14,
+          "probability": 0.9838705062866211
+        },
+        {
+          "word": " du",
+          "start": 354.44,
+          "end": 354.44,
+          "probability": 0.9943490624427795
+        }
+      ]
+    },
+    {
+      "start": 354.44,
+      "end": 365.22,
+      "text": " kennt. Er kennt. Sie kennt. Es kennt. Wir kennen. Ihr kennt. Sie kennen. Ich will. Du willst.",
+      "avg_logprob": -0.17643737739750318,
+      "words": [
+        {
+          "word": " kennt.",
+          "start": 354.44,
+          "end": 354.78,
+          "probability": 0.0005694933352060616
+        },
+        {
+          "word": " Er",
+          "start": 355.62,
+          "end": 355.74,
+          "probability": 0.38682931661605835
+        },
+        {
+          "word": " kennt.",
+          "start": 355.74,
+          "end": 356.12,
+          "probability": 0.9373658895492554
+        },
+        {
+          "word": " Sie",
+          "start": 356.92,
+          "end": 357.08,
+          "probability": 0.9759416580200195
+        },
+        {
+          "word": " kennt.",
+          "start": 357.08,
+          "end": 357.4,
+          "probability": 0.9772193431854248
+        },
+        {
+          "word": " Es",
+          "start": 358.14,
+          "end": 358.36,
+          "probability": 0.9565861225128174
+        },
+        {
+          "word": " kennt.",
+          "start": 358.36,
+          "end": 358.66,
+          "probability": 0.9685459136962891
+        },
+        {
+          "word": " Wir",
+          "start": 359.54,
+          "end": 359.66,
+          "probability": 0.9813869595527649
+        },
+        {
+          "word": " kennen.",
+          "start": 359.66,
+          "end": 360.02,
+          "probability": 0.9739323854446411
+        },
+        {
+          "word": " Ihr",
+          "start": 360.74,
+          "end": 360.96,
+          "probability": 0.9463302493095398
+        },
+        {
+          "word": " kennt.",
+          "start": 360.96,
+          "end": 361.28,
+          "probability": 0.9883975386619568
+        },
+        {
+          "word": " Sie",
+          "start": 362.12,
+          "end": 362.22,
+          "probability": 0.9919008016586304
+        },
+        {
+          "word": " kennen.",
+          "start": 362.22,
+          "end": 362.62,
+          "probability": 0.9944513440132141
+        },
+        {
+          "word": " Ich",
+          "start": 363.5,
+          "end": 363.66,
+          "probability": 0.9831541180610657
+        },
+        {
+          "word": " will.",
+          "start": 363.66,
+          "end": 363.96,
+          "probability": 0.9914645552635193
+        },
+        {
+          "word": " Du",
+          "start": 364.6,
+          "end": 364.9,
+          "probability": 0.9906980395317078
+        },
+        {
+          "word": " willst.",
+          "start": 364.9,
+          "end": 365.22,
+          "probability": 0.9768606424331665
+        }
+      ]
+    },
+    {
+      "start": 366.02,
+      "end": 375.62,
+      "text": " Er will. Sie will. Es will. Wir wollen. Ihr wollt. Sie wollen. Ich kann. Du kannst.",
+      "avg_logprob": -0.17643737739750318,
+      "words": [
+        {
+          "word": " Er",
+          "start": 366.02,
+          "end": 366.22,
+          "probability": 0.9919473528862
+        },
+        {
+          "word": " will.",
+          "start": 366.22,
+          "end": 366.52,
+          "probability": 0.9988071918487549
+        },
+        {
+          "word": " Sie",
+          "start": 367.32,
+          "end": 367.46,
+          "probability": 0.9902939796447754
+        },
+        {
+          "word": " will.",
+          "start": 367.46,
+          "end": 367.76,
+          "probability": 0.9989450573921204
+        },
+        {
+          "word": " Es",
+          "start": 368.5,
+          "end": 368.7,
+          "probability": 0.9864612221717834
+        },
+        {
+          "word": " will.",
+          "start": 368.7,
+          "end": 369.0,
+          "probability": 0.9986037611961365
+        },
+        {
+          "word": " Wir",
+          "start": 369.86,
+          "end": 370.0,
+          "probability": 0.9883816838264465
+        },
+        {
+          "word": " wollen.",
+          "start": 370.0,
+          "end": 370.36,
+          "probability": 0.9971550703048706
+        },
+        {
+          "word": " Ihr",
+          "start": 371.04,
+          "end": 371.32,
+          "probability": 0.9804296493530273
+        },
+        {
+          "word": " wollt.",
+          "start": 371.32,
+          "end": 371.64,
+          "probability": 0.9743362069129944
+        },
+        {
+          "word": " Sie",
+          "start": 372.46,
+          "end": 372.6,
+          "probability": 0.9911929965019226
+        },
+        {
+          "word": " wollen.",
+          "start": 372.6,
+          "end": 372.92,
+          "probability": 0.9983248114585876
+        },
+        {
+          "word": " Ich",
+          "start": 373.84,
+          "end": 374.04,
+          "probability": 0.9918810725212097
+        },
+        {
+          "word": " kann.",
+          "start": 374.04,
+          "end": 374.32,
+          "probability": 0.9947600960731506
+        },
+        {
+          "word": " Du",
+          "start": 375.08,
+          "end": 375.28,
+          "probability": 0.9937036633491516
+        },
+        {
+          "word": " kannst.",
+          "start": 375.28,
+          "end": 375.62,
+          "probability": 0.9938249588012695
+        }
+      ]
+    },
+    {
+      "start": 375.62,
+      "end": 388.38,
+      "text": " Er kann. Sie kann. Es kann. Wir können. Ihr könnt. Sie können. Ich muss. Du musst. Er muss. Sie",
+      "avg_logprob": -0.14971433828274408,
+      "words": [
+        {
+          "word": " Er",
+          "start": 375.62,
+          "end": 376.58,
+          "probability": 0.17066513001918793
+        },
+        {
+          "word": " kann.",
+          "start": 376.58,
+          "end": 376.92,
+          "probability": 0.9889670014381409
+        },
+        {
+          "word": " Sie",
+          "start": 377.64,
+          "end": 377.8,
+          "probability": 0.9443485736846924
+        },
+        {
+          "word": " kann.",
+          "start": 377.8,
+          "end": 378.14,
+          "probability": 0.9965856075286865
+        },
+        {
+          "word": " Es",
+          "start": 378.92,
+          "end": 379.08,
+          "probability": 0.9816299676895142
+        },
+        {
+          "word": " kann.",
+          "start": 379.08,
+          "end": 379.4,
+          "probability": 0.9989190101623535
+        },
+        {
+          "word": " Wir",
+          "start": 380.32,
+          "end": 380.46,
+          "probability": 0.974739134311676
+        },
+        {
+          "word": " können.",
+          "start": 380.46,
+          "end": 380.82,
+          "probability": 0.9984773993492126
+        },
+        {
+          "word": " Ihr",
+          "start": 381.56,
+          "end": 381.78,
+          "probability": 0.9755837917327881
+        },
+        {
+          "word": " könnt.",
+          "start": 381.78,
+          "end": 382.1,
+          "probability": 0.9962596893310547
+        },
+        {
+          "word": " Sie",
+          "start": 382.96,
+          "end": 383.08,
+          "probability": 0.9924572706222534
+        },
+        {
+          "word": " können.",
+          "start": 383.08,
+          "end": 383.44,
+          "probability": 0.9988961219787598
+        },
+        {
+          "word": " Ich",
+          "start": 384.36,
+          "end": 384.52,
+          "probability": 0.9888147711753845
+        },
+        {
+          "word": " muss.",
+          "start": 384.52,
+          "end": 384.74,
+          "probability": 0.9848442673683167
+        },
+        {
+          "word": " Du",
+          "start": 385.6,
+          "end": 385.78,
+          "probability": 0.9925848841667175
+        },
+        {
+          "word": " musst.",
+          "start": 385.78,
+          "end": 386.06,
+          "probability": 0.9520076513290405
+        },
+        {
+          "word": " Er",
+          "start": 386.9,
+          "end": 387.08,
+          "probability": 0.9959707856178284
+        },
+        {
+          "word": " muss.",
+          "start": 387.08,
+          "end": 387.3,
+          "probability": 0.9981275200843811
+        },
+        {
+          "word": " Sie",
+          "start": 388.2,
+          "end": 388.38,
+          "probability": 0.9963710308074951
+        }
+      ]
+    },
+    {
+      "start": 388.38,
+      "end": 399.36,
+      "text": " muss. Es muss. Wir müssen. Ihr müsst. Sie müssen. Ich brauche. Du brauchst. Er braucht. Sie",
+      "avg_logprob": -0.14971433828274408,
+      "words": [
+        {
+          "word": " muss.",
+          "start": 388.38,
+          "end": 388.6,
+          "probability": 0.9978406429290771
+        },
+        {
+          "word": " Es",
+          "start": 389.46,
+          "end": 389.66,
+          "probability": 0.9887905120849609
+        },
+        {
+          "word": " muss.",
+          "start": 389.66,
+          "end": 389.9,
+          "probability": 0.9992554783821106
+        },
+        {
+          "word": " Wir",
+          "start": 390.96,
+          "end": 391.12,
+          "probability": 0.9919345378875732
+        },
+        {
+          "word": " müssen.",
+          "start": 391.12,
+          "end": 391.48,
+          "probability": 0.9983116388320923
+        },
+        {
+          "word": " Ihr",
+          "start": 392.2,
+          "end": 392.44,
+          "probability": 0.9831578731536865
+        },
+        {
+          "word": " müsst.",
+          "start": 392.44,
+          "end": 392.76,
+          "probability": 0.9911128878593445
+        },
+        {
+          "word": " Sie",
+          "start": 393.6,
+          "end": 393.76,
+          "probability": 0.9958107471466064
+        },
+        {
+          "word": " müssen.",
+          "start": 393.76,
+          "end": 394.1,
+          "probability": 0.9983319640159607
+        },
+        {
+          "word": " Ich",
+          "start": 395.02,
+          "end": 395.22,
+          "probability": 0.9898877739906311
+        },
+        {
+          "word": " brauche.",
+          "start": 395.22,
+          "end": 395.68,
+          "probability": 0.9954710602760315
+        },
+        {
+          "word": " Du",
+          "start": 396.48,
+          "end": 396.62,
+          "probability": 0.9926031231880188
+        },
+        {
+          "word": " brauchst.",
+          "start": 396.62,
+          "end": 397.22,
+          "probability": 0.9712486565113068
+        },
+        {
+          "word": " Er",
+          "start": 397.84,
+          "end": 398.0,
+          "probability": 0.9953722357749939
+        },
+        {
+          "word": " braucht.",
+          "start": 398.0,
+          "end": 398.36,
+          "probability": 0.9899711012840271
+        },
+        {
+          "word": " Sie",
+          "start": 399.2,
+          "end": 399.36,
+          "probability": 0.9943056702613831
+        }
+      ]
+    },
+    {
+      "start": 399.36,
+      "end": 410.38,
+      "text": " braucht. Es braucht. Wir brauchen. Ihr braucht. Sie brauchen. Ich gebe. Du gibst. Er gibt. Sie",
+      "avg_logprob": -0.14148113032182058,
+      "words": [
+        {
+          "word": " braucht.",
+          "start": 399.36,
+          "end": 399.76,
+          "probability": 0.018179530277848244
+        },
+        {
+          "word": " Es",
+          "start": 400.28,
+          "end": 400.72,
+          "probability": 0.5140861868858337
+        },
+        {
+          "word": " braucht.",
+          "start": 400.72,
+          "end": 401.14,
+          "probability": 0.982959508895874
+        },
+        {
+          "word": " Wir",
+          "start": 402.08,
+          "end": 402.2,
+          "probability": 0.9780213832855225
+        },
+        {
+          "word": " brauchen.",
+          "start": 402.2,
+          "end": 402.64,
+          "probability": 0.9934806823730469
+        },
+        {
+          "word": " Ihr",
+          "start": 403.38,
+          "end": 403.56,
+          "probability": 0.9465844631195068
+        },
+        {
+          "word": " braucht.",
+          "start": 403.56,
+          "end": 403.98,
+          "probability": 0.9961285591125488
+        },
+        {
+          "word": " Sie",
+          "start": 404.78,
+          "end": 404.94,
+          "probability": 0.9906167387962341
+        },
+        {
+          "word": " brauchen.",
+          "start": 404.94,
+          "end": 405.36,
+          "probability": 0.9926322102546692
+        },
+        {
+          "word": " Ich",
+          "start": 406.32,
+          "end": 406.5,
+          "probability": 0.9860925078392029
+        },
+        {
+          "word": " gebe.",
+          "start": 406.5,
+          "end": 406.86,
+          "probability": 0.9951527118682861
+        },
+        {
+          "word": " Du",
+          "start": 407.58,
+          "end": 407.74,
+          "probability": 0.9882808327674866
+        },
+        {
+          "word": " gibst.",
+          "start": 407.74,
+          "end": 408.24,
+          "probability": 0.9791336357593536
+        },
+        {
+          "word": " Er",
+          "start": 408.94,
+          "end": 409.1,
+          "probability": 0.989661693572998
+        },
+        {
+          "word": " gibt.",
+          "start": 409.1,
+          "end": 409.38,
+          "probability": 0.9708147048950195
+        },
+        {
+          "word": " Sie",
+          "start": 410.2,
+          "end": 410.38,
+          "probability": 0.9951286315917969
+        }
+      ]
+    },
+    {
+      "start": 410.38,
+      "end": 421.88,
+      "text": " gibt. Es gibt. Wir geben. Ihr gibt. Sie geben. Ich nehme. Du nimmst. Er nimmt. Sie nimmt. Es",
+      "avg_logprob": -0.14148113032182058,
+      "words": [
+        {
+          "word": " gibt.",
+          "start": 410.38,
+          "end": 410.72,
+          "probability": 0.9971478581428528
+        },
+        {
+          "word": " Es",
+          "start": 411.44,
+          "end": 411.62,
+          "probability": 0.9943860769271851
+        },
+        {
+          "word": " gibt.",
+          "start": 411.62,
+          "end": 411.92,
+          "probability": 0.9990905523300171
+        },
+        {
+          "word": " Wir",
+          "start": 412.82,
+          "end": 413.0,
+          "probability": 0.9934723377227783
+        },
+        {
+          "word": " geben.",
+          "start": 413.0,
+          "end": 413.34,
+          "probability": 0.9931983351707458
+        },
+        {
+          "word": " Ihr",
+          "start": 414.1,
+          "end": 414.26,
+          "probability": 0.966812789440155
+        },
+        {
+          "word": " gibt.",
+          "start": 414.26,
+          "end": 414.6,
+          "probability": 0.41398724913597107
+        },
+        {
+          "word": " Sie",
+          "start": 415.38,
+          "end": 415.52,
+          "probability": 0.9960952401161194
+        },
+        {
+          "word": " geben.",
+          "start": 415.52,
+          "end": 415.92,
+          "probability": 0.9988478422164917
+        },
+        {
+          "word": " Ich",
+          "start": 416.72,
+          "end": 416.92,
+          "probability": 0.9923580288887024
+        },
+        {
+          "word": " nehme.",
+          "start": 416.92,
+          "end": 417.22,
+          "probability": 0.9770958423614502
+        },
+        {
+          "word": " Du",
+          "start": 417.88,
+          "end": 418.16,
+          "probability": 0.9936798810958862
+        },
+        {
+          "word": " nimmst.",
+          "start": 418.16,
+          "end": 418.66,
+          "probability": 0.986225426197052
+        },
+        {
+          "word": " Er",
+          "start": 419.24,
+          "end": 419.38,
+          "probability": 0.9935306906700134
+        },
+        {
+          "word": " nimmt.",
+          "start": 419.38,
+          "end": 419.7,
+          "probability": 0.9933848977088928
+        },
+        {
+          "word": " Sie",
+          "start": 420.46,
+          "end": 420.64,
+          "probability": 0.9944356679916382
+        },
+        {
+          "word": " nimmt.",
+          "start": 420.64,
+          "end": 420.9,
+          "probability": 0.993363618850708
+        },
+        {
+          "word": " Es",
+          "start": 421.7,
+          "end": 421.88,
+          "probability": 0.9958271384239197
+        }
+      ]
+    },
+    {
+      "start": 421.88,
+      "end": 431.5,
+      "text": " nimmt. Wir nehmen. Ihr nehmt. Sie nehmen. Ich finde. Du findest. Er findet. Sie findet.",
+      "avg_logprob": -0.1378184214967196,
+      "words": [
+        {
+          "word": " nimmt.",
+          "start": 421.88,
+          "end": 422.22,
+          "probability": 0.015126236714422703
+        },
+        {
+          "word": " Wir",
+          "start": 422.92,
+          "end": 423.18,
+          "probability": 0.6066455841064453
+        },
+        {
+          "word": " nehmen.",
+          "start": 423.18,
+          "end": 423.6,
+          "probability": 0.9878889918327332
+        },
+        {
+          "word": " Ihr",
+          "start": 424.26,
+          "end": 424.48,
+          "probability": 0.6966037750244141
+        },
+        {
+          "word": " nehmt.",
+          "start": 424.48,
+          "end": 424.98,
+          "probability": 0.9538623690605164
+        },
+        {
+          "word": " Sie",
+          "start": 425.58,
+          "end": 425.74,
+          "probability": 0.984067976474762
+        },
+        {
+          "word": " nehmen.",
+          "start": 425.74,
+          "end": 426.12,
+          "probability": 0.9859417080879211
+        },
+        {
+          "word": " Ich",
+          "start": 426.96,
+          "end": 427.16,
+          "probability": 0.9853144884109497
+        },
+        {
+          "word": " finde.",
+          "start": 427.16,
+          "end": 427.44,
+          "probability": 0.989011287689209
+        },
+        {
+          "word": " Du",
+          "start": 428.16,
+          "end": 428.38,
+          "probability": 0.9859008193016052
+        },
+        {
+          "word": " findest.",
+          "start": 428.38,
+          "end": 428.96,
+          "probability": 0.9881905615329742
+        },
+        {
+          "word": " Er",
+          "start": 429.6,
+          "end": 429.76,
+          "probability": 0.9902684688568115
+        },
+        {
+          "word": " findet.",
+          "start": 429.76,
+          "end": 430.14,
+          "probability": 0.9931076169013977
+        },
+        {
+          "word": " Sie",
+          "start": 430.96,
+          "end": 431.1,
+          "probability": 0.9941463470458984
+        },
+        {
+          "word": " findet.",
+          "start": 431.1,
+          "end": 431.5,
+          "probability": 0.9905721545219421
+        }
+      ]
+    },
+    {
+      "start": 432.26,
+      "end": 442.4,
+      "text": " Es findet. Wir finden. Ihr findet. Sie finden. Ich kaufe. Du kaufst. Er kauft. Sie kauft.",
+      "avg_logprob": -0.1378184214967196,
+      "words": [
+        {
+          "word": " Es",
+          "start": 432.26,
+          "end": 432.46,
+          "probability": 0.9695212244987488
+        },
+        {
+          "word": " findet.",
+          "start": 432.46,
+          "end": 432.82,
+          "probability": 0.9971168041229248
+        },
+        {
+          "word": " Wir",
+          "start": 433.7,
+          "end": 433.86,
+          "probability": 0.9922980666160583
+        },
+        {
+          "word": " finden.",
+          "start": 433.86,
+          "end": 434.26,
+          "probability": 0.9926128387451172
+        },
+        {
+          "word": " Ihr",
+          "start": 435.02,
+          "end": 435.2,
+          "probability": 0.9843772649765015
+        },
+        {
+          "word": " findet.",
+          "start": 435.2,
+          "end": 435.58,
+          "probability": 0.9889853000640869
+        },
+        {
+          "word": " Sie",
+          "start": 436.38,
+          "end": 436.5,
+          "probability": 0.993294894695282
+        },
+        {
+          "word": " finden.",
+          "start": 436.5,
+          "end": 436.96,
+          "probability": 0.9986452460289001
+        },
+        {
+          "word": " Ich",
+          "start": 437.86,
+          "end": 438.04,
+          "probability": 0.9927635788917542
+        },
+        {
+          "word": " kaufe.",
+          "start": 438.04,
+          "end": 438.5,
+          "probability": 0.9831353425979614
+        },
+        {
+          "word": " Du",
+          "start": 439.12,
+          "end": 439.32,
+          "probability": 0.9968332648277283
+        },
+        {
+          "word": " kaufst.",
+          "start": 439.32,
+          "end": 439.94,
+          "probability": 0.9921992222468058
+        },
+        {
+          "word": " Er",
+          "start": 440.5,
+          "end": 440.64,
+          "probability": 0.9977110624313354
+        },
+        {
+          "word": " kauft.",
+          "start": 440.64,
+          "end": 441.04,
+          "probability": 0.9956500828266144
+        },
+        {
+          "word": " Sie",
+          "start": 441.8,
+          "end": 441.94,
+          "probability": 0.9941273927688599
+        },
+        {
+          "word": " kauft.",
+          "start": 441.94,
+          "end": 442.4,
+          "probability": 0.9880780875682831
+        }
+      ]
+    },
+    {
+      "start": 442.4,
+      "end": 454.32,
+      "text": " es kauft, wir kaufen, ihr kauft, sie kaufen, ich fahre, du fährst, er fährt, sie fährt, es fährt,",
+      "avg_logprob": -0.129059374752179,
+      "words": [
+        {
+          "word": " es",
+          "start": 442.4,
+          "end": 443.22,
+          "probability": 0.11354748904705048
+        },
+        {
+          "word": " kauft,",
+          "start": 443.22,
+          "end": 443.7,
+          "probability": 0.9690389633178711
+        },
+        {
+          "word": " wir",
+          "start": 444.1,
+          "end": 444.56,
+          "probability": 0.9886694550514221
+        },
+        {
+          "word": " kaufen,",
+          "start": 444.56,
+          "end": 445.0,
+          "probability": 0.9390293955802917
+        },
+        {
+          "word": " ihr",
+          "start": 445.76,
+          "end": 445.9,
+          "probability": 0.9768018126487732
+        },
+        {
+          "word": " kauft,",
+          "start": 445.9,
+          "end": 446.38,
+          "probability": 0.9972959756851196
+        },
+        {
+          "word": " sie",
+          "start": 447.08,
+          "end": 447.22,
+          "probability": 0.9759601950645447
+        },
+        {
+          "word": " kaufen,",
+          "start": 447.22,
+          "end": 447.66,
+          "probability": 0.9262749552726746
+        },
+        {
+          "word": " ich",
+          "start": 448.42,
+          "end": 448.66,
+          "probability": 0.9846417307853699
+        },
+        {
+          "word": " fahre,",
+          "start": 448.66,
+          "end": 449.16,
+          "probability": 0.9891500870386759
+        },
+        {
+          "word": " du",
+          "start": 449.84,
+          "end": 449.98,
+          "probability": 0.9693706631660461
+        },
+        {
+          "word": " fährst,",
+          "start": 449.98,
+          "end": 450.58,
+          "probability": 0.9927305181821188
+        },
+        {
+          "word": " er",
+          "start": 451.14,
+          "end": 451.3,
+          "probability": 0.9965143799781799
+        },
+        {
+          "word": " fährt,",
+          "start": 451.3,
+          "end": 451.68,
+          "probability": 0.9968258440494537
+        },
+        {
+          "word": " sie",
+          "start": 452.44,
+          "end": 452.6,
+          "probability": 0.9984921216964722
+        },
+        {
+          "word": " fährt,",
+          "start": 452.6,
+          "end": 453.06,
+          "probability": 0.99639493227005
+        },
+        {
+          "word": " es",
+          "start": 453.72,
+          "end": 453.88,
+          "probability": 0.9880141615867615
+        },
+        {
+          "word": " fährt,",
+          "start": 453.88,
+          "end": 454.32,
+          "probability": 0.9976630806922913
+        }
+      ]
+    },
+    {
+      "start": 455.04,
+      "end": 464.78,
+      "text": " wir fahren, ihr fahrt, sie fahren, ich bleibe, du bleibst, er bleibt, sie bleibt, es bleibt,",
+      "avg_logprob": -0.129059374752179,
+      "words": [
+        {
+          "word": " wir",
+          "start": 455.04,
+          "end": 455.2,
+          "probability": 0.9968356490135193
+        },
+        {
+          "word": " fahren,",
+          "start": 455.2,
+          "end": 455.64,
+          "probability": 0.9345333576202393
+        },
+        {
+          "word": " ihr",
+          "start": 456.22,
+          "end": 456.52,
+          "probability": 0.9885773658752441
+        },
+        {
+          "word": " fahrt,",
+          "start": 456.52,
+          "end": 457.28,
+          "probability": 0.975772500038147
+        },
+        {
+          "word": " sie",
+          "start": 457.62,
+          "end": 457.78,
+          "probability": 0.9956158399581909
+        },
+        {
+          "word": " fahren,",
+          "start": 457.78,
+          "end": 458.2,
+          "probability": 0.9459323883056641
+        },
+        {
+          "word": " ich",
+          "start": 459.08,
+          "end": 459.22,
+          "probability": 0.9892198443412781
+        },
+        {
+          "word": " bleibe,",
+          "start": 459.22,
+          "end": 459.68,
+          "probability": 0.9863632321357727
+        },
+        {
+          "word": " du",
+          "start": 460.4,
+          "end": 460.52,
+          "probability": 0.9897627830505371
+        },
+        {
+          "word": " bleibst,",
+          "start": 460.52,
+          "end": 461.18,
+          "probability": 0.9927554329236349
+        },
+        {
+          "word": " er",
+          "start": 461.66,
+          "end": 461.84,
+          "probability": 0.9957993626594543
+        },
+        {
+          "word": " bleibt,",
+          "start": 461.84,
+          "end": 462.22,
+          "probability": 0.9969117045402527
+        },
+        {
+          "word": " sie",
+          "start": 462.94,
+          "end": 463.1,
+          "probability": 0.9988640546798706
+        },
+        {
+          "word": " bleibt,",
+          "start": 463.1,
+          "end": 463.48,
+          "probability": 0.9984446167945862
+        },
+        {
+          "word": " es",
+          "start": 464.2,
+          "end": 464.36,
+          "probability": 0.9922310709953308
+        },
+        {
+          "word": " bleibt,",
+          "start": 464.36,
+          "end": 464.78,
+          "probability": 0.9991838335990906
+        }
+      ]
+    },
+    {
+      "start": 464.78,
+      "end": 475.54,
+      "text": " wir bleiben ihr bleibt sie bleiben ich öffne du öffnest er öffnet sie öffnet es öffnet",
+      "avg_logprob": -0.1449922832750505,
+      "words": [
+        {
+          "word": " wir",
+          "start": 464.78,
+          "end": 465.68,
+          "probability": 0.10532790422439575
+        },
+        {
+          "word": " bleiben",
+          "start": 465.68,
+          "end": 466.14,
+          "probability": 0.9687207341194153
+        },
+        {
+          "word": " ihr",
+          "start": 466.14,
+          "end": 466.94,
+          "probability": 0.014175898395478725
+        },
+        {
+          "word": " bleibt",
+          "start": 466.94,
+          "end": 467.42,
+          "probability": 0.994820237159729
+        },
+        {
+          "word": " sie",
+          "start": 467.42,
+          "end": 468.24,
+          "probability": 0.9193084836006165
+        },
+        {
+          "word": " bleiben",
+          "start": 468.24,
+          "end": 468.72,
+          "probability": 0.9831162095069885
+        },
+        {
+          "word": " ich",
+          "start": 468.72,
+          "end": 469.68,
+          "probability": 0.8796501755714417
+        },
+        {
+          "word": " öffne",
+          "start": 469.68,
+          "end": 470.16,
+          "probability": 0.9849521716435751
+        },
+        {
+          "word": " du",
+          "start": 470.16,
+          "end": 470.94,
+          "probability": 0.9154676795005798
+        },
+        {
+          "word": " öffnest",
+          "start": 470.94,
+          "end": 471.58,
+          "probability": 0.980368509888649
+        },
+        {
+          "word": " er",
+          "start": 471.58,
+          "end": 472.3,
+          "probability": 0.9606927633285522
+        },
+        {
+          "word": " öffnet",
+          "start": 472.3,
+          "end": 472.8,
+          "probability": 0.9954823056856791
+        },
+        {
+          "word": " sie",
+          "start": 472.8,
+          "end": 473.66,
+          "probability": 0.9731047749519348
+        },
+        {
+          "word": " öffnet",
+          "start": 473.66,
+          "end": 474.24,
+          "probability": 0.9967359105745951
+        },
+        {
+          "word": " es",
+          "start": 474.24,
+          "end": 475.02,
+          "probability": 0.8875014781951904
+        },
+        {
+          "word": " öffnet",
+          "start": 475.02,
+          "end": 475.54,
+          "probability": 0.997516949971517
+        }
+      ]
+    },
+    {
+      "start": 475.54,
+      "end": 485.74,
+      "text": " wir öffnen ihr öffnet sie öffnen ich schließe du schließt er schließt sie schließt es",
+      "avg_logprob": -0.1449922832750505,
+      "words": [
+        {
+          "word": " wir",
+          "start": 475.54,
+          "end": 476.46,
+          "probability": 0.976134717464447
+        },
+        {
+          "word": " öffnen",
+          "start": 476.46,
+          "end": 477.02,
+          "probability": 0.9866838455200195
+        },
+        {
+          "word": " ihr",
+          "start": 477.02,
+          "end": 477.74,
+          "probability": 0.8660138249397278
+        },
+        {
+          "word": " öffnet",
+          "start": 477.74,
+          "end": 478.26,
+          "probability": 0.9980927308400472
+        },
+        {
+          "word": " sie",
+          "start": 478.26,
+          "end": 479.1,
+          "probability": 0.9893174767494202
+        },
+        {
+          "word": " öffnen",
+          "start": 479.1,
+          "end": 479.74,
+          "probability": 0.9943261941274008
+        },
+        {
+          "word": " ich",
+          "start": 479.74,
+          "end": 480.52,
+          "probability": 0.9323696494102478
+        },
+        {
+          "word": " schließe",
+          "start": 480.52,
+          "end": 481.02,
+          "probability": 0.9906781315803528
+        },
+        {
+          "word": " du",
+          "start": 481.02,
+          "end": 481.82,
+          "probability": 0.9647021293640137
+        },
+        {
+          "word": " schließt",
+          "start": 481.82,
+          "end": 482.78,
+          "probability": 0.9478154977162679
+        },
+        {
+          "word": " er",
+          "start": 482.78,
+          "end": 483.1,
+          "probability": 0.9329804182052612
+        },
+        {
+          "word": " schließt",
+          "start": 483.1,
+          "end": 484.14,
+          "probability": 0.987285832564036
+        },
+        {
+          "word": " sie",
+          "start": 484.14,
+          "end": 484.42,
+          "probability": 0.9832563400268555
+        },
+        {
+          "word": " schließt",
+          "start": 484.42,
+          "end": 485.54,
+          "probability": 0.9917409618695577
+        },
+        {
+          "word": " es",
+          "start": 485.54,
+          "end": 485.74,
+          "probability": 0.9355044960975647
+        }
+      ]
+    },
+    {
+      "start": 485.74,
+      "end": 500.36,
+      "text": " Es schließt. Wir schließen. Ihr schließt. Sie schließt. Ich helfe. Du hilfst. Er hilft. Sie hilft. Es hilft. Wir helfen. Ihr helft. Sie helfen.",
+      "avg_logprob": -0.21516529262065887,
+      "words": [
+        {
+          "word": " Es",
+          "start": 485.74,
+          "end": 485.8,
+          "probability": 0.05622399225831032
+        },
+        {
+          "word": " schließt.",
+          "start": 485.8,
+          "end": 486.76,
+          "probability": 0.9629316727320353
+        },
+        {
+          "word": " Wir",
+          "start": 486.96,
+          "end": 487.12,
+          "probability": 0.8749397993087769
+        },
+        {
+          "word": " schließen.",
+          "start": 487.12,
+          "end": 487.64,
+          "probability": 0.9052731394767761
+        },
+        {
+          "word": " Ihr",
+          "start": 488.12,
+          "end": 488.38,
+          "probability": 0.8732186555862427
+        },
+        {
+          "word": " schließt.",
+          "start": 488.38,
+          "end": 489.08,
+          "probability": 0.9973045388857523
+        },
+        {
+          "word": " Sie",
+          "start": 489.56,
+          "end": 489.72,
+          "probability": 0.992347240447998
+        },
+        {
+          "word": " schließt.",
+          "start": 489.72,
+          "end": 490.28,
+          "probability": 0.9255719383557638
+        },
+        {
+          "word": " Ich",
+          "start": 490.8,
+          "end": 491.12,
+          "probability": 0.9839316010475159
+        },
+        {
+          "word": " helfe.",
+          "start": 491.12,
+          "end": 491.52,
+          "probability": 0.9892619252204895
+        },
+        {
+          "word": " Du",
+          "start": 492.14,
+          "end": 492.36,
+          "probability": 0.9854066371917725
+        },
+        {
+          "word": " hilfst.",
+          "start": 492.36,
+          "end": 492.94,
+          "probability": 0.9525906840960184
+        },
+        {
+          "word": " Er",
+          "start": 493.42,
+          "end": 493.6,
+          "probability": 0.9872891902923584
+        },
+        {
+          "word": " hilft.",
+          "start": 493.6,
+          "end": 493.96,
+          "probability": 0.9431760907173157
+        },
+        {
+          "word": " Sie",
+          "start": 494.66,
+          "end": 494.84,
+          "probability": 0.9953435063362122
+        },
+        {
+          "word": " hilft.",
+          "start": 494.84,
+          "end": 495.26,
+          "probability": 0.9612079858779907
+        },
+        {
+          "word": " Es",
+          "start": 495.88,
+          "end": 496.12,
+          "probability": 0.9909279942512512
+        },
+        {
+          "word": " hilft.",
+          "start": 496.12,
+          "end": 496.48,
+          "probability": 0.9911109209060669
+        },
+        {
+          "word": " Wir",
+          "start": 497.2,
+          "end": 497.46,
+          "probability": 0.9932136535644531
+        },
+        {
+          "word": " helfen.",
+          "start": 497.46,
+          "end": 497.9,
+          "probability": 0.9786616563796997
+        },
+        {
+          "word": " Ihr",
+          "start": 498.56,
+          "end": 498.72,
+          "probability": 0.9830806851387024
+        },
+        {
+          "word": " helft.",
+          "start": 498.72,
+          "end": 499.18,
+          "probability": 0.9727692008018494
+        },
+        {
+          "word": " Sie",
+          "start": 499.84,
+          "end": 499.96,
+          "probability": 0.9963202476501465
+        },
+        {
+          "word": " helfen.",
+          "start": 499.96,
+          "end": 500.36,
+          "probability": 0.8800073266029358
+        }
+      ]
+    }
+  ]
+}

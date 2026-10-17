@@ -3,6 +3,8 @@ on:
   push:
     branches: [main]
     paths:
+      - 'audio-inbox/**'
+      - 'audio-sources/**'
       - 'art-inbox/**'
       - 'scripts/**'
       - 'assets/illustrations/**'
@@ -32,6 +34,8 @@ jobs:
       - run: pip install Pillow==11.3.0
       - name: Validate and import approved originals
         run: python3 scripts/import_art.py
+      - name: Validate and import verified voice recordings
+        run: python3 scripts/import_voice.py
       - name: Test import failures and original bytes
         run: python3 -m unittest discover -s scripts -p 'test_*.py'
       - uses: actions/setup-node@v4
@@ -47,13 +51,15 @@ jobs:
         run: node .github/tests/browser-smoke.cjs
       - name: Verify selectable vocabulary practice
         run: node .github/tests/vocab-modes.cjs
+      - name: Verify recorded audio playback
+        run: node .github/tests/voice-recordings.cjs
       - name: Commit validated artwork and bindings
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/illustrations/
+          git add assets/ audio/
           if ! git diff --cached --quiet; then
-            git commit -m "Import approved original artwork and exact word bindings"
+            git commit -m "Import validated artwork, voice recordings and exact bindings"
             git push
           fi
       - name: Stage public site
@@ -73,3 +79,4 @@ jobs:
         run: |
           node .github/tests/artwork.cjs
           node .github/tests/vocab-modes.cjs
+          node .github/tests/voice-recordings.cjs

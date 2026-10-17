@@ -1,0 +1,2061 @@
+{
+  "version": 1,
+  "date": "2026-10-17",
+  "verbs": 38,
+  "persons": 9,
+  "exerciseCombinations": 342,
+  "uniquePhrases": 304,
+  "coverageByMeaning": {
+    "whole": 49,
+    "combined": 126,
+    "browser": 167
+  },
+  "count": 409,
+  "entries": [
+    {
+      "id": "rq001",
+      "text": "derjenige",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq002",
+      "text": "diejenige",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq003",
+      "text": "dasjenige",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq004",
+      "text": "alle",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq005",
+      "text": "jemand",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq006",
+      "text": "niemand",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq007",
+      "text": "etwas",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq008",
+      "text": "jeder",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq009",
+      "text": "öffnen",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq010",
+      "text": "schließen",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq011",
+      "text": "helfen",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq012",
+      "text": "hell",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq013",
+      "text": "dunkel",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq014",
+      "text": "bunt",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq015",
+      "text": "sechzig",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq016",
+      "text": "siebzig",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq017",
+      "text": "achtzig",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq018",
+      "text": "neunzig",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq019",
+      "text": "Gute Nacht!",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq020",
+      "text": "Bis bald!",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq021",
+      "text": "die Tante",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq022",
+      "text": "der Onkel",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq023",
+      "text": "das Baby",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq024",
+      "text": "die Freundin",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq025",
+      "text": "glücklich",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq026",
+      "text": "müde",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq027",
+      "text": "die Kartoffel",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq028",
+      "text": "die Tomate",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq029",
+      "text": "die Suppe",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq030",
+      "text": "die Lampe",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq031",
+      "text": "das Sofa",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq032",
+      "text": "der Schrank",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq033",
+      "text": "der Rucksack",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq034",
+      "text": "das Lineal",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq035",
+      "text": "der Radiergummi",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq036",
+      "text": "die Woche",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq037",
+      "text": "der Monat",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq038",
+      "text": "das Jahr",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq039",
+      "text": "wie lange",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq040",
+      "text": "wie oft",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq041",
+      "text": "welche",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq042",
+      "text": "weil",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq043",
+      "text": "mit",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq044",
+      "text": "ohne",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq045",
+      "text": "der Rücken",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq046",
+      "text": "der Hals",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq047",
+      "text": "der Zahn",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq048",
+      "text": "die Ente",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq049",
+      "text": "das Schaf",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq050",
+      "text": "der Elefant",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq051",
+      "text": "das Flugzeug",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq052",
+      "text": "das Schiff",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq053",
+      "text": "die Haltestelle",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq054",
+      "text": "das T-Shirt",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq055",
+      "text": "die Hose",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq056",
+      "text": "das Kleid",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq057",
+      "text": "die Jacke",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq058",
+      "text": "der Schuh",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq059",
+      "text": "die Mütze",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq060",
+      "text": "der Schal",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq061",
+      "text": "die Sonne",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq062",
+      "text": "der Regen",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq063",
+      "text": "der Schnee",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq064",
+      "text": "der Wind",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq065",
+      "text": "die Wolke",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq066",
+      "text": "der Baum",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq067",
+      "text": "die Blume",
+      "kind": "vocabulary"
+    },
+    {
+      "id": "rq068",
+      "text": "lerne",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq069",
+      "text": "lernst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq070",
+      "text": "lernt",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq071",
+      "text": "höre",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq072",
+      "text": "hörst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq073",
+      "text": "hört",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq074",
+      "text": "gehe",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq075",
+      "text": "gehst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq076",
+      "text": "geht",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq077",
+      "text": "komme",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq078",
+      "text": "kommst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq079",
+      "text": "kommt",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq080",
+      "text": "sehe",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq081",
+      "text": "siehst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq082",
+      "text": "sieht",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq083",
+      "text": "seht",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq084",
+      "text": "spreche",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq085",
+      "text": "sprichst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq086",
+      "text": "spricht",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq087",
+      "text": "sprecht",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq088",
+      "text": "arbeite",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq089",
+      "text": "arbeitest",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq090",
+      "text": "arbeitet",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq091",
+      "text": "esse",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq092",
+      "text": "isst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq093",
+      "text": "esst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq094",
+      "text": "trinke",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq095",
+      "text": "trinkst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq096",
+      "text": "trinkt",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq097",
+      "text": "schlafe",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq098",
+      "text": "schläfst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq099",
+      "text": "schläft",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq100",
+      "text": "schlaft",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq101",
+      "text": "lese",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq102",
+      "text": "liest",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq103",
+      "text": "lest",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq104",
+      "text": "schreibe",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq105",
+      "text": "schreibst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq106",
+      "text": "schreibt",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq107",
+      "text": "weißt",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq108",
+      "text": "wisst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq109",
+      "text": "kenne",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq110",
+      "text": "kennst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq111",
+      "text": "kennt",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq112",
+      "text": "will",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq113",
+      "text": "willst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq114",
+      "text": "wollt",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq115",
+      "text": "kann",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq116",
+      "text": "kannst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq117",
+      "text": "könnt",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq118",
+      "text": "muss",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq119",
+      "text": "musst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq120",
+      "text": "müsst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq121",
+      "text": "brauche",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq122",
+      "text": "brauchst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq123",
+      "text": "braucht",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq124",
+      "text": "gebe",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq125",
+      "text": "gibst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq126",
+      "text": "gibt",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq127",
+      "text": "gebt",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq128",
+      "text": "nehme",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq129",
+      "text": "nimmst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq130",
+      "text": "nimmt",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq131",
+      "text": "nehmt",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq132",
+      "text": "finde",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq133",
+      "text": "findest",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq134",
+      "text": "findet",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq135",
+      "text": "kaufe",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq136",
+      "text": "kaufst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq137",
+      "text": "kauft",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq138",
+      "text": "fahre",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq139",
+      "text": "fährst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq140",
+      "text": "fährt",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq141",
+      "text": "fahrt",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq142",
+      "text": "bleibe",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq143",
+      "text": "bleibst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq144",
+      "text": "bleibt",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq145",
+      "text": "öffne",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq146",
+      "text": "öffnest",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq147",
+      "text": "öffnet",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq148",
+      "text": "schließe",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq149",
+      "text": "schließt",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq150",
+      "text": "helfe",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq151",
+      "text": "hilfst",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq152",
+      "text": "hilft",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq153",
+      "text": "helft",
+      "kind": "verb-form"
+    },
+    {
+      "id": "rq154",
+      "text": "Es macht.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq155",
+      "text": "Es sagt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq156",
+      "text": "Wir sagen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq157",
+      "text": "Ihr sagt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq158",
+      "text": "Sie sagen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq159",
+      "text": "Es fragt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq160",
+      "text": "Wir fragen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq161",
+      "text": "Ihr fragt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq162",
+      "text": "Sie fragen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq163",
+      "text": "Es liebt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq164",
+      "text": "Wir lieben.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq165",
+      "text": "Ihr liebt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq166",
+      "text": "Sie lieben.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq167",
+      "text": "Es lacht.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq168",
+      "text": "Wir lachen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq169",
+      "text": "Ihr lacht.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq170",
+      "text": "Sie lachen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq171",
+      "text": "Es wohnt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq172",
+      "text": "Wir wohnen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq173",
+      "text": "Ihr wohnt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq174",
+      "text": "Sie wohnen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq175",
+      "text": "Es singt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq176",
+      "text": "Wir singen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq177",
+      "text": "Ihr singt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq178",
+      "text": "Sie singen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq179",
+      "text": "Es spielt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq180",
+      "text": "Ihr spielt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq181",
+      "text": "Sie spielen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq182",
+      "text": "Es tanzt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq183",
+      "text": "Wir tanzen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq184",
+      "text": "Ihr tanzt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq185",
+      "text": "Sie tanzen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq186",
+      "text": "Es ist.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq187",
+      "text": "Wir sind.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq188",
+      "text": "Ihr seid.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq189",
+      "text": "Sie sind.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq190",
+      "text": "Es hat.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq191",
+      "text": "Wir haben.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq192",
+      "text": "Ihr habt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq193",
+      "text": "Sie haben.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq194",
+      "text": "Ich gehe.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq195",
+      "text": "Du gehst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq196",
+      "text": "Er geht.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq197",
+      "text": "Sie geht.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq198",
+      "text": "Es geht.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq199",
+      "text": "Wir gehen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq200",
+      "text": "Ihr geht.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq201",
+      "text": "Sie gehen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq202",
+      "text": "Ich komme.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq203",
+      "text": "Du kommst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq204",
+      "text": "Er kommt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq205",
+      "text": "Sie kommt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq206",
+      "text": "Es kommt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq207",
+      "text": "Wir kommen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq208",
+      "text": "Ihr kommt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq209",
+      "text": "Sie kommen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq210",
+      "text": "Ich sehe.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq211",
+      "text": "Du siehst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq212",
+      "text": "Er sieht.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq213",
+      "text": "Sie sieht.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq214",
+      "text": "Es sieht.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq215",
+      "text": "Wir sehen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq216",
+      "text": "Ihr seht.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq217",
+      "text": "Sie sehen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq218",
+      "text": "Ich höre.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq219",
+      "text": "Du hörst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq220",
+      "text": "Er hört.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq221",
+      "text": "Sie hört.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq222",
+      "text": "Es hört.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq223",
+      "text": "Wir hören.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq224",
+      "text": "Ihr hört.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq225",
+      "text": "Sie hören.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq226",
+      "text": "Ich spreche.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq227",
+      "text": "Du sprichst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq228",
+      "text": "Er spricht.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq229",
+      "text": "Sie spricht.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq230",
+      "text": "Es spricht.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq231",
+      "text": "Wir sprechen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq232",
+      "text": "Ihr sprecht.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq233",
+      "text": "Sie sprechen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq234",
+      "text": "Ich lerne.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq235",
+      "text": "Du lernst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq236",
+      "text": "Er lernt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq237",
+      "text": "Sie lernt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq238",
+      "text": "Es lernt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq239",
+      "text": "Wir lernen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq240",
+      "text": "Ihr lernt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq241",
+      "text": "Sie lernen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq242",
+      "text": "Ich arbeite.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq243",
+      "text": "Du arbeitest.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq244",
+      "text": "Er arbeitet.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq245",
+      "text": "Sie arbeitet.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq246",
+      "text": "Es arbeitet.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq247",
+      "text": "Wir arbeiten.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq248",
+      "text": "Ihr arbeitet.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq249",
+      "text": "Sie arbeiten.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq250",
+      "text": "Ich esse.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq251",
+      "text": "Du isst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq252",
+      "text": "Er isst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq253",
+      "text": "Sie isst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq254",
+      "text": "Es isst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq255",
+      "text": "Wir essen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq256",
+      "text": "Ihr esst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq257",
+      "text": "Sie essen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq258",
+      "text": "Ich trinke.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq259",
+      "text": "Du trinkst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq260",
+      "text": "Er trinkt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq261",
+      "text": "Sie trinkt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq262",
+      "text": "Es trinkt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq263",
+      "text": "Wir trinken.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq264",
+      "text": "Ihr trinkt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq265",
+      "text": "Sie trinken.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq266",
+      "text": "Ich schlafe.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq267",
+      "text": "Du schläfst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq268",
+      "text": "Er schläft.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq269",
+      "text": "Sie schläft.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq270",
+      "text": "Es schläft.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq271",
+      "text": "Wir schlafen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq272",
+      "text": "Ihr schlaft.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq273",
+      "text": "Sie schlafen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq274",
+      "text": "Ich lese.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq275",
+      "text": "Du liest.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq276",
+      "text": "Er liest.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq277",
+      "text": "Sie liest.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq278",
+      "text": "Es liest.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq279",
+      "text": "Wir lesen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq280",
+      "text": "Ihr lest.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq281",
+      "text": "Sie lesen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq282",
+      "text": "Ich schreibe.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq283",
+      "text": "Du schreibst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq284",
+      "text": "Er schreibt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq285",
+      "text": "Sie schreibt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq286",
+      "text": "Es schreibt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq287",
+      "text": "Wir schreiben.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq288",
+      "text": "Ihr schreibt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq289",
+      "text": "Sie schreiben.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq290",
+      "text": "Ich weiß.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq291",
+      "text": "Du weißt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq292",
+      "text": "Er weiß.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq293",
+      "text": "Sie weiß.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq294",
+      "text": "Es weiß.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq295",
+      "text": "Wir wissen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq296",
+      "text": "Ihr wisst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq297",
+      "text": "Sie wissen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq298",
+      "text": "Ich kenne.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq299",
+      "text": "Du kennst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq300",
+      "text": "Er kennt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq301",
+      "text": "Sie kennt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq302",
+      "text": "Es kennt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq303",
+      "text": "Wir kennen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq304",
+      "text": "Ihr kennt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq305",
+      "text": "Sie kennen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq306",
+      "text": "Ich will.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq307",
+      "text": "Du willst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq308",
+      "text": "Er will.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq309",
+      "text": "Sie will.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq310",
+      "text": "Es will.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq311",
+      "text": "Wir wollen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq312",
+      "text": "Ihr wollt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq313",
+      "text": "Sie wollen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq314",
+      "text": "Ich kann.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq315",
+      "text": "Du kannst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq316",
+      "text": "Er kann.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq317",
+      "text": "Sie kann.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq318",
+      "text": "Es kann.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq319",
+      "text": "Wir können.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq320",
+      "text": "Ihr könnt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq321",
+      "text": "Sie können.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq322",
+      "text": "Ich muss.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq323",
+      "text": "Du musst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq324",
+      "text": "Er muss.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq325",
+      "text": "Sie muss.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq326",
+      "text": "Es muss.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq327",
+      "text": "Wir müssen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq328",
+      "text": "Ihr müsst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq329",
+      "text": "Sie müssen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq330",
+      "text": "Ich brauche.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq331",
+      "text": "Du brauchst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq332",
+      "text": "Er braucht.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq333",
+      "text": "Sie braucht.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq334",
+      "text": "Es braucht.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq335",
+      "text": "Wir brauchen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq336",
+      "text": "Ihr braucht.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq337",
+      "text": "Sie brauchen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq338",
+      "text": "Ich gebe.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq339",
+      "text": "Du gibst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq340",
+      "text": "Er gibt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq341",
+      "text": "Sie gibt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq342",
+      "text": "Es gibt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq343",
+      "text": "Wir geben.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq344",
+      "text": "Ihr gebt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq345",
+      "text": "Sie geben.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq346",
+      "text": "Ich nehme.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq347",
+      "text": "Du nimmst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq348",
+      "text": "Er nimmt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq349",
+      "text": "Sie nimmt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq350",
+      "text": "Es nimmt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq351",
+      "text": "Wir nehmen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq352",
+      "text": "Ihr nehmt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq353",
+      "text": "Sie nehmen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq354",
+      "text": "Ich finde.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq355",
+      "text": "Du findest.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq356",
+      "text": "Er findet.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq357",
+      "text": "Sie findet.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq358",
+      "text": "Es findet.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq359",
+      "text": "Wir finden.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq360",
+      "text": "Ihr findet.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq361",
+      "text": "Sie finden.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq362",
+      "text": "Ich kaufe.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq363",
+      "text": "Du kaufst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq364",
+      "text": "Er kauft.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq365",
+      "text": "Sie kauft.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq366",
+      "text": "Es kauft.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq367",
+      "text": "Wir kaufen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq368",
+      "text": "Ihr kauft.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq369",
+      "text": "Sie kaufen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq370",
+      "text": "Ich fahre.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq371",
+      "text": "Du fährst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq372",
+      "text": "Er fährt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq373",
+      "text": "Sie fährt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq374",
+      "text": "Es fährt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq375",
+      "text": "Wir fahren.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq376",
+      "text": "Ihr fahrt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq377",
+      "text": "Sie fahren.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq378",
+      "text": "Ich bleibe.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq379",
+      "text": "Du bleibst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq380",
+      "text": "Er bleibt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq381",
+      "text": "Sie bleibt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq382",
+      "text": "Es bleibt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq383",
+      "text": "Wir bleiben.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq384",
+      "text": "Ihr bleibt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq385",
+      "text": "Sie bleiben.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq386",
+      "text": "Ich öffne.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq387",
+      "text": "Du öffnest.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq388",
+      "text": "Er öffnet.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq389",
+      "text": "Sie öffnet.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq390",
+      "text": "Es öffnet.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq391",
+      "text": "Wir öffnen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq392",
+      "text": "Ihr öffnet.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq393",
+      "text": "Sie öffnen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq394",
+      "text": "Ich schließe.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq395",
+      "text": "Du schließt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq396",
+      "text": "Er schließt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq397",
+      "text": "Sie schließt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq398",
+      "text": "Es schließt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq399",
+      "text": "Wir schließen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq400",
+      "text": "Ihr schließt.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq401",
+      "text": "Sie schließen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq402",
+      "text": "Ich helfe.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq403",
+      "text": "Du hilfst.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq404",
+      "text": "Er hilft.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq405",
+      "text": "Sie hilft.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq406",
+      "text": "Es hilft.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq407",
+      "text": "Wir helfen.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq408",
+      "text": "Ihr helft.",
+      "kind": "pronoun-verb"
+    },
+    {
+      "id": "rq409",
+      "text": "Sie helfen.",
+      "kind": "pronoun-verb"
+    }
+  ]
+}

@@ -9,6 +9,8 @@ jobs:
     timeout-minutes: 12
     steps:
       - uses: actions/checkout@v4
+      - name: Import verified voice recordings
+        run: python3 scripts/import_voice.py
       - uses: actions/setup-node@v4
         with:
           node-version: '22'

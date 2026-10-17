@@ -2,6 +2,7 @@
 const fs=require('fs'),vm=require('vm'),path=require('path');
 const root=path.resolve(__dirname,'..'),read=p=>fs.readFileSync(path.join(root,p),'utf8');
 const html=read('index.html'),raw=JSON.parse(html.match(/const AUDIO_MAP=(\{[^\n]+\});/)[1]);
+const recorded=path.join(root,'assets/vocabulary/recorded-audio.js');if(fs.existsSync(recorded)){const c={window:{}};vm.runInNewContext(fs.readFileSync(recorded,'utf8'),c);Object.assign(raw,c.window.DEUTSCH_RECORDED_AUDIO)}
 const key=t=>t.trim().toLowerCase().replace(/[.!?]+$/g,'').replace(/\s+/g,' ');
 const audio=Object.fromEntries(Object.entries(raw).filter(([,f])=>fs.existsSync(path.join(root,f))).map(([k,f])=>[key(k),f]));
 const context={window:{}};vm.runInNewContext(read('assets/vocabulary/verb-conjugations.js'),context);
