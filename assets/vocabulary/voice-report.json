@@ -1,5 +1,5 @@
 {
-  "count": 676,
+  "count": 899,
   "entries": [
     {
       "id": "rq001",
@@ -5055,6 +5055,1790 @@
       "path": "audio/henri-course-part1-20261018/rq223_course_3b0501be71db.mp3",
       "sha256": "3b0501be71db7dbb48f2b9e2d40cc171ed92a7cae513eeb0b24add9586aec647",
       "duration": 2.220408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0224",
+      "text": "Ich trinke oft Tee.",
+      "path": "audio/henri-course-part2-20261018/rq001_course_3eeb524aa752.mp3",
+      "sha256": "3eeb524aa752cd05ac45905a34bdb84a5112174c38d96ff0724d3200e494f613",
+      "duration": 1.38449,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0225",
+      "text": "Manchmal lese ich abends.",
+      "path": "audio/henri-course-part2-20261018/rq002_course_53c4dcaa722c.mp3",
+      "sha256": "53c4dcaa722c68feb9c933030e9618ea83d32ecb11fe0c7eccee54c68f236cde",
+      "duration": 1.959184,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0226",
+      "text": "Wir spielen jeden Tag.",
+      "path": "audio/henri-course-part2-20261018/rq003_course_1136281fdde0.mp3",
+      "sha256": "1136281fdde0cf9aa05d238d17a45913b418b8f220ff7742194fd789c0efa497",
+      "duration": 1.776327,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0227",
+      "text": "Sie kommt immer früh.",
+      "path": "audio/henri-course-part2-20261018/rq004_course_9ab7669063e3.mp3",
+      "sha256": "9ab7669063e349c545b0b8ecd11ea035412fcf6b6f2e99efb5b632a8e0750aeb",
+      "duration": 1.48898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0228",
+      "text": "Ich rauche nie.",
+      "path": "audio/henri-course-part2-20261018/rq005_course_15e4dcc20919.mp3",
+      "sha256": "15e4dcc2091928baf22cef95ac92745a435d70ad659fa1801af94386c8062587",
+      "duration": 1.253878,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0229",
+      "text": "Zuerst lerne ich Deutsch.",
+      "path": "audio/henri-course-part2-20261018/rq006_course_9785d83bc293.mp3",
+      "sha256": "9785d83bc293891ec98fb57e01a61c96ebd402f95a8ae54ef0087389397d28fd",
+      "duration": 1.802449,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0230",
+      "text": "Danach kaufe ich ein.",
+      "path": "audio/henri-course-part2-20261018/rq007_course_1c6685fe29eb.mp3",
+      "sha256": "1c6685fe29eb5dd2423ba0593addfb2cb0896c739065da3a8d38ed6264cdabac",
+      "duration": 1.567347,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0231",
+      "text": "Wann können wir uns treffen?",
+      "path": "audio/henri-course-part2-20261018/rq008_course_ebafb2094277.mp3",
+      "sha256": "ebafb209427773a5936dea9cd208eb59bc61ad21678f26efbeb6a23912a0059b",
+      "duration": 1.541224,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0232",
+      "text": "Wir können uns morgen treffen.",
+      "path": "audio/henri-course-part2-20261018/rq009_course_652aa642cc4c.mp3",
+      "sha256": "652aa642cc4c7f6887ef860ab3ba903cb41ecefb07547837c415bfbb65dfd30d",
+      "duration": 1.671837,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0233",
+      "text": "Hast du am Samstag Zeit?",
+      "path": "audio/henri-course-part2-20261018/rq010_course_8a4ed8d8e60e.mp3",
+      "sha256": "8a4ed8d8e60e32f17396b4182afdb25d96589fd83a7e6e6f130d5eb46f0bef91",
+      "duration": 1.593469,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0234",
+      "text": "Ja, ich habe Zeit.",
+      "path": "audio/henri-course-part2-20261018/rq011_course_d456c663df85.mp3",
+      "sha256": "d456c663df852d01da9ab83a1680dfc3708d5ead2ce3351b60e88bd2a3252d1b",
+      "duration": 1.436735,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0235",
+      "text": "Treffen wir uns um acht Uhr?",
+      "path": "audio/henri-course-part2-20261018/rq012_course_6dfd851a1ae8.mp3",
+      "sha256": "6dfd851a1ae894fafba0c8868d81e0a9d3686d6ef514795d97a7958f74245f01",
+      "duration": 1.671837,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0236",
+      "text": "Das passt gut.",
+      "path": "audio/henri-course-part2-20261018/rq013_course_e1565dfdea2c.mp3",
+      "sha256": "e1565dfdea2cf0a05b9f2043d954b7aa2a79c4d2699603bfc4b6b0fe1ec704c2",
+      "duration": 1.018776,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0237",
+      "text": "Leider kann ich nicht kommen.",
+      "path": "audio/henri-course-part2-20261018/rq014_course_116b08f13d4e.mp3",
+      "sha256": "116b08f13d4e49072f60b7754d346ff25a852122da406fd5e8ba9cd2aaa3cc3b",
+      "duration": 1.567347,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0238",
+      "text": "Ich rufe dich morgen an.",
+      "path": "audio/henri-course-part2-20261018/rq015_course_54d8e6e29bb7.mp3",
+      "sha256": "54d8e6e29bb78bca4af1895a7771e9404e54614290c1e7fe92de6cc983eac113",
+      "duration": 1.410612,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0239",
+      "text": "Ich habe Deutsch gelernt.",
+      "path": "audio/henri-course-part2-20261018/rq016_course_06abe4970ff5.mp3",
+      "sha256": "06abe4970ff54b6705f5a94982df53afc8502b7e46613f44d0a5d140ec8fb883",
+      "duration": 1.462857,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0240",
+      "text": "Du hast gestern gespielt.",
+      "path": "audio/henri-course-part2-20261018/rq017_course_945ecfea363e.mp3",
+      "sha256": "945ecfea363e763fa99744b80618301542b7101626dcc00e345d51aacf161647",
+      "duration": 1.671837,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0241",
+      "text": "Er hat hier gearbeitet.",
+      "path": "audio/henri-course-part2-20261018/rq018_course_ef9f2d164cc9.mp3",
+      "sha256": "ef9f2d164cc96d89e62006e402d6f01a820549d85179c896535168dcba471e40",
+      "duration": 1.724082,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0242",
+      "text": "Wir haben das gemacht.",
+      "path": "audio/henri-course-part2-20261018/rq019_course_ead5a4e6de35.mp3",
+      "sha256": "ead5a4e6de351599c98e0c48725181a349a5594113e7e425abe0d27731d00cff",
+      "duration": 1.541224,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0243",
+      "text": "Ihr habt gefragt.",
+      "path": "audio/henri-course-part2-20261018/rq020_course_57ad3e9d611f.mp3",
+      "sha256": "57ad3e9d611f528fafb6f2da2418ea5a0a033979c86e9e1fea2d5e144a0c2066",
+      "duration": 1.306122,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0244",
+      "text": "Sie haben getanzt.",
+      "path": "audio/henri-course-part2-20261018/rq021_course_865a199149f1.mp3",
+      "sha256": "865a199149f167c618447d118fbfb629bc570f905ec29dd5616cf22f96c85b41",
+      "duration": 1.515102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0245",
+      "text": "Hast du heute gelernt?",
+      "path": "audio/henri-course-part2-20261018/rq022_course_44f2f07fa4b7.mp3",
+      "sha256": "44f2f07fa4b7904d14429526d5ddce31f373d8fdeef8888ba938a37d20dc029d",
+      "duration": 1.332245,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0246",
+      "text": "Ich habe gestern nicht gearbeitet.",
+      "path": "audio/henri-course-part2-20261018/rq023_course_a8baefe538ec.mp3",
+      "sha256": "a8baefe538ec07cfce518d0e5ae959f0ff8b24df30d081db4549e63196f14616",
+      "duration": 2.037551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0247",
+      "text": "Ich habe Brot gegessen.",
+      "path": "audio/henri-course-part2-20261018/rq024_course_02b1f92c40d2.mp3",
+      "sha256": "02b1f92c40d2a3ba18c5f50f95708c043da2c2fe4d15d29457a9014c5a1c8c7e",
+      "duration": 1.48898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0248",
+      "text": "Du hast Wasser getrunken.",
+      "path": "audio/henri-course-part2-20261018/rq025_course_e536405ba1d0.mp3",
+      "sha256": "e536405ba1d0755aa9098c6ece7061bd2fbb4527f4c40d46e9140bd3dcd39107",
+      "duration": 1.645714,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0249",
+      "text": "Er hat das Buch gelesen.",
+      "path": "audio/henri-course-part2-20261018/rq026_course_f8c968179bb1.mp3",
+      "sha256": "f8c968179bb11e0c997dcfc784f256f84b7e418f21b3660ab01bf1766a516353",
+      "duration": 1.697959,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0250",
+      "text": "Wir haben den Hund gesehen.",
+      "path": "audio/henri-course-part2-20261018/rq027_course_9fcf57727b76.mp3",
+      "sha256": "9fcf57727b767755774125a56e2a2006b825af745e992db72dd6ec25e5e52838",
+      "duration": 1.593469,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0251",
+      "text": "Sie hat eine Nachricht geschrieben.",
+      "path": "audio/henri-course-part2-20261018/rq028_course_4064028b2680.mp3",
+      "sha256": "4064028b268073c001ab5abb15461c4e5e8258ca5e782a22078408a1d91f146b",
+      "duration": 1.933061,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0252",
+      "text": "Ihr habt das Buch genommen.",
+      "path": "audio/henri-course-part2-20261018/rq029_course_1e6e4d8f63e1.mp3",
+      "sha256": "1e6e4d8f63e148c31e75a9f05ad29d2b5bc38c997dfd46ea52dd337b225a29ee",
+      "duration": 1.645714,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0253",
+      "text": "Wir haben Deutsch gesprochen.",
+      "path": "audio/henri-course-part2-20261018/rq030_course_e8438ba8af7c.mp3",
+      "sha256": "e8438ba8af7cfbdb68b4c6e078ba5efa113ed7adc6120bd04519f4af4c269427",
+      "duration": 1.776327,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0254",
+      "text": "Sie haben gesungen.",
+      "path": "audio/henri-course-part2-20261018/rq031_course_af1f7ce23233.mp3",
+      "sha256": "af1f7ce2323350e3cd5c74dac549cd9c620acb5e71186984cda0ce5ed763b193",
+      "duration": 1.306122,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0255",
+      "text": "Ich bin nach Hause gegangen.",
+      "path": "audio/henri-course-part2-20261018/rq032_course_33d0c823f46f.mp3",
+      "sha256": "33d0c823f46f8b6d8832ed26b8d87395a7ca87b0355f1b9e09d52a636c720288",
+      "duration": 1.567347,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0256",
+      "text": "Du bist früh gekommen.",
+      "path": "audio/henri-course-part2-20261018/rq033_course_844b8fc46934.mp3",
+      "sha256": "844b8fc4693488fbcb341905e50a36b338ff3cb1c3bbd0b9a1a2ee49d1dec920",
+      "duration": 1.38449,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0257",
+      "text": "Er ist nach Berlin gefahren.",
+      "path": "audio/henri-course-part2-20261018/rq034_course_a09203c4d059.mp3",
+      "sha256": "a09203c4d059f19c5889cb1e9520f6dfe4485ed301d8d0ddb9ff69da3810def9",
+      "duration": 1.776327,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0258",
+      "text": "Wir sind hier geblieben.",
+      "path": "audio/henri-course-part2-20261018/rq035_course_f063092cb2b9.mp3",
+      "sha256": "f063092cb2b9e95e4146cf5c2266ae3bb566c0431c87c57e3886c11e8d19397d",
+      "duration": 1.436735,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0259",
+      "text": "Ihr seid in die Schule gegangen.",
+      "path": "audio/henri-course-part2-20261018/rq036_course_35fb57c2d222.mp3",
+      "sha256": "35fb57c2d2221cfa4d93ac124723de06276dad7c5e59b1ee9f61c5ae15eabab0",
+      "duration": 1.776327,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0260",
+      "text": "Sie sind nach Hause gekommen.",
+      "path": "audio/henri-course-part2-20261018/rq037_course_22d6006e9f55.mp3",
+      "sha256": "22d6006e9f55e74e4435651b795b58a3cc0e9f0a103a16064045f540d8ff5942",
+      "duration": 1.697959,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0261",
+      "text": "Bist du im Park geblieben?",
+      "path": "audio/henri-course-part2-20261018/rq038_course_2ddffb85fa8f.mp3",
+      "sha256": "2ddffb85fa8fddbf40c84ace3c303c19a7030843fc944f2368a36cd83dda7e70",
+      "duration": 1.462857,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0262",
+      "text": "Sie hat gestern getanzt.",
+      "path": "audio/henri-course-part2-20261018/rq039_course_5ff1c87ca64e.mp3",
+      "sha256": "5ff1c87ca64e975027a176bb2cc31dd25f9957df771e1353a841d0853e31ba5b",
+      "duration": 1.776327,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0263",
+      "text": "Ich bin früh aufgestanden.",
+      "path": "audio/henri-course-part2-20261018/rq040_course_4f4b95297a33.mp3",
+      "sha256": "4f4b95297a3309e5e12dcf0cd24341bbb0ec7a4dc1bf8ffdc8b5689701d39ea8",
+      "duration": 1.724082,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0264",
+      "text": "Du hast mich angerufen.",
+      "path": "audio/henri-course-part2-20261018/rq041_course_d4b2c9d6d7e9.mp3",
+      "sha256": "d4b2c9d6d7e9e752eabcbad1d6d83c96d6f43586b2a9e5ce033d893c42f69978",
+      "duration": 1.515102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0265",
+      "text": "Wir haben heute eingekauft.",
+      "path": "audio/henri-course-part2-20261018/rq042_course_bb1f3ca22eba.mp3",
+      "sha256": "bb1f3ca22ebac9c5df6aa6521ef6d91820b180ca54aac8188f30820226e6bd98",
+      "duration": 1.828571,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0266",
+      "text": "Er hat seine Eltern besucht.",
+      "path": "audio/henri-course-part2-20261018/rq043_course_07ce950a280f.mp3",
+      "sha256": "07ce950a280f8bf590434b9cf4d71358f4d5d520258af33151f776073d4a2b1f",
+      "duration": 1.854694,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0267",
+      "text": "Ich habe dich verstanden.",
+      "path": "audio/henri-course-part2-20261018/rq044_course_1f98924f7e2f.mp3",
+      "sha256": "1f98924f7e2f62284275032819d9414e2fc82f7d5b3430139c9bc93dc76a2590",
+      "duration": 1.410612,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0268",
+      "text": "Sie hat das Wort erklärt.",
+      "path": "audio/henri-course-part2-20261018/rq045_course_c41dd4ff78c4.mp3",
+      "sha256": "c41dd4ff78c4a1eadffd00711cb64ba14e5bd688854bbc2cd335bc020afca92f",
+      "duration": 1.750204,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0269",
+      "text": "Wir haben lange telefoniert.",
+      "path": "audio/henri-course-part2-20261018/rq046_course_a4a348dd105c.mp3",
+      "sha256": "a4a348dd105c8b7489fd965254ae0697fa1a4e464d7e616e1d1d368bc7f51566",
+      "duration": 1.880816,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0270",
+      "text": "Er ist gestern zurückgekommen.",
+      "path": "audio/henri-course-part2-20261018/rq047_course_77a02a136f22.mp3",
+      "sha256": "77a02a136f220ce3d106f9e8bd8e8cab2b95a1b8a449d58ea1762151ef061307",
+      "duration": 1.854694,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0271",
+      "text": "Ich habe mich gefreut.",
+      "path": "audio/henri-course-part2-20261018/rq048_course_0720787285ca.mp3",
+      "sha256": "0720787285ca6391354f83eb365e1699d217f0db18e31fbf86f6ef22b0a4f662",
+      "duration": 1.410612,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0272",
+      "text": "Du hast dich gewaschen.",
+      "path": "audio/henri-course-part2-20261018/rq049_course_136c55b28226.mp3",
+      "sha256": "136c55b2822668a81830862e09c4b79c62f05a1c103e1b0457bea44bb7394192",
+      "duration": 1.38449,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0273",
+      "text": "Er hat sich gefreut.",
+      "path": "audio/henri-course-part2-20261018/rq050_course_2e65f8406a13.mp3",
+      "sha256": "2e65f8406a13543ceced2b390c88c02f7522f84e0c9450a63038c654a93391cb",
+      "duration": 1.436735,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0274",
+      "text": "Wir haben uns getroffen.",
+      "path": "audio/henri-course-part2-20261018/rq051_course_c6825f618184.mp3",
+      "sha256": "c6825f61818465a25c81bea99841bebfa7e59d80a58222ade129181a5d7880e0",
+      "duration": 1.541224,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0275",
+      "text": "Ihr habt euch gefreut.",
+      "path": "audio/henri-course-part2-20261018/rq052_course_68a51576d0be.mp3",
+      "sha256": "68a51576d0be2740f5dff798160bc5ea8786e3871952b2d51258ff1e7065f254",
+      "duration": 1.48898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0276",
+      "text": "Sie haben sich gewaschen.",
+      "path": "audio/henri-course-part2-20261018/rq053_course_dd808883db4f.mp3",
+      "sha256": "dd808883db4f768ab3dd463b69d2c9531a41f9786244793906fd32a14dfe88ed",
+      "duration": 1.567347,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0277",
+      "text": "Ich habe mir die Hände gewaschen.",
+      "path": "audio/henri-course-part2-20261018/rq054_course_f31ed3f61dd6.mp3",
+      "sha256": "f31ed3f61dd631d0743ab0dbf8124913a60198f4aa5ea1789aee6774c087a8fc",
+      "duration": 1.776327,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0278",
+      "text": "Sie hat sich mit ihrer Freundin getroffen.",
+      "path": "audio/henri-course-part2-20261018/rq055_course_924af9d7cf89.mp3",
+      "sha256": "924af9d7cf895b348da6b65e2ce83557781c9fffb04992bde555198a37554d05",
+      "duration": 2.298776,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0279",
+      "text": "Ich war gestern zu Hause.",
+      "path": "audio/henri-course-part2-20261018/rq056_course_bb86eba19f0e.mp3",
+      "sha256": "bb86eba19f0ebdfdec4b6f2683b882d699eef2bb4f71f92762c6a7ebcbdf5ea6",
+      "duration": 1.567347,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0280",
+      "text": "Du warst müde.",
+      "path": "audio/henri-course-part2-20261018/rq057_course_e4761f32ea60.mp3",
+      "sha256": "e4761f32ea60463b3f785df73817695d8a7355837b8967170defd04260f50964",
+      "duration": 1.201633,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0281",
+      "text": "Er war krank.",
+      "path": "audio/henri-course-part2-20261018/rq058_course_84031965d16e.mp3",
+      "sha256": "84031965d16e346aaa7defbfe406c5231a0fb3f632d9c5259ac5100bd2414a5e",
+      "duration": 1.149388,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0282",
+      "text": "Wir waren in Berlin.",
+      "path": "audio/henri-course-part2-20261018/rq059_course_8713c10732c3.mp3",
+      "sha256": "8713c10732c36eb5185dc5e93072e3b8aeede7e045eb3b583c90610a40fa0956",
+      "duration": 1.515102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0283",
+      "text": "Ihr wart hier.",
+      "path": "audio/henri-course-part2-20261018/rq060_course_e514b1f1591b.mp3",
+      "sha256": "e514b1f1591bce64ec47d3b8e11465fed1eb62f687f0baafda1b3e3392dd8d66",
+      "duration": 1.044898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0284",
+      "text": "Ich hatte Zeit.",
+      "path": "audio/henri-course-part2-20261018/rq061_course_c95f17580d9a.mp3",
+      "sha256": "c95f17580d9a4f1bebf03528539599713875735d67ceed8e3e00c259e9ae3c5c",
+      "duration": 1.149388,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0285",
+      "text": "Du hattest Hunger.",
+      "path": "audio/henri-course-part2-20261018/rq062_course_9b027ca020e7.mp3",
+      "sha256": "9b027ca020e783ef125e08c52cc71c368f95c96fb1a41e95f185d23df1a09a7c",
+      "duration": 1.227755,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0286",
+      "text": "Sie hatten Durst.",
+      "path": "audio/henri-course-part2-20261018/rq063_course_b68dd44c8411.mp3",
+      "sha256": "b68dd44c84113cea5faea3c9e0d5cf34d3a49c52958c268afe432021144887ab",
+      "duration": 1.358367,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0287",
+      "text": "Hier spricht man Deutsch.",
+      "path": "audio/henri-course-part2-20261018/rq064_course_702ff008d10b.mp3",
+      "sha256": "702ff008d10b1688e29f3b7ef97f4e876168ab5a6bd2da34cd278c6ca5ca0c1e",
+      "duration": 1.515102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0288",
+      "text": "Man kann hier lernen.",
+      "path": "audio/henri-course-part2-20261018/rq065_course_8cdaed7e2aad.mp3",
+      "sha256": "8cdaed7e2aad65ac713e1a49275effa061e2d380458479fda0ed50b49c2de0f4",
+      "duration": 1.358367,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0289",
+      "text": "Man muss hier warten.",
+      "path": "audio/henri-course-part2-20261018/rq066_course_405b61736d6a.mp3",
+      "sha256": "405b61736d6a8ef11d8eba80da2bc6e5a6aa93af9ef9eabdc7d8335aff711e6d",
+      "duration": 1.410612,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0290",
+      "text": "Man darf hier nicht rauchen.",
+      "path": "audio/henri-course-part2-20261018/rq067_course_4d4352ab2539.mp3",
+      "sha256": "4d4352ab2539f3ebceade43f315770a8175af132fb5011430786c18a2925872b",
+      "duration": 1.619592,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0291",
+      "text": "Kann man mit Karte bezahlen?",
+      "path": "audio/henri-course-part2-20261018/rq068_course_9bd5efd35dd1.mp3",
+      "sha256": "9bd5efd35dd16fc1b4c6b6b189fb36d6ed770600458035ab2be2aa428467aea6",
+      "duration": 1.645714,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0292",
+      "text": "Man lernt jeden Tag.",
+      "path": "audio/henri-course-part2-20261018/rq069_course_642c2f2d0365.mp3",
+      "sha256": "642c2f2d03657a8ef7235c808b5441bd622af4562e8e632f46aa7bb4c7ccdb00",
+      "duration": 1.619592,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0293",
+      "text": "Hier gibt es Wasser.",
+      "path": "audio/henri-course-part2-20261018/rq070_course_56b28e2945a1.mp3",
+      "sha256": "56b28e2945a15ea9354b538cf5c47fdc1e189278408ea4faf31150bddc930e0e",
+      "duration": 1.253878,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0294",
+      "text": "Der Mann lernt Deutsch.",
+      "path": "audio/henri-course-part2-20261018/rq071_course_1364c070bfa3.mp3",
+      "sha256": "1364c070bfa3e0c23b8217eccb9b2124744167af401a3fe2cc01e9e66c22b334",
+      "duration": 1.462857,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0295",
+      "text": "Ich habe Zeit, aber ich bin müde.",
+      "path": "audio/henri-course-part2-20261018/rq072_course_e5fb7f8f1324.mp3",
+      "sha256": "e5fb7f8f1324ec778b33df348bbb75a0b9c53689e49907ab227432b7dafce157",
+      "duration": 2.377143,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0296",
+      "text": "Trinkst du Tee oder Kaffee?",
+      "path": "audio/henri-course-part2-20261018/rq073_course_cabc7ea52b84.mp3",
+      "sha256": "cabc7ea52b84c5df6061feac9228300255d8e6f2e5fc4fe2308ca9b905414848",
+      "duration": 1.854694,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0297",
+      "text": "Ich bleibe hier, denn ich bin müde.",
+      "path": "audio/henri-course-part2-20261018/rq074_course_9eb8fc5d94ee.mp3",
+      "sha256": "9eb8fc5d94ee440afc9c297a0d700cb5499b413436d5b5bbb8fbbf870b54f8fe",
+      "duration": 2.115918,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0298",
+      "text": "Wir können kommen, aber wir haben wenig Zeit.",
+      "path": "audio/henri-course-part2-20261018/rq075_course_bcfdca2f7d60.mp3",
+      "sha256": "bcfdca2f7d60615bbe36e30d1a3e098baecc2859475b0c94a08a4cc71dd1e2b7",
+      "duration": 3.004082,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0299",
+      "text": "Ich koche, und er kauft ein.",
+      "path": "audio/henri-course-part2-20261018/rq076_course_6f427f183f25.mp3",
+      "sha256": "6f427f183f252e2a9d934780ecddf68cf7c226b853195da4bf7d6011a5a052b4",
+      "duration": 2.142041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0300",
+      "text": "Wir gehen nach Hause, denn es ist spät.",
+      "path": "audio/henri-course-part2-20261018/rq077_course_4f19f2d3db5b.mp3",
+      "sha256": "4f19f2d3db5bbcbbf201ad3aedf8c2ce8c50aba487760baf305b02d933fbbbbe",
+      "duration": 2.35102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0301",
+      "text": "Ich weiß, dass du hier bist.",
+      "path": "audio/henri-course-part2-20261018/rq078_course_483483042a22.mp3",
+      "sha256": "483483042a2264555ac8dd7d31e5e84124e71e3ef9bf8de89c964487a9a718b7",
+      "duration": 1.697959,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0302",
+      "text": "Er sagt, dass er Zeit hat.",
+      "path": "audio/henri-course-part2-20261018/rq079_course_1097524d7ac7.mp3",
+      "sha256": "1097524d7ac7c33b9c1351fd7898fd690b67d81ceb7cdb3ea4611c825923b4c0",
+      "duration": 1.697959,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0303",
+      "text": "Wir glauben, dass sie Deutsch lernt.",
+      "path": "audio/henri-course-part2-20261018/rq080_course_74f63c68ae55.mp3",
+      "sha256": "74f63c68ae551435b84973bb2784f58fa29f615808ac3bc3f7c294bca645a266",
+      "duration": 2.037551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0304",
+      "text": "Ich denke, dass das gut ist.",
+      "path": "audio/henri-course-part2-20261018/rq081_course_172e2110c7f7.mp3",
+      "sha256": "172e2110c7f7e356d2108d32389ed9bcf13a43cba30b8281667df57a0a5c0a24",
+      "duration": 1.906939,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0305",
+      "text": "Sie sagt, dass sie kommen kann.",
+      "path": "audio/henri-course-part2-20261018/rq082_course_384333017d17.mp3",
+      "sha256": "384333017d17e13e6f24aa7204565d5531bf406de02213423938afccbc305ee8",
+      "duration": 1.776327,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0306",
+      "text": "Ich weiß, dass du gestern gearbeitet hast.",
+      "path": "audio/henri-course-part2-20261018/rq083_course_63ec80a8d0d6.mp3",
+      "sha256": "63ec80a8d0d6afe17e0ec6037cc5212ed81bd13c17224f7532f149dab7b57432",
+      "duration": 2.45551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0307",
+      "text": "Er sagt, dass wir früh aufstehen müssen.",
+      "path": "audio/henri-course-part2-20261018/rq084_course_abcdf21fca33.mp3",
+      "sha256": "abcdf21fca33585a90f74e2daf8ac6567209c0a37d7ed5c72b764d9a7d93c00b",
+      "duration": 2.45551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0308",
+      "text": "Wir wissen, dass er nach Hause gegangen ist.",
+      "path": "audio/henri-course-part2-20261018/rq085_course_1e6e347d4d9d.mp3",
+      "sha256": "1e6e347d4d9d521ab6a795de699290f8d4b9b6038bcdc417e731b828760c46fe",
+      "duration": 2.377143,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0309",
+      "text": "Ich bleibe zu Hause, weil ich krank bin.",
+      "path": "audio/henri-course-part2-20261018/rq086_course_38f8bc915aac.mp3",
+      "sha256": "38f8bc915aac59e242d3a0e19ae2b5a4178fdce516376437ecae29c7bd69bdfa",
+      "duration": 2.377143,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0310",
+      "text": "Sie lernt Deutsch, weil sie in Berlin wohnt.",
+      "path": "audio/henri-course-part2-20261018/rq087_course_56739eb89c12.mp3",
+      "sha256": "56739eb89c121a00869f5a0c188c138b79354920e7f8feebc7ca148b0b326157",
+      "duration": 2.429388,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0311",
+      "text": "Wir warten, weil er noch nicht da ist.",
+      "path": "audio/henri-course-part2-20261018/rq088_course_a449f149ec0c.mp3",
+      "sha256": "a449f149ec0c146b67707261eea31b86f203cde173a39acc46eed2e2c54957b1",
+      "duration": 2.272653,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0312",
+      "text": "Ich bin müde. Deshalb gehe ich nach Hause.",
+      "path": "audio/henri-course-part2-20261018/rq089_course_2042edd2cb99.mp3",
+      "sha256": "2042edd2cb994380dc513b4058019a71a42d4a9f6415a13b9be6041a86eb9936",
+      "duration": 2.690612,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0313",
+      "text": "Es regnet. Darum bleiben wir hier.",
+      "path": "audio/henri-course-part2-20261018/rq090_course_037ce8b459f4.mp3",
+      "sha256": "037ce8b459f4c5e87643816eff878aea36c6e05eac44e0ac4aff839be50c3c49",
+      "duration": 2.194286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0314",
+      "text": "Weil ich Zeit habe, komme ich mit.",
+      "path": "audio/henri-course-part2-20261018/rq091_course_5ec356c157e0.mp3",
+      "sha256": "5ec356c157e071fef895ce663ccc10ac90ed767936c82324d3fce31876198e61",
+      "duration": 2.037551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0315",
+      "text": "Er ist froh, weil er alles verstanden hat.",
+      "path": "audio/henri-course-part2-20261018/rq092_course_17a74df77a45.mp3",
+      "sha256": "17a74df77a450d5e9bfa38f0a9bd77827be7668a0bbbee7225cdee9fc83da91d",
+      "duration": 2.586122,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0316",
+      "text": "Wenn ich Zeit habe, komme ich.",
+      "path": "audio/henri-course-part2-20261018/rq093_course_c7afc70df748.mp3",
+      "sha256": "c7afc70df74868cd0f474c35e98e97f1d6a25e8c3e089c2e3c5f75dc613a7660",
+      "duration": 1.880816,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0317",
+      "text": "Wir bleiben zu Hause, wenn es regnet.",
+      "path": "audio/henri-course-part2-20261018/rq094_course_c9bcd4b67fff.mp3",
+      "sha256": "c9bcd4b67fffd905856743e2522641a113929e1c3964be69426eadb348c9ee96",
+      "duration": 2.089796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0318",
+      "text": "Wenn du möchtest, helfe ich dir.",
+      "path": "audio/henri-course-part2-20261018/rq095_course_4937c0b6a5e7.mp3",
+      "sha256": "4937c0b6a5e78ee97cca0d1b0317c161caa5933515f5873cbd6c2dc11e56a811",
+      "duration": 1.776327,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0319",
+      "text": "Ich freue mich, wenn du kommst.",
+      "path": "audio/henri-course-part2-20261018/rq096_course_ef645d678f42.mp3",
+      "sha256": "ef645d678f4273bad9ac8b420c1a061acc7069347d2d57b43733a49a659d1d19",
+      "duration": 1.697959,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0320",
+      "text": "Wenn wir frei sind, spielen wir.",
+      "path": "audio/henri-course-part2-20261018/rq097_course_36a500133469.mp3",
+      "sha256": "36a50013346987d9b896fa75315f7e7f5272da757ade010a637ee6c299499cdc",
+      "duration": 1.985306,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0321",
+      "text": "Ruf mich an, wenn du zu Hause bist!",
+      "path": "audio/henri-course-part2-20261018/rq098_course_a0fce3b9930e.mp3",
+      "sha256": "a0fce3b9930e43c1905ac43ff89e0818ff98d1fae7d1dbe2cc6ea8ce62e4448e",
+      "duration": 2.011429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0322",
+      "text": "Wenn ich müde bin, schlafe ich.",
+      "path": "audio/henri-course-part2-20261018/rq099_course_6933f0d3446d.mp3",
+      "sha256": "6933f0d3446d87c145822019f7ffbb98192d49cc4bdf322d194d5eb25205f0ff",
+      "duration": 1.985306,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0323",
+      "text": "Wir können lernen, wenn ihr Zeit habt.",
+      "path": "audio/henri-course-part2-20261018/rq100_course_c3bdc92216f9.mp3",
+      "sha256": "c3bdc92216f9cdba31e348fcad5e35445288975515870e17fc4f253f71d86e25",
+      "duration": 2.063673,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0324",
+      "text": "Ich versuche, Deutsch zu lernen.",
+      "path": "audio/henri-course-part2-20261018/rq101_course_9118f656ef81.mp3",
+      "sha256": "9118f656ef81658957ed60a26efbc26c2cb2e183323574f9d47cd85357b0338d",
+      "duration": 1.854694,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0325",
+      "text": "Wir beginnen, das Buch zu lesen.",
+      "path": "audio/henri-course-part2-20261018/rq102_course_c573b3e0ebf2.mp3",
+      "sha256": "c573b3e0ebf2350520650a49955e123bf3c01d1e3fa07799cdbbcf5af04b7a4f",
+      "duration": 1.933061,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0326",
+      "text": "Ich habe Zeit, dir zu helfen.",
+      "path": "audio/henri-course-part2-20261018/rq103_course_ab633b568dc0.mp3",
+      "sha256": "ab633b568dc0b0074c7c62604295eac27b216fe27d3d664ddbc0ea7deeb1a88a",
+      "duration": 1.802449,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0327",
+      "text": "Er versucht, früh aufzustehen.",
+      "path": "audio/henri-course-part2-20261018/rq104_course_b2e84e6448b5.mp3",
+      "sha256": "b2e84e6448b5034b6289ab9026f0d7f4d033e5bfb423da5c850f87226f3382f6",
+      "duration": 2.011429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0328",
+      "text": "Sie vergisst, mich anzurufen.",
+      "path": "audio/henri-course-part2-20261018/rq105_course_9ebfa12010b1.mp3",
+      "sha256": "9ebfa12010b1cd5d36403b5cd2b2c4acc81292649f2971a004748a71d6e687a5",
+      "duration": 1.828571,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0329",
+      "text": "Ich hoffe, morgen zu kommen.",
+      "path": "audio/henri-course-part2-20261018/rq106_course_831abe6c54f3.mp3",
+      "sha256": "831abe6c54f341cbc65628ffbf52262e468bfd8ef48b62508517e91e9ce8520c",
+      "duration": 1.697959,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0330",
+      "text": "Es ist wichtig, Deutsch zu lernen.",
+      "path": "audio/henri-course-part2-20261018/rq107_course_50284544b397.mp3",
+      "sha256": "50284544b397dca007dc71386a424411d10f61f3255dc15ece9d6f388baf3811",
+      "duration": 2.011429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0331",
+      "text": "Das Buch ist interessant.",
+      "path": "audio/henri-course-part2-20261018/rq108_course_7c379bdccd6a.mp3",
+      "sha256": "7c379bdccd6a2cbdff8a987022c533f660df5f6ea0a6ee46fe296a9571973c47",
+      "duration": 1.724082,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0332",
+      "text": "Der Film ist langweilig.",
+      "path": "audio/henri-course-part2-20261018/rq109_course_8f16630f0db9.mp3",
+      "sha256": "8f16630f0db9b7b7f6645d56167efab7a0173729a1ae66381687bfaf69eace21",
+      "duration": 1.880816,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0333",
+      "text": "Heute ist es kalt.",
+      "path": "audio/henri-course-part2-20261018/rq110_course_950f5f155361.mp3",
+      "sha256": "950f5f1553610dfeef1e7a7fa557f635cda9f398df44642fa5d795f7d9ee8828",
+      "duration": 1.48898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0334",
+      "text": "Mir ist warm.",
+      "path": "audio/henri-course-part2-20261018/rq111_course_28d87ce532d5.mp3",
+      "sha256": "28d87ce532d54ae312577411c1bbccaa56b48edda5b8089e6ae53d050e7bf316",
+      "duration": 0.992653,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0335",
+      "text": "Die Tasche ist rot.",
+      "path": "audio/henri-course-part2-20261018/rq112_course_cabbbaa72e1b.mp3",
+      "sha256": "cabbbaa72e1b515dae82c55f89862ab197182b3be3fe7d73490db0794a07b655",
+      "duration": 1.48898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0336",
+      "text": "Das Auto ist blau.",
+      "path": "audio/henri-course-part2-20261018/rq113_course_41e1d3683f17.mp3",
+      "sha256": "41e1d3683f17628854f78748d5936b7d3388b2b63e36fe76641484ea2c99ada6",
+      "duration": 1.541224,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0337",
+      "text": "Warum bist du traurig?",
+      "path": "audio/henri-course-part2-20261018/rq114_course_bca1ceb1e233.mp3",
+      "sha256": "bca1ceb1e2336b43a4d341f0e5369676f0bf3dc419fe0cdd773befdd4892c692",
+      "duration": 1.436735,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0338",
+      "text": "Mein Auto ist schneller als dein Auto.",
+      "path": "audio/henri-course-part2-20261018/rq115_course_c70fa6641178.mp3",
+      "sha256": "c70fa6641178ad38c63759631fd40b4545826a976265f28b2a3a15bbca15d1a7",
+      "duration": 2.56,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0339",
+      "text": "Das Buch ist besser als das Buch dort.",
+      "path": "audio/henri-course-part2-20261018/rq116_course_4ef221e3f0e3.mp3",
+      "sha256": "4ef221e3f0e3e5693ef20bb5b033703b2ad1b81b0ef85b2c7e1ab3f4b418a870",
+      "duration": 2.507755,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0340",
+      "text": "Unser Haus ist größer als euer Haus.",
+      "path": "audio/henri-course-part2-20261018/rq117_course_398af12b22c8.mp3",
+      "sha256": "398af12b22c891a8f99a6e3e7f16ad97b707f0627f7b4f20dc38ba783381b97b",
+      "duration": 2.638367,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0341",
+      "text": "Der Tisch ist kleiner als der Tisch dort.",
+      "path": "audio/henri-course-part2-20261018/rq118_course_68cf876b958d.mp3",
+      "sha256": "68cf876b958dd173eae2f1f031756b756494a184290053fca980abe931bae80d",
+      "duration": 2.45551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0342",
+      "text": "Ich habe mehr Zeit als du.",
+      "path": "audio/henri-course-part2-20261018/rq119_course_c56a6b5447b8.mp3",
+      "sha256": "c56a6b5447b8e879bcdbdfc8c7cc1eb63f452f480b7c67e415672bfa5fe1d70e",
+      "duration": 1.776327,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0343",
+      "text": "Sie spricht langsamer als er.",
+      "path": "audio/henri-course-part2-20261018/rq120_course_4f80e181f635.mp3",
+      "sha256": "4f80e181f635bcb3a45b237dc29be61464f7719dbe76af123ea50e7c89340de0",
+      "duration": 1.959184,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0344",
+      "text": "Das Buch ist so gut wie das Buch dort.",
+      "path": "audio/henri-course-part2-20261018/rq121_course_9c854e42af9d.mp3",
+      "sha256": "9c854e42af9d515bed9c5a1431bd9655f1988f62dee445fc2071cb7eca582eea",
+      "duration": 2.586122,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0345",
+      "text": "Heute ist es wärmer als gestern.",
+      "path": "audio/henri-course-part2-20261018/rq122_course_ea0635d55d06.mp3",
+      "sha256": "ea0635d55d06d7da786c074e105bcac6b0797057cd430d78de4a8a427725e042",
+      "duration": 2.142041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0346",
+      "text": "Sie läuft am schnellsten.",
+      "path": "audio/henri-course-part2-20261018/rq123_course_dac3291b44cf.mp3",
+      "sha256": "dac3291b44cf2dc69afd15f11c5e09bbd9bd7f2a1dbb033eb3b6e659876fd3a9",
+      "duration": 1.619592,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0347",
+      "text": "Das Buch ist am besten.",
+      "path": "audio/henri-course-part2-20261018/rq124_course_c188122489ef.mp3",
+      "sha256": "c188122489ef8d6039b4b5347ce4c6ea9b5dc085390c10c13030ad2dacbfd796",
+      "duration": 1.671837,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0348",
+      "text": "Ich trinke lieber Tee als Kaffee.",
+      "path": "audio/henri-course-part2-20261018/rq125_course_14c7dc39f10b.mp3",
+      "sha256": "14c7dc39f10b83a4c54fb96d39ffbeacd68853124bf48d503fd4087ed1c8662e",
+      "duration": 2.037551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0349",
+      "text": "Am liebsten trinke ich Wasser.",
+      "path": "audio/henri-course-part2-20261018/rq126_course_582e93a155c5.mp3",
+      "sha256": "582e93a155c5339b86751f7746b2b61cf9e7f0bdd8fced5ccf01647921b0379d",
+      "duration": 1.802449,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0350",
+      "text": "Er hat am meisten Zeit.",
+      "path": "audio/henri-course-part2-20261018/rq127_course_d8f1c5351a30.mp3",
+      "sha256": "d8f1c5351a30726d15151bf89f037e8ea4854d519297e3b29a338bb13a1bde0a",
+      "duration": 1.776327,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0351",
+      "text": "Unser Haus ist am kleinsten.",
+      "path": "audio/henri-course-part2-20261018/rq128_course_4c3293b9c3c9.mp3",
+      "sha256": "4c3293b9c3c91b7df69ba86e4cac309052473c86470e6c2452b4d7684121bd5d",
+      "duration": 1.933061,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0352",
+      "text": "Hier lerne ich am besten.",
+      "path": "audio/henri-course-part2-20261018/rq129_course_371f5520b3b8.mp3",
+      "sha256": "371f5520b3b885233e923c29a0490f8c5ce4278f44a9436ee3a118d9631c5bdf",
+      "duration": 1.724082,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0353",
+      "text": "Wir spielen am liebsten zusammen.",
+      "path": "audio/henri-course-part2-20261018/rq130_course_22a66b45887e.mp3",
+      "sha256": "22a66b45887efd4c90fd32ef8c9d9338b63259ecd8deb39178b84c3b793f6753",
+      "duration": 1.959184,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0354",
+      "text": "Der gute Mann ist hier.",
+      "path": "audio/henri-course-part2-20261018/rq131_course_ce6c19a8a6fa.mp3",
+      "sha256": "ce6c19a8a6fa6d6bf7148b8864d9492948add570fe6d6dacce11aaaffe440c9c",
+      "duration": 1.436735,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0355",
+      "text": "Die kleine Katze spielt.",
+      "path": "audio/henri-course-part2-20261018/rq132_course_39c658c7da0c.mp3",
+      "sha256": "39c658c7da0c30cfd4aabbfec81bbc219cb994a95e6e7422b164d277294c3bc3",
+      "duration": 1.750204,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0356",
+      "text": "Das neue Buch ist hier.",
+      "path": "audio/henri-course-part2-20261018/rq133_course_10aa4b7783cd.mp3",
+      "sha256": "10aa4b7783cd253f070e1f83d02a90480d7b1c70f4b0a605b2006a8941b7ff16",
+      "duration": 1.567347,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0357",
+      "text": "Ich sehe den großen Hund.",
+      "path": "audio/henri-course-part2-20261018/rq134_course_830664a9496e.mp3",
+      "sha256": "830664a9496ee8856335fab3b2ecf836496ec56db81e9ef8232f1a027ed93c49",
+      "duration": 1.906939,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0358",
+      "text": "Er liest die interessante Geschichte.",
+      "path": "audio/henri-course-part2-20261018/rq135_course_b0689b653a85.mp3",
+      "sha256": "b0689b653a8530a81ea6fff98f24d940c041962aad3d36285283bf9b0117d915",
+      "duration": 2.246531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0359",
+      "text": "Wir sehen das kleine Kind.",
+      "path": "audio/henri-course-part2-20261018/rq136_course_57510f4e52da.mp3",
+      "sha256": "57510f4e52da997090bc5c9e142595848f8ea73f0c947de7a763c29ee0422434",
+      "duration": 1.724082,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0360",
+      "text": "Die alten Bücher sind dort.",
+      "path": "audio/henri-course-part2-20261018/rq137_course_7cfd0709a4ba.mp3",
+      "sha256": "7cfd0709a4ba9a900feaa470bb328b352ebff379e324a7b05860b3dffa1f1d88",
+      "duration": 1.750204,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0361",
+      "text": "Ich kenne die guten Freunde.",
+      "path": "audio/henri-course-part2-20261018/rq138_course_bbd7b8f58179.mp3",
+      "sha256": "bbd7b8f581791c493e082e0dcffd01473b69610b490612c345fc6a481249733b",
+      "duration": 1.724082,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0362",
+      "text": "Ein guter Freund kommt.",
+      "path": "audio/henri-course-part2-20261018/rq139_course_856f199b986d.mp3",
+      "sha256": "856f199b986d1493924de4d990f5a68b5a04f58290f493322ad35a9e825d11aa",
+      "duration": 1.593469,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0363",
+      "text": "Eine kleine Katze spielt.",
+      "path": "audio/henri-course-part2-20261018/rq140_course_d730fd8182c4.mp3",
+      "sha256": "d730fd8182c492a07998eb5065f847a927fe55fa3a95e74cbe8900ff4a52efd7",
+      "duration": 1.776327,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0364",
+      "text": "Das ist ein neues Buch.",
+      "path": "audio/henri-course-part2-20261018/rq141_course_826c2295080c.mp3",
+      "sha256": "826c2295080ce9fd80e9cbb25c9de8450892e6a5b728490cddabdbf2c1a961a5",
+      "duration": 1.724082,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0365",
+      "text": "Ich sehe einen großen Hund.",
+      "path": "audio/henri-course-part2-20261018/rq142_course_9aa39ce357c5.mp3",
+      "sha256": "9aa39ce357c51083c65ccb1d61c2daade4f3ad9c55a0fa41b3fcfcee9910938c",
+      "duration": 2.011429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0366",
+      "text": "Das ist mein alter Tisch.",
+      "path": "audio/henri-course-part2-20261018/rq143_course_d0243cd4e9cb.mp3",
+      "sha256": "d0243cd4e9cbd92c00e8d10947a48b4908608e9915f0a945d89d27ed39d8d44a",
+      "duration": 1.750204,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0367",
+      "text": "Ich lese meine neue Geschichte.",
+      "path": "audio/henri-course-part2-20261018/rq144_course_693808356ace.mp3",
+      "sha256": "693808356aced9f109a2994f7069b219234b5ba57b0ee92810861992990354aa",
+      "duration": 1.985306,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0368",
+      "text": "Wir haben kein kleines Auto.",
+      "path": "audio/henri-course-part2-20261018/rq145_course_c7432ccf35d0.mp3",
+      "sha256": "c7432ccf35d09e521db0d164739e18aca5ba64d1024aab3f78becae03df5aaef",
+      "duration": 2.037551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0369",
+      "text": "Er sieht seinen guten Freund.",
+      "path": "audio/henri-course-part2-20261018/rq146_course_dcaf7410b04e.mp3",
+      "sha256": "dcaf7410b04ed172763e39ddf1a18e747705fdd00f973286189a360dd9f168f6",
+      "duration": 1.880816,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0370",
+      "text": "Ich spreche mit dem guten Freund.",
+      "path": "audio/henri-course-part2-20261018/rq147_course_c62e4a4c35bc.mp3",
+      "sha256": "c62e4a4c35bcc220eeebeb8d9e2f54f44282efe737c5a5a0e1e89c5f6c23b35d",
+      "duration": 1.985306,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0371",
+      "text": "Sie hilft einem kleinen Kind.",
+      "path": "audio/henri-course-part2-20261018/rq148_course_f9be6562054b.mp3",
+      "sha256": "f9be6562054bf058c14ac8abeff56e54588cd57a343b96645cc3187ef8b0132f",
+      "duration": 1.933061,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0372",
+      "text": "Wir kommen mit einer neuen Tasche.",
+      "path": "audio/henri-course-part2-20261018/rq149_course_2c5103038959.mp3",
+      "sha256": "2c510303895968aa95ac45814337cf2a46771725d6e0b522ff798b63455d7c10",
+      "duration": 1.959184,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0373",
+      "text": "Er antwortet der freundlichen Frau.",
+      "path": "audio/henri-course-part2-20261018/rq150_course_de02e2298d0c.mp3",
+      "sha256": "de02e2298d0c567d6867527ffd69eaf9e7f80857e88f10a69a99f46a45a0242e",
+      "duration": 2.220408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0374",
+      "text": "Ich spiele mit meinem kleinen Bruder.",
+      "path": "audio/henri-course-part2-20261018/rq151_course_7f66339da7d3.mp3",
+      "sha256": "7f66339da7d3ee15acfb78ad5a51de792361209e7e28c752ca1bdf6c6e889093",
+      "duration": 2.168163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0375",
+      "text": "Wir sprechen mit den guten Freunden.",
+      "path": "audio/henri-course-part2-20261018/rq152_course_66eada517fb6.mp3",
+      "sha256": "66eada517fb6f543d7a58edf0d96c9a507cd3ac570d9f82245c730cec398cba9",
+      "duration": 2.089796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0376",
+      "text": "Das Bild ist von einem alten Freund.",
+      "path": "audio/henri-course-part2-20261018/rq153_course_dc5c099061b7.mp3",
+      "sha256": "dc5c099061b7dda725bf992d262e3d107c6b8eddce0fb73154cb9f6ba2f7073d",
+      "duration": 2.377143,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0377",
+      "text": "Ich bin bei meiner alten Schule.",
+      "path": "audio/henri-course-part2-20261018/rq154_course_1d2f51ed7ce1.mp3",
+      "sha256": "1d2f51ed7ce160cfc6457c56ae8854d22a310d740778a12db7ee9c73e04f428a",
+      "duration": 1.880816,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0378",
+      "text": "Ich trinke kaltes Wasser.",
+      "path": "audio/henri-course-part2-20261018/rq155_course_94ffbb5a04ec.mp3",
+      "sha256": "94ffbb5a04ecef0914709d5b7ca036bd8d4de9f89f22e503c08ecdbc69d6b596",
+      "duration": 1.697959,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0379",
+      "text": "Wir essen frisches Brot.",
+      "path": "audio/henri-course-part2-20261018/rq156_course_8afbeb0e9028.mp3",
+      "sha256": "8afbeb0e9028a048c25a5cb9c4f338f2c53816472fe3bf0405761fe4bbb5413c",
+      "duration": 1.776327,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0380",
+      "text": "Ich mag grünen Tee.",
+      "path": "audio/henri-course-part2-20261018/rq157_course_499e84437f22.mp3",
+      "sha256": "499e84437f22cc675767896466066a51a538c2cb79c5602e7284592d94291bc7",
+      "duration": 1.462857,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0381",
+      "text": "Hier gibt es guten Kaffee.",
+      "path": "audio/henri-course-part2-20261018/rq158_course_1039cb1b627c.mp3",
+      "sha256": "1039cb1b627c707518d65b4de777d22e619821f5d5ac010c9a1afee8869f7ccd",
+      "duration": 1.724082,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0382",
+      "text": "Gute Bücher sind interessant.",
+      "path": "audio/henri-course-part2-20261018/rq159_course_a2a118341b47.mp3",
+      "sha256": "a2a118341b47a274ed74cfae8ae0f2cc18bb3436c48ccc0fc14e35a9b3f15150",
+      "duration": 1.985306,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0383",
+      "text": "Wir lesen neue Geschichten.",
+      "path": "audio/henri-course-part2-20261018/rq160_course_d0ebf68a5dfe.mp3",
+      "sha256": "d0ebf68a5dfeb130c2966bfcfe0719a522bd7be33888d45082dc6800f7838979",
+      "duration": 1.750204,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0384",
+      "text": "Ich spreche mit guten Freunden.",
+      "path": "audio/henri-course-part2-20261018/rq161_course_8d0ffed257e5.mp3",
+      "sha256": "8d0ffed257e5dd0cd309588958523575de8c91db335fdb85d3a0cdbb539e908b",
+      "duration": 1.933061,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0385",
+      "text": "Warme Milch ist hier.",
+      "path": "audio/henri-course-part2-20261018/rq162_course_f8e939936e68.mp3",
+      "sha256": "f8e939936e6878119eabffc1e7c35d3aa3afeae5c45d5c6584f157eea357641f",
+      "duration": 1.593469,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0386",
+      "text": "Mein Vorname ist Mia.",
+      "path": "audio/henri-course-part2-20261018/rq163_course_14dcd587d526.mp3",
+      "sha256": "14dcd587d526260f6d67478032d986d8b936ec2a876bc61e34d946363a3c22da",
+      "duration": 1.776327,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0387",
+      "text": "Mein Nachname ist Weber.",
+      "path": "audio/henri-course-part2-20261018/rq164_course_14776006d6a2.mp3",
+      "sha256": "14776006d6a2170c81e66eec7ad37583808175ee6cef1d3d3b25703c7a014629",
+      "duration": 1.776327,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0388",
+      "text": "Ich wohne in der Schulstraße.",
+      "path": "audio/henri-course-part2-20261018/rq165_course_75f961d99dc0.mp3",
+      "sha256": "75f961d99dc049cacbe4803a26386ba273ff4186b623686c4b7da86a95490a9e",
+      "duration": 1.906939,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0389",
+      "text": "Meine Hausnummer ist zwölf.",
+      "path": "audio/henri-course-part2-20261018/rq166_course_0a9e218b1619.mp3",
+      "sha256": "0a9e218b1619fa216f96c530230b6158a452bafd09a7cbe8dc7fb34b4914f84c",
+      "duration": 1.959184,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0390",
+      "text": "Wie ist Ihre Adresse?",
+      "path": "audio/henri-course-part2-20261018/rq167_course_6bfaf29d9ce7.mp3",
+      "sha256": "6bfaf29d9ce7169921d2d427c445149a4365392daa686d129dad7b3cb386e91c",
+      "duration": 1.410612,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0391",
+      "text": "Buchstabieren Sie bitte Ihren Namen!",
+      "path": "audio/henri-course-part2-20261018/rq168_course_30409f5b098f.mp3",
+      "sha256": "30409f5b098f5bbdb0b7838cf4ef240f6c6980fca2a19765c98a473da9c601a4",
+      "duration": 2.089796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0392",
+      "text": "Bitte schreiben Sie Ihre Telefonnummer!",
+      "path": "audio/henri-course-part2-20261018/rq169_course_7080fee4da57.mp3",
+      "sha256": "7080fee4da5722769bc9bba3b4033a4c87265575cc6fbee1dffe6eb8c5a56db4",
+      "duration": 2.115918,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0393",
+      "text": "Ich möchte das Formular ausfüllen.",
+      "path": "audio/henri-course-part2-20261018/rq170_course_18ecd07fb634.mp3",
+      "sha256": "18ecd07fb63438984803f75338423b92446b89b1d2965b09b5d1dec453cbee44",
+      "duration": 2.142041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0394",
+      "text": "Ich suche eine Jacke.",
+      "path": "audio/henri-course-part2-20261018/rq171_course_29e4d6edfc9c.mp3",
+      "sha256": "29e4d6edfc9ceb7e8009d19a5d52cde1bfc32d2e28d40a906706c321e2963a36",
+      "duration": 1.436735,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0395",
+      "text": "Haben Sie das Hemd in Größe vierzig?",
+      "path": "audio/henri-course-part2-20261018/rq172_course_46254cbf7487.mp3",
+      "sha256": "46254cbf748765db35731f8f51aa6b54127d28981956c24ecdba7119901c3212",
+      "duration": 2.272653,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0396",
+      "text": "Kann ich die Hose anprobieren?",
+      "path": "audio/henri-course-part2-20261018/rq173_course_39f8df98fcb4.mp3",
+      "sha256": "39f8df98fcb4b6ea763dacf76dcbe07bd35d86fa1578241bda38be625e344637",
+      "duration": 1.750204,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0397",
+      "text": "Die Jacke ist zu groß.",
+      "path": "audio/henri-course-part2-20261018/rq174_course_d195ee93aaeb.mp3",
+      "sha256": "d195ee93aaeb15ac398134201e733906b70832e85dee83866b0da06c562586a7",
+      "duration": 1.619592,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0398",
+      "text": "Ich möchte eine kleinere Größe.",
+      "path": "audio/henri-course-part2-20261018/rq175_course_59fc19de6a8a.mp3",
+      "sha256": "59fc19de6a8a3673b922b3f65adff3d031c49dfc32877031ff9cdbb36792188e",
+      "duration": 1.906939,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0399",
+      "text": "Das ist zu teuer.",
+      "path": "audio/henri-course-part2-20261018/rq176_course_1ef49e612950.mp3",
+      "sha256": "1ef49e61295013ffb902e7c48da38c63c71a6dd02f18c590974b474e3d41d544",
+      "duration": 1.253878,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0400",
+      "text": "Kann ich mit Karte bezahlen?",
+      "path": "audio/henri-course-part2-20261018/rq177_course_64a0fa00207f.mp3",
+      "sha256": "64a0fa00207f888d56fa56977780fef9aa428a74edd07b5aa1894b800b4a3785",
+      "duration": 1.619592,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0401",
+      "text": "Ich nehme die blaue Jacke.",
+      "path": "audio/henri-course-part2-20261018/rq178_course_cf74eb92368c.mp3",
+      "sha256": "cf74eb92368c8357706d96aca2784e0db35878cb9af8d042e69c13f6b6730ee0",
+      "duration": 1.567347,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0402",
+      "text": "Ich habe Kopfschmerzen.",
+      "path": "audio/henri-course-part2-20261018/rq179_course_67c6bf95d60c.mp3",
+      "sha256": "67c6bf95d60ca1af4d80756c27ecfc193efef6da57b11b427b0e0c89ecd8cb73",
+      "duration": 1.593469,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0403",
+      "text": "Mein Hals tut weh.",
+      "path": "audio/henri-course-part2-20261018/rq180_course_2d63fff7a7dc.mp3",
+      "sha256": "2d63fff7a7dcc7bf8b2c9f6e711d1865f34116d546c7d6b96505cdfd6b625c04",
+      "duration": 1.410612,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0404",
+      "text": "Ich fühle mich nicht gut.",
+      "path": "audio/henri-course-part2-20261018/rq181_course_3a0a25f8451b.mp3",
+      "sha256": "3a0a25f8451bb3349034d5b3800845a3509f0b1fbb9477ff585ddfeaddd204d0",
+      "duration": 1.462857,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0405",
+      "text": "Ich habe Fieber.",
+      "path": "audio/henri-course-part2-20261018/rq182_course_210066d6d1c9.mp3",
+      "sha256": "210066d6d1c9397090ba73e74dca143bb54917b10c3e7b6b3f956e45a76aad75",
+      "duration": 1.149388,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0406",
+      "text": "Ich brauche einen Termin.",
+      "path": "audio/henri-course-part2-20261018/rq183_course_47534309004f.mp3",
+      "sha256": "47534309004f84ce5f1001262f5d93f52e65da60a77a8f521fda43ebb5f71145",
+      "duration": 1.541224,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0407",
+      "text": "Wann kann ich zum Arzt kommen?",
+      "path": "audio/henri-course-part2-20261018/rq184_course_bc358df281cf.mp3",
+      "sha256": "bc358df281cf96c5525dfcf69ec69beb7ccaf6adab1ccd2f02a0a90969df4e64",
+      "duration": 1.697959,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0408",
+      "text": "Ich war gestern beim Arzt.",
+      "path": "audio/henri-course-part2-20261018/rq185_course_589917b3bc1e.mp3",
+      "sha256": "589917b3bc1ed2f23d706e79892a0a7291de0524b749b5a5ca6594c559c07758",
+      "duration": 1.593469,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0409",
+      "text": "Können Sie bitte langsam sprechen?",
+      "path": "audio/henri-course-part2-20261018/rq186_course_ec80fdf07c90.mp3",
+      "sha256": "ec80fdf07c909be6bdcf31f69ad2b2289a990790db3e28165b96fe2bd5896913",
+      "duration": 1.985306,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0410",
+      "text": "Unsere Wohnung hat drei Zimmer.",
+      "path": "audio/henri-course-part2-20261018/rq187_course_b15c895cf274.mp3",
+      "sha256": "b15c895cf2748bd25ba2f7b453b5165acc2bee42e24a8213e3aadb76426df9f0",
+      "duration": 1.933061,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0411",
+      "text": "Die Küche ist neben dem Bad.",
+      "path": "audio/henri-course-part2-20261018/rq188_course_18927e8c2e23.mp3",
+      "sha256": "18927e8c2e236863b34f3cf7bf13238ed2481c380918c036269c8e5cf35092f2",
+      "duration": 1.906939,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0412",
+      "text": "Die Heizung funktioniert nicht.",
+      "path": "audio/henri-course-part2-20261018/rq189_course_4883438de677.mp3",
+      "sha256": "4883438de6772b7876148c2a703b54fcd0cb75f1e642283d5c61460583ca0155",
+      "duration": 1.802449,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0413",
+      "text": "Das Fenster ist kaputt.",
+      "path": "audio/henri-course-part2-20261018/rq190_course_90ff559def8b.mp3",
+      "sha256": "90ff559def8b849f92b527f57579c31aac47ff01b5f2f607f553087d035452e3",
+      "duration": 1.48898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0414",
+      "text": "Können Sie das bitte reparieren?",
+      "path": "audio/henri-course-part2-20261018/rq191_course_02a7b0e6ac6f.mp3",
+      "sha256": "02a7b0e6ac6f85d03943e7d0afb2a59d4a92cb711ca12140369606b93cbad796",
+      "duration": 1.776327,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0415",
+      "text": "Ich muss mein Zimmer aufräumen.",
+      "path": "audio/henri-course-part2-20261018/rq192_course_1eddaf540ca5.mp3",
+      "sha256": "1eddaf540ca55dfdb3b7fc4108a848698438cfd7178f2f27b58ec329a16866c2",
+      "duration": 1.776327,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0416",
+      "text": "Wir haben die Küche geputzt.",
+      "path": "audio/henri-course-part2-20261018/rq193_course_1d832ba7e1b6.mp3",
+      "sha256": "1d832ba7e1b6ea0d715adca3ce1cc71741a4e485ca54a276e868de13d26461de",
+      "duration": 1.645714,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0417",
+      "text": "Der Tisch steht vor dem Fenster.",
+      "path": "audio/henri-course-part2-20261018/rq194_course_6e61203b91b4.mp3",
+      "sha256": "6e61203b91b47bf920120b92e66d0670e64d52f3a78d55b35c49b2ae3f112d16",
+      "duration": 1.854694,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0418",
+      "text": "Der Unterricht fängt um neun Uhr an.",
+      "path": "audio/henri-course-part2-20261018/rq195_course_7fca90ed85a5.mp3",
+      "sha256": "7fca90ed85a59a9535e665b97e36b2fba3af87acf1204a9db7e772dde0f20bf2",
+      "duration": 2.246531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0419",
+      "text": "Meine Arbeit beginnt um acht Uhr.",
+      "path": "audio/henri-course-part2-20261018/rq196_course_fb4cd6536ba8.mp3",
+      "sha256": "fb4cd6536ba83d56474e7ea424a59cb4bfb156ac34ec8d05756e5ad77049323d",
+      "duration": 2.115918,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0420",
+      "text": "Ich habe eine Frage.",
+      "path": "audio/henri-course-part2-20261018/rq197_course_c187d8a0e798.mp3",
+      "sha256": "c187d8a0e7983d0f25c9b0aac8cb03066a41ff1ce332bf89c9e3343c376741f1",
+      "duration": 1.332245,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0421",
+      "text": "Ich verstehe die Aufgabe nicht.",
+      "path": "audio/henri-course-part2-20261018/rq198_course_6b52c3ac0108.mp3",
+      "sha256": "6b52c3ac0108bd19dc05ffeee28e1e3494e76e28f36584a2ccf0a5c0a90cb496",
+      "duration": 1.828571,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0422",
+      "text": "Kannst du das bitte erklären?",
+      "path": "audio/henri-course-part2-20261018/rq199_course_e31e7fbe1678.mp3",
+      "sha256": "e31e7fbe16781cae51604c756c9a6df61863d93683a8d374d4571d274fd5f0a4",
+      "duration": 1.671837,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0423",
+      "text": "Wann haben wir Pause?",
+      "path": "audio/henri-course-part2-20261018/rq200_course_c0315c5be7dd.mp3",
+      "sha256": "c0315c5be7dd006a1962204d33ff8ee6c3a1d8e847b118514ca23238e8ddc4c5",
+      "duration": 1.38449,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0424",
+      "text": "Ich habe meine Hausaufgaben gemacht.",
+      "path": "audio/henri-course-part2-20261018/rq201_course_556e68deae96.mp3",
+      "sha256": "556e68deae96b01000fcf6cd87c6806069cf77977b41af6d23b4e2c10cbaca10",
+      "duration": 2.011429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0425",
+      "text": "Wir müssen morgen früh anfangen.",
+      "path": "audio/henri-course-part2-20261018/rq202_course_a05820cbaee5.mp3",
+      "sha256": "a05820cbaee58592dc09ad925d4d98be71a8ed0c8c34631ec87a0e70d4949fd0",
+      "duration": 1.906939,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0426",
+      "text": "Ich möchte eine Fahrkarte nach Berlin.",
+      "path": "audio/henri-course-part2-20261018/rq203_course_13f55d92ffb9.mp3",
+      "sha256": "13f55d92ffb9076d8789fbe426e5a6080c837c46f5509c4c243b9139741ec8f3",
+      "duration": 2.194286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0427",
+      "text": "Wann fährt der Zug ab?",
+      "path": "audio/henri-course-part2-20261018/rq204_course_0ba68fc6cce7.mp3",
+      "sha256": "0ba68fc6cce754d8f096fbf802f4814b8a0eb62691a9cb15ef6ecca1d77f2432",
+      "duration": 1.619592,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0428",
+      "text": "Der Zug fährt von Gleis drei ab.",
+      "path": "audio/henri-course-part2-20261018/rq205_course_e939596f531e.mp3",
+      "sha256": "e939596f531e731ca24ced20dc23e1d6f72c165c605b5889f8fbfd22ecaa0654",
+      "duration": 2.220408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0429",
+      "text": "Ich fahre mit dem Zug.",
+      "path": "audio/henri-course-part2-20261018/rq206_course_2f924f65dfc4.mp3",
+      "sha256": "2f924f65dfc4d7ec090e34c5ec61c0176a14d6b6919c8ff90cf846a43be49e80",
+      "duration": 1.48898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0430",
+      "text": "Ich habe ein Zimmer gebucht.",
+      "path": "audio/henri-course-part2-20261018/rq207_course_c663ce91b516.mp3",
+      "sha256": "c663ce91b5169ca0ea7cd4ae2f786d3070ead5898bd1c9f8183891ec3f3fed3a",
+      "duration": 1.671837,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0431",
+      "text": "Wir bleiben zwei Nächte.",
+      "path": "audio/henri-course-part2-20261018/rq208_course_66aa85197a84.mp3",
+      "sha256": "66aa85197a84ef962c4519c5c1e8390855c69b24a4876760f7dbc6b3aa0fc5dc",
+      "duration": 1.567347,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0432",
+      "text": "Haben Sie ein freies Zimmer?",
+      "path": "audio/henri-course-part2-20261018/rq209_course_95c78d0633ef.mp3",
+      "sha256": "95c78d0633ef01e4179aed0504a74750f55f3a3ac9f9d02afbcc0a2a483d061e",
+      "duration": 1.645714,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0433",
+      "text": "Können Sie uns bitte helfen?",
+      "path": "audio/henri-course-part2-20261018/rq210_course_135c0292bde2.mp3",
+      "sha256": "135c0292bde28fa2f85de6f77d1b176ebb4d2db2fe1a2ec9624215d052e5f288",
+      "duration": 1.515102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0434",
+      "text": "Hallo Mia!",
+      "path": "audio/henri-course-part2-20261018/rq211_course_051a71c1ae1c.mp3",
+      "sha256": "051a71c1ae1c35cbbf5cf1c293861d93781c9e53d3f4a5d256873324765a7182",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0435",
+      "text": "Ich möchte dich einladen.",
+      "path": "audio/henri-course-part2-20261018/rq212_course_032adee672c8.mp3",
+      "sha256": "032adee672c8d8213ea160eed89c6eba93050c21c35959e13883602f36d0cec9",
+      "duration": 1.48898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0436",
+      "text": "Wir treffen uns um acht Uhr im Park.",
+      "path": "audio/henri-course-part2-20261018/rq213_course_5136e325ecb4.mp3",
+      "sha256": "5136e325ecb411f7c541456224f3d0cddbf7fb6bc1042907e793cb1f12af39f8",
+      "duration": 2.35102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0437",
+      "text": "Danke für deine Nachricht.",
+      "path": "audio/henri-course-part2-20261018/rq214_course_4ac52a9c242a.mp3",
+      "sha256": "4ac52a9c242a911b84b939636f393815c5d55a250940c84abafb957390547bc1",
+      "duration": 1.541224,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0438",
+      "text": "Leider kann ich morgen nicht kommen.",
+      "path": "audio/henri-course-part2-20261018/rq215_course_5f8aba057895.mp3",
+      "sha256": "5f8aba0578953a65e3ab6b797d6ef96e92dfe39705a921dd19ab134698ceaac6",
+      "duration": 1.959184,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0439",
+      "text": "Können wir den Termin verschieben?",
+      "path": "audio/henri-course-part2-20261018/rq216_course_7942f1093f46.mp3",
+      "sha256": "7942f1093f466c6714b73708b150351b90c8fe30dd3eea29a80b0b7f8dff6d62",
+      "duration": 1.750204,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0440",
+      "text": "Morgen lerne ich Deutsch.",
+      "path": "audio/henri-course-part2-20261018/rq217_course_f47e92f08068.mp3",
+      "sha256": "f47e92f08068e147521ea00e1920122d4d2c40b159e7a10a544255e9b53b8cad",
+      "duration": 1.619592,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0441",
+      "text": "Ich werde morgen Deutsch lernen.",
+      "path": "audio/henri-course-part2-20261018/rq218_course_bf5201189363.mp3",
+      "sha256": "bf520118936356b34d507f53b2d3b87aa13758265ae18f89db0fdef560999ba4",
+      "duration": 1.750204,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0442",
+      "text": "Du wirst nach Berlin fahren.",
+      "path": "audio/henri-course-part2-20261018/rq219_course_c14c62e03299.mp3",
+      "sha256": "c14c62e03299d04a55fafb1ec973f690998ae8b2ec96f65c77e28e62c5af2dce",
+      "duration": 1.645714,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0443",
+      "text": "Er wird uns helfen.",
+      "path": "audio/henri-course-part2-20261018/rq220_course_a1353f9d80aa.mp3",
+      "sha256": "a1353f9d80aa3ca552304965c593becf81fff0f7285763cac824ba834e0b99e0",
+      "duration": 1.306122,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0444",
+      "text": "Wir werden nächste Woche reisen.",
+      "path": "audio/henri-course-part2-20261018/rq221_course_4cc163aa6fdd.mp3",
+      "sha256": "4cc163aa6fdd2d89b7ba483b018b7e91121700e7832ff7bce364c319d5481c49",
+      "duration": 1.802449,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0445",
+      "text": "Ihr werdet hier wohnen.",
+      "path": "audio/henri-course-part2-20261018/rq222_course_26dd185e3fe4.mp3",
+      "sha256": "26dd185e3fe4822eefeab04a73962b8dc4b49542fff84031c8f698753dd8a522",
+      "duration": 1.462857,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0446",
+      "text": "Sie werden morgen kommen.",
+      "path": "audio/henri-course-part2-20261018/rq223_course_754be7e250d0.mp3",
+      "sha256": "754be7e250d0eb8f99a34536e9236ac652cf2436c4534883daf86d48fd0a44ed",
+      "duration": 1.593469,
       "verification": "exact-isolated"
     },
     {
