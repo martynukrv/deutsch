@@ -1,0 +1,2082 @@
+[
+  {
+    "start": 0.0,
+    "end": 14.18,
+    "text": " heißt das, der, die, Tisch, Lampe, Buch, Stuhl, Tür, Fenster, Hund, Katze, ein Buch, eine",
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.42,
+        "word": " heißt"
+      },
+      {
+        "start": 0.42,
+        "end": 1.48,
+        "word": " das,"
+      },
+      {
+        "start": 1.88,
+        "end": 2.7,
+        "word": " der,"
+      },
+      {
+        "start": 3.6,
+        "end": 3.72,
+        "word": " die,"
+      },
+      {
+        "start": 4.72,
+        "end": 4.72,
+        "word": " Tisch,"
+      },
+      {
+        "start": 5.54,
+        "end": 5.92,
+        "word": " Lampe,"
+      },
+      {
+        "start": 6.64,
+        "end": 6.84,
+        "word": " Buch,"
+      },
+      {
+        "start": 7.72,
+        "end": 8.12,
+        "word": " Stuhl,"
+      },
+      {
+        "start": 8.7,
+        "end": 8.9,
+        "word": " Tür,"
+      },
+      {
+        "start": 9.7,
+        "end": 10.14,
+        "word": " Fenster,"
+      },
+      {
+        "start": 10.84,
+        "end": 11.06,
+        "word": " Hund,"
+      },
+      {
+        "start": 11.82,
+        "end": 12.22,
+        "word": " Katze,"
+      },
+      {
+        "start": 12.84,
+        "end": 13.0,
+        "word": " ein"
+      },
+      {
+        "start": 13.0,
+        "end": 13.28,
+        "word": " Buch,"
+      },
+      {
+        "start": 14.0,
+        "end": 14.18,
+        "word": " eine"
+      }
+    ]
+  },
+  {
+    "start": 14.18,
+    "end": 25.06,
+    "text": " Lampe, keinen Hund, keinen, meine, deine, Tasche, Wasser, Brot, Möchte, möchtest, möchtet.",
+    "words": [
+      {
+        "start": 14.18,
+        "end": 14.64,
+        "word": " Lampe,"
+      },
+      {
+        "start": 15.2,
+        "end": 15.52,
+        "word": " keinen"
+      },
+      {
+        "start": 15.52,
+        "end": 15.98,
+        "word": " Hund,"
+      },
+      {
+        "start": 16.46,
+        "end": 16.88,
+        "word": " keinen,"
+      },
+      {
+        "start": 17.48,
+        "end": 17.94,
+        "word": " meine,"
+      },
+      {
+        "start": 18.62,
+        "end": 18.9,
+        "word": " deine,"
+      },
+      {
+        "start": 19.68,
+        "end": 19.98,
+        "word": " Tasche,"
+      },
+      {
+        "start": 20.58,
+        "end": 20.88,
+        "word": " Wasser,"
+      },
+      {
+        "start": 21.6,
+        "end": 22.0,
+        "word": " Brot,"
+      },
+      {
+        "start": 22.64,
+        "end": 22.98,
+        "word": " Möchte,"
+      },
+      {
+        "start": 23.58,
+        "end": 24.08,
+        "word": " möchtest,"
+      },
+      {
+        "start": 24.5,
+        "end": 25.06,
+        "word": " möchtet."
+      }
+    ]
+  },
+  {
+    "start": 25.06,
+    "end": 32.84,
+    "text": " Ich lerne heute. Du arbeitest morgen. Er wohnt hier. Sie spielt dort. Wir lernen jetzt.",
+    "words": [
+      {
+        "start": 25.06,
+        "end": 25.8,
+        "word": " Ich"
+      },
+      {
+        "start": 25.8,
+        "end": 26.22,
+        "word": " lerne"
+      },
+      {
+        "start": 26.22,
+        "end": 26.54,
+        "word": " heute."
+      },
+      {
+        "start": 27.26,
+        "end": 27.4,
+        "word": " Du"
+      },
+      {
+        "start": 27.4,
+        "end": 28.04,
+        "word": " arbeitest"
+      },
+      {
+        "start": 28.04,
+        "end": 28.4,
+        "word": " morgen."
+      },
+      {
+        "start": 29.08,
+        "end": 29.24,
+        "word": " Er"
+      },
+      {
+        "start": 29.24,
+        "end": 29.58,
+        "word": " wohnt"
+      },
+      {
+        "start": 29.58,
+        "end": 29.82,
+        "word": " hier."
+      },
+      {
+        "start": 30.44,
+        "end": 30.6,
+        "word": " Sie"
+      },
+      {
+        "start": 30.6,
+        "end": 31.0,
+        "word": " spielt"
+      },
+      {
+        "start": 31.0,
+        "end": 31.3,
+        "word": " dort."
+      },
+      {
+        "start": 31.96,
+        "end": 32.08,
+        "word": " Wir"
+      },
+      {
+        "start": 32.08,
+        "end": 32.46,
+        "word": " lernen"
+      },
+      {
+        "start": 32.46,
+        "end": 32.84,
+        "word": " jetzt."
+      }
+    ]
+  },
+  {
+    "start": 33.46,
+    "end": 40.16,
+    "text": " Heute lerne ich. Morgen arbeitest du. Jetzt spielen wir. Was machst du? Wo wohnst du?",
+    "words": [
+      {
+        "start": 33.46,
+        "end": 33.72,
+        "word": " Heute"
+      },
+      {
+        "start": 33.72,
+        "end": 34.14,
+        "word": " lerne"
+      },
+      {
+        "start": 34.14,
+        "end": 34.44,
+        "word": " ich."
+      },
+      {
+        "start": 34.88,
+        "end": 35.26,
+        "word": " Morgen"
+      },
+      {
+        "start": 35.26,
+        "end": 35.94,
+        "word": " arbeitest"
+      },
+      {
+        "start": 35.94,
+        "end": 36.18,
+        "word": " du."
+      },
+      {
+        "start": 36.72,
+        "end": 36.96,
+        "word": " Jetzt"
+      },
+      {
+        "start": 36.96,
+        "end": 37.4,
+        "word": " spielen"
+      },
+      {
+        "start": 37.4,
+        "end": 37.7,
+        "word": " wir."
+      },
+      {
+        "start": 38.22,
+        "end": 38.38,
+        "word": " Was"
+      },
+      {
+        "start": 38.38,
+        "end": 38.66,
+        "word": " machst"
+      },
+      {
+        "start": 38.66,
+        "end": 38.9,
+        "word": " du?"
+      },
+      {
+        "start": 39.38,
+        "end": 39.6,
+        "word": " Wo"
+      },
+      {
+        "start": 39.6,
+        "end": 40.0,
+        "word": " wohnst"
+      },
+      {
+        "start": 40.0,
+        "end": 40.16,
+        "word": " du?"
+      }
+    ]
+  },
+  {
+    "start": 40.66,
+    "end": 47.0,
+    "text": " Wann kommst du? Wer kommt heute? Wo arbeitet er? Was lernen wir? Du kannst gut singen.",
+    "words": [
+      {
+        "start": 40.66,
+        "end": 40.82,
+        "word": " Wann"
+      },
+      {
+        "start": 40.82,
+        "end": 41.22,
+        "word": " kommst"
+      },
+      {
+        "start": 41.22,
+        "end": 41.38,
+        "word": " du?"
+      },
+      {
+        "start": 41.78,
+        "end": 42.0,
+        "word": " Wer"
+      },
+      {
+        "start": 42.0,
+        "end": 42.24,
+        "word": " kommt"
+      },
+      {
+        "start": 42.24,
+        "end": 42.58,
+        "word": " heute?"
+      },
+      {
+        "start": 43.12,
+        "end": 43.34,
+        "word": " Wo"
+      },
+      {
+        "start": 43.34,
+        "end": 43.78,
+        "word": " arbeitet"
+      },
+      {
+        "start": 43.78,
+        "end": 44.1,
+        "word": " er?"
+      },
+      {
+        "start": 44.54,
+        "end": 44.74,
+        "word": " Was"
+      },
+      {
+        "start": 44.74,
+        "end": 45.06,
+        "word": " lernen"
+      },
+      {
+        "start": 45.06,
+        "end": 45.34,
+        "word": " wir?"
+      },
+      {
+        "start": 45.82,
+        "end": 45.96,
+        "word": " Du"
+      },
+      {
+        "start": 45.96,
+        "end": 46.22,
+        "word": " kannst"
+      },
+      {
+        "start": 46.22,
+        "end": 46.58,
+        "word": " gut"
+      },
+      {
+        "start": 46.58,
+        "end": 47.0,
+        "word": " singen."
+      }
+    ]
+  },
+  {
+    "start": 47.42,
+    "end": 53.4,
+    "text": " Er kann hier arbeiten. Sie kann gut tanzen. Wir können heute spielen. Ihr könnt morgen kommen.",
+    "words": [
+      {
+        "start": 47.42,
+        "end": 47.6,
+        "word": " Er"
+      },
+      {
+        "start": 47.6,
+        "end": 47.86,
+        "word": " kann"
+      },
+      {
+        "start": 47.86,
+        "end": 48.04,
+        "word": " hier"
+      },
+      {
+        "start": 48.04,
+        "end": 48.54,
+        "word": " arbeiten."
+      },
+      {
+        "start": 49.06,
+        "end": 49.18,
+        "word": " Sie"
+      },
+      {
+        "start": 49.18,
+        "end": 49.4,
+        "word": " kann"
+      },
+      {
+        "start": 49.4,
+        "end": 49.7,
+        "word": " gut"
+      },
+      {
+        "start": 49.7,
+        "end": 50.14,
+        "word": " tanzen."
+      },
+      {
+        "start": 50.58,
+        "end": 50.74,
+        "word": " Wir"
+      },
+      {
+        "start": 50.74,
+        "end": 51.04,
+        "word": " können"
+      },
+      {
+        "start": 51.04,
+        "end": 51.34,
+        "word": " heute"
+      },
+      {
+        "start": 51.34,
+        "end": 51.84,
+        "word": " spielen."
+      },
+      {
+        "start": 52.3,
+        "end": 52.44,
+        "word": " Ihr"
+      },
+      {
+        "start": 52.44,
+        "end": 52.68,
+        "word": " könnt"
+      },
+      {
+        "start": 52.68,
+        "end": 53.02,
+        "word": " morgen"
+      },
+      {
+        "start": 53.02,
+        "end": 53.4,
+        "word": " kommen."
+      }
+    ]
+  },
+  {
+    "start": 53.4,
+    "end": 60.56,
+    "text": " Sie können hier wohnen. Ich singe nicht. Du singst nicht. Er singt nicht. Sie singt nicht. Es",
+    "words": [
+      {
+        "start": 53.4,
+        "end": 54.06,
+        "word": " Sie"
+      },
+      {
+        "start": 54.06,
+        "end": 54.34,
+        "word": " können"
+      },
+      {
+        "start": 54.34,
+        "end": 54.66,
+        "word": " hier"
+      },
+      {
+        "start": 54.66,
+        "end": 55.26,
+        "word": " wohnen."
+      },
+      {
+        "start": 55.52,
+        "end": 55.66,
+        "word": " Ich"
+      },
+      {
+        "start": 55.66,
+        "end": 56.02,
+        "word": " singe"
+      },
+      {
+        "start": 56.02,
+        "end": 56.28,
+        "word": " nicht."
+      },
+      {
+        "start": 56.7,
+        "end": 56.86,
+        "word": " Du"
+      },
+      {
+        "start": 56.86,
+        "end": 57.3,
+        "word": " singst"
+      },
+      {
+        "start": 57.3,
+        "end": 57.54,
+        "word": " nicht."
+      },
+      {
+        "start": 57.96,
+        "end": 58.14,
+        "word": " Er"
+      },
+      {
+        "start": 58.14,
+        "end": 58.58,
+        "word": " singt"
+      },
+      {
+        "start": 58.58,
+        "end": 58.76,
+        "word": " nicht."
+      },
+      {
+        "start": 59.2,
+        "end": 59.36,
+        "word": " Sie"
+      },
+      {
+        "start": 59.36,
+        "end": 59.82,
+        "word": " singt"
+      },
+      {
+        "start": 59.82,
+        "end": 60.0,
+        "word": " nicht."
+      },
+      {
+        "start": 60.4,
+        "end": 60.56,
+        "word": " Es"
+      }
+    ]
+  },
+  {
+    "start": 60.56,
+    "end": 67.08,
+    "text": " singt nicht. Ihr singt nicht. Sie singen nicht. Ich spiele nicht. Du spielst nicht. Sie spielt",
+    "words": [
+      {
+        "start": 60.56,
+        "end": 61.0,
+        "word": " singt"
+      },
+      {
+        "start": 61.0,
+        "end": 61.2,
+        "word": " nicht."
+      },
+      {
+        "start": 61.58,
+        "end": 61.76,
+        "word": " Ihr"
+      },
+      {
+        "start": 61.76,
+        "end": 62.18,
+        "word": " singt"
+      },
+      {
+        "start": 62.18,
+        "end": 62.36,
+        "word": " nicht."
+      },
+      {
+        "start": 62.76,
+        "end": 62.92,
+        "word": " Sie"
+      },
+      {
+        "start": 62.92,
+        "end": 63.34,
+        "word": " singen"
+      },
+      {
+        "start": 63.34,
+        "end": 63.58,
+        "word": " nicht."
+      },
+      {
+        "start": 64.02,
+        "end": 64.18,
+        "word": " Ich"
+      },
+      {
+        "start": 64.18,
+        "end": 64.56,
+        "word": " spiele"
+      },
+      {
+        "start": 64.56,
+        "end": 64.86,
+        "word": " nicht."
+      },
+      {
+        "start": 65.28,
+        "end": 65.4,
+        "word": " Du"
+      },
+      {
+        "start": 65.4,
+        "end": 65.9,
+        "word": " spielst"
+      },
+      {
+        "start": 65.9,
+        "end": 66.1,
+        "word": " nicht."
+      },
+      {
+        "start": 66.54,
+        "end": 66.7,
+        "word": " Sie"
+      },
+      {
+        "start": 66.7,
+        "end": 67.08,
+        "word": " spielt"
+      }
+    ]
+  },
+  {
+    "start": 67.08,
+    "end": 73.56,
+    "text": " nicht. Es spielt nicht. Wir spielen nicht. Ihr spielt nicht. Sie spielen nicht. Du tanzt nicht.",
+    "words": [
+      {
+        "start": 67.08,
+        "end": 67.36,
+        "word": " nicht."
+      },
+      {
+        "start": 67.76,
+        "end": 67.94,
+        "word": " Es"
+      },
+      {
+        "start": 67.94,
+        "end": 68.26,
+        "word": " spielt"
+      },
+      {
+        "start": 68.26,
+        "end": 68.6,
+        "word": " nicht."
+      },
+      {
+        "start": 69.02,
+        "end": 69.16,
+        "word": " Wir"
+      },
+      {
+        "start": 69.16,
+        "end": 69.54,
+        "word": " spielen"
+      },
+      {
+        "start": 69.54,
+        "end": 69.9,
+        "word": " nicht."
+      },
+      {
+        "start": 70.24,
+        "end": 70.42,
+        "word": " Ihr"
+      },
+      {
+        "start": 70.42,
+        "end": 70.74,
+        "word": " spielt"
+      },
+      {
+        "start": 70.74,
+        "end": 71.1,
+        "word": " nicht."
+      },
+      {
+        "start": 71.5,
+        "end": 71.64,
+        "word": " Sie"
+      },
+      {
+        "start": 71.64,
+        "end": 72.0,
+        "word": " spielen"
+      },
+      {
+        "start": 72.0,
+        "end": 72.36,
+        "word": " nicht."
+      },
+      {
+        "start": 72.74,
+        "end": 72.88,
+        "word": " Du"
+      },
+      {
+        "start": 72.88,
+        "end": 73.28,
+        "word": " tanzt"
+      },
+      {
+        "start": 73.28,
+        "end": 73.56,
+        "word": " nicht."
+      }
+    ]
+  },
+  {
+    "start": 73.94,
+    "end": 80.4,
+    "text": " Er tanzt nicht. Sie tanzt nicht. Es tanzt nicht. Wir tanzen nicht. Ihr tanzt nicht. Sie",
+    "words": [
+      {
+        "start": 73.94,
+        "end": 74.12,
+        "word": " Er"
+      },
+      {
+        "start": 74.12,
+        "end": 74.52,
+        "word": " tanzt"
+      },
+      {
+        "start": 74.52,
+        "end": 74.8,
+        "word": " nicht."
+      },
+      {
+        "start": 75.22,
+        "end": 75.36,
+        "word": " Sie"
+      },
+      {
+        "start": 75.36,
+        "end": 75.82,
+        "word": " tanzt"
+      },
+      {
+        "start": 75.82,
+        "end": 76.06,
+        "word": " nicht."
+      },
+      {
+        "start": 76.44,
+        "end": 76.64,
+        "word": " Es"
+      },
+      {
+        "start": 76.64,
+        "end": 77.06,
+        "word": " tanzt"
+      },
+      {
+        "start": 77.06,
+        "end": 77.32,
+        "word": " nicht."
+      },
+      {
+        "start": 77.66,
+        "end": 77.9,
+        "word": " Wir"
+      },
+      {
+        "start": 77.9,
+        "end": 78.32,
+        "word": " tanzen"
+      },
+      {
+        "start": 78.32,
+        "end": 78.64,
+        "word": " nicht."
+      },
+      {
+        "start": 79.02,
+        "end": 79.14,
+        "word": " Ihr"
+      },
+      {
+        "start": 79.14,
+        "end": 79.58,
+        "word": " tanzt"
+      },
+      {
+        "start": 79.58,
+        "end": 79.84,
+        "word": " nicht."
+      },
+      {
+        "start": 80.24,
+        "end": 80.4,
+        "word": " Sie"
+      }
+    ]
+  },
+  {
+    "start": 80.4,
+    "end": 85.88,
+    "text": " tanzen nicht ich arbeite nicht du arbeitest nicht er arbeitet nicht sie",
+    "words": [
+      {
+        "start": 80.4,
+        "end": 80.82,
+        "word": " tanzen"
+      },
+      {
+        "start": 80.82,
+        "end": 81.14,
+        "word": " nicht"
+      },
+      {
+        "start": 81.14,
+        "end": 81.68,
+        "word": " ich"
+      },
+      {
+        "start": 81.68,
+        "end": 82.24,
+        "word": " arbeite"
+      },
+      {
+        "start": 82.24,
+        "end": 82.54,
+        "word": " nicht"
+      },
+      {
+        "start": 82.54,
+        "end": 83.08,
+        "word": " du"
+      },
+      {
+        "start": 83.08,
+        "end": 83.66,
+        "word": " arbeitest"
+      },
+      {
+        "start": 83.66,
+        "end": 83.98,
+        "word": " nicht"
+      },
+      {
+        "start": 83.98,
+        "end": 84.5,
+        "word": " er"
+      },
+      {
+        "start": 84.5,
+        "end": 84.98,
+        "word": " arbeitet"
+      },
+      {
+        "start": 84.98,
+        "end": 85.32,
+        "word": " nicht"
+      },
+      {
+        "start": 85.32,
+        "end": 85.88,
+        "word": " sie"
+      }
+    ]
+  },
+  {
+    "start": 85.88,
+    "end": 91.5,
+    "text": " arbeitet nicht es arbeitet nicht wir arbeiten nicht ihr arbeitet nicht sie",
+    "words": [
+      {
+        "start": 85.88,
+        "end": 86.32,
+        "word": " arbeitet"
+      },
+      {
+        "start": 86.32,
+        "end": 86.72,
+        "word": " nicht"
+      },
+      {
+        "start": 86.72,
+        "end": 87.24,
+        "word": " es"
+      },
+      {
+        "start": 87.24,
+        "end": 87.74,
+        "word": " arbeitet"
+      },
+      {
+        "start": 87.74,
+        "end": 88.16,
+        "word": " nicht"
+      },
+      {
+        "start": 88.16,
+        "end": 88.7,
+        "word": " wir"
+      },
+      {
+        "start": 88.7,
+        "end": 89.24,
+        "word": " arbeiten"
+      },
+      {
+        "start": 89.24,
+        "end": 89.66,
+        "word": " nicht"
+      },
+      {
+        "start": 89.66,
+        "end": 90.14,
+        "word": " ihr"
+      },
+      {
+        "start": 90.14,
+        "end": 90.62,
+        "word": " arbeitet"
+      },
+      {
+        "start": 90.62,
+        "end": 90.98,
+        "word": " nicht"
+      },
+      {
+        "start": 90.98,
+        "end": 91.5,
+        "word": " sie"
+      }
+    ]
+  },
+  {
+    "start": 91.5,
+    "end": 99.34,
+    "text": " arbeiten nicht singe ich singt er singt sie singt es singen wir singt ihr singen sie",
+    "words": [
+      {
+        "start": 91.5,
+        "end": 91.92,
+        "word": " arbeiten"
+      },
+      {
+        "start": 91.92,
+        "end": 92.36,
+        "word": " nicht"
+      },
+      {
+        "start": 92.36,
+        "end": 93.1,
+        "word": " singe"
+      },
+      {
+        "start": 93.1,
+        "end": 93.38,
+        "word": " ich"
+      },
+      {
+        "start": 93.38,
+        "end": 94.14,
+        "word": " singt"
+      },
+      {
+        "start": 94.14,
+        "end": 94.42,
+        "word": " er"
+      },
+      {
+        "start": 94.42,
+        "end": 95.2,
+        "word": " singt"
+      },
+      {
+        "start": 95.2,
+        "end": 95.4,
+        "word": " sie"
+      },
+      {
+        "start": 95.4,
+        "end": 96.14,
+        "word": " singt"
+      },
+      {
+        "start": 96.14,
+        "end": 96.42,
+        "word": " es"
+      },
+      {
+        "start": 96.42,
+        "end": 97.18,
+        "word": " singen"
+      },
+      {
+        "start": 97.18,
+        "end": 97.42,
+        "word": " wir"
+      },
+      {
+        "start": 97.42,
+        "end": 98.18,
+        "word": " singt"
+      },
+      {
+        "start": 98.18,
+        "end": 98.4,
+        "word": " ihr"
+      },
+      {
+        "start": 98.4,
+        "end": 99.1,
+        "word": " singen"
+      },
+      {
+        "start": 99.1,
+        "end": 99.34,
+        "word": " sie"
+      }
+    ]
+  },
+  {
+    "start": 99.34,
+    "end": 106.38,
+    "text": " spiele ich spielst du spielt sie spielt es spielen wir spielt ihr spielen sie",
+    "words": [
+      {
+        "start": 99.34,
+        "end": 100.1,
+        "word": " spiele"
+      },
+      {
+        "start": 100.1,
+        "end": 100.42,
+        "word": " ich"
+      },
+      {
+        "start": 100.42,
+        "end": 101.2,
+        "word": " spielst"
+      },
+      {
+        "start": 101.2,
+        "end": 101.44,
+        "word": " du"
+      },
+      {
+        "start": 101.44,
+        "end": 102.0,
+        "word": " spielt"
+      },
+      {
+        "start": 102.0,
+        "end": 102.34,
+        "word": " sie"
+      },
+      {
+        "start": 102.34,
+        "end": 102.98,
+        "word": " spielt"
+      },
+      {
+        "start": 102.98,
+        "end": 103.38,
+        "word": " es"
+      },
+      {
+        "start": 103.38,
+        "end": 104.04,
+        "word": " spielen"
+      },
+      {
+        "start": 104.04,
+        "end": 104.38,
+        "word": " wir"
+      },
+      {
+        "start": 104.38,
+        "end": 105.0,
+        "word": " spielt"
+      },
+      {
+        "start": 105.0,
+        "end": 105.36,
+        "word": " ihr"
+      },
+      {
+        "start": 105.36,
+        "end": 106.04,
+        "word": " spielen"
+      },
+      {
+        "start": 106.04,
+        "end": 106.38,
+        "word": " sie"
+      }
+    ]
+  },
+  {
+    "start": 106.38,
+    "end": 114.28,
+    "text": " tanze ich, tanze du, tanzt er, tanzt sie, tanzt es, tanzen wir, tanzen sie, arbeite ich,",
+    "words": [
+      {
+        "start": 106.38,
+        "end": 107.1,
+        "word": " tanze"
+      },
+      {
+        "start": 107.1,
+        "end": 107.4,
+        "word": " ich,"
+      },
+      {
+        "start": 107.66,
+        "end": 108.06,
+        "word": " tanze"
+      },
+      {
+        "start": 108.06,
+        "end": 108.34,
+        "word": " du,"
+      },
+      {
+        "start": 108.68,
+        "end": 108.98,
+        "word": " tanzt"
+      },
+      {
+        "start": 108.98,
+        "end": 109.24,
+        "word": " er,"
+      },
+      {
+        "start": 109.68,
+        "end": 109.96,
+        "word": " tanzt"
+      },
+      {
+        "start": 109.96,
+        "end": 110.22,
+        "word": " sie,"
+      },
+      {
+        "start": 110.62,
+        "end": 110.94,
+        "word": " tanzt"
+      },
+      {
+        "start": 110.94,
+        "end": 111.24,
+        "word": " es,"
+      },
+      {
+        "start": 111.6,
+        "end": 111.92,
+        "word": " tanzen"
+      },
+      {
+        "start": 111.92,
+        "end": 112.2,
+        "word": " wir,"
+      },
+      {
+        "start": 112.56,
+        "end": 112.88,
+        "word": " tanzen"
+      },
+      {
+        "start": 112.88,
+        "end": 113.2,
+        "word": " sie,"
+      },
+      {
+        "start": 113.52,
+        "end": 113.98,
+        "word": " arbeite"
+      },
+      {
+        "start": 113.98,
+        "end": 114.28,
+        "word": " ich,"
+      }
+    ]
+  },
+  {
+    "start": 114.56,
+    "end": 120.86,
+    "text": " arbeitest du, arbeitet er, arbeitet sie, arbeitet es, arbeiten wir, arbeitet ihr,",
+    "words": [
+      {
+        "start": 114.56,
+        "end": 115.12,
+        "word": " arbeitest"
+      },
+      {
+        "start": 115.12,
+        "end": 115.4,
+        "word": " du,"
+      },
+      {
+        "start": 115.72,
+        "end": 116.1,
+        "word": " arbeitet"
+      },
+      {
+        "start": 116.1,
+        "end": 116.46,
+        "word": " er,"
+      },
+      {
+        "start": 116.8,
+        "end": 117.24,
+        "word": " arbeitet"
+      },
+      {
+        "start": 117.24,
+        "end": 117.56,
+        "word": " sie,"
+      },
+      {
+        "start": 117.94,
+        "end": 118.3,
+        "word": " arbeitet"
+      },
+      {
+        "start": 118.3,
+        "end": 118.7,
+        "word": " es,"
+      },
+      {
+        "start": 119.02,
+        "end": 119.42,
+        "word": " arbeiten"
+      },
+      {
+        "start": 119.42,
+        "end": 119.74,
+        "word": " wir,"
+      },
+      {
+        "start": 120.1,
+        "end": 120.54,
+        "word": " arbeitet"
+      },
+      {
+        "start": 120.54,
+        "end": 120.86,
+        "word": " ihr,"
+      }
+    ]
+  },
+  {
+    "start": 121.28,
+    "end": 127.62,
+    "text": " arbeiten sie. Wir wohnen hier. Du bist dort. Es ist hier. Ihr seid hier. Sie sind dort.",
+    "words": [
+      {
+        "start": 121.28,
+        "end": 121.56,
+        "word": " arbeiten"
+      },
+      {
+        "start": 121.56,
+        "end": 121.94,
+        "word": " sie."
+      },
+      {
+        "start": 122.36,
+        "end": 122.48,
+        "word": " Wir"
+      },
+      {
+        "start": 122.48,
+        "end": 122.88,
+        "word": " wohnen"
+      },
+      {
+        "start": 122.88,
+        "end": 123.22,
+        "word": " hier."
+      },
+      {
+        "start": 123.68,
+        "end": 123.76,
+        "word": " Du"
+      },
+      {
+        "start": 123.76,
+        "end": 123.96,
+        "word": " bist"
+      },
+      {
+        "start": 123.96,
+        "end": 124.3,
+        "word": " dort."
+      },
+      {
+        "start": 124.76,
+        "end": 124.88,
+        "word": " Es"
+      },
+      {
+        "start": 124.88,
+        "end": 125.06,
+        "word": " ist"
+      },
+      {
+        "start": 125.06,
+        "end": 125.4,
+        "word": " hier."
+      },
+      {
+        "start": 125.8,
+        "end": 125.92,
+        "word": " Ihr"
+      },
+      {
+        "start": 125.92,
+        "end": 126.16,
+        "word": " seid"
+      },
+      {
+        "start": 126.16,
+        "end": 126.52,
+        "word": " hier."
+      },
+      {
+        "start": 126.92,
+        "end": 127.08,
+        "word": " Sie"
+      },
+      {
+        "start": 127.08,
+        "end": 127.32,
+        "word": " sind"
+      },
+      {
+        "start": 127.32,
+        "end": 127.62,
+        "word": " dort."
+      }
+    ]
+  },
+  {
+    "start": 128.08,
+    "end": 133.9,
+    "text": " Sie haben Zeit. Morgen spielst du. Jetzt lernen wir. Hier wohnt er. Dort spielt sie.",
+    "words": [
+      {
+        "start": 128.08,
+        "end": 128.22,
+        "word": " Sie"
+      },
+      {
+        "start": 128.22,
+        "end": 128.5,
+        "word": " haben"
+      },
+      {
+        "start": 128.5,
+        "end": 128.82,
+        "word": " Zeit."
+      },
+      {
+        "start": 129.32,
+        "end": 129.58,
+        "word": " Morgen"
+      },
+      {
+        "start": 129.58,
+        "end": 130.14,
+        "word": " spielst"
+      },
+      {
+        "start": 130.14,
+        "end": 130.32,
+        "word": " du."
+      },
+      {
+        "start": 130.66,
+        "end": 130.88,
+        "word": " Jetzt"
+      },
+      {
+        "start": 130.88,
+        "end": 131.26,
+        "word": " lernen"
+      },
+      {
+        "start": 131.26,
+        "end": 131.56,
+        "word": " wir."
+      },
+      {
+        "start": 131.96,
+        "end": 132.16,
+        "word": " Hier"
+      },
+      {
+        "start": 132.16,
+        "end": 132.52,
+        "word": " wohnt"
+      },
+      {
+        "start": 132.52,
+        "end": 132.72,
+        "word": " er."
+      },
+      {
+        "start": 133.08,
+        "end": 133.3,
+        "word": " Dort"
+      },
+      {
+        "start": 133.3,
+        "end": 133.6,
+        "word": " spielt"
+      },
+      {
+        "start": 133.6,
+        "end": 133.9,
+        "word": " sie."
+      }
+    ]
+  },
+  {
+    "start": 133.9,
+    "end": 141.64,
+    "text": " heute habe ich Zeit. Morgen sind wir hier. Du lernst nicht. Ihr seid nicht hier. Heute arbeitet",
+    "words": [
+      {
+        "start": 133.9,
+        "end": 134.48,
+        "word": " heute"
+      },
+      {
+        "start": 134.48,
+        "end": 134.8,
+        "word": " habe"
+      },
+      {
+        "start": 134.8,
+        "end": 135.02,
+        "word": " ich"
+      },
+      {
+        "start": 135.02,
+        "end": 135.34,
+        "word": " Zeit."
+      },
+      {
+        "start": 135.78,
+        "end": 136.12,
+        "word": " Morgen"
+      },
+      {
+        "start": 136.12,
+        "end": 136.44,
+        "word": " sind"
+      },
+      {
+        "start": 136.44,
+        "end": 136.64,
+        "word": " wir"
+      },
+      {
+        "start": 136.64,
+        "end": 137.02,
+        "word": " hier."
+      },
+      {
+        "start": 137.7,
+        "end": 137.82,
+        "word": " Du"
+      },
+      {
+        "start": 137.82,
+        "end": 138.26,
+        "word": " lernst"
+      },
+      {
+        "start": 138.26,
+        "end": 138.54,
+        "word": " nicht."
+      },
+      {
+        "start": 139.22,
+        "end": 139.34,
+        "word": " Ihr"
+      },
+      {
+        "start": 139.34,
+        "end": 139.54,
+        "word": " seid"
+      },
+      {
+        "start": 139.54,
+        "end": 139.8,
+        "word": " nicht"
+      },
+      {
+        "start": 139.8,
+        "end": 140.14,
+        "word": " hier."
+      },
+      {
+        "start": 140.78,
+        "end": 141.08,
+        "word": " Heute"
+      },
+      {
+        "start": 141.08,
+        "end": 141.64,
+        "word": " arbeitet"
+      }
+    ]
+  },
+  {
+    "start": 141.64,
+    "end": 150.42,
+    "text": " er nicht. Lernst du? Arbeiten wir heute? Wer lernt hier? Wo seid ihr? Wann haben sie Zeit? Wie alt",
+    "words": [
+      {
+        "start": 141.64,
+        "end": 141.86,
+        "word": " er"
+      },
+      {
+        "start": 141.86,
+        "end": 142.12,
+        "word": " nicht."
+      },
+      {
+        "start": 142.84,
+        "end": 143.16,
+        "word": " Lernst"
+      },
+      {
+        "start": 143.16,
+        "end": 143.34,
+        "word": " du?"
+      },
+      {
+        "start": 143.88,
+        "end": 144.32,
+        "word": " Arbeiten"
+      },
+      {
+        "start": 144.32,
+        "end": 144.5,
+        "word": " wir"
+      },
+      {
+        "start": 144.5,
+        "end": 144.78,
+        "word": " heute?"
+      },
+      {
+        "start": 145.54,
+        "end": 145.7,
+        "word": " Wer"
+      },
+      {
+        "start": 145.7,
+        "end": 146.06,
+        "word": " lernt"
+      },
+      {
+        "start": 146.06,
+        "end": 146.32,
+        "word": " hier?"
+      },
+      {
+        "start": 147.02,
+        "end": 147.16,
+        "word": " Wo"
+      },
+      {
+        "start": 147.16,
+        "end": 147.38,
+        "word": " seid"
+      },
+      {
+        "start": 147.38,
+        "end": 147.64,
+        "word": " ihr?"
+      },
+      {
+        "start": 148.26,
+        "end": 148.54,
+        "word": " Wann"
+      },
+      {
+        "start": 148.54,
+        "end": 148.76,
+        "word": " haben"
+      },
+      {
+        "start": 148.76,
+        "end": 148.96,
+        "word": " sie"
+      },
+      {
+        "start": 148.96,
+        "end": 149.26,
+        "word": " Zeit?"
+      },
+      {
+        "start": 150.02,
+        "end": 150.2,
+        "word": " Wie"
+      },
+      {
+        "start": 150.2,
+        "end": 150.42,
+        "word": " alt"
+      }
+    ]
+  },
+  {
+    "start": 150.42,
+    "end": 158.46,
+    "text": " bist du? Erkennt sie. Wir kennen sie. Ich kenne sie. Was nehmen sie? Dankeschön. Ihr könnt",
+    "words": [
+      {
+        "start": 150.42,
+        "end": 150.6,
+        "word": " bist"
+      },
+      {
+        "start": 150.6,
+        "end": 150.86,
+        "word": " du?"
+      },
+      {
+        "start": 151.44,
+        "end": 151.86,
+        "word": " Erkennt"
+      },
+      {
+        "start": 151.86,
+        "end": 152.14,
+        "word": " sie."
+      },
+      {
+        "start": 152.82,
+        "end": 152.96,
+        "word": " Wir"
+      },
+      {
+        "start": 152.96,
+        "end": 153.3,
+        "word": " kennen"
+      },
+      {
+        "start": 153.3,
+        "end": 153.64,
+        "word": " sie."
+      },
+      {
+        "start": 154.22,
+        "end": 154.42,
+        "word": " Ich"
+      },
+      {
+        "start": 154.42,
+        "end": 154.72,
+        "word": " kenne"
+      },
+      {
+        "start": 154.72,
+        "end": 154.98,
+        "word": " sie."
+      },
+      {
+        "start": 155.66,
+        "end": 155.82,
+        "word": " Was"
+      },
+      {
+        "start": 155.82,
+        "end": 156.1,
+        "word": " nehmen"
+      },
+      {
+        "start": 156.1,
+        "end": 156.38,
+        "word": " sie?"
+      },
+      {
+        "start": 157.02,
+        "end": 157.62,
+        "word": " Dankeschön."
+      },
+      {
+        "start": 158.16,
+        "end": 158.26,
+        "word": " Ihr"
+      },
+      {
+        "start": 158.26,
+        "end": 158.46,
+        "word": " könnt"
+      }
+    ]
+  },
+  {
+    "start": 158.46,
+    "end": 165.88,
+    "text": " heute kommen. Sie können gut lesen. Kannst du helfen? Ich kann nicht kommen. Ich muss lernen. Du",
+    "words": [
+      {
+        "start": 158.46,
+        "end": 158.7,
+        "word": " heute"
+      },
+      {
+        "start": 158.7,
+        "end": 159.06,
+        "word": " kommen."
+      },
+      {
+        "start": 159.68,
+        "end": 159.88,
+        "word": " Sie"
+      },
+      {
+        "start": 159.88,
+        "end": 160.12,
+        "word": " können"
+      },
+      {
+        "start": 160.12,
+        "end": 160.48,
+        "word": " gut"
+      },
+      {
+        "start": 160.48,
+        "end": 160.98,
+        "word": " lesen."
+      },
+      {
+        "start": 161.52,
+        "end": 161.8,
+        "word": " Kannst"
+      },
+      {
+        "start": 161.8,
+        "end": 161.92,
+        "word": " du"
+      },
+      {
+        "start": 161.92,
+        "end": 162.2,
+        "word": " helfen?"
+      },
+      {
+        "start": 162.9,
+        "end": 163.04,
+        "word": " Ich"
+      },
+      {
+        "start": 163.04,
+        "end": 163.24,
+        "word": " kann"
+      },
+      {
+        "start": 163.24,
+        "end": 163.44,
+        "word": " nicht"
+      },
+      {
+        "start": 163.44,
+        "end": 163.74,
+        "word": " kommen."
+      },
+      {
+        "start": 164.44,
+        "end": 164.56,
+        "word": " Ich"
+      },
+      {
+        "start": 164.56,
+        "end": 164.74,
+        "word": " muss"
+      },
+      {
+        "start": 164.74,
+        "end": 165.16,
+        "word": " lernen."
+      },
+      {
+        "start": 165.74,
+        "end": 165.88,
+        "word": " Du"
+      }
+    ]
+  },
+  {
+    "start": 165.88,
+    "end": 172.72,
+    "text": " musst arbeiten. Wir müssen kommen. Ihr müsst schlafen. Du willst spielen. Wir müssen heute nicht",
+    "words": [
+      {
+        "start": 165.88,
+        "end": 166.14,
+        "word": " musst"
+      },
+      {
+        "start": 166.14,
+        "end": 166.54,
+        "word": " arbeiten."
+      },
+      {
+        "start": 167.36,
+        "end": 167.46,
+        "word": " Wir"
+      },
+      {
+        "start": 167.46,
+        "end": 167.78,
+        "word": " müssen"
+      },
+      {
+        "start": 167.78,
+        "end": 168.1,
+        "word": " kommen."
+      },
+      {
+        "start": 168.78,
+        "end": 168.9,
+        "word": " Ihr"
+      },
+      {
+        "start": 168.9,
+        "end": 169.12,
+        "word": " müsst"
+      },
+      {
+        "start": 169.12,
+        "end": 169.66,
+        "word": " schlafen."
+      },
+      {
+        "start": 170.26,
+        "end": 170.38,
+        "word": " Du"
+      },
+      {
+        "start": 170.38,
+        "end": 170.58,
+        "word": " willst"
+      },
+      {
+        "start": 170.58,
+        "end": 171.06,
+        "word": " spielen."
+      },
+      {
+        "start": 171.76,
+        "end": 171.88,
+        "word": " Wir"
+      },
+      {
+        "start": 171.88,
+        "end": 172.12,
+        "word": " müssen"
+      },
+      {
+        "start": 172.12,
+        "end": 172.42,
+        "word": " heute"
+      },
+      {
+        "start": 172.42,
+        "end": 172.72,
+        "word": " nicht"
+      }
+    ]
+  },
+  {
+    "start": 172.72,
+    "end": 180.68,
+    "text": " arbeiten. Kommt bitte. Kommen sie bitte. Kommst du mit? Ich lerne und du spielst. Sie liest und",
+    "words": [
+      {
+        "start": 172.72,
+        "end": 173.2,
+        "word": " arbeiten."
+      },
+      {
+        "start": 173.88,
+        "end": 174.24,
+        "word": " Kommt"
+      },
+      {
+        "start": 174.24,
+        "end": 174.44,
+        "word": " bitte."
+      },
+      {
+        "start": 175.04,
+        "end": 175.34,
+        "word": " Kommen"
+      },
+      {
+        "start": 175.34,
+        "end": 175.56,
+        "word": " sie"
+      },
+      {
+        "start": 175.56,
+        "end": 175.8,
+        "word": " bitte."
+      },
+      {
+        "start": 176.4,
+        "end": 176.68,
+        "word": " Kommst"
+      },
+      {
+        "start": 176.68,
+        "end": 176.8,
+        "word": " du"
+      },
+      {
+        "start": 176.8,
+        "end": 177.0,
+        "word": " mit?"
+      },
+      {
+        "start": 177.58,
+        "end": 177.78,
+        "word": " Ich"
+      },
+      {
+        "start": 177.78,
+        "end": 178.2,
+        "word": " lerne"
+      },
+      {
+        "start": 178.2,
+        "end": 178.48,
+        "word": " und"
+      },
+      {
+        "start": 178.48,
+        "end": 178.72,
+        "word": " du"
+      },
+      {
+        "start": 178.72,
+        "end": 179.36,
+        "word": " spielst."
+      },
+      {
+        "start": 179.84,
+        "end": 180.08,
+        "word": " Sie"
+      },
+      {
+        "start": 180.08,
+        "end": 180.46,
+        "word": " liest"
+      },
+      {
+        "start": 180.46,
+        "end": 180.68,
+        "word": " und"
+      }
+    ]
+  },
+  {
+    "start": 180.68,
+    "end": 186.42,
+    "text": " schreibt. Zeit haben. Ich bin glücklich. Hast du morgen Zeit? Wer kommt?",
+    "words": [
+      {
+        "start": 180.68,
+        "end": 181.1,
+        "word": " schreibt."
+      },
+      {
+        "start": 181.68,
+        "end": 182.0,
+        "word": " Zeit"
+      },
+      {
+        "start": 182.0,
+        "end": 182.4,
+        "word": " haben."
+      },
+      {
+        "start": 182.94,
+        "end": 183.14,
+        "word": " Ich"
+      },
+      {
+        "start": 183.14,
+        "end": 183.32,
+        "word": " bin"
+      },
+      {
+        "start": 183.32,
+        "end": 183.86,
+        "word": " glücklich."
+      },
+      {
+        "start": 184.4,
+        "end": 184.56,
+        "word": " Hast"
+      },
+      {
+        "start": 184.56,
+        "end": 184.74,
+        "word": " du"
+      },
+      {
+        "start": 184.74,
+        "end": 184.94,
+        "word": " morgen"
+      },
+      {
+        "start": 184.94,
+        "end": 185.28,
+        "word": " Zeit?"
+      },
+      {
+        "start": 185.96,
+        "end": 186.16,
+        "word": " Wer"
+      },
+      {
+        "start": 186.16,
+        "end": 186.42,
+        "word": " kommt?"
+      }
+    ]
+  }
+]

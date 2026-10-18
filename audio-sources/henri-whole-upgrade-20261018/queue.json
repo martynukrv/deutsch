@@ -1,0 +1,1580 @@
+{
+  "version": 1,
+  "purpose": "Replace all browser-synthesized and concatenated authored audio with one complete recording per text",
+  "count": 147,
+  "synthesized": 24,
+  "composed": 123,
+  "entries": [
+    {
+      "id": "whole-audio-0001",
+      "text": "heißt",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-choice:10",
+        "legacy-token:10"
+      ]
+    },
+    {
+      "id": "whole-audio-0002",
+      "text": "Das",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-choice:13",
+        "legacy-token:13",
+        "legacy-choice:14",
+        "legacy-token:14",
+        "legacy-choice:15",
+        "legacy-token:15",
+        "legacy-choice:16",
+        "legacy-token:16"
+      ]
+    },
+    {
+      "id": "whole-audio-0003",
+      "text": "der",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-choice:13",
+        "legacy-token:13"
+      ]
+    },
+    {
+      "id": "whole-audio-0004",
+      "text": "die",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-choice:13",
+        "legacy-token:13"
+      ]
+    },
+    {
+      "id": "whole-audio-0005",
+      "text": "Tisch",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-choice:13",
+        "legacy-token:13",
+        "legacy-choice:14",
+        "legacy-token:14",
+        "legacy-choice:15",
+        "legacy-token:15"
+      ]
+    },
+    {
+      "id": "whole-audio-0006",
+      "text": "Lampe",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-choice:13",
+        "legacy-token:13",
+        "legacy-choice:14",
+        "legacy-token:14",
+        "legacy-choice:15",
+        "legacy-token:15",
+        "legacy-choice:16",
+        "legacy-token:16"
+      ]
+    },
+    {
+      "id": "whole-audio-0007",
+      "text": "Buch",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-choice:13",
+        "legacy-token:13",
+        "legacy-choice:14",
+        "legacy-token:14",
+        "legacy-choice:15",
+        "legacy-token:15",
+        "legacy-choice:16",
+        "legacy-token:16"
+      ]
+    },
+    {
+      "id": "whole-audio-0008",
+      "text": "Stuhl",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-choice:13",
+        "legacy-token:13",
+        "legacy-choice:14",
+        "legacy-token:14",
+        "legacy-choice:16",
+        "legacy-token:16"
+      ]
+    },
+    {
+      "id": "whole-audio-0009",
+      "text": "Tür",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-choice:13",
+        "legacy-token:13",
+        "legacy-choice:14",
+        "legacy-token:14",
+        "legacy-choice:16",
+        "legacy-token:16"
+      ]
+    },
+    {
+      "id": "whole-audio-0010",
+      "text": "Fenster",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-choice:13",
+        "legacy-token:13",
+        "legacy-choice:14",
+        "legacy-token:14",
+        "legacy-choice:16",
+        "legacy-token:16"
+      ]
+    },
+    {
+      "id": "whole-audio-0011",
+      "text": "Hund",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-choice:13",
+        "legacy-token:13",
+        "legacy-choice:14",
+        "legacy-token:14",
+        "legacy-choice:15",
+        "legacy-token:15",
+        "legacy-choice:16",
+        "legacy-token:16"
+      ]
+    },
+    {
+      "id": "whole-audio-0012",
+      "text": "Katze",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-choice:13",
+        "legacy-token:13",
+        "legacy-choice:14",
+        "legacy-token:14",
+        "legacy-choice:15",
+        "legacy-token:15",
+        "legacy-choice:16",
+        "legacy-token:16"
+      ]
+    },
+    {
+      "id": "whole-audio-0013",
+      "text": "ein Buch",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-info:14"
+      ]
+    },
+    {
+      "id": "whole-audio-0014",
+      "text": "eine Lampe",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-info:14"
+      ]
+    },
+    {
+      "id": "whole-audio-0015",
+      "text": "keinen Hund",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-info:15"
+      ]
+    },
+    {
+      "id": "whole-audio-0016",
+      "text": "keinen",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-choice:15",
+        "legacy-token:15"
+      ]
+    },
+    {
+      "id": "whole-audio-0017",
+      "text": "meine",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-info:16",
+        "legacy-choice:16",
+        "legacy-token:16"
+      ]
+    },
+    {
+      "id": "whole-audio-0018",
+      "text": "deine",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-info:16",
+        "legacy-choice:16",
+        "legacy-token:16"
+      ]
+    },
+    {
+      "id": "whole-audio-0019",
+      "text": "Tasche",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-choice:16",
+        "legacy-token:16"
+      ]
+    },
+    {
+      "id": "whole-audio-0020",
+      "text": "Wasser",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-info:18",
+        "legacy-choice:18",
+        "legacy-token:18"
+      ]
+    },
+    {
+      "id": "whole-audio-0021",
+      "text": "Brot",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-info:18",
+        "legacy-choice:18",
+        "legacy-token:18"
+      ]
+    },
+    {
+      "id": "whole-audio-0022",
+      "text": "möchte",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-choice:18",
+        "legacy-token:18"
+      ]
+    },
+    {
+      "id": "whole-audio-0023",
+      "text": "möchtest",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-choice:18",
+        "legacy-token:18"
+      ]
+    },
+    {
+      "id": "whole-audio-0024",
+      "text": "möchtet",
+      "previousRoute": "synthesized",
+      "origins": [
+        "legacy-choice:18",
+        "legacy-token:18"
+      ]
+    },
+    {
+      "id": "whole-audio-0025",
+      "text": "Ich lerne heute.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-info:5",
+        "legacy-task:5"
+      ]
+    },
+    {
+      "id": "whole-audio-0026",
+      "text": "Du arbeitest morgen.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-info:5",
+        "legacy-task:5"
+      ]
+    },
+    {
+      "id": "whole-audio-0027",
+      "text": "Er wohnt hier.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-info:5",
+        "legacy-task:5"
+      ]
+    },
+    {
+      "id": "whole-audio-0028",
+      "text": "Sie spielt dort.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:5"
+      ]
+    },
+    {
+      "id": "whole-audio-0029",
+      "text": "Wir lernen jetzt.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:5"
+      ]
+    },
+    {
+      "id": "whole-audio-0030",
+      "text": "Heute lerne ich.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:7",
+        "course:12",
+        "legacy-task:5"
+      ]
+    },
+    {
+      "id": "whole-audio-0031",
+      "text": "Morgen arbeitest du.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:5"
+      ]
+    },
+    {
+      "id": "whole-audio-0032",
+      "text": "Jetzt spielen wir.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:5"
+      ]
+    },
+    {
+      "id": "whole-audio-0033",
+      "text": "Was machst du?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:10",
+        "course:12",
+        "legacy-info:10",
+        "legacy-task:10"
+      ]
+    },
+    {
+      "id": "whole-audio-0034",
+      "text": "Wo wohnst du?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:10",
+        "course:12",
+        "legacy-info:10",
+        "legacy-task:10"
+      ]
+    },
+    {
+      "id": "whole-audio-0035",
+      "text": "Wann kommst du?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:10",
+        "course:12",
+        "legacy-info:10",
+        "legacy-task:10"
+      ]
+    },
+    {
+      "id": "whole-audio-0036",
+      "text": "Wer kommt heute?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:10"
+      ]
+    },
+    {
+      "id": "whole-audio-0037",
+      "text": "Wo arbeitet er?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:10"
+      ]
+    },
+    {
+      "id": "whole-audio-0038",
+      "text": "Was lernen wir?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:10"
+      ]
+    },
+    {
+      "id": "whole-audio-0039",
+      "text": "Du kannst gut singen.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:25",
+        "course:30",
+        "legacy-info:17",
+        "legacy-task:17"
+      ]
+    },
+    {
+      "id": "whole-audio-0040",
+      "text": "Er kann hier arbeiten.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:25",
+        "course:30",
+        "legacy-info:17",
+        "legacy-task:17"
+      ]
+    },
+    {
+      "id": "whole-audio-0041",
+      "text": "Sie kann gut tanzen.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:17"
+      ]
+    },
+    {
+      "id": "whole-audio-0042",
+      "text": "Wir können heute spielen.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:17"
+      ]
+    },
+    {
+      "id": "whole-audio-0043",
+      "text": "Ihr könnt morgen kommen.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:17"
+      ]
+    },
+    {
+      "id": "whole-audio-0044",
+      "text": "Sie können hier wohnen.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:17"
+      ]
+    },
+    {
+      "id": "whole-audio-0045",
+      "text": "Ich singe nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0046",
+      "text": "Du singst nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0047",
+      "text": "Er singt nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0048",
+      "text": "Sie singt nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:8",
+        "course:12",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0049",
+      "text": "Es singt nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0050",
+      "text": "Ihr singt nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0051",
+      "text": "Sie singen nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0052",
+      "text": "Ich spiele nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:8",
+        "course:12",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0053",
+      "text": "Du spielst nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-info:6",
+        "legacy-task:7",
+        "legacy-info:8",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-info:12",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0054",
+      "text": "Sie spielt nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0055",
+      "text": "Es spielt nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0056",
+      "text": "Wir spielen nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0057",
+      "text": "Ihr spielt nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0058",
+      "text": "Sie spielen nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0059",
+      "text": "Du tanzt nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0060",
+      "text": "Er tanzt nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0061",
+      "text": "Sie tanzt nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0062",
+      "text": "Es tanzt nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0063",
+      "text": "Wir tanzen nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:8",
+        "course:12",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0064",
+      "text": "Ihr tanzt nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0065",
+      "text": "Sie tanzen nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0066",
+      "text": "Ich arbeite nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0067",
+      "text": "Du arbeitest nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0068",
+      "text": "Er arbeitet nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:8",
+        "course:12",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0069",
+      "text": "Sie arbeitet nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-info:8",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0070",
+      "text": "Es arbeitet nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-info:12",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0071",
+      "text": "Wir arbeiten nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0072",
+      "text": "Ihr arbeitet nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0073",
+      "text": "Sie arbeiten nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:7",
+        "legacy-base:8",
+        "legacy-task:8",
+        "legacy-base:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0074",
+      "text": "Singe ich?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0075",
+      "text": "Singt er?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-info:9",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0076",
+      "text": "Singt sie?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:9",
+        "course:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0077",
+      "text": "Singt es?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0078",
+      "text": "Singen wir?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0079",
+      "text": "Singt ihr?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0080",
+      "text": "Singen sie?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0081",
+      "text": "Spiele ich?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0082",
+      "text": "Spielst du?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-info:9",
+        "legacy-info:12",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0083",
+      "text": "Spielt sie?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0084",
+      "text": "Spielt es?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0085",
+      "text": "Spielen wir?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0086",
+      "text": "Spielt ihr?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0087",
+      "text": "Spielen sie?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0088",
+      "text": "Tanze ich?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0089",
+      "text": "Tanzt du?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0090",
+      "text": "Tanzt er?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0091",
+      "text": "Tanzt sie?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0092",
+      "text": "Tanzt es?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0093",
+      "text": "Tanzen wir?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0094",
+      "text": "Tanzen sie?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0095",
+      "text": "Arbeite ich?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0096",
+      "text": "Arbeitest du?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0097",
+      "text": "Arbeitet er?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0098",
+      "text": "Arbeitet sie?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0099",
+      "text": "Arbeitet es?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0100",
+      "text": "Arbeiten wir?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0101",
+      "text": "Arbeitet ihr?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0102",
+      "text": "Arbeiten sie?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "legacy-task:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0103",
+      "text": "Wir wohnen hier.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:3",
+        "course:6"
+      ]
+    },
+    {
+      "id": "whole-audio-0104",
+      "text": "Du bist dort.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:4",
+        "course:6"
+      ]
+    },
+    {
+      "id": "whole-audio-0105",
+      "text": "Es ist hier.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:4",
+        "course:6"
+      ]
+    },
+    {
+      "id": "whole-audio-0106",
+      "text": "Ihr seid hier.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:4",
+        "course:6"
+      ]
+    },
+    {
+      "id": "whole-audio-0107",
+      "text": "Sie sind dort.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:4",
+        "course:6"
+      ]
+    },
+    {
+      "id": "whole-audio-0108",
+      "text": "Sie haben Zeit.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:5",
+        "course:6"
+      ]
+    },
+    {
+      "id": "whole-audio-0109",
+      "text": "Morgen spielst du.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:7",
+        "course:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0110",
+      "text": "Jetzt lernen wir.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:7",
+        "course:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0111",
+      "text": "Hier wohnt er.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:7",
+        "course:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0112",
+      "text": "Dort spielt sie.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:7",
+        "course:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0113",
+      "text": "Heute habe ich Zeit.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:7",
+        "course:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0114",
+      "text": "Morgen sind wir hier.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:7",
+        "course:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0115",
+      "text": "Du lernst nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:8",
+        "course:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0116",
+      "text": "Ihr seid nicht hier.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:8",
+        "course:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0117",
+      "text": "Heute arbeitet er nicht.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:8",
+        "course:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0118",
+      "text": "Lernst du?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:9",
+        "course:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0119",
+      "text": "Arbeiten wir heute?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:9",
+        "course:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0120",
+      "text": "Wer lernt hier?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:10",
+        "course:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0121",
+      "text": "Wo seid ihr?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:10",
+        "course:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0122",
+      "text": "Wann haben Sie Zeit?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:10",
+        "course:12"
+      ]
+    },
+    {
+      "id": "whole-audio-0123",
+      "text": "Wie alt bist du?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:11",
+        "course:12",
+        "course:80"
+      ]
+    },
+    {
+      "id": "whole-audio-0124",
+      "text": "Er kennt sie.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:20",
+        "course:24"
+      ]
+    },
+    {
+      "id": "whole-audio-0125",
+      "text": "Wir kennen sie.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:20",
+        "course:24"
+      ]
+    },
+    {
+      "id": "whole-audio-0126",
+      "text": "Ich kenne Sie.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:20",
+        "course:24"
+      ]
+    },
+    {
+      "id": "whole-audio-0127",
+      "text": "Was nehmen Sie?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:23",
+        "course:24",
+        "course:80"
+      ]
+    },
+    {
+      "id": "whole-audio-0128",
+      "text": "Danke schön!",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:23",
+        "course:24",
+        "course:80"
+      ]
+    },
+    {
+      "id": "whole-audio-0129",
+      "text": "Ihr könnt heute kommen.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:25",
+        "course:30"
+      ]
+    },
+    {
+      "id": "whole-audio-0130",
+      "text": "Sie können gut lesen.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:25",
+        "course:30"
+      ]
+    },
+    {
+      "id": "whole-audio-0131",
+      "text": "Kannst du helfen?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:25",
+        "course:30"
+      ]
+    },
+    {
+      "id": "whole-audio-0132",
+      "text": "Ich kann nicht kommen.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:25",
+        "course:30"
+      ]
+    },
+    {
+      "id": "whole-audio-0133",
+      "text": "Ich muss lernen.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:26",
+        "course:30"
+      ]
+    },
+    {
+      "id": "whole-audio-0134",
+      "text": "Du musst arbeiten.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:26",
+        "course:30"
+      ]
+    },
+    {
+      "id": "whole-audio-0135",
+      "text": "Wir müssen kommen.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:26",
+        "course:30"
+      ]
+    },
+    {
+      "id": "whole-audio-0136",
+      "text": "Ihr müsst schlafen.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:26",
+        "course:30"
+      ]
+    },
+    {
+      "id": "whole-audio-0137",
+      "text": "Du willst spielen.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:27",
+        "course:30",
+        "course:80"
+      ]
+    },
+    {
+      "id": "whole-audio-0138",
+      "text": "Wir müssen heute nicht arbeiten.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:28",
+        "course:30"
+      ]
+    },
+    {
+      "id": "whole-audio-0139",
+      "text": "Kommt bitte!",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:29",
+        "course:30"
+      ]
+    },
+    {
+      "id": "whole-audio-0140",
+      "text": "Kommen Sie bitte!",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:29",
+        "course:30"
+      ]
+    },
+    {
+      "id": "whole-audio-0141",
+      "text": "Kommst du mit?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:43",
+        "course:48"
+      ]
+    },
+    {
+      "id": "whole-audio-0142",
+      "text": "Ich lerne und du spielst.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:57",
+        "course:62"
+      ]
+    },
+    {
+      "id": "whole-audio-0143",
+      "text": "Sie liest und schreibt.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:57",
+        "course:62"
+      ]
+    },
+    {
+      "id": "whole-audio-0144",
+      "text": "Zeit haben",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course-word:61",
+        "course-lexicon"
+      ]
+    },
+    {
+      "id": "whole-audio-0145",
+      "text": "Ich bin glücklich.",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:63",
+        "course:70"
+      ]
+    },
+    {
+      "id": "whole-audio-0146",
+      "text": "Hast du morgen Zeit?",
+      "previousRoute": "composed",
+      "origins": [
+        "phrase-catalog",
+        "course:77",
+        "course:80"
+      ]
+    },
+    {
+      "id": "whole-audio-0147",
+      "text": "Wer kommt?",
+      "previousRoute": "composed",
+      "origins": [
+        "legacy-info:10"
+      ]
+    }
+  ]
+}

@@ -6148,7 +6148,6 @@
         "legacy-info:2",
         "legacy-task:2",
         "legacy-base:7",
-        "legacy-info:8",
         "legacy-task:8",
         "legacy-base:8",
         "legacy-task:12",
@@ -6248,6 +6247,7 @@
         "legacy-base:7",
         "legacy-task:8",
         "legacy-base:8",
+        "legacy-info:12",
         "legacy-task:12",
         "legacy-base:12"
       ]
@@ -6714,7 +6714,6 @@
         "legacy-base:7",
         "legacy-task:8",
         "legacy-base:8",
-        "legacy-info:12",
         "legacy-task:12",
         "legacy-base:12"
       ]
@@ -6763,7 +6762,6 @@
       "origins": [
         "phrase-catalog",
         "legacy-task:2",
-        "legacy-info:7",
         "legacy-base:7",
         "legacy-task:8",
         "legacy-base:8",
@@ -6798,6 +6796,7 @@
       "origins": [
         "phrase-catalog",
         "legacy-task:2",
+        "legacy-info:7",
         "legacy-base:7",
         "legacy-task:8",
         "legacy-base:8",
@@ -9786,11 +9785,9 @@
     {
       "text": "Ich lerne heute.",
       "key": "ich lerne heute",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a001_ich.mp3",
-        "audio/henri-20261017/rq068_lerne_a4862c25433a.mp3",
-        "audio/a227_heute.mp3"
+        "audio/henri-whole-upgrade-20261018/rq025_whole_6cc88581561a.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -9801,11 +9798,9 @@
     {
       "text": "Du arbeitest morgen.",
       "key": "du arbeitest morgen",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a002_du.mp3",
-        "audio/henri-20261017/rq089_arbeitest_ebb7f42cb5cc.mp3",
-        "audio/a228_morgen.mp3"
+        "audio/henri-whole-upgrade-20261018/rq026_whole_57e1b856de6d.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -9816,11 +9811,9 @@
     {
       "text": "Er wohnt hier.",
       "key": "er wohnt hier",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a003_er.mp3",
-        "audio/a052_wohnt.mp3",
-        "audio/a256_hier.mp3"
+        "audio/henri-whole-upgrade-20261018/rq027_whole_2b9883497c9d.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -9831,11 +9824,9 @@
     {
       "text": "Sie spielt dort.",
       "key": "sie spielt dort",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a008_sie_Sie.mp3",
-        "audio/a068_spielt.mp3",
-        "audio/a257_dort.mp3"
+        "audio/henri-whole-upgrade-20261018/rq028_whole_086d2ec95c71.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -9845,11 +9836,9 @@
     {
       "text": "Wir lernen jetzt.",
       "key": "wir lernen jetzt",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a006_wir.mp3",
-        "audio/a104_lernen.mp3",
-        "audio/a258_jetzt.mp3"
+        "audio/henri-whole-upgrade-20261018/rq029_whole_0578a6d3dccd.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -9859,11 +9848,9 @@
     {
       "text": "Heute lerne ich.",
       "key": "heute lerne ich",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a227_heute.mp3",
-        "audio/henri-20261017/rq068_lerne_a4862c25433a.mp3",
-        "audio/a001_ich.mp3"
+        "audio/henri-whole-upgrade-20261018/rq030_whole_8598726868e9.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -9875,11 +9862,9 @@
     {
       "text": "Morgen arbeitest du.",
       "key": "morgen arbeitest du",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a228_morgen.mp3",
-        "audio/henri-20261017/rq089_arbeitest_ebb7f42cb5cc.mp3",
-        "audio/a002_du.mp3"
+        "audio/henri-whole-upgrade-20261018/rq031_whole_714178494c49.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -9889,11 +9874,9 @@
     {
       "text": "Jetzt spielen wir.",
       "key": "jetzt spielen wir",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a258_jetzt.mp3",
-        "audio/a065_spielen.mp3",
-        "audio/a006_wir.mp3"
+        "audio/henri-whole-upgrade-20261018/rq032_whole_32da70b43fc5.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10055,11 +10038,9 @@
     {
       "text": "Was machst du?",
       "key": "was machst du",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a243_was.mp3",
-        "audio/a011_machst.mp3",
-        "audio/a002_du.mp3"
+        "audio/henri-whole-upgrade-20261018/rq033_whole_522778e16f1f.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10072,11 +10053,9 @@
     {
       "text": "Wo wohnst du?",
       "key": "wo wohnst du",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a244_wo.mp3",
-        "audio/a051_wohnst.mp3",
-        "audio/a002_du.mp3"
+        "audio/henri-whole-upgrade-20261018/rq034_whole_89619311cc38.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10089,11 +10068,9 @@
     {
       "text": "Wann kommst du?",
       "key": "wann kommst du",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a247_wann.mp3",
-        "audio/henri-20261017/rq078_kommst_b493c3f77756.mp3",
-        "audio/a002_du.mp3"
+        "audio/henri-whole-upgrade-20261018/rq035_whole_5152b8b362cb.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10137,11 +10114,9 @@
     {
       "text": "Wer kommt heute?",
       "key": "wer kommt heute",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a242_wer.mp3",
-        "audio/henri-20261017/rq079_kommt_b1251d8a3a54.mp3",
-        "audio/a227_heute.mp3"
+        "audio/henri-whole-upgrade-20261018/rq036_whole_b509db41ea62.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10151,11 +10126,9 @@
     {
       "text": "Wo arbeitet er?",
       "key": "wo arbeitet er",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a244_wo.mp3",
-        "audio/henri-20261017/rq090_arbeitet_2986b9373033.mp3",
-        "audio/a003_er.mp3"
+        "audio/henri-whole-upgrade-20261018/rq037_whole_896e2e505545.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10165,11 +10138,9 @@
     {
       "text": "Was lernen wir?",
       "key": "was lernen wir",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a243_was.mp3",
-        "audio/a104_lernen.mp3",
-        "audio/a006_wir.mp3"
+        "audio/henri-whole-upgrade-20261018/rq038_whole_2e0116ee1b85.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10614,12 +10585,9 @@
     {
       "text": "Du kannst gut singen.",
       "key": "du kannst gut singen",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a002_du.mp3",
-        "audio/henri-20261017/rq116_kannst_cd497abb16d9.mp3",
-        "audio/a188_gut.mp3",
-        "audio/a057_singen.mp3"
+        "audio/henri-whole-upgrade-20261018/rq039_whole_5019e7cca63f.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10632,12 +10600,9 @@
     {
       "text": "Er kann hier arbeiten.",
       "key": "er kann hier arbeiten",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a003_er.mp3",
-        "audio/henri-20261017/rq115_kann_80e421c39177.mp3",
-        "audio/a256_hier.mp3",
-        "audio/a105_arbeiten.mp3"
+        "audio/henri-whole-upgrade-20261018/rq040_whole_56345a8b19d5.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10650,12 +10615,9 @@
     {
       "text": "Sie kann gut tanzen.",
       "key": "sie kann gut tanzen",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a008_sie_Sie.mp3",
-        "audio/henri-20261017/rq115_kann_80e421c39177.mp3",
-        "audio/a188_gut.mp3",
-        "audio/a073_tanzen.mp3"
+        "audio/henri-whole-upgrade-20261018/rq041_whole_11e9ec320aad.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10665,12 +10627,9 @@
     {
       "text": "Wir können heute spielen.",
       "key": "wir können heute spielen",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a006_wir.mp3",
-        "audio/a114_koennen.mp3",
-        "audio/a227_heute.mp3",
-        "audio/a065_spielen.mp3"
+        "audio/henri-whole-upgrade-20261018/rq042_whole_ddea14e4e797.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10680,12 +10639,9 @@
     {
       "text": "Ihr könnt morgen kommen.",
       "key": "ihr könnt morgen kommen",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a007_ihr.mp3",
-        "audio/henri-20261017/rq117_koennt_f95cee278952.mp3",
-        "audio/a228_morgen.mp3",
-        "audio/a100_kommen.mp3"
+        "audio/henri-whole-upgrade-20261018/rq043_whole_9b738f21be01.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10695,12 +10651,9 @@
     {
       "text": "Sie können hier wohnen.",
       "key": "sie können hier wohnen",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a008_sie_Sie.mp3",
-        "audio/a114_koennen.mp3",
-        "audio/a256_hier.mp3",
-        "audio/a049_wohnen.mp3"
+        "audio/henri-whole-upgrade-20261018/rq044_whole_91698eb612e5.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10824,11 +10777,9 @@
     {
       "text": "Ich singe nicht.",
       "key": "ich singe nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a001_ich.mp3",
-        "audio/a058_singe.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq045_whole_092a1a8bac2a.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10842,11 +10793,9 @@
     {
       "text": "Du singst nicht.",
       "key": "du singst nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a002_du.mp3",
-        "audio/a059_singst.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq046_whole_e8d649c99809.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10860,11 +10809,9 @@
     {
       "text": "Er singt nicht.",
       "key": "er singt nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a003_er.mp3",
-        "audio/a060_singt.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq047_whole_ffe1e2f243bd.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10878,11 +10825,9 @@
     {
       "text": "Sie singt nicht.",
       "key": "sie singt nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a008_sie_Sie.mp3",
-        "audio/a060_singt.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq048_whole_3b9e97ac66ae.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10898,11 +10843,9 @@
     {
       "text": "Es singt nicht.",
       "key": "es singt nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a005_es.mp3",
-        "audio/a060_singt.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq049_whole_f099f1340944.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10916,11 +10859,9 @@
     {
       "text": "Ihr singt nicht.",
       "key": "ihr singt nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a007_ihr.mp3",
-        "audio/a060_singt.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq050_whole_a8f9a14ed2f5.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10934,11 +10875,9 @@
     {
       "text": "Sie singen nicht.",
       "key": "sie singen nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a008_sie_Sie.mp3",
-        "audio/a057_singen.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq051_whole_c4757f612fa5.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10952,11 +10891,9 @@
     {
       "text": "Ich spiele nicht.",
       "key": "ich spiele nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a001_ich.mp3",
-        "audio/a066_spiele.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq052_whole_1f10c1bf12ef.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10972,11 +10909,9 @@
     {
       "text": "Du spielst nicht.",
       "key": "du spielst nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a002_du.mp3",
-        "audio/a067_spielst.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq053_whole_38a1a0cb699e.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -10993,11 +10928,9 @@
     {
       "text": "Sie spielt nicht.",
       "key": "sie spielt nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a008_sie_Sie.mp3",
-        "audio/a068_spielt.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq054_whole_73ab3578914b.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11011,15 +10944,14 @@
     {
       "text": "Es spielt nicht.",
       "key": "es spielt nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a005_es.mp3",
-        "audio/a068_spielt.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq055_whole_e27c1982ad24.mp3"
       ],
       "origins": [
         "phrase-catalog",
         "legacy-task:7",
+        "legacy-info:8",
         "legacy-base:8",
         "legacy-task:8",
         "legacy-base:12",
@@ -11029,11 +10961,9 @@
     {
       "text": "Wir spielen nicht.",
       "key": "wir spielen nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a006_wir.mp3",
-        "audio/a065_spielen.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq056_whole_6afb1da4f2bb.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11047,11 +10977,9 @@
     {
       "text": "Ihr spielt nicht.",
       "key": "ihr spielt nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a007_ihr.mp3",
-        "audio/a068_spielt.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq057_whole_da47128bce90.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11065,11 +10993,9 @@
     {
       "text": "Sie spielen nicht.",
       "key": "sie spielen nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a008_sie_Sie.mp3",
-        "audio/a065_spielen.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq058_whole_80f632a6f535.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11083,11 +11009,9 @@
     {
       "text": "Du tanzt nicht.",
       "key": "du tanzt nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a002_du.mp3",
-        "audio/a075_tanzt.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq059_whole_ea73d5454da5.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11101,11 +11025,9 @@
     {
       "text": "Er tanzt nicht.",
       "key": "er tanzt nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a003_er.mp3",
-        "audio/a075_tanzt.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq060_whole_b31b05854a63.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11119,11 +11041,9 @@
     {
       "text": "Sie tanzt nicht.",
       "key": "sie tanzt nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a008_sie_Sie.mp3",
-        "audio/a075_tanzt.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq061_whole_1ebda515225d.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11137,11 +11057,9 @@
     {
       "text": "Es tanzt nicht.",
       "key": "es tanzt nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a005_es.mp3",
-        "audio/a075_tanzt.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq062_whole_fe6b7e40dc61.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11155,11 +11073,9 @@
     {
       "text": "Wir tanzen nicht.",
       "key": "wir tanzen nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a006_wir.mp3",
-        "audio/a073_tanzen.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq063_whole_92490a43d628.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11175,11 +11091,9 @@
     {
       "text": "Ihr tanzt nicht.",
       "key": "ihr tanzt nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a007_ihr.mp3",
-        "audio/a075_tanzt.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq064_whole_440e806228e0.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11193,11 +11107,9 @@
     {
       "text": "Sie tanzen nicht.",
       "key": "sie tanzen nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a008_sie_Sie.mp3",
-        "audio/a073_tanzen.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq065_whole_b1465a163480.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11211,11 +11123,9 @@
     {
       "text": "Ich arbeite nicht.",
       "key": "ich arbeite nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a001_ich.mp3",
-        "audio/henri-20261017/rq088_arbeite_c1945fdd5bfc.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq066_whole_0ca7191d42a8.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11229,11 +11139,9 @@
     {
       "text": "Du arbeitest nicht.",
       "key": "du arbeitest nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a002_du.mp3",
-        "audio/henri-20261017/rq089_arbeitest_ebb7f42cb5cc.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq067_whole_395a9e252506.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11247,11 +11155,9 @@
     {
       "text": "Er arbeitet nicht.",
       "key": "er arbeitet nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a003_er.mp3",
-        "audio/henri-20261017/rq090_arbeitet_2986b9373033.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq068_whole_b31585cbb7e3.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11267,11 +11173,9 @@
     {
       "text": "Sie arbeitet nicht.",
       "key": "sie arbeitet nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a008_sie_Sie.mp3",
-        "audio/henri-20261017/rq090_arbeitet_2986b9373033.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq069_whole_564ce1e6046b.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11285,11 +11189,9 @@
     {
       "text": "Es arbeitet nicht.",
       "key": "es arbeitet nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a005_es.mp3",
-        "audio/henri-20261017/rq090_arbeitet_2986b9373033.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq070_whole_3f66b83b5106.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11303,11 +11205,9 @@
     {
       "text": "Wir arbeiten nicht.",
       "key": "wir arbeiten nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a006_wir.mp3",
-        "audio/a105_arbeiten.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq071_whole_fa32d613a023.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11321,11 +11221,9 @@
     {
       "text": "Ihr arbeitet nicht.",
       "key": "ihr arbeitet nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a007_ihr.mp3",
-        "audio/henri-20261017/rq090_arbeitet_2986b9373033.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq072_whole_321605e233ff.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11339,11 +11237,9 @@
     {
       "text": "Sie arbeiten nicht.",
       "key": "sie arbeiten nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a008_sie_Sie.mp3",
-        "audio/a105_arbeiten.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq073_whole_9c66b697d18a.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11357,10 +11253,9 @@
     {
       "text": "Singe ich?",
       "key": "singe ich",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a058_singe.mp3",
-        "audio/a001_ich.mp3"
+        "audio/henri-whole-upgrade-20261018/rq074_whole_0b318216ebab.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11370,10 +11265,9 @@
     {
       "text": "Singt er?",
       "key": "singt er",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a060_singt.mp3",
-        "audio/a003_er.mp3"
+        "audio/henri-whole-upgrade-20261018/rq075_whole_f3082a7f074a.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11384,10 +11278,9 @@
     {
       "text": "Singt sie?",
       "key": "singt sie",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a060_singt.mp3",
-        "audio/a008_sie_Sie.mp3"
+        "audio/henri-whole-upgrade-20261018/rq076_whole_6fb2f5139f42.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11399,10 +11292,9 @@
     {
       "text": "Singt es?",
       "key": "singt es",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a060_singt.mp3",
-        "audio/a005_es.mp3"
+        "audio/henri-whole-upgrade-20261018/rq077_whole_8a146daadb6f.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11412,10 +11304,9 @@
     {
       "text": "Singen wir?",
       "key": "singen wir",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a057_singen.mp3",
-        "audio/a006_wir.mp3"
+        "audio/henri-whole-upgrade-20261018/rq078_whole_2e224fc860da.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11425,10 +11316,9 @@
     {
       "text": "Singt ihr?",
       "key": "singt ihr",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a060_singt.mp3",
-        "audio/a007_ihr.mp3"
+        "audio/henri-whole-upgrade-20261018/rq079_whole_f3a8dda8c7c0.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11438,10 +11328,9 @@
     {
       "text": "Singen sie?",
       "key": "singen sie",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a057_singen.mp3",
-        "audio/a008_sie_Sie.mp3"
+        "audio/henri-whole-upgrade-20261018/rq080_whole_22ea4f882656.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11451,10 +11340,9 @@
     {
       "text": "Spiele ich?",
       "key": "spiele ich",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a066_spiele.mp3",
-        "audio/a001_ich.mp3"
+        "audio/henri-whole-upgrade-20261018/rq081_whole_1a360c3ec36b.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11464,10 +11352,9 @@
     {
       "text": "Spielst du?",
       "key": "spielst du",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a067_spielst.mp3",
-        "audio/a002_du.mp3"
+        "audio/henri-whole-upgrade-20261018/rq082_whole_1a6c9c3ed846.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11479,10 +11366,9 @@
     {
       "text": "Spielt sie?",
       "key": "spielt sie",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a068_spielt.mp3",
-        "audio/a008_sie_Sie.mp3"
+        "audio/henri-whole-upgrade-20261018/rq083_whole_4511cceb6e40.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11492,10 +11378,9 @@
     {
       "text": "Spielt es?",
       "key": "spielt es",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a068_spielt.mp3",
-        "audio/a005_es.mp3"
+        "audio/henri-whole-upgrade-20261018/rq084_whole_b4fa3ecd11af.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11505,10 +11390,9 @@
     {
       "text": "Spielen wir?",
       "key": "spielen wir",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a065_spielen.mp3",
-        "audio/a006_wir.mp3"
+        "audio/henri-whole-upgrade-20261018/rq085_whole_f437ee8982d5.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11518,10 +11402,9 @@
     {
       "text": "Spielt ihr?",
       "key": "spielt ihr",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a068_spielt.mp3",
-        "audio/a007_ihr.mp3"
+        "audio/henri-whole-upgrade-20261018/rq086_whole_559b02e8d8b8.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11531,10 +11414,9 @@
     {
       "text": "Spielen sie?",
       "key": "spielen sie",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a065_spielen.mp3",
-        "audio/a008_sie_Sie.mp3"
+        "audio/henri-whole-upgrade-20261018/rq087_whole_96f45616375d.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11544,10 +11426,9 @@
     {
       "text": "Tanze ich?",
       "key": "tanze ich",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a074_tanze.mp3",
-        "audio/a001_ich.mp3"
+        "audio/henri-whole-upgrade-20261018/rq088_whole_9344718d928e.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11557,10 +11438,9 @@
     {
       "text": "Tanzt du?",
       "key": "tanzt du",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a075_tanzt.mp3",
-        "audio/a002_du.mp3"
+        "audio/henri-whole-upgrade-20261018/rq089_whole_ac04bc991725.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11570,10 +11450,9 @@
     {
       "text": "Tanzt er?",
       "key": "tanzt er",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a075_tanzt.mp3",
-        "audio/a003_er.mp3"
+        "audio/henri-whole-upgrade-20261018/rq090_whole_2b5d37b739b0.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11583,10 +11462,9 @@
     {
       "text": "Tanzt sie?",
       "key": "tanzt sie",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a075_tanzt.mp3",
-        "audio/a008_sie_Sie.mp3"
+        "audio/henri-whole-upgrade-20261018/rq091_whole_8cad2f3c8465.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11596,10 +11474,9 @@
     {
       "text": "Tanzt es?",
       "key": "tanzt es",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a075_tanzt.mp3",
-        "audio/a005_es.mp3"
+        "audio/henri-whole-upgrade-20261018/rq092_whole_aa61ec286e98.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11609,10 +11486,9 @@
     {
       "text": "Tanzen wir?",
       "key": "tanzen wir",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a073_tanzen.mp3",
-        "audio/a006_wir.mp3"
+        "audio/henri-whole-upgrade-20261018/rq093_whole_4d9201363444.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11622,10 +11498,9 @@
     {
       "text": "Tanzen sie?",
       "key": "tanzen sie",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a073_tanzen.mp3",
-        "audio/a008_sie_Sie.mp3"
+        "audio/henri-whole-upgrade-20261018/rq094_whole_3eedcb01d7bf.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11635,10 +11510,9 @@
     {
       "text": "Arbeite ich?",
       "key": "arbeite ich",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/henri-20261017/rq088_arbeite_c1945fdd5bfc.mp3",
-        "audio/a001_ich.mp3"
+        "audio/henri-whole-upgrade-20261018/rq095_whole_83f15ae0d62a.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11648,10 +11522,9 @@
     {
       "text": "Arbeitest du?",
       "key": "arbeitest du",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/henri-20261017/rq089_arbeitest_ebb7f42cb5cc.mp3",
-        "audio/a002_du.mp3"
+        "audio/henri-whole-upgrade-20261018/rq096_whole_d521fed46b17.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11661,10 +11534,9 @@
     {
       "text": "Arbeitet er?",
       "key": "arbeitet er",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/henri-20261017/rq090_arbeitet_2986b9373033.mp3",
-        "audio/a003_er.mp3"
+        "audio/henri-whole-upgrade-20261018/rq097_whole_200c0dfa6b9b.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11674,10 +11546,9 @@
     {
       "text": "Arbeitet sie?",
       "key": "arbeitet sie",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/henri-20261017/rq090_arbeitet_2986b9373033.mp3",
-        "audio/a008_sie_Sie.mp3"
+        "audio/henri-whole-upgrade-20261018/rq098_whole_67b526023ca0.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11687,10 +11558,9 @@
     {
       "text": "Arbeitet es?",
       "key": "arbeitet es",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/henri-20261017/rq090_arbeitet_2986b9373033.mp3",
-        "audio/a005_es.mp3"
+        "audio/henri-whole-upgrade-20261018/rq099_whole_8971afe0f43e.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11700,10 +11570,9 @@
     {
       "text": "Arbeiten wir?",
       "key": "arbeiten wir",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a105_arbeiten.mp3",
-        "audio/a006_wir.mp3"
+        "audio/henri-whole-upgrade-20261018/rq100_whole_9c0ea2221ea2.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11713,10 +11582,9 @@
     {
       "text": "Arbeitet ihr?",
       "key": "arbeitet ihr",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/henri-20261017/rq090_arbeitet_2986b9373033.mp3",
-        "audio/a007_ihr.mp3"
+        "audio/henri-whole-upgrade-20261018/rq101_whole_92786f626225.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11726,10 +11594,9 @@
     {
       "text": "Arbeiten sie?",
       "key": "arbeiten sie",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a105_arbeiten.mp3",
-        "audio/a008_sie_Sie.mp3"
+        "audio/henri-whole-upgrade-20261018/rq102_whole_bb9acbe2c444.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11739,11 +11606,9 @@
     {
       "text": "Wir wohnen hier.",
       "key": "wir wohnen hier",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a006_wir.mp3",
-        "audio/a049_wohnen.mp3",
-        "audio/a256_hier.mp3"
+        "audio/henri-whole-upgrade-20261018/rq103_whole_90b86bae9496.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11754,11 +11619,9 @@
     {
       "text": "Du bist dort.",
       "key": "du bist dort",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a002_du.mp3",
-        "audio/a082_bist.mp3",
-        "audio/a257_dort.mp3"
+        "audio/henri-whole-upgrade-20261018/rq104_whole_80a7d75860b4.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11782,11 +11645,9 @@
     {
       "text": "Es ist hier.",
       "key": "es ist hier",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a005_es.mp3",
-        "audio/a083_ist.mp3",
-        "audio/a256_hier.mp3"
+        "audio/henri-whole-upgrade-20261018/rq105_whole_44606f8a24b1.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11810,11 +11671,9 @@
     {
       "text": "Ihr seid hier.",
       "key": "ihr seid hier",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a007_ihr.mp3",
-        "audio/a085_seid.mp3",
-        "audio/a256_hier.mp3"
+        "audio/henri-whole-upgrade-20261018/rq106_whole_c5ac5fdc8eeb.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11825,11 +11684,9 @@
     {
       "text": "Sie sind dort.",
       "key": "sie sind dort",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a008_sie_Sie.mp3",
-        "audio/a084_sind.mp3",
-        "audio/a257_dort.mp3"
+        "audio/henri-whole-upgrade-20261018/rq107_whole_40b5f76c4175.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -11932,11 +11789,9 @@
     {
       "text": "Sie haben Zeit.",
       "key": "sie haben zeit",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a008_sie_Sie.mp3",
-        "audio/a090_haben.mp3",
-        "audio/a302_Zeit.mp3"
+        "audio/henri-whole-upgrade-20261018/rq108_whole_498e6ae31a0e.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -12011,11 +11866,9 @@
     {
       "text": "Morgen spielst du.",
       "key": "morgen spielst du",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a228_morgen.mp3",
-        "audio/a067_spielst.mp3",
-        "audio/a002_du.mp3"
+        "audio/henri-whole-upgrade-20261018/rq109_whole_2cefb4cd2058.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -12026,11 +11879,9 @@
     {
       "text": "Jetzt lernen wir.",
       "key": "jetzt lernen wir",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a258_jetzt.mp3",
-        "audio/a104_lernen.mp3",
-        "audio/a006_wir.mp3"
+        "audio/henri-whole-upgrade-20261018/rq110_whole_649263957e67.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -12041,11 +11892,9 @@
     {
       "text": "Hier wohnt er.",
       "key": "hier wohnt er",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a256_hier.mp3",
-        "audio/a052_wohnt.mp3",
-        "audio/a003_er.mp3"
+        "audio/henri-whole-upgrade-20261018/rq111_whole_2fea6eb9db0b.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -12056,11 +11905,9 @@
     {
       "text": "Dort spielt sie.",
       "key": "dort spielt sie",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a257_dort.mp3",
-        "audio/a068_spielt.mp3",
-        "audio/a008_sie_Sie.mp3"
+        "audio/henri-whole-upgrade-20261018/rq112_whole_72f40d50af81.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -12071,12 +11918,9 @@
     {
       "text": "Heute habe ich Zeit.",
       "key": "heute habe ich zeit",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a227_heute.mp3",
-        "audio/a091_habe.mp3",
-        "audio/a001_ich.mp3",
-        "audio/a302_Zeit.mp3"
+        "audio/henri-whole-upgrade-20261018/rq113_whole_a1fa1affaf4a.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -12087,12 +11931,9 @@
     {
       "text": "Morgen sind wir hier.",
       "key": "morgen sind wir hier",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a228_morgen.mp3",
-        "audio/a084_sind.mp3",
-        "audio/a006_wir.mp3",
-        "audio/a256_hier.mp3"
+        "audio/henri-whole-upgrade-20261018/rq114_whole_9e7b814af5b5.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -12136,11 +11977,9 @@
     {
       "text": "Du lernst nicht.",
       "key": "du lernst nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a002_du.mp3",
-        "audio/henri-20261017/rq069_lernst_db3626364ead.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq115_whole_e82ff0b5191d.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -12151,12 +11990,9 @@
     {
       "text": "Ihr seid nicht hier.",
       "key": "ihr seid nicht hier",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a007_ihr.mp3",
-        "audio/a085_seid.mp3",
-        "audio/a253_nicht.mp3",
-        "audio/a256_hier.mp3"
+        "audio/henri-whole-upgrade-20261018/rq116_whole_3103d0b03dd5.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -12180,12 +12016,9 @@
     {
       "text": "Heute arbeitet er nicht.",
       "key": "heute arbeitet er nicht",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a227_heute.mp3",
-        "audio/henri-20261017/rq090_arbeitet_2986b9373033.mp3",
-        "audio/a003_er.mp3",
-        "audio/a253_nicht.mp3"
+        "audio/henri-whole-upgrade-20261018/rq117_whole_f95ff3ccbe4f.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -12196,10 +12029,9 @@
     {
       "text": "Lernst du?",
       "key": "lernst du",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/henri-20261017/rq069_lernst_db3626364ead.mp3",
-        "audio/a002_du.mp3"
+        "audio/henri-whole-upgrade-20261018/rq118_whole_3e11e5ab0047.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -12210,11 +12042,9 @@
     {
       "text": "Arbeiten wir heute?",
       "key": "arbeiten wir heute",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a105_arbeiten.mp3",
-        "audio/a006_wir.mp3",
-        "audio/a227_heute.mp3"
+        "audio/henri-whole-upgrade-20261018/rq119_whole_3c72564c9a75.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -12251,11 +12081,9 @@
     {
       "text": "Wer lernt hier?",
       "key": "wer lernt hier",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a242_wer.mp3",
-        "audio/henri-20261017/rq070_lernt_3db9855a04b8.mp3",
-        "audio/a256_hier.mp3"
+        "audio/henri-whole-upgrade-20261018/rq120_whole_6c9d8b725bd9.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -12266,11 +12094,9 @@
     {
       "text": "Wo seid ihr?",
       "key": "wo seid ihr",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a244_wo.mp3",
-        "audio/a085_seid.mp3",
-        "audio/a007_ihr.mp3"
+        "audio/henri-whole-upgrade-20261018/rq121_whole_2f157628a9ac.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -12281,12 +12107,9 @@
     {
       "text": "Wann haben Sie Zeit?",
       "key": "wann haben sie zeit",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a247_wann.mp3",
-        "audio/a090_haben.mp3",
-        "audio/a008_sie_Sie.mp3",
-        "audio/a302_Zeit.mp3"
+        "audio/henri-whole-upgrade-20261018/rq122_whole_7f6e5c979fd6.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -12411,12 +12234,9 @@
     {
       "text": "Wie alt bist du?",
       "key": "wie alt bist du",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a249_wie.mp3",
-        "audio/a191_alt.mp3",
-        "audio/a082_bist.mp3",
-        "audio/a002_du.mp3"
+        "audio/henri-whole-upgrade-20261018/rq123_whole_aafb49f25b83.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -13197,11 +13017,9 @@
     {
       "text": "Er kennt sie.",
       "key": "er kennt sie",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a003_er.mp3",
-        "audio/henri-20261017/rq111_kennt_c21b28f2bf4a.mp3",
-        "audio/a008_sie_Sie.mp3"
+        "audio/henri-whole-upgrade-20261018/rq124_whole_4c0ff855b64d.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -13238,11 +13056,9 @@
     {
       "text": "Wir kennen sie.",
       "key": "wir kennen sie",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a006_wir.mp3",
-        "audio/a112_kennen.mp3",
-        "audio/a008_sie_Sie.mp3"
+        "audio/henri-whole-upgrade-20261018/rq125_whole_38be699e5005.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -13253,11 +13069,9 @@
     {
       "text": "Ich kenne Sie.",
       "key": "ich kenne sie",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a001_ich.mp3",
-        "audio/henri-20261017/rq109_kenne_b1485bf096d3.mp3",
-        "audio/a008_sie_Sie.mp3"
+        "audio/henri-whole-upgrade-20261018/rq126_whole_9b3bd2bbe0b7.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -13596,11 +13410,9 @@
     {
       "text": "Was nehmen Sie?",
       "key": "was nehmen sie",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a243_was.mp3",
-        "audio/a118_nehmen.mp3",
-        "audio/a008_sie_Sie.mp3"
+        "audio/henri-whole-upgrade-20261018/rq127_whole_8e0416f725c6.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -13696,10 +13508,9 @@
     {
       "text": "Danke schön!",
       "key": "danke schön",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a165_Danke.mp3",
-        "audio/a190_schoen.mp3"
+        "audio/henri-whole-upgrade-20261018/rq128_whole_69a9498d8ca3.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -13788,12 +13599,9 @@
     {
       "text": "Ihr könnt heute kommen.",
       "key": "ihr könnt heute kommen",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a007_ihr.mp3",
-        "audio/henri-20261017/rq117_koennt_f95cee278952.mp3",
-        "audio/a227_heute.mp3",
-        "audio/a100_kommen.mp3"
+        "audio/henri-whole-upgrade-20261018/rq129_whole_2c1ccbcef066.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -13804,12 +13612,9 @@
     {
       "text": "Sie können gut lesen.",
       "key": "sie können gut lesen",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a008_sie_Sie.mp3",
-        "audio/a114_koennen.mp3",
-        "audio/a188_gut.mp3",
-        "audio/a109_lesen.mp3"
+        "audio/henri-whole-upgrade-20261018/rq130_whole_f011d9591b1b.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -13820,11 +13625,9 @@
     {
       "text": "Kannst du helfen?",
       "key": "kannst du helfen",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/henri-20261017/rq116_kannst_cd497abb16d9.mp3",
-        "audio/a002_du.mp3",
-        "audio/henri-20261017/rq011_helfen_1dfed2cacfab.mp3"
+        "audio/henri-whole-upgrade-20261018/rq131_whole_f22a802fd4f2.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -13835,12 +13638,9 @@
     {
       "text": "Ich kann nicht kommen.",
       "key": "ich kann nicht kommen",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a001_ich.mp3",
-        "audio/henri-20261017/rq115_kann_80e421c39177.mp3",
-        "audio/a253_nicht.mp3",
-        "audio/a100_kommen.mp3"
+        "audio/henri-whole-upgrade-20261018/rq132_whole_ee5832bbcbfc.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -13864,11 +13664,9 @@
     {
       "text": "Ich muss lernen.",
       "key": "ich muss lernen",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a001_ich.mp3",
-        "audio/henri-20261017/rq118_muss_56ce6cca128d.mp3",
-        "audio/a104_lernen.mp3"
+        "audio/henri-whole-upgrade-20261018/rq133_whole_e94459160fb2.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -13879,11 +13677,9 @@
     {
       "text": "Du musst arbeiten.",
       "key": "du musst arbeiten",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a002_du.mp3",
-        "audio/henri-20261017/rq119_musst_b2d83bb2fd5d.mp3",
-        "audio/a105_arbeiten.mp3"
+        "audio/henri-whole-upgrade-20261018/rq134_whole_f4a13f1f7175.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -13907,11 +13703,9 @@
     {
       "text": "Wir müssen kommen.",
       "key": "wir müssen kommen",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a006_wir.mp3",
-        "audio/a115_muessen.mp3",
-        "audio/a100_kommen.mp3"
+        "audio/henri-whole-upgrade-20261018/rq135_whole_21db9b6f0111.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -13922,11 +13716,9 @@
     {
       "text": "Ihr müsst schlafen.",
       "key": "ihr müsst schlafen",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a007_ihr.mp3",
-        "audio/henri-20261017/rq120_muesst_429e55ba5da2.mp3",
-        "audio/a108_schlafen.mp3"
+        "audio/henri-whole-upgrade-20261018/rq136_whole_c9453ec8b8d8.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -14016,11 +13808,9 @@
     {
       "text": "Du willst spielen.",
       "key": "du willst spielen",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a002_du.mp3",
-        "audio/henri-20261017/rq113_willst_e438f20aef5e.mp3",
-        "audio/a065_spielen.mp3"
+        "audio/henri-whole-upgrade-20261018/rq137_whole_8626d0c9aeba.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -14223,13 +14013,9 @@
     {
       "text": "Wir müssen heute nicht arbeiten.",
       "key": "wir müssen heute nicht arbeiten",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a006_wir.mp3",
-        "audio/a115_muessen.mp3",
-        "audio/a227_heute.mp3",
-        "audio/a253_nicht.mp3",
-        "audio/a105_arbeiten.mp3"
+        "audio/henri-whole-upgrade-20261018/rq138_whole_d727291e1a1c.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -14280,10 +14066,9 @@
     {
       "text": "Kommt bitte!",
       "key": "kommt bitte",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/henri-20261017/rq079_kommt_b1251d8a3a54.mp3",
-        "audio/a166_Bitte.mp3"
+        "audio/henri-whole-upgrade-20261018/rq139_whole_940fee9cd6f9.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -14294,11 +14079,9 @@
     {
       "text": "Kommen Sie bitte!",
       "key": "kommen sie bitte",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a100_kommen.mp3",
-        "audio/a008_sie_Sie.mp3",
-        "audio/a166_Bitte.mp3"
+        "audio/henri-whole-upgrade-20261018/rq140_whole_af021546d0a2.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -16193,11 +15976,9 @@
     {
       "text": "Kommst du mit?",
       "key": "kommst du mit",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/henri-20261017/rq078_kommst_b493c3f77756.mp3",
-        "audio/a002_du.mp3",
-        "audio/henri-20261017/rq043_mit_9dcee690f8a9.mp3"
+        "audio/henri-whole-upgrade-20261018/rq141_whole_9d86ff92705d.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -17907,13 +17688,9 @@
     {
       "text": "Ich lerne und du spielst.",
       "key": "ich lerne und du spielst",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a001_ich.mp3",
-        "audio/henri-20261017/rq068_lerne_a4862c25433a.mp3",
-        "audio/a261_und.mp3",
-        "audio/a002_du.mp3",
-        "audio/a067_spielst.mp3"
+        "audio/henri-whole-upgrade-20261018/rq142_whole_7375155b4679.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -17963,12 +17740,9 @@
     {
       "text": "Sie liest und schreibt.",
       "key": "sie liest und schreibt",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a008_sie_Sie.mp3",
-        "audio/henri-20261017/rq102_liest_22aeeaf10f1e.mp3",
-        "audio/a261_und.mp3",
-        "audio/henri-20261017/rq106_schreibt_cc20d4302c38.mp3"
+        "audio/henri-whole-upgrade-20261018/rq143_whole_f9d4bd174f33.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -18693,10 +18467,9 @@
     {
       "text": "Zeit haben",
       "key": "zeit haben",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a302_Zeit.mp3",
-        "audio/a090_haben.mp3"
+        "audio/henri-whole-upgrade-20261018/rq144_whole_d0b87d3e5055.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -18797,11 +18570,9 @@
     {
       "text": "Ich bin glücklich.",
       "key": "ich bin glücklich",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a001_ich.mp3",
-        "audio/a081_bin.mp3",
-        "audio/henri-20261017/rq025_gluecklich_348f41d9b2f1.mp3"
+        "audio/henri-whole-upgrade-20261018/rq145_whole_4f3f932f7876.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -20866,12 +20637,9 @@
     {
       "text": "Hast du morgen Zeit?",
       "key": "hast du morgen zeit",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a092_hast.mp3",
-        "audio/a002_du.mp3",
-        "audio/a228_morgen.mp3",
-        "audio/a302_Zeit.mp3"
+        "audio/henri-whole-upgrade-20261018/rq146_whole_ace8429b8e59.mp3"
       ],
       "origins": [
         "phrase-catalog",
@@ -21374,10 +21142,9 @@
     {
       "text": "Wer kommt?",
       "key": "wer kommt",
-      "route": "composed",
+      "route": "whole",
       "files": [
-        "audio/a242_wer.mp3",
-        "audio/henri-20261017/rq079_kommt_b1251d8a3a54.mp3"
+        "audio/henri-whole-upgrade-20261018/rq147_whole_eeabeccf5d74.mp3"
       ],
       "origins": [
         "legacy-info:10"
@@ -21386,8 +21153,10 @@
     {
       "text": "heißt",
       "key": "heißt",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq001_whole_340e452e867d.mp3"
+      ],
       "origins": [
         "legacy-choice:10",
         "legacy-token:10"
@@ -21396,8 +21165,10 @@
     {
       "text": "Das",
       "key": "das",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq002_whole_2da719d119b3.mp3"
+      ],
       "origins": [
         "legacy-choice:13",
         "legacy-token:13",
@@ -21412,8 +21183,10 @@
     {
       "text": "der",
       "key": "der",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq003_whole_ab6a22655dcd.mp3"
+      ],
       "origins": [
         "legacy-choice:13",
         "legacy-token:13"
@@ -21422,8 +21195,10 @@
     {
       "text": "die",
       "key": "die",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq004_whole_458d817423ac.mp3"
+      ],
       "origins": [
         "legacy-choice:13",
         "legacy-token:13"
@@ -21432,8 +21207,10 @@
     {
       "text": "Tisch",
       "key": "tisch",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq005_whole_55ff7aa6daf1.mp3"
+      ],
       "origins": [
         "legacy-choice:13",
         "legacy-token:13",
@@ -21446,8 +21223,10 @@
     {
       "text": "Lampe",
       "key": "lampe",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq006_whole_626a6ee50ba6.mp3"
+      ],
       "origins": [
         "legacy-choice:13",
         "legacy-token:13",
@@ -21462,8 +21241,10 @@
     {
       "text": "Buch",
       "key": "buch",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq007_whole_b298af480dc9.mp3"
+      ],
       "origins": [
         "legacy-choice:13",
         "legacy-token:13",
@@ -21478,8 +21259,10 @@
     {
       "text": "Stuhl",
       "key": "stuhl",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq008_whole_f7a35ced0009.mp3"
+      ],
       "origins": [
         "legacy-choice:13",
         "legacy-token:13",
@@ -21492,8 +21275,10 @@
     {
       "text": "Tür",
       "key": "tür",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq009_whole_92853efd3589.mp3"
+      ],
       "origins": [
         "legacy-choice:13",
         "legacy-token:13",
@@ -21506,8 +21291,10 @@
     {
       "text": "Fenster",
       "key": "fenster",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq010_whole_18a65da2a10f.mp3"
+      ],
       "origins": [
         "legacy-choice:13",
         "legacy-token:13",
@@ -21520,8 +21307,10 @@
     {
       "text": "Hund",
       "key": "hund",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq011_whole_66a7bb8c75ef.mp3"
+      ],
       "origins": [
         "legacy-choice:13",
         "legacy-token:13",
@@ -21536,8 +21325,10 @@
     {
       "text": "Katze",
       "key": "katze",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq012_whole_2122f770ec99.mp3"
+      ],
       "origins": [
         "legacy-choice:13",
         "legacy-token:13",
@@ -21552,8 +21343,10 @@
     {
       "text": "ein Buch",
       "key": "ein buch",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq013_whole_18f3f26401b0.mp3"
+      ],
       "origins": [
         "legacy-info:14"
       ]
@@ -21561,8 +21354,10 @@
     {
       "text": "eine Lampe",
       "key": "eine lampe",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq014_whole_4f0b6e328b10.mp3"
+      ],
       "origins": [
         "legacy-info:14"
       ]
@@ -21570,8 +21365,10 @@
     {
       "text": "keinen Hund",
       "key": "keinen hund",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq015_whole_7d2571db47f7.mp3"
+      ],
       "origins": [
         "legacy-info:15"
       ]
@@ -21579,8 +21376,10 @@
     {
       "text": "keinen",
       "key": "keinen",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq016_whole_761d480f5307.mp3"
+      ],
       "origins": [
         "legacy-choice:15",
         "legacy-token:15"
@@ -21589,8 +21388,10 @@
     {
       "text": "meine",
       "key": "meine",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq017_whole_b0e6038260fc.mp3"
+      ],
       "origins": [
         "legacy-info:16",
         "legacy-choice:16",
@@ -21600,8 +21401,10 @@
     {
       "text": "deine",
       "key": "deine",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq018_whole_5da9440002d2.mp3"
+      ],
       "origins": [
         "legacy-info:16",
         "legacy-choice:16",
@@ -21611,8 +21414,10 @@
     {
       "text": "Tasche",
       "key": "tasche",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq019_whole_ab30621aeac9.mp3"
+      ],
       "origins": [
         "legacy-choice:16",
         "legacy-token:16"
@@ -21621,8 +21426,10 @@
     {
       "text": "Wasser",
       "key": "wasser",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq020_whole_c20b8caf6798.mp3"
+      ],
       "origins": [
         "legacy-info:18",
         "legacy-choice:18",
@@ -21632,8 +21439,10 @@
     {
       "text": "Brot",
       "key": "brot",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq021_whole_e841f1a2ef35.mp3"
+      ],
       "origins": [
         "legacy-info:18",
         "legacy-choice:18",
@@ -21643,8 +21452,10 @@
     {
       "text": "möchte",
       "key": "möchte",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq022_whole_dc188d7af7b1.mp3"
+      ],
       "origins": [
         "legacy-choice:18",
         "legacy-token:18"
@@ -21653,8 +21464,10 @@
     {
       "text": "möchtest",
       "key": "möchtest",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq023_whole_d59e37eb6b51.mp3"
+      ],
       "origins": [
         "legacy-choice:18",
         "legacy-token:18"
@@ -21663,8 +21476,10 @@
     {
       "text": "möchtet",
       "key": "möchtet",
-      "route": "synthesized",
-      "files": [],
+      "route": "whole",
+      "files": [
+        "audio/henri-whole-upgrade-20261018/rq024_whole_985077f9c172.mp3"
+      ],
       "origins": [
         "legacy-choice:18",
         "legacy-token:18"
@@ -21672,12 +21487,12 @@
     }
   ],
   "fileChecks": {
-    "count": 1449,
+    "count": 1596,
     "failed": []
   },
   "counts": {
-    "whole": 1449,
-    "composed": 123,
-    "synthesized": 24
+    "whole": 1596,
+    "composed": 0,
+    "synthesized": 0
   }
 }

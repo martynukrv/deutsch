@@ -3,13 +3,14 @@ const {pathToFileURL}=require('url');
 const fs=require('fs'),path=require('path');
 (async()=>{
  const manifests=fs.readdirSync('audio-inbox').filter(f=>f.endsWith('.json')).map(f=>JSON.parse(fs.readFileSync(path.join('audio-inbox',f),'utf8')));
- const entries=manifests.flatMap(m=>m.entries.map(e=>({...e,batch:m.batch})));const legacy=entries.filter(e=>!e.batch.startsWith('henri-course-'));if(legacy.length!==453)throw Error('Expected 409 original and 44 lesson recordings');
+ const entries=manifests.flatMap(m=>m.entries.map(e=>({...e,batch:m.batch})));const legacy=entries.filter(e=>['henri-20261017','henri-lessons-20261017'].includes(e.batch));if(legacy.length!==453)throw Error('Expected 409 original and 44 lesson recordings');
  const browser=await chromium.launch({headless:true,args:['--no-sandbox']});
  try{
   const page=await browser.newPage();
   await page.goto(process.env.ART_SITE_URL||pathToFileURL(path.resolve('index.html')).href,{waitUntil:'load'});
   const result=await page.evaluate(async entries=>{
    if(Object.keys(window.DEUTSCH_RECORDED_AUDIO||{}).length!==entries.length)throw Error('Wrong recorded clip count');
+   for(const e of entries.filter(e=>e.batch.startsWith('henri-whole-upgrade-')))if(recordedAudioFiles(e.text)?.length!==1)throw Error('Whole utterance upgrade missing: '+e.text);
    for(const c of vocabCategories)for(const w of c.words)if(!recordedAudioFiles(w[0]))throw Error('Dictionary still uses browser voice: '+w[0]);
    for(const v of verbConjugations)for(const form of v.forms)if(recordedAudioFiles(form)?.length!==1)throw Error('Verb form has no recorded clip: '+form);
    for(const phrase of window.DEUTSCH_LEARNING_PHRASES){const recorded=recordedAudioFiles(phrase.de),pending=window.DEUTSCH_COURSE_AUDIO?.missing.some(x=>audioKey(x.text)===audioKey(phrase.de));if(!recorded&&(!phrase.courseV2||!pending))throw Error('Untracked missing lesson recording: '+phrase.de)}

@@ -1,0 +1,57 @@
+{
+  "3": {
+    "text": "der",
+    "asr": "der",
+    "status": "exact-medium"
+  },
+  "4": {
+    "text": "die",
+    "asr": "D",
+    "status": "exact-full"
+  },
+  "7": {
+    "text": "Buch",
+    "asr": "Buch",
+    "status": "exact-medium"
+  },
+  "16": {
+    "text": "keinen",
+    "asr": "Keinen.",
+    "status": "exact-medium"
+  },
+  "17": {
+    "text": "meine",
+    "asr": "meine",
+    "status": "exact-medium"
+  },
+  "19": {
+    "text": "Tasche",
+    "asr": "Tasche",
+    "status": "exact-medium"
+  },
+  "49": {
+    "text": "Es singt nicht.",
+    "asr": "Es sinkt nicht.",
+    "status": "exact-full"
+  },
+  "89": {
+    "text": "Tanzt du?",
+    "asr": "Tanzt du?",
+    "status": "exact-medium"
+  },
+  "91": {
+    "text": "Tanzt sie?",
+    "asr": "Tanzt sie?",
+    "status": "exact-medium"
+  },
+  "92": {
+    "text": "Tanzt es?",
+    "asr": "Tanzt es?",
+    "status": "exact-medium"
+  },
+  "99": {
+    "text": "Arbeitet es?",
+    "asr": "Arbeitet es?",
+    "status": "exact-medium"
+  }
+}

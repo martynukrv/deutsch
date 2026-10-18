@@ -58,7 +58,9 @@ jobs:
       - name: Verify selectable vocabulary practice
         run: node .github/tests/vocab-modes.cjs
       - name: Verify recorded audio playback
-        run: node .github/tests/voice-recordings.cjs
+        run: |
+          node .github/tests/voice-recordings.cjs
+          node scripts/audit_all_audio.cjs --decode --require-whole
       - name: Commit validated artwork and bindings
         run: |
           git config user.name "github-actions[bot]"

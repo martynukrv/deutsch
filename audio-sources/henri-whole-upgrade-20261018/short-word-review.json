@@ -1,0 +1,32 @@
+{
+  "3": {
+    "text": "der",
+    "asr": "der",
+    "status": "exact-medium"
+  },
+  "4": {
+    "text": "die",
+    "asr": "D",
+    "status": "exact-full"
+  },
+  "7": {
+    "text": "Buch",
+    "asr": "Buch",
+    "status": "exact-medium"
+  },
+  "16": {
+    "text": "keinen",
+    "asr": "Keinen.",
+    "status": "exact-medium"
+  },
+  "17": {
+    "text": "meine",
+    "asr": "meine",
+    "status": "exact-medium"
+  },
+  "19": {
+    "text": "Tasche",
+    "asr": "Tasche",
+    "status": "exact-medium"
+  }
+}
