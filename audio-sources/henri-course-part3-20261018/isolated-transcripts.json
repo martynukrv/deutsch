@@ -1,0 +1,3273 @@
+[
+  {
+    "n": 1,
+    "expected": "Ich möchte jeden Tag üben.",
+    "recognized": "Ich möchte jeden Tag üben.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " möchte",
+        "start": 0.18,
+        "end": 0.44
+      },
+      {
+        "word": " jeden",
+        "start": 0.44,
+        "end": 0.84
+      },
+      {
+        "word": " Tag",
+        "start": 0.84,
+        "end": 1.26
+      },
+      {
+        "word": " üben.",
+        "start": 1.26,
+        "end": 1.74
+      }
+    ]
+  },
+  {
+    "n": 2,
+    "expected": "Ich heiße Mia.",
+    "recognized": "Ich heiße Mia.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " heiße",
+        "start": 0.2,
+        "end": 0.5
+      },
+      {
+        "word": " Mia.",
+        "start": 0.5,
+        "end": 0.74
+      }
+    ]
+  },
+  {
+    "n": 3,
+    "expected": "Ich lerne jeden Tag Deutsch.",
+    "recognized": "Ich lerne jeden Tag Deutsch.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " lerne",
+        "start": 0.18,
+        "end": 0.56
+      },
+      {
+        "word": " jeden",
+        "start": 0.56,
+        "end": 0.84
+      },
+      {
+        "word": " Tag",
+        "start": 0.84,
+        "end": 1.24
+      },
+      {
+        "word": " Deutsch.",
+        "start": 1.24,
+        "end": 1.56
+      }
+    ]
+  },
+  {
+    "n": 4,
+    "expected": "Gestern habe ich meine Freundin besucht.",
+    "recognized": "Gestern habe ich meine Freundin besucht.",
+    "words": [
+      {
+        "word": " Gestern",
+        "start": 0.0,
+        "end": 0.54
+      },
+      {
+        "word": " habe",
+        "start": 0.54,
+        "end": 0.78
+      },
+      {
+        "word": " ich",
+        "start": 0.78,
+        "end": 0.96
+      },
+      {
+        "word": " meine",
+        "start": 0.96,
+        "end": 1.16
+      },
+      {
+        "word": " Freundin",
+        "start": 1.16,
+        "end": 1.7
+      },
+      {
+        "word": " besucht.",
+        "start": 1.7,
+        "end": 2.16
+      }
+    ]
+  },
+  {
+    "n": 5,
+    "expected": "Wir haben zusammen gekocht.",
+    "recognized": "Wir haben zusammen gekocht.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " haben",
+        "start": 0.16,
+        "end": 0.36
+      },
+      {
+        "word": " zusammen",
+        "start": 0.36,
+        "end": 0.76
+      },
+      {
+        "word": " gekocht.",
+        "start": 0.76,
+        "end": 1.42
+      }
+    ]
+  },
+  {
+    "n": 6,
+    "expected": "Danach sind wir in den Park gegangen.",
+    "recognized": "Danach sind wir in den Park gegangen.",
+    "words": [
+      {
+        "word": " Danach",
+        "start": 0.0,
+        "end": 0.52
+      },
+      {
+        "word": " sind",
+        "start": 0.52,
+        "end": 0.7
+      },
+      {
+        "word": " wir",
+        "start": 0.7,
+        "end": 0.88
+      },
+      {
+        "word": " in",
+        "start": 0.88,
+        "end": 0.98
+      },
+      {
+        "word": " den",
+        "start": 0.98,
+        "end": 1.08
+      },
+      {
+        "word": " Park",
+        "start": 1.08,
+        "end": 1.4
+      },
+      {
+        "word": " gegangen.",
+        "start": 1.4,
+        "end": 1.74
+      }
+    ]
+  },
+  {
+    "n": 7,
+    "expected": "Ich lerne Deutsch, weil ich hier arbeiten möchte.",
+    "recognized": "Ich lerne Deutsch, weil ich hier arbeiten möchte.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " lerne",
+        "start": 0.18,
+        "end": 0.5
+      },
+      {
+        "word": " Deutsch,",
+        "start": 0.5,
+        "end": 0.84
+      },
+      {
+        "word": " weil",
+        "start": 1.1,
+        "end": 1.22
+      },
+      {
+        "word": " ich",
+        "start": 1.22,
+        "end": 1.4
+      },
+      {
+        "word": " hier",
+        "start": 1.4,
+        "end": 1.56
+      },
+      {
+        "word": " arbeiten",
+        "start": 1.56,
+        "end": 1.88
+      },
+      {
+        "word": " möchte.",
+        "start": 1.88,
+        "end": 2.28
+      }
+    ]
+  },
+  {
+    "n": 8,
+    "expected": "Morgen werde ich wieder üben.",
+    "recognized": "Morgen werde ich wieder üben.",
+    "words": [
+      {
+        "word": " Morgen",
+        "start": 0.0,
+        "end": 0.44
+      },
+      {
+        "word": " werde",
+        "start": 0.44,
+        "end": 0.76
+      },
+      {
+        "word": " ich",
+        "start": 0.76,
+        "end": 1.0
+      },
+      {
+        "word": " wieder",
+        "start": 1.0,
+        "end": 1.28
+      },
+      {
+        "word": " üben.",
+        "start": 1.28,
+        "end": 1.7
+      }
+    ]
+  },
+  {
+    "n": 9,
+    "expected": "bereit",
+    "recognized": "Bereit!",
+    "words": [
+      {
+        "word": " Bereit!",
+        "start": 0.0,
+        "end": 0.5
+      }
+    ]
+  },
+  {
+    "n": 10,
+    "expected": "die Zeit",
+    "recognized": "Die Zeit",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.92
+      },
+      {
+        "word": " Zeit",
+        "start": 0.92,
+        "end": 1.22
+      }
+    ]
+  },
+  {
+    "n": 11,
+    "expected": "der Hunger",
+    "recognized": "Der Hunger",
+    "words": [
+      {
+        "word": " Der",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " Hunger",
+        "start": 0.22,
+        "end": 0.5
+      }
+    ]
+  },
+  {
+    "n": 12,
+    "expected": "der Durst",
+    "recognized": "der Durst.",
+    "words": [
+      {
+        "word": " der",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Durst.",
+        "start": 0.2,
+        "end": 0.76
+      }
+    ]
+  },
+  {
+    "n": 13,
+    "expected": "Deutsch",
+    "recognized": "Deutsch.",
+    "words": [
+      {
+        "word": " Deutsch.",
+        "start": 0.0,
+        "end": 0.26
+      }
+    ]
+  },
+  {
+    "n": 14,
+    "expected": "heißen",
+    "recognized": "heißen",
+    "words": [
+      {
+        "word": " heißen",
+        "start": 0.0,
+        "end": 0.6
+      }
+    ]
+  },
+  {
+    "n": 15,
+    "expected": "ein",
+    "recognized": "Ein.",
+    "words": [
+      {
+        "word": " Ein.",
+        "start": 0.0,
+        "end": 0.28
+      }
+    ]
+  },
+  {
+    "n": 16,
+    "expected": "eine",
+    "recognized": "EINER",
+    "words": [
+      {
+        "word": " EINER",
+        "start": 0.0,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 17,
+    "expected": "kein",
+    "recognized": "Kein.",
+    "words": [
+      {
+        "word": " Kein.",
+        "start": 0.0,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 18,
+    "expected": "keine",
+    "recognized": "Keine.",
+    "words": [
+      {
+        "word": " Keine.",
+        "start": 0.0,
+        "end": 0.46
+      }
+    ]
+  },
+  {
+    "n": 19,
+    "expected": "die Bücher",
+    "recognized": "Die Bücher.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Bücher.",
+        "start": 0.2,
+        "end": 0.6
+      }
+    ]
+  },
+  {
+    "n": 20,
+    "expected": "die Kinder",
+    "recognized": "Die Kinder.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Kinder.",
+        "start": 0.16,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 21,
+    "expected": "die Tische",
+    "recognized": "die Tische.",
+    "words": [
+      {
+        "word": " die",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Tische.",
+        "start": 0.2,
+        "end": 0.58
+      }
+    ]
+  },
+  {
+    "n": 22,
+    "expected": "die Stühle",
+    "recognized": "Die Stühle",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Stühle",
+        "start": 0.18,
+        "end": 0.66
+      }
+    ]
+  },
+  {
+    "n": 23,
+    "expected": "die Türen",
+    "recognized": "die Türen.",
+    "words": [
+      {
+        "word": " die",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Türen.",
+        "start": 0.18,
+        "end": 0.68
+      }
+    ]
+  },
+  {
+    "n": 24,
+    "expected": "die Katzen",
+    "recognized": "die Katzen",
+    "words": [
+      {
+        "word": " die",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Katzen",
+        "start": 0.2,
+        "end": 0.66
+      }
+    ]
+  },
+  {
+    "n": 25,
+    "expected": "die Hunde",
+    "recognized": "die Hunde",
+    "words": [
+      {
+        "word": " die",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Hunde",
+        "start": 0.2,
+        "end": 0.56
+      }
+    ]
+  },
+  {
+    "n": 26,
+    "expected": "die Schulen",
+    "recognized": "die Schulen",
+    "words": [
+      {
+        "word": " die",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Schulen",
+        "start": 0.18,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 27,
+    "expected": "mein",
+    "recognized": "Mein.",
+    "words": [
+      {
+        "word": " Mein.",
+        "start": 0.0,
+        "end": 0.36
+      }
+    ]
+  },
+  {
+    "n": 28,
+    "expected": "dein",
+    "recognized": "Dein.",
+    "words": [
+      {
+        "word": " Dein.",
+        "start": 0.0,
+        "end": 0.4
+      }
+    ]
+  },
+  {
+    "n": 29,
+    "expected": "unser",
+    "recognized": "Unser.",
+    "words": [
+      {
+        "word": " Unser.",
+        "start": 0.0,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 30,
+    "expected": "euer",
+    "recognized": "Oya",
+    "words": [
+      {
+        "word": " Oya",
+        "start": 0.0,
+        "end": 0.36
+      }
+    ]
+  },
+  {
+    "n": 31,
+    "expected": "suchen",
+    "recognized": "Suchen",
+    "words": [
+      {
+        "word": " Suchen",
+        "start": 0.0,
+        "end": 0.58
+      }
+    ]
+  },
+  {
+    "n": 32,
+    "expected": "mich",
+    "recognized": "mich.",
+    "words": [
+      {
+        "word": " mich.",
+        "start": 0.0,
+        "end": 0.3
+      }
+    ]
+  },
+  {
+    "n": 33,
+    "expected": "dich",
+    "recognized": "dich",
+    "words": [
+      {
+        "word": " dich",
+        "start": 0.0,
+        "end": 0.24
+      }
+    ]
+  },
+  {
+    "n": 34,
+    "expected": "ihn",
+    "recognized": "In",
+    "words": [
+      {
+        "word": " In",
+        "start": 0.0,
+        "end": 0.32
+      }
+    ]
+  },
+  {
+    "n": 35,
+    "expected": "uns",
+    "recognized": "uns.",
+    "words": [
+      {
+        "word": " uns.",
+        "start": 0.0,
+        "end": 0.28
+      }
+    ]
+  },
+  {
+    "n": 36,
+    "expected": "euch",
+    "recognized": "Oisch.",
+    "words": [
+      {
+        "word": " Oisch.",
+        "start": 0.0,
+        "end": 0.46
+      }
+    ]
+  },
+  {
+    "n": 37,
+    "expected": "mögen",
+    "recognized": "mögen.",
+    "words": [
+      {
+        "word": " mögen.",
+        "start": 0.0,
+        "end": 0.5
+      }
+    ]
+  },
+  {
+    "n": 38,
+    "expected": "gern",
+    "recognized": "GAM",
+    "words": [
+      {
+        "word": " GAM",
+        "start": 0.0,
+        "end": 0.36
+      }
+    ]
+  },
+  {
+    "n": 39,
+    "expected": "die Musik",
+    "recognized": "Die Musik.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Musik.",
+        "start": 0.18,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 40,
+    "expected": "der Sport",
+    "recognized": "Er sport.",
+    "words": [
+      {
+        "word": " Er",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " sport.",
+        "start": 0.18,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 41,
+    "expected": "der Zucker",
+    "recognized": "der Zucker.",
+    "words": [
+      {
+        "word": " der",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Zucker.",
+        "start": 0.18,
+        "end": 0.46
+      }
+    ]
+  },
+  {
+    "n": 42,
+    "expected": "die Rechnung",
+    "recognized": "Die Rechnung",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Rechnung",
+        "start": 0.18,
+        "end": 0.72
+      }
+    ]
+  },
+  {
+    "n": 43,
+    "expected": "das Café",
+    "recognized": "Das Café.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " Café.",
+        "start": 0.22,
+        "end": 0.76
+      }
+    ]
+  },
+  {
+    "n": 44,
+    "expected": "schwimmen",
+    "recognized": "schwimmen",
+    "words": [
+      {
+        "word": " schwimmen",
+        "start": 0.0,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 45,
+    "expected": "sollen",
+    "recognized": "sollen.",
+    "words": [
+      {
+        "word": " sollen.",
+        "start": 0.0,
+        "end": 0.4
+      }
+    ]
+  },
+  {
+    "n": 46,
+    "expected": "warten",
+    "recognized": "warten",
+    "words": [
+      {
+        "word": " warten",
+        "start": 0.0,
+        "end": 0.44
+      }
+    ]
+  },
+  {
+    "n": 47,
+    "expected": "möchten",
+    "recognized": "möchten.",
+    "words": [
+      {
+        "word": " möchten.",
+        "start": 0.0,
+        "end": 0.26
+      }
+    ]
+  },
+  {
+    "n": 48,
+    "expected": "reisen",
+    "recognized": "Reisen!",
+    "words": [
+      {
+        "word": " Reisen!",
+        "start": 0.0,
+        "end": 0.54
+      }
+    ]
+  },
+  {
+    "n": 49,
+    "expected": "dürfen",
+    "recognized": "Durfen",
+    "words": [
+      {
+        "word": " Durfen",
+        "start": 0.0,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 50,
+    "expected": "rauchen",
+    "recognized": "Rauchen",
+    "words": [
+      {
+        "word": " Rauchen",
+        "start": 0.0,
+        "end": 0.5
+      }
+    ]
+  },
+  {
+    "n": 51,
+    "expected": "langsam",
+    "recognized": "Langsam.",
+    "words": [
+      {
+        "word": " Langsam.",
+        "start": 0.0,
+        "end": 0.62
+      }
+    ]
+  },
+  {
+    "n": 52,
+    "expected": "leise",
+    "recognized": "Leiser.",
+    "words": [
+      {
+        "word": " Leiser.",
+        "start": 0.0,
+        "end": 0.56
+      }
+    ]
+  },
+  {
+    "n": 53,
+    "expected": "antworten",
+    "recognized": "Antworten.",
+    "words": [
+      {
+        "word": " Antworten.",
+        "start": 0.0,
+        "end": 0.76
+      }
+    ]
+  },
+  {
+    "n": 54,
+    "expected": "mir",
+    "recognized": "Mia",
+    "words": [
+      {
+        "word": " Mia",
+        "start": 0.0,
+        "end": 0.36
+      }
+    ]
+  },
+  {
+    "n": 55,
+    "expected": "dir",
+    "recognized": "dir.",
+    "words": [
+      {
+        "word": " dir.",
+        "start": 0.0,
+        "end": 0.28
+      }
+    ]
+  },
+  {
+    "n": 56,
+    "expected": "ihm",
+    "recognized": "Im",
+    "words": [
+      {
+        "word": " Im",
+        "start": 0.0,
+        "end": 0.36
+      }
+    ]
+  },
+  {
+    "n": 57,
+    "expected": "ihnen",
+    "recognized": "Ihnen",
+    "words": [
+      {
+        "word": " Ihnen",
+        "start": 0.0,
+        "end": 0.34
+      }
+    ]
+  },
+  {
+    "n": 58,
+    "expected": "zeigen",
+    "recognized": "Zeiten.",
+    "words": [
+      {
+        "word": " Zeiten.",
+        "start": 0.0,
+        "end": 0.46
+      }
+    ]
+  },
+  {
+    "n": 59,
+    "expected": "schenken",
+    "recognized": "Schenken.",
+    "words": [
+      {
+        "word": " Schenken.",
+        "start": 0.0,
+        "end": 0.56
+      }
+    ]
+  },
+  {
+    "n": 60,
+    "expected": "das Geschenk",
+    "recognized": "Das Geschenk.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Geschenk.",
+        "start": 0.2,
+        "end": 0.84
+      }
+    ]
+  },
+  {
+    "n": 61,
+    "expected": "der Ball",
+    "recognized": "Der Ball.",
+    "words": [
+      {
+        "word": " Der",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Ball.",
+        "start": 0.2,
+        "end": 0.44
+      }
+    ]
+  },
+  {
+    "n": 62,
+    "expected": "das Bild",
+    "recognized": "Das Bild.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " Bild.",
+        "start": 0.24,
+        "end": 0.54
+      }
+    ]
+  },
+  {
+    "n": 63,
+    "expected": "zu",
+    "recognized": "zu",
+    "words": [
+      {
+        "word": " zu",
+        "start": 0.0,
+        "end": 0.34
+      }
+    ]
+  },
+  {
+    "n": 64,
+    "expected": "von",
+    "recognized": "Fun!",
+    "words": [
+      {
+        "word": " Fun!",
+        "start": 0.0,
+        "end": 0.36
+      }
+    ]
+  },
+  {
+    "n": 65,
+    "expected": "bei",
+    "recognized": "Bye!",
+    "words": [
+      {
+        "word": " Bye!",
+        "start": 0.0,
+        "end": 0.22
+      }
+    ]
+  },
+  {
+    "n": 66,
+    "expected": "nach",
+    "recognized": "Nach",
+    "words": [
+      {
+        "word": " Nach",
+        "start": 0.0,
+        "end": 0.36
+      }
+    ]
+  },
+  {
+    "n": 67,
+    "expected": "der Arzt",
+    "recognized": "Der Arzt.",
+    "words": [
+      {
+        "word": " Der",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Arzt.",
+        "start": 0.2,
+        "end": 0.72
+      }
+    ]
+  },
+  {
+    "n": 68,
+    "expected": "für",
+    "recognized": "Für",
+    "words": [
+      {
+        "word": " Für",
+        "start": 0.0,
+        "end": 0.38
+      }
+    ]
+  },
+  {
+    "n": 69,
+    "expected": "gegen",
+    "recognized": "gegen.",
+    "words": [
+      {
+        "word": " gegen.",
+        "start": 0.0,
+        "end": 0.3
+      }
+    ]
+  },
+  {
+    "n": 70,
+    "expected": "durch",
+    "recognized": "durch.",
+    "words": [
+      {
+        "word": " durch.",
+        "start": 0.0,
+        "end": 0.28
+      }
+    ]
+  },
+  {
+    "n": 71,
+    "expected": "um",
+    "recognized": "Um.",
+    "words": [
+      {
+        "word": " Um.",
+        "start": 0.0,
+        "end": 0.28
+      }
+    ]
+  },
+  {
+    "n": 72,
+    "expected": "die Tasche",
+    "recognized": "die Tasche",
+    "words": [
+      {
+        "word": " die",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " Tasche",
+        "start": 0.22,
+        "end": 0.64
+      }
+    ]
+  },
+  {
+    "n": 73,
+    "expected": "tausend",
+    "recognized": "Tausend.",
+    "words": [
+      {
+        "word": " Tausend.",
+        "start": 0.0,
+        "end": 0.62
+      }
+    ]
+  },
+  {
+    "n": 74,
+    "expected": "kosten",
+    "recognized": "Kosten.",
+    "words": [
+      {
+        "word": " Kosten.",
+        "start": 0.0,
+        "end": 0.46
+      }
+    ]
+  },
+  {
+    "n": 75,
+    "expected": "der Euro",
+    "recognized": "der Euro.",
+    "words": [
+      {
+        "word": " der",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Euro.",
+        "start": 0.2,
+        "end": 0.54
+      }
+    ]
+  },
+  {
+    "n": 76,
+    "expected": "der Cent",
+    "recognized": "der Cent.",
+    "words": [
+      {
+        "word": " der",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Cent.",
+        "start": 0.2,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 77,
+    "expected": "der Mensch",
+    "recognized": "Der Mensch.",
+    "words": [
+      {
+        "word": " Der",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Mensch.",
+        "start": 0.2,
+        "end": 0.46
+      }
+    ]
+  },
+  {
+    "n": 78,
+    "expected": "die Uhr",
+    "recognized": "Die Uhr.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Uhr.",
+        "start": 0.2,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 79,
+    "expected": "halb",
+    "recognized": "Help!",
+    "words": [
+      {
+        "word": " Help!",
+        "start": 0.0,
+        "end": 0.32
+      }
+    ]
+  },
+  {
+    "n": 80,
+    "expected": "der Montag",
+    "recognized": "Der Montag",
+    "words": [
+      {
+        "word": " Der",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Montag",
+        "start": 0.18,
+        "end": 0.74
+      }
+    ]
+  },
+  {
+    "n": 81,
+    "expected": "der Mai",
+    "recognized": "Der Mai.",
+    "words": [
+      {
+        "word": " Der",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Mai.",
+        "start": 0.2,
+        "end": 0.46
+      }
+    ]
+  },
+  {
+    "n": 82,
+    "expected": "der Geburtstag",
+    "recognized": "Der Geburtstag.",
+    "words": [
+      {
+        "word": " Der",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Geburtstag.",
+        "start": 0.16,
+        "end": 0.78
+      }
+    ]
+  },
+  {
+    "n": 83,
+    "expected": "der Termin",
+    "recognized": "Der Termin.",
+    "words": [
+      {
+        "word": " Der",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Termin.",
+        "start": 0.2,
+        "end": 0.68
+      }
+    ]
+  },
+  {
+    "n": 84,
+    "expected": "auf",
+    "recognized": "Auf!",
+    "words": [
+      {
+        "word": " Auf!",
+        "start": 0.0,
+        "end": 0.28
+      }
+    ]
+  },
+  {
+    "n": 85,
+    "expected": "unter",
+    "recognized": "Unter",
+    "words": [
+      {
+        "word": " Unter",
+        "start": 0.0,
+        "end": 0.34
+      }
+    ]
+  },
+  {
+    "n": 86,
+    "expected": "neben",
+    "recognized": "Neben",
+    "words": [
+      {
+        "word": " Neben",
+        "start": 0.0,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 87,
+    "expected": "die Wand",
+    "recognized": "Die Wand.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Wand.",
+        "start": 0.2,
+        "end": 0.42
+      }
+    ]
+  },
+  {
+    "n": 88,
+    "expected": "stehen",
+    "recognized": "stehen.",
+    "words": [
+      {
+        "word": " stehen.",
+        "start": 0.0,
+        "end": 0.34
+      }
+    ]
+  },
+  {
+    "n": 89,
+    "expected": "liegen",
+    "recognized": "liegen",
+    "words": [
+      {
+        "word": " liegen",
+        "start": 0.0,
+        "end": 0.4
+      }
+    ]
+  },
+  {
+    "n": 90,
+    "expected": "laufen",
+    "recognized": "laufen",
+    "words": [
+      {
+        "word": " laufen",
+        "start": 0.0,
+        "end": 0.38
+      }
+    ]
+  },
+  {
+    "n": 91,
+    "expected": "hängen",
+    "recognized": "Hängen.",
+    "words": [
+      {
+        "word": " Hängen.",
+        "start": 0.0,
+        "end": 0.34
+      }
+    ]
+  },
+  {
+    "n": 92,
+    "expected": "stellen",
+    "recognized": "Stellen",
+    "words": [
+      {
+        "word": " Stellen",
+        "start": 0.0,
+        "end": 0.44
+      }
+    ]
+  },
+  {
+    "n": 93,
+    "expected": "legen",
+    "recognized": "liegen.",
+    "words": [
+      {
+        "word": " liegen.",
+        "start": 0.0,
+        "end": 0.4
+      }
+    ]
+  },
+  {
+    "n": 94,
+    "expected": "der Garten",
+    "recognized": "der Garten.",
+    "words": [
+      {
+        "word": " der",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Garten.",
+        "start": 0.2,
+        "end": 0.62
+      }
+    ]
+  },
+  {
+    "n": 95,
+    "expected": "links",
+    "recognized": "Links.",
+    "words": [
+      {
+        "word": " Links.",
+        "start": 0.0,
+        "end": 0.36
+      }
+    ]
+  },
+  {
+    "n": 96,
+    "expected": "rechts",
+    "recognized": "Rechts.",
+    "words": [
+      {
+        "word": " Rechts.",
+        "start": 0.0,
+        "end": 0.4
+      }
+    ]
+  },
+  {
+    "n": 97,
+    "expected": "geradeaus",
+    "recognized": "Geradeaus.",
+    "words": [
+      {
+        "word": " Geradeaus.",
+        "start": 0.0,
+        "end": 0.7
+      }
+    ]
+  },
+  {
+    "n": 98,
+    "expected": "der Norden",
+    "recognized": "der Norden.",
+    "words": [
+      {
+        "word": " der",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Norden.",
+        "start": 0.18,
+        "end": 0.72
+      }
+    ]
+  },
+  {
+    "n": 99,
+    "expected": "der Süden",
+    "recognized": "der Süden.",
+    "words": [
+      {
+        "word": " der",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Süden.",
+        "start": 0.2,
+        "end": 0.62
+      }
+    ]
+  },
+  {
+    "n": 100,
+    "expected": "der Osten",
+    "recognized": "der Osten.",
+    "words": [
+      {
+        "word": " der",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Osten.",
+        "start": 0.18,
+        "end": 0.66
+      }
+    ]
+  },
+  {
+    "n": 101,
+    "expected": "der Westen",
+    "recognized": "der Westen.",
+    "words": [
+      {
+        "word": " der",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Westen.",
+        "start": 0.2,
+        "end": 0.76
+      }
+    ]
+  },
+  {
+    "n": 102,
+    "expected": "aufstehen",
+    "recognized": "Aufstehen!",
+    "words": [
+      {
+        "word": " Aufstehen!",
+        "start": 0.0,
+        "end": 0.72
+      }
+    ]
+  },
+  {
+    "n": 103,
+    "expected": "anrufen",
+    "recognized": "Anrufen.",
+    "words": [
+      {
+        "word": " Anrufen.",
+        "start": 0.0,
+        "end": 0.68
+      }
+    ]
+  },
+  {
+    "n": 104,
+    "expected": "einkaufen",
+    "recognized": "Einkaufen",
+    "words": [
+      {
+        "word": " Einkaufen",
+        "start": 0.0,
+        "end": 0.68
+      }
+    ]
+  },
+  {
+    "n": 105,
+    "expected": "aufmachen",
+    "recognized": "Aufmachen.",
+    "words": [
+      {
+        "word": " Aufmachen.",
+        "start": 0.0,
+        "end": 0.52
+      }
+    ]
+  },
+  {
+    "n": 106,
+    "expected": "mitkommen",
+    "recognized": "Mitkommen!",
+    "words": [
+      {
+        "word": " Mitkommen!",
+        "start": 0.0,
+        "end": 0.56
+      }
+    ]
+  },
+  {
+    "n": 107,
+    "expected": "zurückkommen",
+    "recognized": "zurückkommen.",
+    "words": [
+      {
+        "word": " zurückkommen.",
+        "start": 0.0,
+        "end": 0.74
+      }
+    ]
+  },
+  {
+    "n": 108,
+    "expected": "verstehen",
+    "recognized": "Verstehen.",
+    "words": [
+      {
+        "word": " Verstehen.",
+        "start": 0.0,
+        "end": 0.76
+      }
+    ]
+  },
+  {
+    "n": 109,
+    "expected": "besuchen",
+    "recognized": "Besuchen!",
+    "words": [
+      {
+        "word": " Besuchen!",
+        "start": 0.0,
+        "end": 0.52
+      }
+    ]
+  },
+  {
+    "n": 110,
+    "expected": "erklären",
+    "recognized": "Erklären.",
+    "words": [
+      {
+        "word": " Erklären.",
+        "start": 0.0,
+        "end": 0.66
+      }
+    ]
+  },
+  {
+    "n": 111,
+    "expected": "bezahlen",
+    "recognized": "bezahlen",
+    "words": [
+      {
+        "word": " bezahlen",
+        "start": 0.0,
+        "end": 0.58
+      }
+    ]
+  },
+  {
+    "n": 112,
+    "expected": "telefonieren",
+    "recognized": "Telefonieren.",
+    "words": [
+      {
+        "word": " Telefonieren.",
+        "start": 0.0,
+        "end": 0.82
+      }
+    ]
+  },
+  {
+    "n": 113,
+    "expected": "studieren",
+    "recognized": "studieren",
+    "words": [
+      {
+        "word": " studieren",
+        "start": 0.0,
+        "end": 0.66
+      }
+    ]
+  },
+  {
+    "n": 114,
+    "expected": "das Wort",
+    "recognized": "Das Wort!",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " Wort!",
+        "start": 0.24,
+        "end": 0.52
+      }
+    ]
+  },
+  {
+    "n": 115,
+    "expected": "sich treffen",
+    "recognized": "sich treffen.",
+    "words": [
+      {
+        "word": " sich",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " treffen.",
+        "start": 0.24,
+        "end": 0.58
+      }
+    ]
+  },
+  {
+    "n": 116,
+    "expected": "sich freuen",
+    "recognized": "sich freuen.",
+    "words": [
+      {
+        "word": " sich",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " freuen.",
+        "start": 0.24,
+        "end": 0.58
+      }
+    ]
+  },
+  {
+    "n": 117,
+    "expected": "sich waschen",
+    "recognized": "sich waschen.",
+    "words": [
+      {
+        "word": " sich",
+        "start": 0.0,
+        "end": 0.26
+      },
+      {
+        "word": " waschen.",
+        "start": 0.26,
+        "end": 0.72
+      }
+    ]
+  },
+  {
+    "n": 118,
+    "expected": "die Hände",
+    "recognized": "die Hände.",
+    "words": [
+      {
+        "word": " die",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Hände.",
+        "start": 0.16,
+        "end": 0.54
+      }
+    ]
+  },
+  {
+    "n": 119,
+    "expected": "oft",
+    "recognized": "oft.",
+    "words": [
+      {
+        "word": " oft.",
+        "start": 0.0,
+        "end": 0.34
+      }
+    ]
+  },
+  {
+    "n": 120,
+    "expected": "manchmal",
+    "recognized": "Manchmal.",
+    "words": [
+      {
+        "word": " Manchmal.",
+        "start": 0.0,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 121,
+    "expected": "selten",
+    "recognized": "Selten.",
+    "words": [
+      {
+        "word": " Selten.",
+        "start": 0.0,
+        "end": 0.54
+      }
+    ]
+  },
+  {
+    "n": 122,
+    "expected": "morgens",
+    "recognized": "Morgens.",
+    "words": [
+      {
+        "word": " Morgens.",
+        "start": 0.0,
+        "end": 0.64
+      }
+    ]
+  },
+  {
+    "n": 123,
+    "expected": "abends",
+    "recognized": "Abends.",
+    "words": [
+      {
+        "word": " Abends.",
+        "start": 0.0,
+        "end": 0.52
+      }
+    ]
+  },
+  {
+    "n": 124,
+    "expected": "zuerst",
+    "recognized": "Zuerst.",
+    "words": [
+      {
+        "word": " Zuerst.",
+        "start": 0.0,
+        "end": 0.72
+      }
+    ]
+  },
+  {
+    "n": 125,
+    "expected": "danach",
+    "recognized": "Danach!",
+    "words": [
+      {
+        "word": " Danach!",
+        "start": 0.0,
+        "end": 0.58
+      }
+    ]
+  },
+  {
+    "n": 126,
+    "expected": "passen",
+    "recognized": "passen",
+    "words": [
+      {
+        "word": " passen",
+        "start": 0.0,
+        "end": 0.5
+      }
+    ]
+  },
+  {
+    "n": 127,
+    "expected": "leider",
+    "recognized": "Leider.",
+    "words": [
+      {
+        "word": " Leider.",
+        "start": 0.0,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 128,
+    "expected": "der Samstag",
+    "recognized": "Der Samstag",
+    "words": [
+      {
+        "word": " Der",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Samstag",
+        "start": 0.2,
+        "end": 0.62
+      }
+    ]
+  },
+  {
+    "n": 129,
+    "expected": "die Nachricht",
+    "recognized": "Die Nachricht",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.38
+      },
+      {
+        "word": " Nachricht",
+        "start": 0.38,
+        "end": 0.96
+      }
+    ]
+  },
+  {
+    "n": 130,
+    "expected": "war",
+    "recognized": "wahr.",
+    "words": [
+      {
+        "word": " wahr.",
+        "start": 0.0,
+        "end": 0.34
+      }
+    ]
+  },
+  {
+    "n": 131,
+    "expected": "hatte",
+    "recognized": "Hatte",
+    "words": [
+      {
+        "word": " Hatte",
+        "start": 0.0,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 132,
+    "expected": "krank",
+    "recognized": "krank",
+    "words": [
+      {
+        "word": " krank",
+        "start": 0.0,
+        "end": 0.44
+      }
+    ]
+  },
+  {
+    "n": 133,
+    "expected": "früher",
+    "recognized": "Früher.",
+    "words": [
+      {
+        "word": " Früher.",
+        "start": 0.0,
+        "end": 0.5
+      }
+    ]
+  },
+  {
+    "n": 134,
+    "expected": "man",
+    "recognized": "Mann.",
+    "words": [
+      {
+        "word": " Mann.",
+        "start": 0.0,
+        "end": 0.3
+      }
+    ]
+  },
+  {
+    "n": 135,
+    "expected": "die Karte",
+    "recognized": "die Karte.",
+    "words": [
+      {
+        "word": " die",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Karte.",
+        "start": 0.18,
+        "end": 0.58
+      }
+    ]
+  },
+  {
+    "n": 136,
+    "expected": "denn",
+    "recognized": "Denn",
+    "words": [
+      {
+        "word": " Denn",
+        "start": 0.0,
+        "end": 0.28
+      }
+    ]
+  },
+  {
+    "n": 137,
+    "expected": "kochen",
+    "recognized": "Kochen",
+    "words": [
+      {
+        "word": " Kochen",
+        "start": 0.0,
+        "end": 0.46
+      }
+    ]
+  },
+  {
+    "n": 138,
+    "expected": "wenig",
+    "recognized": "Wenig.",
+    "words": [
+      {
+        "word": " Wenig.",
+        "start": 0.0,
+        "end": 0.62
+      }
+    ]
+  },
+  {
+    "n": 139,
+    "expected": "spät",
+    "recognized": "Spät!",
+    "words": [
+      {
+        "word": " Spät!",
+        "start": 0.0,
+        "end": 0.52
+      }
+    ]
+  },
+  {
+    "n": 140,
+    "expected": "dass",
+    "recognized": "Das.",
+    "words": [
+      {
+        "word": " Das.",
+        "start": 0.0,
+        "end": 0.26
+      }
+    ]
+  },
+  {
+    "n": 141,
+    "expected": "denken",
+    "recognized": "Denken.",
+    "words": [
+      {
+        "word": " Denken.",
+        "start": 0.0,
+        "end": 0.44
+      }
+    ]
+  },
+  {
+    "n": 142,
+    "expected": "glauben",
+    "recognized": "Glauben",
+    "words": [
+      {
+        "word": " Glauben",
+        "start": 0.0,
+        "end": 0.56
+      }
+    ]
+  },
+  {
+    "n": 143,
+    "expected": "deshalb",
+    "recognized": "Deshalb.",
+    "words": [
+      {
+        "word": " Deshalb.",
+        "start": 0.0,
+        "end": 0.38
+      }
+    ]
+  },
+  {
+    "n": 144,
+    "expected": "darum",
+    "recognized": "Darum.",
+    "words": [
+      {
+        "word": " Darum.",
+        "start": 0.0,
+        "end": 0.64
+      }
+    ]
+  },
+  {
+    "n": 145,
+    "expected": "regnen",
+    "recognized": "Regnen.",
+    "words": [
+      {
+        "word": " Regnen.",
+        "start": 0.0,
+        "end": 0.56
+      }
+    ]
+  },
+  {
+    "n": 146,
+    "expected": "noch",
+    "recognized": "Noch.",
+    "words": [
+      {
+        "word": " Noch.",
+        "start": 0.0,
+        "end": 0.34
+      }
+    ]
+  },
+  {
+    "n": 147,
+    "expected": "froh",
+    "recognized": "Froh!",
+    "words": [
+      {
+        "word": " Froh!",
+        "start": 0.0,
+        "end": 0.62
+      }
+    ]
+  },
+  {
+    "n": 148,
+    "expected": "wenn",
+    "recognized": "then",
+    "words": [
+      {
+        "word": " then",
+        "start": 0.0,
+        "end": 0.34
+      }
+    ]
+  },
+  {
+    "n": 149,
+    "expected": "frei",
+    "recognized": "frei!",
+    "words": [
+      {
+        "word": " frei!",
+        "start": 0.0,
+        "end": 0.4
+      }
+    ]
+  },
+  {
+    "n": 150,
+    "expected": "früh",
+    "recognized": "Frü.",
+    "words": [
+      {
+        "word": " Frü.",
+        "start": 0.0,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 151,
+    "expected": "zusammen",
+    "recognized": "Zusammen!",
+    "words": [
+      {
+        "word": " Zusammen!",
+        "start": 0.0,
+        "end": 0.44
+      }
+    ]
+  },
+  {
+    "n": 152,
+    "expected": "versuchen",
+    "recognized": "versuchen",
+    "words": [
+      {
+        "word": " versuchen",
+        "start": 0.0,
+        "end": 0.52
+      }
+    ]
+  },
+  {
+    "n": 153,
+    "expected": "vergessen",
+    "recognized": "vergessen",
+    "words": [
+      {
+        "word": " vergessen",
+        "start": 0.0,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 154,
+    "expected": "beginnen",
+    "recognized": "Beginnen.",
+    "words": [
+      {
+        "word": " Beginnen.",
+        "start": 0.0,
+        "end": 0.54
+      }
+    ]
+  },
+  {
+    "n": 155,
+    "expected": "hoffen",
+    "recognized": "Huffen.",
+    "words": [
+      {
+        "word": " Huffen.",
+        "start": 0.0,
+        "end": 0.52
+      }
+    ]
+  },
+  {
+    "n": 156,
+    "expected": "wichtig",
+    "recognized": "Wichtig!",
+    "words": [
+      {
+        "word": " Wichtig!",
+        "start": 0.0,
+        "end": 0.5
+      }
+    ]
+  },
+  {
+    "n": 157,
+    "expected": "interessant",
+    "recognized": "Interessant.",
+    "words": [
+      {
+        "word": " Interessant.",
+        "start": 0.0,
+        "end": 0.78
+      }
+    ]
+  },
+  {
+    "n": 158,
+    "expected": "langweilig",
+    "recognized": "Langweilig.",
+    "words": [
+      {
+        "word": " Langweilig.",
+        "start": 0.0,
+        "end": 0.86
+      }
+    ]
+  },
+  {
+    "n": 159,
+    "expected": "warm",
+    "recognized": "Vaum.",
+    "words": [
+      {
+        "word": " Vaum.",
+        "start": 0.0,
+        "end": 0.5
+      }
+    ]
+  },
+  {
+    "n": 160,
+    "expected": "kalt",
+    "recognized": "Kalt.",
+    "words": [
+      {
+        "word": " Kalt.",
+        "start": 0.0,
+        "end": 0.5
+      }
+    ]
+  },
+  {
+    "n": 161,
+    "expected": "traurig",
+    "recognized": "Traurig.",
+    "words": [
+      {
+        "word": " Traurig.",
+        "start": 0.0,
+        "end": 0.66
+      }
+    ]
+  },
+  {
+    "n": 162,
+    "expected": "der Film",
+    "recognized": "der Film.",
+    "words": [
+      {
+        "word": " der",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Film.",
+        "start": 0.18,
+        "end": 0.52
+      }
+    ]
+  },
+  {
+    "n": 163,
+    "expected": "schnell",
+    "recognized": "Schnell!",
+    "words": [
+      {
+        "word": " Schnell!",
+        "start": 0.0,
+        "end": 0.46
+      }
+    ]
+  },
+  {
+    "n": 164,
+    "expected": "größer",
+    "recognized": "Größer!",
+    "words": [
+      {
+        "word": " Größer!",
+        "start": 0.0,
+        "end": 0.6
+      }
+    ]
+  },
+  {
+    "n": 165,
+    "expected": "kleiner",
+    "recognized": "kleiner.",
+    "words": [
+      {
+        "word": " kleiner.",
+        "start": 0.0,
+        "end": 0.32
+      }
+    ]
+  },
+  {
+    "n": 166,
+    "expected": "besser",
+    "recognized": "Besser!",
+    "words": [
+      {
+        "word": " Besser!",
+        "start": 0.0,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 167,
+    "expected": "mehr",
+    "recognized": "Mia.",
+    "words": [
+      {
+        "word": " Mia.",
+        "start": 0.0,
+        "end": 0.38
+      }
+    ]
+  },
+  {
+    "n": 168,
+    "expected": "als",
+    "recognized": "Als.",
+    "words": [
+      {
+        "word": " Als.",
+        "start": 0.0,
+        "end": 0.36
+      }
+    ]
+  },
+  {
+    "n": 169,
+    "expected": "so … wie",
+    "recognized": "So wie?",
+    "words": [
+      {
+        "word": " So",
+        "start": 0.0,
+        "end": 0.46
+      },
+      {
+        "word": " wie?",
+        "start": 0.46,
+        "end": 1.32
+      }
+    ]
+  },
+  {
+    "n": 170,
+    "expected": "am besten",
+    "recognized": "Am besten!",
+    "words": [
+      {
+        "word": " Am",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " besten!",
+        "start": 0.22,
+        "end": 0.54
+      }
+    ]
+  },
+  {
+    "n": 171,
+    "expected": "am liebsten",
+    "recognized": "Am liebsten!",
+    "words": [
+      {
+        "word": " Am",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " liebsten!",
+        "start": 0.2,
+        "end": 0.72
+      }
+    ]
+  },
+  {
+    "n": 172,
+    "expected": "am meisten",
+    "recognized": "Am meisten.",
+    "words": [
+      {
+        "word": " Am",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " meisten.",
+        "start": 0.24,
+        "end": 0.62
+      }
+    ]
+  },
+  {
+    "n": 173,
+    "expected": "am schnellsten",
+    "recognized": "Am schnellsten!",
+    "words": [
+      {
+        "word": " Am",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " schnellsten!",
+        "start": 0.18,
+        "end": 0.82
+      }
+    ]
+  },
+  {
+    "n": 174,
+    "expected": "lieber",
+    "recognized": "Lieber!",
+    "words": [
+      {
+        "word": " Lieber!",
+        "start": 0.0,
+        "end": 0.5
+      }
+    ]
+  },
+  {
+    "n": 175,
+    "expected": "die Geschichte",
+    "recognized": "Die Geschichte.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Geschichte.",
+        "start": 0.18,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 176,
+    "expected": "ein guter Freund",
+    "recognized": "Ein guter Freund.",
+    "words": [
+      {
+        "word": " Ein",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " guter",
+        "start": 0.22,
+        "end": 0.62
+      },
+      {
+        "word": " Freund.",
+        "start": 0.62,
+        "end": 0.9
+      }
+    ]
+  },
+  {
+    "n": 177,
+    "expected": "eine kleine Katze",
+    "recognized": "Eine kleine Katze.",
+    "words": [
+      {
+        "word": " Eine",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " kleine",
+        "start": 0.24,
+        "end": 0.56
+      },
+      {
+        "word": " Katze.",
+        "start": 0.56,
+        "end": 1.1
+      }
+    ]
+  },
+  {
+    "n": 178,
+    "expected": "ein neues Buch",
+    "recognized": "Ein neues Buch!",
+    "words": [
+      {
+        "word": " Ein",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " neues",
+        "start": 0.24,
+        "end": 0.48
+      },
+      {
+        "word": " Buch!",
+        "start": 0.48,
+        "end": 0.88
+      }
+    ]
+  },
+  {
+    "n": 179,
+    "expected": "mit einem guten Freund",
+    "recognized": "Mit einem guten Freund.",
+    "words": [
+      {
+        "word": " Mit",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " einem",
+        "start": 0.18,
+        "end": 0.42
+      },
+      {
+        "word": " guten",
+        "start": 0.42,
+        "end": 0.72
+      },
+      {
+        "word": " Freund.",
+        "start": 0.72,
+        "end": 1.12
+      }
+    ]
+  },
+  {
+    "n": 180,
+    "expected": "bei meiner alten Schule",
+    "recognized": "bei meiner alten Schule.",
+    "words": [
+      {
+        "word": " bei",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " meiner",
+        "start": 0.16,
+        "end": 0.44
+      },
+      {
+        "word": " alten",
+        "start": 0.44,
+        "end": 0.74
+      },
+      {
+        "word": " Schule.",
+        "start": 0.74,
+        "end": 1.14
+      }
+    ]
+  },
+  {
+    "n": 181,
+    "expected": "freundlich",
+    "recognized": "Freundlich",
+    "words": [
+      {
+        "word": " Freundlich",
+        "start": 0.0,
+        "end": 0.68
+      }
+    ]
+  },
+  {
+    "n": 182,
+    "expected": "frisch",
+    "recognized": "Frisch!",
+    "words": [
+      {
+        "word": " Frisch!",
+        "start": 0.0,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 183,
+    "expected": "der Vorname",
+    "recognized": "der Vorname.",
+    "words": [
+      {
+        "word": " der",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Vorname.",
+        "start": 0.18,
+        "end": 0.82
+      }
+    ]
+  },
+  {
+    "n": 184,
+    "expected": "der Nachname",
+    "recognized": "der Nachname",
+    "words": [
+      {
+        "word": " der",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Nachname",
+        "start": 0.18,
+        "end": 0.76
+      }
+    ]
+  },
+  {
+    "n": 185,
+    "expected": "die Adresse",
+    "recognized": "Die Adresse",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Adresse",
+        "start": 0.16,
+        "end": 0.62
+      }
+    ]
+  },
+  {
+    "n": 186,
+    "expected": "die Telefonnummer",
+    "recognized": "Die Telefonnummer.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Telefonnummer.",
+        "start": 0.18,
+        "end": 0.96
+      }
+    ]
+  },
+  {
+    "n": 187,
+    "expected": "buchstabieren",
+    "recognized": "Buchstabieren",
+    "words": [
+      {
+        "word": " Buchstabieren",
+        "start": 0.0,
+        "end": 0.8
+      }
+    ]
+  },
+  {
+    "n": 188,
+    "expected": "das Formular",
+    "recognized": "Das Formular.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Formular.",
+        "start": 0.2,
+        "end": 0.76
+      }
+    ]
+  },
+  {
+    "n": 189,
+    "expected": "die Hausnummer",
+    "recognized": "Die Hausnummer.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Hausnummer.",
+        "start": 0.16,
+        "end": 0.76
+      }
+    ]
+  },
+  {
+    "n": 190,
+    "expected": "ausfüllen",
+    "recognized": "ausfüllen.",
+    "words": [
+      {
+        "word": " ausfüllen.",
+        "start": 0.0,
+        "end": 0.7
+      }
+    ]
+  },
+  {
+    "n": 191,
+    "expected": "das Hemd",
+    "recognized": "Das Hemd.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Hemd.",
+        "start": 0.2,
+        "end": 0.68
+      }
+    ]
+  },
+  {
+    "n": 192,
+    "expected": "die Größe",
+    "recognized": "Die Größe.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Größe.",
+        "start": 0.16,
+        "end": 0.64
+      }
+    ]
+  },
+  {
+    "n": 193,
+    "expected": "anprobieren",
+    "recognized": "anprobieren.",
+    "words": [
+      {
+        "word": " anprobieren.",
+        "start": 0.0,
+        "end": 0.76
+      }
+    ]
+  },
+  {
+    "n": 194,
+    "expected": "teuer",
+    "recognized": "Toya",
+    "words": [
+      {
+        "word": " Toya",
+        "start": 0.0,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 195,
+    "expected": "billig",
+    "recognized": "Billig.",
+    "words": [
+      {
+        "word": " Billig.",
+        "start": 0.0,
+        "end": 0.46
+      }
+    ]
+  },
+  {
+    "n": 196,
+    "expected": "die Kopfschmerzen",
+    "recognized": "Die Kopfschmerzen.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Kopfschmerzen.",
+        "start": 0.16,
+        "end": 0.94
+      }
+    ]
+  },
+  {
+    "n": 197,
+    "expected": "wehtun",
+    "recognized": "wehtun",
+    "words": [
+      {
+        "word": " wehtun",
+        "start": 0.0,
+        "end": 0.62
+      }
+    ]
+  },
+  {
+    "n": 198,
+    "expected": "das Fieber",
+    "recognized": "das Fieber",
+    "words": [
+      {
+        "word": " das",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Fieber",
+        "start": 0.2,
+        "end": 0.68
+      }
+    ]
+  },
+  {
+    "n": 199,
+    "expected": "die Ärztin",
+    "recognized": "Die Erdsten.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Erdsten.",
+        "start": 0.18,
+        "end": 0.66
+      }
+    ]
+  },
+  {
+    "n": 200,
+    "expected": "die Heizung",
+    "recognized": "Die Heizung.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Heizung.",
+        "start": 0.18,
+        "end": 0.7
+      }
+    ]
+  },
+  {
+    "n": 201,
+    "expected": "kaputt",
+    "recognized": "kaputt.",
+    "words": [
+      {
+        "word": " kaputt.",
+        "start": 0.0,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 202,
+    "expected": "funktionieren",
+    "recognized": "funktionieren.",
+    "words": [
+      {
+        "word": " funktionieren.",
+        "start": 0.0,
+        "end": 0.82
+      }
+    ]
+  },
+  {
+    "n": 203,
+    "expected": "aufräumen",
+    "recognized": "Aufräumen!",
+    "words": [
+      {
+        "word": " Aufräumen!",
+        "start": 0.0,
+        "end": 0.64
+      }
+    ]
+  },
+  {
+    "n": 204,
+    "expected": "reparieren",
+    "recognized": "Reparieren.",
+    "words": [
+      {
+        "word": " Reparieren.",
+        "start": 0.0,
+        "end": 0.72
+      }
+    ]
+  },
+  {
+    "n": 205,
+    "expected": "putzen",
+    "recognized": "Putzen.",
+    "words": [
+      {
+        "word": " Putzen.",
+        "start": 0.0,
+        "end": 0.46
+      }
+    ]
+  },
+  {
+    "n": 206,
+    "expected": "der Unterricht",
+    "recognized": "der Unterricht.",
+    "words": [
+      {
+        "word": " der",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Unterricht.",
+        "start": 0.18,
+        "end": 0.78
+      }
+    ]
+  },
+  {
+    "n": 207,
+    "expected": "die Arbeit",
+    "recognized": "Die Arbeit",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Arbeit",
+        "start": 0.18,
+        "end": 0.5
+      }
+    ]
+  },
+  {
+    "n": 208,
+    "expected": "die Pause",
+    "recognized": "Die Pause.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Pause.",
+        "start": 0.16,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 209,
+    "expected": "anfangen",
+    "recognized": "anfangen.",
+    "words": [
+      {
+        "word": " anfangen.",
+        "start": 0.0,
+        "end": 0.54
+      }
+    ]
+  },
+  {
+    "n": 210,
+    "expected": "die Hausaufgaben",
+    "recognized": "Die Hausaufgaben.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Hausaufgaben.",
+        "start": 0.16,
+        "end": 0.96
+      }
+    ]
+  },
+  {
+    "n": 211,
+    "expected": "die Fahrkarte",
+    "recognized": "Die Fahrkarte.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Fahrkarte.",
+        "start": 0.16,
+        "end": 0.8
+      }
+    ]
+  },
+  {
+    "n": 212,
+    "expected": "abfahren",
+    "recognized": "Abfahren.",
+    "words": [
+      {
+        "word": " Abfahren.",
+        "start": 0.0,
+        "end": 0.6
+      }
+    ]
+  },
+  {
+    "n": 213,
+    "expected": "das Gleis",
+    "recognized": "Das Gleis.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " Gleis.",
+        "start": 0.22,
+        "end": 0.72
+      }
+    ]
+  },
+  {
+    "n": 214,
+    "expected": "das Hotel",
+    "recognized": "Das Hotel",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " Hotel",
+        "start": 0.2,
+        "end": 0.52
+      }
+    ]
+  },
+  {
+    "n": 215,
+    "expected": "buchen",
+    "recognized": "Buchen!",
+    "words": [
+      {
+        "word": " Buchen!",
+        "start": 0.0,
+        "end": 0.38
+      }
+    ]
+  },
+  {
+    "n": 216,
+    "expected": "einladen",
+    "recognized": "Einladen!",
+    "words": [
+      {
+        "word": " Einladen!",
+        "start": 0.0,
+        "end": 0.7
+      }
+    ]
+  },
+  {
+    "n": 217,
+    "expected": "verschieben",
+    "recognized": "Verschieben",
+    "words": [
+      {
+        "word": " Verschieben",
+        "start": 0.0,
+        "end": 0.64
+      }
+    ]
+  },
+  {
+    "n": 218,
+    "expected": "werden",
+    "recognized": "werden.",
+    "words": [
+      {
+        "word": " werden.",
+        "start": 0.0,
+        "end": 0.3
+      }
+    ]
+  },
+  {
+    "n": 219,
+    "expected": "nächste Woche",
+    "recognized": "Nächste Woche.",
+    "words": [
+      {
+        "word": " Nächste",
+        "start": 0.0,
+        "end": 0.48
+      },
+      {
+        "word": " Woche.",
+        "start": 0.48,
+        "end": 0.7
+      }
+    ]
+  },
+  {
+    "n": 220,
+    "expected": "der Plan",
+    "recognized": "der Plan.",
+    "words": [
+      {
+        "word": " der",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Plan.",
+        "start": 0.18,
+        "end": 0.48
+      }
+    ]
+  },
+  {
+    "n": 221,
+    "expected": "üben",
+    "recognized": "üben",
+    "words": [
+      {
+        "word": " üben",
+        "start": 0.0,
+        "end": 0.4
+      }
+    ]
+  },
+  {
+    "n": 222,
+    "expected": "Mia",
+    "recognized": "Mia.",
+    "words": [
+      {
+        "word": " Mia.",
+        "start": 0.0,
+        "end": 0.34
+      }
+    ]
+  },
+  {
+    "n": 223,
+    "expected": "jeden Tag",
+    "recognized": "jeden Tag.",
+    "words": [
+      {
+        "word": " jeden",
+        "start": 0.0,
+        "end": 0.38
+      },
+      {
+        "word": " Tag.",
+        "start": 0.38,
+        "end": 0.74
+      }
+    ]
+  }
+]

@@ -70,5 +70,23 @@ class VoiceImportTests(unittest.TestCase):
         self.assertEqual([(e['id'], e['text']) for e in queue['entries']], [(e['id'], e['text']) for e in canonical])
         _, _, report = collect(self.root)
         self.assertEqual(sum(e['path'].startswith('audio/henri-course-part2-20261018/') for e in report), 223)
+    def test_three_course_batches_cover_entire_frozen_queue(self):
+        source = self.root / 'audio-sources/henri-course-part3-20261018/queue.json'
+        if not source.exists(): self.skipTest('Third course recording package not present')
+        third = json.loads(source.read_text())
+        self.assertEqual(third['range'], [447, 669])
+        self.assertEqual(sum(e['kind'] == 'course-lexeme' for e in third['entries']), 215)
+        queues = [json.loads((self.root / f'audio-sources/henri-course-part{n}-20261018/queue.json').read_text())['entries'] for n in (1, 2, 3)]
+        canonical = json.loads((ROOT / 'audio/recording/course-80-missing.json').read_text())['missing']
+        self.assertEqual([(e['id'], e['text']) for q in queues for e in q], [(e['id'], e['text']) for e in canonical])
+        _, _, report = collect(self.root)
+        self.assertEqual(sum(e['path'].startswith('audio/henri-course-') for e in report), 669)
+    def test_course_lexeme_keeps_short_duration_limit(self):
+        p = self.root / 'audio-inbox/henri-course-part3-20261018.json'
+        if not p.exists(): self.skipTest('Third course recording package not present')
+        manifest = json.loads(p.read_text())
+        next(e for e in manifest['entries'] if e['kind'] == 'course-lexeme')['duration'] = 5
+        p.write_text(json.dumps(manifest))
+        with self.assertRaises(ValueError): collect(self.root)
 
 if __name__ == '__main__': unittest.main()

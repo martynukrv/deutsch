@@ -1,0 +1,1125 @@
+{
+  "version": 1,
+  "canonical_script": "audio/recording/course-80-missing.json",
+  "range": [
+    447,
+    669
+  ],
+  "entries": [
+    {
+      "id": "course80-audio-0447",
+      "text": "Ich möchte jeden Tag üben.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0448",
+      "text": "Ich heiße Mia.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0449",
+      "text": "Ich lerne jeden Tag Deutsch.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0450",
+      "text": "Gestern habe ich meine Freundin besucht.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0451",
+      "text": "Wir haben zusammen gekocht.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0452",
+      "text": "Danach sind wir in den Park gegangen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0453",
+      "text": "Ich lerne Deutsch, weil ich hier arbeiten möchte.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0454",
+      "text": "Morgen werde ich wieder üben.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0455",
+      "text": "bereit",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0456",
+      "text": "die Zeit",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0457",
+      "text": "der Hunger",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0458",
+      "text": "der Durst",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0459",
+      "text": "Deutsch",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0460",
+      "text": "heißen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0461",
+      "text": "ein",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0462",
+      "text": "eine",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0463",
+      "text": "kein",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0464",
+      "text": "keine",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0465",
+      "text": "die Bücher",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0466",
+      "text": "die Kinder",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0467",
+      "text": "die Tische",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0468",
+      "text": "die Stühle",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0469",
+      "text": "die Türen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0470",
+      "text": "die Katzen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0471",
+      "text": "die Hunde",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0472",
+      "text": "die Schulen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0473",
+      "text": "mein",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0474",
+      "text": "dein",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0475",
+      "text": "unser",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0476",
+      "text": "euer",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0477",
+      "text": "suchen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0478",
+      "text": "mich",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0479",
+      "text": "dich",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0480",
+      "text": "ihn",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0481",
+      "text": "uns",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0482",
+      "text": "euch",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0483",
+      "text": "mögen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0484",
+      "text": "gern",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0485",
+      "text": "die Musik",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0486",
+      "text": "der Sport",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0487",
+      "text": "der Zucker",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0488",
+      "text": "die Rechnung",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0489",
+      "text": "das Café",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0490",
+      "text": "schwimmen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0491",
+      "text": "sollen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0492",
+      "text": "warten",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0493",
+      "text": "möchten",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0494",
+      "text": "reisen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0495",
+      "text": "dürfen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0496",
+      "text": "rauchen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0497",
+      "text": "langsam",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0498",
+      "text": "leise",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0499",
+      "text": "antworten",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0500",
+      "text": "mir",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0501",
+      "text": "dir",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0502",
+      "text": "ihm",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0503",
+      "text": "ihnen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0504",
+      "text": "zeigen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0505",
+      "text": "schenken",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0506",
+      "text": "das Geschenk",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0507",
+      "text": "der Ball",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0508",
+      "text": "das Bild",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0509",
+      "text": "zu",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0510",
+      "text": "von",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0511",
+      "text": "bei",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0512",
+      "text": "nach",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0513",
+      "text": "der Arzt",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0514",
+      "text": "für",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0515",
+      "text": "gegen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0516",
+      "text": "durch",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0517",
+      "text": "um",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0518",
+      "text": "die Tasche",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0519",
+      "text": "tausend",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0520",
+      "text": "kosten",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0521",
+      "text": "der Euro",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0522",
+      "text": "der Cent",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0523",
+      "text": "der Mensch",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0524",
+      "text": "die Uhr",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0525",
+      "text": "halb",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0526",
+      "text": "der Montag",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0527",
+      "text": "der Mai",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0528",
+      "text": "der Geburtstag",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0529",
+      "text": "der Termin",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0530",
+      "text": "auf",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0531",
+      "text": "unter",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0532",
+      "text": "neben",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0533",
+      "text": "die Wand",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0534",
+      "text": "stehen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0535",
+      "text": "liegen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0536",
+      "text": "laufen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0537",
+      "text": "hängen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0538",
+      "text": "stellen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0539",
+      "text": "legen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0540",
+      "text": "der Garten",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0541",
+      "text": "links",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0542",
+      "text": "rechts",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0543",
+      "text": "geradeaus",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0544",
+      "text": "der Norden",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0545",
+      "text": "der Süden",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0546",
+      "text": "der Osten",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0547",
+      "text": "der Westen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0548",
+      "text": "aufstehen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0549",
+      "text": "anrufen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0550",
+      "text": "einkaufen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0551",
+      "text": "aufmachen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0552",
+      "text": "mitkommen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0553",
+      "text": "zurückkommen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0554",
+      "text": "verstehen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0555",
+      "text": "besuchen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0556",
+      "text": "erklären",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0557",
+      "text": "bezahlen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0558",
+      "text": "telefonieren",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0559",
+      "text": "studieren",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0560",
+      "text": "das Wort",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0561",
+      "text": "sich treffen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0562",
+      "text": "sich freuen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0563",
+      "text": "sich waschen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0564",
+      "text": "die Hände",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0565",
+      "text": "oft",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0566",
+      "text": "manchmal",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0567",
+      "text": "selten",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0568",
+      "text": "morgens",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0569",
+      "text": "abends",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0570",
+      "text": "zuerst",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0571",
+      "text": "danach",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0572",
+      "text": "passen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0573",
+      "text": "leider",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0574",
+      "text": "der Samstag",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0575",
+      "text": "die Nachricht",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0576",
+      "text": "war",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0577",
+      "text": "hatte",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0578",
+      "text": "krank",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0579",
+      "text": "früher",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0580",
+      "text": "man",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0581",
+      "text": "die Karte",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0582",
+      "text": "denn",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0583",
+      "text": "kochen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0584",
+      "text": "wenig",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0585",
+      "text": "spät",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0586",
+      "text": "dass",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0587",
+      "text": "denken",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0588",
+      "text": "glauben",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0589",
+      "text": "deshalb",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0590",
+      "text": "darum",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0591",
+      "text": "regnen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0592",
+      "text": "noch",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0593",
+      "text": "froh",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0594",
+      "text": "wenn",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0595",
+      "text": "frei",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0596",
+      "text": "früh",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0597",
+      "text": "zusammen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0598",
+      "text": "versuchen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0599",
+      "text": "vergessen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0600",
+      "text": "beginnen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0601",
+      "text": "hoffen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0602",
+      "text": "wichtig",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0603",
+      "text": "interessant",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0604",
+      "text": "langweilig",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0605",
+      "text": "warm",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0606",
+      "text": "kalt",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0607",
+      "text": "traurig",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0608",
+      "text": "der Film",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0609",
+      "text": "schnell",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0610",
+      "text": "größer",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0611",
+      "text": "kleiner",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0612",
+      "text": "besser",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0613",
+      "text": "mehr",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0614",
+      "text": "als",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0615",
+      "text": "so … wie",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0616",
+      "text": "am besten",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0617",
+      "text": "am liebsten",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0618",
+      "text": "am meisten",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0619",
+      "text": "am schnellsten",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0620",
+      "text": "lieber",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0621",
+      "text": "die Geschichte",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0622",
+      "text": "ein guter Freund",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0623",
+      "text": "eine kleine Katze",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0624",
+      "text": "ein neues Buch",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0625",
+      "text": "mit einem guten Freund",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0626",
+      "text": "bei meiner alten Schule",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0627",
+      "text": "freundlich",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0628",
+      "text": "frisch",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0629",
+      "text": "der Vorname",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0630",
+      "text": "der Nachname",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0631",
+      "text": "die Adresse",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0632",
+      "text": "die Telefonnummer",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0633",
+      "text": "buchstabieren",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0634",
+      "text": "das Formular",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0635",
+      "text": "die Hausnummer",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0636",
+      "text": "ausfüllen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0637",
+      "text": "das Hemd",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0638",
+      "text": "die Größe",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0639",
+      "text": "anprobieren",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0640",
+      "text": "teuer",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0641",
+      "text": "billig",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0642",
+      "text": "die Kopfschmerzen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0643",
+      "text": "wehtun",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0644",
+      "text": "das Fieber",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0645",
+      "text": "die Ärztin",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0646",
+      "text": "die Heizung",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0647",
+      "text": "kaputt",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0648",
+      "text": "funktionieren",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0649",
+      "text": "aufräumen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0650",
+      "text": "reparieren",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0651",
+      "text": "putzen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0652",
+      "text": "der Unterricht",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0653",
+      "text": "die Arbeit",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0654",
+      "text": "die Pause",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0655",
+      "text": "anfangen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0656",
+      "text": "die Hausaufgaben",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0657",
+      "text": "die Fahrkarte",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0658",
+      "text": "abfahren",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0659",
+      "text": "das Gleis",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0660",
+      "text": "das Hotel",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0661",
+      "text": "buchen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0662",
+      "text": "einladen",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0663",
+      "text": "verschieben",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0664",
+      "text": "werden",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0665",
+      "text": "nächste Woche",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0666",
+      "text": "der Plan",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0667",
+      "text": "üben",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0668",
+      "text": "Mia",
+      "kind": "course-lexeme"
+    },
+    {
+      "id": "course80-audio-0669",
+      "text": "jeden Tag",
+      "kind": "course-lexeme"
+    }
+  ]
+}

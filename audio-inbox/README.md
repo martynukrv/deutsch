@@ -9,3 +9,5 @@ The henri-lessons-20261017 batch adds 44 verified full lesson phrases (42 exact-
 The henri-course-part1-20261018 batch adds the first 223 entries of the frozen 669-entry course script: 12 whole reading texts and 211 phrases/proverbs. It preserves the 453 existing recordings, for 676 exact recorded bindings. The other two script parts retain their original order and IDs.
 
 The henri-course-part2-20261018 batch adds positions 224–446 of the frozen course script: 223 verified phrases. It preserves all 676 earlier bindings, bringing the total to 899. Part 3 remains positions 447–669.
+
+The henri-course-part3-20261018 batch completes the frozen script with positions 447–669: 8 phrases and 215 lexical entries (strict 5-second maximum for lexical clips). All 899 previous bindings are preserved; the map now has 1122 entries and the course audit has zero pending texts.

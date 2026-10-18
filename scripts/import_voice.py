@@ -53,8 +53,8 @@ def collect(root=ROOT):
                 if entry['verification']['status'] not in ('exact-full', 'exact-isolated', 'exact-medium', 'homophone'):
                     raise ValueError('Unverified recording')
                 kind = entry.get('kind', '')
-                maximum = {'course-text': 60, 'course-phrase': 12}.get(kind, 5)
-                if kind.startswith('course-') and (kind not in ('course-text', 'course-phrase') or kind != expected.get('kind') or not batch.startswith('henri-course-')):
+                maximum = {'course-text': 60, 'course-phrase': 12, 'course-lexeme': 5}.get(kind, 5)
+                if kind.startswith('course-') and (kind not in ('course-text', 'course-phrase', 'course-lexeme') or kind != expected.get('kind') or not batch.startswith('henri-course-')):
                     raise ValueError('Invalid course recording type')
                 if not (.15 < entry['duration'] < maximum):
                     raise ValueError('Invalid clip duration')

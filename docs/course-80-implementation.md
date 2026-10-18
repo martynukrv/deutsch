@@ -34,13 +34,13 @@
 
 ## Озвучка
 
-Аудит: 893 різні німецькі тексти з прикладів, словника, підсумкових текстів і бонусів. 224 мають запис або коректний маршрут складання з наявних записаних слів. **669 потребують людської озвучки.** До заміни вони позначені як синтезовані. Наявність і звучання німецького синтезованого голосу залежить від пристрою; письмові режими доступні без нього.
+Актуальний аудит після імпорту трьох частин: **893 із 893 німецьких текстів** мають запис або коректний маршрут складання з наявних записаних слів. Усі 669 позицій початкового списку імпортовано; відсутніх записів немає. Загальна мапа містить 1122 точні аудіоприв’язки. Подальші додані матеріали потребуватимуть нового аудиту; це покриття чинної версії курсу.
 
 Канонічний пакет v1:
 
 - [course-80-missing.txt](../audio/recording/course-80-missing.txt) — єдиний текст для читання: один сегмент на рядок, кожен закінчується `[pause]`.
 - `audio/recording/course-80-missing.json` — службовий порядок, ID, зв’язки з уроками й SHA-256 джерела. Це не другий список для читання.
-- `assets/learning/course-audio-audit.js` — той самий аудит для перевірок у браузері.
+- `assets/learning/course-audio-audit.js` — актуальний аудит покриття для перевірок у браузері; TXT/JSON списку v1 залишаються історичним незмінним порядком для звірки.
 
 У пакеті є як короткі слова, так і 12 підсумкових текстів із кількома реченнями; один такий рядок є одним сегментом. Після запису потрібна перевірка змісту, кількості, порядку та меж. Для імпорту довгих підсумкових текстів слід використовувати окремий тип довгого фрагмента, не обмеження старих коротких кліпів до 5 секунд. Пакет після передачі користувачу слід зберігати незмінним; подальші додавання оформлювати наступною версією.
 
@@ -72,3 +72,7 @@ Part 1 of the version-1 669-entry script has been imported: 223 exact recordings
 ### Audio part 2
 
 Imported the next 223 course phrases (canonical positions 224–446). All 676 previous exact bindings remain unchanged; there are now 899 recordings. The course audio audit has 670 recorded texts and 223 pending entries, corresponding to the unchanged third script part. Original source, primary and regional recognition evidence, isolated clip recognition, hashes and boundaries are retained under audio-sources/henri-course-part2-20261018 and audio-inbox.
+
+### Audio part 3 — complete
+
+Imported the final 223 entries (positions 447–669): 8 phrases and 215 lexical entries. All 899 earlier bindings are unchanged; there are now 1122 exact recorded bindings. Runtime audit: 893 recorded texts, zero pending. The frozen three-part script remains unchanged. All cropped clips were independently recognized; additional medium/context checks resolve short-word ambiguity. The homophones man/Mann and dass/das are explicitly documented in the manifest. The record contains source originals, recognition evidence, boundaries and hashes. These are automated technical/recognition checks; independent teacher proofreading remains a separate task.

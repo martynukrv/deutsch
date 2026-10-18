@@ -1,0 +1,4061 @@
+{
+  "batch": "henri-course-part3-20261018",
+  "source_duration": 224.992625,
+  "source_sha256": "f3d41d0ab90a78d23ffa51aae9b88a6d1240000494d0f1ec133ba1002c5a5249",
+  "source_file": "audio-sources/henri-course-part3-20261018/original.mp3",
+  "queue_file": "audio-sources/henri-course-part3-20261018/queue.json",
+  "count": 223,
+  "verified": true,
+  "entries": [
+    {
+      "id": "course80-audio-0447",
+      "text": "Ich möchte jeden Tag üben.",
+      "kind": "course-phrase",
+      "file": "rq001_course.mp3",
+      "source_start": 0,
+      "source_end": 1.97304,
+      "speech_start": 0,
+      "speech_end": 1.85304,
+      "sha256": "d3ea44dc67b78a3ea7dbdf9c7f3d7932fdb373a81fcd713e298572c4d1d2f0c3",
+      "duration": 2.011429,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich möchte jeden Tag üben.",
+        "isolated_asr": "Ich möchte jeden Tag üben.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0448",
+      "text": "Ich heiße Mia.",
+      "kind": "course-phrase",
+      "file": "rq002_course.mp3",
+      "source_start": 2.89438,
+      "source_end": 4.001296,
+      "speech_start": 2.97438,
+      "speech_end": 3.881296,
+      "sha256": "200e5eab1112d6c728e8a91e03497c971a43698533019675d0edd72462362651",
+      "duration": 1.149388,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich heiße Mia.",
+        "isolated_asr": "Ich heiße Mia.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0449",
+      "text": "Ich lerne jeden Tag Deutsch.",
+      "kind": "course-phrase",
+      "file": "rq003_course.mp3",
+      "source_start": 4.65599,
+      "source_end": 6.647415,
+      "speech_start": 4.73599,
+      "speech_end": 6.527415,
+      "sha256": "77baa211a390924b64f154eb9442d36aa3a45109053e1d264af48746901e9227",
+      "duration": 2.037551,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich lerne jeden Tag Deutsch.",
+        "isolated_asr": "Ich lerne jeden Tag Deutsch.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0450",
+      "text": "Gestern habe ich meine Freundin besucht.",
+      "kind": "course-phrase",
+      "file": "rq004_course.mp3",
+      "source_start": 7.18551,
+      "source_end": 9.633503,
+      "speech_start": 7.26551,
+      "speech_end": 9.513503,
+      "sha256": "5c6f41461f524859fc06746bc94c6e5806bd9b46db282b45ef6dbb98dee9ace1",
+      "duration": 2.481633,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Gestern habe ich meine Freundin besucht.",
+        "isolated_asr": "Gestern habe ich meine Freundin besucht.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0451",
+      "text": "Wir haben zusammen gekocht.",
+      "kind": "course-phrase",
+      "file": "rq005_course.mp3",
+      "source_start": 10.035,
+      "source_end": 11.711573,
+      "speech_start": 10.115,
+      "speech_end": 11.591573,
+      "sha256": "48c7c7543f227c4fa486222083933e5bdd2548bea3f7ad758ab69074f17d080d",
+      "duration": 1.724082,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir haben zusammen gekocht.",
+        "isolated_asr": "Wir haben zusammen gekocht.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0452",
+      "text": "Danach sind wir in den Park gegangen.",
+      "kind": "course-phrase",
+      "file": "rq006_course.mp3",
+      "source_start": 12.1135,
+      "source_end": 14.157873,
+      "speech_start": 12.1935,
+      "speech_end": 14.037873,
+      "sha256": "9efb9090d96b4b4cde8d5af7c0819ea8a1ae6389be3dd2aeb06c94e6b9a934d0",
+      "duration": 2.089796,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Danach sind wir in den Park gegangen.",
+        "isolated_asr": "Danach sind wir in den Park gegangen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0453",
+      "text": "Ich lerne Deutsch, weil ich hier arbeiten möchte.",
+      "kind": "course-phrase",
+      "file": "rq007_course.mp3",
+      "source_start": 14.6998,
+      "source_end": 17.334081,
+      "speech_start": 14.7798,
+      "speech_end": 17.214081,
+      "sha256": "7ee92c3484e81df221baeef3cd3bd15566342dc7cc5e67746c606b71cd4cbd6c",
+      "duration": 2.66449,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich lerne Deutsch, weil ich hier arbeiten möchte.",
+        "isolated_asr": "Ich lerne Deutsch, weil ich hier arbeiten möchte.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0454",
+      "text": "Morgen werde ich wieder üben.",
+      "kind": "course-phrase",
+      "file": "rq008_course.mp3",
+      "source_start": 17.8339,
+      "source_end": 19.733287,
+      "speech_start": 17.9139,
+      "speech_end": 19.613287,
+      "sha256": "5c6fca5b9ddc2bb97895bb532c3599da366bffa7bf9502143657534f4c0e158c",
+      "duration": 1.933061,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Morgen werde ich wieder üben.",
+        "isolated_asr": "Morgen werde ich wieder üben.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0455",
+      "text": "bereit",
+      "kind": "course-lexeme",
+      "file": "rq009_course.mp3",
+      "source_start": 20.1417,
+      "source_end": 20.676607,
+      "speech_start": 20.2217,
+      "speech_end": 20.635315,
+      "sha256": "5875d5eba46f4d2c662b36a34be390eee97e12510f9f41f18e1fd93d77e5450c",
+      "duration": 0.574694,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Bereit.",
+        "isolated_asr": "Bereit!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0456",
+      "text": "die Zeit",
+      "kind": "course-lexeme",
+      "file": "rq010_course.mp3",
+      "source_start": 20.676607,
+      "source_end": 22.339443,
+      "speech_start": 20.7179,
+      "speech_end": 22.219443,
+      "sha256": "f319850c93887a641cbaf321b5685e5ecf1223c7428d9be433a71fb54074a822",
+      "duration": 1.697959,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die zeit",
+        "isolated_asr": "Die Zeit",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0457",
+      "text": "der Hunger",
+      "kind": "course-lexeme",
+      "file": "rq011_course.mp3",
+      "source_start": 22.7545,
+      "source_end": 23.610201,
+      "speech_start": 22.8345,
+      "speech_end": 23.490201,
+      "sha256": "e2d18d9b7c446cd83299ca1e1ace832e9492e8f95482c16278f00468c5ed768c",
+      "duration": 0.888163,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der hunger",
+        "isolated_asr": "Der Hunger",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0458",
+      "text": "der Durst",
+      "kind": "course-lexeme",
+      "file": "rq012_course.mp3",
+      "source_start": 24.0346,
+      "source_end": 24.989288,
+      "speech_start": 24.1146,
+      "speech_end": 24.869288,
+      "sha256": "c24e1d707ce6426f1152f5413aac2638b9575b512d0ca7c4a4b4398a1fcf76c1",
+      "duration": 0.992653,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der durst",
+        "isolated_asr": "der Durst.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0459",
+      "text": "Deutsch",
+      "kind": "course-lexeme",
+      "file": "rq013_course.mp3",
+      "source_start": 25.3899,
+      "source_end": 26.092372,
+      "speech_start": 25.4699,
+      "speech_end": 25.972372,
+      "sha256": "6777c98de18ae99d67d30ec42c1e87c7b83707e32e90160c7010cca2cf1b482a",
+      "duration": 0.731429,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "deutsch",
+        "isolated_asr": "Deutsch.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0460",
+      "text": "heißen",
+      "kind": "course-lexeme",
+      "file": "rq014_course.mp3",
+      "source_start": 26.4799,
+      "source_end": 27.264231,
+      "speech_start": 26.5599,
+      "speech_end": 27.144231,
+      "sha256": "ceb5ccabd91b7d5e13efe83e8bca86567f78d0d13bfc4f0b8e11805102620166",
+      "duration": 0.835918,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "heißen",
+        "isolated_asr": "heißen",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0461",
+      "text": "ein",
+      "kind": "course-lexeme",
+      "file": "rq015_course.mp3",
+      "source_start": 27.6738,
+      "source_end": 28.304862,
+      "speech_start": 27.7538,
+      "speech_end": 28.184862,
+      "sha256": "90cd0c4fb9c38c9a3535033ea44574b292887164099b9848530a73000a7b47e4",
+      "duration": 0.679184,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "ein",
+        "isolated_asr": "Ein.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0462",
+      "text": "eine",
+      "kind": "course-lexeme",
+      "file": "rq016_course.mp3",
+      "source_start": 28.6562,
+      "source_end": 29.286937,
+      "speech_start": 28.7362,
+      "speech_end": 29.166937,
+      "sha256": "9364bbb632b66245a6e7b297ac1babaed7dbb1048df877d04af8a7eaf61d51fc",
+      "duration": 0.679184,
+      "verification": {
+        "status": "exact-medium",
+        "aligned_asr": "eine",
+        "isolated_asr": "EINER",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized",
+        "medium_asr": "Eine"
+      }
+    },
+    {
+      "id": "course80-audio-0463",
+      "text": "kein",
+      "kind": "course-lexeme",
+      "file": "rq017_course.mp3",
+      "source_start": 29.6634,
+      "source_end": 30.36077,
+      "speech_start": 29.7434,
+      "speech_end": 30.24077,
+      "sha256": "75d5c528652a6536b360cc39b3caa0fc075ddbcb9d8ac863fb5fc73c17d37b6f",
+      "duration": 0.731429,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "kein",
+        "isolated_asr": "Kein.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0464",
+      "text": "keine",
+      "kind": "course-lexeme",
+      "file": "rq018_course.mp3",
+      "source_start": 30.6134,
+      "source_end": 31.297252,
+      "speech_start": 30.6934,
+      "speech_end": 31.177252,
+      "sha256": "e03016219a5a5780394ff4cec3ff16d241c2453176a1eb78d86d3809e370d5ce",
+      "duration": 0.731429,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "keine",
+        "isolated_asr": "Keine.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0465",
+      "text": "die Bücher",
+      "kind": "course-lexeme",
+      "file": "rq019_course.mp3",
+      "source_start": 31.6802,
+      "source_end": 32.534013,
+      "speech_start": 31.7602,
+      "speech_end": 32.414013,
+      "sha256": "0c2a03898ac8c8bb4dd622301e87cb84efdec5f7949cac27a35f33b6fa416629",
+      "duration": 0.888163,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die bücher",
+        "isolated_asr": "Die Bücher.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0466",
+      "text": "die Kinder",
+      "kind": "course-lexeme",
+      "file": "rq020_course.mp3",
+      "source_start": 32.8939,
+      "source_end": 33.722637,
+      "speech_start": 32.9739,
+      "speech_end": 33.602637,
+      "sha256": "5ba819bf17e4537f907545e89941d8fc090a9765ee41446c4ffe29bb2d1a48a1",
+      "duration": 0.862041,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die kinder",
+        "isolated_asr": "Die Kinder.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0467",
+      "text": "die Tische",
+      "kind": "course-lexeme",
+      "file": "rq021_course.mp3",
+      "source_start": 34.0947,
+      "source_end": 34.915635,
+      "speech_start": 34.1747,
+      "speech_end": 34.795635,
+      "sha256": "88474651b1895116cd0202c81ff9ffd9290e91f266b685a9d6598c1c0d710141",
+      "duration": 0.862041,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die tische",
+        "isolated_asr": "die Tische.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0468",
+      "text": "die Stühle",
+      "kind": "course-lexeme",
+      "file": "rq022_course.mp3",
+      "source_start": 35.2172,
+      "source_end": 36.088275,
+      "speech_start": 35.2972,
+      "speech_end": 35.968275,
+      "sha256": "029b15988ec96ce2018632832cf8213f5afcc1ea3a6f85b4d471079750f0b5d4",
+      "duration": 0.914286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die stühle",
+        "isolated_asr": "Die Stühle",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0469",
+      "text": "die Türen",
+      "kind": "course-lexeme",
+      "file": "rq023_course.mp3",
+      "source_start": 36.4151,
+      "source_end": 37.337207,
+      "speech_start": 36.4951,
+      "speech_end": 37.217207,
+      "sha256": "9927514da5550a64d3a0514bac11c45eb47a763edd9d84ba1772bc765b878903",
+      "duration": 0.966531,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die türen",
+        "isolated_asr": "die Türen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0470",
+      "text": "die Katzen",
+      "kind": "course-lexeme",
+      "file": "rq024_course.mp3",
+      "source_start": 37.6163,
+      "source_end": 38.518953,
+      "speech_start": 37.6963,
+      "speech_end": 38.398953,
+      "sha256": "ea520e6e9bc6cb9fc98adf4ddc61b0d89630e8d589172e3892f334cf3a9fbe41",
+      "duration": 0.940408,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die katzen",
+        "isolated_asr": "die Katzen",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0471",
+      "text": "die Hunde",
+      "kind": "course-lexeme",
+      "file": "rq025_course.mp3",
+      "source_start": 38.7341,
+      "source_end": 39.561299,
+      "speech_start": 38.8141,
+      "speech_end": 39.441299,
+      "sha256": "cec0d9c2cc891dc1ef8711a63658fc3d274551e35ad6b07d516e5c287c70b7d2",
+      "duration": 0.862041,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die hunde",
+        "isolated_asr": "die Hunde",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0472",
+      "text": "die Schulen",
+      "kind": "course-lexeme",
+      "file": "rq026_course.mp3",
+      "source_start": 39.8708,
+      "source_end": 40.764688,
+      "speech_start": 39.9508,
+      "speech_end": 40.644688,
+      "sha256": "046868816ec5483b0ee1768f15b3715211e1860ba351b3dc32000ae17ed59177",
+      "duration": 0.940408,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Schulen,",
+        "isolated_asr": "die Schulen",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0473",
+      "text": "mein",
+      "kind": "course-lexeme",
+      "file": "rq027_course.mp3",
+      "source_start": 40.9853,
+      "source_end": 41.724926,
+      "speech_start": 41.0653,
+      "speech_end": 41.604926,
+      "sha256": "69776e218fb661fada85e3ce3a7fdcb5cc5e53f9237699026b9e24bc47ac8da4",
+      "duration": 0.783673,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "mein,",
+        "isolated_asr": "Mein.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0474",
+      "text": "dein",
+      "kind": "course-lexeme",
+      "file": "rq028_course.mp3",
+      "source_start": 42.0303,
+      "source_end": 42.678211,
+      "speech_start": 42.1103,
+      "speech_end": 42.558211,
+      "sha256": "f1e3a7561628fc99874ff47449d69f28de945693b0171af4764a5de579f20910",
+      "duration": 0.679184,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "dein,",
+        "isolated_asr": "Dein.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0475",
+      "text": "unser",
+      "kind": "course-lexeme",
+      "file": "rq029_course.mp3",
+      "source_start": 42.9349,
+      "source_end": 43.642862,
+      "speech_start": 43.0149,
+      "speech_end": 43.522862,
+      "sha256": "fda434c66fc716d4e93c162f548dd694c2fd0ca6540d4168c88ff15b6d057d84",
+      "duration": 0.757551,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "unser,",
+        "isolated_asr": "Unser.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0476",
+      "text": "euer",
+      "kind": "course-lexeme",
+      "file": "rq030_course.mp3",
+      "source_start": 43.8581,
+      "source_end": 44.462635,
+      "speech_start": 43.9381,
+      "speech_end": 44.342635,
+      "sha256": "880ccec8b349f9276c4211a335c275407f7fd3e8ae42f9e9eb60398bf8e02e78",
+      "duration": 0.653061,
+      "verification": {
+        "status": "exact-medium",
+        "aligned_asr": "euer,",
+        "isolated_asr": "Oya",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized",
+        "medium_asr": "Euer."
+      }
+    },
+    {
+      "id": "course80-audio-0477",
+      "text": "suchen",
+      "kind": "course-lexeme",
+      "file": "rq031_course.mp3",
+      "source_start": 44.692,
+      "source_end": 45.490427,
+      "speech_start": 44.772,
+      "speech_end": 45.370427,
+      "sha256": "959a85463d4248cf711a5c8441d8343f7f174b3dcb59a865900c66e4cc5d9bae",
+      "duration": 0.835918,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "suchen,",
+        "isolated_asr": "Suchen",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0478",
+      "text": "mich",
+      "kind": "course-lexeme",
+      "file": "rq032_course.mp3",
+      "source_start": 45.7041,
+      "source_end": 46.400632,
+      "speech_start": 45.7841,
+      "speech_end": 46.280632,
+      "sha256": "14b1ad6a252883ae906041a793a89934e714e5890d8780053ff12e7690c0b98f",
+      "duration": 0.731429,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "mich,",
+        "isolated_asr": "mich.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0479",
+      "text": "dich",
+      "kind": "course-lexeme",
+      "file": "rq033_course.mp3",
+      "source_start": 46.5885,
+      "source_end": 47.235803,
+      "speech_start": 46.6685,
+      "speech_end": 47.115803,
+      "sha256": "a9f8fd0625f84585665bdf16135c007da41ac32f5837e74344ef78bd81f30391",
+      "duration": 0.679184,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "dich,",
+        "isolated_asr": "dich",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0480",
+      "text": "ihn",
+      "kind": "course-lexeme",
+      "file": "rq034_course.mp3",
+      "source_start": 47.449,
+      "source_end": 48.0747,
+      "speech_start": 47.529,
+      "speech_end": 47.9547,
+      "sha256": "431624ad6ac3846cfcaa12071d64a4096ccef0e3df62070eb9e9419b4eaf4fb5",
+      "duration": 0.653061,
+      "verification": {
+        "status": "exact-full",
+        "aligned_asr": "ihn,",
+        "isolated_asr": "In",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized",
+        "medium_asr": "in"
+      }
+    },
+    {
+      "id": "course80-audio-0481",
+      "text": "uns",
+      "kind": "course-lexeme",
+      "file": "rq035_course.mp3",
+      "source_start": 48.2786,
+      "source_end": 49.014145,
+      "speech_start": 48.3586,
+      "speech_end": 48.894145,
+      "sha256": "e89c87c8994658423f1b4a6d3e910f2dec868619b737517a7ca3f7878535ca40",
+      "duration": 0.783673,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "uns,",
+        "isolated_asr": "uns.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0482",
+      "text": "euch",
+      "kind": "course-lexeme",
+      "file": "rq036_course.mp3",
+      "source_start": 49.118,
+      "source_end": 49.834952,
+      "speech_start": 49.198,
+      "speech_end": 49.714952,
+      "sha256": "9bab156b0cd26a0f4ccc4aa675aac56d4d6c6ef50f0132ddcceb59530bebe00e",
+      "duration": 0.757551,
+      "verification": {
+        "status": "exact-medium",
+        "aligned_asr": "euch,",
+        "isolated_asr": "Oisch.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized",
+        "medium_asr": "euch."
+      }
+    },
+    {
+      "id": "course80-audio-0483",
+      "text": "mögen",
+      "kind": "course-lexeme",
+      "file": "rq037_course.mp3",
+      "source_start": 49.9457,
+      "source_end": 50.695865,
+      "speech_start": 50.0257,
+      "speech_end": 50.575865,
+      "sha256": "8a21c7822056097f87030e1d5f34295cd61d0ac915adf7c6cc010ddf1afdbbb3",
+      "duration": 0.783673,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "mögen,",
+        "isolated_asr": "mögen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0484",
+      "text": "gern",
+      "kind": "course-lexeme",
+      "file": "rq038_course.mp3",
+      "source_start": 50.8804,
+      "source_end": 51.514082,
+      "speech_start": 50.9604,
+      "speech_end": 51.394082,
+      "sha256": "15537696e8243b6d018bfe23276834ebaac2f6d49698758e6378aa9c2ada99ce",
+      "duration": 0.679184,
+      "verification": {
+        "status": "exact-medium",
+        "aligned_asr": "gern,",
+        "isolated_asr": "GAM",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized",
+        "medium_asr": "Gern!"
+      }
+    },
+    {
+      "id": "course80-audio-0485",
+      "text": "die Musik",
+      "kind": "course-lexeme",
+      "file": "rq039_course.mp3",
+      "source_start": 51.7061,
+      "source_end": 52.600007,
+      "speech_start": 51.7861,
+      "speech_end": 52.480007,
+      "sha256": "ff7e70b409f3277444b232ca84e5fb6d508bfed87820d7e09c18e894210e9ed9",
+      "duration": 0.940408,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Musik,",
+        "isolated_asr": "Die Musik.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0486",
+      "text": "der Sport",
+      "kind": "course-lexeme",
+      "file": "rq040_course.mp3",
+      "source_start": 52.7652,
+      "source_end": 53.727219,
+      "speech_start": 52.8452,
+      "speech_end": 53.607219,
+      "sha256": "c709846bd497b42d3855158a2013113965206b95ab5278a7b766cbed1caa2390",
+      "duration": 0.992653,
+      "verification": {
+        "status": "exact-medium",
+        "aligned_asr": "der Sport,",
+        "isolated_asr": "Er sport.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized",
+        "medium_asr": "der Sport."
+      }
+    },
+    {
+      "id": "course80-audio-0487",
+      "text": "der Zucker",
+      "kind": "course-lexeme",
+      "file": "rq041_course.mp3",
+      "source_start": 53.8696,
+      "source_end": 54.731804,
+      "speech_start": 53.9496,
+      "speech_end": 54.611804,
+      "sha256": "22fe66c0846b9396a92ccb181808144b0442e3099e35f425227cb666dc8b53b5",
+      "duration": 0.914286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Zucker,",
+        "isolated_asr": "der Zucker.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0488",
+      "text": "die Rechnung",
+      "kind": "course-lexeme",
+      "file": "rq042_course.mp3",
+      "source_start": 54.8794,
+      "source_end": 55.793835,
+      "speech_start": 54.9594,
+      "speech_end": 55.673835,
+      "sha256": "3ec42fc37d0596e6361822d1a041b2795a98c7eedecf23ea3e12977320cb9b9b",
+      "duration": 0.966531,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Rechnung,",
+        "isolated_asr": "Die Rechnung",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0489",
+      "text": "das Café",
+      "kind": "course-lexeme",
+      "file": "rq043_course.mp3",
+      "source_start": 55.9371,
+      "source_end": 56.900107,
+      "speech_start": 56.0171,
+      "speech_end": 56.780107,
+      "sha256": "e9609f83d0fc9e68d4d69c7402055acbf8537e93303dcdbdcf9fa42ca1a337ab",
+      "duration": 0.992653,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "das Café,",
+        "isolated_asr": "Das Café.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0490",
+      "text": "schwimmen",
+      "kind": "course-lexeme",
+      "file": "rq044_course.mp3",
+      "source_start": 56.9731,
+      "source_end": 57.802568,
+      "speech_start": 57.0531,
+      "speech_end": 57.682568,
+      "sha256": "8bcaefb51f3402153f0bd663e39bf55c0139081d069381fbc9a94694b76acad4",
+      "duration": 0.862041,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "schwimmen,",
+        "isolated_asr": "schwimmen",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0491",
+      "text": "sollen",
+      "kind": "course-lexeme",
+      "file": "rq045_course.mp3",
+      "source_start": 57.9225,
+      "source_end": 58.69309,
+      "speech_start": 58.0025,
+      "speech_end": 58.57309,
+      "sha256": "b36375d7e30194ce024dab37877612beb9fdead09c60287b06f6e8ba9c281e3a",
+      "duration": 0.809796,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "sollen,",
+        "isolated_asr": "sollen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0492",
+      "text": "warten",
+      "kind": "course-lexeme",
+      "file": "rq046_course.mp3",
+      "source_start": 58.8269,
+      "source_end": 59.646504,
+      "speech_start": 58.9069,
+      "speech_end": 59.526504,
+      "sha256": "f4af520e7596bd976dcce8b65cf65d8ae8cfa4efa18d9e39847b2084900274dd",
+      "duration": 0.862041,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "warten,",
+        "isolated_asr": "warten",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0493",
+      "text": "möchten",
+      "kind": "course-lexeme",
+      "file": "rq047_course.mp3",
+      "source_start": 59.7441,
+      "source_end": 60.548419,
+      "speech_start": 59.8241,
+      "speech_end": 60.428419,
+      "sha256": "15f44237ffdd4c239f01d3341b3e4ec444e0b069744e5601d791353bbd1e6555",
+      "duration": 0.835918,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "möchten,",
+        "isolated_asr": "möchten.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0494",
+      "text": "reisen",
+      "kind": "course-lexeme",
+      "file": "rq048_course.mp3",
+      "source_start": 60.6369,
+      "source_end": 61.484136,
+      "speech_start": 60.7169,
+      "speech_end": 61.364136,
+      "sha256": "e789e39512b1a152f2d226428104ed64b01f81d708d071dd311bfab333d94b10",
+      "duration": 0.888163,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "reisen,",
+        "isolated_asr": "Reisen!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0495",
+      "text": "dürfen",
+      "kind": "course-lexeme",
+      "file": "rq049_course.mp3",
+      "source_start": 61.5679,
+      "source_end": 62.310552,
+      "speech_start": 61.6479,
+      "speech_end": 62.190552,
+      "sha256": "12d179b7e53569b314b8a4a897c28dd3c56194da33e8e3130cfc62d8062ebe5c",
+      "duration": 0.783673,
+      "verification": {
+        "status": "exact-medium",
+        "aligned_asr": "dürfen,",
+        "isolated_asr": "Durfen",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized",
+        "medium_asr": "dürfen"
+      }
+    },
+    {
+      "id": "course80-audio-0496",
+      "text": "rauchen",
+      "kind": "course-lexeme",
+      "file": "rq050_course.mp3",
+      "source_start": 62.3613,
+      "source_end": 63.194613,
+      "speech_start": 62.4413,
+      "speech_end": 63.074613,
+      "sha256": "920957930405edc760ea4bb7b5b4de7b9824b7122e4f43e45e994ad5a9c7c7c3",
+      "duration": 0.862041,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "rauchen,",
+        "isolated_asr": "Rauchen",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0497",
+      "text": "langsam",
+      "kind": "course-lexeme",
+      "file": "rq051_course.mp3",
+      "source_start": 63.2462,
+      "source_end": 64.172563,
+      "speech_start": 63.3262,
+      "speech_end": 64.052563,
+      "sha256": "6906dc4b30de8d371784b6db1606573254f2c720b0a44b0b91e8c9cbf5f9f743",
+      "duration": 0.966531,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "langsam,",
+        "isolated_asr": "Langsam.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0498",
+      "text": "leise",
+      "kind": "course-lexeme",
+      "file": "rq052_course.mp3",
+      "source_start": 64.2283,
+      "source_end": 65.042796,
+      "speech_start": 64.3083,
+      "speech_end": 64.922796,
+      "sha256": "0441b7e6890dc9447528d70f2aba4141bba3f67f24799c664a22b11c4be8b8c0",
+      "duration": 0.862041,
+      "verification": {
+        "status": "exact-medium",
+        "aligned_asr": "leise,",
+        "isolated_asr": "Leiser.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized",
+        "medium_asr": "Leise"
+      }
+    },
+    {
+      "id": "course80-audio-0499",
+      "text": "antworten",
+      "kind": "course-lexeme",
+      "file": "rq053_course.mp3",
+      "source_start": 65.0969,
+      "source_end": 66.035377,
+      "speech_start": 65.1769,
+      "speech_end": 65.915377,
+      "sha256": "9b3cd9ffa57b027c364273d1e121119290dae59019e0a279ee7468e6e405fdf4",
+      "duration": 0.966531,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "antworten,",
+        "isolated_asr": "Antworten.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0500",
+      "text": "mir",
+      "kind": "course-lexeme",
+      "file": "rq054_course.mp3",
+      "source_start": 66.0793,
+      "source_end": 66.746362,
+      "speech_start": 66.1593,
+      "speech_end": 66.626362,
+      "sha256": "0a3b46e032199616ccf10e28281e6106e0412952f8e64a50329919ec444cc4e1",
+      "duration": 0.705306,
+      "verification": {
+        "status": "exact-medium",
+        "aligned_asr": "mir,",
+        "isolated_asr": "Mia",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized",
+        "medium_asr": "mir"
+      }
+    },
+    {
+      "id": "course80-audio-0501",
+      "text": "dir",
+      "kind": "course-lexeme",
+      "file": "rq055_course.mp3",
+      "source_start": 66.8338,
+      "source_end": 67.42639,
+      "speech_start": 66.9138,
+      "speech_end": 67.30639,
+      "sha256": "b3cf3598732600586f11d2c419b68731d3232a20c5f8bc8f3c2f404c96bf7744",
+      "duration": 0.626939,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "dir,",
+        "isolated_asr": "dir.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0502",
+      "text": "ihm",
+      "kind": "course-lexeme",
+      "file": "rq056_course.mp3",
+      "source_start": 67.5041,
+      "source_end": 68.14619,
+      "speech_start": 67.5841,
+      "speech_end": 68.026779,
+      "sha256": "193584c08b90ff58310602159c40f16b11d2b2038f6c7dc1eef6a346b7247d6e",
+      "duration": 0.679184,
+      "verification": {
+        "status": "exact-full",
+        "aligned_asr": "ihm,",
+        "isolated_asr": "Im",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0503",
+      "text": "ihnen",
+      "kind": "course-lexeme",
+      "file": "rq057_course.mp3",
+      "source_start": 68.1856,
+      "source_end": 68.862445,
+      "speech_start": 68.2656,
+      "speech_end": 68.756889,
+      "sha256": "14dbfeb472fe88af810f703177a87e635628062a013645f10a3f32a4c1a8a74a",
+      "duration": 0.705306,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "ihnen,",
+        "isolated_asr": "Ihnen",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0504",
+      "text": "zeigen",
+      "kind": "course-lexeme",
+      "file": "rq058_course.mp3",
+      "source_start": 68.888,
+      "source_end": 69.672922,
+      "speech_start": 68.968,
+      "speech_end": 69.564543,
+      "sha256": "094354a37077b24dd573c3bd65eb0d4d7ff60cd59a2ef41e061af22f93b4e7ff",
+      "duration": 0.835918,
+      "verification": {
+        "status": "exact-full",
+        "aligned_asr": "zeigen,",
+        "isolated_asr": "Zeiten.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized",
+        "medium_asr": "Zeiten",
+        "context_check": {
+          "n": 58,
+          "source_start": 67.08800000000001,
+          "source_end": 71.472922,
+          "recognized": "ihm, ihnen, zeigen, schenken, das Geschenk."
+        }
+      }
+    },
+    {
+      "id": "course80-audio-0505",
+      "text": "schenken",
+      "kind": "course-lexeme",
+      "file": "rq059_course.mp3",
+      "source_start": 69.7013,
+      "source_end": 70.550728,
+      "speech_start": 69.7813,
+      "speech_end": 70.430728,
+      "sha256": "0ff9cb4d364917215780fd5ed523d4d857ec867500c44e30a9c60119565289cc",
+      "duration": 0.888163,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "schenken,",
+        "isolated_asr": "Schenken.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0506",
+      "text": "das Geschenk",
+      "kind": "course-lexeme",
+      "file": "rq060_course.mp3",
+      "source_start": 70.6271,
+      "source_end": 71.619205,
+      "speech_start": 70.7071,
+      "speech_end": 71.499205,
+      "sha256": "824230c9496a4e113f1417037223630f5e97ebe20dc34859ae0e83e28f591366",
+      "duration": 1.018776,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "das Geschenk,",
+        "isolated_asr": "Das Geschenk.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0507",
+      "text": "der Ball",
+      "kind": "course-lexeme",
+      "file": "rq061_course.mp3",
+      "source_start": 71.6795,
+      "source_end": 72.452571,
+      "speech_start": 71.7595,
+      "speech_end": 72.332571,
+      "sha256": "f2c05c21e6b39b9f4b53003edbc2cbee8602b83b77ded9fd5acbdd523874ad0a",
+      "duration": 0.809796,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Ball,",
+        "isolated_asr": "Der Ball.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0508",
+      "text": "das Bild",
+      "kind": "course-lexeme",
+      "file": "rq062_course.mp3",
+      "source_start": 72.4979,
+      "source_end": 73.407147,
+      "speech_start": 72.5779,
+      "speech_end": 73.300593,
+      "sha256": "754329da170625781ee6f1c51712dd23999c976fa0eff1ef7c7402c10573d63b",
+      "duration": 0.940408,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "das Bild,",
+        "isolated_asr": "Das Bild.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0509",
+      "text": "zu",
+      "kind": "course-lexeme",
+      "file": "rq063_course.mp3",
+      "source_start": 73.4337,
+      "source_end": 74.046216,
+      "speech_start": 73.5137,
+      "speech_end": 73.955933,
+      "sha256": "d8f581fd5d204cc29266107e02e6951b27db063a89dd20030482cd21911f1436",
+      "duration": 0.653061,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "zu,",
+        "isolated_asr": "zu",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0510",
+      "text": "von",
+      "kind": "course-lexeme",
+      "file": "rq064_course.mp3",
+      "source_start": 74.0565,
+      "source_end": 74.760655,
+      "speech_start": 74.1365,
+      "speech_end": 74.640655,
+      "sha256": "d9b98e6eb6be68715213ec047405639a9157178885f5b8dd2bdc2253329b730e",
+      "duration": 0.731429,
+      "verification": {
+        "status": "exact-full",
+        "aligned_asr": "von,",
+        "isolated_asr": "Fun!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized",
+        "medium_asr": "Fun",
+        "context_check": {
+          "n": 64,
+          "source_start": 72.2565,
+          "source_end": 76.560655,
+          "recognized": "Das Bild zu, von, bei, nach."
+        }
+      }
+    },
+    {
+      "id": "course80-audio-0511",
+      "text": "bei",
+      "kind": "course-lexeme",
+      "file": "rq065_course.mp3",
+      "source_start": 74.8407,
+      "source_end": 75.41315,
+      "speech_start": 74.9207,
+      "speech_end": 75.308399,
+      "sha256": "ae7cc890740dce2ab93b9e2f5ad118d94477dc6bbc65a9f5faeb2b708af06ee3",
+      "duration": 0.600816,
+      "verification": {
+        "status": "exact-full",
+        "aligned_asr": "bei,",
+        "isolated_asr": "Bye!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized",
+        "medium_asr": "Bye!",
+        "context_check": {
+          "n": 65,
+          "source_start": 73.0407,
+          "source_end": 77.21315,
+          "recognized": "zu, von, bei, nach, der Arzt."
+        }
+      }
+    },
+    {
+      "id": "course80-audio-0512",
+      "text": "nach",
+      "kind": "course-lexeme",
+      "file": "rq066_course.mp3",
+      "source_start": 75.4379,
+      "source_end": 76.188561,
+      "speech_start": 75.5179,
+      "speech_end": 76.081622,
+      "sha256": "77f9f6250e12741af22e8283fa371d05c22f85672300427465cc3ba36801b7f9",
+      "duration": 0.783673,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "nach,",
+        "isolated_asr": "Nach",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0513",
+      "text": "der Arzt",
+      "kind": "course-lexeme",
+      "file": "rq067_course.mp3",
+      "source_start": 76.2155,
+      "source_end": 77.1594,
+      "speech_start": 76.2955,
+      "speech_end": 77.0744,
+      "sha256": "13b696dcce458d983eb1d4fdadf4204a424efd1d342081e26e7a6fa189cbbcc1",
+      "duration": 0.992653,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Arzt,",
+        "isolated_asr": "Der Arzt.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0514",
+      "text": "für",
+      "kind": "course-lexeme",
+      "file": "rq068_course.mp3",
+      "source_start": 77.1644,
+      "source_end": 77.858862,
+      "speech_start": 77.2444,
+      "speech_end": 77.743624,
+      "sha256": "17020eba6e30c8b0909485d97026c6972ed62e3caa0dab95f12855c35f660064",
+      "duration": 0.731429,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "für,",
+        "isolated_asr": "Für",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0515",
+      "text": "gegen",
+      "kind": "course-lexeme",
+      "file": "rq069_course.mp3",
+      "source_start": 77.8941,
+      "source_end": 78.551695,
+      "speech_start": 77.9741,
+      "speech_end": 78.44589,
+      "sha256": "f510aa8b18f06897396ea9e3c2d1137d846bd9efa491f3a21f590a644725ad8b",
+      "duration": 0.705306,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "gegen,",
+        "isolated_asr": "gegen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0516",
+      "text": "durch",
+      "kind": "course-lexeme",
+      "file": "rq070_course.mp3",
+      "source_start": 78.5775,
+      "source_end": 79.29132,
+      "speech_start": 78.6575,
+      "speech_end": 79.18844,
+      "sha256": "239a8f6c29ab2a31dcca1490ea1ab2295b7dfc63a216ac885768ef60107fbc1c",
+      "duration": 0.757551,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "durch,",
+        "isolated_asr": "durch.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0517",
+      "text": "um",
+      "kind": "course-lexeme",
+      "file": "rq071_course.mp3",
+      "source_start": 79.3142,
+      "source_end": 79.845307,
+      "speech_start": 79.3942,
+      "speech_end": 79.725307,
+      "sha256": "c3b3fd9d7af79f0973b2b07e8eaedbc2c36e08a0b42ce89492403d57d1368c54",
+      "duration": 0.574694,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "um,",
+        "isolated_asr": "Um.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0518",
+      "text": "die Tasche",
+      "kind": "course-lexeme",
+      "file": "rq072_course.mp3",
+      "source_start": 79.8905,
+      "source_end": 80.717488,
+      "speech_start": 79.9705,
+      "speech_end": 80.602975,
+      "sha256": "fd14965c866cd8c84383275a49a8863e21ad1798f5bf04965f046a65cdbbd0fe",
+      "duration": 0.862041,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Tasche,",
+        "isolated_asr": "die Tasche",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0519",
+      "text": "tausend",
+      "kind": "course-lexeme",
+      "file": "rq073_course.mp3",
+      "source_start": 80.752,
+      "source_end": 81.615195,
+      "speech_start": 80.832,
+      "speech_end": 81.521091,
+      "sha256": "247dbefc6ac05c01274e6987ddf4417a29dc02b91fffaa634ecbe06b0ac0f58c",
+      "duration": 0.914286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "tausend,",
+        "isolated_asr": "Tausend.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0520",
+      "text": "kosten",
+      "kind": "course-lexeme",
+      "file": "rq074_course.mp3",
+      "source_start": 81.6293,
+      "source_end": 82.418369,
+      "speech_start": 81.7093,
+      "speech_end": 82.306237,
+      "sha256": "a70d9e418dd3afaee972f9ec31b53d588dc80fdd862771199d0558fb21ddfcc9",
+      "duration": 0.835918,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "kosten,",
+        "isolated_asr": "Kosten.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0521",
+      "text": "der Euro",
+      "kind": "course-lexeme",
+      "file": "rq075_course.mp3",
+      "source_start": 82.4505,
+      "source_end": 83.357569,
+      "speech_start": 82.5305,
+      "speech_end": 83.237569,
+      "sha256": "581daedf36e3e57ed211c4d7e803046860d0799e2acc1cfa261b01b4b730c218",
+      "duration": 0.940408,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Euro,",
+        "isolated_asr": "der Euro.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0522",
+      "text": "der Cent",
+      "kind": "course-lexeme",
+      "file": "rq076_course.mp3",
+      "source_start": 83.398,
+      "source_end": 84.28454,
+      "speech_start": 83.478,
+      "speech_end": 84.182681,
+      "sha256": "65ed09e5cedc51de32b30957f6c55e22b86b4a2a16f1f8d8eedeacc66539dadb",
+      "duration": 0.914286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Cent,",
+        "isolated_asr": "der Cent.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0523",
+      "text": "der Mensch",
+      "kind": "course-lexeme",
+      "file": "rq077_course.mp3",
+      "source_start": 84.3064,
+      "source_end": 85.170797,
+      "speech_start": 84.3864,
+      "speech_end": 85.076194,
+      "sha256": "28f2c1081fff330e9330c9588b133ff1dee40b9e009630bcbf6b641a3bee8134",
+      "duration": 0.914286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Mensch,",
+        "isolated_asr": "Der Mensch.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0524",
+      "text": "die Uhr",
+      "kind": "course-lexeme",
+      "file": "rq078_course.mp3",
+      "source_start": 85.1854,
+      "source_end": 85.966249,
+      "speech_start": 85.2654,
+      "speech_end": 85.860897,
+      "sha256": "b7e31bd8037b041cb0e6d99d376af2575afe7f77b564804cfc5eabadeea894e1",
+      "duration": 0.809796,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Uhr,",
+        "isolated_asr": "Die Uhr.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0525",
+      "text": "halb",
+      "kind": "course-lexeme",
+      "file": "rq079_course.mp3",
+      "source_start": 85.9916,
+      "source_end": 86.65384,
+      "speech_start": 86.0716,
+      "speech_end": 86.53384,
+      "sha256": "1baeb57ef6095543e21c83c7327ce46ea96301bcbc85e9da3b74398edbc19055",
+      "duration": 0.705306,
+      "verification": {
+        "status": "exact-medium",
+        "aligned_asr": "Halb",
+        "isolated_asr": "Help!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized",
+        "medium_asr": "halb"
+      }
+    },
+    {
+      "id": "course80-audio-0526",
+      "text": "der Montag",
+      "kind": "course-lexeme",
+      "file": "rq080_course.mp3",
+      "source_start": 86.6974,
+      "source_end": 87.710612,
+      "speech_start": 86.7774,
+      "speech_end": 87.604025,
+      "sha256": "f3edae2dc9ea749886edcba619abd21676a75671da82b98b1d465bfe58596643",
+      "duration": 1.044898,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Montag,",
+        "isolated_asr": "Der Montag",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0527",
+      "text": "der Mai",
+      "kind": "course-lexeme",
+      "file": "rq081_course.mp3",
+      "source_start": 87.7372,
+      "source_end": 88.504332,
+      "speech_start": 87.8172,
+      "speech_end": 88.391463,
+      "sha256": "5965ed795fc2d7b39676d5eae058594bc83ba2ae32af93c407cb7c90105c9726",
+      "duration": 0.809796,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Mai,",
+        "isolated_asr": "Der Mai.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0528",
+      "text": "der Geburtstag",
+      "kind": "course-lexeme",
+      "file": "rq082_course.mp3",
+      "source_start": 88.5372,
+      "source_end": 89.694307,
+      "speech_start": 88.6172,
+      "speech_end": 89.580214,
+      "sha256": "edaff1f7c43d96320ccbe36843bf5f129c4b1e1fef80e983ee9bc4d075fa3120",
+      "duration": 1.201633,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Geburtstag,",
+        "isolated_asr": "Der Geburtstag.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0529",
+      "text": "der Termin",
+      "kind": "course-lexeme",
+      "file": "rq083_course.mp3",
+      "source_start": 89.7284,
+      "source_end": 90.682541,
+      "speech_start": 89.8084,
+      "speech_end": 90.562541,
+      "sha256": "12b9382044fb2fc7c84e195b4ce9290f6556a148d4a970f0d6fd4a93c6359d62",
+      "duration": 0.992653,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Termin,",
+        "isolated_asr": "Der Termin.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0530",
+      "text": "auf",
+      "kind": "course-lexeme",
+      "file": "rq084_course.mp3",
+      "source_start": 90.7488,
+      "source_end": 91.441913,
+      "speech_start": 90.8288,
+      "speech_end": 91.329226,
+      "sha256": "e72f99b161ee6610dd41d9d5d7c44cd11316ec9bc3ae0d483ea8171eb280b2bc",
+      "duration": 0.731429,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "auf,",
+        "isolated_asr": "Auf!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0531",
+      "text": "unter",
+      "kind": "course-lexeme",
+      "file": "rq085_course.mp3",
+      "source_start": 91.4746,
+      "source_end": 92.127114,
+      "speech_start": 91.5546,
+      "speech_end": 92.012227,
+      "sha256": "a06fde951016269aa21055a9ecd5036516999f56c2bb2f73b701c04458c29ad6",
+      "duration": 0.679184,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "unter,",
+        "isolated_asr": "Unter",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0532",
+      "text": "neben",
+      "kind": "course-lexeme",
+      "file": "rq086_course.mp3",
+      "source_start": 92.162,
+      "source_end": 92.922003,
+      "speech_start": 92.242,
+      "speech_end": 92.806606,
+      "sha256": "e23932a79def9b63e1f59e319e2d492b078376b275973e8e4bd36a8e0d29244b",
+      "duration": 0.809796,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "neben,",
+        "isolated_asr": "Neben",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0533",
+      "text": "die Wand",
+      "kind": "course-lexeme",
+      "file": "rq087_course.mp3",
+      "source_start": 92.9574,
+      "source_end": 93.73057,
+      "speech_start": 93.0374,
+      "speech_end": 93.65184,
+      "sha256": "086e2d05e12ff252591b9119e7e685ca085ffa0031476ed9c2c8538e67fbda72",
+      "duration": 0.809796,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Wand,",
+        "isolated_asr": "Die Wand.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0534",
+      "text": "stehen",
+      "kind": "course-lexeme",
+      "file": "rq088_course.mp3",
+      "source_start": 93.73057,
+      "source_end": 94.52423,
+      "speech_start": 93.8093,
+      "speech_end": 94.42406,
+      "sha256": "ddc42816dd2d652c5945d131c081d465cf24e4baf20fc1321e3ae778ceb4655d",
+      "duration": 0.835918,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "stehen,",
+        "isolated_asr": "stehen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0535",
+      "text": "liegen",
+      "kind": "course-lexeme",
+      "file": "rq089_course.mp3",
+      "source_start": 94.5444,
+      "source_end": 95.288521,
+      "speech_start": 94.6244,
+      "speech_end": 95.191242,
+      "sha256": "6a001f498f26bd8670adff598db61067de9aa0268208460dc07664060da15b80",
+      "duration": 0.783673,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "liegen,",
+        "isolated_asr": "liegen",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0536",
+      "text": "laufen",
+      "kind": "course-lexeme",
+      "file": "rq090_course.mp3",
+      "source_start": 95.3058,
+      "source_end": 96.101396,
+      "speech_start": 95.3858,
+      "speech_end": 95.998993,
+      "sha256": "9fb823f974db14265a9b576b34d2a193d3bc22ada1a0b425fee76db7869be091",
+      "duration": 0.835918,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "laufen,",
+        "isolated_asr": "laufen",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0537",
+      "text": "hängen",
+      "kind": "course-lexeme",
+      "file": "rq091_course.mp3",
+      "source_start": 96.1238,
+      "source_end": 96.763624,
+      "speech_start": 96.2038,
+      "speech_end": 96.692048,
+      "sha256": "80c28aa7e53e7e6ecc1c2e4f4dbcb8ab7a15317063f04b040c66878a69a6f7a2",
+      "duration": 0.679184,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "hängen,",
+        "isolated_asr": "Hängen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0538",
+      "text": "stellen",
+      "kind": "course-lexeme",
+      "file": "rq092_course.mp3",
+      "source_start": 96.763624,
+      "source_end": 97.564542,
+      "speech_start": 96.8352,
+      "speech_end": 97.469383,
+      "sha256": "1d45a1cc7ad83a00e48c199556195cf25eb11f39e6abd04ceff4ce28405d9c09",
+      "duration": 0.835918,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "stellen,",
+        "isolated_asr": "Stellen",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0539",
+      "text": "legen",
+      "kind": "course-lexeme",
+      "file": "rq093_course.mp3",
+      "source_start": 97.5797,
+      "source_end": 98.330689,
+      "speech_start": 97.6597,
+      "speech_end": 98.213478,
+      "sha256": "eda35c1390c24ec164fa85312d1860290d8e487424c331f1666433efb87561dd",
+      "duration": 0.783673,
+      "verification": {
+        "status": "exact-medium",
+        "aligned_asr": "legen,",
+        "isolated_asr": "liegen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized",
+        "medium_asr": "legen"
+      }
+    },
+    {
+      "id": "course80-audio-0540",
+      "text": "der Garten",
+      "kind": "course-lexeme",
+      "file": "rq094_course.mp3",
+      "source_start": 98.3679,
+      "source_end": 99.258734,
+      "speech_start": 98.4479,
+      "speech_end": 99.160967,
+      "sha256": "19add611fc93d6049e8342026223fe3749f198b298225ac5be94f73415d2b129",
+      "duration": 0.940408,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Garten,",
+        "isolated_asr": "der Garten.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0541",
+      "text": "links",
+      "kind": "course-lexeme",
+      "file": "rq095_course.mp3",
+      "source_start": 99.2765,
+      "source_end": 99.99239,
+      "speech_start": 99.3565,
+      "speech_end": 99.91078,
+      "sha256": "8780a6589f2880c870e822baf154b8e99f616221b305ede4a7097f47d47356bb",
+      "duration": 0.757551,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "links,",
+        "isolated_asr": "Links.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0542",
+      "text": "rechts",
+      "kind": "course-lexeme",
+      "file": "rq096_course.mp3",
+      "source_start": 99.994,
+      "source_end": 100.793088,
+      "speech_start": 100.074,
+      "speech_end": 100.709177,
+      "sha256": "fb04a536667eb437eb3bb30b34a4eaece81e0c9e81611ee57de6d1eea94e1b49",
+      "duration": 0.835918,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "rechts,",
+        "isolated_asr": "Rechts.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0543",
+      "text": "geradeaus",
+      "kind": "course-lexeme",
+      "file": "rq097_course.mp3",
+      "source_start": 100.797,
+      "source_end": 101.893546,
+      "speech_start": 100.877,
+      "speech_end": 101.808093,
+      "sha256": "2a195abb26382a911163480306e67a617c38519f3986d7e8296115a83cee4476",
+      "duration": 1.123265,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "geradeaus,",
+        "isolated_asr": "Geradeaus.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0544",
+      "text": "der Norden",
+      "kind": "course-lexeme",
+      "file": "rq098_course.mp3",
+      "source_start": 101.899,
+      "source_end": 102.781828,
+      "speech_start": 101.979,
+      "speech_end": 102.687655,
+      "sha256": "50cb08a8e6c463d0139f9db78320687b3fa21450b80dbd9cf81f66c3a286a150",
+      "duration": 0.914286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Norden,",
+        "isolated_asr": "der Norden.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0545",
+      "text": "der Süden",
+      "kind": "course-lexeme",
+      "file": "rq099_course.mp3",
+      "source_start": 102.796,
+      "source_end": 103.651208,
+      "speech_start": 102.876,
+      "speech_end": 103.564417,
+      "sha256": "e9ca2ffb45c913c7dfc31a08308e5391de8e014df42660a3ea665fe0805033db",
+      "duration": 0.888163,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Süden,",
+        "isolated_asr": "der Süden.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0546",
+      "text": "der Osten",
+      "kind": "course-lexeme",
+      "file": "rq100_course.mp3",
+      "source_start": 103.658,
+      "source_end": 104.596946,
+      "speech_start": 103.738,
+      "speech_end": 104.500891,
+      "sha256": "fc67439bd053e6236c67f4aef2e5ab21e15041e78e803581255993042f61e3fd",
+      "duration": 0.966531,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Osten,",
+        "isolated_asr": "der Osten.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0547",
+      "text": "der Westen",
+      "kind": "course-lexeme",
+      "file": "rq101_course.mp3",
+      "source_start": 104.613,
+      "source_end": 105.530633,
+      "speech_start": 104.693,
+      "speech_end": 105.410633,
+      "sha256": "d191325aafb734456524c50bc47640b23b315a6083fdd45af85e964633e9f3c1",
+      "duration": 0.966531,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Westen,",
+        "isolated_asr": "der Westen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0548",
+      "text": "aufstehen",
+      "kind": "course-lexeme",
+      "file": "rq102_course.mp3",
+      "source_start": 105.589,
+      "source_end": 106.490075,
+      "speech_start": 105.669,
+      "speech_end": 106.39715,
+      "sha256": "d5926c1b6702f6d26e85a9e7815df5f4d6545686c07f793a79d196af056702ba",
+      "duration": 0.940408,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "aufstehen,",
+        "isolated_asr": "Aufstehen!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0549",
+      "text": "anrufen",
+      "kind": "course-lexeme",
+      "file": "rq103_course.mp3",
+      "source_start": 106.503,
+      "source_end": 107.40329,
+      "speech_start": 106.583,
+      "speech_end": 107.30058,
+      "sha256": "fc224a1d0cccfcd0be7c045b0d9a1cc9fe8162c228432edb9859017a64bb2e23",
+      "duration": 0.940408,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "anrufen,",
+        "isolated_asr": "Anrufen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0550",
+      "text": "einkaufen",
+      "kind": "course-lexeme",
+      "file": "rq104_course.mp3",
+      "source_start": 107.426,
+      "source_end": 108.37383,
+      "speech_start": 107.506,
+      "speech_end": 108.28366,
+      "sha256": "6825a52ebf60cbf090d9163b6f0460f893e3009b8d1b22ad88fe15d83c9ceab6",
+      "duration": 0.992653,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "einkaufen,",
+        "isolated_asr": "Einkaufen",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0551",
+      "text": "aufmachen",
+      "kind": "course-lexeme",
+      "file": "rq105_course.mp3",
+      "source_start": 108.384,
+      "source_end": 109.255939,
+      "speech_start": 108.464,
+      "speech_end": 109.162878,
+      "sha256": "c2cbfc53aa55f7292fba27af9b1f2d2c0ed275a365b7411e2ed0709cbec5a829",
+      "duration": 0.914286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "aufmachen,",
+        "isolated_asr": "Aufmachen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0552",
+      "text": "mitkommen",
+      "kind": "course-lexeme",
+      "file": "rq106_course.mp3",
+      "source_start": 109.269,
+      "source_end": 110.096191,
+      "speech_start": 109.349,
+      "speech_end": 110.012381,
+      "sha256": "dee111e1baa9d0f2388235dec3a262dc1f8673fa31e6f937b994ad8c44de49f2",
+      "duration": 0.862041,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "mitkommen,",
+        "isolated_asr": "Mitkommen!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0553",
+      "text": "zurückkommen",
+      "kind": "course-lexeme",
+      "file": "rq107_course.mp3",
+      "source_start": 110.1,
+      "source_end": 111.102519,
+      "speech_start": 110.18,
+      "speech_end": 111.019039,
+      "sha256": "4c6b3f298cb388fe02d1eeb54c90ac868be478e969b2821ce5e6220562f098c1",
+      "duration": 1.044898,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "zurückkommen,",
+        "isolated_asr": "zurückkommen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0554",
+      "text": "verstehen",
+      "kind": "course-lexeme",
+      "file": "rq108_course.mp3",
+      "source_start": 111.106,
+      "source_end": 112.031801,
+      "speech_start": 111.186,
+      "speech_end": 111.934601,
+      "sha256": "12bd8c4caea29fa068245329e1a1010da0c50eab194a4d2572935f3683985d2a",
+      "duration": 0.966531,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "verstehen,",
+        "isolated_asr": "Verstehen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0555",
+      "text": "besuchen",
+      "kind": "course-lexeme",
+      "file": "rq109_course.mp3",
+      "source_start": 112.049,
+      "source_end": 112.884394,
+      "speech_start": 112.129,
+      "speech_end": 112.805789,
+      "sha256": "7049461fd6a0f0952c88dfb06d3295f062644d210213897e4e0ef629e4eb715e",
+      "duration": 0.862041,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "besuchen,",
+        "isolated_asr": "Besuchen!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0556",
+      "text": "erklären",
+      "kind": "course-lexeme",
+      "file": "rq110_course.mp3",
+      "source_start": 112.884394,
+      "source_end": 113.803576,
+      "speech_start": 112.963,
+      "speech_end": 113.715152,
+      "sha256": "7765003282654f31d66ef89480c71ce16dc953df2a902cdaf3ec5b39917cf82d",
+      "duration": 0.966531,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "erklären,",
+        "isolated_asr": "Erklären.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0557",
+      "text": "bezahlen",
+      "kind": "course-lexeme",
+      "file": "rq111_course.mp3",
+      "source_start": 113.812,
+      "source_end": 114.670086,
+      "speech_start": 113.892,
+      "speech_end": 114.602172,
+      "sha256": "3024863dfeea33f31e9e2ef4acedf646479e15f359b69a9025fe11aa9cb44e97",
+      "duration": 0.888163,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "bezahlen,",
+        "isolated_asr": "bezahlen",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0558",
+      "text": "telefonieren",
+      "kind": "course-lexeme",
+      "file": "rq112_course.mp3",
+      "source_start": 114.670086,
+      "source_end": 115.748012,
+      "speech_start": 114.738,
+      "speech_end": 115.683023,
+      "sha256": "34ebfc732d9568f3877bf4f9a913439c4a4fd01216e47efea60f6433af121013",
+      "duration": 1.123265,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "telefonieren.",
+        "isolated_asr": "Telefonieren.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0559",
+      "text": "studieren",
+      "kind": "course-lexeme",
+      "file": "rq113_course.mp3",
+      "source_start": 115.748012,
+      "source_end": 116.68275,
+      "speech_start": 115.813,
+      "speech_end": 116.602501,
+      "sha256": "46a9d271b2b1b338bc1cb411ac44167884284c87d0d0fbd0df678adff0f40de4",
+      "duration": 0.966531,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Studieren,",
+        "isolated_asr": "studieren",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0560",
+      "text": "das Wort",
+      "kind": "course-lexeme",
+      "file": "rq114_course.mp3",
+      "source_start": 116.683,
+      "source_end": 117.557635,
+      "speech_start": 116.763,
+      "speech_end": 117.46827,
+      "sha256": "fd36867e22065f2ca1a3e0d229c8fce7b6519aac96379a14a3177312a6186b06",
+      "duration": 0.914286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "das Wort,",
+        "isolated_asr": "Das Wort!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0561",
+      "text": "sich treffen",
+      "kind": "course-lexeme",
+      "file": "rq115_course.mp3",
+      "source_start": 117.567,
+      "source_end": 118.505789,
+      "speech_start": 117.647,
+      "speech_end": 118.438578,
+      "sha256": "e5520ee969fcdb7d600b85d8fa63d359083dd2f34a268ec93050f9ea9bf0c72a",
+      "duration": 0.966531,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "sich treffen,",
+        "isolated_asr": "sich treffen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0562",
+      "text": "sich freuen",
+      "kind": "course-lexeme",
+      "file": "rq116_course.mp3",
+      "source_start": 118.505789,
+      "source_end": 119.471055,
+      "speech_start": 118.573,
+      "speech_end": 119.397109,
+      "sha256": "3329f70b6ebd7e82f25bb9857025208a0af3ac8917bbd5f93e8e5942c225d4dc",
+      "duration": 0.992653,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "sich freuen,",
+        "isolated_asr": "sich freuen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0563",
+      "text": "sich waschen",
+      "kind": "course-lexeme",
+      "file": "rq117_course.mp3",
+      "source_start": 119.471055,
+      "source_end": 120.374374,
+      "speech_start": 119.545,
+      "speech_end": 120.304748,
+      "sha256": "53a9d8448183556e7f46e979d34ea89253cb941be1033e12fecdd14b4d15d813",
+      "duration": 0.940408,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "sich waschen,",
+        "isolated_asr": "sich waschen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0564",
+      "text": "die Hände",
+      "kind": "course-lexeme",
+      "file": "rq118_course.mp3",
+      "source_start": 120.374374,
+      "source_end": 121.15651,
+      "speech_start": 120.444,
+      "speech_end": 121.06202,
+      "sha256": "ebc7f0a28205692ea2da411c698e9c6c65d8f3f9b076dd334532055befa01cad",
+      "duration": 0.809796,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Hände,",
+        "isolated_asr": "die Hände.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0565",
+      "text": "oft",
+      "kind": "course-lexeme",
+      "file": "rq119_course.mp3",
+      "source_start": 121.171,
+      "source_end": 121.790261,
+      "speech_start": 121.251,
+      "speech_end": 121.720522,
+      "sha256": "63aecfa1fe3fd651a1638da96c4a855996e5007306f87e7d5edacd234120bfcd",
+      "duration": 0.653061,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "oft,",
+        "isolated_asr": "oft.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0566",
+      "text": "manchmal",
+      "kind": "course-lexeme",
+      "file": "rq120_course.mp3",
+      "source_start": 121.790261,
+      "source_end": 122.597356,
+      "speech_start": 121.86,
+      "speech_end": 122.520712,
+      "sha256": "e5c0c732da366e473065c092081263b04dbff489d768f1c670b6d8410d54a03f",
+      "duration": 0.835918,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "manchmal,",
+        "isolated_asr": "Manchmal.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0567",
+      "text": "selten",
+      "kind": "course-lexeme",
+      "file": "rq121_course.mp3",
+      "source_start": 122.597356,
+      "source_end": 123.37571,
+      "speech_start": 122.674,
+      "speech_end": 123.29842,
+      "sha256": "ef9b5eca928d7afc518bff5ee0c4abc86273dff6910ba75e439efba04416b924",
+      "duration": 0.809796,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "selten,",
+        "isolated_asr": "Selten.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0568",
+      "text": "morgens",
+      "kind": "course-lexeme",
+      "file": "rq122_course.mp3",
+      "source_start": 123.37571,
+      "source_end": 124.256728,
+      "speech_start": 123.453,
+      "speech_end": 124.191456,
+      "sha256": "9252c8bc3e02e2ca98ef09628ca4826b61fd6f651602713773ff9007ecc2906e",
+      "duration": 0.914286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "morgens,",
+        "isolated_asr": "Morgens.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0569",
+      "text": "abends",
+      "kind": "course-lexeme",
+      "file": "rq123_course.mp3",
+      "source_start": 124.256728,
+      "source_end": 125.024631,
+      "speech_start": 124.322,
+      "speech_end": 124.957261,
+      "sha256": "6e14c401a102daaaac1f6c27f4c24178e6da3433d6a734045f69c6a66ac418f1",
+      "duration": 0.809796,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "abends,",
+        "isolated_asr": "Abends.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0570",
+      "text": "zuerst",
+      "kind": "course-lexeme",
+      "file": "rq124_course.mp3",
+      "source_start": 125.024631,
+      "source_end": 125.898769,
+      "speech_start": 125.092,
+      "speech_end": 125.835537,
+      "sha256": "b80aad30787f00de669b3aee3931d4d864befb2f5499d09fd4cdc47216638d4f",
+      "duration": 0.914286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "zuerst,",
+        "isolated_asr": "Zuerst.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0571",
+      "text": "danach",
+      "kind": "course-lexeme",
+      "file": "rq125_course.mp3",
+      "source_start": 125.898769,
+      "source_end": 126.651224,
+      "speech_start": 125.962,
+      "speech_end": 126.567449,
+      "sha256": "684ba760f6c7f521e73264f46cff0ac87e134d30ea2f4b4d85ee0f55f9919c54",
+      "duration": 0.783673,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "danach,",
+        "isolated_asr": "Danach!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0572",
+      "text": "passen",
+      "kind": "course-lexeme",
+      "file": "rq126_course.mp3",
+      "source_start": 126.655,
+      "source_end": 127.307707,
+      "speech_start": 126.735,
+      "speech_end": 127.231415,
+      "sha256": "2e33c81919c5ef48491bc2043ed4df4492f7855e35a04a625d2b619e9179b5ac",
+      "duration": 0.679184,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "passen,",
+        "isolated_asr": "passen",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0573",
+      "text": "leider",
+      "kind": "course-lexeme",
+      "file": "rq127_course.mp3",
+      "source_start": 127.307707,
+      "source_end": 128.026792,
+      "speech_start": 127.384,
+      "speech_end": 127.933583,
+      "sha256": "3bb88d6d2c74d252c8a521af904e7598cea3c17130b316ac75f3506f2f117083",
+      "duration": 0.757551,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "leider.",
+        "isolated_asr": "Leider.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0574",
+      "text": "der Samstag",
+      "kind": "course-lexeme",
+      "file": "rq128_course.mp3",
+      "source_start": 128.04,
+      "source_end": 128.884912,
+      "speech_start": 128.12,
+      "speech_end": 128.853823,
+      "sha256": "bf2220767aff09ea702e64580f1161b53928f7c6ef5513e5d6f77558d14f2b02",
+      "duration": 0.888163,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Der Samstag,",
+        "isolated_asr": "Der Samstag",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0575",
+      "text": "die Nachricht",
+      "kind": "course-lexeme",
+      "file": "rq129_course.mp3",
+      "source_start": 128.884912,
+      "source_end": 130.044592,
+      "speech_start": 128.916,
+      "speech_end": 129.989184,
+      "sha256": "a83c8c1280b9a622764ef3a8286880198159f29680d3efd9bbddb4b377c32499",
+      "duration": 1.201633,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Nachricht,",
+        "isolated_asr": "Die Nachricht",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0576",
+      "text": "war",
+      "kind": "course-lexeme",
+      "file": "rq130_course.mp3",
+      "source_start": 130.044592,
+      "source_end": 130.625628,
+      "speech_start": 130.1,
+      "speech_end": 130.544256,
+      "sha256": "2b4fba6f2b1080f11f1a6f43f1d31dc83f3072142e226fca0422c92251497223",
+      "duration": 0.626939,
+      "verification": {
+        "status": "exact-full",
+        "aligned_asr": "war,",
+        "isolated_asr": "wahr.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0577",
+      "text": "hatte",
+      "kind": "course-lexeme",
+      "file": "rq131_course.mp3",
+      "source_start": 130.627,
+      "source_end": 131.264331,
+      "speech_start": 130.707,
+      "speech_end": 131.183662,
+      "sha256": "2d32ed13a42b12f182fc01b2f50a61fcf7be466b353a902e15799a6f50943f79",
+      "duration": 0.679184,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "hatte,",
+        "isolated_asr": "Hatte",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0578",
+      "text": "krank",
+      "kind": "course-lexeme",
+      "file": "rq132_course.mp3",
+      "source_start": 131.265,
+      "source_end": 131.953013,
+      "speech_start": 131.345,
+      "speech_end": 131.872027,
+      "sha256": "03932355678a397a52f287ed0f21a031d6f4b58a1c5b5530a0c385cd81947b14",
+      "duration": 0.731429,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "krank,",
+        "isolated_asr": "krank",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0579",
+      "text": "früher",
+      "kind": "course-lexeme",
+      "file": "rq133_course.mp3",
+      "source_start": 131.954,
+      "source_end": 132.678614,
+      "speech_start": 132.034,
+      "speech_end": 132.583229,
+      "sha256": "19eb664cd5d3a5563cfc29749f063bb099cc31d9caa91b8c1cff094837fc7b28",
+      "duration": 0.757551,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "früher,",
+        "isolated_asr": "Früher.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0580",
+      "text": "man",
+      "kind": "course-lexeme",
+      "file": "rq134_course.mp3",
+      "source_start": 132.694,
+      "source_end": 133.301403,
+      "speech_start": 132.774,
+      "speech_end": 133.213807,
+      "sha256": "8ec5f6eba031bc11251b4dc0e83158a48b9d232ebb7bef20522b000a0e8b87f7",
+      "duration": 0.653061,
+      "verification": {
+        "status": "homophone",
+        "aligned_asr": "Mann,",
+        "isolated_asr": "Mann.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized",
+        "phonetic_note": "The German spellings man / Mann have the same pronunciation; the supplied script determines the written entry."
+      }
+    },
+    {
+      "id": "course80-audio-0581",
+      "text": "die Karte",
+      "kind": "course-lexeme",
+      "file": "rq135_course.mp3",
+      "source_start": 133.309,
+      "source_end": 134.134465,
+      "speech_start": 133.389,
+      "speech_end": 134.05493,
+      "sha256": "4049f1300030824a702d838a19154172716df04ad042e9ba9374e87bf091bbf6",
+      "duration": 0.862041,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Karte,",
+        "isolated_asr": "die Karte.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0582",
+      "text": "denn",
+      "kind": "course-lexeme",
+      "file": "rq136_course.mp3",
+      "source_start": 134.134465,
+      "source_end": 134.676408,
+      "speech_start": 134.214,
+      "speech_end": 134.586816,
+      "sha256": "9a1c2ffbc054c9a4d8cc2ae4421247c15b24c21835d48cee887a0b2d4b456901",
+      "duration": 0.574694,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "denn,",
+        "isolated_asr": "Denn",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0583",
+      "text": "kochen",
+      "kind": "course-lexeme",
+      "file": "rq137_course.mp3",
+      "source_start": 134.686,
+      "source_end": 135.35431,
+      "speech_start": 134.766,
+      "speech_end": 135.282621,
+      "sha256": "12d30d7b841b55b17e46c04d3fba7b6841e1b62098184ef042ca0c0b1ca58dab",
+      "duration": 0.705306,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "kochen,",
+        "isolated_asr": "Kochen",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0584",
+      "text": "wenig",
+      "kind": "course-lexeme",
+      "file": "rq138_course.mp3",
+      "source_start": 135.35431,
+      "source_end": 136.137773,
+      "speech_start": 135.426,
+      "speech_end": 136.072546,
+      "sha256": "f66f9dcddd9dc8691ed9dee46c950f33ca3febdf547daf49a62720605c45a867",
+      "duration": 0.809796,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "wenig,",
+        "isolated_asr": "Wenig.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0585",
+      "text": "spät",
+      "kind": "course-lexeme",
+      "file": "rq139_course.mp3",
+      "source_start": 136.137773,
+      "source_end": 136.908467,
+      "speech_start": 136.203,
+      "speech_end": 136.827934,
+      "sha256": "54b724a3085eed34743a8096d15d3eac3984aaabd1bf05c7f9203511fbcc5586",
+      "duration": 0.809796,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "spät,",
+        "isolated_asr": "Spät!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0586",
+      "text": "dass",
+      "kind": "course-lexeme",
+      "file": "rq140_course.mp3",
+      "source_start": 136.909,
+      "source_end": 137.51073,
+      "speech_start": 136.989,
+      "speech_end": 137.43446,
+      "sha256": "6ee9564d9fa8ec7093ddb74066f930f57723c72a23f6e4849aaa3e02a0dbf33f",
+      "duration": 0.653061,
+      "verification": {
+        "status": "homophone",
+        "aligned_asr": "das,",
+        "isolated_asr": "Das.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized",
+        "medium_asr": "Das.",
+        "phonetic_note": "The German spellings dass / das have the same pronunciation; the supplied script determines the written entry."
+      }
+    },
+    {
+      "id": "course80-audio-0587",
+      "text": "denken",
+      "kind": "course-lexeme",
+      "file": "rq141_course.mp3",
+      "source_start": 137.51073,
+      "source_end": 138.228563,
+      "speech_start": 137.587,
+      "speech_end": 138.131125,
+      "sha256": "265ed3913c8ecb5f27d778adbe490b8306b63f5119efb37d26f714085b101247",
+      "duration": 0.757551,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "denken,",
+        "isolated_asr": "Denken.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0588",
+      "text": "glauben",
+      "kind": "course-lexeme",
+      "file": "rq142_course.mp3",
+      "source_start": 138.246,
+      "source_end": 138.99452,
+      "speech_start": 138.326,
+      "speech_end": 138.916039,
+      "sha256": "d089907efe2f887c71c1d317bf8823408e216ffbfc62d2fe69dfe328af95627e",
+      "duration": 0.783673,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "glauben,",
+        "isolated_asr": "Glauben",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0589",
+      "text": "deshalb",
+      "kind": "course-lexeme",
+      "file": "rq143_course.mp3",
+      "source_start": 138.99452,
+      "source_end": 139.562483,
+      "speech_start": 139.073,
+      "speech_end": 139.519966,
+      "sha256": "78e1538c79f47121010bc5e965ff684a49743b77b4a9446a033904e49ba98986",
+      "duration": 0.600816,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "deshalb,",
+        "isolated_asr": "Deshalb.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0590",
+      "text": "darum",
+      "kind": "course-lexeme",
+      "file": "rq144_course.mp3",
+      "source_start": 139.562483,
+      "source_end": 140.408903,
+      "speech_start": 139.605,
+      "speech_end": 140.336805,
+      "sha256": "54e2748ab8bc4e9d1d0ee8d063e7926ff87ecb999dc24f6a1150d8f6bd6ca909",
+      "duration": 0.888163,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "darum,",
+        "isolated_asr": "Darum.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0591",
+      "text": "regnen",
+      "kind": "course-lexeme",
+      "file": "rq145_course.mp3",
+      "source_start": 140.408903,
+      "source_end": 141.198308,
+      "speech_start": 140.481,
+      "speech_end": 141.117617,
+      "sha256": "e053a5ea4dad3656b5e1235e07c06b9ad56050aaaba5e39d956ffbc49b831868",
+      "duration": 0.835918,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "regnen,",
+        "isolated_asr": "Regnen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0592",
+      "text": "noch",
+      "kind": "course-lexeme",
+      "file": "rq146_course.mp3",
+      "source_start": 141.199,
+      "source_end": 141.816002,
+      "speech_start": 141.279,
+      "speech_end": 141.735005,
+      "sha256": "f5ef96d3aa745e87fb6486df796aba17896b94a54bba32ab87e53f3a15f7aa36",
+      "duration": 0.653061,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "noch,",
+        "isolated_asr": "Noch.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0593",
+      "text": "froh",
+      "kind": "course-lexeme",
+      "file": "rq147_course.mp3",
+      "source_start": 141.817,
+      "source_end": 142.473533,
+      "speech_start": 141.897,
+      "speech_end": 142.399066,
+      "sha256": "ba98c252ebda1941284e4707756a4e7d07e88dcc19b7790ac8cd2adee6f15aff",
+      "duration": 0.705306,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "froh,",
+        "isolated_asr": "Froh!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0594",
+      "text": "wenn",
+      "kind": "course-lexeme",
+      "file": "rq148_course.mp3",
+      "source_start": 142.473533,
+      "source_end": 143.074827,
+      "speech_start": 142.548,
+      "speech_end": 143.000655,
+      "sha256": "6fef1240cedc245723d73f565a08c10da122080b5c296f7e2ac5e6764c5f66c9",
+      "duration": 0.653061,
+      "verification": {
+        "status": "exact-full",
+        "aligned_asr": "wenn,",
+        "isolated_asr": "then",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0595",
+      "text": "frei",
+      "kind": "course-lexeme",
+      "file": "rq149_course.mp3",
+      "source_start": 143.074827,
+      "source_end": 143.761868,
+      "speech_start": 143.149,
+      "speech_end": 143.689737,
+      "sha256": "df41f281ee5be784e4fddcb4963353f93d78b6e4ce39afcca882aebf26256897",
+      "duration": 0.731429,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "frei,",
+        "isolated_asr": "frei!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0596",
+      "text": "früh",
+      "kind": "course-lexeme",
+      "file": "rq150_course.mp3",
+      "source_start": 143.761868,
+      "source_end": 144.425143,
+      "speech_start": 143.834,
+      "speech_end": 144.337286,
+      "sha256": "f360d2a696269bf3f99f8a0209dd0f4a4002ce366ad7843d9a9bdd675386dbbb",
+      "duration": 0.705306,
+      "verification": {
+        "status": "exact-full",
+        "aligned_asr": "früh,",
+        "isolated_asr": "Frü.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0597",
+      "text": "zusammen",
+      "kind": "course-lexeme",
+      "file": "rq151_course.mp3",
+      "source_start": 144.433,
+      "source_end": 145.233447,
+      "speech_start": 144.513,
+      "speech_end": 145.181893,
+      "sha256": "7ccba74a51e9fe3da749812d6b503660c71203678bcc023ffa3bfe2f7c06201c",
+      "duration": 0.835918,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "zusammen,",
+        "isolated_asr": "Zusammen!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0598",
+      "text": "versuchen",
+      "kind": "course-lexeme",
+      "file": "rq152_course.mp3",
+      "source_start": 145.233447,
+      "source_end": 146.09761,
+      "speech_start": 145.285,
+      "speech_end": 146.03422,
+      "sha256": "85a767a8b034cc22e437d0553f0cb73fc49ff9c032c09b60361cb951f82b0f22",
+      "duration": 0.914286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "versuchen,",
+        "isolated_asr": "versuchen",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0599",
+      "text": "vergessen",
+      "kind": "course-lexeme",
+      "file": "rq153_course.mp3",
+      "source_start": 146.09761,
+      "source_end": 146.951315,
+      "speech_start": 146.161,
+      "speech_end": 146.87763,
+      "sha256": "1ff630642935c09e93d1e0c7d3cf1b26a1c608a9ff8afc55c9e3ffd964d43e1d",
+      "duration": 0.888163,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "vergessen,",
+        "isolated_asr": "vergessen",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0600",
+      "text": "beginnen",
+      "kind": "course-lexeme",
+      "file": "rq154_course.mp3",
+      "source_start": 146.951315,
+      "source_end": 147.678805,
+      "speech_start": 147.025,
+      "speech_end": 147.60961,
+      "sha256": "621bfb0bbcefc204e9e3da16738265544d9a4288f2ea66cb6ede9f610c73668c",
+      "duration": 0.757551,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "beginnen,",
+        "isolated_asr": "Beginnen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0601",
+      "text": "hoffen",
+      "kind": "course-lexeme",
+      "file": "rq155_course.mp3",
+      "source_start": 147.678805,
+      "source_end": 148.32325,
+      "speech_start": 147.748,
+      "speech_end": 148.253499,
+      "sha256": "eb0a3192a69b7de491178e96b055d6dbf8b374e94f910e66f81891a86777440e",
+      "duration": 0.679184,
+      "verification": {
+        "status": "exact-full",
+        "aligned_asr": "hoffen,",
+        "isolated_asr": "Huffen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0602",
+      "text": "wichtig",
+      "kind": "course-lexeme",
+      "file": "rq156_course.mp3",
+      "source_start": 148.32325,
+      "source_end": 149.144755,
+      "speech_start": 148.393,
+      "speech_end": 149.07251,
+      "sha256": "7a1b671a8e6a6342212a28178824d9c3168dbb297a1f6022a1714bfe98a9245c",
+      "duration": 0.862041,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "wichtig,",
+        "isolated_asr": "Wichtig!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0603",
+      "text": "interessant",
+      "kind": "course-lexeme",
+      "file": "rq157_course.mp3",
+      "source_start": 149.144755,
+      "source_end": 150.141225,
+      "speech_start": 149.217,
+      "speech_end": 150.072449,
+      "sha256": "1465584ce39f9541fe15a79ea7548bee0261a52adcde54d7a2d0a7b1b065c2b7",
+      "duration": 1.044898,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "interessant,",
+        "isolated_asr": "Interessant.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0604",
+      "text": "langweilig",
+      "kind": "course-lexeme",
+      "file": "rq158_course.mp3",
+      "source_start": 150.141225,
+      "source_end": 151.167782,
+      "speech_start": 150.21,
+      "speech_end": 151.118565,
+      "sha256": "453649882f43371d7d45d22cfef8e0d5696af2a4f35934925d242119df06d57f",
+      "duration": 1.07102,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "langweilig,",
+        "isolated_asr": "Langweilig.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0605",
+      "text": "warm",
+      "kind": "course-lexeme",
+      "file": "rq159_course.mp3",
+      "source_start": 151.167782,
+      "source_end": 151.844372,
+      "speech_start": 151.217,
+      "speech_end": 151.760744,
+      "sha256": "584bd6c6e26b4461589cdbbaa71b929f7ba6217e12638ec23aec9f3ccfbe5692",
+      "duration": 0.705306,
+      "verification": {
+        "status": "exact-full",
+        "aligned_asr": "warm,",
+        "isolated_asr": "Vaum.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0606",
+      "text": "kalt",
+      "kind": "course-lexeme",
+      "file": "rq160_course.mp3",
+      "source_start": 151.848,
+      "source_end": 152.518574,
+      "speech_start": 151.928,
+      "speech_end": 152.451147,
+      "sha256": "cb8b4d3aa4cb369dbd1e4598884848182c282acf49e89e44d74ee95d3e1c6246",
+      "duration": 0.705306,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "kalt,",
+        "isolated_asr": "Kalt.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0607",
+      "text": "traurig",
+      "kind": "course-lexeme",
+      "file": "rq161_course.mp3",
+      "source_start": 152.518574,
+      "source_end": 153.400671,
+      "speech_start": 152.586,
+      "speech_end": 153.335342,
+      "sha256": "4f2e963530cd9433a31a737d4bcc45b2f07c77a718ce020f4b7f2404656bd71d",
+      "duration": 0.914286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "traurig,",
+        "isolated_asr": "Traurig.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0608",
+      "text": "der Film",
+      "kind": "course-lexeme",
+      "file": "rq162_course.mp3",
+      "source_start": 153.400671,
+      "source_end": 154.194524,
+      "speech_start": 153.466,
+      "speech_end": 154.129048,
+      "sha256": "b1ed21c4cd1b84050218e93660af70aac5ab947aa2b02ae1cdbd0c54086e3dad",
+      "duration": 0.835918,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Film",
+        "isolated_asr": "der Film.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0609",
+      "text": "schnell",
+      "kind": "course-lexeme",
+      "file": "rq163_course.mp3",
+      "source_start": 154.194524,
+      "source_end": 154.89468,
+      "speech_start": 154.26,
+      "speech_end": 154.815361,
+      "sha256": "088562252b5ed8181e8f24d2add9858f351d53edc19c366d7a6ca7fcd76d9833",
+      "duration": 0.731429,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "schnell,",
+        "isolated_asr": "Schnell!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0610",
+      "text": "größer",
+      "kind": "course-lexeme",
+      "file": "rq164_course.mp3",
+      "source_start": 154.89468,
+      "source_end": 155.635962,
+      "speech_start": 154.974,
+      "speech_end": 155.562923,
+      "sha256": "33f7c6c46059aed59bc4ab753b6989e44ff9a111515596328e986d80e0975947",
+      "duration": 0.783673,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "größer,",
+        "isolated_asr": "Größer!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0611",
+      "text": "kleiner",
+      "kind": "course-lexeme",
+      "file": "rq165_course.mp3",
+      "source_start": 155.635962,
+      "source_end": 156.363463,
+      "speech_start": 155.709,
+      "speech_end": 156.243463,
+      "sha256": "b63d16e4217e0b3c9e2e4cefaff90e65ba79ab20b9996a41799f9480bc204aa2",
+      "duration": 0.757551,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "kleiner,",
+        "isolated_asr": "kleiner.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0612",
+      "text": "besser",
+      "kind": "course-lexeme",
+      "file": "rq166_course.mp3",
+      "source_start": 156.647,
+      "source_end": 157.41851,
+      "speech_start": 156.727,
+      "speech_end": 157.29851,
+      "sha256": "68aa0c41038b03e9b45be4837384bfa807531038213df5335ea9a17518abc7af",
+      "duration": 0.809796,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "besser,",
+        "isolated_asr": "Besser!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0613",
+      "text": "mehr",
+      "kind": "course-lexeme",
+      "file": "rq167_course.mp3",
+      "source_start": 157.893,
+      "source_end": 158.572077,
+      "speech_start": 157.973,
+      "speech_end": 158.452077,
+      "sha256": "3320abfa26435d461797fe14eec2191e1235906ca8142e3b7f5a347d9327bc9a",
+      "duration": 0.705306,
+      "verification": {
+        "status": "exact-full",
+        "aligned_asr": "mehr,",
+        "isolated_asr": "Mia.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0614",
+      "text": "als",
+      "kind": "course-lexeme",
+      "file": "rq168_course.mp3",
+      "source_start": 159.056,
+      "source_end": 159.814002,
+      "speech_start": 159.136,
+      "speech_end": 159.694002,
+      "sha256": "bcaec4d319b8e463b711fc05e8cba2d5bb577c3a4a23a9b8b41f5a4711580513",
+      "duration": 0.809796,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "als,",
+        "isolated_asr": "Als.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0615",
+      "text": "so … wie",
+      "kind": "course-lexeme",
+      "file": "rq169_course.mp3",
+      "source_start": 160.185,
+      "source_end": 161.89527,
+      "speech_start": 160.265,
+      "speech_end": 161.77527,
+      "sha256": "20719f783ca73e380d07596f7e0030d8f85cb9559f6c330c4d81e1562e1f6dde",
+      "duration": 1.750204,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "so, wie,",
+        "isolated_asr": "So wie?",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0616",
+      "text": "am besten",
+      "kind": "course-lexeme",
+      "file": "rq170_course.mp3",
+      "source_start": 162.244,
+      "source_end": 163.157528,
+      "speech_start": 162.324,
+      "speech_end": 163.037528,
+      "sha256": "d3da165224e648c3b150bc7968dc6fd8a41858abbd63d590f9e7447811cf89ff",
+      "duration": 0.940408,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "am besten,",
+        "isolated_asr": "Am besten!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0617",
+      "text": "am liebsten",
+      "kind": "course-lexeme",
+      "file": "rq171_course.mp3",
+      "source_start": 163.47,
+      "source_end": 164.477311,
+      "speech_start": 163.55,
+      "speech_end": 164.357311,
+      "sha256": "4c601aab39a9c451b8bba7444ad89893e0000f10ab0fd5a34b25c8734104272c",
+      "duration": 1.044898,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "am liebsten,",
+        "isolated_asr": "Am liebsten!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0618",
+      "text": "am meisten",
+      "kind": "course-lexeme",
+      "file": "rq172_course.mp3",
+      "source_start": 164.834,
+      "source_end": 165.837086,
+      "speech_start": 164.914,
+      "speech_end": 165.717086,
+      "sha256": "dfe329582ddc8812a64a2fae36f024c1b11858eb115dcaa8339c3751c7abfa3d",
+      "duration": 1.044898,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "am meisten,",
+        "isolated_asr": "Am meisten.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0619",
+      "text": "am schnellsten",
+      "kind": "course-lexeme",
+      "file": "rq173_course.mp3",
+      "source_start": 166.175,
+      "source_end": 167.2821,
+      "speech_start": 166.255,
+      "speech_end": 167.1621,
+      "sha256": "42740a0d89ed347fb6edddb3884148bf1d8be7fc2e273d86f2ee04b2be6c0cce",
+      "duration": 1.149388,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "am schnellsten,",
+        "isolated_asr": "Am schnellsten!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0620",
+      "text": "lieber",
+      "kind": "course-lexeme",
+      "file": "rq174_course.mp3",
+      "source_start": 167.606,
+      "source_end": 168.296519,
+      "speech_start": 167.686,
+      "speech_end": 168.176519,
+      "sha256": "ce1fae5959e19130db550b9639264efb32521f1ae8d24f7d5057546f35a792fa",
+      "duration": 0.731429,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "lieber,",
+        "isolated_asr": "Lieber!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0621",
+      "text": "die Geschichte",
+      "kind": "course-lexeme",
+      "file": "rq175_course.mp3",
+      "source_start": 168.655,
+      "source_end": 169.589422,
+      "speech_start": 168.735,
+      "speech_end": 169.469422,
+      "sha256": "5c180aaf92739dd3895bf21367f239cdd9a9a1153f204517f71c1c5fd1566c7b",
+      "duration": 0.966531,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Geschichte,",
+        "isolated_asr": "Die Geschichte.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0622",
+      "text": "ein guter Freund",
+      "kind": "course-lexeme",
+      "file": "rq176_course.mp3",
+      "source_start": 169.935,
+      "source_end": 171.239989,
+      "speech_start": 170.015,
+      "speech_end": 171.119989,
+      "sha256": "ce2b4aa303a6bb88aa258e699fe817ea295c261bf64c5642070967d287b533a8",
+      "duration": 1.332245,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "ein guter Freund,",
+        "isolated_asr": "Ein guter Freund.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0623",
+      "text": "eine kleine Katze",
+      "kind": "course-lexeme",
+      "file": "rq177_course.mp3",
+      "source_start": 171.535,
+      "source_end": 172.826399,
+      "speech_start": 171.615,
+      "speech_end": 172.706399,
+      "sha256": "bd25185a985743c1973cd2eee46351f703ac58940a3ba6cbfad05d7b07847509",
+      "duration": 1.332245,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "eine kleine eine Katze,",
+        "isolated_asr": "Eine kleine Katze.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0624",
+      "text": "ein neues Buch",
+      "kind": "course-lexeme",
+      "file": "rq178_course.mp3",
+      "source_start": 173.152,
+      "source_end": 174.38676,
+      "speech_start": 173.232,
+      "speech_end": 174.26676,
+      "sha256": "ef69fc9d8213047fc4fd15a008bef22b1a177b86c68cb5d50d9a9ac69189f1b1",
+      "duration": 1.28,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "ein neues Buch,",
+        "isolated_asr": "Ein neues Buch!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0625",
+      "text": "mit einem guten Freund",
+      "kind": "course-lexeme",
+      "file": "rq179_course.mp3",
+      "source_start": 174.661,
+      "source_end": 176.196209,
+      "speech_start": 174.741,
+      "speech_end": 176.076209,
+      "sha256": "18a5894f652b819fdd5fe1c8bf08ee39aeccfe1ff3baf1bd5ea69b4ef46fb9aa",
+      "duration": 1.567347,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "mit einem guten Freund,",
+        "isolated_asr": "Mit einem guten Freund.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0626",
+      "text": "bei meiner alten Schule",
+      "kind": "course-lexeme",
+      "file": "rq180_course.mp3",
+      "source_start": 176.488,
+      "source_end": 177.965202,
+      "speech_start": 176.568,
+      "speech_end": 177.845202,
+      "sha256": "49ece6068d33b127e3b92ea3ca22733350a55b9be3df1096a30d2d3b739a6f20",
+      "duration": 1.515102,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "bei meiner alten Schule,",
+        "isolated_asr": "bei meiner alten Schule.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0627",
+      "text": "freundlich",
+      "kind": "course-lexeme",
+      "file": "rq181_course.mp3",
+      "source_start": 178.234,
+      "source_end": 179.209385,
+      "speech_start": 178.314,
+      "speech_end": 179.089385,
+      "sha256": "2c0e187cc31fe2a98e4362ce6f0afb7b0ff2289a45951c453b76255305ab9c3f",
+      "duration": 1.018776,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "freundlich,",
+        "isolated_asr": "Freundlich",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0628",
+      "text": "frisch",
+      "kind": "course-lexeme",
+      "file": "rq182_course.mp3",
+      "source_start": 179.479,
+      "source_end": 180.193889,
+      "speech_start": 179.559,
+      "speech_end": 180.073889,
+      "sha256": "4eb27732d39207d20cb6bd35de7373121d46c7a61e52ada85aee8b9cb4ef6c39",
+      "duration": 0.757551,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "frisch,",
+        "isolated_asr": "Frisch!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0629",
+      "text": "der Vorname",
+      "kind": "course-lexeme",
+      "file": "rq183_course.mp3",
+      "source_start": 180.495,
+      "source_end": 181.534694,
+      "speech_start": 180.575,
+      "speech_end": 181.414694,
+      "sha256": "fb96db5255efb3b960813d2ce2bd89b84ba2fe68518716fe95a4d63e550a3241",
+      "duration": 1.07102,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Vorname,",
+        "isolated_asr": "der Vorname.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0630",
+      "text": "der Nachname",
+      "kind": "course-lexeme",
+      "file": "rq184_course.mp3",
+      "source_start": 181.79,
+      "source_end": 182.801234,
+      "speech_start": 181.87,
+      "speech_end": 182.681234,
+      "sha256": "8907e2ccc2e98a52b1e61cfc3befb1956f866ee3ba2ccf121675521b6ffda7ac",
+      "duration": 1.044898,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Nachname,",
+        "isolated_asr": "der Nachname",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0631",
+      "text": "die Adresse",
+      "kind": "course-lexeme",
+      "file": "rq185_course.mp3",
+      "source_start": 183.074,
+      "source_end": 183.985771,
+      "speech_start": 183.154,
+      "speech_end": 183.865771,
+      "sha256": "d0f9b00ff72ad0416e74ba3dbee63900e974272b0cf7b6b94a2431033468c672",
+      "duration": 0.940408,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Adresse,",
+        "isolated_asr": "Die Adresse",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0632",
+      "text": "die Telefonnummer",
+      "kind": "course-lexeme",
+      "file": "rq186_course.mp3",
+      "source_start": 184.255,
+      "source_end": 185.443116,
+      "speech_start": 184.335,
+      "speech_end": 185.323116,
+      "sha256": "af95326c5a77cd86780fdff4797fc14e783fcaf0777bcca0fcf0c18f27f7172e",
+      "duration": 1.227755,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Telefonnummer,",
+        "isolated_asr": "Die Telefonnummer.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0633",
+      "text": "buchstabieren",
+      "kind": "course-lexeme",
+      "file": "rq187_course.mp3",
+      "source_start": 185.724,
+      "source_end": 186.810857,
+      "speech_start": 185.804,
+      "speech_end": 186.690857,
+      "sha256": "996b6678614c3356b9b02fd2cfcefeca6de3d313d0a4dc5fc5fff5918f3c6a04",
+      "duration": 1.123265,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Buchstabieren,",
+        "isolated_asr": "Buchstabieren",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0634",
+      "text": "das Formular",
+      "kind": "course-lexeme",
+      "file": "rq188_course.mp3",
+      "source_start": 187.078,
+      "source_end": 188.141492,
+      "speech_start": 187.158,
+      "speech_end": 188.021492,
+      "sha256": "b54cc1b5cc5ef30cdae615f3cca99e5975d6a569cb5f03f23030689e38e0cda7",
+      "duration": 1.097143,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "das Formular,",
+        "isolated_asr": "Das Formular.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0635",
+      "text": "die Hausnummer",
+      "kind": "course-lexeme",
+      "file": "rq189_course.mp3",
+      "source_start": 188.358,
+      "source_end": 189.329463,
+      "speech_start": 188.438,
+      "speech_end": 189.209463,
+      "sha256": "90a08aad271e71882245ae4dbe071b79b34555909df16273e8b773774993a143",
+      "duration": 1.018776,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Hausnummer,",
+        "isolated_asr": "Die Hausnummer.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0636",
+      "text": "ausfüllen",
+      "kind": "course-lexeme",
+      "file": "rq190_course.mp3",
+      "source_start": 189.603,
+      "source_end": 190.474565,
+      "speech_start": 189.683,
+      "speech_end": 190.354565,
+      "sha256": "090fed78949dc3ebf5a4a6628e2adab9d0d52cfc62f4ab02cbf512aa01f38449",
+      "duration": 0.914286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ausfüllen,",
+        "isolated_asr": "ausfüllen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0637",
+      "text": "das Hemd",
+      "kind": "course-lexeme",
+      "file": "rq191_course.mp3",
+      "source_start": 190.673,
+      "source_end": 191.523964,
+      "speech_start": 190.753,
+      "speech_end": 191.403964,
+      "sha256": "e4c220c9405db4e63d255f2392f98d4ecb957d373e0f58bc5c9c9d663eca6140",
+      "duration": 0.888163,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "das Hemd,",
+        "isolated_asr": "Das Hemd.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0638",
+      "text": "die Größe",
+      "kind": "course-lexeme",
+      "file": "rq192_course.mp3",
+      "source_start": 191.718,
+      "source_end": 192.59159,
+      "speech_start": 191.798,
+      "speech_end": 192.47159,
+      "sha256": "2182ed581c8c5030dc063f31ef6ca734cf5462ed25543902e959e92534166647",
+      "duration": 0.914286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Größe,",
+        "isolated_asr": "Die Größe.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0639",
+      "text": "anprobieren",
+      "kind": "course-lexeme",
+      "file": "rq193_course.mp3",
+      "source_start": 192.881,
+      "source_end": 193.894558,
+      "speech_start": 192.961,
+      "speech_end": 193.774558,
+      "sha256": "8ab5a2a2be7aa665123a3b53e90af5bb789975340d173569f657619a40b1bafe",
+      "duration": 1.044898,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Anprobieren,",
+        "isolated_asr": "anprobieren.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0640",
+      "text": "teuer",
+      "kind": "course-lexeme",
+      "file": "rq194_course.mp3",
+      "source_start": 194.16,
+      "source_end": 194.818628,
+      "speech_start": 194.24,
+      "speech_end": 194.698628,
+      "sha256": "b476f6cf77cead823effc45b4f13bdbfbc83e47e172207454a0a6b7fcddddb82",
+      "duration": 0.705306,
+      "verification": {
+        "status": "exact-full",
+        "aligned_asr": "teuer",
+        "isolated_asr": "Toya",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0641",
+      "text": "billig",
+      "kind": "course-lexeme",
+      "file": "rq195_course.mp3",
+      "source_start": 195.035,
+      "source_end": 195.70829,
+      "speech_start": 195.115,
+      "speech_end": 195.58829,
+      "sha256": "0b9fb42879b7254268afa8748a14fed7e4d58e2b3e066c3206f142f9de103798",
+      "duration": 0.705306,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "billig",
+        "isolated_asr": "Billig.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0642",
+      "text": "die Kopfschmerzen",
+      "kind": "course-lexeme",
+      "file": "rq196_course.mp3",
+      "source_start": 195.916,
+      "source_end": 197.111077,
+      "speech_start": 195.996,
+      "speech_end": 196.991077,
+      "sha256": "c3f9e598172af1ed92bc5acff372eaed111389cb72c7cbd471311026bc30950b",
+      "duration": 1.227755,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Kopfschmerzen",
+        "isolated_asr": "Die Kopfschmerzen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0643",
+      "text": "wehtun",
+      "kind": "course-lexeme",
+      "file": "rq197_course.mp3",
+      "source_start": 197.225,
+      "source_end": 198.078565,
+      "speech_start": 197.305,
+      "speech_end": 197.958565,
+      "sha256": "71397002b0fd50ff56ece84d2b8e119431b051f67e4d021059a70e961ea3bba0",
+      "duration": 0.888163,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "wehtun",
+        "isolated_asr": "wehtun",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0644",
+      "text": "das Fieber",
+      "kind": "course-lexeme",
+      "file": "rq198_course.mp3",
+      "source_start": 198.267,
+      "source_end": 199.135626,
+      "speech_start": 198.347,
+      "speech_end": 199.015626,
+      "sha256": "f8c9fc6654f328746262ff161bc418980912de8abfd2f3d73cb04e4d060f60ca",
+      "duration": 0.914286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "das Fieber",
+        "isolated_asr": "das Fieber",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0645",
+      "text": "die Ärztin",
+      "kind": "course-lexeme",
+      "file": "rq199_course.mp3",
+      "source_start": 199.371,
+      "source_end": 200.312934,
+      "speech_start": 199.451,
+      "speech_end": 200.192934,
+      "sha256": "bcccbb462b4a51b85def964478498e11d91f1fb21d28d33584a82ba371af63e7",
+      "duration": 0.992653,
+      "verification": {
+        "status": "exact-full",
+        "aligned_asr": "die Ärztin",
+        "isolated_asr": "Die Erdsten.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0646",
+      "text": "die Heizung",
+      "kind": "course-lexeme",
+      "file": "rq200_course.mp3",
+      "source_start": 200.504,
+      "source_end": 201.402703,
+      "speech_start": 200.584,
+      "speech_end": 201.282703,
+      "sha256": "b9e4fc8c88c36d9104583e7b0951dea01a6e65b3384646116814b07d8844766b",
+      "duration": 0.940408,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Heizung,",
+        "isolated_asr": "Die Heizung.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0647",
+      "text": "kaputt",
+      "kind": "course-lexeme",
+      "file": "rq201_course.mp3",
+      "source_start": 201.512,
+      "source_end": 202.247712,
+      "speech_start": 201.592,
+      "speech_end": 202.127712,
+      "sha256": "4c130cd8f8c3f72707d35dd198eb4b74c6bf163c25fe299b1c4f7cf1b3cde9ab",
+      "duration": 0.783673,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "kaputt,",
+        "isolated_asr": "kaputt.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0648",
+      "text": "funktionieren",
+      "kind": "course-lexeme",
+      "file": "rq202_course.mp3",
+      "source_start": 202.361,
+      "source_end": 203.442789,
+      "speech_start": 202.441,
+      "speech_end": 203.322789,
+      "sha256": "040e464fd85b8f2b0f5ee10d99945cf1d627af20c39bf82acef13dd2ee5b661f",
+      "duration": 1.123265,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "funktionieren,",
+        "isolated_asr": "funktionieren.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0649",
+      "text": "aufräumen",
+      "kind": "course-lexeme",
+      "file": "rq203_course.mp3",
+      "source_start": 203.62,
+      "source_end": 204.526519,
+      "speech_start": 203.7,
+      "speech_end": 204.406519,
+      "sha256": "adf9d691d0a72b0168524a726de70be654e6bfed45acc1860aa43f5790936193",
+      "duration": 0.940408,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "aufräumen,",
+        "isolated_asr": "Aufräumen!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0650",
+      "text": "reparieren",
+      "kind": "course-lexeme",
+      "file": "rq204_course.mp3",
+      "source_start": 204.625,
+      "source_end": 205.614374,
+      "speech_start": 204.705,
+      "speech_end": 205.494374,
+      "sha256": "1a5be4b178aab65ce52c97f30bb452e830654244bd265ec5312a7bb43414e1be",
+      "duration": 1.018776,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "reparieren,",
+        "isolated_asr": "Reparieren.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0651",
+      "text": "putzen",
+      "kind": "course-lexeme",
+      "file": "rq205_course.mp3",
+      "source_start": 205.779,
+      "source_end": 206.464136,
+      "speech_start": 205.859,
+      "speech_end": 206.344136,
+      "sha256": "a54411ae9847a5f77ce0b9e4ea41e30f538ed8fa09580dd461766c04c6b40c59",
+      "duration": 0.731429,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "putzen,",
+        "isolated_asr": "Putzen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0652",
+      "text": "der Unterricht",
+      "kind": "course-lexeme",
+      "file": "rq206_course.mp3",
+      "source_start": 206.664,
+      "source_end": 207.720574,
+      "speech_start": 206.744,
+      "speech_end": 207.600574,
+      "sha256": "8c23dfccf4783284a04c451f6282ce99b8221eb1f82a16f391d6b0acb07052ca",
+      "duration": 1.097143,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Unterricht,",
+        "isolated_asr": "der Unterricht.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0653",
+      "text": "die Arbeit",
+      "kind": "course-lexeme",
+      "file": "rq207_course.mp3",
+      "source_start": 207.843,
+      "source_end": 208.7652,
+      "speech_start": 207.923,
+      "speech_end": 208.6452,
+      "sha256": "09112ca7100ae24324190d9f74cd2f1d53629d4649e8718b1273c68fe60557b0",
+      "duration": 0.966531,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Arbeit,",
+        "isolated_asr": "Die Arbeit",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0654",
+      "text": "die Pause",
+      "kind": "course-lexeme",
+      "file": "rq208_course.mp3",
+      "source_start": 208.893,
+      "source_end": 209.746052,
+      "speech_start": 208.973,
+      "speech_end": 209.626052,
+      "sha256": "38b71000a278a6ef052479091e231ec4e25ec032678063b38216a34b6fcac939",
+      "duration": 0.888163,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Pause,",
+        "isolated_asr": "Die Pause.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0655",
+      "text": "anfangen",
+      "kind": "course-lexeme",
+      "file": "rq209_course.mp3",
+      "source_start": 209.919,
+      "source_end": 210.719551,
+      "speech_start": 209.999,
+      "speech_end": 210.599551,
+      "sha256": "ae351db12c269fe0df727e82879da9ba9b0b5ebd060405cce85e961071fbf320",
+      "duration": 0.835918,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "anfangen,",
+        "isolated_asr": "anfangen.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0656",
+      "text": "die Hausaufgaben",
+      "kind": "course-lexeme",
+      "file": "rq210_course.mp3",
+      "source_start": 210.892,
+      "source_end": 212.05966,
+      "speech_start": 210.972,
+      "speech_end": 211.93966,
+      "sha256": "2d8a3c19fe0d48aad463b8d242669d5cd5f92c871a6e99425da42d9671ab5979",
+      "duration": 1.201633,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Hausaufgaben,",
+        "isolated_asr": "Die Hausaufgaben.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0657",
+      "text": "die Fahrkarte",
+      "kind": "course-lexeme",
+      "file": "rq211_course.mp3",
+      "source_start": 212.17,
+      "source_end": 213.221506,
+      "speech_start": 212.25,
+      "speech_end": 213.101506,
+      "sha256": "ae10d64fb14768ff333e03ad752da7057385a2d700188c326417a70e3a3f1114",
+      "duration": 1.097143,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "die Fahrkarte,",
+        "isolated_asr": "Die Fahrkarte.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0658",
+      "text": "abfahren",
+      "kind": "course-lexeme",
+      "file": "rq212_course.mp3",
+      "source_start": 213.364,
+      "source_end": 214.233372,
+      "speech_start": 213.444,
+      "speech_end": 214.113372,
+      "sha256": "39a77de663471352c25f9473d370d72cb73d89faae179975405dca60196db9af",
+      "duration": 0.914286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "abfahren,",
+        "isolated_asr": "Abfahren.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0659",
+      "text": "das Gleis",
+      "kind": "course-lexeme",
+      "file": "rq213_course.mp3",
+      "source_start": 214.347,
+      "source_end": 215.310669,
+      "speech_start": 214.427,
+      "speech_end": 215.190669,
+      "sha256": "e17de0d1bdf52c7919f98c8a51c5719bbd487dda5a0302356f6fbe9a28278896",
+      "duration": 0.992653,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "das Gleis,",
+        "isolated_asr": "Das Gleis.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0660",
+      "text": "das Hotel",
+      "kind": "course-lexeme",
+      "file": "rq214_course.mp3",
+      "source_start": 215.445,
+      "source_end": 216.318077,
+      "speech_start": 215.525,
+      "speech_end": 216.198077,
+      "sha256": "d50385e22a128266dfd07dd542ac86f82d20d078a14e381d466c0744fb2a5b29",
+      "duration": 0.914286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "das Hotel,",
+        "isolated_asr": "Das Hotel",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0661",
+      "text": "buchen",
+      "kind": "course-lexeme",
+      "file": "rq215_course.mp3",
+      "source_start": 216.502,
+      "source_end": 217.152571,
+      "speech_start": 216.582,
+      "speech_end": 217.032571,
+      "sha256": "64d8155a03f5c5a3c83e00e539f5c7ce7927db8d2a44f8a52715881b4d8ded25",
+      "duration": 0.679184,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "buchen,",
+        "isolated_asr": "Buchen!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0662",
+      "text": "einladen",
+      "kind": "course-lexeme",
+      "file": "rq216_course.mp3",
+      "source_start": 217.354,
+      "source_end": 218.209032,
+      "speech_start": 217.434,
+      "speech_end": 218.089032,
+      "sha256": "f553357cd58397a56451baa3608bd4ea9a1ce5ac0eaf831f8ad4fa314d666814",
+      "duration": 0.888163,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "einladen,",
+        "isolated_asr": "Einladen!",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0663",
+      "text": "verschieben",
+      "kind": "course-lexeme",
+      "file": "rq217_course.mp3",
+      "source_start": 218.283,
+      "source_end": 219.170923,
+      "speech_start": 218.363,
+      "speech_end": 219.050923,
+      "sha256": "bcf9096ec2e785be4faf29fab6ac19417382471d0a4410e557b90e42fa7715f4",
+      "duration": 0.914286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "verschieben,",
+        "isolated_asr": "Verschieben",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0664",
+      "text": "werden",
+      "kind": "course-lexeme",
+      "file": "rq218_course.mp3",
+      "source_start": 219.307,
+      "source_end": 220.051755,
+      "speech_start": 219.387,
+      "speech_end": 219.931755,
+      "sha256": "751b177508a6d23cf8644881c97f84f612ad3f5b28fd78618f03a9852073d747",
+      "duration": 0.783673,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "werden,",
+        "isolated_asr": "werden.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0665",
+      "text": "nächste Woche",
+      "kind": "course-lexeme",
+      "file": "rq219_course.mp3",
+      "source_start": 220.184,
+      "source_end": 221.170102,
+      "speech_start": 220.264,
+      "speech_end": 221.050102,
+      "sha256": "fcf60cdb098bd1149327c8f0c525d13d057e13d36b39de111774c00d72a54082",
+      "duration": 1.018776,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "nächste Woche,",
+        "isolated_asr": "Nächste Woche.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0666",
+      "text": "der Plan",
+      "kind": "course-lexeme",
+      "file": "rq220_course.mp3",
+      "source_start": 221.295,
+      "source_end": 222.128832,
+      "speech_start": 221.375,
+      "speech_end": 222.008832,
+      "sha256": "18f64c0d9a0c2cd202affc75fcb2e6970e0b514f6a010b7f4517e5df243251b8",
+      "duration": 0.862041,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "der Plan,",
+        "isolated_asr": "der Plan.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0667",
+      "text": "üben",
+      "kind": "course-lexeme",
+      "file": "rq221_course.mp3",
+      "source_start": 222.285,
+      "source_end": 222.916893,
+      "speech_start": 222.365,
+      "speech_end": 222.796893,
+      "sha256": "21b57cca97f1aa61cd6cae0ac6c7b9c3bd24867b94689485d9bbef59828248f6",
+      "duration": 0.679184,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "üben,",
+        "isolated_asr": "üben",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0668",
+      "text": "Mia",
+      "kind": "course-lexeme",
+      "file": "rq222_course.mp3",
+      "source_start": 223.04,
+      "source_end": 223.722159,
+      "speech_start": 223.12,
+      "speech_end": 223.602159,
+      "sha256": "f1dc690e5dbbfc504ab78a36d3488c5ce29b56d889123bc8da2006596667161b",
+      "duration": 0.731429,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "mir,",
+        "isolated_asr": "Mia.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized",
+        "medium_asr": "Mia"
+      }
+    },
+    {
+      "id": "course80-audio-0669",
+      "text": "jeden Tag",
+      "kind": "course-lexeme",
+      "file": "rq223_course.mp3",
+      "source_start": 223.832,
+      "source_end": 224.992625,
+      "speech_start": 223.912,
+      "speech_end": 224.765,
+      "sha256": "0d2cdb96b33db5a67fc9bd1ba928c71b91a824e687d330912f6da489105afb98",
+      "duration": 1.201633,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "jeden Tag.",
+        "isolated_asr": "jeden Tag.",
+        "method": "Whisper small full-source word alignment plus independent isolated-clip recognition; regional/isolated Whisper medium checks; punctuation/case and word spacing normalized"
+      }
+    }
+  ]
+}

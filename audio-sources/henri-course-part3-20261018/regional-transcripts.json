@@ -1,0 +1,346 @@
+[
+  {
+    "start": 20.0,
+    "end": 31.96,
+    "text": " bereit die zeit der hunger der durst deutsch heißen ein eine kein keine die",
+    "region": [
+      20,
+      40
+    ],
+    "words": [
+      {
+        "start": 20.0,
+        "end": 20.82,
+        "word": " bereit",
+        "probability": 0.3146221339702606
+      },
+      {
+        "start": 20.82,
+        "end": 21.8,
+        "word": " die",
+        "probability": 0.7017210721969604
+      },
+      {
+        "start": 21.8,
+        "end": 22.56,
+        "word": " zeit",
+        "probability": 0.6983139514923096
+      },
+      {
+        "start": 22.56,
+        "end": 23.14,
+        "word": " der",
+        "probability": 0.9784124493598938
+      },
+      {
+        "start": 23.14,
+        "end": 23.92,
+        "word": " hunger",
+        "probability": 0.8735005855560303
+      },
+      {
+        "start": 23.92,
+        "end": 24.38,
+        "word": " der",
+        "probability": 0.9909085631370544
+      },
+      {
+        "start": 24.38,
+        "end": 25.44,
+        "word": " durst",
+        "probability": 0.973864734172821
+      },
+      {
+        "start": 25.44,
+        "end": 26.66,
+        "word": " deutsch",
+        "probability": 0.9591166973114014
+      },
+      {
+        "start": 26.66,
+        "end": 27.72,
+        "word": " heißen",
+        "probability": 0.9897176027297974
+      },
+      {
+        "start": 27.72,
+        "end": 28.42,
+        "word": " ein",
+        "probability": 0.9555568695068359
+      },
+      {
+        "start": 28.42,
+        "end": 29.380000000000003,
+        "word": " eine",
+        "probability": 0.9217372536659241
+      },
+      {
+        "start": 29.380000000000003,
+        "end": 30.48,
+        "word": " kein",
+        "probability": 0.9340541958808899
+      },
+      {
+        "start": 30.48,
+        "end": 31.22,
+        "word": " keine",
+        "probability": 0.9819720387458801
+      },
+      {
+        "start": 31.22,
+        "end": 31.96,
+        "word": " die",
+        "probability": 0.9780402183532715
+      }
+    ]
+  },
+  {
+    "start": 31.96,
+    "end": 39.6,
+    "text": " bücher die kinder die tische die stühle die türen die katzen die hunde",
+    "region": [
+      20,
+      40
+    ],
+    "words": [
+      {
+        "start": 31.96,
+        "end": 32.8,
+        "word": " bücher",
+        "probability": 0.9853496154149374
+      },
+      {
+        "start": 32.8,
+        "end": 33.22,
+        "word": " die",
+        "probability": 0.9911642670631409
+      },
+      {
+        "start": 33.22,
+        "end": 34.18,
+        "word": " kinder",
+        "probability": 0.996792197227478
+      },
+      {
+        "start": 34.18,
+        "end": 34.44,
+        "word": " die",
+        "probability": 0.9969595670700073
+      },
+      {
+        "start": 34.44,
+        "end": 35.0,
+        "word": " tische",
+        "probability": 0.9391517043113708
+      },
+      {
+        "start": 35.0,
+        "end": 35.62,
+        "word": " die",
+        "probability": 0.9954745173454285
+      },
+      {
+        "start": 35.62,
+        "end": 36.36,
+        "word": " stühle",
+        "probability": 0.997392455736796
+      },
+      {
+        "start": 36.36,
+        "end": 36.78,
+        "word": " die",
+        "probability": 0.9973202347755432
+      },
+      {
+        "start": 36.78,
+        "end": 37.54,
+        "word": " türen",
+        "probability": 0.9228117863337199
+      },
+      {
+        "start": 37.54,
+        "end": 37.96,
+        "word": " die",
+        "probability": 0.9959633350372314
+      },
+      {
+        "start": 37.96,
+        "end": 38.72,
+        "word": " katzen",
+        "probability": 0.8922203481197357
+      },
+      {
+        "start": 38.72,
+        "end": 39.06,
+        "word": " die",
+        "probability": 0.9974631071090698
+      },
+      {
+        "start": 39.06,
+        "end": 39.6,
+        "word": " hunde",
+        "probability": 0.9845978021621704
+      }
+    ]
+  },
+  {
+    "start": 190.0,
+    "end": 200.76,
+    "text": " das Hemd die Größe anprobieren teuer billig die Kopfschmerzen wehtun das Fieber die Ärztin die",
+    "region": [
+      190,
+      201
+    ],
+    "words": [
+      {
+        "start": 190.0,
+        "end": 190.96,
+        "word": " das",
+        "probability": 0.09249342978000641
+      },
+      {
+        "start": 190.96,
+        "end": 191.76,
+        "word": " Hemd",
+        "probability": 0.9786962866783142
+      },
+      {
+        "start": 191.76,
+        "end": 192.02,
+        "word": " die",
+        "probability": 0.1075039952993393
+      },
+      {
+        "start": 192.02,
+        "end": 192.96,
+        "word": " Größe",
+        "probability": 0.9261937737464905
+      },
+      {
+        "start": 192.96,
+        "end": 194.08,
+        "word": " anprobieren",
+        "probability": 0.8344801863034567
+      },
+      {
+        "start": 194.08,
+        "end": 195.08,
+        "word": " teuer",
+        "probability": 0.9157707393169403
+      },
+      {
+        "start": 195.08,
+        "end": 195.98,
+        "word": " billig",
+        "probability": 0.9840956628322601
+      },
+      {
+        "start": 195.98,
+        "end": 196.24,
+        "word": " die",
+        "probability": 0.9764124155044556
+      },
+      {
+        "start": 196.24,
+        "end": 197.36,
+        "word": " Kopfschmerzen",
+        "probability": 0.9847695827484131
+      },
+      {
+        "start": 197.36,
+        "end": 198.22,
+        "word": " wehtun",
+        "probability": 0.8960158626238505
+      },
+      {
+        "start": 198.22,
+        "end": 198.64,
+        "word": " das",
+        "probability": 0.8451420664787292
+      },
+      {
+        "start": 198.64,
+        "end": 199.34,
+        "word": " Fieber",
+        "probability": 0.9787960052490234
+      },
+      {
+        "start": 199.34,
+        "end": 199.68,
+        "word": " die",
+        "probability": 0.9494625329971313
+      },
+      {
+        "start": 199.68,
+        "end": 200.46,
+        "word": " Ärztin",
+        "probability": 0.9878787795702616
+      },
+      {
+        "start": 200.46,
+        "end": 200.76,
+        "word": " die",
+        "probability": 0.9076847434043884
+      }
+    ]
+  },
+  {
+    "start": 220.0,
+    "end": 224.74,
+    "text": " Nächste Woche. Der Plan. Üben. Mir. Jeden Tag.",
+    "region": [
+      220,
+      224.992625
+    ],
+    "words": [
+      {
+        "start": 220.0,
+        "end": 220.76,
+        "word": " Nächste",
+        "probability": 0.8920135100682577
+      },
+      {
+        "start": 220.76,
+        "end": 221.16,
+        "word": " Woche.",
+        "probability": 0.9974337220191956
+      },
+      {
+        "start": 221.42,
+        "end": 221.56,
+        "word": " Der",
+        "probability": 0.98285311460495
+      },
+      {
+        "start": 221.56,
+        "end": 222.12,
+        "word": " Plan.",
+        "probability": 0.9911527037620544
+      },
+      {
+        "start": 222.54,
+        "end": 223.14,
+        "word": " Üben.",
+        "probability": 0.9931867718696594
+      },
+      {
+        "start": 223.3,
+        "end": 223.8,
+        "word": " Mir.",
+        "probability": 0.27240297198295593
+      },
+      {
+        "start": 224.2,
+        "end": 224.44,
+        "word": " Jeden",
+        "probability": 0.9956696927547455
+      },
+      {
+        "start": 224.44,
+        "end": 224.74,
+        "word": " Tag.",
+        "probability": 0.9818223714828491
+      }
+    ]
+  }
+]

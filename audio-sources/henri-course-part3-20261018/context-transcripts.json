@@ -1,0 +1,20 @@
+[
+  {
+    "n": 58,
+    "source_start": 67.08800000000001,
+    "source_end": 71.472922,
+    "recognized": "ihm, ihnen, zeigen, schenken, das Geschenk."
+  },
+  {
+    "n": 64,
+    "source_start": 72.2565,
+    "source_end": 76.560655,
+    "recognized": "Das Bild zu, von, bei, nach."
+  },
+  {
+    "n": 65,
+    "source_start": 73.0407,
+    "source_end": 77.21315,
+    "recognized": "zu, von, bei, nach, der Arzt."
+  }
+]
