@@ -1,5 +1,5 @@
 {
-  "count": 1122,
+  "count": 1269,
   "entries": [
     {
       "id": "rq001",
@@ -8976,6 +8976,1182 @@
       "sha256": "e33bcc56797129b0c507f7864292f63ffbb647616ee6e77e2dde4bf2b5622cad",
       "duration": 1.567347,
       "verification": "exact-full"
+    },
+    {
+      "id": "whole-audio-0001",
+      "text": "heißt",
+      "path": "audio/henri-whole-upgrade-20261018/rq001_whole_340e452e867d.mp3",
+      "sha256": "340e452e867d70f97335487c405cfc2978f4dc5fe1e3e43b287f98e76680011a",
+      "duration": 0.809796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0002",
+      "text": "Das",
+      "path": "audio/henri-whole-upgrade-20261018/rq002_whole_2da719d119b3.mp3",
+      "sha256": "2da719d119b359a6fdfa958a536bbdee7ddc69d9f96c9fbc4e62fb2999f42111",
+      "duration": 0.705306,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0003",
+      "text": "der",
+      "path": "audio/henri-whole-upgrade-20261018/rq003_whole_ab6a22655dcd.mp3",
+      "sha256": "ab6a22655dcdd47f827a7fa79c9bda7f87fab147ea5c6744fb4f96d3db4f6b3c",
+      "duration": 0.626939,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "whole-audio-0004",
+      "text": "die",
+      "path": "audio/henri-whole-upgrade-20261018/rq004_whole_458d817423ac.mp3",
+      "sha256": "458d817423accb1738172c8c3814e7db8aa1d1945fdd895595fefb619c6cbc56",
+      "duration": 0.548571,
+      "verification": "exact-full"
+    },
+    {
+      "id": "whole-audio-0005",
+      "text": "Tisch",
+      "path": "audio/henri-whole-upgrade-20261018/rq005_whole_55ff7aa6daf1.mp3",
+      "sha256": "55ff7aa6daf1e89496be98f0f619f83ad2eebd23f1dc674654797883b7192e69",
+      "duration": 0.653061,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0006",
+      "text": "Lampe",
+      "path": "audio/henri-whole-upgrade-20261018/rq006_whole_626a6ee50ba6.mp3",
+      "sha256": "626a6ee50ba6f9b15e143bb2dfe0e06a3e214f6a69f4e6cac132f7ec218ead9a",
+      "duration": 0.757551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0007",
+      "text": "Buch",
+      "path": "audio/henri-whole-upgrade-20261018/rq007_whole_b298af480dc9.mp3",
+      "sha256": "b298af480dc9ef59da182ffa1dea32fecdd4c20b4e8bc8376376f4f7772af213",
+      "duration": 0.679184,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "whole-audio-0008",
+      "text": "Stuhl",
+      "path": "audio/henri-whole-upgrade-20261018/rq008_whole_f7a35ced0009.mp3",
+      "sha256": "f7a35ced0009fe84dca576b8aa9e4bf43bc3e9cc79315e7df0ae45924e31ec5e",
+      "duration": 0.783673,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0009",
+      "text": "Tür",
+      "path": "audio/henri-whole-upgrade-20261018/rq009_whole_92853efd3589.mp3",
+      "sha256": "92853efd3589bef5ae0a009e47f960942b95b3eeb565e419aa3da12d47048c77",
+      "duration": 0.626939,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0010",
+      "text": "Fenster",
+      "path": "audio/henri-whole-upgrade-20261018/rq010_whole_18a65da2a10f.mp3",
+      "sha256": "18a65da2a10ff757e48420bc7259cbff25a2ec7f8a55acec869eeae645b29c48",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0011",
+      "text": "Hund",
+      "path": "audio/henri-whole-upgrade-20261018/rq011_whole_66a7bb8c75ef.mp3",
+      "sha256": "66a7bb8c75ef58a004d872ba8d832358b31c7e258e26d4f89c3e9e19a6f1a4cc",
+      "duration": 0.679184,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0012",
+      "text": "Katze",
+      "path": "audio/henri-whole-upgrade-20261018/rq012_whole_2122f770ec99.mp3",
+      "sha256": "2122f770ec99d6826d3ad78dcae11b444aa1b7675b612d697f7fabd7b5531b26",
+      "duration": 0.731429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0013",
+      "text": "ein Buch",
+      "path": "audio/henri-whole-upgrade-20261018/rq013_whole_18f3f26401b0.mp3",
+      "sha256": "18f3f26401b026276351c4cee4e84ce3884ee9d9a16667582178e35820e4e56a",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0014",
+      "text": "eine Lampe",
+      "path": "audio/henri-whole-upgrade-20261018/rq014_whole_4f0b6e328b10.mp3",
+      "sha256": "4f0b6e328b103678a8536fcf669bf69bc41a600666a0889f1d832aa1bd7ba5da",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0015",
+      "text": "keinen Hund",
+      "path": "audio/henri-whole-upgrade-20261018/rq015_whole_7d2571db47f7.mp3",
+      "sha256": "7d2571db47f74687e8370ee3fcfa5450e7667fd794b241e7de388460e5dbd3df",
+      "duration": 1.07102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0016",
+      "text": "keinen",
+      "path": "audio/henri-whole-upgrade-20261018/rq016_whole_761d480f5307.mp3",
+      "sha256": "761d480f5307d1f128f55faad674e84d09ebbb57e63bb7b21b8dcc558d058ea7",
+      "duration": 0.783673,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "whole-audio-0017",
+      "text": "meine",
+      "path": "audio/henri-whole-upgrade-20261018/rq017_whole_b0e6038260fc.mp3",
+      "sha256": "b0e6038260fcc94ba9cb2e906c90e07861e139972c7a3d1c28243563f1ded156",
+      "duration": 0.757551,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "whole-audio-0018",
+      "text": "deine",
+      "path": "audio/henri-whole-upgrade-20261018/rq018_whole_5da9440002d2.mp3",
+      "sha256": "5da9440002d2d5dd75f063511a4bf1560b9c69dbfc322e9c4d3811b6ab600a8f",
+      "duration": 0.679184,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0019",
+      "text": "Tasche",
+      "path": "audio/henri-whole-upgrade-20261018/rq019_whole_ab30621aeac9.mp3",
+      "sha256": "ab30621aeac906257fd288f6573abd590332c8331ed351b9ceee2844634f785d",
+      "duration": 0.679184,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "whole-audio-0020",
+      "text": "Wasser",
+      "path": "audio/henri-whole-upgrade-20261018/rq020_whole_c20b8caf6798.mp3",
+      "sha256": "c20b8caf6798aee3c7670888c10512e3a5900b9311838031f0dee7e8bd8c7f44",
+      "duration": 0.731429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0021",
+      "text": "Brot",
+      "path": "audio/henri-whole-upgrade-20261018/rq021_whole_e841f1a2ef35.mp3",
+      "sha256": "e841f1a2ef355953f8e3e05ed72936ad94fff15eb1ce61b792472a6dacb86b73",
+      "duration": 0.731429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0022",
+      "text": "möchte",
+      "path": "audio/henri-whole-upgrade-20261018/rq022_whole_dc188d7af7b1.mp3",
+      "sha256": "dc188d7af7b1d35591330d2f3947bfa1ef1225fe237463b9294b9d60fc89373a",
+      "duration": 0.757551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0023",
+      "text": "möchtest",
+      "path": "audio/henri-whole-upgrade-20261018/rq023_whole_d59e37eb6b51.mp3",
+      "sha256": "d59e37eb6b516b3746b8a581d0d865fff6e15dc4164ea97028764a7392d2fdf4",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0024",
+      "text": "möchtet",
+      "path": "audio/henri-whole-upgrade-20261018/rq024_whole_985077f9c172.mp3",
+      "sha256": "985077f9c17216441865b32a188782dcbb4c8aa3279c0ca34bfe31a918dc4289",
+      "duration": 0.809796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0025",
+      "text": "Ich lerne heute.",
+      "path": "audio/henri-whole-upgrade-20261018/rq025_whole_6cc88581561a.mp3",
+      "sha256": "6cc88581561a58c94f6635ba4f903b6dd99e36f94daaa903f833eb3877be8e7e",
+      "duration": 1.306122,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0026",
+      "text": "Du arbeitest morgen.",
+      "path": "audio/henri-whole-upgrade-20261018/rq026_whole_57e1b856de6d.mp3",
+      "sha256": "57e1b856de6dbdb58ce2d53b60ae37fd1916bf34c7a59dca07ed16b303a71984",
+      "duration": 1.567347,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0027",
+      "text": "Er wohnt hier.",
+      "path": "audio/henri-whole-upgrade-20261018/rq027_whole_2b9883497c9d.mp3",
+      "sha256": "2b9883497c9dc883960cff0f8b463aeff7b629973a9a267ab67600f8b6e97214",
+      "duration": 1.044898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0028",
+      "text": "Sie spielt dort.",
+      "path": "audio/henri-whole-upgrade-20261018/rq028_whole_086d2ec95c71.mp3",
+      "sha256": "086d2ec95c71c95eeb7d7c8d1fbc2255ffead244612784dbcca2b937f2eb2bb1",
+      "duration": 1.306122,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0029",
+      "text": "Wir lernen jetzt.",
+      "path": "audio/henri-whole-upgrade-20261018/rq029_whole_0578a6d3dccd.mp3",
+      "sha256": "0578a6d3dccd14852ba260f992e6d2f519cae22fa64af76f1c5497b1511b3e0d",
+      "duration": 1.332245,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0030",
+      "text": "Heute lerne ich.",
+      "path": "audio/henri-whole-upgrade-20261018/rq030_whole_8598726868e9.mp3",
+      "sha256": "8598726868e9fd5ae84f616e504a6a8ef5090818ab22675cb9c5a711cdcb3624",
+      "duration": 1.358367,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0031",
+      "text": "Morgen arbeitest du.",
+      "path": "audio/henri-whole-upgrade-20261018/rq031_whole_714178494c49.mp3",
+      "sha256": "714178494c499358857ee3f61975f5aae79c93c4fd7e3f8c57c5c4f8862f7223",
+      "duration": 1.567347,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0032",
+      "text": "Jetzt spielen wir.",
+      "path": "audio/henri-whole-upgrade-20261018/rq032_whole_32da70b43fc5.mp3",
+      "sha256": "32da70b43fc563a71fa1f02e5932734ba131f25e7fe79af34aeb250a504a6235",
+      "duration": 1.358367,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0033",
+      "text": "Was machst du?",
+      "path": "audio/henri-whole-upgrade-20261018/rq033_whole_522778e16f1f.mp3",
+      "sha256": "522778e16f1fa324762f259cb923a97a6176123784810741556b20dc267dc37a",
+      "duration": 0.992653,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0034",
+      "text": "Wo wohnst du?",
+      "path": "audio/henri-whole-upgrade-20261018/rq034_whole_89619311cc38.mp3",
+      "sha256": "89619311cc383c1ff065a69de336e60423cecb7b1ca3946eb7d2e8b7aa906530",
+      "duration": 1.018776,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0035",
+      "text": "Wann kommst du?",
+      "path": "audio/henri-whole-upgrade-20261018/rq035_whole_5152b8b362cb.mp3",
+      "sha256": "5152b8b362cb113180e703200bd6c090a0e49d433188608cccf6c8ad4cfbfa9f",
+      "duration": 1.07102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0036",
+      "text": "Wer kommt heute?",
+      "path": "audio/henri-whole-upgrade-20261018/rq036_whole_b509db41ea62.mp3",
+      "sha256": "b509db41ea62652fbc16af3eec60b5ae8883211bdf926a984ed382b14123e513",
+      "duration": 1.201633,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0037",
+      "text": "Wo arbeitet er?",
+      "path": "audio/henri-whole-upgrade-20261018/rq037_whole_896e2e505545.mp3",
+      "sha256": "896e2e50554520686c8879d429b80939b865835405502354383fcb728382c293",
+      "duration": 1.253878,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0038",
+      "text": "Was lernen wir?",
+      "path": "audio/henri-whole-upgrade-20261018/rq038_whole_2e0116ee1b85.mp3",
+      "sha256": "2e0116ee1b8549166bba920a43a66b1d376f2e2db1fddda86fc359ea762935fd",
+      "duration": 1.149388,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0039",
+      "text": "Du kannst gut singen.",
+      "path": "audio/henri-whole-upgrade-20261018/rq039_whole_5019e7cca63f.mp3",
+      "sha256": "5019e7cca63f1a1cb02856abacf698c207b26b7649a7b2b0e8beff6a4c749b2b",
+      "duration": 1.436735,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0040",
+      "text": "Er kann hier arbeiten.",
+      "path": "audio/henri-whole-upgrade-20261018/rq040_whole_56345a8b19d5.mp3",
+      "sha256": "56345a8b19d5e705663df4f36acee4375aa5013e5d8064ec6e39bb3c2b91690d",
+      "duration": 1.48898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0041",
+      "text": "Sie kann gut tanzen.",
+      "path": "audio/henri-whole-upgrade-20261018/rq041_whole_11e9ec320aad.mp3",
+      "sha256": "11e9ec320aad387a218c7a4b1cb11d849bd33aa6527bab80e950fb056f7aef70",
+      "duration": 1.462857,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0042",
+      "text": "Wir können heute spielen.",
+      "path": "audio/henri-whole-upgrade-20261018/rq042_whole_ddea14e4e797.mp3",
+      "sha256": "ddea14e4e797f409d1411cd8dfbeefacee810d8eb1d892a5a7ab8f2d693b4b8c",
+      "duration": 1.671837,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0043",
+      "text": "Ihr könnt morgen kommen.",
+      "path": "audio/henri-whole-upgrade-20261018/rq043_whole_9b738f21be01.mp3",
+      "sha256": "9b738f21be018e5a9f538524431338bb760fe73f285c3408c253b6d47e61b478",
+      "duration": 1.48898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0044",
+      "text": "Sie können hier wohnen.",
+      "path": "audio/henri-whole-upgrade-20261018/rq044_whole_91698eb612e5.mp3",
+      "sha256": "91698eb612e539cfbdc4d915f76d83389b989b2da5ecee631422401ee106b984",
+      "duration": 1.515102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0045",
+      "text": "Ich singe nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq045_whole_092a1a8bac2a.mp3",
+      "sha256": "092a1a8bac2a9b937179d9574647d11a02b2c745f78fe88fc033fb9bc6c53885",
+      "duration": 1.149388,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0046",
+      "text": "Du singst nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq046_whole_e8d649c99809.mp3",
+      "sha256": "e8d649c9980931aa197255322f9bcdb5646b0d84cf5a39588f5b799f7d332c54",
+      "duration": 1.201633,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0047",
+      "text": "Er singt nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq047_whole_ffe1e2f243bd.mp3",
+      "sha256": "ffe1e2f243bd7e7d9af98f6be0c96e2aecba58c6269434b7164a1abbc7444c7b",
+      "duration": 1.17551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0048",
+      "text": "Sie singt nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq048_whole_3b9e97ac66ae.mp3",
+      "sha256": "3b9e97ac66ae1953f02cf5d6754a040876139ceed4f7a7f92f86c5dd4f8b0203",
+      "duration": 1.227755,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0049",
+      "text": "Es singt nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq049_whole_f099f1340944.mp3",
+      "sha256": "f099f134094488d1dd42ba7d5034df345bdb4563c1f5ed91fca7ec05e3e3e200",
+      "duration": 1.201633,
+      "verification": "exact-full"
+    },
+    {
+      "id": "whole-audio-0050",
+      "text": "Ihr singt nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq050_whole_a8f9a14ed2f5.mp3",
+      "sha256": "a8f9a14ed2f5cef05d152f77d56af044f1ed7cfe3a871b78f968275a008563e9",
+      "duration": 1.149388,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0051",
+      "text": "Sie singen nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq051_whole_c4757f612fa5.mp3",
+      "sha256": "c4757f612fa5dc32594cd45502bf5146ff2c6148017de63a9d3660ae37565f9c",
+      "duration": 1.227755,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0052",
+      "text": "Ich spiele nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq052_whole_1f10c1bf12ef.mp3",
+      "sha256": "1f10c1bf12ef5f448aa4970f99a55e98952b67506cb64dfbbbea1b8a447be1c5",
+      "duration": 1.227755,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0053",
+      "text": "Du spielst nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq053_whole_38a1a0cb699e.mp3",
+      "sha256": "38a1a0cb699ed530f443777548dcae2cf9a922e9f5e4844ba68a8d1b614cbc2e",
+      "duration": 1.227755,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0054",
+      "text": "Sie spielt nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq054_whole_73ab3578914b.mp3",
+      "sha256": "73ab3578914b4a4165c01dfcb9d15b3e07287c93ff44466b43c34c9af1370730",
+      "duration": 1.28,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0055",
+      "text": "Es spielt nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq055_whole_e27c1982ad24.mp3",
+      "sha256": "e27c1982ad24a8d2491603af91a9f8cc18cbd70e8e4fdaf04b1302ca5867f3ee",
+      "duration": 1.201633,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0056",
+      "text": "Wir spielen nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq056_whole_6afb1da4f2bb.mp3",
+      "sha256": "6afb1da4f2bb9939087249d1192d4ec9acc9bc954a6325f20d84eca76c270388",
+      "duration": 1.28,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0057",
+      "text": "Ihr spielt nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq057_whole_da47128bce90.mp3",
+      "sha256": "da47128bce90c92230e30a40b908ecc46b5a03f555b390cbbd74c25e14e6d44f",
+      "duration": 1.201633,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0058",
+      "text": "Sie spielen nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq058_whole_80f632a6f535.mp3",
+      "sha256": "80f632a6f5353a3b31be410fb6c396b157dcd977c423e0681b696fa5e0ed12c4",
+      "duration": 1.253878,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0059",
+      "text": "Du tanzt nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq059_whole_ea73d5454da5.mp3",
+      "sha256": "ea73d5454da517ee13dfb21e34fb5e23f0b3e31a751abadbcb2598e3367fa967",
+      "duration": 1.201633,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0060",
+      "text": "Er tanzt nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq060_whole_b31b05854a63.mp3",
+      "sha256": "b31b05854a6339f663250ba2beebc52a41800552c93a324249a1de269f62216d",
+      "duration": 1.201633,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0061",
+      "text": "Sie tanzt nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq061_whole_1ebda515225d.mp3",
+      "sha256": "1ebda515225d0f36fbd81b8fdf9ea703dd2d05018a6c2a90f3d9ab8137b9fe74",
+      "duration": 1.253878,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0062",
+      "text": "Es tanzt nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq062_whole_fe6b7e40dc61.mp3",
+      "sha256": "fe6b7e40dc6115676c7c8da83ba41e8cd8ad96946fb0310539d419346daaee7b",
+      "duration": 1.253878,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0063",
+      "text": "Wir tanzen nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq063_whole_92490a43d628.mp3",
+      "sha256": "92490a43d628d836461632324245cbeb6554413983d139e57d7fecf7cbe124ca",
+      "duration": 1.306122,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0064",
+      "text": "Ihr tanzt nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq064_whole_440e806228e0.mp3",
+      "sha256": "440e806228e0827b91847dcad367d92e1057fe26e1e2f97de519c989bfc58d79",
+      "duration": 1.201633,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0065",
+      "text": "Sie tanzen nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq065_whole_b1465a163480.mp3",
+      "sha256": "b1465a163480640f836bfb54c88d509cb1bf09cf0b4c6d7423e1c6112f59bc3a",
+      "duration": 1.28,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0066",
+      "text": "Ich arbeite nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq066_whole_0ca7191d42a8.mp3",
+      "sha256": "0ca7191d42a8d68d1ded40ceed212bd75ed2fe9db461e4fb093c0086214f102f",
+      "duration": 1.358367,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0067",
+      "text": "Du arbeitest nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq067_whole_395a9e252506.mp3",
+      "sha256": "395a9e252506c7263cb9396bbeada08395532d18dc69abee7499291d770494a5",
+      "duration": 1.38449,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0068",
+      "text": "Er arbeitet nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq068_whole_b31585cbb7e3.mp3",
+      "sha256": "b31585cbb7e3be54e5f249e2143bebf61f22c292668f706650397894de6650cc",
+      "duration": 1.332245,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0069",
+      "text": "Sie arbeitet nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq069_whole_564ce1e6046b.mp3",
+      "sha256": "564ce1e6046b69f95f022a51da0ce5380107b15592bb868081f07dc13f7031b0",
+      "duration": 1.410612,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0070",
+      "text": "Es arbeitet nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq070_whole_3f66b83b5106.mp3",
+      "sha256": "3f66b83b5106e2b6bccec2ff8c215f995841eee9bfa5f911ffb826b2a078ce61",
+      "duration": 1.38449,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0071",
+      "text": "Wir arbeiten nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq071_whole_fa32d613a023.mp3",
+      "sha256": "fa32d613a023411e955ba6f6a80d84adde6b7b0b35670cf03e634d6855c54545",
+      "duration": 1.462857,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0072",
+      "text": "Ihr arbeitet nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq072_whole_321605e233ff.mp3",
+      "sha256": "321605e233ff7eb65e76cc890f3fdc3071650f715b5b256f6cceaa25670cc906",
+      "duration": 1.332245,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0073",
+      "text": "Sie arbeiten nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq073_whole_9c66b697d18a.mp3",
+      "sha256": "9c66b697d18aab703e716cce8cca06565329e4871984253261bfb2855be53fd6",
+      "duration": 1.410612,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0074",
+      "text": "Singe ich?",
+      "path": "audio/henri-whole-upgrade-20261018/rq074_whole_0b318216ebab.mp3",
+      "sha256": "0b318216ebab12301492960ea1ad4c23406f24f992829cc038d3a424b4ce9132",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0075",
+      "text": "Singt er?",
+      "path": "audio/henri-whole-upgrade-20261018/rq075_whole_f3082a7f074a.mp3",
+      "sha256": "f3082a7f074a962e39527934dbdf3a9ccd6494665f5b62fdb5d6f013b969dddb",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0076",
+      "text": "Singt sie?",
+      "path": "audio/henri-whole-upgrade-20261018/rq076_whole_6fb2f5139f42.mp3",
+      "sha256": "6fb2f5139f4249c492593c76206b1f583ad3338056ad6acf66639137981a2d56",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0077",
+      "text": "Singt es?",
+      "path": "audio/henri-whole-upgrade-20261018/rq077_whole_8a146daadb6f.mp3",
+      "sha256": "8a146daadb6f5b803bc483f7fbf4cdcc3405feb60c83ed5ab0cd9598af6a5396",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0078",
+      "text": "Singen wir?",
+      "path": "audio/henri-whole-upgrade-20261018/rq078_whole_2e224fc860da.mp3",
+      "sha256": "2e224fc860dac67c37d333418b264e353accc5ced47720323fa681a5a02feb27",
+      "duration": 0.992653,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0079",
+      "text": "Singt ihr?",
+      "path": "audio/henri-whole-upgrade-20261018/rq079_whole_f3a8dda8c7c0.mp3",
+      "sha256": "f3a8dda8c7c0d226a6540560a8fcf8411899b58849738699d8e5d69bf3d1ad9b",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0080",
+      "text": "Singen sie?",
+      "path": "audio/henri-whole-upgrade-20261018/rq080_whole_22ea4f882656.mp3",
+      "sha256": "22ea4f88265641f38e9ec0d7df977b5daddeaad05a0175e3a4eb0001fe66cc07",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0081",
+      "text": "Spiele ich?",
+      "path": "audio/henri-whole-upgrade-20261018/rq081_whole_1a360c3ec36b.mp3",
+      "sha256": "1a360c3ec36b40f2566d429a2ca861bffb3eabe38b083dfd1e0582ff2a6fdca0",
+      "duration": 0.992653,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0082",
+      "text": "Spielst du?",
+      "path": "audio/henri-whole-upgrade-20261018/rq082_whole_1a6c9c3ed846.mp3",
+      "sha256": "1a6c9c3ed846b8f504c54dce87b709c16f40673d6eb9ffae7a21a084ae4f98c9",
+      "duration": 0.992653,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0083",
+      "text": "Spielt sie?",
+      "path": "audio/henri-whole-upgrade-20261018/rq083_whole_4511cceb6e40.mp3",
+      "sha256": "4511cceb6e4091e0967e074b1cd17f23937fc73be12a5c8941b2f3edf4caecea",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0084",
+      "text": "Spielt es?",
+      "path": "audio/henri-whole-upgrade-20261018/rq084_whole_b4fa3ecd11af.mp3",
+      "sha256": "b4fa3ecd11af32c46d36bf3e1cf3aab74e74d25266c8dde0eea5ece3d69310e7",
+      "duration": 1.018776,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0085",
+      "text": "Spielen wir?",
+      "path": "audio/henri-whole-upgrade-20261018/rq085_whole_f437ee8982d5.mp3",
+      "sha256": "f437ee8982d5f09f32376747d20ba2cdf90b76fe0c6258435419c4889c58c5c5",
+      "duration": 1.018776,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0086",
+      "text": "Spielt ihr?",
+      "path": "audio/henri-whole-upgrade-20261018/rq086_whole_559b02e8d8b8.mp3",
+      "sha256": "559b02e8d8b880ed97b7958fa257ec78b5d4c11f556c74c0d807b36b116d157a",
+      "duration": 0.992653,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0087",
+      "text": "Spielen sie?",
+      "path": "audio/henri-whole-upgrade-20261018/rq087_whole_96f45616375d.mp3",
+      "sha256": "96f45616375d102f9409bb0b1c1609ab5647344368f8d2f0cfc9693ffa52986b",
+      "duration": 0.992653,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0088",
+      "text": "Tanze ich?",
+      "path": "audio/henri-whole-upgrade-20261018/rq088_whole_9344718d928e.mp3",
+      "sha256": "9344718d928e72bb5e7ba177a00e80d711420f1d760706ab22822acc5bc84e76",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0089",
+      "text": "Tanzt du?",
+      "path": "audio/henri-whole-upgrade-20261018/rq089_whole_ac04bc991725.mp3",
+      "sha256": "ac04bc9917259b2f99c4c0697cc0a0daf3d682c6bae14e3709d24fd8507fed53",
+      "duration": 0.914286,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "whole-audio-0090",
+      "text": "Tanzt er?",
+      "path": "audio/henri-whole-upgrade-20261018/rq090_whole_2b5d37b739b0.mp3",
+      "sha256": "2b5d37b739b052c8c823bfaa686f66bbdd94b0ad029568b465736977a0ba437b",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0091",
+      "text": "Tanzt sie?",
+      "path": "audio/henri-whole-upgrade-20261018/rq091_whole_8cad2f3c8465.mp3",
+      "sha256": "8cad2f3c846541a0d6c585f8e31098cb98841d8b85349e45d8ccc2cdf3018ce2",
+      "duration": 0.966531,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "whole-audio-0092",
+      "text": "Tanzt es?",
+      "path": "audio/henri-whole-upgrade-20261018/rq092_whole_aa61ec286e98.mp3",
+      "sha256": "aa61ec286e98f03119ba3a46cc39a2527b23e8430e5cbfe5d5e152c6fc6751cb",
+      "duration": 0.992653,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "whole-audio-0093",
+      "text": "Tanzen wir?",
+      "path": "audio/henri-whole-upgrade-20261018/rq093_whole_4d9201363444.mp3",
+      "sha256": "4d92013634444498838660a822076426620e9053bc414c1203eab061f49bd379",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0094",
+      "text": "Tanzen sie?",
+      "path": "audio/henri-whole-upgrade-20261018/rq094_whole_3eedcb01d7bf.mp3",
+      "sha256": "3eedcb01d7bfd17115644d3020fb39fa0c15d0f733c9edc72be2e8ac805db3a1",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0095",
+      "text": "Arbeite ich?",
+      "path": "audio/henri-whole-upgrade-20261018/rq095_whole_83f15ae0d62a.mp3",
+      "sha256": "83f15ae0d62a8b8a802a60492f4f13c9b14aeda9639eb62371230a5ccd6c566e",
+      "duration": 1.044898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0096",
+      "text": "Arbeitest du?",
+      "path": "audio/henri-whole-upgrade-20261018/rq096_whole_d521fed46b17.mp3",
+      "sha256": "d521fed46b17657dc5b71d5140c278c35cfa632d81bcc4e51904dde82cf2d7f9",
+      "duration": 1.07102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0097",
+      "text": "Arbeitet er?",
+      "path": "audio/henri-whole-upgrade-20261018/rq097_whole_200c0dfa6b9b.mp3",
+      "sha256": "200c0dfa6b9b0c58df6b718883b5a0c106a47b6e303e94a9900d0d924dc7ad95",
+      "duration": 1.097143,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0098",
+      "text": "Arbeitet sie?",
+      "path": "audio/henri-whole-upgrade-20261018/rq098_whole_67b526023ca0.mp3",
+      "sha256": "67b526023ca002c5676f100717fac74c88356c74a9d2ec5faf7122a6a70d7e76",
+      "duration": 1.044898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0099",
+      "text": "Arbeitet es?",
+      "path": "audio/henri-whole-upgrade-20261018/rq099_whole_8971afe0f43e.mp3",
+      "sha256": "8971afe0f43e1660eb03736f4e10a0c84eea6c93eb26920633c32cf33d18060b",
+      "duration": 1.123265,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "whole-audio-0100",
+      "text": "Arbeiten wir?",
+      "path": "audio/henri-whole-upgrade-20261018/rq100_whole_9c0ea2221ea2.mp3",
+      "sha256": "9c0ea2221ea25156ce7ad9fe27b21b478d0c4d27282577f607f85487e15aa3b4",
+      "duration": 1.07102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0101",
+      "text": "Arbeitet ihr?",
+      "path": "audio/henri-whole-upgrade-20261018/rq101_whole_92786f626225.mp3",
+      "sha256": "92786f6262253c2be74716f57e216ddc24e68c5500af4d36e403fdff12c2f314",
+      "duration": 1.097143,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0102",
+      "text": "Arbeiten sie?",
+      "path": "audio/henri-whole-upgrade-20261018/rq102_whole_bb9acbe2c444.mp3",
+      "sha256": "bb9acbe2c4445dd5fc822a27e9cf6d20444600fce627dfa359b9516f285df927",
+      "duration": 1.044898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0103",
+      "text": "Wir wohnen hier.",
+      "path": "audio/henri-whole-upgrade-20261018/rq103_whole_90b86bae9496.mp3",
+      "sha256": "90b86bae9496b1981ccddd3066cb1f757cabbfc846640baf4b4090584ebd673b",
+      "duration": 1.253878,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0104",
+      "text": "Du bist dort.",
+      "path": "audio/henri-whole-upgrade-20261018/rq104_whole_80a7d75860b4.mp3",
+      "sha256": "80a7d75860b43fee2ae41edce36e237e9d9ee6d1c4ae18e2b101b507ece8dcf4",
+      "duration": 1.044898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0105",
+      "text": "Es ist hier.",
+      "path": "audio/henri-whole-upgrade-20261018/rq105_whole_44606f8a24b1.mp3",
+      "sha256": "44606f8a24b1deafc1b2e62370a4fd09556fde4d51fbbccfa21e579c8c0511c5",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0106",
+      "text": "Ihr seid hier.",
+      "path": "audio/henri-whole-upgrade-20261018/rq106_whole_c5ac5fdc8eeb.mp3",
+      "sha256": "c5ac5fdc8eebb7322a19cf2ca4b7624d537feab7b177bc9e3b76429894be664e",
+      "duration": 1.07102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0107",
+      "text": "Sie sind dort.",
+      "path": "audio/henri-whole-upgrade-20261018/rq107_whole_40b5f76c4175.mp3",
+      "sha256": "40b5f76c4175235d6b374ba2fcd65ce4269b1730f58222b0632935b13496a73b",
+      "duration": 1.123265,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0108",
+      "text": "Sie haben Zeit.",
+      "path": "audio/henri-whole-upgrade-20261018/rq108_whole_498e6ae31a0e.mp3",
+      "sha256": "498e6ae31a0e77de173ea596f07bbca3cc5042d1d6a8a9abbc314b3c1ca82eba",
+      "duration": 1.201633,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0109",
+      "text": "Morgen spielst du.",
+      "path": "audio/henri-whole-upgrade-20261018/rq109_whole_2cefb4cd2058.mp3",
+      "sha256": "2cefb4cd20586fcb864178177c4c5e692617e133e39052f8cfd08695d9ad2438",
+      "duration": 1.332245,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0110",
+      "text": "Jetzt lernen wir.",
+      "path": "audio/henri-whole-upgrade-20261018/rq110_whole_649263957e67.mp3",
+      "sha256": "649263957e67bb7855b165be80ebae2cc1b3aa0f23ce8e0b7de50380878b2598",
+      "duration": 1.306122,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0111",
+      "text": "Hier wohnt er.",
+      "path": "audio/henri-whole-upgrade-20261018/rq111_whole_2fea6eb9db0b.mp3",
+      "sha256": "2fea6eb9db0b81693b57cd7a0f8309afd97171c8c33852863ae87fb0e14c74a1",
+      "duration": 1.123265,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0112",
+      "text": "Dort spielt sie.",
+      "path": "audio/henri-whole-upgrade-20261018/rq112_whole_72f40d50af81.mp3",
+      "sha256": "72f40d50af81e32402a0f346a8801709e2fe1399fd172ffade6281562580f1e0",
+      "duration": 1.123265,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0113",
+      "text": "Heute habe ich Zeit.",
+      "path": "audio/henri-whole-upgrade-20261018/rq113_whole_a1fa1affaf4a.mp3",
+      "sha256": "a1fa1affaf4abf6595f7ef7a045485759e8fdb37977329cb9d64df6d42206d4f",
+      "duration": 1.515102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0114",
+      "text": "Morgen sind wir hier.",
+      "path": "audio/henri-whole-upgrade-20261018/rq114_whole_9e7b814af5b5.mp3",
+      "sha256": "9e7b814af5b579c74e0050dedbd5a3d1610c80c9f63f584ca6801654885bb46d",
+      "duration": 1.515102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0115",
+      "text": "Du lernst nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq115_whole_e82ff0b5191d.mp3",
+      "sha256": "e82ff0b5191d5dae0379170c4db3e354f8681fbf389e55b32e58aa8eee3bf05b",
+      "duration": 1.227755,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0116",
+      "text": "Ihr seid nicht hier.",
+      "path": "audio/henri-whole-upgrade-20261018/rq116_whole_3103d0b03dd5.mp3",
+      "sha256": "3103d0b03dd520aebd5dfdca4259023c29d28039b803bcdc8a3505b113e87cb1",
+      "duration": 1.253878,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0117",
+      "text": "Heute arbeitet er nicht.",
+      "path": "audio/henri-whole-upgrade-20261018/rq117_whole_f95ff3ccbe4f.mp3",
+      "sha256": "f95ff3ccbe4f93b85ba6f04ca999b62a7adb929300bc0bafc5442bafd7ef6b1a",
+      "duration": 1.671837,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0118",
+      "text": "Lernst du?",
+      "path": "audio/henri-whole-upgrade-20261018/rq118_whole_3e11e5ab0047.mp3",
+      "sha256": "3e11e5ab0047ea56bb5091ce278c7f5fe8cc1fff5828c1b4ecc7f5813177a8ae",
+      "duration": 0.862041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0119",
+      "text": "Arbeiten wir heute?",
+      "path": "audio/henri-whole-upgrade-20261018/rq119_whole_3c72564c9a75.mp3",
+      "sha256": "3c72564c9a75371ee81b0dd08f65c79ce157dc4bfbf8ba595da892aa54f2c682",
+      "duration": 1.253878,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0120",
+      "text": "Wer lernt hier?",
+      "path": "audio/henri-whole-upgrade-20261018/rq120_whole_6c9d8b725bd9.mp3",
+      "sha256": "6c9d8b725bd9f136b05df8af4531347b1843b7921056c735eae218d2ecc8481b",
+      "duration": 1.17551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0121",
+      "text": "Wo seid ihr?",
+      "path": "audio/henri-whole-upgrade-20261018/rq121_whole_2f157628a9ac.mp3",
+      "sha256": "2f157628a9acc78419beaa2e7ced5d91a0b5bbc0a9760423b0972bb936392b80",
+      "duration": 1.018776,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0122",
+      "text": "Wann haben Sie Zeit?",
+      "path": "audio/henri-whole-upgrade-20261018/rq122_whole_7f6e5c979fd6.mp3",
+      "sha256": "7f6e5c979fd63d48d7702f6c3a0bdea01f21af8eaca90c1f32d5e7f3c67b8c0f",
+      "duration": 1.358367,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0123",
+      "text": "Wie alt bist du?",
+      "path": "audio/henri-whole-upgrade-20261018/rq123_whole_aafb49f25b83.mp3",
+      "sha256": "aafb49f25b83f60ccc4151b13a25f17073eea1e1b2c984307697070d5390d9ff",
+      "duration": 1.123265,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0124",
+      "text": "Er kennt sie.",
+      "path": "audio/henri-whole-upgrade-20261018/rq124_whole_4c0ff855b64d.mp3",
+      "sha256": "4c0ff855b64d838382165b5c6bccc9a1f9de1784b3468fd3f5c30b39601dde27",
+      "duration": 0.992653,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0125",
+      "text": "Wir kennen sie.",
+      "path": "audio/henri-whole-upgrade-20261018/rq125_whole_38be699e5005.mp3",
+      "sha256": "38be699e50058aee78318cf7da626c054945275f6edf96fb4d28d7d44a937254",
+      "duration": 1.149388,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0126",
+      "text": "Ich kenne Sie.",
+      "path": "audio/henri-whole-upgrade-20261018/rq126_whole_9b3bd2bbe0b7.mp3",
+      "sha256": "9b3bd2bbe0b74725856afafe41d7ca702d4b1c5b907154a9d7aba629f8e5abe0",
+      "duration": 1.07102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0127",
+      "text": "Was nehmen Sie?",
+      "path": "audio/henri-whole-upgrade-20261018/rq127_whole_8e0416f725c6.mp3",
+      "sha256": "8e0416f725c611fe1a8dc2a959dd48f85e4f6155b44d771007b74582a9ce4ab3",
+      "duration": 1.044898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0128",
+      "text": "Danke schön!",
+      "path": "audio/henri-whole-upgrade-20261018/rq128_whole_69a9498d8ca3.mp3",
+      "sha256": "69a9498d8ca3c8a08090226e56de20be71af3990238f9a40deb3299c7477dafa",
+      "duration": 0.862041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0129",
+      "text": "Ihr könnt heute kommen.",
+      "path": "audio/henri-whole-upgrade-20261018/rq129_whole_2c1ccbcef066.mp3",
+      "sha256": "2c1ccbcef066d02a0cbb3a0c5d0bff3783ec718e7673df6b4ca1bdbdfbfa2075",
+      "duration": 1.253878,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0130",
+      "text": "Sie können gut lesen.",
+      "path": "audio/henri-whole-upgrade-20261018/rq130_whole_f011d9591b1b.mp3",
+      "sha256": "f011d9591b1b8fdb1897abf097ef218e269a51ca1200ef4255d8578d627b77e6",
+      "duration": 1.48898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0131",
+      "text": "Kannst du helfen?",
+      "path": "audio/henri-whole-upgrade-20261018/rq131_whole_f22a802fd4f2.mp3",
+      "sha256": "f22a802fd4f20fd396727924ec7fe005883771ca31ff09d846de152eef4e1018",
+      "duration": 1.07102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0132",
+      "text": "Ich kann nicht kommen.",
+      "path": "audio/henri-whole-upgrade-20261018/rq132_whole_ee5832bbcbfc.mp3",
+      "sha256": "ee5832bbcbfcdd8972659933580a00b51244383d58e0f1755a3e87077713e59b",
+      "duration": 1.227755,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0133",
+      "text": "Ich muss lernen.",
+      "path": "audio/henri-whole-upgrade-20261018/rq133_whole_e94459160fb2.mp3",
+      "sha256": "e94459160fb2d3333f2de060c73269d03e89f3fa15decbec57a0e274449e88c3",
+      "duration": 1.123265,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0134",
+      "text": "Du musst arbeiten.",
+      "path": "audio/henri-whole-upgrade-20261018/rq134_whole_f4a13f1f7175.mp3",
+      "sha256": "f4a13f1f71753769e7f8ac73fe406a4536eb48a5d4d23ab9243092164378419c",
+      "duration": 1.28,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0135",
+      "text": "Wir müssen kommen.",
+      "path": "audio/henri-whole-upgrade-20261018/rq135_whole_21db9b6f0111.mp3",
+      "sha256": "21db9b6f011134c28a24c15c371eb19e1115295b1f93cb4cf23c63375eafca54",
+      "duration": 1.17551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0136",
+      "text": "Ihr müsst schlafen.",
+      "path": "audio/henri-whole-upgrade-20261018/rq136_whole_c9453ec8b8d8.mp3",
+      "sha256": "c9453ec8b8d8305f7673a8886b4c2b71de94381e54fef51f28b03fc799c5d7f0",
+      "duration": 1.201633,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0137",
+      "text": "Du willst spielen.",
+      "path": "audio/henri-whole-upgrade-20261018/rq137_whole_8626d0c9aeba.mp3",
+      "sha256": "8626d0c9aebad63dc439b911abd35283932fbc7da06b7e24795153266cd9425f",
+      "duration": 1.253878,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0138",
+      "text": "Wir müssen heute nicht arbeiten.",
+      "path": "audio/henri-whole-upgrade-20261018/rq138_whole_d727291e1a1c.mp3",
+      "sha256": "d727291e1a1cbf41539e7b4baeec8ec3aa345b197d78fe44df719baf5b9fe224",
+      "duration": 1.828571,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0139",
+      "text": "Kommt bitte!",
+      "path": "audio/henri-whole-upgrade-20261018/rq139_whole_940fee9cd6f9.mp3",
+      "sha256": "940fee9cd6f9584aad43fa4190ebaea13faf726b494f417fc9e53067b9611c09",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0140",
+      "text": "Kommen Sie bitte!",
+      "path": "audio/henri-whole-upgrade-20261018/rq140_whole_af021546d0a2.mp3",
+      "sha256": "af021546d0a278d39da581c24df055a6de2906ff742af36017e3a66769c4cad9",
+      "duration": 1.07102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0141",
+      "text": "Kommst du mit?",
+      "path": "audio/henri-whole-upgrade-20261018/rq141_whole_9d86ff92705d.mp3",
+      "sha256": "9d86ff92705dfe740e50666a5e59110b04309e8ca96d33837807e5c381e9076a",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0142",
+      "text": "Ich lerne und du spielst.",
+      "path": "audio/henri-whole-upgrade-20261018/rq142_whole_7375155b4679.mp3",
+      "sha256": "7375155b46798cfe7d9756593690d36b316a10d058c10063006287ab72a86594",
+      "duration": 2.011429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0143",
+      "text": "Sie liest und schreibt.",
+      "path": "audio/henri-whole-upgrade-20261018/rq143_whole_f9d4bd174f33.mp3",
+      "sha256": "f9d4bd174f33ec26b7f39a53a327ed80c8676c8d5c8d8e0e24f6618da72c73c3",
+      "duration": 1.593469,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0144",
+      "text": "Zeit haben",
+      "path": "audio/henri-whole-upgrade-20261018/rq144_whole_d0b87d3e5055.mp3",
+      "sha256": "d0b87d3e5055b357734bf58164efe4c861357656c848a882c30407b019247f28",
+      "duration": 1.018776,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0145",
+      "text": "Ich bin glücklich.",
+      "path": "audio/henri-whole-upgrade-20261018/rq145_whole_4f3f932f7876.mp3",
+      "sha256": "4f3f932f787681e0bac989f8dd4601a5dd852a0754612d4c62af93c0ceebadf7",
+      "duration": 1.28,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0146",
+      "text": "Hast du morgen Zeit?",
+      "path": "audio/henri-whole-upgrade-20261018/rq146_whole_ace8429b8e59.mp3",
+      "sha256": "ace8429b8e593df8634486f7c65a847de277751fc31a81e0c632ce5b2d5dcc89",
+      "duration": 1.28,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "whole-audio-0147",
+      "text": "Wer kommt?",
+      "path": "audio/henri-whole-upgrade-20261018/rq147_whole_eeabeccf5d74.mp3",
+      "sha256": "eeabeccf5d74f2e6e6363ca20f46f27f8ddb38047cc3e4dffcd93ac22e213a76",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
     }
   ]
 }
