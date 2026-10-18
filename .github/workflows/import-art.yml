@@ -59,6 +59,8 @@ jobs:
         run: node .github/tests/vocab-modes.cjs
       - name: Verify recorded audio playback
         run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg
           node .github/tests/voice-recordings.cjs
           node scripts/audit_all_audio.cjs --decode --require-whole
       - name: Commit validated artwork and bindings
