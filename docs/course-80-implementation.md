@@ -64,3 +64,7 @@
 - Duden, Perfekt: https://www.duden.de/sprachwissen/sprachratgeber/Perfektbildung-mit-haben-oder-sein
 - Duden, Cent: https://www.duden.de/rechtschreibung/Cent
 - Duden, Euro: https://www.duden.de/rechtschreibung/Euro_Waehrung
+
+## Human audio update — 18 October 2026
+
+Part 1 of the version-1 669-entry script has been imported: 223 exact recordings, including all 12 whole reading texts. Existing 453 bindings are preserved; the recording map now has 676 entries. The frozen 669-line script and IDs remain unchanged for the pending parts 2 and 3 (223 entries each). The runtime audit is refreshed separately. Source, full/isolated recognition evidence, hashes and crop boundaries are preserved under audio-sources/henri-course-part1-20261018 and audio-inbox. These are automated checks, not independent human linguistic proofreading.

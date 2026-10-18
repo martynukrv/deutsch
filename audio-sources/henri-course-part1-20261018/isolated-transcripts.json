@@ -1,0 +1,6928 @@
+[
+  {
+    "n": 1,
+    "expected": "Ich bin Mia. Ich bin hier. Ich lerne Deutsch. Ich habe Zeit.",
+    "recognized": "Ich bin mir. Ich bin hier. Ich lerne Deutsch. Ich habe Zeit.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " bin",
+        "start": 0.18,
+        "end": 0.34
+      },
+      {
+        "word": " mir.",
+        "start": 0.34,
+        "end": 0.62
+      },
+      {
+        "word": " Ich",
+        "start": 1.1,
+        "end": 1.3
+      },
+      {
+        "word": " bin",
+        "start": 1.3,
+        "end": 1.44
+      },
+      {
+        "word": " hier.",
+        "start": 1.44,
+        "end": 1.72
+      },
+      {
+        "word": " Ich",
+        "start": 2.36,
+        "end": 2.46
+      },
+      {
+        "word": " lerne",
+        "start": 2.46,
+        "end": 2.78
+      },
+      {
+        "word": " Deutsch.",
+        "start": 2.78,
+        "end": 3.12
+      },
+      {
+        "word": " Ich",
+        "start": 3.74,
+        "end": 3.88
+      },
+      {
+        "word": " habe",
+        "start": 3.88,
+        "end": 4.06
+      },
+      {
+        "word": " Zeit.",
+        "start": 4.06,
+        "end": 4.36
+      }
+    ]
+  },
+  {
+    "n": 2,
+    "expected": "Ich heiße Mia. Ich wohne in Berlin. Heute habe ich Zeit. Morgen arbeite ich nicht.",
+    "recognized": "Ich heiße Mia. Ich wohne in Berlin. Heute habe ich Zeit. Morgen arbeite ich nicht.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " heiße",
+        "start": 0.2,
+        "end": 0.54
+      },
+      {
+        "word": " Mia.",
+        "start": 0.54,
+        "end": 0.8
+      },
+      {
+        "word": " Ich",
+        "start": 1.38,
+        "end": 1.52
+      },
+      {
+        "word": " wohne",
+        "start": 1.52,
+        "end": 1.82
+      },
+      {
+        "word": " in",
+        "start": 1.82,
+        "end": 1.94
+      },
+      {
+        "word": " Berlin.",
+        "start": 1.94,
+        "end": 2.22
+      },
+      {
+        "word": " Heute",
+        "start": 2.94,
+        "end": 3.22
+      },
+      {
+        "word": " habe",
+        "start": 3.22,
+        "end": 3.56
+      },
+      {
+        "word": " ich",
+        "start": 3.56,
+        "end": 3.74
+      },
+      {
+        "word": " Zeit.",
+        "start": 3.74,
+        "end": 4.04
+      },
+      {
+        "word": " Morgen",
+        "start": 4.62,
+        "end": 4.98
+      },
+      {
+        "word": " arbeite",
+        "start": 4.98,
+        "end": 5.62
+      },
+      {
+        "word": " ich",
+        "start": 5.62,
+        "end": 5.78
+      },
+      {
+        "word": " nicht.",
+        "start": 5.78,
+        "end": 6.0
+      }
+    ]
+  },
+  {
+    "n": 3,
+    "expected": "Das ist meine Familie. Mein Vater ist Lehrer. Meine Mutter ist hier. Unsere Katze ist weiß.",
+    "recognized": "Das ist meine Familie, mein Vater ist Lehrer, meine Mutter ist hier, unsere Katze ist weiß.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " ist",
+        "start": 0.24,
+        "end": 0.48
+      },
+      {
+        "word": " meine",
+        "start": 0.48,
+        "end": 0.72
+      },
+      {
+        "word": " Familie,",
+        "start": 0.72,
+        "end": 1.32
+      },
+      {
+        "word": " mein",
+        "start": 1.78,
+        "end": 2.0
+      },
+      {
+        "word": " Vater",
+        "start": 2.0,
+        "end": 2.38
+      },
+      {
+        "word": " ist",
+        "start": 2.38,
+        "end": 2.64
+      },
+      {
+        "word": " Lehrer,",
+        "start": 2.64,
+        "end": 3.0
+      },
+      {
+        "word": " meine",
+        "start": 3.54,
+        "end": 3.74
+      },
+      {
+        "word": " Mutter",
+        "start": 3.74,
+        "end": 4.04
+      },
+      {
+        "word": " ist",
+        "start": 4.04,
+        "end": 4.34
+      },
+      {
+        "word": " hier,",
+        "start": 4.34,
+        "end": 4.62
+      },
+      {
+        "word": " unsere",
+        "start": 5.14,
+        "end": 5.4
+      },
+      {
+        "word": " Katze",
+        "start": 5.4,
+        "end": 5.98
+      },
+      {
+        "word": " ist",
+        "start": 5.98,
+        "end": 6.2
+      },
+      {
+        "word": " weiß.",
+        "start": 6.2,
+        "end": 6.5
+      }
+    ]
+  },
+  {
+    "n": 4,
+    "expected": "Ich nehme einen Tee. Ich trinke gern Tee. Meine Freundin nimmt Wasser.",
+    "recognized": "Ich nehme einen Tee, ich trinke gern Tee. Meine Freundin nimmt Wasser.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " nehme",
+        "start": 0.18,
+        "end": 0.42
+      },
+      {
+        "word": " einen",
+        "start": 0.42,
+        "end": 0.68
+      },
+      {
+        "word": " Tee,",
+        "start": 0.68,
+        "end": 1.48
+      },
+      {
+        "word": " ich",
+        "start": 1.64,
+        "end": 1.74
+      },
+      {
+        "word": " trinke",
+        "start": 1.74,
+        "end": 2.1
+      },
+      {
+        "word": " gern",
+        "start": 2.1,
+        "end": 2.34
+      },
+      {
+        "word": " Tee.",
+        "start": 2.34,
+        "end": 3.12
+      },
+      {
+        "word": " Meine",
+        "start": 3.14,
+        "end": 3.42
+      },
+      {
+        "word": " Freundin",
+        "start": 3.42,
+        "end": 4.04
+      },
+      {
+        "word": " nimmt",
+        "start": 4.04,
+        "end": 4.24
+      },
+      {
+        "word": " Wasser.",
+        "start": 4.24,
+        "end": 4.58
+      }
+    ]
+  },
+  {
+    "n": 5,
+    "expected": "Ich möchte Deutsch lernen. Heute muss ich arbeiten. Morgen kann ich lernen. Du kannst lernen.",
+    "recognized": "Ich möchte Deutsch lernen. Heute muss ich arbeiten. Morgen kann ich lernen. Du kannst lernen.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " möchte",
+        "start": 0.18,
+        "end": 0.38
+      },
+      {
+        "word": " Deutsch",
+        "start": 0.38,
+        "end": 0.82
+      },
+      {
+        "word": " lernen.",
+        "start": 0.82,
+        "end": 1.24
+      },
+      {
+        "word": " Heute",
+        "start": 1.84,
+        "end": 2.08
+      },
+      {
+        "word": " muss",
+        "start": 2.08,
+        "end": 2.4
+      },
+      {
+        "word": " ich",
+        "start": 2.4,
+        "end": 2.56
+      },
+      {
+        "word": " arbeiten.",
+        "start": 2.56,
+        "end": 3.06
+      },
+      {
+        "word": " Morgen",
+        "start": 3.56,
+        "end": 3.94
+      },
+      {
+        "word": " kann",
+        "start": 3.94,
+        "end": 4.24
+      },
+      {
+        "word": " ich",
+        "start": 4.24,
+        "end": 4.4
+      },
+      {
+        "word": " lernen.",
+        "start": 4.4,
+        "end": 4.72
+      },
+      {
+        "word": " Du",
+        "start": 5.26,
+        "end": 5.42
+      },
+      {
+        "word": " kannst",
+        "start": 5.42,
+        "end": 5.66
+      },
+      {
+        "word": " lernen.",
+        "start": 5.66,
+        "end": 6.04
+      }
+    ]
+  },
+  {
+    "n": 6,
+    "expected": "Ich habe ein Geschenk für meinen Vater. Das ist ein Buch. Mein Vater liest gern. Ich gebe ihm das Buch.",
+    "recognized": "Ich habe ein Geschenk für meinen Vater. Das ist ein Buch. Mein Vater liest gern. Ich gebe ihm das Buch.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " habe",
+        "start": 0.18,
+        "end": 0.36
+      },
+      {
+        "word": " ein",
+        "start": 0.36,
+        "end": 0.56
+      },
+      {
+        "word": " Geschenk",
+        "start": 0.56,
+        "end": 1.04
+      },
+      {
+        "word": " für",
+        "start": 1.04,
+        "end": 1.16
+      },
+      {
+        "word": " meinen",
+        "start": 1.16,
+        "end": 1.36
+      },
+      {
+        "word": " Vater.",
+        "start": 1.36,
+        "end": 1.78
+      },
+      {
+        "word": " Das",
+        "start": 2.36,
+        "end": 2.46
+      },
+      {
+        "word": " ist",
+        "start": 2.46,
+        "end": 2.66
+      },
+      {
+        "word": " ein",
+        "start": 2.66,
+        "end": 2.82
+      },
+      {
+        "word": " Buch.",
+        "start": 2.82,
+        "end": 3.06
+      },
+      {
+        "word": " Mein",
+        "start": 3.64,
+        "end": 3.76
+      },
+      {
+        "word": " Vater",
+        "start": 3.76,
+        "end": 4.12
+      },
+      {
+        "word": " liest",
+        "start": 4.12,
+        "end": 4.56
+      },
+      {
+        "word": " gern.",
+        "start": 4.56,
+        "end": 4.8
+      },
+      {
+        "word": " Ich",
+        "start": 5.32,
+        "end": 5.46
+      },
+      {
+        "word": " gebe",
+        "start": 5.46,
+        "end": 5.7
+      },
+      {
+        "word": " ihm",
+        "start": 5.7,
+        "end": 5.9
+      },
+      {
+        "word": " das",
+        "start": 5.9,
+        "end": 6.12
+      },
+      {
+        "word": " Buch.",
+        "start": 6.12,
+        "end": 6.38
+      }
+    ]
+  },
+  {
+    "n": 7,
+    "expected": "Ich komme am Montag. Ich komme um acht Uhr. Der Bahnhof ist rechts. Das Café ist neben dem Bahnhof.",
+    "recognized": "Ich komme am Montag. Ich komme um 8 Uhr. Der Bahnhof ist rechts. Das Café ist neben dem Bahnhof.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " komme",
+        "start": 0.18,
+        "end": 0.4
+      },
+      {
+        "word": " am",
+        "start": 0.4,
+        "end": 0.6
+      },
+      {
+        "word": " Montag.",
+        "start": 0.6,
+        "end": 1.24
+      },
+      {
+        "word": " Ich",
+        "start": 1.62,
+        "end": 1.74
+      },
+      {
+        "word": " komme",
+        "start": 1.74,
+        "end": 2.0
+      },
+      {
+        "word": " um",
+        "start": 2.0,
+        "end": 2.24
+      },
+      {
+        "word": " 8",
+        "start": 2.24,
+        "end": 2.54
+      },
+      {
+        "word": " Uhr.",
+        "start": 2.54,
+        "end": 2.84
+      },
+      {
+        "word": " Der",
+        "start": 3.42,
+        "end": 3.52
+      },
+      {
+        "word": " Bahnhof",
+        "start": 3.52,
+        "end": 4.06
+      },
+      {
+        "word": " ist",
+        "start": 4.06,
+        "end": 4.28
+      },
+      {
+        "word": " rechts.",
+        "start": 4.28,
+        "end": 4.68
+      },
+      {
+        "word": " Das",
+        "start": 5.24,
+        "end": 5.36
+      },
+      {
+        "word": " Café",
+        "start": 5.36,
+        "end": 5.86
+      },
+      {
+        "word": " ist",
+        "start": 5.86,
+        "end": 6.04
+      },
+      {
+        "word": " neben",
+        "start": 6.04,
+        "end": 6.36
+      },
+      {
+        "word": " dem",
+        "start": 6.36,
+        "end": 6.58
+      },
+      {
+        "word": " Bahnhof.",
+        "start": 6.58,
+        "end": 7.08
+      }
+    ]
+  },
+  {
+    "n": 8,
+    "expected": "Morgens stehe ich um sieben Uhr auf. Dann lerne ich Deutsch. Danach kaufe ich ein. Abends rufe ich meine Freundin an.",
+    "recognized": "Morgens stehe ich um 7 Uhr auf, dann lerne ich Deutsch, danach kaufe ich ein, abends rufe ich meine Freundin an.",
+    "words": [
+      {
+        "word": " Morgens",
+        "start": 0.0,
+        "end": 0.56
+      },
+      {
+        "word": " stehe",
+        "start": 0.56,
+        "end": 0.94
+      },
+      {
+        "word": " ich",
+        "start": 0.94,
+        "end": 1.08
+      },
+      {
+        "word": " um",
+        "start": 1.08,
+        "end": 1.26
+      },
+      {
+        "word": " 7",
+        "start": 1.26,
+        "end": 1.52
+      },
+      {
+        "word": " Uhr",
+        "start": 1.52,
+        "end": 1.8
+      },
+      {
+        "word": " auf,",
+        "start": 1.8,
+        "end": 2.16
+      },
+      {
+        "word": " dann",
+        "start": 2.6,
+        "end": 2.82
+      },
+      {
+        "word": " lerne",
+        "start": 2.82,
+        "end": 3.2
+      },
+      {
+        "word": " ich",
+        "start": 3.2,
+        "end": 3.36
+      },
+      {
+        "word": " Deutsch,",
+        "start": 3.36,
+        "end": 3.68
+      },
+      {
+        "word": " danach",
+        "start": 4.24,
+        "end": 4.48
+      },
+      {
+        "word": " kaufe",
+        "start": 4.48,
+        "end": 5.02
+      },
+      {
+        "word": " ich",
+        "start": 5.02,
+        "end": 5.18
+      },
+      {
+        "word": " ein,",
+        "start": 5.18,
+        "end": 5.44
+      },
+      {
+        "word": " abends",
+        "start": 5.94,
+        "end": 6.44
+      },
+      {
+        "word": " rufe",
+        "start": 6.44,
+        "end": 6.76
+      },
+      {
+        "word": " ich",
+        "start": 6.76,
+        "end": 6.9
+      },
+      {
+        "word": " meine",
+        "start": 6.9,
+        "end": 7.08
+      },
+      {
+        "word": " Freundin",
+        "start": 7.08,
+        "end": 7.62
+      },
+      {
+        "word": " an.",
+        "start": 7.62,
+        "end": 7.78
+      }
+    ]
+  },
+  {
+    "n": 9,
+    "expected": "Gestern bin ich früh aufgestanden. Ich habe Deutsch gelernt. Danach habe ich meine Freundin besucht. Wir sind im Park geblieben.",
+    "recognized": "Gestern bin ich früh aufgestanden. Ich habe Deutsch gelernt. Danach habe ich meine Freundin besucht. Wir sind im Park geblieben.",
+    "words": [
+      {
+        "word": " Gestern",
+        "start": 0.0,
+        "end": 0.48
+      },
+      {
+        "word": " bin",
+        "start": 0.48,
+        "end": 0.64
+      },
+      {
+        "word": " ich",
+        "start": 0.64,
+        "end": 0.78
+      },
+      {
+        "word": " früh",
+        "start": 0.78,
+        "end": 1.02
+      },
+      {
+        "word": " aufgestanden.",
+        "start": 1.02,
+        "end": 1.84
+      },
+      {
+        "word": " Ich",
+        "start": 2.28,
+        "end": 2.4
+      },
+      {
+        "word": " habe",
+        "start": 2.4,
+        "end": 2.56
+      },
+      {
+        "word": " Deutsch",
+        "start": 2.56,
+        "end": 2.88
+      },
+      {
+        "word": " gelernt.",
+        "start": 2.88,
+        "end": 3.28
+      },
+      {
+        "word": " Danach",
+        "start": 3.78,
+        "end": 4.28
+      },
+      {
+        "word": " habe",
+        "start": 4.28,
+        "end": 4.46
+      },
+      {
+        "word": " ich",
+        "start": 4.46,
+        "end": 4.62
+      },
+      {
+        "word": " meine",
+        "start": 4.62,
+        "end": 4.82
+      },
+      {
+        "word": " Freundin",
+        "start": 4.82,
+        "end": 5.34
+      },
+      {
+        "word": " besucht.",
+        "start": 5.34,
+        "end": 5.8
+      },
+      {
+        "word": " Wir",
+        "start": 6.2,
+        "end": 6.34
+      },
+      {
+        "word": " sind",
+        "start": 6.34,
+        "end": 6.54
+      },
+      {
+        "word": " im",
+        "start": 6.54,
+        "end": 6.74
+      },
+      {
+        "word": " Park",
+        "start": 6.74,
+        "end": 7.02
+      },
+      {
+        "word": " geblieben.",
+        "start": 7.02,
+        "end": 7.5
+      }
+    ]
+  },
+  {
+    "n": 10,
+    "expected": "Ich lerne Deutsch, weil ich in Berlin wohne. Heute bin ich müde. Deshalb bleibe ich zu Hause. Wenn ich Zeit habe, rufe ich meine Freundin an.",
+    "recognized": "Ich lerne Deutsch, weil ich in Berlin wohne. Heute bin ich müde, deshalb bleibe ich zu Hause. Wenn ich Zeit habe, rufe ich meine Freundin an.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " lerne",
+        "start": 0.18,
+        "end": 0.5
+      },
+      {
+        "word": " Deutsch,",
+        "start": 0.5,
+        "end": 0.86
+      },
+      {
+        "word": " weil",
+        "start": 1.0,
+        "end": 1.18
+      },
+      {
+        "word": " ich",
+        "start": 1.18,
+        "end": 1.32
+      },
+      {
+        "word": " in",
+        "start": 1.32,
+        "end": 1.46
+      },
+      {
+        "word": " Berlin",
+        "start": 1.46,
+        "end": 1.72
+      },
+      {
+        "word": " wohne.",
+        "start": 1.72,
+        "end": 2.26
+      },
+      {
+        "word": " Heute",
+        "start": 2.74,
+        "end": 2.98
+      },
+      {
+        "word": " bin",
+        "start": 2.98,
+        "end": 3.26
+      },
+      {
+        "word": " ich",
+        "start": 3.26,
+        "end": 3.4
+      },
+      {
+        "word": " müde,",
+        "start": 3.4,
+        "end": 3.82
+      },
+      {
+        "word": " deshalb",
+        "start": 4.16,
+        "end": 4.54
+      },
+      {
+        "word": " bleibe",
+        "start": 4.54,
+        "end": 4.96
+      },
+      {
+        "word": " ich",
+        "start": 4.96,
+        "end": 5.1
+      },
+      {
+        "word": " zu",
+        "start": 5.1,
+        "end": 5.28
+      },
+      {
+        "word": " Hause.",
+        "start": 5.28,
+        "end": 5.58
+      },
+      {
+        "word": " Wenn",
+        "start": 6.14,
+        "end": 6.24
+      },
+      {
+        "word": " ich",
+        "start": 6.24,
+        "end": 6.36
+      },
+      {
+        "word": " Zeit",
+        "start": 6.36,
+        "end": 6.62
+      },
+      {
+        "word": " habe,",
+        "start": 6.62,
+        "end": 7.0
+      },
+      {
+        "word": " rufe",
+        "start": 7.12,
+        "end": 7.42
+      },
+      {
+        "word": " ich",
+        "start": 7.42,
+        "end": 7.58
+      },
+      {
+        "word": " meine",
+        "start": 7.58,
+        "end": 7.76
+      },
+      {
+        "word": " Freundin",
+        "start": 7.76,
+        "end": 8.32
+      },
+      {
+        "word": " an.",
+        "start": 8.32,
+        "end": 8.48
+      }
+    ]
+  },
+  {
+    "n": 11,
+    "expected": "Ich habe ein kleines Auto. Das Auto ist blau. Meine Freundin hat ein größeres Auto. Am liebsten fahre ich mit dem Zug.",
+    "recognized": "Ich habe ein kleines Auto. Das Auto ist blau. Meine Freundin hat ein größeres Auto. Am liebsten fahre ich mit dem Zug.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " habe",
+        "start": 0.18,
+        "end": 0.36
+      },
+      {
+        "word": " ein",
+        "start": 0.36,
+        "end": 0.58
+      },
+      {
+        "word": " kleines",
+        "start": 0.58,
+        "end": 1.1
+      },
+      {
+        "word": " Auto.",
+        "start": 1.1,
+        "end": 1.44
+      },
+      {
+        "word": " Das",
+        "start": 1.92,
+        "end": 2.06
+      },
+      {
+        "word": " Auto",
+        "start": 2.06,
+        "end": 2.4
+      },
+      {
+        "word": " ist",
+        "start": 2.4,
+        "end": 2.64
+      },
+      {
+        "word": " blau.",
+        "start": 2.64,
+        "end": 3.1
+      },
+      {
+        "word": " Meine",
+        "start": 3.42,
+        "end": 3.68
+      },
+      {
+        "word": " Freundin",
+        "start": 3.68,
+        "end": 4.26
+      },
+      {
+        "word": " hat",
+        "start": 4.26,
+        "end": 4.46
+      },
+      {
+        "word": " ein",
+        "start": 4.46,
+        "end": 4.62
+      },
+      {
+        "word": " größeres",
+        "start": 4.62,
+        "end": 5.16
+      },
+      {
+        "word": " Auto.",
+        "start": 5.16,
+        "end": 5.56
+      },
+      {
+        "word": " Am",
+        "start": 6.08,
+        "end": 6.22
+      },
+      {
+        "word": " liebsten",
+        "start": 6.22,
+        "end": 6.64
+      },
+      {
+        "word": " fahre",
+        "start": 6.64,
+        "end": 7.06
+      },
+      {
+        "word": " ich",
+        "start": 7.06,
+        "end": 7.18
+      },
+      {
+        "word": " mit",
+        "start": 7.18,
+        "end": 7.36
+      },
+      {
+        "word": " dem",
+        "start": 7.36,
+        "end": 7.48
+      },
+      {
+        "word": " Zug.",
+        "start": 7.48,
+        "end": 7.78
+      }
+    ]
+  },
+  {
+    "n": 12,
+    "expected": "Übung macht den Meister.",
+    "recognized": "Übung macht den Meister.",
+    "words": [
+      {
+        "word": " Übung",
+        "start": 0.0,
+        "end": 0.4
+      },
+      {
+        "word": " macht",
+        "start": 0.4,
+        "end": 0.7
+      },
+      {
+        "word": " den",
+        "start": 0.7,
+        "end": 0.9
+      },
+      {
+        "word": " Meister.",
+        "start": 0.9,
+        "end": 1.34
+      }
+    ]
+  },
+  {
+    "n": 13,
+    "expected": "Ende gut, alles gut.",
+    "recognized": "Ende gut, alles gut.",
+    "words": [
+      {
+        "word": " Ende",
+        "start": 0.0,
+        "end": 0.3
+      },
+      {
+        "word": " gut,",
+        "start": 0.3,
+        "end": 0.6
+      },
+      {
+        "word": " alles",
+        "start": 0.98,
+        "end": 1.16
+      },
+      {
+        "word": " gut.",
+        "start": 1.16,
+        "end": 1.48
+      }
+    ]
+  },
+  {
+    "n": 14,
+    "expected": "Ich heiße Mia und wohne in Berlin. Gestern habe ich meine Freundin besucht. Wir haben zusammen gekocht. Morgen werde ich Deutsch lernen, weil ich hier arbeiten möchte.",
+    "recognized": "Ich heiße Mia und wohne in Berlin. Gestern habe ich meine Freundin besucht. Wir haben zusammen gekocht. Morgen werde ich Deutsch lernen, weil ich hier arbeiten möchte.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " heiße",
+        "start": 0.18,
+        "end": 0.5
+      },
+      {
+        "word": " Mia",
+        "start": 0.5,
+        "end": 0.76
+      },
+      {
+        "word": " und",
+        "start": 0.76,
+        "end": 1.12
+      },
+      {
+        "word": " wohne",
+        "start": 1.12,
+        "end": 1.46
+      },
+      {
+        "word": " in",
+        "start": 1.46,
+        "end": 1.6
+      },
+      {
+        "word": " Berlin.",
+        "start": 1.6,
+        "end": 1.9
+      },
+      {
+        "word": " Gestern",
+        "start": 2.42,
+        "end": 2.94
+      },
+      {
+        "word": " habe",
+        "start": 2.94,
+        "end": 3.16
+      },
+      {
+        "word": " ich",
+        "start": 3.16,
+        "end": 3.34
+      },
+      {
+        "word": " meine",
+        "start": 3.34,
+        "end": 3.52
+      },
+      {
+        "word": " Freundin",
+        "start": 3.52,
+        "end": 4.04
+      },
+      {
+        "word": " besucht.",
+        "start": 4.04,
+        "end": 4.48
+      },
+      {
+        "word": " Wir",
+        "start": 4.82,
+        "end": 4.94
+      },
+      {
+        "word": " haben",
+        "start": 4.94,
+        "end": 5.14
+      },
+      {
+        "word": " zusammen",
+        "start": 5.14,
+        "end": 5.52
+      },
+      {
+        "word": " gekocht.",
+        "start": 5.52,
+        "end": 6.24
+      },
+      {
+        "word": " Morgen",
+        "start": 6.58,
+        "end": 6.92
+      },
+      {
+        "word": " werde",
+        "start": 6.92,
+        "end": 7.26
+      },
+      {
+        "word": " ich",
+        "start": 7.26,
+        "end": 7.48
+      },
+      {
+        "word": " Deutsch",
+        "start": 7.48,
+        "end": 7.74
+      },
+      {
+        "word": " lernen,",
+        "start": 7.74,
+        "end": 8.16
+      },
+      {
+        "word": " weil",
+        "start": 8.34,
+        "end": 8.46
+      },
+      {
+        "word": " ich",
+        "start": 8.46,
+        "end": 8.62
+      },
+      {
+        "word": " hier",
+        "start": 8.62,
+        "end": 8.78
+      },
+      {
+        "word": " arbeiten",
+        "start": 8.78,
+        "end": 9.12
+      },
+      {
+        "word": " möchte.",
+        "start": 9.12,
+        "end": 9.52
+      }
+    ]
+  },
+  {
+    "n": 15,
+    "expected": "Sie ist bereit.",
+    "recognized": "Sie ist bereit.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " ist",
+        "start": 0.24,
+        "end": 0.44
+      },
+      {
+        "word": " bereit.",
+        "start": 0.44,
+        "end": 0.76
+      }
+    ]
+  },
+  {
+    "n": 16,
+    "expected": "Wir sind bereit.",
+    "recognized": "Wir sind bereit.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " sind",
+        "start": 0.24,
+        "end": 0.44
+      },
+      {
+        "word": " bereit.",
+        "start": 0.44,
+        "end": 0.78
+      }
+    ]
+  },
+  {
+    "n": 17,
+    "expected": "Sie sind bereit.",
+    "recognized": "Sie sind bereit.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 0.0,
+        "end": 0.26
+      },
+      {
+        "word": " sind",
+        "start": 0.26,
+        "end": 0.5
+      },
+      {
+        "word": " bereit.",
+        "start": 0.5,
+        "end": 0.86
+      }
+    ]
+  },
+  {
+    "n": 18,
+    "expected": "Du hast Hunger.",
+    "recognized": "Du hast Hunger.",
+    "words": [
+      {
+        "word": " Du",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " hast",
+        "start": 0.18,
+        "end": 0.38
+      },
+      {
+        "word": " Hunger.",
+        "start": 0.38,
+        "end": 0.7
+      }
+    ]
+  },
+  {
+    "n": 19,
+    "expected": "Er hat Durst.",
+    "recognized": "Er hat Durst.",
+    "words": [
+      {
+        "word": " Er",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " hat",
+        "start": 0.22,
+        "end": 0.46
+      },
+      {
+        "word": " Durst.",
+        "start": 0.46,
+        "end": 0.94
+      }
+    ]
+  },
+  {
+    "n": 20,
+    "expected": "Wir haben Hunger.",
+    "recognized": "Wir haben Hunger.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.28
+      },
+      {
+        "word": " haben",
+        "start": 0.28,
+        "end": 0.58
+      },
+      {
+        "word": " Hunger.",
+        "start": 0.58,
+        "end": 0.86
+      }
+    ]
+  },
+  {
+    "n": 21,
+    "expected": "Ihr habt Durst.",
+    "recognized": "Ihr habt Durst.",
+    "words": [
+      {
+        "word": " Ihr",
+        "start": 0.0,
+        "end": 0.26
+      },
+      {
+        "word": " habt",
+        "start": 0.26,
+        "end": 0.56
+      },
+      {
+        "word": " Durst.",
+        "start": 0.56,
+        "end": 1.06
+      }
+    ]
+  },
+  {
+    "n": 22,
+    "expected": "Sie haben Hunger.",
+    "recognized": "Sie haben Hunger.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 0.0,
+        "end": 0.28
+      },
+      {
+        "word": " haben",
+        "start": 0.28,
+        "end": 0.58
+      },
+      {
+        "word": " Hunger.",
+        "start": 0.58,
+        "end": 0.86
+      }
+    ]
+  },
+  {
+    "n": 23,
+    "expected": "Ich lerne heute Deutsch.",
+    "recognized": "Ich lerne heute Deutsch.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " lerne",
+        "start": 0.2,
+        "end": 0.56
+      },
+      {
+        "word": " heute",
+        "start": 0.56,
+        "end": 0.76
+      },
+      {
+        "word": " Deutsch.",
+        "start": 0.76,
+        "end": 1.1
+      }
+    ]
+  },
+  {
+    "n": 24,
+    "expected": "Ich bin nicht bereit.",
+    "recognized": "Ich bin nicht bereit.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " bin",
+        "start": 0.2,
+        "end": 0.36
+      },
+      {
+        "word": " nicht",
+        "start": 0.36,
+        "end": 0.58
+      },
+      {
+        "word": " bereit.",
+        "start": 0.58,
+        "end": 0.92
+      }
+    ]
+  },
+  {
+    "n": 25,
+    "expected": "Seid ihr bereit?",
+    "recognized": "Seid ihr bereit?",
+    "words": [
+      {
+        "word": " Seid",
+        "start": 0.0,
+        "end": 0.34
+      },
+      {
+        "word": " ihr",
+        "start": 0.34,
+        "end": 0.46
+      },
+      {
+        "word": " bereit?",
+        "start": 0.46,
+        "end": 0.76
+      }
+    ]
+  },
+  {
+    "n": 26,
+    "expected": "Haben Sie Durst?",
+    "recognized": "Haben Sie Durst?",
+    "words": [
+      {
+        "word": " Haben",
+        "start": 0.0,
+        "end": 0.26
+      },
+      {
+        "word": " Sie",
+        "start": 0.26,
+        "end": 0.48
+      },
+      {
+        "word": " Durst?",
+        "start": 0.48,
+        "end": 0.98
+      }
+    ]
+  },
+  {
+    "n": 27,
+    "expected": "Ich heiße Roman.",
+    "recognized": "Ich heiße Roman.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " heiße",
+        "start": 0.22,
+        "end": 0.58
+      },
+      {
+        "word": " Roman.",
+        "start": 0.58,
+        "end": 0.86
+      }
+    ]
+  },
+  {
+    "n": 28,
+    "expected": "Ich heiße Oleksii.",
+    "recognized": "Ich heiße Olexi.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " heiße",
+        "start": 0.2,
+        "end": 0.58
+      },
+      {
+        "word": " Olexi.",
+        "start": 0.58,
+        "end": 1.14
+      }
+    ]
+  },
+  {
+    "n": 29,
+    "expected": "Ich wohne in Kyjiw.",
+    "recognized": "Ich wohne in Kiew.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " wohne",
+        "start": 0.18,
+        "end": 0.52
+      },
+      {
+        "word": " in",
+        "start": 0.52,
+        "end": 0.66
+      },
+      {
+        "word": " Kiew.",
+        "start": 0.66,
+        "end": 1.08
+      }
+    ]
+  },
+  {
+    "n": 30,
+    "expected": "Ich komme aus der Ukraine.",
+    "recognized": "Ich komme aus der Ukraine.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " komme",
+        "start": 0.18,
+        "end": 0.42
+      },
+      {
+        "word": " aus",
+        "start": 0.42,
+        "end": 0.7
+      },
+      {
+        "word": " der",
+        "start": 0.7,
+        "end": 0.84
+      },
+      {
+        "word": " Ukraine.",
+        "start": 0.84,
+        "end": 1.24
+      }
+    ]
+  },
+  {
+    "n": 31,
+    "expected": "Ich bin zehn Jahre alt.",
+    "recognized": "Ich bin zehn Jahre alt.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " bin",
+        "start": 0.2,
+        "end": 0.36
+      },
+      {
+        "word": " zehn",
+        "start": 0.36,
+        "end": 0.68
+      },
+      {
+        "word": " Jahre",
+        "start": 0.68,
+        "end": 1.04
+      },
+      {
+        "word": " alt.",
+        "start": 1.04,
+        "end": 1.34
+      }
+    ]
+  },
+  {
+    "n": 32,
+    "expected": "Ich bin Schüler.",
+    "recognized": "Ich bin Schüler.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " bin",
+        "start": 0.22,
+        "end": 0.34
+      },
+      {
+        "word": " Schüler.",
+        "start": 0.34,
+        "end": 0.68
+      }
+    ]
+  },
+  {
+    "n": 33,
+    "expected": "Ich bin Schülerin.",
+    "recognized": "Ich bin Schülerin.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " bin",
+        "start": 0.2,
+        "end": 0.34
+      },
+      {
+        "word": " Schülerin.",
+        "start": 0.34,
+        "end": 0.96
+      }
+    ]
+  },
+  {
+    "n": 34,
+    "expected": "Hier ist der Stuhl.",
+    "recognized": "Hier ist der Stuhl.",
+    "words": [
+      {
+        "word": " Hier",
+        "start": 0.0,
+        "end": 0.28
+      },
+      {
+        "word": " ist",
+        "start": 0.28,
+        "end": 0.52
+      },
+      {
+        "word": " der",
+        "start": 0.52,
+        "end": 0.7
+      },
+      {
+        "word": " Stuhl.",
+        "start": 0.7,
+        "end": 1.16
+      }
+    ]
+  },
+  {
+    "n": 35,
+    "expected": "Dort ist die Schule.",
+    "recognized": "Dort ist die Schule.",
+    "words": [
+      {
+        "word": " Dort",
+        "start": 0.0,
+        "end": 0.28
+      },
+      {
+        "word": " ist",
+        "start": 0.28,
+        "end": 0.56
+      },
+      {
+        "word": " die",
+        "start": 0.56,
+        "end": 0.72
+      },
+      {
+        "word": " Schule.",
+        "start": 0.72,
+        "end": 0.98
+      }
+    ]
+  },
+  {
+    "n": 36,
+    "expected": "Hier ist das Kind.",
+    "recognized": "Hier ist das Kind.",
+    "words": [
+      {
+        "word": " Hier",
+        "start": 0.0,
+        "end": 0.26
+      },
+      {
+        "word": " ist",
+        "start": 0.26,
+        "end": 0.52
+      },
+      {
+        "word": " das",
+        "start": 0.52,
+        "end": 0.68
+      },
+      {
+        "word": " Kind.",
+        "start": 0.68,
+        "end": 0.94
+      }
+    ]
+  },
+  {
+    "n": 37,
+    "expected": "Das ist keine Schule.",
+    "recognized": "Das ist keine Schule.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " ist",
+        "start": 0.2,
+        "end": 0.38
+      },
+      {
+        "word": " keine",
+        "start": 0.38,
+        "end": 0.72
+      },
+      {
+        "word": " Schule.",
+        "start": 0.72,
+        "end": 1.1
+      }
+    ]
+  },
+  {
+    "n": 38,
+    "expected": "Das ist kein Kind.",
+    "recognized": "Das ist kein Kind.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " ist",
+        "start": 0.2,
+        "end": 0.38
+      },
+      {
+        "word": " kein",
+        "start": 0.38,
+        "end": 0.68
+      },
+      {
+        "word": " Kind.",
+        "start": 0.68,
+        "end": 1.0
+      }
+    ]
+  },
+  {
+    "n": 39,
+    "expected": "Das ist keine Tür.",
+    "recognized": "Das ist keine Tür.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " ist",
+        "start": 0.22,
+        "end": 0.44
+      },
+      {
+        "word": " keine",
+        "start": 0.44,
+        "end": 0.78
+      },
+      {
+        "word": " Tür.",
+        "start": 0.78,
+        "end": 1.12
+      }
+    ]
+  },
+  {
+    "n": 40,
+    "expected": "Das ist nicht gut.",
+    "recognized": "Das ist nicht gut.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " ist",
+        "start": 0.2,
+        "end": 0.38
+      },
+      {
+        "word": " nicht",
+        "start": 0.38,
+        "end": 0.64
+      },
+      {
+        "word": " gut.",
+        "start": 0.64,
+        "end": 0.94
+      }
+    ]
+  },
+  {
+    "n": 41,
+    "expected": "Das sind Bücher.",
+    "recognized": "Das sind Bücher.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " sind",
+        "start": 0.2,
+        "end": 0.44
+      },
+      {
+        "word": " Bücher.",
+        "start": 0.44,
+        "end": 0.92
+      }
+    ]
+  },
+  {
+    "n": 42,
+    "expected": "Die Kinder spielen.",
+    "recognized": "die Kinder spielen",
+    "words": [
+      {
+        "word": " die",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Kinder",
+        "start": 0.16,
+        "end": 0.48
+      },
+      {
+        "word": " spielen",
+        "start": 0.48,
+        "end": 0.94
+      }
+    ]
+  },
+  {
+    "n": 43,
+    "expected": "Hier sind die Tische.",
+    "recognized": "Hier sind die Tische.",
+    "words": [
+      {
+        "word": " Hier",
+        "start": 0.0,
+        "end": 0.28
+      },
+      {
+        "word": " sind",
+        "start": 0.28,
+        "end": 0.5
+      },
+      {
+        "word": " die",
+        "start": 0.5,
+        "end": 0.7
+      },
+      {
+        "word": " Tische.",
+        "start": 0.7,
+        "end": 1.06
+      }
+    ]
+  },
+  {
+    "n": 44,
+    "expected": "Dort sind die Stühle.",
+    "recognized": "Dort sind die Stühle.",
+    "words": [
+      {
+        "word": " Dort",
+        "start": 0.0,
+        "end": 0.28
+      },
+      {
+        "word": " sind",
+        "start": 0.28,
+        "end": 0.52
+      },
+      {
+        "word": " die",
+        "start": 0.52,
+        "end": 0.7
+      },
+      {
+        "word": " Stühle.",
+        "start": 0.7,
+        "end": 1.12
+      }
+    ]
+  },
+  {
+    "n": 45,
+    "expected": "Die Türen sind hier.",
+    "recognized": "Die Türen sind hier.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Türen",
+        "start": 0.18,
+        "end": 0.62
+      },
+      {
+        "word": " sind",
+        "start": 0.62,
+        "end": 0.82
+      },
+      {
+        "word": " hier.",
+        "start": 0.82,
+        "end": 1.18
+      }
+    ]
+  },
+  {
+    "n": 46,
+    "expected": "Die Katzen sind dort.",
+    "recognized": "Die Katzen sind dort.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Katzen",
+        "start": 0.16,
+        "end": 0.64
+      },
+      {
+        "word": " sind",
+        "start": 0.64,
+        "end": 0.84
+      },
+      {
+        "word": " dort.",
+        "start": 0.84,
+        "end": 1.16
+      }
+    ]
+  },
+  {
+    "n": 47,
+    "expected": "Die Hunde spielen.",
+    "recognized": "Die Hunde spielen.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Hunde",
+        "start": 0.18,
+        "end": 0.52
+      },
+      {
+        "word": " spielen.",
+        "start": 0.52,
+        "end": 0.88
+      }
+    ]
+  },
+  {
+    "n": 48,
+    "expected": "Die Schulen sind hier.",
+    "recognized": "Die Schulen sind hier.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Schulen",
+        "start": 0.16,
+        "end": 0.5
+      },
+      {
+        "word": " sind",
+        "start": 0.5,
+        "end": 0.82
+      },
+      {
+        "word": " hier.",
+        "start": 0.82,
+        "end": 1.18
+      }
+    ]
+  },
+  {
+    "n": 49,
+    "expected": "Das ist dein Hund.",
+    "recognized": "Das ist dein Hund.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " ist",
+        "start": 0.22,
+        "end": 0.48
+      },
+      {
+        "word": " dein",
+        "start": 0.48,
+        "end": 0.74
+      },
+      {
+        "word": " Hund.",
+        "start": 0.74,
+        "end": 1.02
+      }
+    ]
+  },
+  {
+    "n": 50,
+    "expected": "Das ist seine Schule.",
+    "recognized": "Das ist seine Schule.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " ist",
+        "start": 0.22,
+        "end": 0.5
+      },
+      {
+        "word": " seine",
+        "start": 0.5,
+        "end": 0.86
+      },
+      {
+        "word": " Schule.",
+        "start": 0.86,
+        "end": 1.16
+      }
+    ]
+  },
+  {
+    "n": 51,
+    "expected": "Das sind ihre Bücher.",
+    "recognized": "Das sind Ihre Bücher.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " sind",
+        "start": 0.22,
+        "end": 0.46
+      },
+      {
+        "word": " Ihre",
+        "start": 0.46,
+        "end": 0.82
+      },
+      {
+        "word": " Bücher.",
+        "start": 0.82,
+        "end": 1.28
+      }
+    ]
+  },
+  {
+    "n": 52,
+    "expected": "Das ist unser Tisch.",
+    "recognized": "Das ist unser Tisch.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " ist",
+        "start": 0.24,
+        "end": 0.52
+      },
+      {
+        "word": " unser",
+        "start": 0.52,
+        "end": 0.86
+      },
+      {
+        "word": " Tisch.",
+        "start": 0.86,
+        "end": 1.2
+      }
+    ]
+  },
+  {
+    "n": 53,
+    "expected": "Das ist eure Katze.",
+    "recognized": "Das ist eure Katze.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " ist",
+        "start": 0.22,
+        "end": 0.44
+      },
+      {
+        "word": " eure",
+        "start": 0.44,
+        "end": 0.72
+      },
+      {
+        "word": " Katze.",
+        "start": 0.72,
+        "end": 1.24
+      }
+    ]
+  },
+  {
+    "n": 54,
+    "expected": "Ist das Ihr Buch?",
+    "recognized": "Ist das Ihr Buch?",
+    "words": [
+      {
+        "word": " Ist",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " das",
+        "start": 0.18,
+        "end": 0.4
+      },
+      {
+        "word": " Ihr",
+        "start": 0.4,
+        "end": 0.68
+      },
+      {
+        "word": " Buch?",
+        "start": 0.68,
+        "end": 0.92
+      }
+    ]
+  },
+  {
+    "n": 55,
+    "expected": "Das ist meine Mutter.",
+    "recognized": "Das ist meine Mutter.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.5
+      },
+      {
+        "word": " ist",
+        "start": 0.5,
+        "end": 0.72
+      },
+      {
+        "word": " meine",
+        "start": 0.72,
+        "end": 0.98
+      },
+      {
+        "word": " Mutter.",
+        "start": 0.98,
+        "end": 1.26
+      }
+    ]
+  },
+  {
+    "n": 56,
+    "expected": "Das ist mein Vater.",
+    "recognized": "Das ist mein Vater.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " ist",
+        "start": 0.24,
+        "end": 0.5
+      },
+      {
+        "word": " mein",
+        "start": 0.5,
+        "end": 0.7
+      },
+      {
+        "word": " Vater.",
+        "start": 0.7,
+        "end": 1.0
+      }
+    ]
+  },
+  {
+    "n": 57,
+    "expected": "Mein Sohn ist zehn Jahre alt.",
+    "recognized": "Mein Sohn ist zehn Jahre alt.",
+    "words": [
+      {
+        "word": " Mein",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " Sohn",
+        "start": 0.22,
+        "end": 0.62
+      },
+      {
+        "word": " ist",
+        "start": 0.62,
+        "end": 0.8
+      },
+      {
+        "word": " zehn",
+        "start": 0.8,
+        "end": 1.16
+      },
+      {
+        "word": " Jahre",
+        "start": 1.16,
+        "end": 1.5
+      },
+      {
+        "word": " alt.",
+        "start": 1.5,
+        "end": 1.82
+      }
+    ]
+  },
+  {
+    "n": 58,
+    "expected": "Meine Tochter ist klein.",
+    "recognized": "Meine Tochter ist klein.",
+    "words": [
+      {
+        "word": " Meine",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " Tochter",
+        "start": 0.24,
+        "end": 0.68
+      },
+      {
+        "word": " ist",
+        "start": 0.68,
+        "end": 0.9
+      },
+      {
+        "word": " klein.",
+        "start": 0.9,
+        "end": 1.22
+      }
+    ]
+  },
+  {
+    "n": 59,
+    "expected": "Er ist Lehrer.",
+    "recognized": "Er ist Lehrer.",
+    "words": [
+      {
+        "word": " Er",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " ist",
+        "start": 0.22,
+        "end": 0.48
+      },
+      {
+        "word": " Lehrer.",
+        "start": 0.48,
+        "end": 0.8
+      }
+    ]
+  },
+  {
+    "n": 60,
+    "expected": "Die Katze ist weiß.",
+    "recognized": "Die Katze ist weiß.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Katze",
+        "start": 0.16,
+        "end": 0.58
+      },
+      {
+        "word": " ist",
+        "start": 0.58,
+        "end": 0.76
+      },
+      {
+        "word": " weiß.",
+        "start": 0.76,
+        "end": 1.06
+      }
+    ]
+  },
+  {
+    "n": 61,
+    "expected": "Unser Hund ist groß.",
+    "recognized": "Unser Hund ist groß.",
+    "words": [
+      {
+        "word": " Unser",
+        "start": 0.0,
+        "end": 0.34
+      },
+      {
+        "word": " Hund",
+        "start": 0.34,
+        "end": 0.58
+      },
+      {
+        "word": " ist",
+        "start": 0.58,
+        "end": 0.84
+      },
+      {
+        "word": " groß.",
+        "start": 0.84,
+        "end": 1.2
+      }
+    ]
+  },
+  {
+    "n": 62,
+    "expected": "Meine Kinder lernen Deutsch.",
+    "recognized": "Meine Kinder lernen Deutsch.",
+    "words": [
+      {
+        "word": " Meine",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " Kinder",
+        "start": 0.24,
+        "end": 0.58
+      },
+      {
+        "word": " lernen",
+        "start": 0.58,
+        "end": 0.98
+      },
+      {
+        "word": " Deutsch.",
+        "start": 0.98,
+        "end": 1.34
+      }
+    ]
+  },
+  {
+    "n": 63,
+    "expected": "Ich sehe den Hund.",
+    "recognized": "Ich sehe den Hund.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " sehe",
+        "start": 0.2,
+        "end": 0.48
+      },
+      {
+        "word": " den",
+        "start": 0.48,
+        "end": 0.7
+      },
+      {
+        "word": " Hund.",
+        "start": 0.7,
+        "end": 0.94
+      }
+    ]
+  },
+  {
+    "n": 64,
+    "expected": "Du hast einen Freund.",
+    "recognized": "Du hast einen Freund.",
+    "words": [
+      {
+        "word": " Du",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " hast",
+        "start": 0.16,
+        "end": 0.36
+      },
+      {
+        "word": " einen",
+        "start": 0.36,
+        "end": 0.64
+      },
+      {
+        "word": " Freund.",
+        "start": 0.64,
+        "end": 0.98
+      }
+    ]
+  },
+  {
+    "n": 65,
+    "expected": "Er sucht die Katze.",
+    "recognized": "Er sucht die Katze.",
+    "words": [
+      {
+        "word": " Er",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " sucht",
+        "start": 0.22,
+        "end": 0.66
+      },
+      {
+        "word": " die",
+        "start": 0.66,
+        "end": 0.72
+      },
+      {
+        "word": " Katze.",
+        "start": 0.72,
+        "end": 1.16
+      }
+    ]
+  },
+  {
+    "n": 66,
+    "expected": "Wir haben ein Buch.",
+    "recognized": "Wir haben ein Buch.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " haben",
+        "start": 0.24,
+        "end": 0.54
+      },
+      {
+        "word": " ein",
+        "start": 0.54,
+        "end": 0.8
+      },
+      {
+        "word": " Buch.",
+        "start": 0.8,
+        "end": 1.04
+      }
+    ]
+  },
+  {
+    "n": 67,
+    "expected": "Sie hat keine Katze.",
+    "recognized": "Sie hat keine Katze.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " hat",
+        "start": 0.2,
+        "end": 0.42
+      },
+      {
+        "word": " keine",
+        "start": 0.42,
+        "end": 0.76
+      },
+      {
+        "word": " Katze.",
+        "start": 0.76,
+        "end": 1.26
+      }
+    ]
+  },
+  {
+    "n": 68,
+    "expected": "Hier gibt es einen Tisch.",
+    "recognized": "Hier gibt es einen Tisch.",
+    "words": [
+      {
+        "word": " Hier",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " gibt",
+        "start": 0.24,
+        "end": 0.46
+      },
+      {
+        "word": " es",
+        "start": 0.46,
+        "end": 0.68
+      },
+      {
+        "word": " einen",
+        "start": 0.68,
+        "end": 0.88
+      },
+      {
+        "word": " Tisch.",
+        "start": 0.88,
+        "end": 1.16
+      }
+    ]
+  },
+  {
+    "n": 69,
+    "expected": "Ich suche das Kind.",
+    "recognized": "Ich suche das Kind.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " suche",
+        "start": 0.2,
+        "end": 0.58
+      },
+      {
+        "word": " das",
+        "start": 0.58,
+        "end": 0.72
+      },
+      {
+        "word": " Kind.",
+        "start": 0.72,
+        "end": 0.98
+      }
+    ]
+  },
+  {
+    "n": 70,
+    "expected": "Du suchst mich.",
+    "recognized": "Du suchst mich!",
+    "words": [
+      {
+        "word": " Du",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " suchst",
+        "start": 0.18,
+        "end": 0.58
+      },
+      {
+        "word": " mich!",
+        "start": 0.58,
+        "end": 0.74
+      }
+    ]
+  },
+  {
+    "n": 71,
+    "expected": "Ich suche dich.",
+    "recognized": "Ich suche Dich!",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " suche",
+        "start": 0.2,
+        "end": 0.58
+      },
+      {
+        "word": " Dich!",
+        "start": 0.58,
+        "end": 0.88
+      }
+    ]
+  },
+  {
+    "n": 72,
+    "expected": "Wir suchen ihn.",
+    "recognized": "Wir suchen ihn.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " suchen",
+        "start": 0.22,
+        "end": 0.58
+      },
+      {
+        "word": " ihn.",
+        "start": 0.58,
+        "end": 0.88
+      }
+    ]
+  },
+  {
+    "n": 73,
+    "expected": "Sie kennt uns.",
+    "recognized": "Sie kennt uns.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " kennt",
+        "start": 0.22,
+        "end": 0.48
+      },
+      {
+        "word": " uns.",
+        "start": 0.48,
+        "end": 0.76
+      }
+    ]
+  },
+  {
+    "n": 74,
+    "expected": "Ich suche euch.",
+    "recognized": "Ich suche euch!",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " suche",
+        "start": 0.2,
+        "end": 0.62
+      },
+      {
+        "word": " euch!",
+        "start": 0.62,
+        "end": 0.8
+      }
+    ]
+  },
+  {
+    "n": 75,
+    "expected": "Du isst Brot.",
+    "recognized": "Du ist Brot.",
+    "words": [
+      {
+        "word": " Du",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " ist",
+        "start": 0.22,
+        "end": 0.48
+      },
+      {
+        "word": " Brot.",
+        "start": 0.48,
+        "end": 1.0
+      }
+    ]
+  },
+  {
+    "n": 76,
+    "expected": "Er liest ein Buch.",
+    "recognized": "Er liest ein Buch.",
+    "words": [
+      {
+        "word": " Er",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " liest",
+        "start": 0.22,
+        "end": 0.6
+      },
+      {
+        "word": " ein",
+        "start": 0.6,
+        "end": 0.76
+      },
+      {
+        "word": " Buch.",
+        "start": 0.76,
+        "end": 0.98
+      }
+    ]
+  },
+  {
+    "n": 77,
+    "expected": "Sie sieht den Hund.",
+    "recognized": "Sie sieht den Hund.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 0.0,
+        "end": 0.28
+      },
+      {
+        "word": " sieht",
+        "start": 0.28,
+        "end": 0.52
+      },
+      {
+        "word": " den",
+        "start": 0.52,
+        "end": 0.72
+      },
+      {
+        "word": " Hund.",
+        "start": 0.72,
+        "end": 0.92
+      }
+    ]
+  },
+  {
+    "n": 78,
+    "expected": "Du sprichst Deutsch.",
+    "recognized": "Du sprichst Deutsch.",
+    "words": [
+      {
+        "word": " Du",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " sprichst",
+        "start": 0.18,
+        "end": 0.68
+      },
+      {
+        "word": " Deutsch.",
+        "start": 0.68,
+        "end": 0.86
+      }
+    ]
+  },
+  {
+    "n": 79,
+    "expected": "Er nimmt das Buch.",
+    "recognized": "Er nimmt das Buch.",
+    "words": [
+      {
+        "word": " Er",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " nimmt",
+        "start": 0.22,
+        "end": 0.48
+      },
+      {
+        "word": " das",
+        "start": 0.48,
+        "end": 0.7
+      },
+      {
+        "word": " Buch.",
+        "start": 0.7,
+        "end": 0.96
+      }
+    ]
+  },
+  {
+    "n": 80,
+    "expected": "Wir essen Brot.",
+    "recognized": "Wir essen Brot.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.26
+      },
+      {
+        "word": " essen",
+        "start": 0.26,
+        "end": 0.58
+      },
+      {
+        "word": " Brot.",
+        "start": 0.58,
+        "end": 1.08
+      }
+    ]
+  },
+  {
+    "n": 81,
+    "expected": "Ihr lest Bücher.",
+    "recognized": "Ihr lest Bücher",
+    "words": [
+      {
+        "word": " Ihr",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " lest",
+        "start": 0.22,
+        "end": 0.6
+      },
+      {
+        "word": " Bücher",
+        "start": 0.6,
+        "end": 1.02
+      }
+    ]
+  },
+  {
+    "n": 82,
+    "expected": "Sie nehmen Wasser.",
+    "recognized": "Sie nehmen Wasser.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 0.0,
+        "end": 0.26
+      },
+      {
+        "word": " nehmen",
+        "start": 0.26,
+        "end": 0.58
+      },
+      {
+        "word": " Wasser.",
+        "start": 0.58,
+        "end": 0.9
+      }
+    ]
+  },
+  {
+    "n": 83,
+    "expected": "Ich mag Tee.",
+    "recognized": "Ich mag Tee.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " mag",
+        "start": 0.22,
+        "end": 0.48
+      },
+      {
+        "word": " Tee.",
+        "start": 0.48,
+        "end": 0.94
+      }
+    ]
+  },
+  {
+    "n": 84,
+    "expected": "Du magst Musik.",
+    "recognized": "Du magst Musik.",
+    "words": [
+      {
+        "word": " Du",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " magst",
+        "start": 0.18,
+        "end": 0.6
+      },
+      {
+        "word": " Musik.",
+        "start": 0.6,
+        "end": 0.86
+      }
+    ]
+  },
+  {
+    "n": 85,
+    "expected": "Er mag Sport.",
+    "recognized": "Er mag Sport.",
+    "words": [
+      {
+        "word": " Er",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " mag",
+        "start": 0.22,
+        "end": 0.52
+      },
+      {
+        "word": " Sport.",
+        "start": 0.52,
+        "end": 0.84
+      }
+    ]
+  },
+  {
+    "n": 86,
+    "expected": "Wir mögen Gemüse.",
+    "recognized": "Wir mögen Gemüse.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " mögen",
+        "start": 0.24,
+        "end": 0.64
+      },
+      {
+        "word": " Gemüse.",
+        "start": 0.64,
+        "end": 1.18
+      }
+    ]
+  },
+  {
+    "n": 87,
+    "expected": "Ihr mögt Fisch.",
+    "recognized": "Ihr mögt Fisch.",
+    "words": [
+      {
+        "word": " Ihr",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " mögt",
+        "start": 0.24,
+        "end": 0.6
+      },
+      {
+        "word": " Fisch.",
+        "start": 0.6,
+        "end": 1.0
+      }
+    ]
+  },
+  {
+    "n": 88,
+    "expected": "Ich lese gern.",
+    "recognized": "Ich lese gern.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " lese",
+        "start": 0.2,
+        "end": 0.62
+      },
+      {
+        "word": " gern.",
+        "start": 0.62,
+        "end": 0.82
+      }
+    ]
+  },
+  {
+    "n": 89,
+    "expected": "Sie spielt gern.",
+    "recognized": "Sie spielt gern.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " spielt",
+        "start": 0.22,
+        "end": 0.58
+      },
+      {
+        "word": " gern.",
+        "start": 0.58,
+        "end": 0.88
+      }
+    ]
+  },
+  {
+    "n": 90,
+    "expected": "Wir singen gern.",
+    "recognized": "Wir singen gern!",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " singen",
+        "start": 0.22,
+        "end": 0.66
+      },
+      {
+        "word": " gern!",
+        "start": 0.66,
+        "end": 0.86
+      }
+    ]
+  },
+  {
+    "n": 91,
+    "expected": "Ich nehme einen Kaffee.",
+    "recognized": "Ich nehme einen Kaffee.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " nehme",
+        "start": 0.2,
+        "end": 0.44
+      },
+      {
+        "word": " einen",
+        "start": 0.44,
+        "end": 0.76
+      },
+      {
+        "word": " Kaffee.",
+        "start": 0.76,
+        "end": 1.3
+      }
+    ]
+  },
+  {
+    "n": 92,
+    "expected": "Ich nehme einen Tee.",
+    "recognized": "Ich nehme einen Tee.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " nehme",
+        "start": 0.2,
+        "end": 0.44
+      },
+      {
+        "word": " einen",
+        "start": 0.44,
+        "end": 0.72
+      },
+      {
+        "word": " Tee.",
+        "start": 0.72,
+        "end": 1.14
+      }
+    ]
+  },
+  {
+    "n": 93,
+    "expected": "Ich nehme Wasser.",
+    "recognized": "Ich nehme Wasser.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " nehme",
+        "start": 0.2,
+        "end": 0.48
+      },
+      {
+        "word": " Wasser.",
+        "start": 0.48,
+        "end": 0.8
+      }
+    ]
+  },
+  {
+    "n": 94,
+    "expected": "Trinken Sie Kaffee?",
+    "recognized": "Trinken Sie Kaffee?",
+    "words": [
+      {
+        "word": " Trinken",
+        "start": 0.0,
+        "end": 0.36
+      },
+      {
+        "word": " Sie",
+        "start": 0.36,
+        "end": 0.54
+      },
+      {
+        "word": " Kaffee?",
+        "start": 0.54,
+        "end": 0.98
+      }
+    ]
+  },
+  {
+    "n": 95,
+    "expected": "Ich trinke Tee.",
+    "recognized": "Ich trinke Tee.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " trinke",
+        "start": 0.22,
+        "end": 0.62
+      },
+      {
+        "word": " Tee.",
+        "start": 0.62,
+        "end": 1.0
+      }
+    ]
+  },
+  {
+    "n": 96,
+    "expected": "Die Rechnung, bitte.",
+    "recognized": "Die Rechnung, bitte.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Rechnung,",
+        "start": 0.16,
+        "end": 0.62
+      },
+      {
+        "word": " bitte.",
+        "start": 0.72,
+        "end": 0.8
+      }
+    ]
+  },
+  {
+    "n": 97,
+    "expected": "Ich kann schwimmen.",
+    "recognized": "Ich kann schwimmen.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " kann",
+        "start": 0.22,
+        "end": 0.42
+      },
+      {
+        "word": " schwimmen.",
+        "start": 0.42,
+        "end": 0.86
+      }
+    ]
+  },
+  {
+    "n": 98,
+    "expected": "Wir können Deutsch lernen.",
+    "recognized": "Wir können Deutsch lernen.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " können",
+        "start": 0.24,
+        "end": 0.54
+      },
+      {
+        "word": " Deutsch",
+        "start": 0.54,
+        "end": 0.88
+      },
+      {
+        "word": " lernen.",
+        "start": 0.88,
+        "end": 1.24
+      }
+    ]
+  },
+  {
+    "n": 99,
+    "expected": "Er muss warten.",
+    "recognized": "Er muss warten.",
+    "words": [
+      {
+        "word": " Er",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " muss",
+        "start": 0.2,
+        "end": 0.4
+      },
+      {
+        "word": " warten.",
+        "start": 0.4,
+        "end": 0.8
+      }
+    ]
+  },
+  {
+    "n": 100,
+    "expected": "Ich soll helfen.",
+    "recognized": "Ich soll helfen.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " soll",
+        "start": 0.2,
+        "end": 0.4
+      },
+      {
+        "word": " helfen.",
+        "start": 0.4,
+        "end": 0.78
+      }
+    ]
+  },
+  {
+    "n": 101,
+    "expected": "Du sollst hier warten.",
+    "recognized": "Du sollst hier warten.",
+    "words": [
+      {
+        "word": " Du",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " sollst",
+        "start": 0.18,
+        "end": 0.62
+      },
+      {
+        "word": " hier",
+        "start": 0.62,
+        "end": 0.74
+      },
+      {
+        "word": " warten.",
+        "start": 0.74,
+        "end": 1.08
+      }
+    ]
+  },
+  {
+    "n": 102,
+    "expected": "Wir sollen Deutsch sprechen.",
+    "recognized": "Wir sollen Deutsch sprechen.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " sollen",
+        "start": 0.24,
+        "end": 0.54
+      },
+      {
+        "word": " Deutsch",
+        "start": 0.54,
+        "end": 0.84
+      },
+      {
+        "word": " sprechen.",
+        "start": 0.84,
+        "end": 1.22
+      }
+    ]
+  },
+  {
+    "n": 103,
+    "expected": "Ich will Deutsch lernen.",
+    "recognized": "Ich will Deutsch lernen.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " will",
+        "start": 0.22,
+        "end": 0.44
+      },
+      {
+        "word": " Deutsch",
+        "start": 0.44,
+        "end": 0.72
+      },
+      {
+        "word": " lernen.",
+        "start": 0.72,
+        "end": 1.04
+      }
+    ]
+  },
+  {
+    "n": 104,
+    "expected": "Wir wollen reisen.",
+    "recognized": "Wir wollen reisen.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.26
+      },
+      {
+        "word": " wollen",
+        "start": 0.26,
+        "end": 0.58
+      },
+      {
+        "word": " reisen.",
+        "start": 0.58,
+        "end": 1.06
+      }
+    ]
+  },
+  {
+    "n": 105,
+    "expected": "Er will ein Buch kaufen.",
+    "recognized": "Er will ein Buch kaufen.",
+    "words": [
+      {
+        "word": " Er",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " will",
+        "start": 0.2,
+        "end": 0.44
+      },
+      {
+        "word": " ein",
+        "start": 0.44,
+        "end": 0.62
+      },
+      {
+        "word": " Buch",
+        "start": 0.62,
+        "end": 0.82
+      },
+      {
+        "word": " kaufen.",
+        "start": 0.82,
+        "end": 1.18
+      }
+    ]
+  },
+  {
+    "n": 106,
+    "expected": "Ich möchte einen Tee.",
+    "recognized": "Ich möchte einen Tee.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " möchte",
+        "start": 0.22,
+        "end": 0.48
+      },
+      {
+        "word": " einen",
+        "start": 0.48,
+        "end": 0.8
+      },
+      {
+        "word": " Tee.",
+        "start": 0.8,
+        "end": 1.26
+      }
+    ]
+  },
+  {
+    "n": 107,
+    "expected": "Du möchtest Wasser trinken.",
+    "recognized": "Du möchtest Wasser trinken.",
+    "words": [
+      {
+        "word": " Du",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " möchtest",
+        "start": 0.18,
+        "end": 0.66
+      },
+      {
+        "word": " Wasser",
+        "start": 0.66,
+        "end": 0.92
+      },
+      {
+        "word": " trinken.",
+        "start": 0.92,
+        "end": 1.38
+      }
+    ]
+  },
+  {
+    "n": 108,
+    "expected": "Was möchten Sie?",
+    "recognized": "Was möchten Sie?",
+    "words": [
+      {
+        "word": " Was",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " möchten",
+        "start": 0.2,
+        "end": 0.56
+      },
+      {
+        "word": " Sie?",
+        "start": 0.56,
+        "end": 0.78
+      }
+    ]
+  },
+  {
+    "n": 109,
+    "expected": "Darf ich fragen?",
+    "recognized": "Darf ich fragen?",
+    "words": [
+      {
+        "word": " Darf",
+        "start": 0.0,
+        "end": 0.28
+      },
+      {
+        "word": " ich",
+        "start": 0.28,
+        "end": 0.38
+      },
+      {
+        "word": " fragen?",
+        "start": 0.38,
+        "end": 0.64
+      }
+    ]
+  },
+  {
+    "n": 110,
+    "expected": "Du darfst hier spielen.",
+    "recognized": "Du darfst hier spielen.",
+    "words": [
+      {
+        "word": " Du",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " darfst",
+        "start": 0.18,
+        "end": 0.6
+      },
+      {
+        "word": " hier",
+        "start": 0.6,
+        "end": 0.7
+      },
+      {
+        "word": " spielen.",
+        "start": 0.7,
+        "end": 1.06
+      }
+    ]
+  },
+  {
+    "n": 111,
+    "expected": "Wir dürfen gehen.",
+    "recognized": "Wir dürfen gehen.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " dürfen",
+        "start": 0.22,
+        "end": 0.54
+      },
+      {
+        "word": " gehen.",
+        "start": 0.54,
+        "end": 0.88
+      }
+    ]
+  },
+  {
+    "n": 112,
+    "expected": "Ihr dürft bleiben.",
+    "recognized": "Ihr dürft bleiben.",
+    "words": [
+      {
+        "word": " Ihr",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " dürft",
+        "start": 0.2,
+        "end": 0.58
+      },
+      {
+        "word": " bleiben.",
+        "start": 0.58,
+        "end": 0.9
+      }
+    ]
+  },
+  {
+    "n": 113,
+    "expected": "Sie dürfen hier nicht rauchen.",
+    "recognized": "Sie dürfen hier nicht rauchen.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " dürfen",
+        "start": 0.2,
+        "end": 0.48
+      },
+      {
+        "word": " hier",
+        "start": 0.48,
+        "end": 0.72
+      },
+      {
+        "word": " nicht",
+        "start": 0.72,
+        "end": 0.98
+      },
+      {
+        "word": " rauchen.",
+        "start": 0.98,
+        "end": 1.46
+      }
+    ]
+  },
+  {
+    "n": 114,
+    "expected": "Du musst nicht warten.",
+    "recognized": "Du musst nicht warten.",
+    "words": [
+      {
+        "word": " Du",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " musst",
+        "start": 0.16,
+        "end": 0.38
+      },
+      {
+        "word": " nicht",
+        "start": 0.38,
+        "end": 0.64
+      },
+      {
+        "word": " warten.",
+        "start": 0.64,
+        "end": 0.98
+      }
+    ]
+  },
+  {
+    "n": 115,
+    "expected": "Darf ich das Fenster öffnen?",
+    "recognized": "Darf ich das Fenster öffnen?",
+    "words": [
+      {
+        "word": " Darf",
+        "start": 0.0,
+        "end": 0.28
+      },
+      {
+        "word": " ich",
+        "start": 0.28,
+        "end": 0.36
+      },
+      {
+        "word": " das",
+        "start": 0.36,
+        "end": 0.54
+      },
+      {
+        "word": " Fenster",
+        "start": 0.54,
+        "end": 0.94
+      },
+      {
+        "word": " öffnen?",
+        "start": 0.94,
+        "end": 1.34
+      }
+    ]
+  },
+  {
+    "n": 116,
+    "expected": "Komm bitte!",
+    "recognized": "Komm bitte!",
+    "words": [
+      {
+        "word": " Komm",
+        "start": 0.0,
+        "end": 0.26
+      },
+      {
+        "word": " bitte!",
+        "start": 0.26,
+        "end": 0.52
+      }
+    ]
+  },
+  {
+    "n": 117,
+    "expected": "Nimm das Buch!",
+    "recognized": "Nimm das Buch!",
+    "words": [
+      {
+        "word": " Nimm",
+        "start": 0.0,
+        "end": 0.28
+      },
+      {
+        "word": " das",
+        "start": 0.28,
+        "end": 0.46
+      },
+      {
+        "word": " Buch!",
+        "start": 0.46,
+        "end": 0.78
+      }
+    ]
+  },
+  {
+    "n": 118,
+    "expected": "Lies bitte!",
+    "recognized": "Lies, bitte.",
+    "words": [
+      {
+        "word": " Lies,",
+        "start": 0.0,
+        "end": 0.4
+      },
+      {
+        "word": " bitte.",
+        "start": 0.5,
+        "end": 0.58
+      }
+    ]
+  },
+  {
+    "n": 119,
+    "expected": "Sprich bitte langsam!",
+    "recognized": "Sprich bitte langsam.",
+    "words": [
+      {
+        "word": " Sprich",
+        "start": 0.0,
+        "end": 0.48
+      },
+      {
+        "word": " bitte",
+        "start": 0.48,
+        "end": 0.68
+      },
+      {
+        "word": " langsam.",
+        "start": 0.68,
+        "end": 1.12
+      }
+    ]
+  },
+  {
+    "n": 120,
+    "expected": "Sei bitte leise!",
+    "recognized": "Sei bitte leise.",
+    "words": [
+      {
+        "word": " Sei",
+        "start": 0.0,
+        "end": 0.26
+      },
+      {
+        "word": " bitte",
+        "start": 0.26,
+        "end": 0.5
+      },
+      {
+        "word": " leise.",
+        "start": 0.5,
+        "end": 1.0
+      }
+    ]
+  },
+  {
+    "n": 121,
+    "expected": "Öffnen Sie bitte das Fenster!",
+    "recognized": "Öffnen Sie bitte das Fenster.",
+    "words": [
+      {
+        "word": " Öffnen",
+        "start": 0.0,
+        "end": 0.4
+      },
+      {
+        "word": " Sie",
+        "start": 0.4,
+        "end": 0.56
+      },
+      {
+        "word": " bitte",
+        "start": 0.56,
+        "end": 0.76
+      },
+      {
+        "word": " das",
+        "start": 0.76,
+        "end": 1.0
+      },
+      {
+        "word": " Fenster.",
+        "start": 1.0,
+        "end": 1.46
+      }
+    ]
+  },
+  {
+    "n": 122,
+    "expected": "Ich helfe dem Kind.",
+    "recognized": "Ich helfe dem Kind.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " helfe",
+        "start": 0.2,
+        "end": 0.58
+      },
+      {
+        "word": " dem",
+        "start": 0.58,
+        "end": 0.72
+      },
+      {
+        "word": " Kind.",
+        "start": 0.72,
+        "end": 0.96
+      }
+    ]
+  },
+  {
+    "n": 123,
+    "expected": "Du hilfst einem Freund.",
+    "recognized": "Du hilfst einem Freund.",
+    "words": [
+      {
+        "word": " Du",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " hilfst",
+        "start": 0.2,
+        "end": 0.64
+      },
+      {
+        "word": " einem",
+        "start": 0.64,
+        "end": 0.78
+      },
+      {
+        "word": " Freund.",
+        "start": 0.78,
+        "end": 1.14
+      }
+    ]
+  },
+  {
+    "n": 124,
+    "expected": "Er antwortet der Lehrerin.",
+    "recognized": "Er antwortet der Lehrerin.",
+    "words": [
+      {
+        "word": " Er",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " antwortet",
+        "start": 0.22,
+        "end": 0.88
+      },
+      {
+        "word": " der",
+        "start": 0.88,
+        "end": 1.04
+      },
+      {
+        "word": " Lehrerin.",
+        "start": 1.04,
+        "end": 1.48
+      }
+    ]
+  },
+  {
+    "n": 125,
+    "expected": "Wir helfen den Kindern.",
+    "recognized": "Wir helfen den Kindern.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " helfen",
+        "start": 0.24,
+        "end": 0.62
+      },
+      {
+        "word": " den",
+        "start": 0.62,
+        "end": 0.84
+      },
+      {
+        "word": " Kindern.",
+        "start": 0.84,
+        "end": 1.2
+      }
+    ]
+  },
+  {
+    "n": 126,
+    "expected": "Ich gebe dem Mann das Buch.",
+    "recognized": "Ich gebe dem Mann das Buch.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " gebe",
+        "start": 0.2,
+        "end": 0.46
+      },
+      {
+        "word": " dem",
+        "start": 0.46,
+        "end": 0.7
+      },
+      {
+        "word": " Mann",
+        "start": 0.7,
+        "end": 0.88
+      },
+      {
+        "word": " das",
+        "start": 0.88,
+        "end": 1.12
+      },
+      {
+        "word": " Buch.",
+        "start": 1.12,
+        "end": 1.38
+      }
+    ]
+  },
+  {
+    "n": 127,
+    "expected": "Sie gibt einer Freundin Wasser.",
+    "recognized": "Sie gibt einer Freundin Wasser.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " gibt",
+        "start": 0.24,
+        "end": 0.48
+      },
+      {
+        "word": " einer",
+        "start": 0.48,
+        "end": 0.7
+      },
+      {
+        "word": " Freundin",
+        "start": 0.7,
+        "end": 1.26
+      },
+      {
+        "word": " Wasser.",
+        "start": 1.26,
+        "end": 1.48
+      }
+    ]
+  },
+  {
+    "n": 128,
+    "expected": "Ich antworte dem Lehrer.",
+    "recognized": "Ich antworte dem Lehrer.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " antworte",
+        "start": 0.22,
+        "end": 0.82
+      },
+      {
+        "word": " dem",
+        "start": 0.82,
+        "end": 1.0
+      },
+      {
+        "word": " Lehrer.",
+        "start": 1.0,
+        "end": 1.24
+      }
+    ]
+  },
+  {
+    "n": 129,
+    "expected": "Wir geben den Freunden Bücher.",
+    "recognized": "Wir geben den Freunden Bücher.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " geben",
+        "start": 0.24,
+        "end": 0.56
+      },
+      {
+        "word": " den",
+        "start": 0.56,
+        "end": 0.72
+      },
+      {
+        "word": " Freunden",
+        "start": 0.72,
+        "end": 1.18
+      },
+      {
+        "word": " Bücher.",
+        "start": 1.18,
+        "end": 1.64
+      }
+    ]
+  },
+  {
+    "n": 130,
+    "expected": "Du hilfst mir.",
+    "recognized": "Du hilfst mir.",
+    "words": [
+      {
+        "word": " Du",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " hilfst",
+        "start": 0.18,
+        "end": 0.6
+      },
+      {
+        "word": " mir.",
+        "start": 0.6,
+        "end": 0.76
+      }
+    ]
+  },
+  {
+    "n": 131,
+    "expected": "Ich helfe dir.",
+    "recognized": "Ich helfe dir.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " helfe",
+        "start": 0.22,
+        "end": 0.6
+      },
+      {
+        "word": " dir.",
+        "start": 0.6,
+        "end": 0.78
+      }
+    ]
+  },
+  {
+    "n": 132,
+    "expected": "Wir antworten ihm.",
+    "recognized": "Wir antworten ihm.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " antworten",
+        "start": 0.22,
+        "end": 0.92
+      },
+      {
+        "word": " ihm.",
+        "start": 0.92,
+        "end": 1.06
+      }
+    ]
+  },
+  {
+    "n": 133,
+    "expected": "Er gibt ihr das Buch.",
+    "recognized": "Er gibt ihr das Buch.",
+    "words": [
+      {
+        "word": " Er",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " gibt",
+        "start": 0.2,
+        "end": 0.46
+      },
+      {
+        "word": " ihr",
+        "start": 0.46,
+        "end": 0.66
+      },
+      {
+        "word": " das",
+        "start": 0.66,
+        "end": 0.84
+      },
+      {
+        "word": " Buch.",
+        "start": 0.84,
+        "end": 1.1
+      }
+    ]
+  },
+  {
+    "n": 134,
+    "expected": "Sie hilft uns.",
+    "recognized": "Sie hilft uns.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 0.0,
+        "end": 0.26
+      },
+      {
+        "word": " hilft",
+        "start": 0.26,
+        "end": 0.54
+      },
+      {
+        "word": " uns.",
+        "start": 0.54,
+        "end": 0.84
+      }
+    ]
+  },
+  {
+    "n": 135,
+    "expected": "Ich antworte euch.",
+    "recognized": "Ich antworte euch.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " antworte",
+        "start": 0.2,
+        "end": 0.78
+      },
+      {
+        "word": " euch.",
+        "start": 0.78,
+        "end": 0.98
+      }
+    ]
+  },
+  {
+    "n": 136,
+    "expected": "Wir helfen ihnen.",
+    "recognized": "Wir helfen Ihnen!",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " helfen",
+        "start": 0.22,
+        "end": 0.64
+      },
+      {
+        "word": " Ihnen!",
+        "start": 0.64,
+        "end": 0.94
+      }
+    ]
+  },
+  {
+    "n": 137,
+    "expected": "Ich helfe Ihnen.",
+    "recognized": "Ich helfe Ihnen.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " helfe",
+        "start": 0.22,
+        "end": 0.62
+      },
+      {
+        "word": " Ihnen.",
+        "start": 0.62,
+        "end": 0.84
+      }
+    ]
+  },
+  {
+    "n": 138,
+    "expected": "Ich gebe dem Kind den Ball.",
+    "recognized": "Ich gebe dem Kind den Ball.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " gebe",
+        "start": 0.2,
+        "end": 0.44
+      },
+      {
+        "word": " dem",
+        "start": 0.44,
+        "end": 0.66
+      },
+      {
+        "word": " Kind",
+        "start": 0.66,
+        "end": 0.94
+      },
+      {
+        "word": " den",
+        "start": 0.94,
+        "end": 1.16
+      },
+      {
+        "word": " Ball.",
+        "start": 1.16,
+        "end": 1.4
+      }
+    ]
+  },
+  {
+    "n": 139,
+    "expected": "Du zeigst der Frau das Bild.",
+    "recognized": "Du zeigst der Frau das Bild.",
+    "words": [
+      {
+        "word": " Du",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " zeigst",
+        "start": 0.18,
+        "end": 0.64
+      },
+      {
+        "word": " der",
+        "start": 0.64,
+        "end": 0.74
+      },
+      {
+        "word": " Frau",
+        "start": 0.74,
+        "end": 0.98
+      },
+      {
+        "word": " das",
+        "start": 0.98,
+        "end": 1.22
+      },
+      {
+        "word": " Bild.",
+        "start": 1.22,
+        "end": 1.44
+      }
+    ]
+  },
+  {
+    "n": 140,
+    "expected": "Er schenkt seinem Vater ein Buch.",
+    "recognized": "Er schenkt seinem Vater ein Buch.",
+    "words": [
+      {
+        "word": " Er",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " schenkt",
+        "start": 0.18,
+        "end": 0.52
+      },
+      {
+        "word": " seinem",
+        "start": 0.52,
+        "end": 0.72
+      },
+      {
+        "word": " Vater",
+        "start": 0.72,
+        "end": 1.16
+      },
+      {
+        "word": " ein",
+        "start": 1.16,
+        "end": 1.44
+      },
+      {
+        "word": " Buch.",
+        "start": 1.44,
+        "end": 1.7
+      }
+    ]
+  },
+  {
+    "n": 141,
+    "expected": "Wir geben den Kindern Wasser.",
+    "recognized": "Wir geben den Kindern Wasser.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " geben",
+        "start": 0.2,
+        "end": 0.46
+      },
+      {
+        "word": " den",
+        "start": 0.46,
+        "end": 0.64
+      },
+      {
+        "word": " Kindern",
+        "start": 0.64,
+        "end": 1.04
+      },
+      {
+        "word": " Wasser.",
+        "start": 1.04,
+        "end": 1.38
+      }
+    ]
+  },
+  {
+    "n": 142,
+    "expected": "Ich gebe ihm das Buch.",
+    "recognized": "Ich gebe ihm das Buch.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " gebe",
+        "start": 0.2,
+        "end": 0.44
+      },
+      {
+        "word": " ihm",
+        "start": 0.44,
+        "end": 0.64
+      },
+      {
+        "word": " das",
+        "start": 0.64,
+        "end": 0.86
+      },
+      {
+        "word": " Buch.",
+        "start": 0.86,
+        "end": 1.12
+      }
+    ]
+  },
+  {
+    "n": 143,
+    "expected": "Ich gebe es dem Kind.",
+    "recognized": "Ich gebe es dem Kind.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " gebe",
+        "start": 0.18,
+        "end": 0.4
+      },
+      {
+        "word": " es",
+        "start": 0.4,
+        "end": 0.6
+      },
+      {
+        "word": " dem",
+        "start": 0.6,
+        "end": 0.76
+      },
+      {
+        "word": " Kind.",
+        "start": 0.76,
+        "end": 1.02
+      }
+    ]
+  },
+  {
+    "n": 144,
+    "expected": "Ich gebe es ihm.",
+    "recognized": "Ich gebe es ihm.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " gebe",
+        "start": 0.18,
+        "end": 0.46
+      },
+      {
+        "word": " es",
+        "start": 0.46,
+        "end": 0.66
+      },
+      {
+        "word": " ihm.",
+        "start": 0.66,
+        "end": 0.84
+      }
+    ]
+  },
+  {
+    "n": 145,
+    "expected": "Sie zeigt es mir.",
+    "recognized": "Sie zeigt es mir.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " zeigt",
+        "start": 0.22,
+        "end": 0.52
+      },
+      {
+        "word": " es",
+        "start": 0.52,
+        "end": 0.78
+      },
+      {
+        "word": " mir.",
+        "start": 0.78,
+        "end": 0.96
+      }
+    ]
+  },
+  {
+    "n": 146,
+    "expected": "Ich komme mit dir.",
+    "recognized": "Ich komme mit dir.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " komme",
+        "start": 0.18,
+        "end": 0.42
+      },
+      {
+        "word": " mit",
+        "start": 0.42,
+        "end": 0.66
+      },
+      {
+        "word": " dir.",
+        "start": 0.66,
+        "end": 0.88
+      }
+    ]
+  },
+  {
+    "n": 147,
+    "expected": "Du gehst zu mir.",
+    "recognized": "Du gehst zu mir.",
+    "words": [
+      {
+        "word": " Du",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " gehst",
+        "start": 0.18,
+        "end": 0.48
+      },
+      {
+        "word": " zu",
+        "start": 0.48,
+        "end": 0.74
+      },
+      {
+        "word": " mir.",
+        "start": 0.74,
+        "end": 0.94
+      }
+    ]
+  },
+  {
+    "n": 148,
+    "expected": "Das Buch ist von meinem Freund.",
+    "recognized": "Das Buch ist von meinem Freund.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Buch",
+        "start": 0.18,
+        "end": 0.46
+      },
+      {
+        "word": " ist",
+        "start": 0.46,
+        "end": 0.76
+      },
+      {
+        "word": " von",
+        "start": 0.76,
+        "end": 0.96
+      },
+      {
+        "word": " meinem",
+        "start": 0.96,
+        "end": 1.18
+      },
+      {
+        "word": " Freund.",
+        "start": 1.18,
+        "end": 1.52
+      }
+    ]
+  },
+  {
+    "n": 149,
+    "expected": "Wir sind bei unseren Eltern.",
+    "recognized": "Wir sind bei unseren Eltern.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " sind",
+        "start": 0.2,
+        "end": 0.38
+      },
+      {
+        "word": " bei",
+        "start": 0.38,
+        "end": 0.6
+      },
+      {
+        "word": " unseren",
+        "start": 0.6,
+        "end": 0.84
+      },
+      {
+        "word": " Eltern.",
+        "start": 0.84,
+        "end": 1.26
+      }
+    ]
+  },
+  {
+    "n": 150,
+    "expected": "Sie fährt nach Berlin.",
+    "recognized": "Sie fährt nach Berlin.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " fährt",
+        "start": 0.24,
+        "end": 0.54
+      },
+      {
+        "word": " nach",
+        "start": 0.54,
+        "end": 0.72
+      },
+      {
+        "word": " Berlin.",
+        "start": 0.72,
+        "end": 1.02
+      }
+    ]
+  },
+  {
+    "n": 151,
+    "expected": "Ich gehe zum Arzt.",
+    "recognized": "Ich gehe zum Arzt.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " gehe",
+        "start": 0.2,
+        "end": 0.4
+      },
+      {
+        "word": " zum",
+        "start": 0.4,
+        "end": 0.64
+      },
+      {
+        "word": " Arzt.",
+        "start": 0.64,
+        "end": 1.16
+      }
+    ]
+  },
+  {
+    "n": 152,
+    "expected": "Er geht zur Schule.",
+    "recognized": "Er geht zur Schule.",
+    "words": [
+      {
+        "word": " Er",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " geht",
+        "start": 0.18,
+        "end": 0.38
+      },
+      {
+        "word": " zur",
+        "start": 0.38,
+        "end": 0.62
+      },
+      {
+        "word": " Schule.",
+        "start": 0.62,
+        "end": 0.88
+      }
+    ]
+  },
+  {
+    "n": 153,
+    "expected": "Das ist für dich.",
+    "recognized": "Das ist für dich.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " ist",
+        "start": 0.18,
+        "end": 0.36
+      },
+      {
+        "word": " für",
+        "start": 0.36,
+        "end": 0.56
+      },
+      {
+        "word": " dich.",
+        "start": 0.56,
+        "end": 0.74
+      }
+    ]
+  },
+  {
+    "n": 154,
+    "expected": "Ich gehe ohne meinen Bruder.",
+    "recognized": "Ich gehe ohne meinen Bruder.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " gehe",
+        "start": 0.2,
+        "end": 0.42
+      },
+      {
+        "word": " ohne",
+        "start": 0.42,
+        "end": 0.82
+      },
+      {
+        "word": " meinen",
+        "start": 0.82,
+        "end": 1.12
+      },
+      {
+        "word": " Bruder.",
+        "start": 1.12,
+        "end": 1.56
+      }
+    ]
+  },
+  {
+    "n": 155,
+    "expected": "Wir spielen gegen die Kinder.",
+    "recognized": "Wir spielen gegen die Kinder.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " spielen",
+        "start": 0.18,
+        "end": 0.54
+      },
+      {
+        "word": " gegen",
+        "start": 0.54,
+        "end": 0.8
+      },
+      {
+        "word": " die",
+        "start": 0.8,
+        "end": 1.06
+      },
+      {
+        "word": " Kinder.",
+        "start": 1.06,
+        "end": 1.34
+      }
+    ]
+  },
+  {
+    "n": 156,
+    "expected": "Sie geht durch den Park.",
+    "recognized": "Sie geht durch den Park.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " geht",
+        "start": 0.22,
+        "end": 0.42
+      },
+      {
+        "word": " durch",
+        "start": 0.42,
+        "end": 0.62
+      },
+      {
+        "word": " den",
+        "start": 0.62,
+        "end": 0.84
+      },
+      {
+        "word": " Park.",
+        "start": 0.84,
+        "end": 1.14
+      }
+    ]
+  },
+  {
+    "n": 157,
+    "expected": "Wir gehen um das Haus.",
+    "recognized": "Wir gehen um das Haus.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " gehen",
+        "start": 0.2,
+        "end": 0.44
+      },
+      {
+        "word": " um",
+        "start": 0.44,
+        "end": 0.66
+      },
+      {
+        "word": " das",
+        "start": 0.66,
+        "end": 0.86
+      },
+      {
+        "word": " Haus.",
+        "start": 0.86,
+        "end": 1.12
+      }
+    ]
+  },
+  {
+    "n": 158,
+    "expected": "Das Geschenk ist für meinen Vater.",
+    "recognized": "Das Geschenk ist für meinen Vater.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Geschenk",
+        "start": 0.18,
+        "end": 0.72
+      },
+      {
+        "word": " ist",
+        "start": 0.72,
+        "end": 0.86
+      },
+      {
+        "word": " für",
+        "start": 0.86,
+        "end": 1.04
+      },
+      {
+        "word": " meinen",
+        "start": 1.04,
+        "end": 1.24
+      },
+      {
+        "word": " Vater.",
+        "start": 1.24,
+        "end": 1.58
+      }
+    ]
+  },
+  {
+    "n": 159,
+    "expected": "Ich komme ohne meine Tasche.",
+    "recognized": "Ich komme ohne meine Tasche.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " komme",
+        "start": 0.18,
+        "end": 0.4
+      },
+      {
+        "word": " ohne",
+        "start": 0.4,
+        "end": 0.76
+      },
+      {
+        "word": " meine",
+        "start": 0.76,
+        "end": 1.02
+      },
+      {
+        "word": " Tasche.",
+        "start": 1.02,
+        "end": 1.46
+      }
+    ]
+  },
+  {
+    "n": 160,
+    "expected": "Ich komme um acht Uhr.",
+    "recognized": "Ich komme um 8 Uhr.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " komme",
+        "start": 0.16,
+        "end": 0.4
+      },
+      {
+        "word": " um",
+        "start": 0.4,
+        "end": 0.62
+      },
+      {
+        "word": " 8",
+        "start": 0.62,
+        "end": 0.92
+      },
+      {
+        "word": " Uhr.",
+        "start": 0.92,
+        "end": 1.18
+      }
+    ]
+  },
+  {
+    "n": 161,
+    "expected": "Das kostet zwanzig Euro.",
+    "recognized": "Das kostet 20 Euro.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " kostet",
+        "start": 0.2,
+        "end": 0.68
+      },
+      {
+        "word": " 20",
+        "start": 0.68,
+        "end": 1.1
+      },
+      {
+        "word": " Euro.",
+        "start": 1.1,
+        "end": 1.52
+      }
+    ]
+  },
+  {
+    "n": 162,
+    "expected": "Das Buch kostet einundzwanzig Euro.",
+    "recognized": "Das Buch kostet 21 Euro.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Buch",
+        "start": 0.18,
+        "end": 0.46
+      },
+      {
+        "word": " kostet",
+        "start": 0.46,
+        "end": 1.06
+      },
+      {
+        "word": " 21",
+        "start": 1.06,
+        "end": 1.64
+      },
+      {
+        "word": " Euro.",
+        "start": 1.64,
+        "end": 2.16
+      }
+    ]
+  },
+  {
+    "n": 163,
+    "expected": "Ich habe dreißig Euro.",
+    "recognized": "Ich habe 30 Euro.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " habe",
+        "start": 0.18,
+        "end": 0.38
+      },
+      {
+        "word": " 30",
+        "start": 0.38,
+        "end": 0.8
+      },
+      {
+        "word": " Euro.",
+        "start": 0.8,
+        "end": 1.2
+      }
+    ]
+  },
+  {
+    "n": 164,
+    "expected": "Das kostet fünfzig Cent.",
+    "recognized": "Das kostet 50 Cent.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " kostet",
+        "start": 0.2,
+        "end": 0.68
+      },
+      {
+        "word": " 50",
+        "start": 0.68,
+        "end": 1.02
+      },
+      {
+        "word": " Cent.",
+        "start": 1.02,
+        "end": 1.42
+      }
+    ]
+  },
+  {
+    "n": 165,
+    "expected": "Wir haben hundert Bücher.",
+    "recognized": "Wir haben 100 Bücher.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " haben",
+        "start": 0.18,
+        "end": 0.44
+      },
+      {
+        "word": " 100",
+        "start": 0.44,
+        "end": 0.86
+      },
+      {
+        "word": " Bücher.",
+        "start": 0.86,
+        "end": 1.36
+      }
+    ]
+  },
+  {
+    "n": 166,
+    "expected": "Hier sind tausend Menschen.",
+    "recognized": "Hier sind tausend Menschen.",
+    "words": [
+      {
+        "word": " Hier",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " sind",
+        "start": 0.22,
+        "end": 0.38
+      },
+      {
+        "word": " tausend",
+        "start": 0.38,
+        "end": 0.98
+      },
+      {
+        "word": " Menschen.",
+        "start": 0.98,
+        "end": 1.2
+      }
+    ]
+  },
+  {
+    "n": 167,
+    "expected": "Das kostet zwei Euro fünfzig.",
+    "recognized": "Das kostet 2,50 Euro.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " kostet",
+        "start": 0.22,
+        "end": 0.68
+      },
+      {
+        "word": " 2",
+        "start": 0.68,
+        "end": 0.96
+      },
+      {
+        "word": ",50",
+        "start": 0.96,
+        "end": 1.72
+      },
+      {
+        "word": " Euro.",
+        "start": 1.72,
+        "end": 1.78
+      }
+    ]
+  },
+  {
+    "n": 168,
+    "expected": "Wie viel kostet das?",
+    "recognized": "Wie viel kostet das?",
+    "words": [
+      {
+        "word": " Wie",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " viel",
+        "start": 0.18,
+        "end": 0.36
+      },
+      {
+        "word": " kostet",
+        "start": 0.36,
+        "end": 0.82
+      },
+      {
+        "word": " das?",
+        "start": 0.82,
+        "end": 0.98
+      }
+    ]
+  },
+  {
+    "n": 169,
+    "expected": "Wir kommen um halb neun.",
+    "recognized": "Wir kommen um halb neun.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " kommen",
+        "start": 0.16,
+        "end": 0.4
+      },
+      {
+        "word": " um",
+        "start": 0.4,
+        "end": 0.66
+      },
+      {
+        "word": " halb",
+        "start": 0.66,
+        "end": 1.04
+      },
+      {
+        "word": " neun.",
+        "start": 1.04,
+        "end": 1.34
+      }
+    ]
+  },
+  {
+    "n": 170,
+    "expected": "Ich arbeite am Montag.",
+    "recognized": "Ich arbeite am Montag.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " arbeite",
+        "start": 0.2,
+        "end": 0.68
+      },
+      {
+        "word": " am",
+        "start": 0.68,
+        "end": 0.82
+      },
+      {
+        "word": " Montag.",
+        "start": 0.82,
+        "end": 1.36
+      }
+    ]
+  },
+  {
+    "n": 171,
+    "expected": "Der Termin ist am ersten Mai.",
+    "recognized": "Der Termin ist am 1. Mai.",
+    "words": [
+      {
+        "word": " Der",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Termin",
+        "start": 0.16,
+        "end": 0.64
+      },
+      {
+        "word": " ist",
+        "start": 0.64,
+        "end": 0.82
+      },
+      {
+        "word": " am",
+        "start": 0.82,
+        "end": 1.0
+      },
+      {
+        "word": " 1.",
+        "start": 1.0,
+        "end": 1.2
+      },
+      {
+        "word": " Mai.",
+        "start": 1.44,
+        "end": 1.64
+      }
+    ]
+  },
+  {
+    "n": 172,
+    "expected": "Ich habe am dritten Mai Geburtstag.",
+    "recognized": "Ich habe am 3. Mai Geburtstag.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " habe",
+        "start": 0.18,
+        "end": 0.36
+      },
+      {
+        "word": " am",
+        "start": 0.36,
+        "end": 0.54
+      },
+      {
+        "word": " 3.",
+        "start": 0.54,
+        "end": 0.76
+      },
+      {
+        "word": " Mai",
+        "start": 0.94,
+        "end": 1.12
+      },
+      {
+        "word": " Geburtstag.",
+        "start": 1.12,
+        "end": 1.78
+      }
+    ]
+  },
+  {
+    "n": 173,
+    "expected": "Heute ist der zwanzigste Mai.",
+    "recognized": "Heute ist der 20. Mai.",
+    "words": [
+      {
+        "word": " Heute",
+        "start": 0.0,
+        "end": 0.3
+      },
+      {
+        "word": " ist",
+        "start": 0.3,
+        "end": 0.58
+      },
+      {
+        "word": " der",
+        "start": 0.58,
+        "end": 0.74
+      },
+      {
+        "word": " 20.",
+        "start": 0.74,
+        "end": 1.18
+      },
+      {
+        "word": " Mai.",
+        "start": 1.46,
+        "end": 1.64
+      }
+    ]
+  },
+  {
+    "n": 174,
+    "expected": "Es ist Viertel nach acht.",
+    "recognized": "Es ist Viertel nach Acht.",
+    "words": [
+      {
+        "word": " Es",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " ist",
+        "start": 0.2,
+        "end": 0.36
+      },
+      {
+        "word": " Viertel",
+        "start": 0.36,
+        "end": 0.8
+      },
+      {
+        "word": " nach",
+        "start": 0.8,
+        "end": 0.96
+      },
+      {
+        "word": " Acht.",
+        "start": 0.96,
+        "end": 1.32
+      }
+    ]
+  },
+  {
+    "n": 175,
+    "expected": "Wann hast du Geburtstag?",
+    "recognized": "Wann hast du Geburtstag?",
+    "words": [
+      {
+        "word": " Wann",
+        "start": 0.0,
+        "end": 0.3
+      },
+      {
+        "word": " hast",
+        "start": 0.3,
+        "end": 0.46
+      },
+      {
+        "word": " du",
+        "start": 0.46,
+        "end": 0.6
+      },
+      {
+        "word": " Geburtstag?",
+        "start": 0.6,
+        "end": 1.16
+      }
+    ]
+  },
+  {
+    "n": 176,
+    "expected": "Das Buch liegt auf dem Tisch.",
+    "recognized": "Das Buch liegt auf dem Tisch.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Buch",
+        "start": 0.18,
+        "end": 0.48
+      },
+      {
+        "word": " liegt",
+        "start": 0.48,
+        "end": 0.78
+      },
+      {
+        "word": " auf",
+        "start": 0.78,
+        "end": 0.98
+      },
+      {
+        "word": " dem",
+        "start": 0.98,
+        "end": 1.16
+      },
+      {
+        "word": " Tisch.",
+        "start": 1.16,
+        "end": 1.4
+      }
+    ]
+  },
+  {
+    "n": 177,
+    "expected": "Die Katze ist unter dem Stuhl.",
+    "recognized": "Die Katze ist unter dem Stuhl.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Katze",
+        "start": 0.16,
+        "end": 0.58
+      },
+      {
+        "word": " ist",
+        "start": 0.58,
+        "end": 0.78
+      },
+      {
+        "word": " unter",
+        "start": 0.78,
+        "end": 1.06
+      },
+      {
+        "word": " dem",
+        "start": 1.06,
+        "end": 1.24
+      },
+      {
+        "word": " Stuhl.",
+        "start": 1.24,
+        "end": 1.72
+      }
+    ]
+  },
+  {
+    "n": 178,
+    "expected": "Ich bin im Park.",
+    "recognized": "Ich bin im Park.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " bin",
+        "start": 0.2,
+        "end": 0.32
+      },
+      {
+        "word": " im",
+        "start": 0.32,
+        "end": 0.48
+      },
+      {
+        "word": " Park.",
+        "start": 0.48,
+        "end": 0.74
+      }
+    ]
+  },
+  {
+    "n": 179,
+    "expected": "Das Bild hängt an der Wand.",
+    "recognized": "Das Bild hängt an der Wand.",
+    "words": [
+      {
+        "word": " Das",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Bild",
+        "start": 0.18,
+        "end": 0.5
+      },
+      {
+        "word": " hängt",
+        "start": 0.5,
+        "end": 0.88
+      },
+      {
+        "word": " an",
+        "start": 0.88,
+        "end": 1.02
+      },
+      {
+        "word": " der",
+        "start": 1.02,
+        "end": 1.16
+      },
+      {
+        "word": " Wand.",
+        "start": 1.16,
+        "end": 1.36
+      }
+    ]
+  },
+  {
+    "n": 180,
+    "expected": "Wir stehen vor der Schule.",
+    "recognized": "Wir stehen vor der Schule.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " stehen",
+        "start": 0.2,
+        "end": 0.52
+      },
+      {
+        "word": " vor",
+        "start": 0.52,
+        "end": 0.86
+      },
+      {
+        "word": " der",
+        "start": 0.86,
+        "end": 1.02
+      },
+      {
+        "word": " Schule.",
+        "start": 1.02,
+        "end": 1.3
+      }
+    ]
+  },
+  {
+    "n": 181,
+    "expected": "Der Hund ist neben dem Kind.",
+    "recognized": "Der Hund ist neben dem Kind.",
+    "words": [
+      {
+        "word": " Der",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " Hund",
+        "start": 0.18,
+        "end": 0.4
+      },
+      {
+        "word": " ist",
+        "start": 0.4,
+        "end": 0.7
+      },
+      {
+        "word": " neben",
+        "start": 0.7,
+        "end": 1.0
+      },
+      {
+        "word": " dem",
+        "start": 1.0,
+        "end": 1.22
+      },
+      {
+        "word": " Kind.",
+        "start": 1.22,
+        "end": 1.46
+      }
+    ]
+  },
+  {
+    "n": 182,
+    "expected": "Ich laufe im Park.",
+    "recognized": "Ich laufe im Park.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " laufe",
+        "start": 0.2,
+        "end": 0.56
+      },
+      {
+        "word": " im",
+        "start": 0.56,
+        "end": 0.7
+      },
+      {
+        "word": " Park.",
+        "start": 0.7,
+        "end": 0.98
+      }
+    ]
+  },
+  {
+    "n": 183,
+    "expected": "Die Tasche liegt auf dem Stuhl.",
+    "recognized": "Die Tasche liegt auf dem Stuhl.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Tasche",
+        "start": 0.16,
+        "end": 0.56
+      },
+      {
+        "word": " liegt",
+        "start": 0.56,
+        "end": 0.76
+      },
+      {
+        "word": " auf",
+        "start": 0.76,
+        "end": 0.98
+      },
+      {
+        "word": " dem",
+        "start": 0.98,
+        "end": 1.14
+      },
+      {
+        "word": " Stuhl.",
+        "start": 1.14,
+        "end": 1.64
+      }
+    ]
+  },
+  {
+    "n": 184,
+    "expected": "Ich lege das Buch auf den Tisch.",
+    "recognized": "Ich lege das Buch auf den Tisch.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " lege",
+        "start": 0.18,
+        "end": 0.48
+      },
+      {
+        "word": " das",
+        "start": 0.48,
+        "end": 0.64
+      },
+      {
+        "word": " Buch",
+        "start": 0.64,
+        "end": 0.92
+      },
+      {
+        "word": " auf",
+        "start": 0.92,
+        "end": 1.16
+      },
+      {
+        "word": " den",
+        "start": 1.16,
+        "end": 1.3
+      },
+      {
+        "word": " Tisch.",
+        "start": 1.3,
+        "end": 1.56
+      }
+    ]
+  },
+  {
+    "n": 185,
+    "expected": "Du stellst den Stuhl in das Zimmer.",
+    "recognized": "Du stellst den Stuhl in das Zimmer.",
+    "words": [
+      {
+        "word": " Du",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " stellst",
+        "start": 0.18,
+        "end": 0.58
+      },
+      {
+        "word": " den",
+        "start": 0.58,
+        "end": 0.72
+      },
+      {
+        "word": " Stuhl",
+        "start": 0.72,
+        "end": 1.16
+      },
+      {
+        "word": " in",
+        "start": 1.16,
+        "end": 1.28
+      },
+      {
+        "word": " das",
+        "start": 1.28,
+        "end": 1.44
+      },
+      {
+        "word": " Zimmer.",
+        "start": 1.44,
+        "end": 1.76
+      }
+    ]
+  },
+  {
+    "n": 186,
+    "expected": "Wir gehen in den Park.",
+    "recognized": "Wir gehen in den Park.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " gehen",
+        "start": 0.2,
+        "end": 0.46
+      },
+      {
+        "word": " in",
+        "start": 0.46,
+        "end": 0.68
+      },
+      {
+        "word": " den",
+        "start": 0.68,
+        "end": 0.8
+      },
+      {
+        "word": " Park.",
+        "start": 0.8,
+        "end": 1.14
+      }
+    ]
+  },
+  {
+    "n": 187,
+    "expected": "Sie geht in die Schule.",
+    "recognized": "Sie geht in die Schule.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " geht",
+        "start": 0.24,
+        "end": 0.48
+      },
+      {
+        "word": " in",
+        "start": 0.48,
+        "end": 0.66
+      },
+      {
+        "word": " die",
+        "start": 0.66,
+        "end": 0.78
+      },
+      {
+        "word": " Schule.",
+        "start": 0.78,
+        "end": 1.02
+      }
+    ]
+  },
+  {
+    "n": 188,
+    "expected": "Ich hänge das Bild an die Wand.",
+    "recognized": "Ich hänge das Bild an die Wand.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " hänge",
+        "start": 0.2,
+        "end": 0.4
+      },
+      {
+        "word": " das",
+        "start": 0.4,
+        "end": 0.6
+      },
+      {
+        "word": " Bild",
+        "start": 0.6,
+        "end": 0.86
+      },
+      {
+        "word": " an",
+        "start": 0.86,
+        "end": 1.1
+      },
+      {
+        "word": " die",
+        "start": 1.1,
+        "end": 1.22
+      },
+      {
+        "word": " Wand.",
+        "start": 1.22,
+        "end": 1.42
+      }
+    ]
+  },
+  {
+    "n": 189,
+    "expected": "Die Katze geht unter den Tisch.",
+    "recognized": "Die Katze geht unter den Tisch.",
+    "words": [
+      {
+        "word": " Die",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Katze",
+        "start": 0.16,
+        "end": 0.6
+      },
+      {
+        "word": " geht",
+        "start": 0.6,
+        "end": 0.82
+      },
+      {
+        "word": " unter",
+        "start": 0.82,
+        "end": 1.12
+      },
+      {
+        "word": " den",
+        "start": 1.12,
+        "end": 1.34
+      },
+      {
+        "word": " Tisch.",
+        "start": 1.34,
+        "end": 1.56
+      }
+    ]
+  },
+  {
+    "n": 190,
+    "expected": "Er geht ins Zimmer.",
+    "recognized": "Er geht ins Zimmer.",
+    "words": [
+      {
+        "word": " Er",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " geht",
+        "start": 0.22,
+        "end": 0.42
+      },
+      {
+        "word": " ins",
+        "start": 0.42,
+        "end": 0.64
+      },
+      {
+        "word": " Zimmer.",
+        "start": 0.64,
+        "end": 1.0
+      }
+    ]
+  },
+  {
+    "n": 191,
+    "expected": "Wir gehen in den Garten.",
+    "recognized": "Wir gehen in den Garten.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " gehen",
+        "start": 0.22,
+        "end": 0.48
+      },
+      {
+        "word": " in",
+        "start": 0.48,
+        "end": 0.68
+      },
+      {
+        "word": " den",
+        "start": 0.68,
+        "end": 0.8
+      },
+      {
+        "word": " Garten.",
+        "start": 0.8,
+        "end": 1.22
+      }
+    ]
+  },
+  {
+    "n": 192,
+    "expected": "Ich bin zu Hause.",
+    "recognized": "Ich bin zu Hause.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " bin",
+        "start": 0.2,
+        "end": 0.34
+      },
+      {
+        "word": " zu",
+        "start": 0.34,
+        "end": 0.54
+      },
+      {
+        "word": " Hause.",
+        "start": 0.54,
+        "end": 0.78
+      }
+    ]
+  },
+  {
+    "n": 193,
+    "expected": "Ich gehe nach Hause.",
+    "recognized": "Ich gehe nach Hause.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " gehe",
+        "start": 0.18,
+        "end": 0.36
+      },
+      {
+        "word": " nach",
+        "start": 0.36,
+        "end": 0.64
+      },
+      {
+        "word": " Hause.",
+        "start": 0.64,
+        "end": 1.0
+      }
+    ]
+  },
+  {
+    "n": 194,
+    "expected": "Wir fahren nach Berlin.",
+    "recognized": "Wir fahren nach Berlin.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " fahren",
+        "start": 0.18,
+        "end": 0.5
+      },
+      {
+        "word": " nach",
+        "start": 0.5,
+        "end": 0.76
+      },
+      {
+        "word": " Berlin.",
+        "start": 0.76,
+        "end": 1.1
+      }
+    ]
+  },
+  {
+    "n": 195,
+    "expected": "Sie fährt in die Ukraine.",
+    "recognized": "Sie fährt in die Ukraine.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " fährt",
+        "start": 0.24,
+        "end": 0.58
+      },
+      {
+        "word": " in",
+        "start": 0.58,
+        "end": 0.72
+      },
+      {
+        "word": " die",
+        "start": 0.72,
+        "end": 0.82
+      },
+      {
+        "word": " Ukraine.",
+        "start": 0.82,
+        "end": 1.18
+      }
+    ]
+  },
+  {
+    "n": 196,
+    "expected": "Gehen Sie geradeaus!",
+    "recognized": "Gehen Sie gerade aus!",
+    "words": [
+      {
+        "word": " Gehen",
+        "start": 0.0,
+        "end": 0.26
+      },
+      {
+        "word": " Sie",
+        "start": 0.26,
+        "end": 0.4
+      },
+      {
+        "word": " gerade",
+        "start": 0.4,
+        "end": 0.64
+      },
+      {
+        "word": " aus!",
+        "start": 0.64,
+        "end": 1.04
+      }
+    ]
+  },
+  {
+    "n": 197,
+    "expected": "Gehen Sie nach links!",
+    "recognized": "Gehen Sie nach links.",
+    "words": [
+      {
+        "word": " Gehen",
+        "start": 0.0,
+        "end": 0.26
+      },
+      {
+        "word": " Sie",
+        "start": 0.26,
+        "end": 0.38
+      },
+      {
+        "word": " nach",
+        "start": 0.38,
+        "end": 0.54
+      },
+      {
+        "word": " links.",
+        "start": 0.54,
+        "end": 0.82
+      }
+    ]
+  },
+  {
+    "n": 198,
+    "expected": "Der Bahnhof ist rechts.",
+    "recognized": "Der Bahnhof ist rechts.",
+    "words": [
+      {
+        "word": " Der",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Bahnhof",
+        "start": 0.16,
+        "end": 0.68
+      },
+      {
+        "word": " ist",
+        "start": 0.68,
+        "end": 0.9
+      },
+      {
+        "word": " rechts.",
+        "start": 0.9,
+        "end": 1.2
+      }
+    ]
+  },
+  {
+    "n": 199,
+    "expected": "Der Osten ist hier.",
+    "recognized": "Der Osten ist hier.",
+    "words": [
+      {
+        "word": " Der",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " Osten",
+        "start": 0.16,
+        "end": 0.58
+      },
+      {
+        "word": " ist",
+        "start": 0.58,
+        "end": 0.82
+      },
+      {
+        "word": " hier.",
+        "start": 0.82,
+        "end": 1.12
+      }
+    ]
+  },
+  {
+    "n": 200,
+    "expected": "Ich stehe früh auf.",
+    "recognized": "Ich stehe früh auf.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " stehe",
+        "start": 0.18,
+        "end": 0.54
+      },
+      {
+        "word": " früh",
+        "start": 0.54,
+        "end": 0.8
+      },
+      {
+        "word": " auf.",
+        "start": 0.8,
+        "end": 1.12
+      }
+    ]
+  },
+  {
+    "n": 201,
+    "expected": "Du rufst mich an.",
+    "recognized": "Du rufst mich an.",
+    "words": [
+      {
+        "word": " Du",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " rufst",
+        "start": 0.2,
+        "end": 0.54
+      },
+      {
+        "word": " mich",
+        "start": 0.54,
+        "end": 0.66
+      },
+      {
+        "word": " an.",
+        "start": 0.66,
+        "end": 0.92
+      }
+    ]
+  },
+  {
+    "n": 202,
+    "expected": "Wir kaufen heute ein.",
+    "recognized": "Wir kaufen heute ein.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " kaufen",
+        "start": 0.16,
+        "end": 0.48
+      },
+      {
+        "word": " heute",
+        "start": 0.48,
+        "end": 0.76
+      },
+      {
+        "word": " ein.",
+        "start": 0.76,
+        "end": 1.1
+      }
+    ]
+  },
+  {
+    "n": 203,
+    "expected": "Sie macht die Tür auf.",
+    "recognized": "Sie macht die Tür auf.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " macht",
+        "start": 0.22,
+        "end": 0.44
+      },
+      {
+        "word": " die",
+        "start": 0.44,
+        "end": 0.6
+      },
+      {
+        "word": " Tür",
+        "start": 0.6,
+        "end": 0.82
+      },
+      {
+        "word": " auf.",
+        "start": 0.82,
+        "end": 1.1
+      }
+    ]
+  },
+  {
+    "n": 204,
+    "expected": "Er kommt morgen zurück.",
+    "recognized": "Er kommt morgen zurück.",
+    "words": [
+      {
+        "word": " Er",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " kommt",
+        "start": 0.18,
+        "end": 0.4
+      },
+      {
+        "word": " morgen",
+        "start": 0.4,
+        "end": 0.74
+      },
+      {
+        "word": " zurück.",
+        "start": 0.74,
+        "end": 1.1
+      }
+    ]
+  },
+  {
+    "n": 205,
+    "expected": "Ich muss früh aufstehen.",
+    "recognized": "Ich muss früh aufstehen.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " muss",
+        "start": 0.18,
+        "end": 0.34
+      },
+      {
+        "word": " früh",
+        "start": 0.34,
+        "end": 0.66
+      },
+      {
+        "word": " aufstehen.",
+        "start": 0.66,
+        "end": 1.34
+      }
+    ]
+  },
+  {
+    "n": 206,
+    "expected": "Kannst du mich anrufen?",
+    "recognized": "Kannst du mich anrufen?",
+    "words": [
+      {
+        "word": " Kannst",
+        "start": 0.0,
+        "end": 0.34
+      },
+      {
+        "word": " du",
+        "start": 0.34,
+        "end": 0.42
+      },
+      {
+        "word": " mich",
+        "start": 0.42,
+        "end": 0.56
+      },
+      {
+        "word": " anrufen?",
+        "start": 0.56,
+        "end": 1.14
+      }
+    ]
+  },
+  {
+    "n": 207,
+    "expected": "Ich verstehe dich.",
+    "recognized": "Ich verstehe dich.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " verstehe",
+        "start": 0.16,
+        "end": 0.66
+      },
+      {
+        "word": " dich.",
+        "start": 0.66,
+        "end": 0.8
+      }
+    ]
+  },
+  {
+    "n": 208,
+    "expected": "Verstehst du mich?",
+    "recognized": "Verstehst du mich?",
+    "words": [
+      {
+        "word": " Verstehst",
+        "start": 0.0,
+        "end": 0.52
+      },
+      {
+        "word": " du",
+        "start": 0.52,
+        "end": 0.64
+      },
+      {
+        "word": " mich?",
+        "start": 0.64,
+        "end": 0.8
+      }
+    ]
+  },
+  {
+    "n": 209,
+    "expected": "Wir besuchen unsere Freunde.",
+    "recognized": "Wir besuchen unsere Freunde.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.16
+      },
+      {
+        "word": " besuchen",
+        "start": 0.16,
+        "end": 0.58
+      },
+      {
+        "word": " unsere",
+        "start": 0.58,
+        "end": 0.88
+      },
+      {
+        "word": " Freunde.",
+        "start": 0.88,
+        "end": 1.24
+      }
+    ]
+  },
+  {
+    "n": 210,
+    "expected": "Sie erklärt das Wort.",
+    "recognized": "Sie erklärt das Wort.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " erklärt",
+        "start": 0.24,
+        "end": 0.76
+      },
+      {
+        "word": " das",
+        "start": 0.76,
+        "end": 0.9
+      },
+      {
+        "word": " Wort.",
+        "start": 0.9,
+        "end": 1.16
+      }
+    ]
+  },
+  {
+    "n": 211,
+    "expected": "Ich bezahle die Rechnung.",
+    "recognized": "Ich bezahle die Rechnung.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " bezahle",
+        "start": 0.2,
+        "end": 0.72
+      },
+      {
+        "word": " die",
+        "start": 0.72,
+        "end": 0.84
+      },
+      {
+        "word": " Rechnung.",
+        "start": 0.84,
+        "end": 1.3
+      }
+    ]
+  },
+  {
+    "n": 212,
+    "expected": "Du telefonierst heute.",
+    "recognized": "Du telefonierst heute.",
+    "words": [
+      {
+        "word": " Du",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " telefonierst",
+        "start": 0.18,
+        "end": 0.96
+      },
+      {
+        "word": " heute.",
+        "start": 0.96,
+        "end": 1.14
+      }
+    ]
+  },
+  {
+    "n": 213,
+    "expected": "Er studiert in Berlin.",
+    "recognized": "Er studiert in Berlin.",
+    "words": [
+      {
+        "word": " Er",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " studiert",
+        "start": 0.2,
+        "end": 0.7
+      },
+      {
+        "word": " in",
+        "start": 0.7,
+        "end": 0.84
+      },
+      {
+        "word": " Berlin.",
+        "start": 0.84,
+        "end": 1.08
+      }
+    ]
+  },
+  {
+    "n": 214,
+    "expected": "Wir können das erklären.",
+    "recognized": "Wir können das erklären.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " können",
+        "start": 0.2,
+        "end": 0.48
+      },
+      {
+        "word": " das",
+        "start": 0.48,
+        "end": 0.74
+      },
+      {
+        "word": " erklären.",
+        "start": 0.74,
+        "end": 1.14
+      }
+    ]
+  },
+  {
+    "n": 215,
+    "expected": "Ich freue mich.",
+    "recognized": "Ich freue mich.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " freue",
+        "start": 0.22,
+        "end": 0.46
+      },
+      {
+        "word": " mich.",
+        "start": 0.46,
+        "end": 0.74
+      }
+    ]
+  },
+  {
+    "n": 216,
+    "expected": "Du wäschst dich.",
+    "recognized": "Du wäscht dich.",
+    "words": [
+      {
+        "word": " Du",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "word": " wäscht",
+        "start": 0.22,
+        "end": 0.66
+      },
+      {
+        "word": " dich.",
+        "start": 0.66,
+        "end": 0.84
+      }
+    ]
+  },
+  {
+    "n": 217,
+    "expected": "Er freut sich.",
+    "recognized": "Er freut sich.",
+    "words": [
+      {
+        "word": " Er",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " freut",
+        "start": 0.2,
+        "end": 0.68
+      },
+      {
+        "word": " sich.",
+        "start": 0.68,
+        "end": 0.86
+      }
+    ]
+  },
+  {
+    "n": 218,
+    "expected": "Wir treffen uns heute.",
+    "recognized": "Wir treffen uns heute.",
+    "words": [
+      {
+        "word": " Wir",
+        "start": 0.0,
+        "end": 0.2
+      },
+      {
+        "word": " treffen",
+        "start": 0.2,
+        "end": 0.5
+      },
+      {
+        "word": " uns",
+        "start": 0.5,
+        "end": 0.76
+      },
+      {
+        "word": " heute.",
+        "start": 0.76,
+        "end": 1.06
+      }
+    ]
+  },
+  {
+    "n": 219,
+    "expected": "Ihr freut euch.",
+    "recognized": "Ihr freut euch!",
+    "words": [
+      {
+        "word": " Ihr",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " freut",
+        "start": 0.18,
+        "end": 0.62
+      },
+      {
+        "word": " euch!",
+        "start": 0.62,
+        "end": 0.8
+      }
+    ]
+  },
+  {
+    "n": 220,
+    "expected": "Sie waschen sich.",
+    "recognized": "Sie waschen sich.",
+    "words": [
+      {
+        "word": " Sie",
+        "start": 0.0,
+        "end": 0.26
+      },
+      {
+        "word": " waschen",
+        "start": 0.26,
+        "end": 0.64
+      },
+      {
+        "word": " sich.",
+        "start": 0.64,
+        "end": 0.84
+      }
+    ]
+  },
+  {
+    "n": 221,
+    "expected": "Ich wasche mir die Hände.",
+    "recognized": "Ich wasche mir die Hände.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.24
+      },
+      {
+        "word": " wasche",
+        "start": 0.24,
+        "end": 0.58
+      },
+      {
+        "word": " mir",
+        "start": 0.58,
+        "end": 0.72
+      },
+      {
+        "word": " die",
+        "start": 0.72,
+        "end": 0.88
+      },
+      {
+        "word": " Hände.",
+        "start": 0.88,
+        "end": 1.2
+      }
+    ]
+  },
+  {
+    "n": 222,
+    "expected": "Ich treffe mich mit meinem Freund.",
+    "recognized": "Ich treffe mich mit meinem Freund.",
+    "words": [
+      {
+        "word": " Ich",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "word": " treffe",
+        "start": 0.18,
+        "end": 0.5
+      },
+      {
+        "word": " mich",
+        "start": 0.5,
+        "end": 0.68
+      },
+      {
+        "word": " mit",
+        "start": 0.68,
+        "end": 0.94
+      },
+      {
+        "word": " meinem",
+        "start": 0.94,
+        "end": 1.18
+      },
+      {
+        "word": " Freund.",
+        "start": 1.18,
+        "end": 1.52
+      }
+    ]
+  },
+  {
+    "n": 223,
+    "expected": "Morgens stehe ich früh auf.",
+    "recognized": "Morgens stehe ich früh auf.",
+    "words": [
+      {
+        "word": " Morgens",
+        "start": 0.0,
+        "end": 0.58
+      },
+      {
+        "word": " stehe",
+        "start": 0.58,
+        "end": 0.96
+      },
+      {
+        "word": " ich",
+        "start": 0.96,
+        "end": 1.12
+      },
+      {
+        "word": " früh",
+        "start": 1.12,
+        "end": 1.38
+      },
+      {
+        "word": " auf.",
+        "start": 1.38,
+        "end": 1.72
+      }
+    ]
+  }
+]

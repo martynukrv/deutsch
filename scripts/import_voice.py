@@ -52,7 +52,11 @@ def collect(root=ROOT):
                     raise ValueError('Invalid voice filename')
                 if entry['verification']['status'] not in ('exact-full', 'exact-isolated', 'exact-medium', 'homophone'):
                     raise ValueError('Unverified recording')
-                if not (.15 < entry['duration'] < 5):
+                kind = entry.get('kind', '')
+                maximum = {'course-text': 60, 'course-phrase': 12}.get(kind, 5)
+                if kind.startswith('course-') and (kind not in ('course-text', 'course-phrase') or kind != expected.get('kind') or not batch.startswith('henri-course-')):
+                    raise ValueError('Invalid course recording type')
+                if not (.15 < entry['duration'] < maximum):
                     raise ValueError('Invalid clip duration')
                 if not (previous_end - .01 <= entry['source_start'] < entry['speech_end'] < entry['source_end'] <= manifest['source_duration']):
                     raise ValueError('Overlapping or invalid source boundaries')

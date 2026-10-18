@@ -1,0 +1,13 @@
+# Course recording, part 1 of 3 — 18 October 2026
+
+User source: ElevenLabs_2026-10-18T10_39_13__s50_v4.mp3. The uploaded MP3 is preserved byte for byte in original.mp3 (SHA-256 acefc6b7195caa4adab8280de8e624192d60f7095d7faa79746776afe852e459), duration 453.955875 seconds.
+
+This batch corresponds to positions 1–223 of the frozen 669-entry version-1 script audio/recording/course-80-missing.json. The three plain-text parts contain 223 entries each and concatenate exactly to the original script. Do not renumber the canonical script after importing this batch: part 2 remains positions 224–446, part 3 positions 447–669.
+
+Segmentation uses full-source Whisper small German word timestamps aligned to the supplied text and FFmpeg silence detection at -38 dB. The 252 pauses at the 250 ms threshold include internal paragraph pauses; they are not 252 separate entries. Finer 100 ms detection resolves short pauses between neighboring entries. Exactly 222 distinct inter-entry pauses define 223 clips; the 12 multi-sentence reading texts remain whole. Crops preserve up to 80 ms before and 120 ms after speech and do not overlap neighboring speech. Clips are mono 44.1 kHz, 128 kbit/s MP3.
+
+Every cropped clip is independently transcribed with Whisper small in German, without an expected-text prompt. Clip 216 (Du wäschst dich.) is additionally confirmed by Whisper medium after small omitted the ending s in both recognition passes; medium recognizes the complete supplied phrase. The full-source and isolated transcripts are preserved. The import manifest retains both recognition results for every clip, exact source boundaries, duration and MP3 SHA-256. Punctuation, capitalization, spoken numeric notation and the phonetic transliteration of Ukrainian names are normalized when comparing transcripts. A full-source match can disambiguate isolated homophones such as ist/isst or recognition of Mia as mir. These are automated recognition and technical checks, not a claim of human listening to every recording.
+
+Run scripts/import_voice.py to validate count, queue order, source hash, boundaries and clip hashes before generating exact bindings. Existing 453 recorded bindings remain unchanged. New course-text entries have an explicit 60-second maximum and course-phrase entries a 12-second maximum, with matching queue types required; the original short recording batches retain their strict 5-second maximum. Browser verification probes every imported recording, including the long texts.
+
+The canonical 669-line script is historical and stays frozen. scripts/audit_course_audio.cjs refreshes the runtime pending-audio report after import while preserving the canonical texts and IDs.

@@ -1,0 +1,4028 @@
+{
+  "batch": "henri-course-part1-20261018",
+  "source_duration": 453.955875,
+  "source_sha256": "acefc6b7195caa4adab8280de8e624192d60f7095d7faa79746776afe852e459",
+  "source_file": "audio-sources/henri-course-part1-20261018/original.mp3",
+  "queue_file": "audio-sources/henri-course-part1-20261018/queue.json",
+  "count": 223,
+  "verified": true,
+  "entries": [
+    {
+      "id": "course80-audio-0001",
+      "text": "Ich bin Mia. Ich bin hier. Ich lerne Deutsch. Ich habe Zeit.",
+      "kind": "course-text",
+      "file": "rq001_course.mp3",
+      "source_start": 0,
+      "source_end": 4.70324,
+      "speech_start": 0,
+      "speech_end": 4.58324,
+      "sha256": "a27ab95d7ced77d84275764bd308481330a320c8b5eb35a00b582505ee6f33a3",
+      "duration": 4.754286,
+      "verification": {
+        "status": "exact-full",
+        "full_asr": "Ich bin Mia. Ich bin hier. Ich lerne Deutsch. Ich habe Zeit.",
+        "isolated_asr": "Ich bin mir. Ich bin hier. Ich lerne Deutsch. Ich habe Zeit.",
+        "medium_asr": "Ich bin Mia. Ich bin hier. Ich lerne Deutsch. Ich habe Zeit.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0002",
+      "text": "Ich heiße Mia. Ich wohne in Berlin. Heute habe ich Zeit. Morgen arbeite ich nicht.",
+      "kind": "course-text",
+      "file": "rq002_course.mp3",
+      "source_start": 5.66236,
+      "source_end": 12.01132,
+      "speech_start": 5.74236,
+      "speech_end": 11.89132,
+      "sha256": "fba7e20e4e9a27a7cdc06f1e2a0fe01bf8146c4b4758b432e4cd9fa160ddef5f",
+      "duration": 6.4,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich heiße Mia. Ich wohne in Berlin. Heute habe ich Zeit. Morgen arbeite ich nicht.",
+        "isolated_asr": "Ich heiße Mia. Ich wohne in Berlin. Heute habe ich Zeit. Morgen arbeite ich nicht.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0003",
+      "text": "Das ist meine Familie. Mein Vater ist Lehrer. Meine Mutter ist hier. Unsere Katze ist weiß.",
+      "kind": "course-text",
+      "file": "rq003_course.mp3",
+      "source_start": 12.8571,
+      "source_end": 19.770109,
+      "speech_start": 12.9371,
+      "speech_end": 19.650109,
+      "sha256": "1308cf7b78a7351dbd32b95e2dc9ae2decdd0415242260fa6c35a5a074654461",
+      "duration": 6.948571,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das ist meine Familie. Mein Vater ist Lehrer. Meine Mutter ist hier. Unsere Katze ist weiß.",
+        "isolated_asr": "Das ist meine Familie, mein Vater ist Lehrer, meine Mutter ist hier, unsere Katze ist weiß.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0004",
+      "text": "Ich nehme einen Tee. Ich trinke gern Tee. Meine Freundin nimmt Wasser.",
+      "kind": "course-text",
+      "file": "rq004_course.mp3",
+      "source_start": 20.448,
+      "source_end": 25.33731,
+      "speech_start": 20.528,
+      "speech_end": 25.21731,
+      "sha256": "85e4f4687c6bd08d85b1bb104467b6a35fbc41d29584ca81036af7c87d1e66dc",
+      "duration": 4.937143,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich nehme einen Tee. Ich trinke gern Tee. Meine Freundin nimmt Wasser.",
+        "isolated_asr": "Ich nehme einen Tee, ich trinke gern Tee. Meine Freundin nimmt Wasser.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0005",
+      "text": "Ich möchte Deutsch lernen. Heute muss ich arbeiten. Morgen kann ich lernen. Du kannst lernen.",
+      "kind": "course-text",
+      "file": "rq005_course.mp3",
+      "source_start": 26.142,
+      "source_end": 32.473455,
+      "speech_start": 26.222,
+      "speech_end": 32.353455,
+      "sha256": "33bdfc41f0c12fea89fd7398cc446da410f600aec698f0c28f9ea94860c82c62",
+      "duration": 6.373878,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich möchte Deutsch lernen. Heute muss ich arbeiten. Morgen kann ich lernen. Du kannst lernen.",
+        "isolated_asr": "Ich möchte Deutsch lernen. Heute muss ich arbeiten. Morgen kann ich lernen. Du kannst lernen.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0006",
+      "text": "Ich habe ein Geschenk für meinen Vater. Das ist ein Buch. Mein Vater liest gern. Ich gebe ihm das Buch.",
+      "kind": "course-text",
+      "file": "rq006_course.mp3",
+      "source_start": 33.1957,
+      "source_end": 39.84204,
+      "speech_start": 33.2757,
+      "speech_end": 39.72204,
+      "sha256": "876a3c5cacfb09469864d38733c76f79c7f2c1d6dd562c074d858919bc9f9354",
+      "duration": 6.687347,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich habe ein Geschenk für meinen Vater. Das ist ein Buch. Mein Vater liest gern. Ich gebe ihm das Buch.",
+        "isolated_asr": "Ich habe ein Geschenk für meinen Vater. Das ist ein Buch. Mein Vater liest gern. Ich gebe ihm das Buch.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0007",
+      "text": "Ich komme am Montag. Ich komme um acht Uhr. Der Bahnhof ist rechts. Das Café ist neben dem Bahnhof.",
+      "kind": "course-text",
+      "file": "rq007_course.mp3",
+      "source_start": 40.6378,
+      "source_end": 48.023427,
+      "speech_start": 40.7178,
+      "speech_end": 47.903427,
+      "sha256": "f7ee60667875d4e3c142a9386dbb6258f02e8e7f1d126b157255f0699081cdb0",
+      "duration": 7.418776,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich komme am Montag. Ich komme um 8 Uhr. Der Bahnhof ist rechts. Das Café ist neben dem Bahnhof.",
+        "isolated_asr": "Ich komme am Montag. Ich komme um 8 Uhr. Der Bahnhof ist rechts. Das Café ist neben dem Bahnhof.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0008",
+      "text": "Morgens stehe ich um sieben Uhr auf. Dann lerne ich Deutsch. Danach kaufe ich ein. Abends rufe ich meine Freundin an.",
+      "kind": "course-text",
+      "file": "rq008_course.mp3",
+      "source_start": 48.7471,
+      "source_end": 56.7491,
+      "speech_start": 48.8271,
+      "speech_end": 56.6291,
+      "sha256": "93d0f5480e90a43175a7c9d64c81206f3f5ebe6a78e6b3a2688df1c529ddda83",
+      "duration": 8.045714,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Morgens stehe ich um 7 Uhr auf. Dann lerne ich Deutsch. Danach kaufe ich ein. Abends rufe ich meine Freundin an.",
+        "isolated_asr": "Morgens stehe ich um 7 Uhr auf, dann lerne ich Deutsch, danach kaufe ich ein, abends rufe ich meine Freundin an.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0009",
+      "text": "Gestern bin ich früh aufgestanden. Ich habe Deutsch gelernt. Danach habe ich meine Freundin besucht. Wir sind im Park geblieben.",
+      "kind": "course-text",
+      "file": "rq009_course.mp3",
+      "source_start": 57.5733,
+      "source_end": 65.27766,
+      "speech_start": 57.6533,
+      "speech_end": 65.15766,
+      "sha256": "3d91e96bbab193b4fa25b6f5aea13e52d32b2b86329bfc4e5434dab60fb5ac9d",
+      "duration": 7.732245,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Gestern bin ich früh aufgestanden. Ich habe Deutsch gelernt. Danach habe ich meine Freundin besucht. Wir sind im Park geblieben.",
+        "isolated_asr": "Gestern bin ich früh aufgestanden. Ich habe Deutsch gelernt. Danach habe ich meine Freundin besucht. Wir sind im Park geblieben.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0010",
+      "text": "Ich lerne Deutsch, weil ich in Berlin wohne. Heute bin ich müde. Deshalb bleibe ich zu Hause. Wenn ich Zeit habe, rufe ich meine Freundin an.",
+      "kind": "course-text",
+      "file": "rq010_course.mp3",
+      "source_start": 66.1426,
+      "source_end": 74.82706,
+      "speech_start": 66.2226,
+      "speech_end": 74.70706,
+      "sha256": "5b3c74973de51ad4d7ab2625425e27522c93156ee5d3d7811038355ada50ae69",
+      "duration": 8.724898,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich lerne Deutsch, weil ich in Berlin wohne. Heute bin ich müde. Deshalb bleibe ich zu Hause. Wenn ich Zeit habe, rufe ich meine Freundin an.",
+        "isolated_asr": "Ich lerne Deutsch, weil ich in Berlin wohne. Heute bin ich müde, deshalb bleibe ich zu Hause. Wenn ich Zeit habe, rufe ich meine Freundin an.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0011",
+      "text": "Ich habe ein kleines Auto. Das Auto ist blau. Meine Freundin hat ein größeres Auto. Am liebsten fahre ich mit dem Zug.",
+      "kind": "course-text",
+      "file": "rq011_course.mp3",
+      "source_start": 75.6742,
+      "source_end": 83.753584,
+      "speech_start": 75.7542,
+      "speech_end": 83.633584,
+      "sha256": "6e773af05d140f4782bcad51f7fc9d60a0e8bc23edcf824481ecf688595b5286",
+      "duration": 8.124082,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich habe ein kleines Auto. Das Auto ist blau. Meine Freundin hat ein größeres Auto. Am liebsten fahre ich mit dem Zug.",
+        "isolated_asr": "Ich habe ein kleines Auto. Das Auto ist blau. Meine Freundin hat ein größeres Auto. Am liebsten fahre ich mit dem Zug.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0012",
+      "text": "Übung macht den Meister.",
+      "kind": "course-phrase",
+      "file": "rq012_course.mp3",
+      "source_start": 84.5105,
+      "source_end": 86.106129,
+      "speech_start": 84.5905,
+      "speech_end": 85.986129,
+      "sha256": "b8f68ea96d4509e38d5af33242ca897eacd4272d011f2568fdc40b30e3cee990",
+      "duration": 1.645714,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Übung macht den Meister.",
+        "isolated_asr": "Übung macht den Meister.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0013",
+      "text": "Ende gut, alles gut.",
+      "kind": "course-phrase",
+      "file": "rq013_course.mp3",
+      "source_start": 86.7347,
+      "source_end": 88.531372,
+      "speech_start": 86.8147,
+      "speech_end": 88.411372,
+      "sha256": "12aeca58795e8b17bb5238548141a39530ba86a31dd3240ba0d97ceb338c66a6",
+      "duration": 1.828571,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ende gut, alles gut.",
+        "isolated_asr": "Ende gut, alles gut.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0014",
+      "text": "Ich heiße Mia und wohne in Berlin. Gestern habe ich meine Freundin besucht. Wir haben zusammen gekocht. Morgen werde ich Deutsch lernen, weil ich hier arbeiten möchte.",
+      "kind": "course-text",
+      "file": "rq014_course.mp3",
+      "source_start": 89.295,
+      "source_end": 99.137376,
+      "speech_start": 89.375,
+      "speech_end": 99.017376,
+      "sha256": "5590f5ab49feb52746fcb5038f249067e116d6130205e4151bf377d93d0c0d7f",
+      "duration": 9.874286,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich heiße Mia und wohne in Berlin. Gestern habe ich meine Freundin besucht. Wir haben zusammen gekocht. Morgen werde ich Deutsch lernen, weil ich hier arbeiten möchte.",
+        "isolated_asr": "Ich heiße Mia und wohne in Berlin. Gestern habe ich meine Freundin besucht. Wir haben zusammen gekocht. Morgen werde ich Deutsch lernen, weil ich hier arbeiten möchte.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0015",
+      "text": "Sie ist bereit.",
+      "kind": "course-phrase",
+      "file": "rq015_course.mp3",
+      "source_start": 99.933,
+      "source_end": 101.163848,
+      "speech_start": 100.013,
+      "speech_end": 101.043848,
+      "sha256": "dbe97da92d3bc72d29ec38314e302df36b21c4ed6867da9eff4f7f828dce530f",
+      "duration": 1.28,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Sie ist bereit.",
+        "isolated_asr": "Sie ist bereit.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0016",
+      "text": "Wir sind bereit.",
+      "kind": "course-phrase",
+      "file": "rq016_course.mp3",
+      "source_start": 101.827,
+      "source_end": 103.034361,
+      "speech_start": 101.907,
+      "speech_end": 102.914361,
+      "sha256": "f7c9662716362f61d7e9a076991e8c3ae401b221ac018a814b9e83d9f5d51ed7",
+      "duration": 1.253878,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir sind bereit.",
+        "isolated_asr": "Wir sind bereit.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0017",
+      "text": "Sie sind bereit.",
+      "kind": "course-phrase",
+      "file": "rq017_course.mp3",
+      "source_start": 103.703,
+      "source_end": 104.96394,
+      "speech_start": 103.783,
+      "speech_end": 104.84394,
+      "sha256": "544b05f9d6784de18472130483655bc3529179a7f916ac405d2f72a61f386e4d",
+      "duration": 1.306122,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Sie sind bereit.",
+        "isolated_asr": "Sie sind bereit.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0018",
+      "text": "Du hast Hunger.",
+      "kind": "course-phrase",
+      "file": "rq018_course.mp3",
+      "source_start": 105.837,
+      "source_end": 106.87249,
+      "speech_start": 105.917,
+      "speech_end": 106.75249,
+      "sha256": "5b652bca1585fb22c15b82decd1dae7f38bef2fce542bf63c6ebaac6c4d7492b",
+      "duration": 1.07102,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Du hast Hunger.",
+        "isolated_asr": "Du hast Hunger.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0019",
+      "text": "Er hat Durst.",
+      "kind": "course-phrase",
+      "file": "rq019_course.mp3",
+      "source_start": 107.548,
+      "source_end": 108.687882,
+      "speech_start": 107.628,
+      "speech_end": 108.567882,
+      "sha256": "bf927c19854bb64ca59379a5d906571e5f1c36031477d47a0f232b246c1f481e",
+      "duration": 1.17551,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Er hat Durst.",
+        "isolated_asr": "Er hat Durst.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0020",
+      "text": "Wir haben Hunger.",
+      "kind": "course-phrase",
+      "file": "rq020_course.mp3",
+      "source_start": 109.386,
+      "source_end": 110.569122,
+      "speech_start": 109.466,
+      "speech_end": 110.449122,
+      "sha256": "1d215d12fca01652f19802e95c93947d1ef0619345f56dc1f71519b103c80744",
+      "duration": 1.227755,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir haben Hunger.",
+        "isolated_asr": "Wir haben Hunger.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0021",
+      "text": "Ihr habt Durst.",
+      "kind": "course-phrase",
+      "file": "rq021_course.mp3",
+      "source_start": 111.193,
+      "source_end": 112.471027,
+      "speech_start": 111.273,
+      "speech_end": 112.351027,
+      "sha256": "d74374c14b59d3e911e24c0f45c9e6bd536b9512c20fd35458f754c38a82e833",
+      "duration": 1.306122,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ihr habt Durst.",
+        "isolated_asr": "Ihr habt Durst.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0022",
+      "text": "Sie haben Hunger.",
+      "kind": "course-phrase",
+      "file": "rq022_course.mp3",
+      "source_start": 113.093,
+      "source_end": 114.28267,
+      "speech_start": 113.173,
+      "speech_end": 114.16267,
+      "sha256": "814b1e793b2cd836e7d0ec0beeb03ad14d37018649fd90505c4da5cc2b2955aa",
+      "duration": 1.227755,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Sie haben Hunger.",
+        "isolated_asr": "Sie haben Hunger.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0023",
+      "text": "Ich lerne heute Deutsch.",
+      "kind": "course-phrase",
+      "file": "rq023_course.mp3",
+      "source_start": 115.136,
+      "source_end": 116.658288,
+      "speech_start": 115.216,
+      "speech_end": 116.538288,
+      "sha256": "e0e830294598c98c9895b3f6bc7d58723cd837c457e5d5f09bc82f1b87309258",
+      "duration": 1.567347,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich lerne heute Deutsch.",
+        "isolated_asr": "Ich lerne heute Deutsch.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0024",
+      "text": "Ich bin nicht bereit.",
+      "kind": "course-phrase",
+      "file": "rq024_course.mp3",
+      "source_start": 117.345,
+      "source_end": 118.680995,
+      "speech_start": 117.425,
+      "speech_end": 118.560995,
+      "sha256": "3b5b081d64e16ae353bb21c58dc24a54261b0b8a9bdcd0447ec8bb403fc587bf",
+      "duration": 1.38449,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich bin nicht bereit.",
+        "isolated_asr": "Ich bin nicht bereit.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0025",
+      "text": "Seid ihr bereit?",
+      "kind": "course-phrase",
+      "file": "rq025_course.mp3",
+      "source_start": 119.389,
+      "source_end": 120.50435,
+      "speech_start": 119.469,
+      "speech_end": 120.38435,
+      "sha256": "28b2f1540f635a97b6d5d8419aede98077517b8ee832cd2572addfd9016a8bc5",
+      "duration": 1.149388,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Seid ihr bereit?",
+        "isolated_asr": "Seid ihr bereit?",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0026",
+      "text": "Haben Sie Durst?",
+      "kind": "course-phrase",
+      "file": "rq026_course.mp3",
+      "source_start": 121.357,
+      "source_end": 122.53135,
+      "speech_start": 121.437,
+      "speech_end": 122.41135,
+      "sha256": "7a54604fc68a24b4b88bd9a3de83857bac951a0c8e9904600673a14b48accb18",
+      "duration": 1.201633,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Haben sie Durst?",
+        "isolated_asr": "Haben Sie Durst?",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0027",
+      "text": "Ich heiße Roman.",
+      "kind": "course-phrase",
+      "file": "rq027_course.mp3",
+      "source_start": 123.375,
+      "source_end": 124.611401,
+      "speech_start": 123.455,
+      "speech_end": 124.491401,
+      "sha256": "5499c71962183264ff0912c207b1ab510d5636e7e459a027974ef030590649ce",
+      "duration": 1.28,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich heiße Roman.",
+        "isolated_asr": "Ich heiße Roman.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0028",
+      "text": "Ich heiße Oleksii.",
+      "kind": "course-phrase",
+      "file": "rq028_course.mp3",
+      "source_start": 125.118,
+      "source_end": 126.43458,
+      "speech_start": 125.198,
+      "speech_end": 126.31458,
+      "sha256": "fa426520f097ab72c5ac926e375b4bf3e57f66cb33c70736f1dd722314df1203",
+      "duration": 1.358367,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich heiße Olexi.",
+        "isolated_asr": "Ich heiße Olexi.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0029",
+      "text": "Ich wohne in Kyjiw.",
+      "kind": "course-phrase",
+      "file": "rq029_course.mp3",
+      "source_start": 126.87,
+      "source_end": 128.31698,
+      "speech_start": 126.95,
+      "speech_end": 128.19698,
+      "sha256": "4f38c0d4e5e387fffb50b0e6a7f50d4163de58e3a66786ab3d604f0871a00645",
+      "duration": 1.48898,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich wohne in Kiev.",
+        "isolated_asr": "Ich wohne in Kiew.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0030",
+      "text": "Ich komme aus der Ukraine.",
+      "kind": "course-phrase",
+      "file": "rq030_course.mp3",
+      "source_start": 128.738,
+      "source_end": 130.375946,
+      "speech_start": 128.818,
+      "speech_end": 130.255946,
+      "sha256": "f65feb7503876351d8b330276c8065426a2403a70eda1f43d2d47056ee936c70",
+      "duration": 1.671837,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich komme aus der Ukraine.",
+        "isolated_asr": "Ich komme aus der Ukraine.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0031",
+      "text": "Ich bin zehn Jahre alt.",
+      "kind": "course-phrase",
+      "file": "rq031_course.mp3",
+      "source_start": 130.962,
+      "source_end": 132.592086,
+      "speech_start": 131.042,
+      "speech_end": 132.472086,
+      "sha256": "02f67c8245212b516922794e7ee9216d3d2b97010898faee40e7552c42342f2f",
+      "duration": 1.671837,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich bin 10 Jahre alt.",
+        "isolated_asr": "Ich bin zehn Jahre alt.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0032",
+      "text": "Ich bin Schüler.",
+      "kind": "course-phrase",
+      "file": "rq032_course.mp3",
+      "source_start": 133.13,
+      "source_end": 134.139671,
+      "speech_start": 133.21,
+      "speech_end": 134.019671,
+      "sha256": "a99891f387ea64e13bb99410c72a3303342bc7551624f93caf3aabd7f0d26d1e",
+      "duration": 1.044898,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich bin Schüler.",
+        "isolated_asr": "Ich bin Schüler.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0033",
+      "text": "Ich bin Schülerin.",
+      "kind": "course-phrase",
+      "file": "rq033_course.mp3",
+      "source_start": 134.595,
+      "source_end": 135.759252,
+      "speech_start": 134.675,
+      "speech_end": 135.639252,
+      "sha256": "a435905d81e4b93e3919cf8358d03f8b9b9111755a5c2b36529f40f3702ffda9",
+      "duration": 1.201633,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich bin Schülerin.",
+        "isolated_asr": "Ich bin Schülerin.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0034",
+      "text": "Hier ist der Stuhl.",
+      "kind": "course-phrase",
+      "file": "rq034_course.mp3",
+      "source_start": 136.46,
+      "source_end": 137.783449,
+      "speech_start": 136.54,
+      "speech_end": 137.663449,
+      "sha256": "1e9e88f345494f9d854ac9168505e3729325b333ddde239f06aa9f59a2db679c",
+      "duration": 1.358367,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Hier ist der Stuhl.",
+        "isolated_asr": "Hier ist der Stuhl.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0035",
+      "text": "Dort ist die Schule.",
+      "kind": "course-phrase",
+      "file": "rq035_course.mp3",
+      "source_start": 138.211,
+      "source_end": 139.521283,
+      "speech_start": 138.291,
+      "speech_end": 139.401283,
+      "sha256": "58e63fd2677a773076eab6a68ce6814822fd653ed7bcb0b52f7007abe275daf5",
+      "duration": 1.358367,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Dort ist die Schule.",
+        "isolated_asr": "Dort ist die Schule.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0036",
+      "text": "Hier ist das Kind.",
+      "kind": "course-phrase",
+      "file": "rq036_course.mp3",
+      "source_start": 140.026,
+      "source_end": 141.35442,
+      "speech_start": 140.106,
+      "speech_end": 141.23442,
+      "sha256": "52fc3ac3d7d04244d25ff2bd31e7cd118730f1dd780a71804d163f39e094ef5a",
+      "duration": 1.358367,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Hier ist das Kind.",
+        "isolated_asr": "Hier ist das Kind.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0037",
+      "text": "Das ist keine Schule.",
+      "kind": "course-phrase",
+      "file": "rq037_course.mp3",
+      "source_start": 141.929,
+      "source_end": 143.333868,
+      "speech_start": 142.009,
+      "speech_end": 143.213868,
+      "sha256": "f762bc5634a8040e7a7da4ef75cd5c418de75fbd563f5d210e4c478d51a20e75",
+      "duration": 1.436735,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das ist keine Schule.",
+        "isolated_asr": "Das ist keine Schule.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0038",
+      "text": "Das ist kein Kind.",
+      "kind": "course-phrase",
+      "file": "rq038_course.mp3",
+      "source_start": 143.776,
+      "source_end": 145.151934,
+      "speech_start": 143.856,
+      "speech_end": 145.031934,
+      "sha256": "2c03aab346d3a504ec02dfa6e25290f652826b528220c1c556f7466009799675",
+      "duration": 1.410612,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das ist kein Kind.",
+        "isolated_asr": "Das ist kein Kind.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0039",
+      "text": "Das ist keine Tür.",
+      "kind": "course-phrase",
+      "file": "rq039_course.mp3",
+      "source_start": 145.733,
+      "source_end": 147.166311,
+      "speech_start": 145.813,
+      "speech_end": 147.046311,
+      "sha256": "9c92ca450278e4989dd78e9f031268465de5a381780e39a2d6502f6dbbb3e475",
+      "duration": 1.462857,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das ist keine Tür.",
+        "isolated_asr": "Das ist keine Tür.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0040",
+      "text": "Das ist nicht gut.",
+      "kind": "course-phrase",
+      "file": "rq040_course.mp3",
+      "source_start": 147.633,
+      "source_end": 148.908796,
+      "speech_start": 147.713,
+      "speech_end": 148.788796,
+      "sha256": "6d304392a32ef936922c0e109c20aff154816dad62baea8eb050d2459cb4245d",
+      "duration": 1.306122,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das ist nicht gut.",
+        "isolated_asr": "Das ist nicht gut.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0041",
+      "text": "Das sind Bücher.",
+      "kind": "course-phrase",
+      "file": "rq041_course.mp3",
+      "source_start": 149.599,
+      "source_end": 150.742109,
+      "speech_start": 149.679,
+      "speech_end": 150.622109,
+      "sha256": "d378e75cb50fe472e6304f6e24f91a378a22825a226fc61fff656d663a0deeae",
+      "duration": 1.17551,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das sind Bücher.",
+        "isolated_asr": "Das sind Bücher.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0042",
+      "text": "Die Kinder spielen.",
+      "kind": "course-phrase",
+      "file": "rq042_course.mp3",
+      "source_start": 151.25,
+      "source_end": 152.566433,
+      "speech_start": 151.33,
+      "speech_end": 152.446433,
+      "sha256": "bd6274301220969c8331522c02826ae2e6bae14b312679e91a6ffa596242775b",
+      "duration": 1.358367,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Die Kinder spielen.",
+        "isolated_asr": "die Kinder spielen",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0043",
+      "text": "Hier sind die Tische.",
+      "kind": "course-phrase",
+      "file": "rq043_course.mp3",
+      "source_start": 153.137,
+      "source_end": 154.437143,
+      "speech_start": 153.217,
+      "speech_end": 154.317143,
+      "sha256": "6acf0eb0fefd43dc37814363a9219436f5d0229e5f1366913a001dbd700ebf7b",
+      "duration": 1.332245,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Hier sind die Tische.",
+        "isolated_asr": "Hier sind die Tische.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0044",
+      "text": "Dort sind die Stühle.",
+      "kind": "course-phrase",
+      "file": "rq044_course.mp3",
+      "source_start": 154.84,
+      "source_end": 156.166741,
+      "speech_start": 154.92,
+      "speech_end": 156.046741,
+      "sha256": "8e77ae17f8e028afc4af0d9525fdcfbc356a29d764b7086f77509e3acb7107bc",
+      "duration": 1.358367,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Dort sind die Stühle.",
+        "isolated_asr": "Dort sind die Stühle.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0045",
+      "text": "Die Türen sind hier.",
+      "kind": "course-phrase",
+      "file": "rq045_course.mp3",
+      "source_start": 156.723,
+      "source_end": 158.147512,
+      "speech_start": 156.803,
+      "speech_end": 158.027512,
+      "sha256": "ee448cb0799a932940ff9ff9a12f27562f96a76d0897fdb67aebde720e571b24",
+      "duration": 1.462857,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Die Türen sind hier.",
+        "isolated_asr": "Die Türen sind hier.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0046",
+      "text": "Die Katzen sind dort.",
+      "kind": "course-phrase",
+      "file": "rq046_course.mp3",
+      "source_start": 158.613,
+      "source_end": 160.104422,
+      "speech_start": 158.693,
+      "speech_end": 159.984422,
+      "sha256": "e593a7443cfa2d06a7269e0dcecb4971ee28401a364ebedfb99ad46a618f7a1e",
+      "duration": 1.541224,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Die Katzen sind dort.",
+        "isolated_asr": "Die Katzen sind dort.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0047",
+      "text": "Die Hunde spielen.",
+      "kind": "course-phrase",
+      "file": "rq047_course.mp3",
+      "source_start": 160.56,
+      "source_end": 161.845463,
+      "speech_start": 160.64,
+      "speech_end": 161.725463,
+      "sha256": "a07713b1fd645fedd3213f7fed97b81e0ff8853eb96e9581caa34183395e4b60",
+      "duration": 1.332245,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Die Hunde spielen.",
+        "isolated_asr": "Die Hunde spielen.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0048",
+      "text": "Die Schulen sind hier.",
+      "kind": "course-phrase",
+      "file": "rq048_course.mp3",
+      "source_start": 162.319,
+      "source_end": 163.739685,
+      "speech_start": 162.399,
+      "speech_end": 163.619685,
+      "sha256": "5f1bc606c9f8253ed610f738504ab2cc84edf365181c3fa4d7d1c5cf38f8d378",
+      "duration": 1.462857,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Die Schulen sind hier.",
+        "isolated_asr": "Die Schulen sind hier.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0049",
+      "text": "Das ist dein Hund.",
+      "kind": "course-phrase",
+      "file": "rq049_course.mp3",
+      "source_start": 164.351,
+      "source_end": 165.721569,
+      "speech_start": 164.431,
+      "speech_end": 165.601569,
+      "sha256": "1b233a80c32cbab9a8382d661e1b9c191d389b2b9c7dc64328cef19caf737190",
+      "duration": 1.410612,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das ist dein Hund.",
+        "isolated_asr": "Das ist dein Hund.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0050",
+      "text": "Das ist seine Schule.",
+      "kind": "course-phrase",
+      "file": "rq050_course.mp3",
+      "source_start": 166.172,
+      "source_end": 167.675304,
+      "speech_start": 166.252,
+      "speech_end": 167.555304,
+      "sha256": "fe74984162586b93d920f331a5f262e2901ca8dbc0b2414976abfdf656f80b1c",
+      "duration": 1.541224,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das ist seine Schule.",
+        "isolated_asr": "Das ist seine Schule.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0051",
+      "text": "Das sind ihre Bücher.",
+      "kind": "course-phrase",
+      "file": "rq051_course.mp3",
+      "source_start": 168.159,
+      "source_end": 169.675145,
+      "speech_start": 168.239,
+      "speech_end": 169.555145,
+      "sha256": "1d98f1a2fd6a1e51ea08704a3185542f54220350ecd22cdb9c0a4d6d0c7228f2",
+      "duration": 1.567347,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das sind ihre Bücher.",
+        "isolated_asr": "Das sind Ihre Bücher.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0052",
+      "text": "Das ist unser Tisch.",
+      "kind": "course-phrase",
+      "file": "rq052_course.mp3",
+      "source_start": 170.159,
+      "source_end": 171.722537,
+      "speech_start": 170.239,
+      "speech_end": 171.602537,
+      "sha256": "a2083e8338955fe54ef6003b7b1f6fb178f70810412a61dc80021b9e0f18ba46",
+      "duration": 1.593469,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das ist unser Tisch.",
+        "isolated_asr": "Das ist unser Tisch.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0053",
+      "text": "Das ist eure Katze.",
+      "kind": "course-phrase",
+      "file": "rq053_course.mp3",
+      "source_start": 172.119,
+      "source_end": 173.59366,
+      "speech_start": 172.199,
+      "speech_end": 173.47366,
+      "sha256": "cd2226a6185f94abc7e543c83a35802a96a401084c7a538f2afd4c10313822a5",
+      "duration": 1.515102,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das ist eure Katze.",
+        "isolated_asr": "Das ist eure Katze.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0054",
+      "text": "Ist das Ihr Buch?",
+      "kind": "course-phrase",
+      "file": "rq054_course.mp3",
+      "source_start": 174.304,
+      "source_end": 175.556023,
+      "speech_start": 174.384,
+      "speech_end": 175.436023,
+      "sha256": "c18f554cf07a7fd1996db2b9bb384ae347bd0b5eb275b4fd9f459c77c3a153bd",
+      "duration": 1.28,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ist das Ihrbuch?",
+        "isolated_asr": "Ist das Ihr Buch?",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0055",
+      "text": "Das ist meine Mutter.",
+      "kind": "course-phrase",
+      "file": "rq055_course.mp3",
+      "source_start": 175.966,
+      "source_end": 177.558508,
+      "speech_start": 176.046,
+      "speech_end": 177.438508,
+      "sha256": "99ff8aecf460195c045ad2eefa01c4338031d0ffa31696cf041d6fb4febdf425",
+      "duration": 1.619592,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das ist meine Mutter.",
+        "isolated_asr": "Das ist meine Mutter.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0056",
+      "text": "Das ist mein Vater.",
+      "kind": "course-phrase",
+      "file": "rq056_course.mp3",
+      "source_start": 178.122,
+      "source_end": 179.513086,
+      "speech_start": 178.202,
+      "speech_end": 179.393086,
+      "sha256": "76c7a94cda75fe66afc1202bdeddb259c61908975f98bc0ce427eb9000044600",
+      "duration": 1.436735,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das ist mein Vater.",
+        "isolated_asr": "Das ist mein Vater.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0057",
+      "text": "Mein Sohn ist zehn Jahre alt.",
+      "kind": "course-phrase",
+      "file": "rq057_course.mp3",
+      "source_start": 180.091,
+      "source_end": 182.203492,
+      "speech_start": 180.171,
+      "speech_end": 182.083492,
+      "sha256": "83a32c392098a2a2f4b3b6070302a725188778d6ffe614a70bb53a1839cc15c1",
+      "duration": 2.142041,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Mein Sohn ist zehn Jahre alt.",
+        "isolated_asr": "Mein Sohn ist zehn Jahre alt.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0058",
+      "text": "Meine Tochter ist klein.",
+      "kind": "course-phrase",
+      "file": "rq058_course.mp3",
+      "source_start": 182.67,
+      "source_end": 184.272592,
+      "speech_start": 182.75,
+      "speech_end": 184.152592,
+      "sha256": "24867cd7583db264f510cc8feaf361454ab05b11e37eeac0da530b9f540d14ad",
+      "duration": 1.645714,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Meine Tochter ist klein.",
+        "isolated_asr": "Meine Tochter ist klein.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0059",
+      "text": "Er ist Lehrer.",
+      "kind": "course-phrase",
+      "file": "rq059_course.mp3",
+      "source_start": 184.753,
+      "source_end": 185.915057,
+      "speech_start": 184.833,
+      "speech_end": 185.795057,
+      "sha256": "7910e06d0a3d638571eb3dfe71317f947a8f17394fd1f90c4834394920abe300",
+      "duration": 1.201633,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Er ist Lehrer.",
+        "isolated_asr": "Er ist Lehrer.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0060",
+      "text": "Die Katze ist weiß.",
+      "kind": "course-phrase",
+      "file": "rq060_course.mp3",
+      "source_start": 186.42,
+      "source_end": 187.929649,
+      "speech_start": 186.5,
+      "speech_end": 187.809649,
+      "sha256": "20aa7d47c14b1c368b5b061a23047b1d199cb02603eb9ffc80a6f2780e6b22bb",
+      "duration": 1.541224,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Die Die Katze ist weiß.",
+        "isolated_asr": "Die Katze ist weiß.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0061",
+      "text": "Unser Hund ist groß.",
+      "kind": "course-phrase",
+      "file": "rq061_course.mp3",
+      "source_start": 188.335,
+      "source_end": 189.967862,
+      "speech_start": 188.415,
+      "speech_end": 189.847862,
+      "sha256": "7e48037c2c3742f05bb7a8d2b18e9128eac3c5cf877180abf4ce0aa96a2333b4",
+      "duration": 1.671837,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Unser Hund ist groß.",
+        "isolated_asr": "Unser Hund ist groß.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0062",
+      "text": "Meine Kinder lernen Deutsch.",
+      "kind": "course-phrase",
+      "file": "rq062_course.mp3",
+      "source_start": 190.417,
+      "source_end": 192.173821,
+      "speech_start": 190.497,
+      "speech_end": 192.053821,
+      "sha256": "3f954b25d138ac52638fae72077800fa60527c3a2a65ed350a7ad6905bda95de",
+      "duration": 1.802449,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Meine Kinder lernen Deutsch.",
+        "isolated_asr": "Meine Kinder lernen Deutsch.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0063",
+      "text": "Ich sehe den Hund.",
+      "kind": "course-phrase",
+      "file": "rq063_course.mp3",
+      "source_start": 192.575,
+      "source_end": 193.901163,
+      "speech_start": 192.655,
+      "speech_end": 193.781163,
+      "sha256": "0e5e91a5a083dd0404244bec01911849e75ad8617a26d64bafce786d78a5612a",
+      "duration": 1.358367,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich sehe den Hund.",
+        "isolated_asr": "Ich sehe den Hund.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0064",
+      "text": "Du hast einen Freund.",
+      "kind": "course-phrase",
+      "file": "rq064_course.mp3",
+      "source_start": 194.353,
+      "source_end": 195.76383,
+      "speech_start": 194.433,
+      "speech_end": 195.64383,
+      "sha256": "9dc72d41ad7d45a47a49d97199320aa39861b31f1b20a490729f1314c8f23340",
+      "duration": 1.462857,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Du hast einen Freund.",
+        "isolated_asr": "Du hast einen Freund.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0065",
+      "text": "Er sucht die Katze.",
+      "kind": "course-phrase",
+      "file": "rq065_course.mp3",
+      "source_start": 196.179,
+      "source_end": 197.511676,
+      "speech_start": 196.259,
+      "speech_end": 197.391676,
+      "sha256": "f401efe8c8e193e9cd8c6a9c01fd5373f5d4dcfee557ed9bbce20cc8a30b7fcc",
+      "duration": 1.38449,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Er sucht die Katze.",
+        "isolated_asr": "Er sucht die Katze.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0066",
+      "text": "Wir haben ein Buch.",
+      "kind": "course-phrase",
+      "file": "rq066_course.mp3",
+      "source_start": 197.919,
+      "source_end": 199.313896,
+      "speech_start": 197.999,
+      "speech_end": 199.193896,
+      "sha256": "7b762bc9dd869f22bd7c262891bb76136d5a5c79302efd187d19a0bbab2d3105",
+      "duration": 1.436735,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir haben ein Buch.",
+        "isolated_asr": "Wir haben ein Buch.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0067",
+      "text": "Sie hat keine Katze.",
+      "kind": "course-phrase",
+      "file": "rq067_course.mp3",
+      "source_start": 199.658,
+      "source_end": 201.100034,
+      "speech_start": 199.738,
+      "speech_end": 200.980034,
+      "sha256": "ab25b7db7c02e1c0511287f6e1900011c2f18fda575e1c374c254a2b1680565a",
+      "duration": 1.48898,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Sie hat keine Katze.",
+        "isolated_asr": "Sie hat keine Katze.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0068",
+      "text": "Hier gibt es einen Tisch.",
+      "kind": "course-phrase",
+      "file": "rq068_course.mp3",
+      "source_start": 201.435,
+      "source_end": 202.972776,
+      "speech_start": 201.515,
+      "speech_end": 202.852776,
+      "sha256": "4b58613362a51d72ab7e68ec76ac6c447929a38118560e9350201060f24885d9",
+      "duration": 1.567347,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Hier gibt es einen Tisch.",
+        "isolated_asr": "Hier gibt es einen Tisch.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0069",
+      "text": "Ich suche das Kind.",
+      "kind": "course-phrase",
+      "file": "rq069_course.mp3",
+      "source_start": 203.294,
+      "source_end": 204.672404,
+      "speech_start": 203.374,
+      "speech_end": 204.552404,
+      "sha256": "8e521e7b126dde2a98473b5653352a01ad90124d0f29272e34bcb03a537719cb",
+      "duration": 1.410612,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich suche das Kind.",
+        "isolated_asr": "Ich suche das Kind.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0070",
+      "text": "Du suchst mich.",
+      "kind": "course-phrase",
+      "file": "rq070_course.mp3",
+      "source_start": 204.99,
+      "source_end": 206.081914,
+      "speech_start": 205.07,
+      "speech_end": 205.961914,
+      "sha256": "3671fb330486897466f9da914bccd877f922ed2c3c107794823080dd79f78cc5",
+      "duration": 1.123265,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Du suchst mich.",
+        "isolated_asr": "Du suchst mich!",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0071",
+      "text": "Ich suche dich.",
+      "kind": "course-phrase",
+      "file": "rq071_course.mp3",
+      "source_start": 206.334,
+      "source_end": 207.444646,
+      "speech_start": 206.414,
+      "speech_end": 207.324646,
+      "sha256": "9cc8e6a4c04484009775791a06dcc0bdb2533578c364d445e085e9287b13ac21",
+      "duration": 1.149388,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich suche dich.",
+        "isolated_asr": "Ich suche Dich!",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0072",
+      "text": "Wir suchen ihn.",
+      "kind": "course-phrase",
+      "file": "rq072_course.mp3",
+      "source_start": 207.679,
+      "source_end": 208.822948,
+      "speech_start": 207.759,
+      "speech_end": 208.702948,
+      "sha256": "c2202593ce7b8c87e4c6530a85f9cf42b0df1ed1cfba8aa77cf1ab077cd507d0",
+      "duration": 1.17551,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir suchen ihn.",
+        "isolated_asr": "Wir suchen ihn.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0073",
+      "text": "Sie kennt uns.",
+      "kind": "course-phrase",
+      "file": "rq073_course.mp3",
+      "source_start": 209.11,
+      "source_end": 210.260236,
+      "speech_start": 209.19,
+      "speech_end": 210.140236,
+      "sha256": "a9d0f07a4b2d29526f31750f0b6c5ea7df7555db995ec79dd2c3f62ad0af1b28",
+      "duration": 1.201633,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Sie kennt uns.",
+        "isolated_asr": "Sie kennt uns.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0074",
+      "text": "Ich suche euch.",
+      "kind": "course-phrase",
+      "file": "rq074_course.mp3",
+      "source_start": 210.494,
+      "source_end": 211.648696,
+      "speech_start": 210.574,
+      "speech_end": 211.528696,
+      "sha256": "0c9b63ba070d5c31fbba00c6c420751a4d47e3ce210db732c5153611067a1d68",
+      "duration": 1.201633,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich suche euch.",
+        "isolated_asr": "Ich suche euch!",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0075",
+      "text": "Du isst Brot.",
+      "kind": "course-phrase",
+      "file": "rq075_course.mp3",
+      "source_start": 211.945,
+      "source_end": 213.169506,
+      "speech_start": 212.025,
+      "speech_end": 213.049506,
+      "sha256": "de34d0fd0f280b301d79fcfb1bb97a3c11f640eca015ee05309fb5bbbc6186e9",
+      "duration": 1.253878,
+      "verification": {
+        "status": "exact-full",
+        "full_asr": "Du isst Brot.",
+        "isolated_asr": "Du ist Brot.",
+        "medium_asr": "Du isst Brot.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0076",
+      "text": "Er liest ein Buch.",
+      "kind": "course-phrase",
+      "file": "rq076_course.mp3",
+      "source_start": 213.442,
+      "source_end": 214.7789,
+      "speech_start": 213.522,
+      "speech_end": 214.6589,
+      "sha256": "f74a6059d7e6be9d6f78c52ae4a98f9d53937b4755b8e2f4a792db975be1fb39",
+      "duration": 1.38449,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Er liest ein Buch.",
+        "isolated_asr": "Er liest ein Buch.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0077",
+      "text": "Sie sieht den Hund.",
+      "kind": "course-phrase",
+      "file": "rq077_course.mp3",
+      "source_start": 215.005,
+      "source_end": 216.314383,
+      "speech_start": 215.085,
+      "speech_end": 216.194383,
+      "sha256": "339b79fa46ce19a1836f20590eb5b4387320345a221c1a33ae306b4533c0413c",
+      "duration": 1.358367,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Sie sieht den Hund.",
+        "isolated_asr": "Sie sieht den Hund.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0078",
+      "text": "Du sprichst Deutsch.",
+      "kind": "course-phrase",
+      "file": "rq078_course.mp3",
+      "source_start": 216.573,
+      "source_end": 217.839118,
+      "speech_start": 216.653,
+      "speech_end": 217.719118,
+      "sha256": "d024e9a1472e7b1d44d31e25f7543055ad54dc3b4ff1f7bf8e4fa5ec9eaa9039",
+      "duration": 1.306122,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Du sprichst Deutsch.",
+        "isolated_asr": "Du sprichst Deutsch.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0079",
+      "text": "Er nimmt das Buch.",
+      "kind": "course-phrase",
+      "file": "rq079_course.mp3",
+      "source_start": 218.081,
+      "source_end": 219.380488,
+      "speech_start": 218.161,
+      "speech_end": 219.260488,
+      "sha256": "59b2b74137e00db3975efc2a44ce2f438943ed4d12b7aaf71106a38a91c1bb15",
+      "duration": 1.332245,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Er nimmt das Buch.",
+        "isolated_asr": "Er nimmt das Buch.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0080",
+      "text": "Wir essen Brot.",
+      "kind": "course-phrase",
+      "file": "rq080_course.mp3",
+      "source_start": 219.595,
+      "source_end": 220.899728,
+      "speech_start": 219.675,
+      "speech_end": 220.779728,
+      "sha256": "cfd26b18626566200c5c35b770136e5bbd250a9d09aa68c7ab27b7291e809040",
+      "duration": 1.332245,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir essen Brot.",
+        "isolated_asr": "Wir essen Brot.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0081",
+      "text": "Ihr lest Bücher.",
+      "kind": "course-phrase",
+      "file": "rq081_course.mp3",
+      "source_start": 221.12,
+      "source_end": 222.351664,
+      "speech_start": 221.2,
+      "speech_end": 222.231664,
+      "sha256": "c4816188bd412a2def55095ef4f377c779512ec3b16e3746a687e26f862fa48f",
+      "duration": 1.28,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ihr lest Bücher.",
+        "isolated_asr": "Ihr lest Bücher",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0082",
+      "text": "Sie nehmen Wasser.",
+      "kind": "course-phrase",
+      "file": "rq082_course.mp3",
+      "source_start": 222.624,
+      "source_end": 223.875624,
+      "speech_start": 222.704,
+      "speech_end": 223.755624,
+      "sha256": "8be2a3bb2eb232ae2dc20bf07312ab9e91fda8cb86f359a2f9589f45fd0bc3ce",
+      "duration": 1.28,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Sie nehmen Wasser.",
+        "isolated_asr": "Sie nehmen Wasser.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0083",
+      "text": "Ich mag Tee.",
+      "kind": "course-phrase",
+      "file": "rq083_course.mp3",
+      "source_start": 224.16,
+      "source_end": 225.262873,
+      "speech_start": 224.24,
+      "speech_end": 225.142873,
+      "sha256": "a0c511716a9b7ce4ce78f74e9d634b17b82e1638bc8a2b30aded6c351894567e",
+      "duration": 1.149388,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich mag Tee.",
+        "isolated_asr": "Ich mag Tee.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0084",
+      "text": "Du magst Musik.",
+      "kind": "course-phrase",
+      "file": "rq084_course.mp3",
+      "source_start": 225.537,
+      "source_end": 226.787374,
+      "speech_start": 225.617,
+      "speech_end": 226.667374,
+      "sha256": "b43bdc08cc7c6b96902f44a15bd1ae2c0876ca6a9bbd78599c087eca9c2ddc79",
+      "duration": 1.28,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Du magst Musik.",
+        "isolated_asr": "Du magst Musik.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0085",
+      "text": "Er mag Sport.",
+      "kind": "course-phrase",
+      "file": "rq085_course.mp3",
+      "source_start": 227.042,
+      "source_end": 228.275757,
+      "speech_start": 227.122,
+      "speech_end": 228.155757,
+      "sha256": "ede3e11f89580e434900b9e33188af0b59eb4fee0e2c03118d547a360699774e",
+      "duration": 1.28,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Er mag Sport.",
+        "isolated_asr": "Er mag Sport.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0086",
+      "text": "Wir mögen Gemüse.",
+      "kind": "course-phrase",
+      "file": "rq086_course.mp3",
+      "source_start": 228.469,
+      "source_end": 229.843918,
+      "speech_start": 228.549,
+      "speech_end": 229.723918,
+      "sha256": "a1f1eaa995fe37c83b0b156a1efa9ee2241a9e7e72f5c7e0bc828490a2f2b8a9",
+      "duration": 1.410612,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir mögen Gemüse.",
+        "isolated_asr": "Wir mögen Gemüse.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0087",
+      "text": "Ihr mögt Fisch.",
+      "kind": "course-phrase",
+      "file": "rq087_course.mp3",
+      "source_start": 230.088,
+      "source_end": 231.306964,
+      "speech_start": 230.168,
+      "speech_end": 231.186964,
+      "sha256": "97b3006e8d10d4319c34325a3cbc81ad72b2f967e60b2e9e456d9ec6101b9b9d",
+      "duration": 1.253878,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ihr mögt Fisch.",
+        "isolated_asr": "Ihr mögt Fisch.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0088",
+      "text": "Ich lese gern.",
+      "kind": "course-phrase",
+      "file": "rq088_course.mp3",
+      "source_start": 231.531,
+      "source_end": 232.687823,
+      "speech_start": 231.611,
+      "speech_end": 232.567823,
+      "sha256": "3aa6d414adb8d4c8b51c29c2b68bcc5535a82fddcfe64f9a0f6d26044cb3478f",
+      "duration": 1.201633,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich lese gern.",
+        "isolated_asr": "Ich lese gern.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0089",
+      "text": "Sie spielt gern.",
+      "kind": "course-phrase",
+      "file": "rq089_course.mp3",
+      "source_start": 232.87,
+      "source_end": 234.065798,
+      "speech_start": 232.95,
+      "speech_end": 233.945798,
+      "sha256": "0100122188b1494a49bcc54f2b67ab9320543bb63fdce2f48f3b600273169806",
+      "duration": 1.227755,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Sie spielt gern.",
+        "isolated_asr": "Sie spielt gern.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0090",
+      "text": "Wir singen gern.",
+      "kind": "course-phrase",
+      "file": "rq090_course.mp3",
+      "source_start": 234.237,
+      "source_end": 235.411172,
+      "speech_start": 234.317,
+      "speech_end": 235.291172,
+      "sha256": "e24208fa0e11494bb6edf137cc221bbfaa600182e6c208936e0b94caa1e9cfc2",
+      "duration": 1.201633,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir singen gern.",
+        "isolated_asr": "Wir singen gern!",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0091",
+      "text": "Ich nehme einen Kaffee.",
+      "kind": "course-phrase",
+      "file": "rq091_course.mp3",
+      "source_start": 235.617,
+      "source_end": 237.101846,
+      "speech_start": 235.697,
+      "speech_end": 236.981846,
+      "sha256": "36609026baded880f54a026cb8ca9e7f8bd2754ea2fb0ee1354df8a6203c4657",
+      "duration": 1.515102,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich nehme einen Kaffee.",
+        "isolated_asr": "Ich nehme einen Kaffee.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0092",
+      "text": "Ich nehme einen Tee.",
+      "kind": "course-phrase",
+      "file": "rq092_course.mp3",
+      "source_start": 237.294,
+      "source_end": 238.60985,
+      "speech_start": 237.374,
+      "speech_end": 238.48985,
+      "sha256": "cc5b44a067f38b90f4496a9e1eeb49da81feae1268d4ccc3fac757d2098505dd",
+      "duration": 1.358367,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich nehme einen Tee.",
+        "isolated_asr": "Ich nehme einen Tee.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0093",
+      "text": "Ich nehme Wasser.",
+      "kind": "course-phrase",
+      "file": "rq093_course.mp3",
+      "source_start": 238.794,
+      "source_end": 239.905231,
+      "speech_start": 238.874,
+      "speech_end": 239.785231,
+      "sha256": "82d236d038d02b3dfde0468b391c7c7f54eeab98e3a0053e3ade9e7dc48ccac6",
+      "duration": 1.149388,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich nehme Wasser.",
+        "isolated_asr": "Ich nehme Wasser.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0094",
+      "text": "Trinken Sie Kaffee?",
+      "kind": "course-phrase",
+      "file": "rq094_course.mp3",
+      "source_start": 240.147,
+      "source_end": 241.328138,
+      "speech_start": 240.227,
+      "speech_end": 241.208138,
+      "sha256": "c9d71e0c54569d129883370230836dd0c9b06afa25bdedf5e853c9f8f7d0f13d",
+      "duration": 1.227755,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Trinken Sie Kaffee?",
+        "isolated_asr": "Trinken Sie Kaffee?",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0095",
+      "text": "Ich trinke Tee.",
+      "kind": "course-phrase",
+      "file": "rq095_course.mp3",
+      "source_start": 241.519,
+      "source_end": 242.69666,
+      "speech_start": 241.599,
+      "speech_end": 242.57666,
+      "sha256": "658572cc725b5b041ab22f72f2ad392f1c7719ea515782847c1ac446234fd575",
+      "duration": 1.227755,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich trinke Tee.",
+        "isolated_asr": "Ich trinke Tee.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0096",
+      "text": "Die Rechnung, bitte.",
+      "kind": "course-phrase",
+      "file": "rq096_course.mp3",
+      "source_start": 242.897,
+      "source_end": 244.030011,
+      "speech_start": 242.977,
+      "speech_end": 243.910011,
+      "sha256": "039fc25a895137f2ce0db83a972fa29a79c08a6d29559629bc5e7ab914afdb77",
+      "duration": 1.17551,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Die Rechnung bitte.",
+        "isolated_asr": "Die Rechnung, bitte.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0097",
+      "text": "Ich kann schwimmen.",
+      "kind": "course-phrase",
+      "file": "rq097_course.mp3",
+      "source_start": 244.255,
+      "source_end": 245.3641,
+      "speech_start": 244.335,
+      "speech_end": 245.2441,
+      "sha256": "9d8317c7bcc24307692d12b114e5d275165fb7fa67d249a23e5b1416b3606233",
+      "duration": 1.149388,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich kann schwimmen.",
+        "isolated_asr": "Ich kann schwimmen.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0098",
+      "text": "Wir können Deutsch lernen.",
+      "kind": "course-phrase",
+      "file": "rq098_course.mp3",
+      "source_start": 245.588,
+      "source_end": 247.151429,
+      "speech_start": 245.668,
+      "speech_end": 247.031429,
+      "sha256": "8e75a15d8d0f5b65790a3a4dfb15f2f90dc02ef9d63f8e972e874fd14023b6b2",
+      "duration": 1.593469,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir können Deutsch lernen.",
+        "isolated_asr": "Wir können Deutsch lernen.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0099",
+      "text": "Er muss warten.",
+      "kind": "course-phrase",
+      "file": "rq099_course.mp3",
+      "source_start": 247.36,
+      "source_end": 248.47049,
+      "speech_start": 247.44,
+      "speech_end": 248.35049,
+      "sha256": "100709281819abd8507d6bc3f77f60729a9e8247ac050f7a2cd403b851b06c45",
+      "duration": 1.149388,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Er muss warten.",
+        "isolated_asr": "Er muss warten.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0100",
+      "text": "Ich soll helfen.",
+      "kind": "course-phrase",
+      "file": "rq100_course.mp3",
+      "source_start": 248.676,
+      "source_end": 249.771533,
+      "speech_start": 248.756,
+      "speech_end": 249.651533,
+      "sha256": "c57f6183e9da454b335a92ef31eedbe0aa1e51962804a3a7fae33899c459fae0",
+      "duration": 1.123265,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich soll helfen.",
+        "isolated_asr": "Ich soll helfen.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0101",
+      "text": "Du sollst hier warten.",
+      "kind": "course-phrase",
+      "file": "rq101_course.mp3",
+      "source_start": 249.996,
+      "source_end": 251.36837,
+      "speech_start": 250.076,
+      "speech_end": 251.24837,
+      "sha256": "6486c4816cc7f239fe28965f58f8af3c5bcd4f78d6de024be66863ec41a5fd35",
+      "duration": 1.410612,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Du sollst hier warten.",
+        "isolated_asr": "Du sollst hier warten.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0102",
+      "text": "Wir sollen Deutsch sprechen.",
+      "kind": "course-phrase",
+      "file": "rq102_course.mp3",
+      "source_start": 251.581,
+      "source_end": 253.160048,
+      "speech_start": 251.661,
+      "speech_end": 253.040048,
+      "sha256": "78afd2e5986662fc74850d8e4a4bda02dfe45650f29764c61ba2b8582d73d66e",
+      "duration": 1.619592,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir sollen Deutsch sprechen.",
+        "isolated_asr": "Wir sollen Deutsch sprechen.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0103",
+      "text": "Ich will Deutsch lernen.",
+      "kind": "course-phrase",
+      "file": "rq103_course.mp3",
+      "source_start": 253.361,
+      "source_end": 254.735107,
+      "speech_start": 253.441,
+      "speech_end": 254.615107,
+      "sha256": "73498c8a6a4ce93e0609116dbef18c73f54fa56006e2d2f841ac4f35ec91baff",
+      "duration": 1.410612,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich will Deutsch lernen.",
+        "isolated_asr": "Ich will Deutsch lernen.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0104",
+      "text": "Wir wollen reisen.",
+      "kind": "course-phrase",
+      "file": "rq104_course.mp3",
+      "source_start": 254.912,
+      "source_end": 256.223762,
+      "speech_start": 254.992,
+      "speech_end": 256.103762,
+      "sha256": "923e4eda70492adadc3bab3d84d9dbc93339bbd1f8dec279c441a8e25ab9213b",
+      "duration": 1.358367,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir wollen reisen.",
+        "isolated_asr": "Wir wollen reisen.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0105",
+      "text": "Er will ein Buch kaufen.",
+      "kind": "course-phrase",
+      "file": "rq105_course.mp3",
+      "source_start": 256.409,
+      "source_end": 257.958302,
+      "speech_start": 256.489,
+      "speech_end": 257.838302,
+      "sha256": "597333f80ae63682039e724aa4b13d2da2798d53bee8404302776c0f88265628",
+      "duration": 1.593469,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Er will ein Buch kaufen.",
+        "isolated_asr": "Er will ein Buch kaufen.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0106",
+      "text": "Ich möchte einen Tee.",
+      "kind": "course-phrase",
+      "file": "rq106_course.mp3",
+      "source_start": 258.161,
+      "source_end": 259.57585,
+      "speech_start": 258.241,
+      "speech_end": 259.45585,
+      "sha256": "23f6e1af1cc5b329c5fe45a4c57b88a07ec5500c14a3743411be8be8cb2b5395",
+      "duration": 1.462857,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich möchte einen Tee.",
+        "isolated_asr": "Ich möchte einen Tee.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0107",
+      "text": "Du möchtest Wasser trinken.",
+      "kind": "course-phrase",
+      "file": "rq107_course.mp3",
+      "source_start": 259.72,
+      "source_end": 261.363651,
+      "speech_start": 259.8,
+      "speech_end": 261.243651,
+      "sha256": "f63f9f1d3be34699bec016f132ec363cfa713eb498fdc7731f2dfe1f8d171083",
+      "duration": 1.671837,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Du möchtest Wasser trinken.",
+        "isolated_asr": "Du möchtest Wasser trinken.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0108",
+      "text": "Was möchten Sie?",
+      "kind": "course-phrase",
+      "file": "rq108_course.mp3",
+      "source_start": 261.55,
+      "source_end": 262.581556,
+      "speech_start": 261.63,
+      "speech_end": 262.461556,
+      "sha256": "375d6a59ee292bb142d38be7815bd87035c46a2bdb336058656cbc2ebfb91036",
+      "duration": 1.07102,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Was Was möchten Sie?",
+        "isolated_asr": "Was möchten Sie?",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0109",
+      "text": "Darf ich fragen?",
+      "kind": "course-phrase",
+      "file": "rq109_course.mp3",
+      "source_start": 262.776,
+      "source_end": 263.792256,
+      "speech_start": 262.856,
+      "speech_end": 263.672256,
+      "sha256": "f600a76ff6b6667824ce007107b7c4914d1e769446f4f1be467a8e46086eba99",
+      "duration": 1.044898,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Darf ich fragen?",
+        "isolated_asr": "Darf ich fragen?",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0110",
+      "text": "Du darfst hier spielen.",
+      "kind": "course-phrase",
+      "file": "rq110_course.mp3",
+      "source_start": 263.965,
+      "source_end": 265.353426,
+      "speech_start": 264.045,
+      "speech_end": 265.233426,
+      "sha256": "78eaab08ceb43a174f5b2ca8b359ce4d67207f6f5314ae042b6542e5372f0d01",
+      "duration": 1.436735,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Du darfst hier spielen.",
+        "isolated_asr": "Du darfst hier spielen.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0111",
+      "text": "Wir dürfen gehen.",
+      "kind": "course-phrase",
+      "file": "rq111_course.mp3",
+      "source_start": 265.511,
+      "source_end": 266.715909,
+      "speech_start": 265.591,
+      "speech_end": 266.595909,
+      "sha256": "ac0a731903eaa2b183d5d16548560d22caad95bf96ef1655dd2347e01fba6fed",
+      "duration": 1.253878,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir dürfen gehen.",
+        "isolated_asr": "Wir dürfen gehen.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0112",
+      "text": "Ihr dürft bleiben.",
+      "kind": "course-phrase",
+      "file": "rq112_course.mp3",
+      "source_start": 266.876,
+      "source_end": 268.094127,
+      "speech_start": 266.956,
+      "speech_end": 267.974127,
+      "sha256": "6207ff163fcde25cb597dbb31f566c4718ec50846753fc0a1b5b6e72f31c71ed",
+      "duration": 1.253878,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ihr dürft bleiben.",
+        "isolated_asr": "Ihr dürft bleiben.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0113",
+      "text": "Sie dürfen hier nicht rauchen.",
+      "kind": "course-phrase",
+      "file": "rq113_course.mp3",
+      "source_start": 268.22,
+      "source_end": 269.950227,
+      "speech_start": 268.3,
+      "speech_end": 269.830227,
+      "sha256": "7ed763d11e1825ee21fdd3b2b63fca7c7135314d1782f839c625034945d32167",
+      "duration": 1.776327,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Sie dürfen hier nicht rauchen.",
+        "isolated_asr": "Sie dürfen hier nicht rauchen.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0114",
+      "text": "Du musst nicht warten.",
+      "kind": "course-phrase",
+      "file": "rq114_course.mp3",
+      "source_start": 270.16,
+      "source_end": 271.45688,
+      "speech_start": 270.24,
+      "speech_end": 271.33688,
+      "sha256": "bcb50bc320b970849a60aa01ac43a17c23d5d38c012780712797473605537350",
+      "duration": 1.332245,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Du musst nicht warten.",
+        "isolated_asr": "Du musst nicht warten.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0115",
+      "text": "Darf ich das Fenster öffnen?",
+      "kind": "course-phrase",
+      "file": "rq115_course.mp3",
+      "source_start": 271.684,
+      "source_end": 273.258785,
+      "speech_start": 271.764,
+      "speech_end": 273.138785,
+      "sha256": "dc897ded38d2e7764c870e118bcc24459cc3c4f216cd6753938c2702816b0d87",
+      "duration": 1.619592,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Darf ich das Fenster öffnen?",
+        "isolated_asr": "Darf ich das Fenster öffnen?",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0116",
+      "text": "Komm bitte!",
+      "kind": "course-phrase",
+      "file": "rq116_course.mp3",
+      "source_start": 273.354,
+      "source_end": 274.206227,
+      "speech_start": 273.434,
+      "speech_end": 274.086227,
+      "sha256": "b882f423a1012d08743ec4eb44c839f05ab5f2f4663d81bf4152c59ceb712771",
+      "duration": 0.888163,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Komm bitte.",
+        "isolated_asr": "Komm bitte!",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0117",
+      "text": "Nimm das Buch!",
+      "kind": "course-phrase",
+      "file": "rq117_course.mp3",
+      "source_start": 274.346,
+      "source_end": 275.452034,
+      "speech_start": 274.426,
+      "speech_end": 275.332034,
+      "sha256": "d61d68b41d62242bbecc9d06ed21bc2cb05ac3fac1ef7a4b688ad0fd06a955c3",
+      "duration": 1.149388,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Nimm das Buch.",
+        "isolated_asr": "Nimm das Buch!",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0118",
+      "text": "Lies bitte!",
+      "kind": "course-phrase",
+      "file": "rq118_course.mp3",
+      "source_start": 275.627,
+      "source_end": 276.563537,
+      "speech_start": 275.707,
+      "speech_end": 276.443537,
+      "sha256": "ec66681788d84e8fc1b56b619e6d722671212941d15169d499d15adb0d4e54ec",
+      "duration": 0.966531,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Lies bitte.",
+        "isolated_asr": "Lies, bitte.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0119",
+      "text": "Sprich bitte langsam!",
+      "kind": "course-phrase",
+      "file": "rq119_course.mp3",
+      "source_start": 276.7,
+      "source_end": 278.322751,
+      "speech_start": 276.78,
+      "speech_end": 278.202751,
+      "sha256": "e93d713d6b4943eb70d21c60a70ef1d4085dc982769dce8361c86cc7eb453ccc",
+      "duration": 1.671837,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Sprich bitte langsam.",
+        "isolated_asr": "Sprich bitte langsam.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0120",
+      "text": "Sei bitte leise!",
+      "kind": "course-phrase",
+      "file": "rq120_course.mp3",
+      "source_start": 278.463,
+      "source_end": 279.739372,
+      "speech_start": 278.543,
+      "speech_end": 279.619372,
+      "sha256": "bd9622bfafd3c11d32a224bda4393624482cede29783638ff04042e248c775e2",
+      "duration": 1.306122,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Sei bitte leise.",
+        "isolated_asr": "Sei bitte leise.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0121",
+      "text": "Öffnen Sie bitte das Fenster!",
+      "kind": "course-phrase",
+      "file": "rq121_course.mp3",
+      "source_start": 279.873,
+      "source_end": 281.556061,
+      "speech_start": 279.953,
+      "speech_end": 281.436061,
+      "sha256": "afff1038e7812d4ac138aa1f869387382dfbea3858f66f549258039b4dd66e57",
+      "duration": 1.724082,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Öffnen Sie bitte das Fenster.",
+        "isolated_asr": "Öffnen Sie bitte das Fenster.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0122",
+      "text": "Ich helfe dem Kind.",
+      "kind": "course-phrase",
+      "file": "rq122_course.mp3",
+      "source_start": 281.753,
+      "source_end": 283.064655,
+      "speech_start": 281.833,
+      "speech_end": 282.944655,
+      "sha256": "74871bb3f5d30cacc7d025c6b498f69eceaf9f27649f678fb3bdba5ce5c49e1d",
+      "duration": 1.358367,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich helfe dem Kind.",
+        "isolated_asr": "Ich helfe dem Kind.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0123",
+      "text": "Du hilfst einem Freund.",
+      "kind": "course-phrase",
+      "file": "rq123_course.mp3",
+      "source_start": 283.193,
+      "source_end": 284.73239,
+      "speech_start": 283.273,
+      "speech_end": 284.61239,
+      "sha256": "8e5a85cca039ff99e00092a4cb948e63536d8e925efa87dc5fac1c8fcded65ed",
+      "duration": 1.567347,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Du hilfst einem Freund.",
+        "isolated_asr": "Du hilfst einem Freund.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0124",
+      "text": "Er antwortet der Lehrerin.",
+      "kind": "course-phrase",
+      "file": "rq124_course.mp3",
+      "source_start": 284.784,
+      "source_end": 286.543197,
+      "speech_start": 284.864,
+      "speech_end": 286.423197,
+      "sha256": "37e3744e3660bf70f14b3c06d403421062c562f78440e1d3bf0db69112bb050d",
+      "duration": 1.802449,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Er antwortet der Lehrerin.",
+        "isolated_asr": "Er antwortet der Lehrerin.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0125",
+      "text": "Wir helfen den Kindern.",
+      "kind": "course-phrase",
+      "file": "rq125_course.mp3",
+      "source_start": 286.68,
+      "source_end": 288.232678,
+      "speech_start": 286.76,
+      "speech_end": 288.112678,
+      "sha256": "e8da13f92fef33422777868d94840c73e224399cef26c61dd4710c52d65b28ff",
+      "duration": 1.593469,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir helfen den Kindern.",
+        "isolated_asr": "Wir helfen den Kindern.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0126",
+      "text": "Ich gebe dem Mann das Buch.",
+      "kind": "course-phrase",
+      "file": "rq126_course.mp3",
+      "source_start": 288.331,
+      "source_end": 290.012707,
+      "speech_start": 288.411,
+      "speech_end": 289.892707,
+      "sha256": "bcec8e0f57745ad1e0aa574e9f6b9e568fa4e6019f6ad701730de50accfb01d1",
+      "duration": 1.724082,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich gebe dem Mann das Buch.",
+        "isolated_asr": "Ich gebe dem Mann das Buch.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0127",
+      "text": "Sie gibt einer Freundin Wasser.",
+      "kind": "course-phrase",
+      "file": "rq127_course.mp3",
+      "source_start": 290.114,
+      "source_end": 291.923966,
+      "speech_start": 290.194,
+      "speech_end": 291.803966,
+      "sha256": "71092d676f7082db8a137e9295760b6918515b705a0bcaa4b6f5c4990a9e1fa5",
+      "duration": 1.854694,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Sie gibt einer Freundin Wasser.",
+        "isolated_asr": "Sie gibt einer Freundin Wasser.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0128",
+      "text": "Ich antworte dem Lehrer.",
+      "kind": "course-phrase",
+      "file": "rq128_course.mp3",
+      "source_start": 292.029,
+      "source_end": 293.643295,
+      "speech_start": 292.109,
+      "speech_end": 293.523295,
+      "sha256": "fdc8a1d438b055d73c544ad14d857c685d7977d0622f2775385d1e0b49b8eea5",
+      "duration": 1.645714,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich antworte dem Lehrer.",
+        "isolated_asr": "Ich antworte dem Lehrer.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0129",
+      "text": "Wir geben den Freunden Bücher.",
+      "kind": "course-phrase",
+      "file": "rq129_course.mp3",
+      "source_start": 293.743,
+      "source_end": 295.591533,
+      "speech_start": 293.823,
+      "speech_end": 295.471533,
+      "sha256": "80e9e94d73acb0b2fe740fec032f6915a1a0c623ec1d38fa187ed4db38d6e27d",
+      "duration": 1.880816,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir geben den Freundin Bücher.",
+        "isolated_asr": "Wir geben den Freunden Bücher.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0130",
+      "text": "Du hilfst mir.",
+      "kind": "course-phrase",
+      "file": "rq130_course.mp3",
+      "source_start": 295.756,
+      "source_end": 296.763338,
+      "speech_start": 295.836,
+      "speech_end": 296.643338,
+      "sha256": "32005946ee8be3bc3c5c6af4d80750637193e590a2a54538fbf32cdfd2aeae10",
+      "duration": 1.044898,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Du hilfst mir.",
+        "isolated_asr": "Du hilfst mir.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0131",
+      "text": "Ich helfe dir.",
+      "kind": "course-phrase",
+      "file": "rq131_course.mp3",
+      "source_start": 296.882,
+      "source_end": 297.923848,
+      "speech_start": 296.962,
+      "speech_end": 297.803848,
+      "sha256": "0ad4307a6d7bcb2d79518ac1c0a46236c60e59dca4a5f49f4018a164743e28ab",
+      "duration": 1.07102,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich helfe dir.",
+        "isolated_asr": "Ich helfe dir.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0132",
+      "text": "Wir antworten ihm.",
+      "kind": "course-phrase",
+      "file": "rq132_course.mp3",
+      "source_start": 298.057,
+      "source_end": 299.397673,
+      "speech_start": 298.137,
+      "speech_end": 299.277673,
+      "sha256": "2aa9a452795f6147d1e33bfb70057c1ea06f918d96d3d5147a006d6675aad78c",
+      "duration": 1.38449,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir antworten ihm.",
+        "isolated_asr": "Wir antworten ihm.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0133",
+      "text": "Er gibt ihr das Buch.",
+      "kind": "course-phrase",
+      "file": "rq133_course.mp3",
+      "source_start": 299.514,
+      "source_end": 300.934075,
+      "speech_start": 299.594,
+      "speech_end": 300.814075,
+      "sha256": "9231ce828a631fc2162289b5d8e9dd7827ebf0d24336058ba53dbd1c4a32eecc",
+      "duration": 1.462857,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Er gibt ihr das Buch.",
+        "isolated_asr": "Er gibt ihr das Buch.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0134",
+      "text": "Sie hilft uns.",
+      "kind": "course-phrase",
+      "file": "rq134_course.mp3",
+      "source_start": 300.987,
+      "source_end": 302.180964,
+      "speech_start": 301.067,
+      "speech_end": 302.060964,
+      "sha256": "a2e7ac74963f4c851be1cbf3c2d4d6ff1c7af1932ef3ffaa0ec392a7d95c7ba1",
+      "duration": 1.227755,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Sie hilft uns.",
+        "isolated_asr": "Sie hilft uns.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0135",
+      "text": "Ich antworte euch.",
+      "kind": "course-phrase",
+      "file": "rq135_course.mp3",
+      "source_start": 302.225,
+      "source_end": 303.560091,
+      "speech_start": 302.305,
+      "speech_end": 303.440091,
+      "sha256": "22d4b9375986b2bc0bb04ef8786d396c2b811f2220206453617225c97b7a4f42",
+      "duration": 1.38449,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich antworte euch.",
+        "isolated_asr": "Ich antworte euch.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0136",
+      "text": "Wir helfen ihnen.",
+      "kind": "course-phrase",
+      "file": "rq136_course.mp3",
+      "source_start": 303.64,
+      "source_end": 304.890544,
+      "speech_start": 303.72,
+      "speech_end": 304.770544,
+      "sha256": "d7f192cf7f7503dd6227d7f93c2662340e055517a14214e07cb70945fe608787",
+      "duration": 1.28,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir helfen ihnen.",
+        "isolated_asr": "Wir helfen Ihnen!",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0137",
+      "text": "Ich helfe Ihnen.",
+      "kind": "course-phrase",
+      "file": "rq137_course.mp3",
+      "source_start": 305.02,
+      "source_end": 306.17239,
+      "speech_start": 305.1,
+      "speech_end": 306.05239,
+      "sha256": "16a938434dc4300e59840f6ad342d560e2764c3c923fbb313a74facc86113b44",
+      "duration": 1.201633,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich helfe ihnen.",
+        "isolated_asr": "Ich helfe Ihnen.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0138",
+      "text": "Ich gebe dem Kind den Ball.",
+      "kind": "course-phrase",
+      "file": "rq138_course.mp3",
+      "source_start": 306.314,
+      "source_end": 308.006268,
+      "speech_start": 306.394,
+      "speech_end": 307.886268,
+      "sha256": "5978291d62d26970e76da1e59706d1cc436f84eb9506723942301e2e33d6445e",
+      "duration": 1.724082,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich gebe dem Kind den Ball.",
+        "isolated_asr": "Ich gebe dem Kind den Ball.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0139",
+      "text": "Du zeigst der Frau das Bild.",
+      "kind": "course-phrase",
+      "file": "rq139_course.mp3",
+      "source_start": 308.134,
+      "source_end": 309.931562,
+      "speech_start": 308.214,
+      "speech_end": 309.811562,
+      "sha256": "6a1c3413c6d914a84978129f2e645bbd297471ffb9b5a5304297fae9e541d6f0",
+      "duration": 1.828571,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Du zeigst der Frau das Bild.",
+        "isolated_asr": "Du zeigst der Frau das Bild.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0140",
+      "text": "Er schenkt seinem Vater ein Buch.",
+      "kind": "course-phrase",
+      "file": "rq140_course.mp3",
+      "source_start": 310.079,
+      "source_end": 312.188295,
+      "speech_start": 310.159,
+      "speech_end": 312.068295,
+      "sha256": "eae03ba6bae5cfb7cf65c374baa4d0b5b3de730c3b433e71123f4e156882d425",
+      "duration": 2.142041,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Er schenkt seinem Vater ein Buch.",
+        "isolated_asr": "Er schenkt seinem Vater ein Buch.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0141",
+      "text": "Wir geben den Kindern Wasser.",
+      "kind": "course-phrase",
+      "file": "rq141_course.mp3",
+      "source_start": 312.508,
+      "source_end": 314.237109,
+      "speech_start": 312.588,
+      "speech_end": 314.117109,
+      "sha256": "c1f91418758390e4602e8fa2cc8910f3f23bfcdae7dc8a6e3a56b54cc9afa3a4",
+      "duration": 1.776327,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir geben den Kindern Wasser.",
+        "isolated_asr": "Wir geben den Kindern Wasser.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0142",
+      "text": "Ich gebe ihm das Buch.",
+      "kind": "course-phrase",
+      "file": "rq142_course.mp3",
+      "source_start": 314.575,
+      "source_end": 316.065143,
+      "speech_start": 314.655,
+      "speech_end": 315.945143,
+      "sha256": "c74776944214ac4f08a730fdeb606419601e269f4ff9d73dba1c79d3dd773f1d",
+      "duration": 1.541224,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich gebe ihm das Buch.",
+        "isolated_asr": "Ich gebe ihm das Buch.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0143",
+      "text": "Ich gebe es dem Kind.",
+      "kind": "course-phrase",
+      "file": "rq143_course.mp3",
+      "source_start": 316.338,
+      "source_end": 317.766209,
+      "speech_start": 316.418,
+      "speech_end": 317.646209,
+      "sha256": "3f307523ad94404ffb11fbdfb882252100d02c5ff6aeb62ef5d4efa5284f885a",
+      "duration": 1.462857,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich gebe es dem Kind.",
+        "isolated_asr": "Ich gebe es dem Kind.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0144",
+      "text": "Ich gebe es ihm.",
+      "kind": "course-phrase",
+      "file": "rq144_course.mp3",
+      "source_start": 318.018,
+      "source_end": 319.108163,
+      "speech_start": 318.098,
+      "speech_end": 318.988163,
+      "sha256": "cdde13e83f68eabecf7c2a0523e9ed012f545d717c8c21780082bfc852bdb932",
+      "duration": 1.123265,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich gebe es ihm.",
+        "isolated_asr": "Ich gebe es ihm.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0145",
+      "text": "Sie zeigt es mir.",
+      "kind": "course-phrase",
+      "file": "rq145_course.mp3",
+      "source_start": 319.4,
+      "source_end": 320.633909,
+      "speech_start": 319.48,
+      "speech_end": 320.513909,
+      "sha256": "914990dddd26ff4678e4dfb9882259b7b742c5fe55da276cbf15cd16221837a5",
+      "duration": 1.28,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Sie zeigt es mir.",
+        "isolated_asr": "Sie zeigt es mir.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0146",
+      "text": "Ich komme mit dir.",
+      "kind": "course-phrase",
+      "file": "rq146_course.mp3",
+      "source_start": 320.944,
+      "source_end": 322.080639,
+      "speech_start": 321.024,
+      "speech_end": 321.960639,
+      "sha256": "d4654e84713ac1291a492c443649775fe148072ba873657f80129e85fcd18592",
+      "duration": 1.17551,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich komme mit dir.",
+        "isolated_asr": "Ich komme mit dir.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0147",
+      "text": "Du gehst zu mir.",
+      "kind": "course-phrase",
+      "file": "rq147_course.mp3",
+      "source_start": 322.352,
+      "source_end": 323.549068,
+      "speech_start": 322.432,
+      "speech_end": 323.429068,
+      "sha256": "4d90892ac22bb50738e7189f8a756dc5b1cc874a86e39faec553ba2d843b02f9",
+      "duration": 1.227755,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Du gehst zu mir.",
+        "isolated_asr": "Du gehst zu mir.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0148",
+      "text": "Das Buch ist von meinem Freund.",
+      "kind": "course-phrase",
+      "file": "rq148_course.mp3",
+      "source_start": 323.859,
+      "source_end": 325.802673,
+      "speech_start": 323.939,
+      "speech_end": 325.682673,
+      "sha256": "4916cb553a31fa84ddbc220dee0a7110ea18eec08f7bafe4df703a39a2683ff9",
+      "duration": 1.985306,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das Buch ist von meinem Freund.",
+        "isolated_asr": "Das Buch ist von meinem Freund.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0149",
+      "text": "Wir sind bei unseren Eltern.",
+      "kind": "course-phrase",
+      "file": "rq149_course.mp3",
+      "source_start": 326.009,
+      "source_end": 327.64866,
+      "speech_start": 326.089,
+      "speech_end": 327.52866,
+      "sha256": "674c5f8fb02d3be02c9635f8aee339ee7a5b9c14850c8101716f208f74126872",
+      "duration": 1.671837,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir sind bei unseren Eltern.",
+        "isolated_asr": "Wir sind bei unseren Eltern.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0150",
+      "text": "Sie fährt nach Berlin.",
+      "kind": "course-phrase",
+      "file": "rq150_course.mp3",
+      "source_start": 327.909,
+      "source_end": 329.331778,
+      "speech_start": 327.989,
+      "speech_end": 329.211778,
+      "sha256": "32274784e55fab92f739e3fdb9e7bdc44ae49f4f7ec686574b53320b6306ce29",
+      "duration": 1.462857,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Sie fährt nach Berlin.",
+        "isolated_asr": "Sie fährt nach Berlin.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0151",
+      "text": "Ich gehe zum Arzt.",
+      "kind": "course-phrase",
+      "file": "rq151_course.mp3",
+      "source_start": 329.584,
+      "source_end": 330.965946,
+      "speech_start": 329.664,
+      "speech_end": 330.845946,
+      "sha256": "2b7df5122cabb654d7b86b9c4b8c506e4dd96d67b1d01a40bcc8086baf8ea648",
+      "duration": 1.410612,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich gehe zum Arzt.",
+        "isolated_asr": "Ich gehe zum Arzt.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0152",
+      "text": "Er geht zur Schule.",
+      "kind": "course-phrase",
+      "file": "rq152_course.mp3",
+      "source_start": 331.132,
+      "source_end": 332.36361,
+      "speech_start": 331.212,
+      "speech_end": 332.24361,
+      "sha256": "6fb37aac2e2651fa1d2c3a1b839c983cc4eaca7c53746095e043a8b31734ec22",
+      "duration": 1.28,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Er geht zur Schule.",
+        "isolated_asr": "Er geht zur Schule.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0153",
+      "text": "Das ist für dich.",
+      "kind": "course-phrase",
+      "file": "rq153_course.mp3",
+      "source_start": 332.582,
+      "source_end": 333.656635,
+      "speech_start": 332.662,
+      "speech_end": 333.536635,
+      "sha256": "69210dc713d17320d30b49bb5c528833c4736303fec0285d2bc796ab3ebeafc8",
+      "duration": 1.123265,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das ist für dich.",
+        "isolated_asr": "Das ist für dich.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0154",
+      "text": "Ich gehe ohne meinen Bruder.",
+      "kind": "course-phrase",
+      "file": "rq154_course.mp3",
+      "source_start": 333.826,
+      "source_end": 335.598655,
+      "speech_start": 333.906,
+      "speech_end": 335.478655,
+      "sha256": "c2af2f32cf3f7db78580bc56ab3ee22e6b4d6417c8583278f26d45b760b57cb9",
+      "duration": 1.802449,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich gehe ohne meinen Bruder.",
+        "isolated_asr": "Ich gehe ohne meinen Bruder.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0155",
+      "text": "Wir spielen gegen die Kinder.",
+      "kind": "course-phrase",
+      "file": "rq155_course.mp3",
+      "source_start": 335.827,
+      "source_end": 337.49059,
+      "speech_start": 335.907,
+      "speech_end": 337.37059,
+      "sha256": "b9e0100bed649ca7939170c70dce1e6d6160985b3f1056033053ca201787781c",
+      "duration": 1.697959,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir spielen gegen die Kinder.",
+        "isolated_asr": "Wir spielen gegen die Kinder.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0156",
+      "text": "Sie geht durch den Park.",
+      "kind": "course-phrase",
+      "file": "rq156_course.mp3",
+      "source_start": 337.74,
+      "source_end": 339.221293,
+      "speech_start": 337.82,
+      "speech_end": 339.101293,
+      "sha256": "d19eb3de0d09e619b000c94455e12f37cba03064debeb64dc300d41ce6dfbedf",
+      "duration": 1.515102,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Sie geht durch den Park.",
+        "isolated_asr": "Sie geht durch den Park.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0157",
+      "text": "Wir gehen um das Haus.",
+      "kind": "course-phrase",
+      "file": "rq157_course.mp3",
+      "source_start": 339.36,
+      "source_end": 340.88244,
+      "speech_start": 339.44,
+      "speech_end": 340.76244,
+      "sha256": "585b2e4f2eb7fc2704fcd7a4a867cf2281aa810ac9ee253cbc365c26713746b9",
+      "duration": 1.567347,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir gehen um das Haus.",
+        "isolated_asr": "Wir gehen um das Haus.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0158",
+      "text": "Das Geschenk ist für meinen Vater.",
+      "kind": "course-phrase",
+      "file": "rq158_course.mp3",
+      "source_start": 341.036,
+      "source_end": 342.996417,
+      "speech_start": 341.116,
+      "speech_end": 342.876417,
+      "sha256": "4979c6c15886a1e98778065a035e45a9b20932b23a177f077d189f49a2c7ab68",
+      "duration": 2.011429,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das Geschenk ist für meinen Vater.",
+        "isolated_asr": "Das Geschenk ist für meinen Vater.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0159",
+      "text": "Ich komme ohne meine Tasche.",
+      "kind": "course-phrase",
+      "file": "rq159_course.mp3",
+      "source_start": 343.2,
+      "source_end": 344.850991,
+      "speech_start": 343.28,
+      "speech_end": 344.730991,
+      "sha256": "98b44687cd4af9c59a2aabb37df391cd7bc605ab2c9f2c12c20410f6675f7988",
+      "duration": 1.697959,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich komme ohne meine Tasche.",
+        "isolated_asr": "Ich komme ohne meine Tasche.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0160",
+      "text": "Ich komme um acht Uhr.",
+      "kind": "course-phrase",
+      "file": "rq160_course.mp3",
+      "source_start": 345.057,
+      "source_end": 346.516855,
+      "speech_start": 345.137,
+      "speech_end": 346.396855,
+      "sha256": "6eb9211d1ca5d974893868643288a18c18d7d6f083d85355c396507cc9e3e8e5",
+      "duration": 1.48898,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich komme um 8 Uhr.",
+        "isolated_asr": "Ich komme um 8 Uhr.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0161",
+      "text": "Das kostet zwanzig Euro.",
+      "kind": "course-phrase",
+      "file": "rq161_course.mp3",
+      "source_start": 346.733,
+      "source_end": 348.589023,
+      "speech_start": 346.813,
+      "speech_end": 348.469023,
+      "sha256": "9167ad57c69bd71e0f0f5a3b1980e4badff4f70c8aa918d7f02a878f7731e015",
+      "duration": 1.906939,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das kostet 20 Euro.",
+        "isolated_asr": "Das kostet 20 Euro.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0162",
+      "text": "Das Buch kostet einundzwanzig Euro.",
+      "kind": "course-phrase",
+      "file": "rq162_course.mp3",
+      "source_start": 348.809,
+      "source_end": 351.267277,
+      "speech_start": 348.889,
+      "speech_end": 351.147277,
+      "sha256": "c226b642fa301fc8885a4a0277481fa38222fd0266d35629c3bac1063b4f5b0b",
+      "duration": 2.507755,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das Buch kostet 21 Euro.",
+        "isolated_asr": "Das Buch kostet 21 Euro.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0163",
+      "text": "Ich habe dreißig Euro.",
+      "kind": "course-phrase",
+      "file": "rq163_course.mp3",
+      "source_start": 351.439,
+      "source_end": 352.967299,
+      "speech_start": 351.519,
+      "speech_end": 352.847299,
+      "sha256": "f28164176c1d64be4ce8ab2deed8d62ba3e344cf3fe70be1a9da313d810417e2",
+      "duration": 1.567347,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich habe 30 Euro.",
+        "isolated_asr": "Ich habe 30 Euro.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0164",
+      "text": "Das kostet fünfzig Cent.",
+      "kind": "course-phrase",
+      "file": "rq164_course.mp3",
+      "source_start": 353.129,
+      "source_end": 354.93195,
+      "speech_start": 353.209,
+      "speech_end": 354.81195,
+      "sha256": "1ac4fc80f931f6a6c8e0ddea3c0b04f84ed0e7e7bdd9117138d06a19fba85648",
+      "duration": 1.854694,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das kostet 50 Cent.",
+        "isolated_asr": "Das kostet 50 Cent.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0165",
+      "text": "Wir haben hundert Bücher.",
+      "kind": "course-phrase",
+      "file": "rq165_course.mp3",
+      "source_start": 355.09,
+      "source_end": 356.67581,
+      "speech_start": 355.17,
+      "speech_end": 356.55581,
+      "sha256": "4a3e47e0319b721acd53531ab73f637f076f7f7debe75c009bd31e3010ab5a5a",
+      "duration": 1.619592,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir haben 100 Bücher.",
+        "isolated_asr": "Wir haben 100 Bücher.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0166",
+      "text": "Hier sind tausend Menschen.",
+      "kind": "course-phrase",
+      "file": "rq166_course.mp3",
+      "source_start": 356.852,
+      "source_end": 358.475492,
+      "speech_start": 356.932,
+      "speech_end": 358.355492,
+      "sha256": "333a7bde1e34a9eb0ca0824ccf224a312025d92b6abb6a076118e66cdcb4edcf",
+      "duration": 1.671837,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Hier sind 1000 Menschen.",
+        "isolated_asr": "Hier sind tausend Menschen.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0167",
+      "text": "Das kostet zwei Euro fünfzig.",
+      "kind": "course-phrase",
+      "file": "rq167_course.mp3",
+      "source_start": 358.642,
+      "source_end": 360.84088,
+      "speech_start": 358.722,
+      "speech_end": 360.72088,
+      "sha256": "df3173bbcede8ab02becc708394459dbb46e14e9a0b7c5b0667b110e626646b1",
+      "duration": 2.246531,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das kostet 2 ,50",
+        "isolated_asr": "Das kostet 2,50 Euro.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0168",
+      "text": "Wie viel kostet das?",
+      "kind": "course-phrase",
+      "file": "rq168_course.mp3",
+      "source_start": 361.01800000000003,
+      "source_end": 362.326365,
+      "speech_start": 361.098,
+      "speech_end": 362.206365,
+      "sha256": "f8daf54ccd179bf12500c968e70902822e04b50aeb43b511696ce7b1c98c6f1e",
+      "duration": 1.358367,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wie viel kostet das?",
+        "isolated_asr": "Wie viel kostet das?",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0169",
+      "text": "Wir kommen um halb neun.",
+      "kind": "course-phrase",
+      "file": "rq169_course.mp3",
+      "source_start": 362.467,
+      "source_end": 364.01,
+      "speech_start": 362.547,
+      "speech_end": 363.89,
+      "sha256": "ad6e86a79a2a3cb24db225ed770c38271fd4f622a323537e6c6c501930e91c22",
+      "duration": 1.593469,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir kommen um halb neun.",
+        "isolated_asr": "Wir kommen um halb neun.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0170",
+      "text": "Ich arbeite am Montag.",
+      "kind": "course-phrase",
+      "file": "rq170_course.mp3",
+      "source_start": 364.19,
+      "source_end": 365.802048,
+      "speech_start": 364.27,
+      "speech_end": 365.682048,
+      "sha256": "99e0a19dbf5e2f7662dce79307746a20292a7d3910c6afc7e7651ffe3f7a5201",
+      "duration": 1.645714,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich arbeite am Montag.",
+        "isolated_asr": "Ich arbeite am Montag.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0171",
+      "text": "Der Termin ist am ersten Mai.",
+      "kind": "course-phrase",
+      "file": "rq171_course.mp3",
+      "source_start": 365.923,
+      "source_end": 367.862032,
+      "speech_start": 366.003,
+      "speech_end": 367.742032,
+      "sha256": "81721974bed3870c1dbafe8acc3553353b51bf30d51c64efbbc241b8b14b1c9e",
+      "duration": 1.985306,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Der Termin ist am 1. Mai.",
+        "isolated_asr": "Der Termin ist am 1. Mai.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0172",
+      "text": "Ich habe am dritten Mai Geburtstag.",
+      "kind": "course-phrase",
+      "file": "rq172_course.mp3",
+      "source_start": 367.996,
+      "source_end": 370.096036,
+      "speech_start": 368.076,
+      "speech_end": 369.976036,
+      "sha256": "f8180ced72eb6c6065005e0bd04a663531098c03149ebfae76172aabc1006caa",
+      "duration": 2.142041,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich habe am 3. Mai Geburtstag.",
+        "isolated_asr": "Ich habe am 3. Mai Geburtstag.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0173",
+      "text": "Heute ist der zwanzigste Mai.",
+      "kind": "course-phrase",
+      "file": "rq173_course.mp3",
+      "source_start": 370.232,
+      "source_end": 372.148921,
+      "speech_start": 370.312,
+      "speech_end": 372.028921,
+      "sha256": "8e9db518e16921df344f1f68fffcd4a21009eb06f1304229c4ccb0f2db5a1c35",
+      "duration": 1.959184,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Heute ist der 20. Mai.",
+        "isolated_asr": "Heute ist der 20. Mai.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0174",
+      "text": "Es ist Viertel nach acht.",
+      "kind": "course-phrase",
+      "file": "rq174_course.mp3",
+      "source_start": 372.304,
+      "source_end": 373.876601,
+      "speech_start": 372.384,
+      "speech_end": 373.756601,
+      "sha256": "164d1e48bc57b03030e5862c57fc2877de1ce31f62ed2c9d5de777b28388cd15",
+      "duration": 1.619592,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Es ist Viertel nach Acht.",
+        "isolated_asr": "Es ist Viertel nach Acht.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0175",
+      "text": "Wann hast du Geburtstag?",
+      "kind": "course-phrase",
+      "file": "rq175_course.mp3",
+      "source_start": 373.981,
+      "source_end": 375.457161,
+      "speech_start": 374.061,
+      "speech_end": 375.337161,
+      "sha256": "379f92e0155cc1df8ffada4fe41e9b6239bd86f88b9dd10aeea1dca2b4844234",
+      "duration": 1.515102,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wann hast du Geburtstag?",
+        "isolated_asr": "Wann hast du Geburtstag?",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0176",
+      "text": "Das Buch liegt auf dem Tisch.",
+      "kind": "course-phrase",
+      "file": "rq176_course.mp3",
+      "source_start": 375.608,
+      "source_end": 377.362485,
+      "speech_start": 375.688,
+      "speech_end": 377.242485,
+      "sha256": "e14f7ba2532ce27e9b6e9cea62650cb3f9c53acfeddc09ef072b382498d55308",
+      "duration": 1.802449,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das Buch liegt auf dem Tisch.",
+        "isolated_asr": "Das Buch liegt auf dem Tisch.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0177",
+      "text": "Die Katze ist unter dem Stuhl.",
+      "kind": "course-phrase",
+      "file": "rq177_course.mp3",
+      "source_start": 377.456,
+      "source_end": 379.323515,
+      "speech_start": 377.536,
+      "speech_end": 379.203515,
+      "sha256": "31c9ad0620e4da4b1060a6c9f8a7a0c2c7ea9b288c374381e1681434803828b5",
+      "duration": 1.906939,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Die Katze ist unter dem Stuhl.",
+        "isolated_asr": "Die Katze ist unter dem Stuhl.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0178",
+      "text": "Ich bin im Park.",
+      "kind": "course-phrase",
+      "file": "rq178_course.mp3",
+      "source_start": 379.44,
+      "source_end": 380.540234,
+      "speech_start": 379.52,
+      "speech_end": 380.420234,
+      "sha256": "b89be500a5c6dc4b716e0bc495bbd3afd1d576ad0337fb9b52b6b5f2e5591be3",
+      "duration": 1.149388,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich bin im Park.",
+        "isolated_asr": "Ich bin im Park.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0179",
+      "text": "Das Bild hängt an der Wand.",
+      "kind": "course-phrase",
+      "file": "rq179_course.mp3",
+      "source_start": 380.643,
+      "source_end": 382.380837,
+      "speech_start": 380.723,
+      "speech_end": 382.260837,
+      "sha256": "53dd4235324652358896d9dea641e6a0c650f7457db09059a34c78bb6ee4dc0f",
+      "duration": 1.776327,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Das Bild hängt an der Wand.",
+        "isolated_asr": "Das Bild hängt an der Wand.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0180",
+      "text": "Wir stehen vor der Schule.",
+      "kind": "course-phrase",
+      "file": "rq180_course.mp3",
+      "source_start": 382.479,
+      "source_end": 384.122179,
+      "speech_start": 382.559,
+      "speech_end": 384.002179,
+      "sha256": "9b47558d782428dffb2c7eb49a795291cc1fb6e9656a82b28dfa2056fb6039ff",
+      "duration": 1.671837,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir stehen vor der Schule.",
+        "isolated_asr": "Wir stehen vor der Schule.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0181",
+      "text": "Der Hund ist neben dem Kind.",
+      "kind": "course-phrase",
+      "file": "rq181_course.mp3",
+      "source_start": 384.241,
+      "source_end": 386.088247,
+      "speech_start": 384.321,
+      "speech_end": 385.968247,
+      "sha256": "7218e3aa61548b342c5708e0a59e67e2431e1fda21c715709d88fcecc1d84a3d",
+      "duration": 1.880816,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Der Hund ist neben dem Kind.",
+        "isolated_asr": "Der Hund ist neben dem Kind.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0182",
+      "text": "Ich laufe im Park.",
+      "kind": "course-phrase",
+      "file": "rq182_course.mp3",
+      "source_start": 386.167,
+      "source_end": 387.485921,
+      "speech_start": 386.247,
+      "speech_end": 387.365921,
+      "sha256": "d2fb9a8e480fa76e954d816bf128d2ee1fa63fdf5bc033653fccb973c495ded2",
+      "duration": 1.358367,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich laufe im Park.",
+        "isolated_asr": "Ich laufe im Park.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0183",
+      "text": "Die Tasche liegt auf dem Stuhl.",
+      "kind": "course-phrase",
+      "file": "rq183_course.mp3",
+      "source_start": 387.611,
+      "source_end": 389.415356,
+      "speech_start": 387.691,
+      "speech_end": 389.295356,
+      "sha256": "16790b218cf029db74cfa5223701f83ea2104f6bf1c342e28bfa2f2c50e1508f",
+      "duration": 1.854694,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Die Tasche liegt auf dem Stuhl.",
+        "isolated_asr": "Die Tasche liegt auf dem Stuhl.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0184",
+      "text": "Ich lege das Buch auf den Tisch.",
+      "kind": "course-phrase",
+      "file": "rq184_course.mp3",
+      "source_start": 389.512,
+      "source_end": 391.406007,
+      "speech_start": 389.592,
+      "speech_end": 391.286007,
+      "sha256": "99375a0b6f5f495192e7bc4eff5b970f85460d1d170c570522e4cadd4a94101f",
+      "duration": 1.933061,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich lege das Buch auf den Tisch.",
+        "isolated_asr": "Ich lege das Buch auf den Tisch.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0185",
+      "text": "Du stellst den Stuhl in das Zimmer.",
+      "kind": "course-phrase",
+      "file": "rq185_course.mp3",
+      "source_start": 391.529,
+      "source_end": 393.567791,
+      "speech_start": 391.609,
+      "speech_end": 393.447791,
+      "sha256": "f0c33ebd0c24c4b6f55280d430d08ae3477b7843b08c93f53b07b2d497451c70",
+      "duration": 2.089796,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Du stellst den Stuhl in das Zimmer.",
+        "isolated_asr": "Du stellst den Stuhl in das Zimmer.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0186",
+      "text": "Wir gehen in den Park.",
+      "kind": "course-phrase",
+      "file": "rq186_course.mp3",
+      "source_start": 393.676,
+      "source_end": 395.14905,
+      "speech_start": 393.756,
+      "speech_end": 395.02905,
+      "sha256": "419cbd23f820a72cf5d50b9d2e07e058f6fbd49971da122be214f6f783c2f054",
+      "duration": 1.515102,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir gehen in den Park.",
+        "isolated_asr": "Wir gehen in den Park.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0187",
+      "text": "Sie geht in die Schule.",
+      "kind": "course-phrase",
+      "file": "rq187_course.mp3",
+      "source_start": 395.251,
+      "source_end": 396.613442,
+      "speech_start": 395.331,
+      "speech_end": 396.493442,
+      "sha256": "f32d5226e58a188eed9dac7855f73cea2f21773dddfce360df880e6e2abad9e3",
+      "duration": 1.410612,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Sie geht in die Schule.",
+        "isolated_asr": "Sie geht in die Schule.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0188",
+      "text": "Ich hänge das Bild an die Wand.",
+      "kind": "course-phrase",
+      "file": "rq188_course.mp3",
+      "source_start": 396.718,
+      "source_end": 398.50812,
+      "speech_start": 396.798,
+      "speech_end": 398.38812,
+      "sha256": "124e3e0f511d6cec0224b199e13f5a568dbed5ab1f1a1dd26df91556d16a5a29",
+      "duration": 1.828571,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich hänge das Bild an die Wand.",
+        "isolated_asr": "Ich hänge das Bild an die Wand.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0189",
+      "text": "Die Katze geht unter den Tisch.",
+      "kind": "course-phrase",
+      "file": "rq189_course.mp3",
+      "source_start": 398.571,
+      "source_end": 400.485726,
+      "speech_start": 398.651,
+      "speech_end": 400.365726,
+      "sha256": "e674cdf368940903b0740c44afe8e38319afdca0e823acac38ce2278d4ff5cc7",
+      "duration": 1.959184,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Die Katze geht unter den Tisch,",
+        "isolated_asr": "Die Katze geht unter den Tisch.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0190",
+      "text": "Er geht ins Zimmer.",
+      "kind": "course-phrase",
+      "file": "rq190_course.mp3",
+      "source_start": 400.545,
+      "source_end": 401.842615,
+      "speech_start": 400.625,
+      "speech_end": 401.722615,
+      "sha256": "e11978d473617595c2336a9ecad25b75268c3f5c486b8148b1c3519b0a27c19e",
+      "duration": 1.332245,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "er geht ins Zimmer,",
+        "isolated_asr": "Er geht ins Zimmer.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0191",
+      "text": "Wir gehen in den Garten.",
+      "kind": "course-phrase",
+      "file": "rq191_course.mp3",
+      "source_start": 401.943,
+      "source_end": 403.440846,
+      "speech_start": 402.023,
+      "speech_end": 403.320846,
+      "sha256": "2a9e629a19a0795acab7c1271a8bdbde209b71a3fe7f32c6e9b344e057b06e97",
+      "duration": 1.541224,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "wir gehen in den Garten.",
+        "isolated_asr": "Wir gehen in den Garten.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0192",
+      "text": "Ich bin zu Hause.",
+      "kind": "course-phrase",
+      "file": "rq192_course.mp3",
+      "source_start": 403.553,
+      "source_end": 404.711975,
+      "speech_start": 403.633,
+      "speech_end": 404.591975,
+      "sha256": "f5328ef324887bab9764a214795227052f6b561e5960ebe92de459a8a0a21c68",
+      "duration": 1.201633,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich bin zu Hause,",
+        "isolated_asr": "Ich bin zu Hause.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0193",
+      "text": "Ich gehe nach Hause.",
+      "kind": "course-phrase",
+      "file": "rq193_course.mp3",
+      "source_start": 404.791,
+      "source_end": 406.134669,
+      "speech_start": 404.871,
+      "speech_end": 406.014669,
+      "sha256": "16d02bb1a1be42b5dfdb18560fec30bb6f166115f42e860d14884eb351ab1fb5",
+      "duration": 1.38449,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "ich gehe nach Hause.",
+        "isolated_asr": "Ich gehe nach Hause.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0194",
+      "text": "Wir fahren nach Berlin.",
+      "kind": "course-phrase",
+      "file": "rq194_course.mp3",
+      "source_start": 406.239,
+      "source_end": 407.728707,
+      "speech_start": 406.319,
+      "speech_end": 407.608707,
+      "sha256": "3726c7339a402e25bef1e6c15d8678926c609165aa15b39d003d5c84af91ca3b",
+      "duration": 1.541224,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir fahren nach Berlin,",
+        "isolated_asr": "Wir fahren nach Berlin.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0195",
+      "text": "Sie fährt in die Ukraine.",
+      "kind": "course-phrase",
+      "file": "rq195_course.mp3",
+      "source_start": 407.81,
+      "source_end": 409.431785,
+      "speech_start": 407.89,
+      "speech_end": 409.311785,
+      "sha256": "5ebd44abff7bf859acc86f9260d8d7a75ee8f4c8615cef4d3dd078d00438307b",
+      "duration": 1.671837,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "sie fährt in die Ukraine.",
+        "isolated_asr": "Sie fährt in die Ukraine.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0196",
+      "text": "Gehen Sie geradeaus!",
+      "kind": "course-phrase",
+      "file": "rq196_course.mp3",
+      "source_start": 409.537,
+      "source_end": 410.923209,
+      "speech_start": 409.617,
+      "speech_end": 410.803209,
+      "sha256": "578400713de7c060b9e610ffd90fa35593407f5dc0c823f215ab379382f13c03",
+      "duration": 1.436735,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Gehen sie gerade aus,",
+        "isolated_asr": "Gehen Sie gerade aus!",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0197",
+      "text": "Gehen Sie nach links!",
+      "kind": "course-phrase",
+      "file": "rq197_course.mp3",
+      "source_start": 411.015,
+      "source_end": 412.229825,
+      "speech_start": 411.095,
+      "speech_end": 412.109825,
+      "sha256": "4251555276814ca2dcbc7b5f9d5f78a34305723ed944565d03b94b3ad1cc6af0",
+      "duration": 1.253878,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "gehen sie nach links.",
+        "isolated_asr": "Gehen Sie nach links.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0198",
+      "text": "Der Bahnhof ist rechts.",
+      "kind": "course-phrase",
+      "file": "rq198_course.mp3",
+      "source_start": 412.323,
+      "source_end": 413.959213,
+      "speech_start": 412.403,
+      "speech_end": 413.839213,
+      "sha256": "c72a56b4c2df0abd25fc88220556f4f46e09de89713de55a34e5f22e0d2b47b7",
+      "duration": 1.671837,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Der Bahnhof ist rechts,",
+        "isolated_asr": "Der Bahnhof ist rechts.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0199",
+      "text": "Der Osten ist hier.",
+      "kind": "course-phrase",
+      "file": "rq199_course.mp3",
+      "source_start": 414.003,
+      "source_end": 415.384712,
+      "speech_start": 414.083,
+      "speech_end": 415.264712,
+      "sha256": "1c2de4361884577115ea42afb546a56c4845c8cb67b54ceb265c9b12ded7cbb4",
+      "duration": 1.410612,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "der Osten ist hier.",
+        "isolated_asr": "Der Osten ist hier.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0200",
+      "text": "Ich stehe früh auf.",
+      "kind": "course-phrase",
+      "file": "rq200_course.mp3",
+      "source_start": 415.508,
+      "source_end": 416.975075,
+      "speech_start": 415.588,
+      "speech_end": 416.855075,
+      "sha256": "9845eb2614031a48a9b5780a42d322175c3bdfaa2ce609b2370cfec1755e3c3b",
+      "duration": 1.515102,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich stehe früh auf,",
+        "isolated_asr": "Ich stehe früh auf.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0201",
+      "text": "Du rufst mich an.",
+      "kind": "course-phrase",
+      "file": "rq201_course.mp3",
+      "source_start": 417.048,
+      "source_end": 418.215132,
+      "speech_start": 417.128,
+      "speech_end": 418.095132,
+      "sha256": "b6a08ca969d52195454131ea1774c944b5dffbe0a4c8f63cf1fd3808615cece4",
+      "duration": 1.201633,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "du rufst mich an.",
+        "isolated_asr": "Du rufst mich an.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0202",
+      "text": "Wir kaufen heute ein.",
+      "kind": "course-phrase",
+      "file": "rq202_course.mp3",
+      "source_start": 418.323,
+      "source_end": 419.702204,
+      "speech_start": 418.403,
+      "speech_end": 419.582204,
+      "sha256": "c6d4d413986e52d707f3ad086d0d7edb43bd7de3eaca24eaf5ed308a1bf3a325",
+      "duration": 1.410612,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir kaufen heute ein,",
+        "isolated_asr": "Wir kaufen heute ein.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0203",
+      "text": "Sie macht die Tür auf.",
+      "kind": "course-phrase",
+      "file": "rq203_course.mp3",
+      "source_start": 419.822,
+      "source_end": 421.266349,
+      "speech_start": 419.902,
+      "speech_end": 421.146349,
+      "sha256": "d2bcd8d38672220ad820130a5ecd403d7ab0a013fdf6359dbad156b17d399cab",
+      "duration": 1.48898,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "sie macht die Tür auf.",
+        "isolated_asr": "Sie macht die Tür auf.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0204",
+      "text": "Er kommt morgen zurück.",
+      "kind": "course-phrase",
+      "file": "rq204_course.mp3",
+      "source_start": 421.34,
+      "source_end": 422.826941,
+      "speech_start": 421.42,
+      "speech_end": 422.706941,
+      "sha256": "ec9913a7be6820d896a6c0f7df0af4d2d3b54926a17489fd376b9545b60fc77f",
+      "duration": 1.515102,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Er kommt morgen zurück,",
+        "isolated_asr": "Er kommt morgen zurück.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0205",
+      "text": "Ich muss früh aufstehen.",
+      "kind": "course-phrase",
+      "file": "rq205_course.mp3",
+      "source_start": 422.881,
+      "source_end": 424.377381,
+      "speech_start": 422.961,
+      "speech_end": 424.257381,
+      "sha256": "057e5877c7de6355d4038d0f18f00ee4e86d3a2d1bb9b8b6d9e73827ac96db38",
+      "duration": 1.541224,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "ich muss früh aufstehen.",
+        "isolated_asr": "Ich muss früh aufstehen.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0206",
+      "text": "Kannst du mich anrufen?",
+      "kind": "course-phrase",
+      "file": "rq206_course.mp3",
+      "source_start": 424.485,
+      "source_end": 425.851336,
+      "speech_start": 424.565,
+      "speech_end": 425.731336,
+      "sha256": "208255cb5c29538828b271507f29b0e6a91582b2fa45e461b345fe1e8f7c46eb",
+      "duration": 1.410612,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Kannst du mich anrufen?",
+        "isolated_asr": "Kannst du mich anrufen?",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0207",
+      "text": "Ich verstehe dich.",
+      "kind": "course-phrase",
+      "file": "rq207_course.mp3",
+      "source_start": 425.919,
+      "source_end": 427.035946,
+      "speech_start": 425.999,
+      "speech_end": 426.915946,
+      "sha256": "d5bf33c5c1a534a2223e35e98531c3a3a3967cdbfe5b050417948b31571e12f8",
+      "duration": 1.149388,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich verstehe dich.",
+        "isolated_asr": "Ich verstehe dich.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0208",
+      "text": "Verstehst du mich?",
+      "kind": "course-phrase",
+      "file": "rq208_course.mp3",
+      "source_start": 427.082,
+      "source_end": 428.1729,
+      "speech_start": 427.162,
+      "speech_end": 428.0529,
+      "sha256": "f9f7a92dc13bcd778a069e9ba788c57b99230378a4de0feeff8de8673e8ac3e7",
+      "duration": 1.123265,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Verstehst du mich?",
+        "isolated_asr": "Verstehst du mich?",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0209",
+      "text": "Wir besuchen unsere Freunde.",
+      "kind": "course-phrase",
+      "file": "rq209_course.mp3",
+      "source_start": 428.239,
+      "source_end": 429.90488,
+      "speech_start": 428.319,
+      "speech_end": 429.78488,
+      "sha256": "dd9ab647b000f6a9ae474f122e0a8de116a3e24ee8e6808f3eceb06033610430",
+      "duration": 1.697959,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir besuchen unsere Freunde.",
+        "isolated_asr": "Wir besuchen unsere Freunde.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0210",
+      "text": "Sie erklärt das Wort.",
+      "kind": "course-phrase",
+      "file": "rq210_course.mp3",
+      "source_start": 429.962,
+      "source_end": 431.468331,
+      "speech_start": 430.042,
+      "speech_end": 431.348331,
+      "sha256": "802789a8cdb790a3038fb5d6494a0f36af77430bed1fd8c1fa91ce3a8fc3ce71",
+      "duration": 1.541224,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Sie erklärt das Wort.",
+        "isolated_asr": "Sie erklärt das Wort.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0211",
+      "text": "Ich bezahle die Rechnung.",
+      "kind": "course-phrase",
+      "file": "rq211_course.mp3",
+      "source_start": 431.504,
+      "source_end": 433.001039,
+      "speech_start": 431.584,
+      "speech_end": 432.881039,
+      "sha256": "bbd678589e8652ba5985d61288e63a939482d520f0f9f14396e7eb223c7bfefa",
+      "duration": 1.541224,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich bezahle die Rechnung.",
+        "isolated_asr": "Ich bezahle die Rechnung.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0212",
+      "text": "Du telefonierst heute.",
+      "kind": "course-phrase",
+      "file": "rq212_course.mp3",
+      "source_start": 433.048,
+      "source_end": 434.52966,
+      "speech_start": 433.128,
+      "speech_end": 434.40966,
+      "sha256": "ab65cd3463806f19664280aa8677042ea38f5d9c8f5706bd6f2bed6c19608d1d",
+      "duration": 1.515102,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Du telefonierst heute.",
+        "isolated_asr": "Du telefonierst heute.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0213",
+      "text": "Er studiert in Berlin.",
+      "kind": "course-phrase",
+      "file": "rq213_course.mp3",
+      "source_start": 434.61,
+      "source_end": 436.123844,
+      "speech_start": 434.69,
+      "speech_end": 436.003844,
+      "sha256": "640df9691e7f2ccfa86ca0cb39596ebcfdf2e998ea254484ee93ac563eb1226b",
+      "duration": 1.541224,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Er studiert in Berlin.",
+        "isolated_asr": "Er studiert in Berlin.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0214",
+      "text": "Wir können das erklären.",
+      "kind": "course-phrase",
+      "file": "rq214_course.mp3",
+      "source_start": 436.185,
+      "source_end": 437.679921,
+      "speech_start": 436.265,
+      "speech_end": 437.559921,
+      "sha256": "08f51e51c5a9a1229725e28670b9410bd0b065a157f2082067ad9ef97f1d5c17",
+      "duration": 1.541224,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir können das erklären.",
+        "isolated_asr": "Wir können das erklären.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0215",
+      "text": "Ich freue mich.",
+      "kind": "course-phrase",
+      "file": "rq215_course.mp3",
+      "source_start": 437.935,
+      "source_end": 439.060122,
+      "speech_start": 438.015,
+      "speech_end": 438.940122,
+      "sha256": "e91c0262fbdd0f9aab3f57fd1df7077b28cd786c88cff7b40eb6fe79d93cbd9d",
+      "duration": 1.17551,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich freue mich.",
+        "isolated_asr": "Ich freue mich.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0216",
+      "text": "Du wäschst dich.",
+      "kind": "course-phrase",
+      "file": "rq216_course.mp3",
+      "source_start": 439.554,
+      "source_end": 440.704624,
+      "speech_start": 439.634,
+      "speech_end": 440.584624,
+      "sha256": "d4171586c79d67e6106c3485b5fa57fb32e04b44f91c963643ce1ebe8a9c9d36",
+      "duration": 1.201633,
+      "verification": {
+        "status": "exact-medium",
+        "full_asr": "Du wäscht dich.",
+        "isolated_asr": "Du wäscht dich.",
+        "medium_asr": "Du wäschst dich!",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0217",
+      "text": "Er freut sich.",
+      "kind": "course-phrase",
+      "file": "rq217_course.mp3",
+      "source_start": 441.119,
+      "source_end": 442.320694,
+      "speech_start": 441.199,
+      "speech_end": 442.200694,
+      "sha256": "41fcc24d307cc1ce4d67e20277b8f5f2327aa4e5edde7d3217ae543853ac169f",
+      "duration": 1.253878,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Er freut sich.",
+        "isolated_asr": "Er freut sich.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0218",
+      "text": "Wir treffen uns heute.",
+      "kind": "course-phrase",
+      "file": "rq218_course.mp3",
+      "source_start": 442.746,
+      "source_end": 444.115698,
+      "speech_start": 442.826,
+      "speech_end": 443.995698,
+      "sha256": "60b7189885bc70d28abf6ad6cd3e381a0dd66e185704473d2fde21e983b22d5a",
+      "duration": 1.410612,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Wir treffen uns heute.",
+        "isolated_asr": "Wir treffen uns heute.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0219",
+      "text": "Ihr freut euch.",
+      "kind": "course-phrase",
+      "file": "rq219_course.mp3",
+      "source_start": 444.483,
+      "source_end": 445.632535,
+      "speech_start": 444.563,
+      "speech_end": 445.512535,
+      "sha256": "4a1ee8fa13dad9b34d1176d34584e3ab21dda903dd3c1bbea5bb99752bc4cb3b",
+      "duration": 1.201633,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ihr freut euch.",
+        "isolated_asr": "Ihr freut euch!",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0220",
+      "text": "Sie waschen sich.",
+      "kind": "course-phrase",
+      "file": "rq220_course.mp3",
+      "source_start": 446.038,
+      "source_end": 447.228447,
+      "speech_start": 446.118,
+      "speech_end": 447.108447,
+      "sha256": "9a8bf2bc306090697d5a8ab8270f918dabd4f98fba66905af253b1ee3fbe3f22",
+      "duration": 1.227755,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Sie waschen sich.",
+        "isolated_asr": "Sie waschen sich.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0221",
+      "text": "Ich wasche mir die Hände.",
+      "kind": "course-phrase",
+      "file": "rq221_course.mp3",
+      "source_start": 447.625,
+      "source_end": 449.080016,
+      "speech_start": 447.705,
+      "speech_end": 448.960016,
+      "sha256": "2b609db07642ffb21173797b6fbb95068a21c96e214bef615751f31faf0a8887",
+      "duration": 1.48898,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich wasche mir die Hände.",
+        "isolated_asr": "Ich wasche mir die Hände.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0222",
+      "text": "Ich treffe mich mit meinem Freund.",
+      "kind": "course-phrase",
+      "file": "rq222_course.mp3",
+      "source_start": 449.457,
+      "source_end": 451.393401,
+      "speech_start": 449.537,
+      "speech_end": 451.273401,
+      "sha256": "b8df53e51928eb8680ece4db66b61379e669235adf4e415456e905e8d57eb113",
+      "duration": 1.985306,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Ich treffe mich mit meinem Freund.",
+        "isolated_asr": "Ich treffe mich mit meinem Freund.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0223",
+      "text": "Morgens stehe ich früh auf.",
+      "kind": "course-phrase",
+      "file": "rq223_course.mp3",
+      "source_start": 451.78,
+      "source_end": 453.955875,
+      "speech_start": 451.86,
+      "speech_end": 453.743,
+      "sha256": "3b0501be71db7dbb48f2b9e2d40cc171ed92a7cae513eeb0b24add9586aec647",
+      "duration": 2.220408,
+      "verification": {
+        "status": "exact-isolated",
+        "full_asr": "Morgens stehe ich früh auf.",
+        "isolated_asr": "Morgens stehe ich früh auf.",
+        "method": "Whisper small German, full-source word alignment plus independent isolated-clip transcription; punctuation/case, spoken numeric forms and Ukrainian name transliteration normalized"
+      }
+    }
+  ]
+}

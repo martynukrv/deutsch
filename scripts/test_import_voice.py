@@ -18,7 +18,8 @@ class VoiceImportTests(unittest.TestCase):
         data = json.loads(p.read_text()); callback(data); p.write_text(json.dumps(data))
     def test_original_clip_bytes(self):
         pending, bindings, report = collect(self.root)
-        self.assertEqual((len(pending), len(bindings), len(report)), (453, 453, 453))
+        count = sum(json.loads(p.read_text())['count'] for p in (self.root / 'audio-inbox').glob('*.json'))
+        self.assertEqual((len(pending), len(bindings), len(report)), (count, count, count))
         self.assertEqual(sum(dest.startswith('audio/henri-20261017/') for dest in pending), 409)
         self.assertEqual(sum(dest.startswith('audio/henri-lessons-20261017/') for dest in pending), 44)
         main(self.root)
@@ -38,5 +39,27 @@ class VoiceImportTests(unittest.TestCase):
         self.change(lambda m: m.update(verified=False))
         with self.assertRaises(ValueError): main(self.root)
         self.assertFalse((self.root / 'audio').exists())
+    def test_legacy_clips_still_have_short_duration_limit(self):
+        self.change(lambda m: m['entries'][0].update(duration=6))
+        with self.assertRaises(ValueError): collect(self.root)
+    def test_cannot_relabel_legacy_recording_as_long_course_text(self):
+        self.change(lambda m: m['entries'][0].update(duration=6, kind='course-text'))
+        with self.assertRaises(ValueError): collect(self.root)
+    def test_course_batch_matches_frozen_first_part(self):
+        source = self.root / 'audio-sources/henri-course-part1-20261018/queue.json'
+        if not source.exists(): self.skipTest('Course recording package not present')
+        queue = json.loads(source.read_text())['entries']
+        canonical = json.loads((ROOT / 'audio/recording/course-80-missing.json').read_text())['missing'][:223]
+        self.assertEqual([(e['id'], e['text']) for e in queue], [(e['id'], e['text']) for e in canonical])
+        self.assertEqual(sum(e['kind'] == 'course-text' for e in queue), 12)
+        _, _, report = collect(self.root)
+        self.assertEqual(sum(e['path'].startswith('audio/henri-course-part1-20261018/') for e in report), 223)
+    def test_course_text_cannot_exceed_long_limit(self):
+        p = self.root / 'audio-inbox/henri-course-part1-20261018.json'
+        if not p.exists(): self.skipTest('Course recording package not present')
+        manifest = json.loads(p.read_text())
+        manifest['entries'][0]['duration'] = 60
+        p.write_text(json.dumps(manifest))
+        with self.assertRaises(ValueError): collect(self.root)
 
 if __name__ == '__main__': unittest.main()
