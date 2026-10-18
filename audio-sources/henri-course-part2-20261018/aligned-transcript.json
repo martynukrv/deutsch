@@ -1,0 +1,6678 @@
+[
+  {
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.16,
+        "word": " Ich",
+        "probability": 0.7628039121627808
+      },
+      {
+        "start": 0.16,
+        "end": 0.48,
+        "word": " trinke",
+        "probability": 0.9366604487101237
+      },
+      {
+        "start": 0.48,
+        "end": 0.76,
+        "word": " oft",
+        "probability": 0.9971705079078674
+      },
+      {
+        "start": 0.76,
+        "end": 1.42,
+        "word": " Tee.",
+        "probability": 0.9308974742889404
+      },
+      {
+        "start": 2.36,
+        "end": 2.84,
+        "word": " Manchmal",
+        "probability": 0.9793314337730408
+      },
+      {
+        "start": 2.84,
+        "end": 3.24,
+        "word": " lese",
+        "probability": 0.9840264916419983
+      },
+      {
+        "start": 3.24,
+        "end": 3.44,
+        "word": " ich",
+        "probability": 0.9989332556724548
+      },
+      {
+        "start": 3.44,
+        "end": 4.0,
+        "word": " abends.",
+        "probability": 0.9011052548885345
+      },
+      {
+        "start": 5.02,
+        "end": 5.22,
+        "word": " Wir",
+        "probability": 0.9824929237365723
+      },
+      {
+        "start": 5.22,
+        "end": 5.6,
+        "word": " spielen",
+        "probability": 0.9756302237510681
+      },
+      {
+        "start": 5.6,
+        "end": 6.0,
+        "word": " jeden",
+        "probability": 0.9969825148582458
+      },
+      {
+        "start": 6.0,
+        "end": 6.42,
+        "word": " Tag.",
+        "probability": 0.9973925352096558
+      },
+      {
+        "start": 7.52,
+        "end": 7.68,
+        "word": " Sie",
+        "probability": 0.9924329519271851
+      },
+      {
+        "start": 7.68,
+        "end": 7.94,
+        "word": " kommt",
+        "probability": 0.9982067346572876
+      },
+      {
+        "start": 7.94,
+        "end": 8.32,
+        "word": " immer",
+        "probability": 0.9991627931594849
+      },
+      {
+        "start": 8.32,
+        "end": 8.68,
+        "word": " früh.",
+        "probability": 0.9971520900726318
+      },
+      {
+        "start": 9.7,
+        "end": 9.88,
+        "word": " Ich",
+        "probability": 0.9770568013191223
+      },
+      {
+        "start": 9.88,
+        "end": 10.2,
+        "word": " rauche",
+        "probability": 0.9817372262477875
+      },
+      {
+        "start": 10.2,
+        "end": 10.6,
+        "word": " nie.",
+        "probability": 0.9946699738502502
+      },
+      {
+        "start": 11.62,
+        "end": 12.16,
+        "word": " Zuerst",
+        "probability": 0.9718841314315796
+      },
+      {
+        "start": 12.16,
+        "end": 12.48,
+        "word": " lerne",
+        "probability": 0.9921169877052307
+      },
+      {
+        "start": 12.48,
+        "end": 12.66,
+        "word": " ich",
+        "probability": 0.9988756775856018
+      },
+      {
+        "start": 12.66,
+        "end": 12.94,
+        "word": " Deutsch.",
+        "probability": 0.9882298707962036
+      },
+      {
+        "start": 13.86,
+        "end": 14.3,
+        "word": " Danach",
+        "probability": 0.9949085712432861
+      },
+      {
+        "start": 14.3,
+        "end": 14.66,
+        "word": " kaufe",
+        "probability": 0.9810830354690552
+      },
+      {
+        "start": 14.66,
+        "end": 14.84,
+        "word": " ich",
+        "probability": 0.9983590245246887
+      },
+      {
+        "start": 14.84,
+        "end": 15.1,
+        "word": " ein.",
+        "probability": 0.9877069592475891
+      },
+      {
+        "start": 16.14,
+        "end": 16.34,
+        "word": " Wann",
+        "probability": 0.9150053560733795
+      },
+      {
+        "start": 16.34,
+        "end": 16.54,
+        "word": " können",
+        "probability": 0.9983606934547424
+      },
+      {
+        "start": 16.54,
+        "end": 16.74,
+        "word": " wir",
+        "probability": 0.999086856842041
+      },
+      {
+        "start": 16.74,
+        "end": 16.9,
+        "word": " uns",
+        "probability": 0.9997733235359192
+      },
+      {
+        "start": 16.9,
+        "end": 17.18,
+        "word": " treffen?",
+        "probability": 0.9987024068832397
+      },
+      {
+        "start": 18.3,
+        "end": 18.42,
+        "word": " Wir",
+        "probability": 0.9934418201446533
+      },
+      {
+        "start": 18.42,
+        "end": 18.66,
+        "word": " können",
+        "probability": 0.9991196990013123
+      },
+      {
+        "start": 18.66,
+        "end": 18.88,
+        "word": " uns",
+        "probability": 0.9985359907150269
+      },
+      {
+        "start": 18.88,
+        "end": 19.2,
+        "word": " morgen",
+        "probability": 0.9618803858757019
+      },
+      {
+        "start": 19.2,
+        "end": 19.66,
+        "word": " treffen.",
+        "probability": 0.9983630776405334
+      },
+      {
+        "start": 20.66,
+        "end": 20.8,
+        "word": " Hast",
+        "probability": 0.9826913475990295
+      },
+      {
+        "start": 20.8,
+        "end": 20.96,
+        "word": " du",
+        "probability": 0.9749806523323059
+      },
+      {
+        "start": 20.96,
+        "end": 21.1,
+        "word": " am",
+        "probability": 0.9971478581428528
+      },
+      {
+        "start": 21.1,
+        "end": 21.48,
+        "word": " Samstag",
+        "probability": 0.9923989176750183
+      },
+      {
+        "start": 21.48,
+        "end": 21.88,
+        "word": " Zeit?",
+        "probability": 0.9111883044242859
+      },
+      {
+        "start": 22.66,
+        "end": 23.0,
+        "word": " Ja,",
+        "probability": 0.98097163438797
+      },
+      {
+        "start": 23.24,
+        "end": 23.38,
+        "word": " ich",
+        "probability": 0.9972948431968689
+      },
+      {
+        "start": 23.38,
+        "end": 23.52,
+        "word": " habe",
+        "probability": 0.9983406066894531
+      },
+      {
+        "start": 23.52,
+        "end": 23.92,
+        "word": " Zeit.",
+        "probability": 0.9987679123878479
+      },
+      {
+        "start": 24.76,
+        "end": 25.12,
+        "word": " Treffen",
+        "probability": 0.9944039881229401
+      },
+      {
+        "start": 25.12,
+        "end": 25.26,
+        "word": " wir",
+        "probability": 0.9994325041770935
+      },
+      {
+        "start": 25.26,
+        "end": 25.48,
+        "word": " uns",
+        "probability": 0.996766209602356
+      },
+      {
+        "start": 25.48,
+        "end": 25.68,
+        "word": " um",
+        "probability": 0.9970371723175049
+      },
+      {
+        "start": 25.68,
+        "end": 25.94,
+        "word": " acht",
+        "probability": 0.5745567083358765
+      },
+      {
+        "start": 25.94,
+        "end": 26.16,
+        "word": " Uhr?",
+        "probability": 0.9997072815895081
+      },
+      {
+        "start": 26.94,
+        "end": 27.2,
+        "word": " Das",
+        "probability": 0.9955116510391235
+      },
+      {
+        "start": 27.2,
+        "end": 27.44,
+        "word": " passt",
+        "probability": 0.9981878399848938
+      },
+      {
+        "start": 27.44,
+        "end": 27.74,
+        "word": " gut.",
+        "probability": 0.9995023012161255
+      },
+      {
+        "start": 28.520000000000003,
+        "end": 29.12,
+        "word": " Leider",
+        "probability": 0.7677672505378723
+      },
+      {
+        "start": 29.12,
+        "end": 29.32,
+        "word": " kann",
+        "probability": 0.992143988609314
+      },
+      {
+        "start": 29.32,
+        "end": 29.46,
+        "word": " ich",
+        "probability": 0.994941771030426
+      },
+      {
+        "start": 29.46,
+        "end": 29.62,
+        "word": " nicht",
+        "probability": 0.9991433620452881
+      },
+      {
+        "start": 29.62,
+        "end": 29.96,
+        "word": " kommen.",
+        "probability": 0.9975211024284363
+      },
+      {
+        "start": 30.72,
+        "end": 31.02,
+        "word": " Ich",
+        "probability": 0.9267266392707825
+      },
+      {
+        "start": 31.02,
+        "end": 31.28,
+        "word": " rufe",
+        "probability": 0.9909677803516388
+      },
+      {
+        "start": 31.28,
+        "end": 31.44,
+        "word": " dich",
+        "probability": 0.9147195816040039
+      },
+      {
+        "start": 31.44,
+        "end": 31.76,
+        "word": " morgen",
+        "probability": 0.9897012710571289
+      },
+      {
+        "start": 31.76,
+        "end": 32.04,
+        "word": " an.",
+        "probability": 0.9989377856254578
+      },
+      {
+        "start": 33.02,
+        "end": 33.16,
+        "word": " Ich",
+        "probability": 0.9049944281578064
+      },
+      {
+        "start": 33.16,
+        "end": 33.36,
+        "word": " habe",
+        "probability": 0.9977149963378906
+      },
+      {
+        "start": 33.36,
+        "end": 33.7,
+        "word": " Deutsch",
+        "probability": 0.9804995656013489
+      },
+      {
+        "start": 33.7,
+        "end": 34.08,
+        "word": " gelernt.",
+        "probability": 0.9987344145774841
+      },
+      {
+        "start": 35.04,
+        "end": 35.24,
+        "word": " Du",
+        "probability": 0.9542458057403564
+      },
+      {
+        "start": 35.24,
+        "end": 35.44,
+        "word": " hast",
+        "probability": 0.9979462027549744
+      },
+      {
+        "start": 35.44,
+        "end": 35.92,
+        "word": " gestern",
+        "probability": 0.9988977909088135
+      },
+      {
+        "start": 35.92,
+        "end": 36.38,
+        "word": " gespielt.",
+        "probability": 0.9979456961154938
+      },
+      {
+        "start": 37.46,
+        "end": 37.68,
+        "word": " Er",
+        "probability": 0.9916696548461914
+      },
+      {
+        "start": 37.68,
+        "end": 37.96,
+        "word": " hat",
+        "probability": 0.9978251457214355
+      },
+      {
+        "start": 37.96,
+        "end": 38.16,
+        "word": " hier",
+        "probability": 0.998759388923645
+      },
+      {
+        "start": 38.16,
+        "end": 38.82,
+        "word": " gearbeitet.",
+        "probability": 0.9931493103504181
+      },
+      {
+        "start": 39.9,
+        "end": 40.06,
+        "word": " Wir",
+        "probability": 0.9942278861999512
+      },
+      {
+        "start": 40.06,
+        "end": 40.38,
+        "word": " haben",
+        "probability": 0.9996386766433716
+      },
+      {
+        "start": 40.38,
+        "end": 40.66,
+        "word": " das",
+        "probability": 0.9896669387817383
+      },
+      {
+        "start": 40.66,
+        "end": 41.06,
+        "word": " gemacht.",
+        "probability": 0.9981156587600708
+      },
+      {
+        "start": 42.08,
+        "end": 42.3,
+        "word": " Ihr",
+        "probability": 0.9895444512367249
+      },
+      {
+        "start": 42.3,
+        "end": 42.54,
+        "word": " habt",
+        "probability": 0.9964687824249268
+      },
+      {
+        "start": 42.54,
+        "end": 42.9,
+        "word": " gefragt.",
+        "probability": 0.9789941310882568
+      },
+      {
+        "start": 44.06,
+        "end": 44.24,
+        "word": " Sie",
+        "probability": 0.9958590865135193
+      },
+      {
+        "start": 44.24,
+        "end": 44.56,
+        "word": " haben",
+        "probability": 0.9982300400733948
+      },
+      {
+        "start": 44.56,
+        "end": 45.28,
+        "word": " getanzt.",
+        "probability": 0.8055973947048187
+      },
+      {
+        "start": 46.24,
+        "end": 46.4,
+        "word": " Hast",
+        "probability": 0.9858779907226562
+      },
+      {
+        "start": 46.4,
+        "end": 46.56,
+        "word": " du",
+        "probability": 0.9796531200408936
+      },
+      {
+        "start": 46.56,
+        "end": 46.76,
+        "word": " heute",
+        "probability": 0.9949073195457458
+      },
+      {
+        "start": 46.76,
+        "end": 47.16,
+        "word": " gelernt?",
+        "probability": 0.9987764954566956
+      },
+      {
+        "start": 48.08,
+        "end": 48.3,
+        "word": " Ich",
+        "probability": 0.9936972260475159
+      },
+      {
+        "start": 48.3,
+        "end": 48.5,
+        "word": " habe",
+        "probability": 0.9990239143371582
+      },
+      {
+        "start": 48.5,
+        "end": 48.9,
+        "word": " gestern",
+        "probability": 0.9995680451393127
+      },
+      {
+        "start": 48.9,
+        "end": 49.14,
+        "word": " nicht",
+        "probability": 0.9979520440101624
+      },
+      {
+        "start": 49.14,
+        "end": 49.78,
+        "word": " gearbeitet.",
+        "probability": 0.9985998272895813
+      },
+      {
+        "start": 50.74,
+        "end": 50.94,
+        "word": " Ich",
+        "probability": 0.995444655418396
+      },
+      {
+        "start": 50.94,
+        "end": 51.18,
+        "word": " habe",
+        "probability": 0.9987264275550842
+      },
+      {
+        "start": 51.18,
+        "end": 51.54,
+        "word": " Brot",
+        "probability": 0.49028137931600213
+      },
+      {
+        "start": 51.54,
+        "end": 51.98,
+        "word": " gegessen.",
+        "probability": 0.9954794049263
+      },
+      {
+        "start": 52.6,
+        "end": 53.12,
+        "word": " Du",
+        "probability": 0.43624570965766907
+      },
+      {
+        "start": 53.12,
+        "end": 53.4,
+        "word": " hast",
+        "probability": 0.9976335763931274
+      },
+      {
+        "start": 53.4,
+        "end": 53.74,
+        "word": " Wasser",
+        "probability": 0.9938464760780334
+      },
+      {
+        "start": 53.74,
+        "end": 54.3,
+        "word": " getrunken.",
+        "probability": 0.980742335319519
+      },
+      {
+        "start": 55.26,
+        "end": 55.52,
+        "word": " Er",
+        "probability": 0.9616928100585938
+      },
+      {
+        "start": 55.52,
+        "end": 55.78,
+        "word": " hat",
+        "probability": 0.9968675971031189
+      },
+      {
+        "start": 55.78,
+        "end": 55.94,
+        "word": " das",
+        "probability": 0.9982037544250488
+      },
+      {
+        "start": 55.94,
+        "end": 56.2,
+        "word": " Buch",
+        "probability": 0.9965176582336426
+      },
+      {
+        "start": 56.2,
+        "end": 56.7,
+        "word": " gelesen.",
+        "probability": 0.9974765181541443
+      },
+      {
+        "start": 57.68,
+        "end": 57.84,
+        "word": " Wir",
+        "probability": 0.9655653834342957
+      },
+      {
+        "start": 57.84,
+        "end": 58.1,
+        "word": " haben",
+        "probability": 0.9968661665916443
+      },
+      {
+        "start": 58.1,
+        "end": 58.28,
+        "word": " den",
+        "probability": 0.9974229335784912
+      },
+      {
+        "start": 58.28,
+        "end": 58.56,
+        "word": " Hund",
+        "probability": 0.9953824877738953
+      },
+      {
+        "start": 58.56,
+        "end": 58.94,
+        "word": " gesehen.",
+        "probability": 0.997800886631012
+      },
+      {
+        "start": 60.0,
+        "end": 60.18,
+        "word": " Sie",
+        "probability": 0.9932976365089417
+      },
+      {
+        "start": 60.18,
+        "end": 60.4,
+        "word": " hat",
+        "probability": 0.9988285899162292
+      },
+      {
+        "start": 60.4,
+        "end": 60.64,
+        "word": " eine",
+        "probability": 0.9955378770828247
+      },
+      {
+        "start": 60.64,
+        "end": 61.1,
+        "word": " Nachricht",
+        "probability": 0.9963313937187195
+      },
+      {
+        "start": 61.1,
+        "end": 61.48,
+        "word": " geschrieben.",
+        "probability": 0.9956532716751099
+      },
+      {
+        "start": 62.6,
+        "end": 62.8,
+        "word": " Ihr",
+        "probability": 0.8901256918907166
+      },
+      {
+        "start": 62.8,
+        "end": 63.04,
+        "word": " habt",
+        "probability": 0.9948038458824158
+      },
+      {
+        "start": 63.04,
+        "end": 63.26,
+        "word": " das",
+        "probability": 0.9978004097938538
+      },
+      {
+        "start": 63.26,
+        "end": 63.52,
+        "word": " Buch",
+        "probability": 0.9983910322189331
+      },
+      {
+        "start": 63.52,
+        "end": 63.88,
+        "word": " genommen.",
+        "probability": 0.9931885004043579
+      },
+      {
+        "start": 64.9,
+        "end": 65.16,
+        "word": " Wir",
+        "probability": 0.9914707541465759
+      },
+      {
+        "start": 65.16,
+        "end": 65.48,
+        "word": " haben",
+        "probability": 0.9993246793746948
+      },
+      {
+        "start": 65.48,
+        "end": 65.82,
+        "word": " Deutsch",
+        "probability": 0.9731326699256897
+      },
+      {
+        "start": 65.82,
+        "end": 66.26,
+        "word": " gesprochen.",
+        "probability": 0.9929072856903076
+      },
+      {
+        "start": 67.4,
+        "end": 67.6,
+        "word": " Sie",
+        "probability": 0.9786989688873291
+      },
+      {
+        "start": 67.6,
+        "end": 67.9,
+        "word": " haben",
+        "probability": 0.9979314804077148
+      },
+      {
+        "start": 67.9,
+        "end": 68.32,
+        "word": " gesungen.",
+        "probability": 0.9956413209438324
+      },
+      {
+        "start": 69.38,
+        "end": 69.54,
+        "word": " Ich",
+        "probability": 0.9440008997917175
+      },
+      {
+        "start": 69.54,
+        "end": 69.7,
+        "word": " bin",
+        "probability": 0.9992530941963196
+      },
+      {
+        "start": 69.7,
+        "end": 69.9,
+        "word": " nach",
+        "probability": 0.9990419745445251
+      },
+      {
+        "start": 69.9,
+        "end": 70.2,
+        "word": " Hause",
+        "probability": 0.9957413673400879
+      },
+      {
+        "start": 70.2,
+        "end": 70.56,
+        "word": " gegangen.",
+        "probability": 0.9979878664016724
+      },
+      {
+        "start": 71.54,
+        "end": 71.74,
+        "word": " Du",
+        "probability": 0.9880608320236206
+      },
+      {
+        "start": 71.74,
+        "end": 71.96,
+        "word": " bist",
+        "probability": 0.9986135959625244
+      },
+      {
+        "start": 71.96,
+        "end": 72.26,
+        "word": " früh",
+        "probability": 0.996672511100769
+      },
+      {
+        "start": 72.26,
+        "end": 72.58,
+        "word": " gekommen.",
+        "probability": 0.9674078226089478
+      },
+      {
+        "start": 73.6,
+        "end": 73.84,
+        "word": " Er",
+        "probability": 0.9917829036712646
+      },
+      {
+        "start": 73.84,
+        "end": 74.04,
+        "word": " ist",
+        "probability": 0.9987755417823792
+      },
+      {
+        "start": 74.04,
+        "end": 74.24,
+        "word": " nach",
+        "probability": 0.9989644289016724
+      },
+      {
+        "start": 74.24,
+        "end": 74.56,
+        "word": " Berlin",
+        "probability": 0.9939026832580566
+      },
+      {
+        "start": 74.56,
+        "end": 75.1,
+        "word": " gefahren.",
+        "probability": 0.9952395856380463
+      },
+      {
+        "start": 76.08,
+        "end": 76.32,
+        "word": " Wir",
+        "probability": 0.9897909760475159
+      },
+      {
+        "start": 76.32,
+        "end": 76.52,
+        "word": " sind",
+        "probability": 0.9993461966514587
+      },
+      {
+        "start": 76.52,
+        "end": 76.8,
+        "word": " hier",
+        "probability": 0.9983649849891663
+      },
+      {
+        "start": 76.8,
+        "end": 77.26,
+        "word": " geblieben.",
+        "probability": 0.9556346535682678
+      },
+      {
+        "start": 78.24,
+        "end": 78.42,
+        "word": " Ihr",
+        "probability": 0.9940206408500671
+      },
+      {
+        "start": 78.42,
+        "end": 78.66,
+        "word": " seid",
+        "probability": 0.9919033646583557
+      },
+      {
+        "start": 78.66,
+        "end": 78.86,
+        "word": " in",
+        "probability": 0.9992412328720093
+      },
+      {
+        "start": 78.86,
+        "end": 78.98,
+        "word": " die",
+        "probability": 0.9991894364356995
+      },
+      {
+        "start": 78.98,
+        "end": 79.22,
+        "word": " Schule",
+        "probability": 0.9961647987365723
+      },
+      {
+        "start": 79.22,
+        "end": 79.62,
+        "word": " gegangen.",
+        "probability": 0.9979562759399414
+      },
+      {
+        "start": 80.24000000000001,
+        "end": 80.84,
+        "word": " Sie",
+        "probability": 0.6887696981430054
+      },
+      {
+        "start": 80.84,
+        "end": 81.06,
+        "word": " sind",
+        "probability": 0.9695279598236084
+      },
+      {
+        "start": 81.06,
+        "end": 81.3,
+        "word": " nach",
+        "probability": 0.9988784193992615
+      },
+      {
+        "start": 81.3,
+        "end": 81.6,
+        "word": " Hause",
+        "probability": 0.9901632070541382
+      },
+      {
+        "start": 81.6,
+        "end": 82.04,
+        "word": " gekommen.",
+        "probability": 0.9983620047569275
+      },
+      {
+        "start": 82.72,
+        "end": 83.22,
+        "word": " Bist",
+        "probability": 0.7268668860197067
+      },
+      {
+        "start": 83.22,
+        "end": 83.36,
+        "word": " du",
+        "probability": 0.9449660181999207
+      },
+      {
+        "start": 83.36,
+        "end": 83.5,
+        "word": " im",
+        "probability": 0.9889862537384033
+      },
+      {
+        "start": 83.5,
+        "end": 83.76,
+        "word": " Park",
+        "probability": 0.9865502119064331
+      },
+      {
+        "start": 83.76,
+        "end": 84.18,
+        "word": " geblieben?",
+        "probability": 0.9927304784456888
+      },
+      {
+        "start": 85.06,
+        "end": 85.4,
+        "word": " Sie",
+        "probability": 0.83751380443573
+      },
+      {
+        "start": 85.4,
+        "end": 85.64,
+        "word": " hat",
+        "probability": 0.9988933205604553
+      },
+      {
+        "start": 85.64,
+        "end": 86.06,
+        "word": " gestern",
+        "probability": 0.9997598230838776
+      },
+      {
+        "start": 86.06,
+        "end": 86.7,
+        "word": " getanzt.",
+        "probability": 0.9075874984264374
+      },
+      {
+        "start": 87.62,
+        "end": 87.78,
+        "word": " Ich",
+        "probability": 0.9436377882957458
+      },
+      {
+        "start": 87.78,
+        "end": 87.94,
+        "word": " bin",
+        "probability": 0.9986270666122437
+      },
+      {
+        "start": 87.94,
+        "end": 88.28,
+        "word": " früh",
+        "probability": 0.9972698092460632
+      },
+      {
+        "start": 88.28,
+        "end": 88.98,
+        "word": " aufgestanden.",
+        "probability": 0.9905281861623129
+      },
+      {
+        "start": 89.94,
+        "end": 90.14,
+        "word": " Du",
+        "probability": 0.9773972630500793
+      },
+      {
+        "start": 90.14,
+        "end": 90.36,
+        "word": " hast",
+        "probability": 0.9978146553039551
+      },
+      {
+        "start": 90.36,
+        "end": 90.54,
+        "word": " mich",
+        "probability": 0.9993294477462769
+      },
+      {
+        "start": 90.54,
+        "end": 91.16,
+        "word": " angerufen.",
+        "probability": 0.9910882115364075
+      },
+      {
+        "start": 92.18,
+        "end": 92.32,
+        "word": " Wir",
+        "probability": 0.9795453548431396
+      },
+      {
+        "start": 92.32,
+        "end": 92.6,
+        "word": " haben",
+        "probability": 0.9996438026428223
+      },
+      {
+        "start": 92.6,
+        "end": 92.9,
+        "word": " heute",
+        "probability": 0.9954695701599121
+      },
+      {
+        "start": 92.9,
+        "end": 93.64,
+        "word": " eingekauft.",
+        "probability": 0.9791095852851868
+      },
+      {
+        "start": 94.66,
+        "end": 94.84,
+        "word": " Er",
+        "probability": 0.9959579110145569
+      },
+      {
+        "start": 94.84,
+        "end": 95.06,
+        "word": " hat",
+        "probability": 0.9984346032142639
+      },
+      {
+        "start": 95.06,
+        "end": 95.32,
+        "word": " seine",
+        "probability": 0.997090220451355
+      },
+      {
+        "start": 95.32,
+        "end": 95.6,
+        "word": " Eltern",
+        "probability": 0.9992436170578003
+      },
+      {
+        "start": 95.6,
+        "end": 96.14,
+        "word": " besucht.",
+        "probability": 0.9974045157432556
+      },
+      {
+        "start": 97.12,
+        "end": 97.26,
+        "word": " Ich",
+        "probability": 0.9856143593788147
+      },
+      {
+        "start": 97.26,
+        "end": 97.44,
+        "word": " habe",
+        "probability": 0.9981033802032471
+      },
+      {
+        "start": 97.44,
+        "end": 97.6,
+        "word": " dich",
+        "probability": 0.9898924827575684
+      },
+      {
+        "start": 97.6,
+        "end": 98.18,
+        "word": " verstanden.",
+        "probability": 0.9992393851280212
+      },
+      {
+        "start": 99.12,
+        "end": 99.42,
+        "word": " Sie",
+        "probability": 0.9961081147193909
+      },
+      {
+        "start": 99.42,
+        "end": 99.66,
+        "word": " hat",
+        "probability": 0.9995846152305603
+      },
+      {
+        "start": 99.66,
+        "end": 99.82,
+        "word": " das",
+        "probability": 0.9992715716362
+      },
+      {
+        "start": 99.82,
+        "end": 100.06,
+        "word": " Wort",
+        "probability": 0.9994173049926758
+      },
+      {
+        "start": 100.06,
+        "end": 100.6,
+        "word": " erklärt.",
+        "probability": 0.9985637664794922
+      },
+      {
+        "start": 101.48,
+        "end": 101.72,
+        "word": " Wir",
+        "probability": 0.9864283204078674
+      },
+      {
+        "start": 101.72,
+        "end": 101.98,
+        "word": " haben",
+        "probability": 0.9997933506965637
+      },
+      {
+        "start": 101.98,
+        "end": 102.36,
+        "word": " lange",
+        "probability": 0.9977824091911316
+      },
+      {
+        "start": 102.36,
+        "end": 103.14,
+        "word": " telefoniert.",
+        "probability": 0.9981321692466736
+      },
+      {
+        "start": 103.14,
+        "end": 104.24,
+        "word": " Er",
+        "probability": 0.3730224072933197
+      },
+      {
+        "start": 104.24,
+        "end": 104.48,
+        "word": " ist",
+        "probability": 0.9479898810386658
+      },
+      {
+        "start": 104.48,
+        "end": 104.9,
+        "word": " gestern",
+        "probability": 0.999459981918335
+      },
+      {
+        "start": 104.9,
+        "end": 105.66,
+        "word": " zurückgekommen.",
+        "probability": 0.9860997001330057
+      },
+      {
+        "start": 106.2,
+        "end": 106.74,
+        "word": " Ich",
+        "probability": 0.404178649187088
+      },
+      {
+        "start": 106.74,
+        "end": 106.94,
+        "word": " habe",
+        "probability": 0.9888561367988586
+      },
+      {
+        "start": 106.94,
+        "end": 107.16,
+        "word": " mich",
+        "probability": 0.9890347719192505
+      },
+      {
+        "start": 107.16,
+        "end": 107.72,
+        "word": " gefreut.",
+        "probability": 0.9918062090873718
+      },
+      {
+        "start": 108.66,
+        "end": 108.8,
+        "word": " Du",
+        "probability": 0.29271891713142395
+      },
+      {
+        "start": 108.8,
+        "end": 109.06,
+        "word": " hast",
+        "probability": 0.9972506165504456
+      },
+      {
+        "start": 109.06,
+        "end": 109.24,
+        "word": " dich",
+        "probability": 0.9824192523956299
+      },
+      {
+        "start": 109.24,
+        "end": 109.78,
+        "word": " gewaschen.",
+        "probability": 0.992529054482778
+      },
+      {
+        "start": 110.68,
+        "end": 110.88,
+        "word": " Er",
+        "probability": 0.9508918523788452
+      },
+      {
+        "start": 110.88,
+        "end": 111.12,
+        "word": " hat",
+        "probability": 0.998854398727417
+      },
+      {
+        "start": 111.12,
+        "end": 111.28,
+        "word": " sich",
+        "probability": 0.9985311031341553
+      },
+      {
+        "start": 111.28,
+        "end": 111.84,
+        "word": " gefreut.",
+        "probability": 0.9955326517422994
+      },
+      {
+        "start": 112.82,
+        "end": 112.92,
+        "word": " Wir",
+        "probability": 0.9847679734230042
+      },
+      {
+        "start": 112.92,
+        "end": 113.24,
+        "word": " haben",
+        "probability": 0.9993122816085815
+      },
+      {
+        "start": 113.24,
+        "end": 113.46,
+        "word": " uns",
+        "probability": 0.9997268319129944
+      },
+      {
+        "start": 113.46,
+        "end": 113.92,
+        "word": " getroffen.",
+        "probability": 0.9979315400123596
+      },
+      {
+        "start": 115.0,
+        "end": 115.14,
+        "word": " Ihr",
+        "probability": 0.9839327335357666
+      },
+      {
+        "start": 115.14,
+        "end": 115.38,
+        "word": " habt",
+        "probability": 0.9941732287406921
+      },
+      {
+        "start": 115.38,
+        "end": 115.56,
+        "word": " euch",
+        "probability": 0.9707353115081787
+      },
+      {
+        "start": 115.56,
+        "end": 116.18,
+        "word": " gefreut.",
+        "probability": 0.9985198775927225
+      },
+      {
+        "start": 117.1,
+        "end": 117.32,
+        "word": " Sie",
+        "probability": 0.9946428537368774
+      },
+      {
+        "start": 117.32,
+        "end": 117.64,
+        "word": " haben",
+        "probability": 0.9983168840408325
+      },
+      {
+        "start": 117.64,
+        "end": 117.86,
+        "word": " sich",
+        "probability": 0.9989748001098633
+      },
+      {
+        "start": 117.86,
+        "end": 118.4,
+        "word": " gewaschen.",
+        "probability": 0.9974817236264547
+      },
+      {
+        "start": 119.28,
+        "end": 119.48,
+        "word": " Ich",
+        "probability": 0.9961622953414917
+      },
+      {
+        "start": 119.48,
+        "end": 119.68,
+        "word": " habe",
+        "probability": 0.9983323216438293
+      },
+      {
+        "start": 119.68,
+        "end": 119.9,
+        "word": " mir",
+        "probability": 0.9988975524902344
+      },
+      {
+        "start": 119.9,
+        "end": 120.04,
+        "word": " die",
+        "probability": 0.9987941980361938
+      },
+      {
+        "start": 120.04,
+        "end": 120.3,
+        "word": " Hände",
+        "probability": 0.9982317388057709
+      },
+      {
+        "start": 120.3,
+        "end": 120.8,
+        "word": " gewaschen.",
+        "probability": 0.9976759354273478
+      },
+      {
+        "start": 121.64,
+        "end": 121.96,
+        "word": " Sie",
+        "probability": 0.9927983283996582
+      },
+      {
+        "start": 121.96,
+        "end": 122.16,
+        "word": " hat",
+        "probability": 0.998005211353302
+      },
+      {
+        "start": 122.16,
+        "end": 122.34,
+        "word": " sich",
+        "probability": 0.9995775818824768
+      },
+      {
+        "start": 122.34,
+        "end": 122.54,
+        "word": " mit",
+        "probability": 0.9995668530464172
+      },
+      {
+        "start": 122.54,
+        "end": 122.7,
+        "word": " ihrer",
+        "probability": 0.9431378841400146
+      },
+      {
+        "start": 122.7,
+        "end": 123.22,
+        "word": " Freundin",
+        "probability": 0.9997150003910065
+      },
+      {
+        "start": 123.22,
+        "end": 123.66,
+        "word": " getroffen.",
+        "probability": 0.9982479214668274
+      },
+      {
+        "start": 124.74,
+        "end": 124.86,
+        "word": " Ich",
+        "probability": 0.9916067123413086
+      },
+      {
+        "start": 124.86,
+        "end": 125.04,
+        "word": " war",
+        "probability": 0.9994298815727234
+      },
+      {
+        "start": 125.04,
+        "end": 125.44,
+        "word": " gestern",
+        "probability": 0.9997618496417999
+      },
+      {
+        "start": 125.44,
+        "end": 125.6,
+        "word": " zu",
+        "probability": 0.9854034185409546
+      },
+      {
+        "start": 125.6,
+        "end": 125.92,
+        "word": " Hause.",
+        "probability": 0.8233619928359985
+      },
+      {
+        "start": 126.94,
+        "end": 127.12,
+        "word": " Du",
+        "probability": 0.9634445905685425
+      },
+      {
+        "start": 127.12,
+        "end": 127.6,
+        "word": " warst",
+        "probability": 0.9925422668457031
+      },
+      {
+        "start": 127.6,
+        "end": 128.22,
+        "word": " müde.",
+        "probability": 0.9988401234149933
+      },
+      {
+        "start": 128.8,
+        "end": 128.98,
+        "word": " Er",
+        "probability": 0.9946041703224182
+      },
+      {
+        "start": 128.98,
+        "end": 129.26,
+        "word": " war",
+        "probability": 0.9992331266403198
+      },
+      {
+        "start": 129.26,
+        "end": 130.36,
+        "word": " krank.",
+        "probability": 0.997151106595993
+      },
+      {
+        "start": 130.6,
+        "end": 130.8,
+        "word": " Wir",
+        "probability": 0.995996356010437
+      },
+      {
+        "start": 130.8,
+        "end": 131.14,
+        "word": " waren",
+        "probability": 0.9994751811027527
+      },
+      {
+        "start": 131.14,
+        "end": 131.36,
+        "word": " in",
+        "probability": 0.9984394907951355
+      },
+      {
+        "start": 131.36,
+        "end": 131.8,
+        "word": " Berlin.",
+        "probability": 0.9987659454345703
+      },
+      {
+        "start": 132.74,
+        "end": 132.94,
+        "word": " Ihr",
+        "probability": 0.9928436875343323
+      },
+      {
+        "start": 132.94,
+        "end": 133.18,
+        "word": " wart",
+        "probability": 0.9771719574928284
+      },
+      {
+        "start": 133.18,
+        "end": 133.68,
+        "word": " hier.",
+        "probability": 0.9764261841773987
+      },
+      {
+        "start": 134.34,
+        "end": 134.62,
+        "word": " Ich",
+        "probability": 0.9966261386871338
+      },
+      {
+        "start": 134.62,
+        "end": 134.92,
+        "word": " hatte",
+        "probability": 0.9995768666267395
+      },
+      {
+        "start": 134.92,
+        "end": 135.34,
+        "word": " Zeit.",
+        "probability": 0.9990930557250977
+      },
+      {
+        "start": 136.16,
+        "end": 136.36,
+        "word": " Du",
+        "probability": 0.9972597360610962
+      },
+      {
+        "start": 136.36,
+        "end": 136.78,
+        "word": " hattest",
+        "probability": 0.9992085297902426
+      },
+      {
+        "start": 136.78,
+        "end": 137.12,
+        "word": " Hunger.",
+        "probability": 0.9950679540634155
+      },
+      {
+        "start": 138.06,
+        "end": 138.26,
+        "word": " Sie",
+        "probability": 0.9988322854042053
+      },
+      {
+        "start": 138.26,
+        "end": 138.6,
+        "word": " hatten",
+        "probability": 0.9989101886749268
+      },
+      {
+        "start": 138.6,
+        "end": 139.34,
+        "word": " Durst.",
+        "probability": 0.9969799518585205
+      },
+      {
+        "start": 139.94,
+        "end": 140.16,
+        "word": " Hier",
+        "probability": 0.9920143485069275
+      },
+      {
+        "start": 140.16,
+        "end": 140.42,
+        "word": " spricht",
+        "probability": 0.9937505125999451
+      },
+      {
+        "start": 140.42,
+        "end": 140.7,
+        "word": " man",
+        "probability": 0.998515784740448
+      },
+      {
+        "start": 140.7,
+        "end": 141.08,
+        "word": " Deutsch.",
+        "probability": 0.9749153256416321
+      },
+      {
+        "start": 142.0,
+        "end": 142.16,
+        "word": " Man",
+        "probability": 0.9927369952201843
+      },
+      {
+        "start": 142.16,
+        "end": 142.38,
+        "word": " kann",
+        "probability": 0.9991443157196045
+      },
+      {
+        "start": 142.38,
+        "end": 142.6,
+        "word": " hier",
+        "probability": 0.9992067217826843
+      },
+      {
+        "start": 142.6,
+        "end": 142.98,
+        "word": " lernen.",
+        "probability": 0.9925200939178467
+      },
+      {
+        "start": 143.96,
+        "end": 144.16,
+        "word": " Man",
+        "probability": 0.9964183568954468
+      },
+      {
+        "start": 144.16,
+        "end": 144.42,
+        "word": " muss",
+        "probability": 0.9993888139724731
+      },
+      {
+        "start": 144.42,
+        "end": 144.66,
+        "word": " hier",
+        "probability": 0.9981751441955566
+      },
+      {
+        "start": 144.66,
+        "end": 145.04,
+        "word": " warten.",
+        "probability": 0.9975659847259521
+      },
+      {
+        "start": 146.04,
+        "end": 146.2,
+        "word": " Man",
+        "probability": 0.997111439704895
+      },
+      {
+        "start": 146.2,
+        "end": 146.4,
+        "word": " darf",
+        "probability": 0.9999005794525146
+      },
+      {
+        "start": 146.4,
+        "end": 146.62,
+        "word": " hier",
+        "probability": 0.9967087507247925
+      },
+      {
+        "start": 146.62,
+        "end": 146.88,
+        "word": " nicht",
+        "probability": 0.9974608421325684
+      },
+      {
+        "start": 146.88,
+        "end": 147.32,
+        "word": " rauchen.",
+        "probability": 0.9895414113998413
+      },
+      {
+        "start": 148.22,
+        "end": 148.46,
+        "word": " Kann",
+        "probability": 0.9745470881462097
+      },
+      {
+        "start": 148.46,
+        "end": 148.6,
+        "word": " man",
+        "probability": 0.9985505938529968
+      },
+      {
+        "start": 148.6,
+        "end": 148.78,
+        "word": " mit",
+        "probability": 0.9972963929176331
+      },
+      {
+        "start": 148.78,
+        "end": 149.12,
+        "word": " Karte",
+        "probability": 0.9598411619663239
+      },
+      {
+        "start": 149.12,
+        "end": 149.58,
+        "word": " bezahlen?",
+        "probability": 0.9986704587936401
+      },
+      {
+        "start": 150.48,
+        "end": 150.74,
+        "word": " Man",
+        "probability": 0.996364414691925
+      },
+      {
+        "start": 150.74,
+        "end": 151.06,
+        "word": " lernt",
+        "probability": 0.9993957877159119
+      },
+      {
+        "start": 151.06,
+        "end": 151.36,
+        "word": " jeden",
+        "probability": 0.998367965221405
+      },
+      {
+        "start": 151.36,
+        "end": 151.8,
+        "word": " Tag.",
+        "probability": 0.9978735446929932
+      },
+      {
+        "start": 152.74,
+        "end": 152.98,
+        "word": " Hier",
+        "probability": 0.9954114556312561
+      },
+      {
+        "start": 152.98,
+        "end": 153.18,
+        "word": " gibt",
+        "probability": 0.9975199103355408
+      },
+      {
+        "start": 153.18,
+        "end": 153.38,
+        "word": " es",
+        "probability": 0.9989619255065918
+      },
+      {
+        "start": 153.38,
+        "end": 153.66,
+        "word": " Wasser.",
+        "probability": 0.9987388253211975
+      },
+      {
+        "start": 154.52,
+        "end": 154.8,
+        "word": " Der",
+        "probability": 0.9977017045021057
+      },
+      {
+        "start": 154.8,
+        "end": 155.0,
+        "word": " Mann",
+        "probability": 0.9955520033836365
+      },
+      {
+        "start": 155.0,
+        "end": 155.38,
+        "word": " lernt",
+        "probability": 0.9995114207267761
+      },
+      {
+        "start": 155.38,
+        "end": 155.78,
+        "word": " Deutsch.",
+        "probability": 0.044329218566417694
+      },
+      {
+        "start": 156.6,
+        "end": 156.78,
+        "word": " Ich",
+        "probability": 0.7827205061912537
+      },
+      {
+        "start": 156.78,
+        "end": 156.98,
+        "word": " habe",
+        "probability": 0.9949226975440979
+      },
+      {
+        "start": 156.98,
+        "end": 157.34,
+        "word": " Zeit,",
+        "probability": 0.9968889355659485
+      },
+      {
+        "start": 157.64,
+        "end": 157.88,
+        "word": " aber",
+        "probability": 0.9988412261009216
+      },
+      {
+        "start": 157.88,
+        "end": 158.18,
+        "word": " ich",
+        "probability": 0.9915679097175598
+      },
+      {
+        "start": 158.18,
+        "end": 158.32,
+        "word": " bin",
+        "probability": 0.9991298317909241
+      },
+      {
+        "start": 158.32,
+        "end": 158.7,
+        "word": " müde.",
+        "probability": 0.9976884126663208
+      },
+      {
+        "start": 159.64,
+        "end": 160.02,
+        "word": " Trinkst",
+        "probability": 0.963594933350881
+      },
+      {
+        "start": 160.02,
+        "end": 160.16,
+        "word": " du",
+        "probability": 0.9855816960334778
+      },
+      {
+        "start": 160.16,
+        "end": 160.56,
+        "word": " Tee",
+        "probability": 0.9267291724681854
+      },
+      {
+        "start": 160.56,
+        "end": 160.76,
+        "word": " oder",
+        "probability": 0.983894407749176
+      },
+      {
+        "start": 160.76,
+        "end": 161.26,
+        "word": " Kaffee?",
+        "probability": 0.9843453764915466
+      },
+      {
+        "start": 162.02,
+        "end": 162.32,
+        "word": " Ich",
+        "probability": 0.9542524218559265
+      },
+      {
+        "start": 162.32,
+        "end": 162.64,
+        "word": " bleibe",
+        "probability": 0.9924498498439789
+      },
+      {
+        "start": 162.64,
+        "end": 162.98,
+        "word": " hier,",
+        "probability": 0.9981310963630676
+      },
+      {
+        "start": 163.14,
+        "end": 163.34,
+        "word": " denn",
+        "probability": 0.9935192465782166
+      },
+      {
+        "start": 163.34,
+        "end": 163.5,
+        "word": " ich",
+        "probability": 0.9987364411354065
+      },
+      {
+        "start": 163.5,
+        "end": 163.66,
+        "word": " bin",
+        "probability": 0.9986578226089478
+      },
+      {
+        "start": 163.66,
+        "end": 164.04,
+        "word": " müde.",
+        "probability": 0.9987186193466187
+      },
+      {
+        "start": 164.54,
+        "end": 164.64,
+        "word": " Wir",
+        "probability": 0.9707042574882507
+      },
+      {
+        "start": 164.64,
+        "end": 164.9,
+        "word": " können",
+        "probability": 0.9985740184783936
+      },
+      {
+        "start": 164.9,
+        "end": 165.24,
+        "word": " kommen,",
+        "probability": 0.9956444501876831
+      },
+      {
+        "start": 165.62,
+        "end": 165.9,
+        "word": " aber",
+        "probability": 0.9987244009971619
+      },
+      {
+        "start": 165.9,
+        "end": 166.16,
+        "word": " wir",
+        "probability": 0.9938929080963135
+      },
+      {
+        "start": 166.16,
+        "end": 166.36,
+        "word": " haben",
+        "probability": 0.9995878338813782
+      },
+      {
+        "start": 166.36,
+        "end": 166.62,
+        "word": " wenig",
+        "probability": 0.994666576385498
+      },
+      {
+        "start": 166.62,
+        "end": 167.04,
+        "word": " Zeit.",
+        "probability": 0.9993166923522949
+      },
+      {
+        "start": 167.74,
+        "end": 167.9,
+        "word": " Ich",
+        "probability": 0.9729998111724854
+      },
+      {
+        "start": 167.9,
+        "end": 168.28,
+        "word": " koche",
+        "probability": 0.9852883517742157
+      },
+      {
+        "start": 168.28,
+        "end": 168.7,
+        "word": " und",
+        "probability": 0.9711876511573792
+      },
+      {
+        "start": 168.7,
+        "end": 168.98,
+        "word": " er",
+        "probability": 0.9855678081512451
+      },
+      {
+        "start": 168.98,
+        "end": 169.28,
+        "word": " kauft",
+        "probability": 0.9385083615779877
+      },
+      {
+        "start": 169.28,
+        "end": 169.54,
+        "word": " ein.",
+        "probability": 0.976065456867218
+      },
+      {
+        "start": 170.18,
+        "end": 170.3,
+        "word": " Wir",
+        "probability": 0.9917654395103455
+      },
+      {
+        "start": 170.3,
+        "end": 170.48,
+        "word": " gehen",
+        "probability": 0.9983981251716614
+      },
+      {
+        "start": 170.48,
+        "end": 170.66,
+        "word": " nach",
+        "probability": 0.9981459379196167
+      },
+      {
+        "start": 170.66,
+        "end": 171.04,
+        "word": " Hause,",
+        "probability": 0.9949672818183899
+      },
+      {
+        "start": 171.26,
+        "end": 171.46,
+        "word": " denn",
+        "probability": 0.9983392953872681
+      },
+      {
+        "start": 171.46,
+        "end": 171.6,
+        "word": " es",
+        "probability": 0.9986615180969238
+      },
+      {
+        "start": 171.6,
+        "end": 171.76,
+        "word": " ist",
+        "probability": 0.9963696002960205
+      },
+      {
+        "start": 171.76,
+        "end": 172.14,
+        "word": " spät.",
+        "probability": 0.9926488101482391
+      },
+      {
+        "start": 172.76,
+        "end": 172.96,
+        "word": " Ich",
+        "probability": 0.9892459511756897
+      },
+      {
+        "start": 172.96,
+        "end": 173.24,
+        "word": " weiß,",
+        "probability": 0.9909361004829407
+      },
+      {
+        "start": 173.38,
+        "end": 173.5,
+        "word": " dass",
+        "probability": 0.9951516389846802
+      },
+      {
+        "start": 173.5,
+        "end": 173.68,
+        "word": " du",
+        "probability": 0.9927659034729004
+      },
+      {
+        "start": 173.68,
+        "end": 173.86,
+        "word": " hier",
+        "probability": 0.9993990659713745
+      },
+      {
+        "start": 173.86,
+        "end": 174.08,
+        "word": " bist.",
+        "probability": 0.9992905855178833
+      },
+      {
+        "start": 174.7,
+        "end": 174.86,
+        "word": " Er",
+        "probability": 0.9971868395805359
+      },
+      {
+        "start": 174.86,
+        "end": 175.18,
+        "word": " sagt,",
+        "probability": 0.9954132437705994
+      },
+      {
+        "start": 175.34,
+        "end": 175.46,
+        "word": " dass",
+        "probability": 0.9894961714744568
+      },
+      {
+        "start": 175.46,
+        "end": 175.6,
+        "word": " er",
+        "probability": 0.9977565407752991
+      },
+      {
+        "start": 175.6,
+        "end": 175.86,
+        "word": " Zeit",
+        "probability": 0.9983103275299072
+      },
+      {
+        "start": 175.86,
+        "end": 176.08,
+        "word": " hat.",
+        "probability": 0.999566376209259
+      },
+      {
+        "start": 176.6,
+        "end": 176.76,
+        "word": " Wir",
+        "probability": 0.9963929057121277
+      },
+      {
+        "start": 176.76,
+        "end": 177.1,
+        "word": " glauben,",
+        "probability": 0.9986925721168518
+      },
+      {
+        "start": 177.36,
+        "end": 177.44,
+        "word": " dass",
+        "probability": 0.9970632195472717
+      },
+      {
+        "start": 177.44,
+        "end": 177.6,
+        "word": " sie",
+        "probability": 0.9956283569335938
+      },
+      {
+        "start": 177.6,
+        "end": 177.92,
+        "word": " Deutsch",
+        "probability": 0.9828358292579651
+      },
+      {
+        "start": 177.92,
+        "end": 178.3,
+        "word": " lernt.",
+        "probability": 0.9974832534790039
+      },
+      {
+        "start": 178.84,
+        "end": 179.0,
+        "word": " Ich",
+        "probability": 0.9945684671401978
+      },
+      {
+        "start": 179.0,
+        "end": 179.2,
+        "word": " denke,",
+        "probability": 0.9991592168807983
+      },
+      {
+        "start": 179.56,
+        "end": 179.68,
+        "word": " dass",
+        "probability": 0.9710337519645691
+      },
+      {
+        "start": 179.68,
+        "end": 179.88,
+        "word": " das",
+        "probability": 0.9945873022079468
+      },
+      {
+        "start": 179.88,
+        "end": 180.1,
+        "word": " gut",
+        "probability": 0.997858464717865
+      },
+      {
+        "start": 180.1,
+        "end": 180.38,
+        "word": " ist.",
+        "probability": 0.9987865090370178
+      },
+      {
+        "start": 180.92,
+        "end": 181.08,
+        "word": " Sie",
+        "probability": 0.993036687374115
+      },
+      {
+        "start": 181.08,
+        "end": 181.34,
+        "word": " sagt,",
+        "probability": 0.0010397018631920218
+      },
+      {
+        "start": 181.6,
+        "end": 181.72,
+        "word": " dass",
+        "probability": 0.9856590628623962
+      },
+      {
+        "start": 181.72,
+        "end": 181.84,
+        "word": " sie",
+        "probability": 0.8497822880744934
+      },
+      {
+        "start": 181.84,
+        "end": 182.08,
+        "word": " kommen",
+        "probability": 0.9974780678749084
+      },
+      {
+        "start": 182.08,
+        "end": 182.38,
+        "word": " kann.",
+        "probability": 0.9983077049255371
+      },
+      {
+        "start": 182.88,
+        "end": 183.04,
+        "word": " Ich",
+        "probability": 0.7020705342292786
+      },
+      {
+        "start": 183.04,
+        "end": 183.32,
+        "word": " weiß,",
+        "probability": 0.9640664458274841
+      },
+      {
+        "start": 183.5,
+        "end": 183.58,
+        "word": " dass",
+        "probability": 0.9926016926765442
+      },
+      {
+        "start": 183.58,
+        "end": 183.74,
+        "word": " du",
+        "probability": 0.9814950823783875
+      },
+      {
+        "start": 183.74,
+        "end": 184.1,
+        "word": " gestern",
+        "probability": 0.9994382858276367
+      },
+      {
+        "start": 184.1,
+        "end": 184.6,
+        "word": " gearbeitet",
+        "probability": 0.9854526817798615
+      },
+      {
+        "start": 184.6,
+        "end": 184.96,
+        "word": " hast.",
+        "probability": 0.9980238676071167
+      },
+      {
+        "start": 185.48,
+        "end": 185.64,
+        "word": " Er",
+        "probability": 0.979451596736908
+      },
+      {
+        "start": 185.64,
+        "end": 185.94,
+        "word": " sagt,",
+        "probability": 0.9927045702934265
+      },
+      {
+        "start": 186.18,
+        "end": 186.26,
+        "word": " dass",
+        "probability": 0.9893366098403931
+      },
+      {
+        "start": 186.26,
+        "end": 186.44,
+        "word": " wir",
+        "probability": 0.9991056323051453
+      },
+      {
+        "start": 186.44,
+        "end": 186.74,
+        "word": " früh",
+        "probability": 0.9966685175895691
+      },
+      {
+        "start": 186.74,
+        "end": 187.34,
+        "word": " aufstehen",
+        "probability": 0.9951119621594747
+      },
+      {
+        "start": 187.34,
+        "end": 187.58,
+        "word": " müssen.",
+        "probability": 0.995827853679657
+      },
+      {
+        "start": 188.14,
+        "end": 188.28,
+        "word": " Wir",
+        "probability": 0.9841920137405396
+      },
+      {
+        "start": 188.28,
+        "end": 188.6,
+        "word": " wissen,",
+        "probability": 0.9983708262443542
+      },
+      {
+        "start": 188.76,
+        "end": 188.88,
+        "word": " dass",
+        "probability": 0.9929225444793701
+      },
+      {
+        "start": 188.88,
+        "end": 189.06,
+        "word": " er",
+        "probability": 0.9979051351547241
+      },
+      {
+        "start": 189.06,
+        "end": 189.22,
+        "word": " nach",
+        "probability": 0.9965092539787292
+      },
+      {
+        "start": 189.22,
+        "end": 189.44,
+        "word": " Hause",
+        "probability": 0.9950620532035828
+      },
+      {
+        "start": 189.44,
+        "end": 189.7,
+        "word": " gegangen",
+        "probability": 0.9966962337493896
+      },
+      {
+        "start": 189.7,
+        "end": 190.2,
+        "word": " ist.",
+        "probability": 0.9982241988182068
+      },
+      {
+        "start": 190.74,
+        "end": 190.84,
+        "word": " Ich",
+        "probability": 0.9105141758918762
+      },
+      {
+        "start": 190.84,
+        "end": 191.14,
+        "word": " bleibe",
+        "probability": 0.9896272718906403
+      },
+      {
+        "start": 191.14,
+        "end": 191.32,
+        "word": " zu",
+        "probability": 0.9807471632957458
+      },
+      {
+        "start": 191.32,
+        "end": 191.66,
+        "word": " Hause,",
+        "probability": 0.951403796672821
+      },
+      {
+        "start": 191.92,
+        "end": 192.04,
+        "word": " weil",
+        "probability": 0.99888676404953
+      },
+      {
+        "start": 192.04,
+        "end": 192.18,
+        "word": " ich",
+        "probability": 0.9988357424736023
+      },
+      {
+        "start": 192.18,
+        "end": 192.5,
+        "word": " krank",
+        "probability": 0.9986726641654968
+      },
+      {
+        "start": 192.5,
+        "end": 192.78,
+        "word": " bin.",
+        "probability": 0.9982327222824097
+      },
+      {
+        "start": 193.3,
+        "end": 193.46,
+        "word": " Sie",
+        "probability": 0.9920909404754639
+      },
+      {
+        "start": 193.46,
+        "end": 193.72,
+        "word": " lernt",
+        "probability": 0.998194694519043
+      },
+      {
+        "start": 193.72,
+        "end": 194.06,
+        "word": " Deutsch,",
+        "probability": 0.9538900256156921
+      },
+      {
+        "start": 194.24,
+        "end": 194.44,
+        "word": " weil",
+        "probability": 0.9980448484420776
+      },
+      {
+        "start": 194.44,
+        "end": 194.56,
+        "word": " sie",
+        "probability": 0.9966302514076233
+      },
+      {
+        "start": 194.56,
+        "end": 194.7,
+        "word": " in",
+        "probability": 0.9973168969154358
+      },
+      {
+        "start": 194.7,
+        "end": 194.94,
+        "word": " Berlin",
+        "probability": 0.9961026906967163
+      },
+      {
+        "start": 194.94,
+        "end": 195.4,
+        "word": " wohnt.",
+        "probability": 0.9988176822662354
+      },
+      {
+        "start": 195.9,
+        "end": 196.04,
+        "word": " Wir",
+        "probability": 0.9882209897041321
+      },
+      {
+        "start": 196.04,
+        "end": 196.38,
+        "word": " warten,",
+        "probability": 0.997425377368927
+      },
+      {
+        "start": 196.72,
+        "end": 196.82,
+        "word": " weil",
+        "probability": 0.9982712268829346
+      },
+      {
+        "start": 196.82,
+        "end": 196.94,
+        "word": " er",
+        "probability": 0.9986275434494019
+      },
+      {
+        "start": 196.94,
+        "end": 197.08,
+        "word": " noch",
+        "probability": 0.9956436157226562
+      },
+      {
+        "start": 197.08,
+        "end": 197.24,
+        "word": " nicht",
+        "probability": 0.9983749389648438
+      },
+      {
+        "start": 197.24,
+        "end": 197.52,
+        "word": " da",
+        "probability": 0.9975165128707886
+      },
+      {
+        "start": 197.52,
+        "end": 197.82,
+        "word": " ist.",
+        "probability": 0.998390793800354
+      },
+      {
+        "start": 198.3,
+        "end": 198.44,
+        "word": " Ich",
+        "probability": 0.9411436319351196
+      },
+      {
+        "start": 198.44,
+        "end": 198.58,
+        "word": " bin",
+        "probability": 0.998583197593689
+      },
+      {
+        "start": 198.58,
+        "end": 198.98,
+        "word": " müde,",
+        "probability": 0.9981775283813477
+      },
+      {
+        "start": 199.36,
+        "end": 199.7,
+        "word": " deshalb",
+        "probability": 0.9885334372520447
+      },
+      {
+        "start": 199.7,
+        "end": 199.98,
+        "word": " gehe",
+        "probability": 0.9748736023902893
+      },
+      {
+        "start": 199.98,
+        "end": 200.16,
+        "word": " ich",
+        "probability": 0.9991300702095032
+      },
+      {
+        "start": 200.16,
+        "end": 200.32,
+        "word": " nach",
+        "probability": 0.9971609115600586
+      },
+      {
+        "start": 200.32,
+        "end": 200.66,
+        "word": " Hause.",
+        "probability": 0.9979357719421387
+      },
+      {
+        "start": 201.18,
+        "end": 201.32,
+        "word": " Es",
+        "probability": 0.988548755645752
+      },
+      {
+        "start": 201.32,
+        "end": 201.72,
+        "word": " regnet,",
+        "probability": 0.9964620471000671
+      },
+      {
+        "start": 202.02,
+        "end": 202.36,
+        "word": " darum",
+        "probability": 0.9984613656997681
+      },
+      {
+        "start": 202.36,
+        "end": 202.6,
+        "word": " bleiben",
+        "probability": 0.9985974431037903
+      },
+      {
+        "start": 202.6,
+        "end": 202.8,
+        "word": " wir",
+        "probability": 0.9989964365959167
+      },
+      {
+        "start": 202.8,
+        "end": 203.08,
+        "word": " hier.",
+        "probability": 0.9923531413078308
+      },
+      {
+        "start": 203.54,
+        "end": 203.7,
+        "word": " Weil",
+        "probability": 0.9587709307670593
+      },
+      {
+        "start": 203.7,
+        "end": 203.82,
+        "word": " ich",
+        "probability": 0.9967137575149536
+      },
+      {
+        "start": 203.82,
+        "end": 204.08,
+        "word": " Zeit",
+        "probability": 0.9976121187210083
+      },
+      {
+        "start": 204.08,
+        "end": 204.48,
+        "word": " habe,",
+        "probability": 0.9976814985275269
+      },
+      {
+        "start": 204.74,
+        "end": 204.88,
+        "word": " komme",
+        "probability": 0.9873656034469604
+      },
+      {
+        "start": 204.88,
+        "end": 205.04,
+        "word": " ich",
+        "probability": 0.9993082284927368
+      },
+      {
+        "start": 205.04,
+        "end": 205.24,
+        "word": " mit.",
+        "probability": 0.9994416832923889
+      },
+      {
+        "start": 205.74,
+        "end": 205.88,
+        "word": " Er",
+        "probability": 0.9941095113754272
+      },
+      {
+        "start": 205.88,
+        "end": 206.06,
+        "word": " ist",
+        "probability": 0.9923317432403564
+      },
+      {
+        "start": 206.06,
+        "end": 206.6,
+        "word": " froh,",
+        "probability": 0.9969246089458466
+      },
+      {
+        "start": 206.62,
+        "end": 206.74,
+        "word": " weil",
+        "probability": 0.997545063495636
+      },
+      {
+        "start": 206.74,
+        "end": 206.86,
+        "word": " er",
+        "probability": 0.9993643164634705
+      },
+      {
+        "start": 206.86,
+        "end": 207.18,
+        "word": " alles",
+        "probability": 0.9887450337409973
+      },
+      {
+        "start": 207.18,
+        "end": 207.68,
+        "word": " verstanden",
+        "probability": 0.9907680749893188
+      },
+      {
+        "start": 207.68,
+        "end": 208.04,
+        "word": " hat.",
+        "probability": 0.9995648264884949
+      },
+      {
+        "start": 208.46,
+        "end": 208.58,
+        "word": " Wenn",
+        "probability": 0.9879576563835144
+      },
+      {
+        "start": 208.58,
+        "end": 208.7,
+        "word": " ich",
+        "probability": 0.99872225522995
+      },
+      {
+        "start": 208.7,
+        "end": 208.96,
+        "word": " Zeit",
+        "probability": 0.9980775117874146
+      },
+      {
+        "start": 208.96,
+        "end": 209.3,
+        "word": " habe,",
+        "probability": 0.9960542917251587
+      },
+      {
+        "start": 209.6,
+        "end": 209.74,
+        "word": " komme",
+        "probability": 0.9931839108467102
+      },
+      {
+        "start": 209.74,
+        "end": 210.04,
+        "word": " ich.",
+        "probability": 0.9993230104446411
+      },
+      {
+        "start": 210.42,
+        "end": 210.56,
+        "word": " Wir",
+        "probability": 0.9880661964416504
+      },
+      {
+        "start": 210.56,
+        "end": 210.78,
+        "word": " Sie",
+        "probability": 0.27873295545578003
+      },
+      {
+        "start": 210.78,
+        "end": 210.78,
+        "word": " bleiben",
+        "probability": 0.4536679983139038
+      },
+      {
+        "start": 210.78,
+        "end": 211.06,
+        "word": " zu",
+        "probability": 0.9608451724052429
+      },
+      {
+        "start": 211.06,
+        "end": 211.42,
+        "word": " Hause,",
+        "probability": 0.9303528070449829
+      },
+      {
+        "start": 211.5,
+        "end": 211.64,
+        "word": " wenn",
+        "probability": 0.9974609613418579
+      },
+      {
+        "start": 211.64,
+        "end": 211.8,
+        "word": " es",
+        "probability": 0.9948765635490417
+      },
+      {
+        "start": 211.8,
+        "end": 212.2,
+        "word": " regnet.",
+        "probability": 0.9946978986263275
+      },
+      {
+        "start": 212.68,
+        "end": 212.82,
+        "word": " Wenn",
+        "probability": 0.9284921288490295
+      },
+      {
+        "start": 212.82,
+        "end": 212.94,
+        "word": " du",
+        "probability": 0.9541975259780884
+      },
+      {
+        "start": 212.94,
+        "end": 213.44,
+        "word": " möchtest,",
+        "probability": 0.9991227388381958
+      },
+      {
+        "start": 213.58,
+        "end": 213.8,
+        "word": " helfe",
+        "probability": 0.995871514081955
+      },
+      {
+        "start": 213.8,
+        "end": 214.0,
+        "word": " ich",
+        "probability": 0.9948000907897949
+      },
+      {
+        "start": 214.0,
+        "end": 214.18,
+        "word": " dir.",
+        "probability": 0.9873377084732056
+      },
+      {
+        "start": 214.64,
+        "end": 214.76,
+        "word": " Ich",
+        "probability": 0.9768611788749695
+      },
+      {
+        "start": 214.76,
+        "end": 215.0,
+        "word": " freue",
+        "probability": 0.9732154011726379
+      },
+      {
+        "start": 215.0,
+        "end": 215.28,
+        "word": " mich,",
+        "probability": 0.9990757703781128
+      },
+      {
+        "start": 215.42,
+        "end": 215.5,
+        "word": " wenn",
+        "probability": 0.9987718462944031
+      },
+      {
+        "start": 215.5,
+        "end": 215.62,
+        "word": " du",
+        "probability": 0.9984702467918396
+      },
+      {
+        "start": 215.62,
+        "end": 216.08,
+        "word": " kommst.",
+        "probability": 0.9984263479709625
+      },
+      {
+        "start": 216.46,
+        "end": 216.58,
+        "word": " Wenn",
+        "probability": 0.9950390458106995
+      },
+      {
+        "start": 216.58,
+        "end": 216.72,
+        "word": " wir",
+        "probability": 0.9989769458770752
+      },
+      {
+        "start": 216.72,
+        "end": 217.02,
+        "word": " frei",
+        "probability": 0.994844913482666
+      },
+      {
+        "start": 217.02,
+        "end": 217.34,
+        "word": " sind,",
+        "probability": 0.9986993074417114
+      },
+      {
+        "start": 217.66,
+        "end": 217.88,
+        "word": " spielen",
+        "probability": 0.9881035685539246
+      },
+      {
+        "start": 217.88,
+        "end": 218.14,
+        "word": " wir.",
+        "probability": 0.9997865557670593
+      },
+      {
+        "start": 218.54,
+        "end": 218.74,
+        "word": " Ruf",
+        "probability": 0.9336806833744049
+      },
+      {
+        "start": 218.74,
+        "end": 218.92,
+        "word": " mich",
+        "probability": 0.9966368675231934
+      },
+      {
+        "start": 218.92,
+        "end": 219.16,
+        "word": " an,",
+        "probability": 0.9992377758026123
+      },
+      {
+        "start": 219.24,
+        "end": 219.34,
+        "word": " wenn",
+        "probability": 0.9983987212181091
+      },
+      {
+        "start": 219.34,
+        "end": 219.46,
+        "word": " du",
+        "probability": 0.9990397095680237
+      },
+      {
+        "start": 219.46,
+        "end": 219.62,
+        "word": " zu",
+        "probability": 0.9637883901596069
+      },
+      {
+        "start": 219.62,
+        "end": 219.88,
+        "word": " Hause",
+        "probability": 0.9725872874259949
+      },
+      {
+        "start": 219.88,
+        "end": 220.18,
+        "word": " bist.",
+        "probability": 0.999245285987854
+      },
+      {
+        "start": 220.7,
+        "end": 220.82,
+        "word": " Wenn",
+        "probability": 0.9943751096725464
+      },
+      {
+        "start": 220.82,
+        "end": 220.98,
+        "word": " ich",
+        "probability": 0.9988396763801575
+      },
+      {
+        "start": 220.98,
+        "end": 221.28,
+        "word": " müde",
+        "probability": 0.9981501400470734
+      },
+      {
+        "start": 221.28,
+        "end": 221.54,
+        "word": " bin,",
+        "probability": 0.9992944002151489
+      },
+      {
+        "start": 221.86,
+        "end": 222.12,
+        "word": " schlafe",
+        "probability": 0.9883807500203451
+      },
+      {
+        "start": 222.12,
+        "end": 222.4,
+        "word": " ich.",
+        "probability": 0.9986269474029541
+      },
+      {
+        "start": 222.78,
+        "end": 222.88,
+        "word": " Wir",
+        "probability": 0.9833285808563232
+      },
+      {
+        "start": 222.88,
+        "end": 223.12,
+        "word": " können",
+        "probability": 0.9971465468406677
+      },
+      {
+        "start": 223.12,
+        "end": 223.48,
+        "word": " lernen,",
+        "probability": 0.99752277135849
+      },
+      {
+        "start": 223.7,
+        "end": 223.8,
+        "word": " wenn",
+        "probability": 0.9973159432411194
+      },
+      {
+        "start": 223.8,
+        "end": 223.94,
+        "word": " ihr",
+        "probability": 0.9948726296424866
+      },
+      {
+        "start": 223.94,
+        "end": 224.2,
+        "word": " Zeit",
+        "probability": 0.996993899345398
+      },
+      {
+        "start": 224.2,
+        "end": 224.52,
+        "word": " habt.",
+        "probability": 0.9933741688728333
+      },
+      {
+        "start": 224.96,
+        "end": 225.08,
+        "word": " Ich",
+        "probability": 0.9885329008102417
+      },
+      {
+        "start": 225.08,
+        "end": 225.54,
+        "word": " versuche,",
+        "probability": 0.9955052137374878
+      },
+      {
+        "start": 225.72,
+        "end": 225.88,
+        "word": " Deutsch",
+        "probability": 0.9694356322288513
+      },
+      {
+        "start": 225.88,
+        "end": 226.2,
+        "word": " zu",
+        "probability": 0.9996645450592041
+      },
+      {
+        "start": 226.2,
+        "end": 226.44,
+        "word": " lernen.",
+        "probability": 0.996293842792511
+      },
+      {
+        "start": 226.9,
+        "end": 227.0,
+        "word": " Wir",
+        "probability": 0.9143941402435303
+      },
+      {
+        "start": 227.0,
+        "end": 227.38,
+        "word": " beginnen,",
+        "probability": 0.9986496567726135
+      },
+      {
+        "start": 227.58,
+        "end": 227.7,
+        "word": " das",
+        "probability": 0.9968611001968384
+      },
+      {
+        "start": 227.7,
+        "end": 227.92,
+        "word": " Buch",
+        "probability": 0.9972578883171082
+      },
+      {
+        "start": 227.92,
+        "end": 228.18,
+        "word": " zu",
+        "probability": 0.9990273714065552
+      },
+      {
+        "start": 228.18,
+        "end": 228.56,
+        "word": " lesen.",
+        "probability": 0.995009183883667
+      },
+      {
+        "start": 228.94,
+        "end": 229.08,
+        "word": " Ich",
+        "probability": 0.9797247648239136
+      },
+      {
+        "start": 229.08,
+        "end": 229.24,
+        "word": " habe",
+        "probability": 0.9985370635986328
+      },
+      {
+        "start": 229.24,
+        "end": 229.6,
+        "word": " Zeit,",
+        "probability": 0.9981662631034851
+      },
+      {
+        "start": 229.82,
+        "end": 229.88,
+        "word": " dir",
+        "probability": 0.9909732341766357
+      },
+      {
+        "start": 229.88,
+        "end": 230.06,
+        "word": " zu",
+        "probability": 0.9983270764350891
+      },
+      {
+        "start": 230.06,
+        "end": 230.36,
+        "word": " helfen.",
+        "probability": 0.9989247918128967
+      },
+      {
+        "start": 230.86,
+        "end": 230.96,
+        "word": " Er",
+        "probability": 0.9962244033813477
+      },
+      {
+        "start": 230.96,
+        "end": 231.36,
+        "word": " versucht,",
+        "probability": 0.9967155456542969
+      },
+      {
+        "start": 231.46,
+        "end": 231.8,
+        "word": " früh",
+        "probability": 0.9968007802963257
+      },
+      {
+        "start": 231.8,
+        "end": 232.6,
+        "word": " aufzustehen.",
+        "probability": 0.9893326312303543
+      },
+      {
+        "start": 232.96,
+        "end": 233.16,
+        "word": " Sie",
+        "probability": 0.9967871904373169
+      },
+      {
+        "start": 233.16,
+        "end": 233.58,
+        "word": " vergisst,",
+        "probability": 0.9898450672626495
+      },
+      {
+        "start": 233.66,
+        "end": 233.76,
+        "word": " mich",
+        "probability": 0.9986155033111572
+      },
+      {
+        "start": 233.76,
+        "end": 234.46,
+        "word": " anzurufen.",
+        "probability": 0.9969701568285624
+      },
+      {
+        "start": 234.94,
+        "end": 235.08,
+        "word": " Ich",
+        "probability": 0.9886558055877686
+      },
+      {
+        "start": 235.08,
+        "end": 235.34,
+        "word": " hoffe,",
+        "probability": 0.9972257018089294
+      },
+      {
+        "start": 235.56,
+        "end": 235.78,
+        "word": " morgen",
+        "probability": 0.9918400049209595
+      },
+      {
+        "start": 235.78,
+        "end": 236.06,
+        "word": " zu",
+        "probability": 0.9986361861228943
+      },
+      {
+        "start": 236.06,
+        "end": 236.3,
+        "word": " kommen.",
+        "probability": 0.9978119134902954
+      },
+      {
+        "start": 236.78,
+        "end": 236.92,
+        "word": " Es",
+        "probability": 0.9919005632400513
+      },
+      {
+        "start": 236.92,
+        "end": 237.1,
+        "word": " ist",
+        "probability": 0.9992489218711853
+      },
+      {
+        "start": 237.1,
+        "end": 237.46,
+        "word": " wichtig,",
+        "probability": 0.9981263279914856
+      },
+      {
+        "start": 237.64,
+        "end": 237.9,
+        "word": " Deutsch",
+        "probability": 0.995522141456604
+      },
+      {
+        "start": 237.9,
+        "end": 238.22,
+        "word": " zu",
+        "probability": 0.998958945274353
+      },
+      {
+        "start": 238.22,
+        "end": 238.46,
+        "word": " lernen.",
+        "probability": 0.9989426732063293
+      },
+      {
+        "start": 238.46,
+        "end": 239.1,
+        "word": " Das",
+        "probability": 0.40891164541244507
+      },
+      {
+        "start": 239.1,
+        "end": 239.38,
+        "word": " Buch",
+        "probability": 0.9628167152404785
+      },
+      {
+        "start": 239.38,
+        "end": 239.66,
+        "word": " ist",
+        "probability": 0.9899582266807556
+      },
+      {
+        "start": 239.66,
+        "end": 240.08,
+        "word": " interessant.",
+        "probability": 0.7349757552146912
+      },
+      {
+        "start": 240.74,
+        "end": 240.92,
+        "word": " Der",
+        "probability": 0.9006592631340027
+      },
+      {
+        "start": 240.92,
+        "end": 241.3,
+        "word": " Film",
+        "probability": 0.9961373209953308
+      },
+      {
+        "start": 241.3,
+        "end": 241.5,
+        "word": " ist",
+        "probability": 0.9960693120956421
+      },
+      {
+        "start": 241.5,
+        "end": 242.36,
+        "word": " langweilig.",
+        "probability": 0.9972923547029495
+      },
+      {
+        "start": 242.78,
+        "end": 243.06,
+        "word": " Heute",
+        "probability": 0.123566634953022
+      },
+      {
+        "start": 243.06,
+        "end": 243.3,
+        "word": " ist",
+        "probability": 0.9958779811859131
+      },
+      {
+        "start": 243.3,
+        "end": 243.46,
+        "word": " es",
+        "probability": 0.9748095870018005
+      },
+      {
+        "start": 243.46,
+        "end": 243.92,
+        "word": " kalt.",
+        "probability": 0.9876613914966583
+      },
+      {
+        "start": 244.36,
+        "end": 244.5,
+        "word": " Mir",
+        "probability": 0.9642034769058228
+      },
+      {
+        "start": 244.5,
+        "end": 244.7,
+        "word": " ist",
+        "probability": 0.9801002144813538
+      },
+      {
+        "start": 244.7,
+        "end": 245.02,
+        "word": " warm.",
+        "probability": 0.9921074509620667
+      },
+      {
+        "start": 245.42,
+        "end": 245.54,
+        "word": " Die",
+        "probability": 0.9631439447402954
+      },
+      {
+        "start": 245.54,
+        "end": 245.92,
+        "word": " Tasche",
+        "probability": 0.9875703155994415
+      },
+      {
+        "start": 245.92,
+        "end": 246.16,
+        "word": " ist",
+        "probability": 0.9958036541938782
+      },
+      {
+        "start": 246.16,
+        "end": 246.46,
+        "word": " rot.",
+        "probability": 0.9175423383712769
+      },
+      {
+        "start": 246.98,
+        "end": 247.12,
+        "word": " Das",
+        "probability": 0.994358241558075
+      },
+      {
+        "start": 247.12,
+        "end": 247.48,
+        "word": " Auto",
+        "probability": 0.9899957180023193
+      },
+      {
+        "start": 247.48,
+        "end": 247.84,
+        "word": " ist",
+        "probability": 0.9915881752967834
+      },
+      {
+        "start": 247.84,
+        "end": 248.28,
+        "word": " blau.",
+        "probability": 0.9887925684452057
+      },
+      {
+        "start": 248.62,
+        "end": 248.8,
+        "word": " Warum",
+        "probability": 0.9320639371871948
+      },
+      {
+        "start": 248.8,
+        "end": 249.04,
+        "word": " bist",
+        "probability": 0.9980395436286926
+      },
+      {
+        "start": 249.04,
+        "end": 249.18,
+        "word": " du",
+        "probability": 0.99068683385849
+      },
+      {
+        "start": 249.18,
+        "end": 249.68,
+        "word": " traurig?",
+        "probability": 0.9988927642504374
+      },
+      {
+        "start": 250.14,
+        "end": 250.34,
+        "word": " Mein",
+        "probability": 0.8980869650840759
+      },
+      {
+        "start": 250.34,
+        "end": 250.66,
+        "word": " Auto",
+        "probability": 0.9896814227104187
+      },
+      {
+        "start": 250.66,
+        "end": 250.96,
+        "word": " ist",
+        "probability": 0.9979787468910217
+      },
+      {
+        "start": 250.96,
+        "end": 251.38,
+        "word": " schneller",
+        "probability": 0.9969281554222107
+      },
+      {
+        "start": 251.38,
+        "end": 251.68,
+        "word": " als",
+        "probability": 0.9942646622657776
+      },
+      {
+        "start": 251.68,
+        "end": 251.94,
+        "word": " dein",
+        "probability": 0.983918309211731
+      },
+      {
+        "start": 251.94,
+        "end": 252.34,
+        "word": " Auto.",
+        "probability": 0.9943884015083313
+      },
+      {
+        "start": 252.8,
+        "end": 252.94,
+        "word": " Das",
+        "probability": 0.9470844268798828
+      },
+      {
+        "start": 252.94,
+        "end": 253.22,
+        "word": " Buch",
+        "probability": 0.9968246221542358
+      },
+      {
+        "start": 253.22,
+        "end": 253.52,
+        "word": " ist",
+        "probability": 0.9951561689376831
+      },
+      {
+        "start": 253.52,
+        "end": 253.86,
+        "word": " besser",
+        "probability": 0.9983969330787659
+      },
+      {
+        "start": 253.86,
+        "end": 254.14,
+        "word": " als",
+        "probability": 0.9422132968902588
+      },
+      {
+        "start": 254.14,
+        "end": 254.36,
+        "word": " das",
+        "probability": 0.9932339787483215
+      },
+      {
+        "start": 254.36,
+        "end": 254.58,
+        "word": " Buch",
+        "probability": 0.9961983561515808
+      },
+      {
+        "start": 254.58,
+        "end": 254.88,
+        "word": " dort.",
+        "probability": 0.9882605075836182
+      },
+      {
+        "start": 255.34,
+        "end": 255.64,
+        "word": " Unser",
+        "probability": 0.9935699701309204
+      },
+      {
+        "start": 255.64,
+        "end": 255.92,
+        "word": " Haus",
+        "probability": 0.996782660484314
+      },
+      {
+        "start": 255.92,
+        "end": 256.18,
+        "word": " ist",
+        "probability": 0.9976192116737366
+      },
+      {
+        "start": 256.18,
+        "end": 256.76,
+        "word": " größer",
+        "probability": 0.9880689084529877
+      },
+      {
+        "start": 256.76,
+        "end": 256.92,
+        "word": " als",
+        "probability": 0.9981474876403809
+      },
+      {
+        "start": 256.92,
+        "end": 257.3,
+        "word": " euer",
+        "probability": 0.9902856349945068
+      },
+      {
+        "start": 257.3,
+        "end": 257.56,
+        "word": " Haus.",
+        "probability": 0.9977237582206726
+      },
+      {
+        "start": 257.98,
+        "end": 258.1,
+        "word": " Der",
+        "probability": 0.9857499599456787
+      },
+      {
+        "start": 258.1,
+        "end": 258.4,
+        "word": " Tisch",
+        "probability": 0.9960106611251831
+      },
+      {
+        "start": 258.4,
+        "end": 258.62,
+        "word": " ist",
+        "probability": 0.9973081350326538
+      },
+      {
+        "start": 258.62,
+        "end": 259.06,
+        "word": " kleiner",
+        "probability": 0.9990575909614563
+      },
+      {
+        "start": 259.06,
+        "end": 259.34,
+        "word": " als",
+        "probability": 0.988114058971405
+      },
+      {
+        "start": 259.34,
+        "end": 259.56,
+        "word": " der",
+        "probability": 0.9977703094482422
+      },
+      {
+        "start": 259.56,
+        "end": 259.8,
+        "word": " Tisch",
+        "probability": 0.9981698989868164
+      },
+      {
+        "start": 259.8,
+        "end": 260.06,
+        "word": " dort.",
+        "probability": 0.9896225929260254
+      },
+      {
+        "start": 260.52,
+        "end": 260.66,
+        "word": " Ich",
+        "probability": 0.9738871455192566
+      },
+      {
+        "start": 260.66,
+        "end": 260.9,
+        "word": " habe",
+        "probability": 0.9951399564743042
+      },
+      {
+        "start": 260.9,
+        "end": 261.16,
+        "word": " mehr",
+        "probability": 0.9950590133666992
+      },
+      {
+        "start": 261.16,
+        "end": 261.48,
+        "word": " Zeit",
+        "probability": 0.9985530972480774
+      },
+      {
+        "start": 261.48,
+        "end": 261.74,
+        "word": " als",
+        "probability": 0.9762331247329712
+      },
+      {
+        "start": 261.74,
+        "end": 262.0,
+        "word": " du.",
+        "probability": 0.9747985005378723
+      },
+      {
+        "start": 262.36,
+        "end": 262.52,
+        "word": " Sie",
+        "probability": 0.9910848736763
+      },
+      {
+        "start": 262.52,
+        "end": 262.78,
+        "word": " spricht",
+        "probability": 0.9916791319847107
+      },
+      {
+        "start": 262.78,
+        "end": 263.5,
+        "word": " langsamer",
+        "probability": 0.9926008184750875
+      },
+      {
+        "start": 263.5,
+        "end": 263.78,
+        "word": " als",
+        "probability": 0.9924762845039368
+      },
+      {
+        "start": 263.78,
+        "end": 264.0,
+        "word": " er.",
+        "probability": 0.992926299571991
+      },
+      {
+        "start": 264.44,
+        "end": 264.58,
+        "word": " Das",
+        "probability": 0.9903075695037842
+      },
+      {
+        "start": 264.58,
+        "end": 264.84,
+        "word": " Buch",
+        "probability": 0.997143566608429
+      },
+      {
+        "start": 264.84,
+        "end": 265.12,
+        "word": " ist",
+        "probability": 0.9952499866485596
+      },
+      {
+        "start": 265.12,
+        "end": 265.44,
+        "word": " so",
+        "probability": 0.9960170388221741
+      },
+      {
+        "start": 265.44,
+        "end": 265.78,
+        "word": " gut",
+        "probability": 0.9976010918617249
+      },
+      {
+        "start": 265.78,
+        "end": 265.92,
+        "word": " wie",
+        "probability": 0.9540820717811584
+      },
+      {
+        "start": 265.92,
+        "end": 266.1,
+        "word": " das",
+        "probability": 0.9963808655738831
+      },
+      {
+        "start": 266.1,
+        "end": 266.32,
+        "word": " Buch",
+        "probability": 0.996298611164093
+      },
+      {
+        "start": 266.32,
+        "end": 266.62,
+        "word": " dort.",
+        "probability": 0.996353268623352
+      },
+      {
+        "start": 266.62,
+        "end": 267.32,
+        "word": " Heute",
+        "probability": 0.20877309143543243
+      },
+      {
+        "start": 267.32,
+        "end": 267.66,
+        "word": " ist",
+        "probability": 0.9915024042129517
+      },
+      {
+        "start": 267.66,
+        "end": 267.86,
+        "word": " es",
+        "probability": 0.993650496006012
+      },
+      {
+        "start": 267.86,
+        "end": 268.26,
+        "word": " wärmer",
+        "probability": 0.9751787483692169
+      },
+      {
+        "start": 268.26,
+        "end": 268.44,
+        "word": " als",
+        "probability": 0.9832514524459839
+      },
+      {
+        "start": 268.44,
+        "end": 268.96,
+        "word": " gestern.",
+        "probability": 0.9987282752990723
+      },
+      {
+        "start": 269.36,
+        "end": 269.52,
+        "word": " Sie",
+        "probability": 0.9277259111404419
+      },
+      {
+        "start": 269.52,
+        "end": 269.8,
+        "word": " läuft",
+        "probability": 0.9968065023422241
+      },
+      {
+        "start": 269.8,
+        "end": 270.02,
+        "word": " am",
+        "probability": 0.9982861876487732
+      },
+      {
+        "start": 270.02,
+        "end": 270.58,
+        "word": " schnellsten.",
+        "probability": 0.9941989183425903
+      },
+      {
+        "start": 270.98,
+        "end": 271.12,
+        "word": " Das",
+        "probability": 0.97651606798172
+      },
+      {
+        "start": 271.12,
+        "end": 271.4,
+        "word": " Buch",
+        "probability": 0.9763002395629883
+      },
+      {
+        "start": 271.4,
+        "end": 271.72,
+        "word": " ist",
+        "probability": 0.9907891154289246
+      },
+      {
+        "start": 271.72,
+        "end": 271.88,
+        "word": " am",
+        "probability": 0.9895963072776794
+      },
+      {
+        "start": 271.88,
+        "end": 272.26,
+        "word": " besten.",
+        "probability": 0.9858318567276001
+      },
+      {
+        "start": 272.72,
+        "end": 272.84,
+        "word": " Ich",
+        "probability": 0.6825278997421265
+      },
+      {
+        "start": 272.84,
+        "end": 273.14,
+        "word": " trinke",
+        "probability": 0.9730185270309448
+      },
+      {
+        "start": 273.14,
+        "end": 273.36,
+        "word": " lieber",
+        "probability": 0.9863206744194031
+      },
+      {
+        "start": 273.36,
+        "end": 273.86,
+        "word": " Tee",
+        "probability": 0.9146295785903931
+      },
+      {
+        "start": 273.86,
+        "end": 274.0,
+        "word": " als",
+        "probability": 0.9896546602249146
+      },
+      {
+        "start": 274.0,
+        "end": 274.48,
+        "word": " Kaffee.",
+        "probability": 0.9326365192731222
+      },
+      {
+        "start": 274.8,
+        "end": 274.9,
+        "word": " Am",
+        "probability": 0.9957191348075867
+      },
+      {
+        "start": 274.9,
+        "end": 275.34,
+        "word": " liebsten",
+        "probability": 0.9930469592412313
+      },
+      {
+        "start": 275.34,
+        "end": 275.76,
+        "word": " trinke",
+        "probability": 0.9765265186627706
+      },
+      {
+        "start": 275.76,
+        "end": 275.92,
+        "word": " ich",
+        "probability": 0.997847318649292
+      },
+      {
+        "start": 275.92,
+        "end": 276.16,
+        "word": " Wasser.",
+        "probability": 0.997622549533844
+      },
+      {
+        "start": 276.64,
+        "end": 276.78,
+        "word": " Er",
+        "probability": 0.9838392734527588
+      },
+      {
+        "start": 276.78,
+        "end": 277.06,
+        "word": " hat",
+        "probability": 0.9989560842514038
+      },
+      {
+        "start": 277.06,
+        "end": 277.24,
+        "word": " am",
+        "probability": 0.9985319375991821
+      },
+      {
+        "start": 277.24,
+        "end": 277.54,
+        "word": " meisten",
+        "probability": 0.9572749733924866
+      },
+      {
+        "start": 277.54,
+        "end": 277.98,
+        "word": " Zeit.",
+        "probability": 0.9966951608657837
+      },
+      {
+        "start": 278.44,
+        "end": 278.74,
+        "word": " Unser",
+        "probability": 0.9947294294834137
+      },
+      {
+        "start": 278.74,
+        "end": 279.06,
+        "word": " Haus",
+        "probability": 0.9953793287277222
+      },
+      {
+        "start": 279.06,
+        "end": 279.3,
+        "word": " ist",
+        "probability": 0.9965344667434692
+      },
+      {
+        "start": 279.3,
+        "end": 279.48,
+        "word": " am",
+        "probability": 0.9987698197364807
+      },
+      {
+        "start": 279.48,
+        "end": 280.0,
+        "word": " kleinsten.",
+        "probability": 0.9926315248012543
+      },
+      {
+        "start": 280.4,
+        "end": 280.62,
+        "word": " Hier",
+        "probability": 0.98259037733078
+      },
+      {
+        "start": 280.62,
+        "end": 281.02,
+        "word": " lerne",
+        "probability": 0.9844733476638794
+      },
+      {
+        "start": 281.02,
+        "end": 281.18,
+        "word": " ich",
+        "probability": 0.9984033703804016
+      },
+      {
+        "start": 281.18,
+        "end": 281.36,
+        "word": " am",
+        "probability": 0.9754739999771118
+      },
+      {
+        "start": 281.36,
+        "end": 281.74,
+        "word": " besten.",
+        "probability": 0.9892309308052063
+      },
+      {
+        "start": 282.16,
+        "end": 282.26,
+        "word": " Wir",
+        "probability": 0.9952955842018127
+      },
+      {
+        "start": 282.26,
+        "end": 282.58,
+        "word": " spielen",
+        "probability": 0.9930211901664734
+      },
+      {
+        "start": 282.58,
+        "end": 282.8,
+        "word": " am",
+        "probability": 0.9990955591201782
+      },
+      {
+        "start": 282.8,
+        "end": 283.26,
+        "word": " liebsten",
+        "probability": 0.992026150226593
+      },
+      {
+        "start": 283.26,
+        "end": 283.68,
+        "word": " zusammen.",
+        "probability": 0.9978162050247192
+      },
+      {
+        "start": 284.16,
+        "end": 284.28,
+        "word": " Der",
+        "probability": 0.9835192561149597
+      },
+      {
+        "start": 284.28,
+        "end": 284.5,
+        "word": " gute",
+        "probability": 0.9960814118385315
+      },
+      {
+        "start": 284.5,
+        "end": 284.76,
+        "word": " Mann",
+        "probability": 0.9977986216545105
+      },
+      {
+        "start": 284.76,
+        "end": 285.04,
+        "word": " ist",
+        "probability": 0.9963107705116272
+      },
+      {
+        "start": 285.04,
+        "end": 285.28,
+        "word": " hier.",
+        "probability": 0.9968173503875732
+      },
+      {
+        "start": 285.64,
+        "end": 285.76,
+        "word": " Die",
+        "probability": 0.9941630959510803
+      },
+      {
+        "start": 285.76,
+        "end": 286.08,
+        "word": " kleine",
+        "probability": 0.9962741136550903
+      },
+      {
+        "start": 286.08,
+        "end": 286.58,
+        "word": " Katze",
+        "probability": 0.9969382584095001
+      },
+      {
+        "start": 286.58,
+        "end": 286.96,
+        "word": " spielt.",
+        "probability": 0.9972646236419678
+      },
+      {
+        "start": 287.48,
+        "end": 287.62,
+        "word": " Das",
+        "probability": 0.9971839785575867
+      },
+      {
+        "start": 287.62,
+        "end": 287.86,
+        "word": " neue",
+        "probability": 0.9905303120613098
+      },
+      {
+        "start": 287.86,
+        "end": 288.14,
+        "word": " Buch",
+        "probability": 0.9984116554260254
+      },
+      {
+        "start": 288.14,
+        "end": 288.44,
+        "word": " ist",
+        "probability": 0.9978825449943542
+      },
+      {
+        "start": 288.44,
+        "end": 288.72,
+        "word": " hier.",
+        "probability": 0.9967058300971985
+      },
+      {
+        "start": 289.1,
+        "end": 289.24,
+        "word": " Ich",
+        "probability": 0.9447388052940369
+      },
+      {
+        "start": 289.24,
+        "end": 289.54,
+        "word": " sehe",
+        "probability": 0.9643755555152893
+      },
+      {
+        "start": 289.54,
+        "end": 289.8,
+        "word": " den",
+        "probability": 0.9984148740768433
+      },
+      {
+        "start": 289.8,
+        "end": 290.2,
+        "word": " großen",
+        "probability": 0.9643779397010803
+      },
+      {
+        "start": 290.2,
+        "end": 290.58,
+        "word": " Hund.",
+        "probability": 0.9957169890403748
+      },
+      {
+        "start": 291.0,
+        "end": 291.18,
+        "word": " Er",
+        "probability": 0.995319664478302
+      },
+      {
+        "start": 291.18,
+        "end": 291.54,
+        "word": " liest",
+        "probability": 0.9484536647796631
+      },
+      {
+        "start": 291.54,
+        "end": 291.74,
+        "word": " die",
+        "probability": 0.9990279674530029
+      },
+      {
+        "start": 291.74,
+        "end": 292.28,
+        "word": " interessante",
+        "probability": 0.9868402481079102
+      },
+      {
+        "start": 292.28,
+        "end": 292.8,
+        "word": " Geschichte.",
+        "probability": 0.9968744516372681
+      },
+      {
+        "start": 293.28,
+        "end": 293.42,
+        "word": " Wir",
+        "probability": 0.9925698637962341
+      },
+      {
+        "start": 293.42,
+        "end": 293.7,
+        "word": " sehen",
+        "probability": 0.9975889921188354
+      },
+      {
+        "start": 293.7,
+        "end": 293.92,
+        "word": " das",
+        "probability": 0.9911317229270935
+      },
+      {
+        "start": 293.92,
+        "end": 294.24,
+        "word": " kleine",
+        "probability": 0.9925425052642822
+      },
+      {
+        "start": 294.24,
+        "end": 294.58,
+        "word": " Kind.",
+        "probability": 0.9869192242622375
+      },
+      {
+        "start": 294.58,
+        "end": 295.32,
+        "word": " Die",
+        "probability": 0.13711155951023102
+      },
+      {
+        "start": 295.32,
+        "end": 295.58,
+        "word": " alten",
+        "probability": 0.8122647404670715
+      },
+      {
+        "start": 295.58,
+        "end": 296.1,
+        "word": " Bücher",
+        "probability": 0.9989857077598572
+      },
+      {
+        "start": 296.1,
+        "end": 296.26,
+        "word": " sind",
+        "probability": 0.9917722344398499
+      },
+      {
+        "start": 296.26,
+        "end": 296.6,
+        "word": " dort.",
+        "probability": 0.9911587834358215
+      },
+      {
+        "start": 297.36,
+        "end": 297.46,
+        "word": " Ich",
+        "probability": 0.5126926302909851
+      },
+      {
+        "start": 297.46,
+        "end": 297.7,
+        "word": " kenne",
+        "probability": 0.9952868223190308
+      },
+      {
+        "start": 297.7,
+        "end": 297.92,
+        "word": " die",
+        "probability": 0.9980269074440002
+      },
+      {
+        "start": 297.92,
+        "end": 298.14,
+        "word": " guten",
+        "probability": 0.9679880738258362
+      },
+      {
+        "start": 298.14,
+        "end": 298.62,
+        "word": " Freunde.",
+        "probability": 0.9982402324676514
+      },
+      {
+        "start": 299.38,
+        "end": 299.56,
+        "word": " Ein",
+        "probability": 0.7433704733848572
+      },
+      {
+        "start": 299.56,
+        "end": 299.92,
+        "word": " guter",
+        "probability": 0.9983831644058228
+      },
+      {
+        "start": 299.92,
+        "end": 300.26,
+        "word": " Freund",
+        "probability": 0.9981825351715088
+      },
+      {
+        "start": 300.26,
+        "end": 300.58,
+        "word": " kommt.",
+        "probability": 0.998225748538971
+      },
+      {
+        "start": 301.34,
+        "end": 301.56,
+        "word": " Eine",
+        "probability": 0.966543436050415
+      },
+      {
+        "start": 301.56,
+        "end": 301.9,
+        "word": " kleine",
+        "probability": 0.9963932633399963
+      },
+      {
+        "start": 301.9,
+        "end": 302.36,
+        "word": " Katze",
+        "probability": 0.9949028491973877
+      },
+      {
+        "start": 302.36,
+        "end": 302.74,
+        "word": " spielt.",
+        "probability": 0.9960760474205017
+      },
+      {
+        "start": 303.52,
+        "end": 303.72,
+        "word": " Das",
+        "probability": 0.9363885521888733
+      },
+      {
+        "start": 303.72,
+        "end": 303.98,
+        "word": " ist",
+        "probability": 0.9971936941146851
+      },
+      {
+        "start": 303.98,
+        "end": 304.16,
+        "word": " ein",
+        "probability": 0.9964807629585266
+      },
+      {
+        "start": 304.16,
+        "end": 304.44,
+        "word": " neues",
+        "probability": 0.9979846477508545
+      },
+      {
+        "start": 304.44,
+        "end": 304.88,
+        "word": " Buch.",
+        "probability": 0.9963325262069702
+      },
+      {
+        "start": 305.58,
+        "end": 305.74,
+        "word": " Ich",
+        "probability": 0.9409986734390259
+      },
+      {
+        "start": 305.74,
+        "end": 305.98,
+        "word": " sehe",
+        "probability": 0.9717288017272949
+      },
+      {
+        "start": 305.98,
+        "end": 306.3,
+        "word": " einen",
+        "probability": 0.9983497858047485
+      },
+      {
+        "start": 306.3,
+        "end": 306.76,
+        "word": " großen",
+        "probability": 0.9901780486106873
+      },
+      {
+        "start": 306.76,
+        "end": 307.22,
+        "word": " Hund.",
+        "probability": 0.9968175888061523
+      },
+      {
+        "start": 307.98,
+        "end": 308.18,
+        "word": " Das",
+        "probability": 0.9834409952163696
+      },
+      {
+        "start": 308.18,
+        "end": 308.44,
+        "word": " ist",
+        "probability": 0.9985342025756836
+      },
+      {
+        "start": 308.44,
+        "end": 308.66,
+        "word": " mein",
+        "probability": 0.9974784255027771
+      },
+      {
+        "start": 308.66,
+        "end": 309.0,
+        "word": " alter",
+        "probability": 0.9867560863494873
+      },
+      {
+        "start": 309.0,
+        "end": 309.34,
+        "word": " Tisch.",
+        "probability": 0.9833805561065674
+      },
+      {
+        "start": 310.04,
+        "end": 310.22,
+        "word": " Ich",
+        "probability": 0.9927968382835388
+      },
+      {
+        "start": 310.22,
+        "end": 310.52,
+        "word": " lese",
+        "probability": 0.9917941093444824
+      },
+      {
+        "start": 310.52,
+        "end": 310.84,
+        "word": " meine",
+        "probability": 0.9959709048271179
+      },
+      {
+        "start": 310.84,
+        "end": 311.14,
+        "word": " neue",
+        "probability": 0.9966539144515991
+      },
+      {
+        "start": 311.14,
+        "end": 311.56,
+        "word": " Geschichte.",
+        "probability": 0.9977795481681824
+      },
+      {
+        "start": 312.42,
+        "end": 312.56,
+        "word": " Wir",
+        "probability": 0.9488130807876587
+      },
+      {
+        "start": 312.56,
+        "end": 312.8,
+        "word": " haben",
+        "probability": 0.9991058707237244
+      },
+      {
+        "start": 312.8,
+        "end": 313.18,
+        "word": " kein",
+        "probability": 0.9961600303649902
+      },
+      {
+        "start": 313.18,
+        "end": 313.72,
+        "word": " kleines",
+        "probability": 0.997587114572525
+      },
+      {
+        "start": 313.72,
+        "end": 314.1,
+        "word": " Auto.",
+        "probability": 0.9904768466949463
+      },
+      {
+        "start": 314.82,
+        "end": 314.96,
+        "word": " Er",
+        "probability": 0.9755184650421143
+      },
+      {
+        "start": 314.96,
+        "end": 315.18,
+        "word": " sieht",
+        "probability": 0.9948875308036804
+      },
+      {
+        "start": 315.18,
+        "end": 315.48,
+        "word": " seinen",
+        "probability": 0.9978352189064026
+      },
+      {
+        "start": 315.48,
+        "end": 315.82,
+        "word": " guten",
+        "probability": 0.9945251941680908
+      },
+      {
+        "start": 315.82,
+        "end": 316.26,
+        "word": " Freund.",
+        "probability": 0.9973859190940857
+      },
+      {
+        "start": 317.0,
+        "end": 317.18,
+        "word": " Ich",
+        "probability": 0.9860094785690308
+      },
+      {
+        "start": 317.18,
+        "end": 317.58,
+        "word": " spreche",
+        "probability": 0.9969459772109985
+      },
+      {
+        "start": 317.58,
+        "end": 317.8,
+        "word": " mit",
+        "probability": 0.9994251728057861
+      },
+      {
+        "start": 317.8,
+        "end": 317.8,
+        "word": " mit",
+        "probability": 0.025092128664255142
+      },
+      {
+        "start": 317.8,
+        "end": 317.94,
+        "word": " dem",
+        "probability": 0.6650652885437012
+      },
+      {
+        "start": 317.94,
+        "end": 318.2,
+        "word": " guten",
+        "probability": 0.8944462537765503
+      },
+      {
+        "start": 318.2,
+        "end": 318.56,
+        "word": " Freund.",
+        "probability": 0.9978811144828796
+      },
+      {
+        "start": 319.3,
+        "end": 319.48,
+        "word": " Sie",
+        "probability": 0.8193936347961426
+      },
+      {
+        "start": 319.48,
+        "end": 319.8,
+        "word": " hilft",
+        "probability": 0.9980823993682861
+      },
+      {
+        "start": 319.8,
+        "end": 320.08,
+        "word": " einem",
+        "probability": 0.9967233538627625
+      },
+      {
+        "start": 320.08,
+        "end": 320.46,
+        "word": " kleinen",
+        "probability": 0.9920198321342468
+      },
+      {
+        "start": 320.46,
+        "end": 320.9,
+        "word": " Kind.",
+        "probability": 0.9852369427680969
+      },
+      {
+        "start": 321.6,
+        "end": 321.72,
+        "word": " Wir",
+        "probability": 0.9269798994064331
+      },
+      {
+        "start": 321.72,
+        "end": 321.96,
+        "word": " kommen",
+        "probability": 0.9952581524848938
+      },
+      {
+        "start": 321.96,
+        "end": 322.24,
+        "word": " mit",
+        "probability": 0.9968265891075134
+      },
+      {
+        "start": 322.24,
+        "end": 322.5,
+        "word": " einer",
+        "probability": 0.9992436170578003
+      },
+      {
+        "start": 322.5,
+        "end": 322.78,
+        "word": " neuen",
+        "probability": 0.9992407560348511
+      },
+      {
+        "start": 322.78,
+        "end": 323.28,
+        "word": " Tasche.",
+        "probability": 0.9963847994804382
+      },
+      {
+        "start": 323.8,
+        "end": 323.94,
+        "word": " Er",
+        "probability": 0.9375841021537781
+      },
+      {
+        "start": 323.94,
+        "end": 324.56,
+        "word": " antwortet",
+        "probability": 0.9878595868746439
+      },
+      {
+        "start": 324.56,
+        "end": 324.76,
+        "word": " der",
+        "probability": 0.9654703736305237
+      },
+      {
+        "start": 324.76,
+        "end": 325.32,
+        "word": " freundlichen",
+        "probability": 0.9204342563947042
+      },
+      {
+        "start": 325.32,
+        "end": 325.66,
+        "word": " Frau.",
+        "probability": 0.9984057545661926
+      },
+      {
+        "start": 326.24,
+        "end": 326.34,
+        "word": " Ich",
+        "probability": 0.7524632811546326
+      },
+      {
+        "start": 326.34,
+        "end": 326.7,
+        "word": " spiele",
+        "probability": 0.9896085262298584
+      },
+      {
+        "start": 326.7,
+        "end": 326.92,
+        "word": " mit",
+        "probability": 0.9986257553100586
+      },
+      {
+        "start": 326.92,
+        "end": 327.18,
+        "word": " meinem",
+        "probability": 0.979009211063385
+      },
+      {
+        "start": 327.18,
+        "end": 327.54,
+        "word": " kleinen",
+        "probability": 0.9965266585350037
+      },
+      {
+        "start": 327.54,
+        "end": 328.06,
+        "word": " Bruder.",
+        "probability": 0.9938828349113464
+      },
+      {
+        "start": 328.64,
+        "end": 328.74,
+        "word": " Wir",
+        "probability": 0.9674448370933533
+      },
+      {
+        "start": 328.74,
+        "end": 329.1,
+        "word": " sprechen",
+        "probability": 0.9974721074104309
+      },
+      {
+        "start": 329.1,
+        "end": 329.4,
+        "word": " mit",
+        "probability": 0.9983972907066345
+      },
+      {
+        "start": 329.4,
+        "end": 329.54,
+        "word": " den",
+        "probability": 0.9841220378875732
+      },
+      {
+        "start": 329.54,
+        "end": 329.8,
+        "word": " guten",
+        "probability": 0.9938855767250061
+      },
+      {
+        "start": 329.8,
+        "end": 330.36,
+        "word": " Freunden.",
+        "probability": 0.9805921018123627
+      },
+      {
+        "start": 330.94,
+        "end": 331.1,
+        "word": " Das",
+        "probability": 0.9844068288803101
+      },
+      {
+        "start": 331.1,
+        "end": 331.36,
+        "word": " Bild",
+        "probability": 0.9981845021247864
+      },
+      {
+        "start": 331.36,
+        "end": 331.62,
+        "word": " ist",
+        "probability": 0.9965032339096069
+      },
+      {
+        "start": 331.62,
+        "end": 331.8,
+        "word": " von",
+        "probability": 0.9980601668357849
+      },
+      {
+        "start": 331.8,
+        "end": 332.06,
+        "word": " einem",
+        "probability": 0.9981966614723206
+      },
+      {
+        "start": 332.06,
+        "end": 332.44,
+        "word": " alten",
+        "probability": 0.9843735694885254
+      },
+      {
+        "start": 332.44,
+        "end": 332.82,
+        "word": " Freund.",
+        "probability": 0.9985666871070862
+      },
+      {
+        "start": 333.48,
+        "end": 333.62,
+        "word": " Ich",
+        "probability": 0.9594447612762451
+      },
+      {
+        "start": 333.62,
+        "end": 333.8,
+        "word": " bin",
+        "probability": 0.9901406168937683
+      },
+      {
+        "start": 333.8,
+        "end": 334.0,
+        "word": " bei",
+        "probability": 0.9973307847976685
+      },
+      {
+        "start": 334.0,
+        "end": 334.26,
+        "word": " meiner",
+        "probability": 0.9985617995262146
+      },
+      {
+        "start": 334.26,
+        "end": 334.6,
+        "word": " alten",
+        "probability": 0.9932314157485962
+      },
+      {
+        "start": 334.6,
+        "end": 335.02,
+        "word": " Schule.",
+        "probability": 0.9980783462524414
+      },
+      {
+        "start": 335.56,
+        "end": 335.72,
+        "word": " Ich",
+        "probability": 0.9942892789840698
+      },
+      {
+        "start": 335.72,
+        "end": 336.06,
+        "word": " trinke",
+        "probability": 0.9836131731669108
+      },
+      {
+        "start": 336.06,
+        "end": 336.66,
+        "word": " kaltes",
+        "probability": 0.9920647144317627
+      },
+      {
+        "start": 336.66,
+        "end": 336.9,
+        "word": " Wasser.",
+        "probability": 0.9997814297676086
+      },
+      {
+        "start": 337.44,
+        "end": 337.58,
+        "word": " Wir",
+        "probability": 0.9797025322914124
+      },
+      {
+        "start": 337.58,
+        "end": 337.9,
+        "word": " essen",
+        "probability": 0.9896766543388367
+      },
+      {
+        "start": 337.9,
+        "end": 338.42,
+        "word": " frisches",
+        "probability": 0.9974216222763062
+      },
+      {
+        "start": 338.42,
+        "end": 338.94,
+        "word": " Brot.",
+        "probability": 0.9924582540988922
+      },
+      {
+        "start": 339.4,
+        "end": 339.56,
+        "word": " Ich",
+        "probability": 0.9927111864089966
+      },
+      {
+        "start": 339.56,
+        "end": 339.76,
+        "word": " mag",
+        "probability": 0.9951198101043701
+      },
+      {
+        "start": 339.76,
+        "end": 340.22,
+        "word": " grünen",
+        "probability": 0.960585355758667
+      },
+      {
+        "start": 340.22,
+        "end": 340.64,
+        "word": " Tee.",
+        "probability": 0.9313196539878845
+      },
+      {
+        "start": 341.06,
+        "end": 341.28,
+        "word": " Hier",
+        "probability": 0.979058563709259
+      },
+      {
+        "start": 341.28,
+        "end": 341.48,
+        "word": " gibt",
+        "probability": 0.9938911199569702
+      },
+      {
+        "start": 341.48,
+        "end": 341.7,
+        "word": " es",
+        "probability": 0.9971222281455994
+      },
+      {
+        "start": 341.7,
+        "end": 341.98,
+        "word": " guten",
+        "probability": 0.9708524346351624
+      },
+      {
+        "start": 341.98,
+        "end": 342.52,
+        "word": " Kaffee.",
+        "probability": 0.9724363684654236
+      },
+      {
+        "start": 342.9,
+        "end": 343.22,
+        "word": " Gute",
+        "probability": 0.9803997278213501
+      },
+      {
+        "start": 343.22,
+        "end": 343.62,
+        "word": " Bücher",
+        "probability": 0.998282790184021
+      },
+      {
+        "start": 343.62,
+        "end": 343.84,
+        "word": " sind",
+        "probability": 0.9994320273399353
+      },
+      {
+        "start": 343.84,
+        "end": 344.36,
+        "word": " interessant.",
+        "probability": 0.9980800151824951
+      },
+      {
+        "start": 345.06,
+        "end": 345.22,
+        "word": " Wir",
+        "probability": 0.9893367290496826
+      },
+      {
+        "start": 345.22,
+        "end": 345.62,
+        "word": " lesen",
+        "probability": 0.9931706786155701
+      },
+      {
+        "start": 345.62,
+        "end": 345.9,
+        "word": " neue",
+        "probability": 0.9981826543807983
+      },
+      {
+        "start": 345.9,
+        "end": 346.48,
+        "word": " Geschichten.",
+        "probability": 0.9973222613334656
+      },
+      {
+        "start": 346.48,
+        "end": 347.12,
+        "word": " Ich",
+        "probability": 0.75059574842453
+      },
+      {
+        "start": 347.12,
+        "end": 347.52,
+        "word": " spreche",
+        "probability": 0.9663073122501373
+      },
+      {
+        "start": 347.52,
+        "end": 347.74,
+        "word": " mit",
+        "probability": 0.9952706694602966
+      },
+      {
+        "start": 347.74,
+        "end": 348.06,
+        "word": " guten",
+        "probability": 0.9802311062812805
+      },
+      {
+        "start": 348.06,
+        "end": 348.62,
+        "word": " Freunden.",
+        "probability": 0.9954873621463776
+      },
+      {
+        "start": 349.1,
+        "end": 349.52,
+        "word": " Warme",
+        "probability": 0.5428845398128033
+      },
+      {
+        "start": 349.52,
+        "end": 349.92,
+        "word": " Milch",
+        "probability": 0.9982953369617462
+      },
+      {
+        "start": 349.92,
+        "end": 350.12,
+        "word": " ist",
+        "probability": 0.993081271648407
+      },
+      {
+        "start": 350.12,
+        "end": 350.4,
+        "word": " hier.",
+        "probability": 0.983873188495636
+      },
+      {
+        "start": 350.96,
+        "end": 351.08,
+        "word": " Mein",
+        "probability": 0.9151261448860168
+      },
+      {
+        "start": 351.08,
+        "end": 351.66,
+        "word": " Vorname",
+        "probability": 0.9591874082883199
+      },
+      {
+        "start": 351.66,
+        "end": 351.96,
+        "word": " ist",
+        "probability": 0.9975504279136658
+      },
+      {
+        "start": 351.96,
+        "end": 352.3,
+        "word": " Mia.",
+        "probability": 0.814315915107727
+      },
+      {
+        "start": 352.78,
+        "end": 352.98,
+        "word": " Mein",
+        "probability": 0.9906891584396362
+      },
+      {
+        "start": 352.98,
+        "end": 353.52,
+        "word": " Nachname",
+        "probability": 0.9940641522407532
+      },
+      {
+        "start": 353.52,
+        "end": 353.82,
+        "word": " ist",
+        "probability": 0.9927167892456055
+      },
+      {
+        "start": 353.82,
+        "end": 354.16,
+        "word": " Weber.",
+        "probability": 0.9911435842514038
+      },
+      {
+        "start": 354.74,
+        "end": 354.86,
+        "word": " Ich",
+        "probability": 0.9884157180786133
+      },
+      {
+        "start": 354.86,
+        "end": 355.18,
+        "word": " wohne",
+        "probability": 0.9805387854576111
+      },
+      {
+        "start": 355.18,
+        "end": 355.36,
+        "word": " in",
+        "probability": 0.9961557984352112
+      },
+      {
+        "start": 355.36,
+        "end": 355.48,
+        "word": " der",
+        "probability": 0.9973905682563782
+      },
+      {
+        "start": 355.48,
+        "end": 356.32,
+        "word": " Schulstraße.",
+        "probability": 0.9694327910741171
+      },
+      {
+        "start": 356.72,
+        "end": 356.9,
+        "word": " Meine",
+        "probability": 0.9313202500343323
+      },
+      {
+        "start": 356.9,
+        "end": 357.48,
+        "word": " Hausnummer",
+        "probability": 0.9889668623606364
+      },
+      {
+        "start": 357.48,
+        "end": 357.8,
+        "word": " ist",
+        "probability": 0.9911817312240601
+      },
+      {
+        "start": 357.8,
+        "end": 358.42,
+        "word": " zwölf.",
+        "probability": 0.8028186857700348
+      },
+      {
+        "start": 358.82,
+        "end": 358.96,
+        "word": " Wie",
+        "probability": 0.8970800638198853
+      },
+      {
+        "start": 358.96,
+        "end": 359.18,
+        "word": " ist",
+        "probability": 0.9956682920455933
+      },
+      {
+        "start": 359.18,
+        "end": 359.4,
+        "word": " Ihre",
+        "probability": 0.7402326464653015
+      },
+      {
+        "start": 359.4,
+        "end": 359.82,
+        "word": " Adresse?",
+        "probability": 0.9898945093154907
+      },
+      {
+        "start": 360.44,
+        "end": 361.08,
+        "word": " Buchstabieren",
+        "probability": 0.9681869447231293
+      },
+      {
+        "start": 361.08,
+        "end": 361.28,
+        "word": " Sie",
+        "probability": 0.9776256680488586
+      },
+      {
+        "start": 361.28,
+        "end": 361.48,
+        "word": " bitte",
+        "probability": 0.9787012338638306
+      },
+      {
+        "start": 361.48,
+        "end": 361.84,
+        "word": " Ihren",
+        "probability": 0.9862690567970276
+      },
+      {
+        "start": 361.84,
+        "end": 362.16,
+        "word": " Namen.",
+        "probability": 0.9989173412322998
+      },
+      {
+        "start": 362.64,
+        "end": 362.84,
+        "word": " Bitte",
+        "probability": 0.9734072089195251
+      },
+      {
+        "start": 362.84,
+        "end": 363.18,
+        "word": " schreiben",
+        "probability": 0.8994622230529785
+      },
+      {
+        "start": 363.18,
+        "end": 363.46,
+        "word": " Sie",
+        "probability": 0.9797348380088806
+      },
+      {
+        "start": 363.46,
+        "end": 363.68,
+        "word": " Ihre",
+        "probability": 0.988384485244751
+      },
+      {
+        "start": 363.68,
+        "end": 364.44,
+        "word": " Telefonnummer.",
+        "probability": 0.9790035933256149
+      },
+      {
+        "start": 364.86,
+        "end": 365.02,
+        "word": " Ich",
+        "probability": 0.9916719794273376
+      },
+      {
+        "start": 365.02,
+        "end": 365.18,
+        "word": " möchte",
+        "probability": 0.9983338713645935
+      },
+      {
+        "start": 365.18,
+        "end": 365.52,
+        "word": " das",
+        "probability": 0.996377170085907
+      },
+      {
+        "start": 365.52,
+        "end": 366.02,
+        "word": " Formular",
+        "probability": 0.9739068448543549
+      },
+      {
+        "start": 366.02,
+        "end": 366.7,
+        "word": " ausfüllen.",
+        "probability": 0.9850652813911438
+      },
+      {
+        "start": 367.14,
+        "end": 367.3,
+        "word": " Ich",
+        "probability": 0.9837408661842346
+      },
+      {
+        "start": 367.3,
+        "end": 367.68,
+        "word": " suche",
+        "probability": 0.9899404346942902
+      },
+      {
+        "start": 367.68,
+        "end": 367.9,
+        "word": " eine",
+        "probability": 0.9970109462738037
+      },
+      {
+        "start": 367.9,
+        "end": 368.3,
+        "word": " Jacke.",
+        "probability": 0.9877808690071106
+      },
+      {
+        "start": 368.72,
+        "end": 368.92,
+        "word": " Haben",
+        "probability": 0.9800077676773071
+      },
+      {
+        "start": 368.92,
+        "end": 369.1,
+        "word": " Sie",
+        "probability": 0.9827154874801636
+      },
+      {
+        "start": 369.1,
+        "end": 369.3,
+        "word": " das",
+        "probability": 0.9988847374916077
+      },
+      {
+        "start": 369.3,
+        "end": 369.62,
+        "word": " Hemd",
+        "probability": 0.9787375628948212
+      },
+      {
+        "start": 369.62,
+        "end": 369.74,
+        "word": " in",
+        "probability": 0.9959803819656372
+      },
+      {
+        "start": 369.74,
+        "end": 370.08,
+        "word": " Größe",
+        "probability": 0.9973970055580139
+      },
+      {
+        "start": 370.08,
+        "end": 370.52,
+        "word": " 40?",
+        "probability": 0.9774542450904846
+      },
+      {
+        "start": 371.0,
+        "end": 371.2,
+        "word": " Kann",
+        "probability": 0.9860411286354065
+      },
+      {
+        "start": 371.2,
+        "end": 371.32,
+        "word": " ich",
+        "probability": 0.9938567280769348
+      },
+      {
+        "start": 371.32,
+        "end": 371.5,
+        "word": " die",
+        "probability": 0.9971250891685486
+      },
+      {
+        "start": 371.5,
+        "end": 371.78,
+        "word": " Hose",
+        "probability": 0.9925720691680908
+      },
+      {
+        "start": 371.78,
+        "end": 372.44,
+        "word": " anprobieren?",
+        "probability": 0.9913389484087626
+      },
+      {
+        "start": 372.9,
+        "end": 373.06,
+        "word": " Die",
+        "probability": 0.9904423356056213
+      },
+      {
+        "start": 373.06,
+        "end": 373.36,
+        "word": " Jacke",
+        "probability": 0.9986069798469543
+      },
+      {
+        "start": 373.36,
+        "end": 373.54,
+        "word": " ist",
+        "probability": 0.997432291507721
+      },
+      {
+        "start": 373.54,
+        "end": 373.78,
+        "word": " zu",
+        "probability": 0.9837973713874817
+      },
+      {
+        "start": 373.78,
+        "end": 374.06,
+        "word": " groß.",
+        "probability": 0.9816262722015381
+      },
+      {
+        "start": 374.06,
+        "end": 374.68,
+        "word": " Ich",
+        "probability": 0.48325788974761963
+      },
+      {
+        "start": 374.68,
+        "end": 374.82,
+        "word": " möchte",
+        "probability": 0.09464282542467117
+      },
+      {
+        "start": 374.82,
+        "end": 375.14,
+        "word": " eine",
+        "probability": 0.9227716326713562
+      },
+      {
+        "start": 375.14,
+        "end": 375.72,
+        "word": " kleinere",
+        "probability": 0.9979386031627655
+      },
+      {
+        "start": 375.72,
+        "end": 376.18,
+        "word": " Größe.",
+        "probability": 0.996587485074997
+      },
+      {
+        "start": 376.58,
+        "end": 376.7,
+        "word": " Das",
+        "probability": 0.8900936245918274
+      },
+      {
+        "start": 376.7,
+        "end": 376.9,
+        "word": " ist",
+        "probability": 0.9973783493041992
+      },
+      {
+        "start": 376.9,
+        "end": 377.12,
+        "word": " zu",
+        "probability": 0.9920360445976257
+      },
+      {
+        "start": 377.12,
+        "end": 377.5,
+        "word": " teuer.",
+        "probability": 0.9983685612678528
+      },
+      {
+        "start": 377.88,
+        "end": 377.98,
+        "word": " Kann",
+        "probability": 0.93581622838974
+      },
+      {
+        "start": 377.98,
+        "end": 378.1,
+        "word": " ich",
+        "probability": 0.9946213960647583
+      },
+      {
+        "start": 378.1,
+        "end": 378.28,
+        "word": " mit",
+        "probability": 0.9873399138450623
+      },
+      {
+        "start": 378.28,
+        "end": 378.62,
+        "word": " Karte",
+        "probability": 0.9469162225723267
+      },
+      {
+        "start": 378.62,
+        "end": 379.06,
+        "word": " bezahlen?",
+        "probability": 0.9965050220489502
+      },
+      {
+        "start": 379.5,
+        "end": 379.66,
+        "word": " Ich",
+        "probability": 0.9774839878082275
+      },
+      {
+        "start": 379.66,
+        "end": 379.86,
+        "word": " nehme",
+        "probability": 0.9589870572090149
+      },
+      {
+        "start": 379.86,
+        "end": 380.06,
+        "word": " die",
+        "probability": 0.996190071105957
+      },
+      {
+        "start": 380.06,
+        "end": 380.42,
+        "word": " blaue",
+        "probability": 0.9858417510986328
+      },
+      {
+        "start": 380.42,
+        "end": 380.84,
+        "word": " Jacke.",
+        "probability": 0.9872344732284546
+      },
+      {
+        "start": 381.22,
+        "end": 381.34,
+        "word": " Ich",
+        "probability": 0.968288779258728
+      },
+      {
+        "start": 381.34,
+        "end": 381.56,
+        "word": " habe",
+        "probability": 0.9885077476501465
+      },
+      {
+        "start": 381.56,
+        "end": 382.4,
+        "word": " Kopfschmerzen.",
+        "probability": 0.9974438101053238
+      },
+      {
+        "start": 382.9,
+        "end": 383.04,
+        "word": " Mein",
+        "probability": 0.9750271439552307
+      },
+      {
+        "start": 383.04,
+        "end": 383.42,
+        "word": " Hals",
+        "probability": 0.9280157685279846
+      },
+      {
+        "start": 383.42,
+        "end": 383.64,
+        "word": " tut",
+        "probability": 0.9981842637062073
+      },
+      {
+        "start": 383.64,
+        "end": 384.06,
+        "word": " weh.",
+        "probability": 0.9982866644859314
+      },
+      {
+        "start": 384.32,
+        "end": 384.48,
+        "word": " Ich",
+        "probability": 0.9929186701774597
+      },
+      {
+        "start": 384.48,
+        "end": 384.74,
+        "word": " fühle",
+        "probability": 0.9986863434314728
+      },
+      {
+        "start": 384.74,
+        "end": 384.9,
+        "word": " mich",
+        "probability": 0.9995014667510986
+      },
+      {
+        "start": 384.9,
+        "end": 385.14,
+        "word": " nicht",
+        "probability": 0.9974452257156372
+      },
+      {
+        "start": 385.14,
+        "end": 385.4,
+        "word": " gut.",
+        "probability": 0.9987311959266663
+      },
+      {
+        "start": 385.84,
+        "end": 385.98,
+        "word": " Ich",
+        "probability": 0.9940640330314636
+      },
+      {
+        "start": 385.98,
+        "end": 386.2,
+        "word": " habe",
+        "probability": 0.9956230521202087
+      },
+      {
+        "start": 386.2,
+        "end": 386.68,
+        "word": " Fieber.",
+        "probability": 0.9909567832946777
+      },
+      {
+        "start": 387.04,
+        "end": 387.16,
+        "word": " Ich",
+        "probability": 0.9940213561058044
+      },
+      {
+        "start": 387.16,
+        "end": 387.48,
+        "word": " brauche",
+        "probability": 0.9934932291507721
+      },
+      {
+        "start": 387.48,
+        "end": 387.74,
+        "word": " einen",
+        "probability": 0.9983522891998291
+      },
+      {
+        "start": 387.74,
+        "end": 388.26,
+        "word": " Termin.",
+        "probability": 0.996475875377655
+      },
+      {
+        "start": 388.7,
+        "end": 388.86,
+        "word": " Wann",
+        "probability": 0.8842826187610626
+      },
+      {
+        "start": 388.86,
+        "end": 389.04,
+        "word": " kann",
+        "probability": 0.9971795082092285
+      },
+      {
+        "start": 389.04,
+        "end": 389.16,
+        "word": " ich",
+        "probability": 0.999010443687439
+      },
+      {
+        "start": 389.16,
+        "end": 389.36,
+        "word": " zum",
+        "probability": 0.9980219602584839
+      },
+      {
+        "start": 389.36,
+        "end": 389.7,
+        "word": " Arzt",
+        "probability": 0.9953086674213409
+      },
+      {
+        "start": 389.7,
+        "end": 389.96,
+        "word": " kommen?",
+        "probability": 0.9959375858306885
+      },
+      {
+        "start": 390.38,
+        "end": 390.52,
+        "word": " Ich",
+        "probability": 0.9911308288574219
+      },
+      {
+        "start": 390.52,
+        "end": 390.66,
+        "word": " war",
+        "probability": 0.9992178678512573
+      },
+      {
+        "start": 390.66,
+        "end": 391.08,
+        "word": " gestern",
+        "probability": 0.999433308839798
+      },
+      {
+        "start": 391.08,
+        "end": 391.24,
+        "word": " beim",
+        "probability": 0.9960551261901855
+      },
+      {
+        "start": 391.24,
+        "end": 391.7,
+        "word": " Arzt.",
+        "probability": 0.9990341663360596
+      },
+      {
+        "start": 392.06,
+        "end": 392.32,
+        "word": " Können",
+        "probability": 0.9629303216934204
+      },
+      {
+        "start": 392.32,
+        "end": 392.46,
+        "word": " Sie",
+        "probability": 0.8931463360786438
+      },
+      {
+        "start": 392.46,
+        "end": 392.66,
+        "word": " bitte",
+        "probability": 0.996502161026001
+      },
+      {
+        "start": 392.66,
+        "end": 393.08,
+        "word": " langsam",
+        "probability": 0.9903664588928223
+      },
+      {
+        "start": 393.08,
+        "end": 393.56,
+        "word": " sprechen?",
+        "probability": 0.9966756105422974
+      },
+      {
+        "start": 394.12,
+        "end": 394.42,
+        "word": " Unsere",
+        "probability": 0.9689622223377228
+      },
+      {
+        "start": 394.42,
+        "end": 394.72,
+        "word": " Wohnung",
+        "probability": 0.9982119798660278
+      },
+      {
+        "start": 394.72,
+        "end": 395.02,
+        "word": " hat",
+        "probability": 0.9989079236984253
+      },
+      {
+        "start": 395.02,
+        "end": 395.32,
+        "word": " drei",
+        "probability": 0.7282524108886719
+      },
+      {
+        "start": 395.32,
+        "end": 395.68,
+        "word": " Zimmer.",
+        "probability": 0.9972847700119019
+      },
+      {
+        "start": 396.06,
+        "end": 396.18,
+        "word": " Die",
+        "probability": 0.9960005879402161
+      },
+      {
+        "start": 396.18,
+        "end": 396.5,
+        "word": " Küche",
+        "probability": 0.9993186295032501
+      },
+      {
+        "start": 396.5,
+        "end": 396.8,
+        "word": " ist",
+        "probability": 0.9969250559806824
+      },
+      {
+        "start": 396.8,
+        "end": 397.06,
+        "word": " neben",
+        "probability": 0.9966405630111694
+      },
+      {
+        "start": 397.06,
+        "end": 397.3,
+        "word": " dem",
+        "probability": 0.9881084561347961
+      },
+      {
+        "start": 397.3,
+        "end": 397.54,
+        "word": " Bad.",
+        "probability": 0.7661688923835754
+      },
+      {
+        "start": 397.98,
+        "end": 398.12,
+        "word": " Die",
+        "probability": 0.9968827962875366
+      },
+      {
+        "start": 398.12,
+        "end": 398.56,
+        "word": " Heizung",
+        "probability": 0.993723730246226
+      },
+      {
+        "start": 398.56,
+        "end": 398.88,
+        "word": " funktioniert",
+        "probability": 0.9985252022743225
+      },
+      {
+        "start": 398.88,
+        "end": 399.42,
+        "word": " nicht.",
+        "probability": 0.9985853433609009
+      },
+      {
+        "start": 399.86,
+        "end": 400.0,
+        "word": " Das",
+        "probability": 0.9966894388198853
+      },
+      {
+        "start": 400.0,
+        "end": 400.42,
+        "word": " Fenster",
+        "probability": 0.9991959035396576
+      },
+      {
+        "start": 400.42,
+        "end": 400.6,
+        "word": " ist",
+        "probability": 0.9987848401069641
+      },
+      {
+        "start": 400.6,
+        "end": 400.98,
+        "word": " kaputt.",
+        "probability": 0.9935798048973083
+      },
+      {
+        "start": 401.34,
+        "end": 401.6,
+        "word": " Können",
+        "probability": 0.9909223020076752
+      },
+      {
+        "start": 401.6,
+        "end": 401.74,
+        "word": " Sie",
+        "probability": 0.9782018661499023
+      },
+      {
+        "start": 401.74,
+        "end": 401.92,
+        "word": " das",
+        "probability": 0.9909787178039551
+      },
+      {
+        "start": 401.92,
+        "end": 402.12,
+        "word": " bitte",
+        "probability": 0.9479252696037292
+      },
+      {
+        "start": 402.12,
+        "end": 402.8,
+        "word": " reparieren?",
+        "probability": 0.9975251853466034
+      },
+      {
+        "start": 402.8,
+        "end": 403.3,
+        "word": " Ich",
+        "probability": 0.4916631877422333
+      },
+      {
+        "start": 403.3,
+        "end": 403.44,
+        "word": " muss",
+        "probability": 0.5178152918815613
+      },
+      {
+        "start": 403.44,
+        "end": 403.7,
+        "word": " mein",
+        "probability": 0.94526207447052
+      },
+      {
+        "start": 403.7,
+        "end": 403.98,
+        "word": " Zimmer",
+        "probability": 0.9980922341346741
+      },
+      {
+        "start": 403.98,
+        "end": 404.64,
+        "word": " aufräumen.",
+        "probability": 0.9962525765101115
+      },
+      {
+        "start": 405.0,
+        "end": 405.14,
+        "word": " Wir",
+        "probability": 0.14313195645809174
+      },
+      {
+        "start": 405.14,
+        "end": 405.34,
+        "word": " haben",
+        "probability": 0.9990769624710083
+      },
+      {
+        "start": 405.34,
+        "end": 405.54,
+        "word": " die",
+        "probability": 0.9983539581298828
+      },
+      {
+        "start": 405.54,
+        "end": 405.84,
+        "word": " Küche",
+        "probability": 0.9990413784980774
+      },
+      {
+        "start": 405.84,
+        "end": 406.36,
+        "word": " geputzt.",
+        "probability": 0.996687630812327
+      },
+      {
+        "start": 406.74,
+        "end": 406.84,
+        "word": " Der",
+        "probability": 0.9748005270957947
+      },
+      {
+        "start": 406.84,
+        "end": 407.18,
+        "word": " Tisch",
+        "probability": 0.9926177859306335
+      },
+      {
+        "start": 407.18,
+        "end": 407.4,
+        "word": " steht",
+        "probability": 0.998629093170166
+      },
+      {
+        "start": 407.4,
+        "end": 407.64,
+        "word": " vor",
+        "probability": 0.9989942908287048
+      },
+      {
+        "start": 407.64,
+        "end": 407.8,
+        "word": " dem",
+        "probability": 0.9989168643951416
+      },
+      {
+        "start": 407.8,
+        "end": 408.24,
+        "word": " Fenster.",
+        "probability": 0.9991650581359863
+      },
+      {
+        "start": 408.7,
+        "end": 408.72,
+        "word": " Der",
+        "probability": 0.9370027780532837
+      },
+      {
+        "start": 408.72,
+        "end": 409.3,
+        "word": " Unterricht",
+        "probability": 0.9962866306304932
+      },
+      {
+        "start": 409.3,
+        "end": 409.54,
+        "word": " fängt",
+        "probability": 0.9984996914863586
+      },
+      {
+        "start": 409.54,
+        "end": 409.72,
+        "word": " um",
+        "probability": 0.9976855516433716
+      },
+      {
+        "start": 409.72,
+        "end": 410.02,
+        "word": " 9",
+        "probability": 0.45484206080436707
+      },
+      {
+        "start": 410.02,
+        "end": 410.34,
+        "word": " Uhr",
+        "probability": 0.991555392742157
+      },
+      {
+        "start": 410.34,
+        "end": 410.56,
+        "word": " an.",
+        "probability": 0.9963584542274475
+      },
+      {
+        "start": 410.94,
+        "end": 411.1,
+        "word": " Meine",
+        "probability": 0.9455620646476746
+      },
+      {
+        "start": 411.1,
+        "end": 411.52,
+        "word": " Arbeit",
+        "probability": 0.999422550201416
+      },
+      {
+        "start": 411.52,
+        "end": 412.0,
+        "word": " beginnt",
+        "probability": 0.9941242337226868
+      },
+      {
+        "start": 412.0,
+        "end": 412.14,
+        "word": " um",
+        "probability": 0.9974985718727112
+      },
+      {
+        "start": 412.14,
+        "end": 412.42,
+        "word": " 8",
+        "probability": 0.9580703377723694
+      },
+      {
+        "start": 412.42,
+        "end": 412.74,
+        "word": " Uhr.",
+        "probability": 0.9988067150115967
+      },
+      {
+        "start": 413.14,
+        "end": 413.24,
+        "word": " Ich",
+        "probability": 0.892763614654541
+      },
+      {
+        "start": 413.24,
+        "end": 413.42,
+        "word": " habe",
+        "probability": 0.9756735563278198
+      },
+      {
+        "start": 413.42,
+        "end": 413.66,
+        "word": " eine",
+        "probability": 0.9948470592498779
+      },
+      {
+        "start": 413.66,
+        "end": 414.02,
+        "word": " Frage.",
+        "probability": 0.999177873134613
+      },
+      {
+        "start": 414.48,
+        "end": 414.62,
+        "word": " Ich",
+        "probability": 0.9222556948661804
+      },
+      {
+        "start": 414.62,
+        "end": 415.1,
+        "word": " verstehe",
+        "probability": 0.996527224779129
+      },
+      {
+        "start": 415.1,
+        "end": 415.24,
+        "word": " die",
+        "probability": 0.9979556798934937
+      },
+      {
+        "start": 415.24,
+        "end": 415.64,
+        "word": " Aufgabe",
+        "probability": 0.9967300891876221
+      },
+      {
+        "start": 415.64,
+        "end": 415.98,
+        "word": " nicht.",
+        "probability": 0.9973581433296204
+      },
+      {
+        "start": 416.3,
+        "end": 416.6,
+        "word": " Kannst",
+        "probability": 0.9925163388252258
+      },
+      {
+        "start": 416.6,
+        "end": 416.7,
+        "word": " du",
+        "probability": 0.9400516152381897
+      },
+      {
+        "start": 416.7,
+        "end": 416.86,
+        "word": " das",
+        "probability": 0.9957493543624878
+      },
+      {
+        "start": 416.86,
+        "end": 417.04,
+        "word": " bitte",
+        "probability": 0.980290412902832
+      },
+      {
+        "start": 417.04,
+        "end": 417.6,
+        "word": " erklären?",
+        "probability": 0.9947269558906555
+      },
+      {
+        "start": 418.06,
+        "end": 418.22,
+        "word": " Wann",
+        "probability": 0.8508360981941223
+      },
+      {
+        "start": 418.22,
+        "end": 418.42,
+        "word": " haben",
+        "probability": 0.997166097164154
+      },
+      {
+        "start": 418.42,
+        "end": 418.62,
+        "word": " wir",
+        "probability": 0.9992703795433044
+      },
+      {
+        "start": 418.62,
+        "end": 418.96,
+        "word": " Pause?",
+        "probability": 0.9789342284202576
+      },
+      {
+        "start": 419.4,
+        "end": 419.54,
+        "word": " Ich",
+        "probability": 0.98853600025177
+      },
+      {
+        "start": 419.54,
+        "end": 419.74,
+        "word": " habe",
+        "probability": 0.997916042804718
+      },
+      {
+        "start": 419.74,
+        "end": 420.0,
+        "word": " meine",
+        "probability": 0.9960801005363464
+      },
+      {
+        "start": 420.0,
+        "end": 420.68,
+        "word": " Hausaufgaben",
+        "probability": 0.9949001520872116
+      },
+      {
+        "start": 420.68,
+        "end": 421.06,
+        "word": " gemacht.",
+        "probability": 0.9989562034606934
+      },
+      {
+        "start": 421.42,
+        "end": 421.52,
+        "word": " Wir",
+        "probability": 0.9835597276687622
+      },
+      {
+        "start": 421.52,
+        "end": 421.78,
+        "word": " müssen",
+        "probability": 0.9992067217826843
+      },
+      {
+        "start": 421.78,
+        "end": 422.08,
+        "word": " morgen",
+        "probability": 0.9891939163208008
+      },
+      {
+        "start": 422.08,
+        "end": 422.44,
+        "word": " früh",
+        "probability": 0.9952095150947571
+      },
+      {
+        "start": 422.44,
+        "end": 422.96,
+        "word": " anfangen.",
+        "probability": 0.9986854791641235
+      },
+      {
+        "start": 423.34,
+        "end": 423.48,
+        "word": " Ich",
+        "probability": 0.9926939010620117
+      },
+      {
+        "start": 423.48,
+        "end": 423.62,
+        "word": " möchte",
+        "probability": 0.998933732509613
+      },
+      {
+        "start": 423.62,
+        "end": 423.96,
+        "word": " eine",
+        "probability": 0.998246431350708
+      },
+      {
+        "start": 423.96,
+        "end": 424.58,
+        "word": " Fahrkarte",
+        "probability": 0.9967718521753947
+      },
+      {
+        "start": 424.58,
+        "end": 424.8,
+        "word": " nach",
+        "probability": 0.9986151456832886
+      },
+      {
+        "start": 424.8,
+        "end": 425.1,
+        "word": " Berlin.",
+        "probability": 0.9975868463516235
+      },
+      {
+        "start": 426.0,
+        "end": 426.18,
+        "word": " Wann",
+        "probability": 0.5455859266221523
+      },
+      {
+        "start": 426.18,
+        "end": 426.44,
+        "word": " fährt",
+        "probability": 0.9977581202983856
+      },
+      {
+        "start": 426.44,
+        "end": 426.6,
+        "word": " der",
+        "probability": 0.9990977048873901
+      },
+      {
+        "start": 426.6,
+        "end": 426.84,
+        "word": " Zug",
+        "probability": 0.997794508934021
+      },
+      {
+        "start": 426.84,
+        "end": 427.14,
+        "word": " ab?",
+        "probability": 0.9977769255638123
+      },
+      {
+        "start": 427.92,
+        "end": 428.06,
+        "word": " Der",
+        "probability": 0.8790490627288818
+      },
+      {
+        "start": 428.06,
+        "end": 428.38,
+        "word": " Zug",
+        "probability": 0.9970916509628296
+      },
+      {
+        "start": 428.38,
+        "end": 428.6,
+        "word": " fährt",
+        "probability": 0.9991332292556763
+      },
+      {
+        "start": 428.6,
+        "end": 428.84,
+        "word": " von",
+        "probability": 0.9950041174888611
+      },
+      {
+        "start": 428.84,
+        "end": 429.2,
+        "word": " Gleis",
+        "probability": 0.9728570779164633
+      },
+      {
+        "start": 429.2,
+        "end": 429.52,
+        "word": " 3",
+        "probability": 0.9235247373580933
+      },
+      {
+        "start": 429.52,
+        "end": 429.84,
+        "word": " ab.",
+        "probability": 0.9790350198745728
+      },
+      {
+        "start": 429.84,
+        "end": 430.68,
+        "word": " Ich",
+        "probability": 0.5445377826690674
+      },
+      {
+        "start": 430.68,
+        "end": 431.02,
+        "word": " fahre",
+        "probability": 0.9454230666160583
+      },
+      {
+        "start": 431.02,
+        "end": 431.18,
+        "word": " mit",
+        "probability": 0.9968721270561218
+      },
+      {
+        "start": 431.18,
+        "end": 431.32,
+        "word": " dem",
+        "probability": 0.9980565905570984
+      },
+      {
+        "start": 431.32,
+        "end": 431.64,
+        "word": " Zug.",
+        "probability": 0.9952245950698853
+      },
+      {
+        "start": 432.4,
+        "end": 432.52,
+        "word": " Ich",
+        "probability": 0.7336367964744568
+      },
+      {
+        "start": 432.52,
+        "end": 432.68,
+        "word": " habe",
+        "probability": 0.9877025485038757
+      },
+      {
+        "start": 432.68,
+        "end": 432.9,
+        "word": " ein",
+        "probability": 0.9743722081184387
+      },
+      {
+        "start": 432.9,
+        "end": 433.18,
+        "word": " Zimmer",
+        "probability": 0.9995309114456177
+      },
+      {
+        "start": 433.18,
+        "end": 433.66,
+        "word": " gebucht.",
+        "probability": 0.9959304630756378
+      },
+      {
+        "start": 434.42,
+        "end": 434.5,
+        "word": " Wir",
+        "probability": 0.874146044254303
+      },
+      {
+        "start": 434.5,
+        "end": 434.8,
+        "word": " bleiben",
+        "probability": 0.9885098338127136
+      },
+      {
+        "start": 434.8,
+        "end": 435.16,
+        "word": " zwei",
+        "probability": 0.9004446268081665
+      },
+      {
+        "start": 435.16,
+        "end": 435.66,
+        "word": " Nächte.",
+        "probability": 0.991966168085734
+      },
+      {
+        "start": 436.34,
+        "end": 436.52,
+        "word": " Haben",
+        "probability": 0.868172287940979
+      },
+      {
+        "start": 436.52,
+        "end": 436.74,
+        "word": " Sie",
+        "probability": 0.8791923522949219
+      },
+      {
+        "start": 436.74,
+        "end": 436.92,
+        "word": " ein",
+        "probability": 0.9990492463111877
+      },
+      {
+        "start": 436.92,
+        "end": 437.32,
+        "word": " freies",
+        "probability": 0.9851999282836914
+      },
+      {
+        "start": 437.32,
+        "end": 437.58,
+        "word": " Zimmer?",
+        "probability": 0.9994811415672302
+      },
+      {
+        "start": 438.38,
+        "end": 438.6,
+        "word": " Können",
+        "probability": 0.984687328338623
+      },
+      {
+        "start": 438.6,
+        "end": 438.72,
+        "word": " Sie",
+        "probability": 0.9607930183410645
+      },
+      {
+        "start": 438.72,
+        "end": 438.86,
+        "word": " uns",
+        "probability": 0.9992695450782776
+      },
+      {
+        "start": 438.86,
+        "end": 439.1,
+        "word": " bitte",
+        "probability": 0.9944921731948853
+      },
+      {
+        "start": 439.1,
+        "end": 439.48,
+        "word": " helfen?",
+        "probability": 0.9974333643913269
+      },
+      {
+        "start": 440.24,
+        "end": 440.42,
+        "word": " Hallo",
+        "probability": 0.8455244898796082
+      },
+      {
+        "start": 440.42,
+        "end": 440.7,
+        "word": " Mia!",
+        "probability": 0.40997618436813354
+      },
+      {
+        "start": 441.42,
+        "end": 441.56,
+        "word": " Ich",
+        "probability": 0.9836906790733337
+      },
+      {
+        "start": 441.56,
+        "end": 441.78,
+        "word": " möchte",
+        "probability": 0.9985195994377136
+      },
+      {
+        "start": 441.78,
+        "end": 442.0,
+        "word": " dich",
+        "probability": 0.8865168690681458
+      },
+      {
+        "start": 442.0,
+        "end": 442.7,
+        "word": " einladen.",
+        "probability": 0.9974269072214762
+      },
+      {
+        "start": 443.24,
+        "end": 443.36,
+        "word": " Wir",
+        "probability": 0.9928017854690552
+      },
+      {
+        "start": 443.36,
+        "end": 443.56,
+        "word": " treffen",
+        "probability": 0.9981420040130615
+      },
+      {
+        "start": 443.56,
+        "end": 443.88,
+        "word": " uns",
+        "probability": 0.9993292093276978
+      },
+      {
+        "start": 443.88,
+        "end": 444.12,
+        "word": " um",
+        "probability": 0.9967304468154907
+      },
+      {
+        "start": 444.12,
+        "end": 444.46,
+        "word": " 8",
+        "probability": 0.5952363610267639
+      },
+      {
+        "start": 444.46,
+        "end": 444.68,
+        "word": " Uhr",
+        "probability": 0.985791802406311
+      },
+      {
+        "start": 444.68,
+        "end": 444.9,
+        "word": " im",
+        "probability": 0.9885188937187195
+      },
+      {
+        "start": 444.9,
+        "end": 445.18,
+        "word": " Park.",
+        "probability": 0.9883954524993896
+      },
+      {
+        "start": 445.84,
+        "end": 446.14,
+        "word": " Danke",
+        "probability": 0.9813529253005981
+      },
+      {
+        "start": 446.14,
+        "end": 446.38,
+        "word": " für",
+        "probability": 0.9970942735671997
+      },
+      {
+        "start": 446.38,
+        "end": 446.56,
+        "word": " deine",
+        "probability": 0.8765461444854736
+      },
+      {
+        "start": 446.56,
+        "end": 447.1,
+        "word": " Nachricht.",
+        "probability": 0.992705374956131
+      },
+      {
+        "start": 447.62,
+        "end": 448.0,
+        "word": " Leider",
+        "probability": 0.979609489440918
+      },
+      {
+        "start": 448.0,
+        "end": 448.24,
+        "word": " kann",
+        "probability": 0.9965329170227051
+      },
+      {
+        "start": 448.24,
+        "end": 448.38,
+        "word": " ich",
+        "probability": 0.9974290728569031
+      },
+      {
+        "start": 448.38,
+        "end": 448.6,
+        "word": " morgen",
+        "probability": 0.9951411485671997
+      },
+      {
+        "start": 448.6,
+        "end": 448.88,
+        "word": " nicht",
+        "probability": 0.9990763664245605
+      },
+      {
+        "start": 448.88,
+        "end": 449.2,
+        "word": " kommen.",
+        "probability": 0.993519127368927
+      },
+      {
+        "start": 449.82,
+        "end": 450.08,
+        "word": " Können",
+        "probability": 0.9939481317996979
+      },
+      {
+        "start": 450.08,
+        "end": 450.22,
+        "word": " wir",
+        "probability": 0.9987714886665344
+      },
+      {
+        "start": 450.22,
+        "end": 450.4,
+        "word": " den",
+        "probability": 0.9953043460845947
+      },
+      {
+        "start": 450.4,
+        "end": 450.76,
+        "word": " Termin",
+        "probability": 0.9967163503170013
+      },
+      {
+        "start": 450.76,
+        "end": 451.24,
+        "word": " verschieben?",
+        "probability": 0.9953001439571381
+      },
+      {
+        "start": 451.8,
+        "end": 452.18,
+        "word": " Morgen",
+        "probability": 0.9129334688186646
+      },
+      {
+        "start": 452.18,
+        "end": 452.56,
+        "word": " lerne",
+        "probability": 0.9828114807605743
+      },
+      {
+        "start": 452.56,
+        "end": 452.72,
+        "word": " ich",
+        "probability": 0.9985230565071106
+      },
+      {
+        "start": 452.72,
+        "end": 453.02,
+        "word": " Deutsch.",
+        "probability": 0.9893303513526917
+      },
+      {
+        "start": 453.7,
+        "end": 453.86,
+        "word": " Ich",
+        "probability": 0.9916436076164246
+      },
+      {
+        "start": 453.86,
+        "end": 454.02,
+        "word": " werde",
+        "probability": 0.9994049072265625
+      },
+      {
+        "start": 454.02,
+        "end": 454.38,
+        "word": " morgen",
+        "probability": 0.9942693710327148
+      },
+      {
+        "start": 454.38,
+        "end": 454.78,
+        "word": " Deutsch",
+        "probability": 0.9886410236358643
+      },
+      {
+        "start": 454.78,
+        "end": 455.08,
+        "word": " lernen.",
+        "probability": 0.9972928166389465
+      },
+      {
+        "start": 455.64,
+        "end": 455.82,
+        "word": " Du",
+        "probability": 0.9941892623901367
+      },
+      {
+        "start": 455.82,
+        "end": 455.98,
+        "word": " wirst",
+        "probability": 0.9947229623794556
+      },
+      {
+        "start": 455.98,
+        "end": 456.24,
+        "word": " nach",
+        "probability": 0.9988252520561218
+      },
+      {
+        "start": 456.24,
+        "end": 456.54,
+        "word": " Berlin",
+        "probability": 0.9963206052780151
+      },
+      {
+        "start": 456.54,
+        "end": 456.98,
+        "word": " fahren.",
+        "probability": 0.998205304145813
+      },
+      {
+        "start": 457.62,
+        "end": 457.78,
+        "word": " Er",
+        "probability": 0.9950323104858398
+      },
+      {
+        "start": 457.78,
+        "end": 458.02,
+        "word": " wird",
+        "probability": 0.9991482496261597
+      },
+      {
+        "start": 458.02,
+        "end": 458.18,
+        "word": " uns",
+        "probability": 0.9994731545448303
+      },
+      {
+        "start": 458.18,
+        "end": 458.52,
+        "word": " helfen.",
+        "probability": 0.998928964138031
+      },
+      {
+        "start": 458.52,
+        "end": 459.28,
+        "word": " Wir",
+        "probability": 0.7111024856567383
+      },
+      {
+        "start": 459.28,
+        "end": 459.56,
+        "word": " werden",
+        "probability": 0.9912558794021606
+      },
+      {
+        "start": 459.56,
+        "end": 459.86,
+        "word": " nächste",
+        "probability": 0.997201681137085
+      },
+      {
+        "start": 459.86,
+        "end": 460.14,
+        "word": " Woche",
+        "probability": 0.9986466765403748
+      },
+      {
+        "start": 460.14,
+        "end": 460.7,
+        "word": " reisen.",
+        "probability": 0.9919082522392273
+      },
+      {
+        "start": 461.28,
+        "end": 461.38,
+        "word": " Ihr",
+        "probability": 0.9820505380630493
+      },
+      {
+        "start": 461.38,
+        "end": 461.72,
+        "word": " werdet",
+        "probability": 0.9972887933254242
+      },
+      {
+        "start": 461.72,
+        "end": 462.0,
+        "word": " hier",
+        "probability": 0.9969987869262695
+      },
+      {
+        "start": 462.0,
+        "end": 462.48,
+        "word": " wohnen.",
+        "probability": 0.9953028758366903
+      },
+      {
+        "start": 462.92,
+        "end": 463.06,
+        "word": " Sie",
+        "probability": 0.9919140338897705
+      },
+      {
+        "start": 463.06,
+        "end": 463.32,
+        "word": " werden",
+        "probability": 0.909656822681427
+      },
+      {
+        "start": 463.32,
+        "end": 463.64,
+        "word": " morgen",
+        "probability": 0.9932554960250854
+      },
+      {
+        "start": 463.64,
+        "end": 463.98,
+        "word": " kommen.",
+        "probability": 0.9913459420204163
+      }
+    ]
+  }
+]

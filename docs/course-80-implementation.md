@@ -68,3 +68,7 @@
 ## Human audio update — 18 October 2026
 
 Part 1 of the version-1 669-entry script has been imported: 223 exact recordings, including all 12 whole reading texts. Existing 453 bindings are preserved; the recording map now has 676 entries. The frozen 669-line script and IDs remain unchanged for the pending parts 2 and 3 (223 entries each). The runtime audit is refreshed separately. Source, full/isolated recognition evidence, hashes and crop boundaries are preserved under audio-sources/henri-course-part1-20261018 and audio-inbox. These are automated checks, not independent human linguistic proofreading.
+
+### Audio part 2
+
+Imported the next 223 course phrases (canonical positions 224–446). All 676 previous exact bindings remain unchanged; there are now 899 recordings. The course audio audit has 670 recorded texts and 223 pending entries, corresponding to the unchanged third script part. Original source, primary and regional recognition evidence, isolated clip recognition, hashes and boundaries are retained under audio-sources/henri-course-part2-20261018 and audio-inbox.

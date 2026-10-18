@@ -1,0 +1,1125 @@
+{
+  "version": 1,
+  "canonical_script": "audio/recording/course-80-missing.json",
+  "range": [
+    224,
+    446
+  ],
+  "entries": [
+    {
+      "id": "course80-audio-0224",
+      "text": "Ich trinke oft Tee.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0225",
+      "text": "Manchmal lese ich abends.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0226",
+      "text": "Wir spielen jeden Tag.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0227",
+      "text": "Sie kommt immer früh.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0228",
+      "text": "Ich rauche nie.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0229",
+      "text": "Zuerst lerne ich Deutsch.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0230",
+      "text": "Danach kaufe ich ein.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0231",
+      "text": "Wann können wir uns treffen?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0232",
+      "text": "Wir können uns morgen treffen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0233",
+      "text": "Hast du am Samstag Zeit?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0234",
+      "text": "Ja, ich habe Zeit.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0235",
+      "text": "Treffen wir uns um acht Uhr?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0236",
+      "text": "Das passt gut.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0237",
+      "text": "Leider kann ich nicht kommen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0238",
+      "text": "Ich rufe dich morgen an.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0239",
+      "text": "Ich habe Deutsch gelernt.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0240",
+      "text": "Du hast gestern gespielt.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0241",
+      "text": "Er hat hier gearbeitet.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0242",
+      "text": "Wir haben das gemacht.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0243",
+      "text": "Ihr habt gefragt.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0244",
+      "text": "Sie haben getanzt.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0245",
+      "text": "Hast du heute gelernt?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0246",
+      "text": "Ich habe gestern nicht gearbeitet.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0247",
+      "text": "Ich habe Brot gegessen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0248",
+      "text": "Du hast Wasser getrunken.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0249",
+      "text": "Er hat das Buch gelesen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0250",
+      "text": "Wir haben den Hund gesehen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0251",
+      "text": "Sie hat eine Nachricht geschrieben.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0252",
+      "text": "Ihr habt das Buch genommen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0253",
+      "text": "Wir haben Deutsch gesprochen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0254",
+      "text": "Sie haben gesungen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0255",
+      "text": "Ich bin nach Hause gegangen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0256",
+      "text": "Du bist früh gekommen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0257",
+      "text": "Er ist nach Berlin gefahren.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0258",
+      "text": "Wir sind hier geblieben.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0259",
+      "text": "Ihr seid in die Schule gegangen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0260",
+      "text": "Sie sind nach Hause gekommen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0261",
+      "text": "Bist du im Park geblieben?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0262",
+      "text": "Sie hat gestern getanzt.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0263",
+      "text": "Ich bin früh aufgestanden.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0264",
+      "text": "Du hast mich angerufen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0265",
+      "text": "Wir haben heute eingekauft.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0266",
+      "text": "Er hat seine Eltern besucht.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0267",
+      "text": "Ich habe dich verstanden.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0268",
+      "text": "Sie hat das Wort erklärt.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0269",
+      "text": "Wir haben lange telefoniert.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0270",
+      "text": "Er ist gestern zurückgekommen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0271",
+      "text": "Ich habe mich gefreut.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0272",
+      "text": "Du hast dich gewaschen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0273",
+      "text": "Er hat sich gefreut.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0274",
+      "text": "Wir haben uns getroffen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0275",
+      "text": "Ihr habt euch gefreut.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0276",
+      "text": "Sie haben sich gewaschen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0277",
+      "text": "Ich habe mir die Hände gewaschen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0278",
+      "text": "Sie hat sich mit ihrer Freundin getroffen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0279",
+      "text": "Ich war gestern zu Hause.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0280",
+      "text": "Du warst müde.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0281",
+      "text": "Er war krank.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0282",
+      "text": "Wir waren in Berlin.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0283",
+      "text": "Ihr wart hier.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0284",
+      "text": "Ich hatte Zeit.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0285",
+      "text": "Du hattest Hunger.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0286",
+      "text": "Sie hatten Durst.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0287",
+      "text": "Hier spricht man Deutsch.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0288",
+      "text": "Man kann hier lernen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0289",
+      "text": "Man muss hier warten.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0290",
+      "text": "Man darf hier nicht rauchen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0291",
+      "text": "Kann man mit Karte bezahlen?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0292",
+      "text": "Man lernt jeden Tag.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0293",
+      "text": "Hier gibt es Wasser.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0294",
+      "text": "Der Mann lernt Deutsch.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0295",
+      "text": "Ich habe Zeit, aber ich bin müde.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0296",
+      "text": "Trinkst du Tee oder Kaffee?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0297",
+      "text": "Ich bleibe hier, denn ich bin müde.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0298",
+      "text": "Wir können kommen, aber wir haben wenig Zeit.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0299",
+      "text": "Ich koche, und er kauft ein.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0300",
+      "text": "Wir gehen nach Hause, denn es ist spät.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0301",
+      "text": "Ich weiß, dass du hier bist.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0302",
+      "text": "Er sagt, dass er Zeit hat.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0303",
+      "text": "Wir glauben, dass sie Deutsch lernt.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0304",
+      "text": "Ich denke, dass das gut ist.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0305",
+      "text": "Sie sagt, dass sie kommen kann.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0306",
+      "text": "Ich weiß, dass du gestern gearbeitet hast.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0307",
+      "text": "Er sagt, dass wir früh aufstehen müssen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0308",
+      "text": "Wir wissen, dass er nach Hause gegangen ist.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0309",
+      "text": "Ich bleibe zu Hause, weil ich krank bin.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0310",
+      "text": "Sie lernt Deutsch, weil sie in Berlin wohnt.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0311",
+      "text": "Wir warten, weil er noch nicht da ist.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0312",
+      "text": "Ich bin müde. Deshalb gehe ich nach Hause.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0313",
+      "text": "Es regnet. Darum bleiben wir hier.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0314",
+      "text": "Weil ich Zeit habe, komme ich mit.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0315",
+      "text": "Er ist froh, weil er alles verstanden hat.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0316",
+      "text": "Wenn ich Zeit habe, komme ich.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0317",
+      "text": "Wir bleiben zu Hause, wenn es regnet.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0318",
+      "text": "Wenn du möchtest, helfe ich dir.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0319",
+      "text": "Ich freue mich, wenn du kommst.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0320",
+      "text": "Wenn wir frei sind, spielen wir.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0321",
+      "text": "Ruf mich an, wenn du zu Hause bist!",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0322",
+      "text": "Wenn ich müde bin, schlafe ich.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0323",
+      "text": "Wir können lernen, wenn ihr Zeit habt.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0324",
+      "text": "Ich versuche, Deutsch zu lernen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0325",
+      "text": "Wir beginnen, das Buch zu lesen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0326",
+      "text": "Ich habe Zeit, dir zu helfen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0327",
+      "text": "Er versucht, früh aufzustehen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0328",
+      "text": "Sie vergisst, mich anzurufen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0329",
+      "text": "Ich hoffe, morgen zu kommen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0330",
+      "text": "Es ist wichtig, Deutsch zu lernen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0331",
+      "text": "Das Buch ist interessant.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0332",
+      "text": "Der Film ist langweilig.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0333",
+      "text": "Heute ist es kalt.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0334",
+      "text": "Mir ist warm.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0335",
+      "text": "Die Tasche ist rot.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0336",
+      "text": "Das Auto ist blau.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0337",
+      "text": "Warum bist du traurig?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0338",
+      "text": "Mein Auto ist schneller als dein Auto.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0339",
+      "text": "Das Buch ist besser als das Buch dort.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0340",
+      "text": "Unser Haus ist größer als euer Haus.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0341",
+      "text": "Der Tisch ist kleiner als der Tisch dort.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0342",
+      "text": "Ich habe mehr Zeit als du.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0343",
+      "text": "Sie spricht langsamer als er.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0344",
+      "text": "Das Buch ist so gut wie das Buch dort.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0345",
+      "text": "Heute ist es wärmer als gestern.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0346",
+      "text": "Sie läuft am schnellsten.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0347",
+      "text": "Das Buch ist am besten.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0348",
+      "text": "Ich trinke lieber Tee als Kaffee.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0349",
+      "text": "Am liebsten trinke ich Wasser.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0350",
+      "text": "Er hat am meisten Zeit.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0351",
+      "text": "Unser Haus ist am kleinsten.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0352",
+      "text": "Hier lerne ich am besten.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0353",
+      "text": "Wir spielen am liebsten zusammen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0354",
+      "text": "Der gute Mann ist hier.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0355",
+      "text": "Die kleine Katze spielt.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0356",
+      "text": "Das neue Buch ist hier.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0357",
+      "text": "Ich sehe den großen Hund.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0358",
+      "text": "Er liest die interessante Geschichte.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0359",
+      "text": "Wir sehen das kleine Kind.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0360",
+      "text": "Die alten Bücher sind dort.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0361",
+      "text": "Ich kenne die guten Freunde.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0362",
+      "text": "Ein guter Freund kommt.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0363",
+      "text": "Eine kleine Katze spielt.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0364",
+      "text": "Das ist ein neues Buch.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0365",
+      "text": "Ich sehe einen großen Hund.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0366",
+      "text": "Das ist mein alter Tisch.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0367",
+      "text": "Ich lese meine neue Geschichte.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0368",
+      "text": "Wir haben kein kleines Auto.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0369",
+      "text": "Er sieht seinen guten Freund.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0370",
+      "text": "Ich spreche mit dem guten Freund.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0371",
+      "text": "Sie hilft einem kleinen Kind.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0372",
+      "text": "Wir kommen mit einer neuen Tasche.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0373",
+      "text": "Er antwortet der freundlichen Frau.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0374",
+      "text": "Ich spiele mit meinem kleinen Bruder.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0375",
+      "text": "Wir sprechen mit den guten Freunden.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0376",
+      "text": "Das Bild ist von einem alten Freund.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0377",
+      "text": "Ich bin bei meiner alten Schule.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0378",
+      "text": "Ich trinke kaltes Wasser.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0379",
+      "text": "Wir essen frisches Brot.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0380",
+      "text": "Ich mag grünen Tee.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0381",
+      "text": "Hier gibt es guten Kaffee.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0382",
+      "text": "Gute Bücher sind interessant.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0383",
+      "text": "Wir lesen neue Geschichten.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0384",
+      "text": "Ich spreche mit guten Freunden.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0385",
+      "text": "Warme Milch ist hier.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0386",
+      "text": "Mein Vorname ist Mia.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0387",
+      "text": "Mein Nachname ist Weber.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0388",
+      "text": "Ich wohne in der Schulstraße.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0389",
+      "text": "Meine Hausnummer ist zwölf.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0390",
+      "text": "Wie ist Ihre Adresse?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0391",
+      "text": "Buchstabieren Sie bitte Ihren Namen!",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0392",
+      "text": "Bitte schreiben Sie Ihre Telefonnummer!",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0393",
+      "text": "Ich möchte das Formular ausfüllen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0394",
+      "text": "Ich suche eine Jacke.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0395",
+      "text": "Haben Sie das Hemd in Größe vierzig?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0396",
+      "text": "Kann ich die Hose anprobieren?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0397",
+      "text": "Die Jacke ist zu groß.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0398",
+      "text": "Ich möchte eine kleinere Größe.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0399",
+      "text": "Das ist zu teuer.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0400",
+      "text": "Kann ich mit Karte bezahlen?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0401",
+      "text": "Ich nehme die blaue Jacke.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0402",
+      "text": "Ich habe Kopfschmerzen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0403",
+      "text": "Mein Hals tut weh.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0404",
+      "text": "Ich fühle mich nicht gut.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0405",
+      "text": "Ich habe Fieber.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0406",
+      "text": "Ich brauche einen Termin.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0407",
+      "text": "Wann kann ich zum Arzt kommen?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0408",
+      "text": "Ich war gestern beim Arzt.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0409",
+      "text": "Können Sie bitte langsam sprechen?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0410",
+      "text": "Unsere Wohnung hat drei Zimmer.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0411",
+      "text": "Die Küche ist neben dem Bad.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0412",
+      "text": "Die Heizung funktioniert nicht.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0413",
+      "text": "Das Fenster ist kaputt.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0414",
+      "text": "Können Sie das bitte reparieren?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0415",
+      "text": "Ich muss mein Zimmer aufräumen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0416",
+      "text": "Wir haben die Küche geputzt.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0417",
+      "text": "Der Tisch steht vor dem Fenster.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0418",
+      "text": "Der Unterricht fängt um neun Uhr an.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0419",
+      "text": "Meine Arbeit beginnt um acht Uhr.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0420",
+      "text": "Ich habe eine Frage.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0421",
+      "text": "Ich verstehe die Aufgabe nicht.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0422",
+      "text": "Kannst du das bitte erklären?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0423",
+      "text": "Wann haben wir Pause?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0424",
+      "text": "Ich habe meine Hausaufgaben gemacht.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0425",
+      "text": "Wir müssen morgen früh anfangen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0426",
+      "text": "Ich möchte eine Fahrkarte nach Berlin.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0427",
+      "text": "Wann fährt der Zug ab?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0428",
+      "text": "Der Zug fährt von Gleis drei ab.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0429",
+      "text": "Ich fahre mit dem Zug.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0430",
+      "text": "Ich habe ein Zimmer gebucht.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0431",
+      "text": "Wir bleiben zwei Nächte.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0432",
+      "text": "Haben Sie ein freies Zimmer?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0433",
+      "text": "Können Sie uns bitte helfen?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0434",
+      "text": "Hallo Mia!",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0435",
+      "text": "Ich möchte dich einladen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0436",
+      "text": "Wir treffen uns um acht Uhr im Park.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0437",
+      "text": "Danke für deine Nachricht.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0438",
+      "text": "Leider kann ich morgen nicht kommen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0439",
+      "text": "Können wir den Termin verschieben?",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0440",
+      "text": "Morgen lerne ich Deutsch.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0441",
+      "text": "Ich werde morgen Deutsch lernen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0442",
+      "text": "Du wirst nach Berlin fahren.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0443",
+      "text": "Er wird uns helfen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0444",
+      "text": "Wir werden nächste Woche reisen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0445",
+      "text": "Ihr werdet hier wohnen.",
+      "kind": "course-phrase"
+    },
+    {
+      "id": "course80-audio-0446",
+      "text": "Sie werden morgen kommen.",
+      "kind": "course-phrase"
+    }
+  ]
+}

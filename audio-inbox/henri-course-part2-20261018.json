@@ -1,0 +1,4025 @@
+{
+  "batch": "henri-course-part2-20261018",
+  "source_duration": 464.431,
+  "source_sha256": "3a21fb3154811dbf9bbd856ea8af642bc94649585db6227346a2ae1bad39a48f",
+  "source_file": "audio-sources/henri-course-part2-20261018/original.mp3",
+  "queue_file": "audio-sources/henri-course-part2-20261018/queue.json",
+  "count": 223,
+  "verified": true,
+  "entries": [
+    {
+      "id": "course80-audio-0224",
+      "text": "Ich trinke oft Tee.",
+      "kind": "course-phrase",
+      "file": "rq001_course.mp3",
+      "source_start": 0,
+      "source_end": 1.35408,
+      "speech_start": 0,
+      "speech_end": 1.23408,
+      "sha256": "3eeb524aa752cd05ac45905a34bdb84a5112174c38d96ff0724d3200e494f613",
+      "duration": 1.38449,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich trinke oft Tee.",
+        "isolated_asr": "Ich trinke oft Tee.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0225",
+      "text": "Manchmal lese ich abends.",
+      "kind": "course-phrase",
+      "file": "rq002_course.mp3",
+      "source_start": 2.30023,
+      "source_end": 4.212383,
+      "speech_start": 2.38023,
+      "speech_end": 4.092383,
+      "sha256": "53c4dcaa722c68feb9c933030e9618ea83d32ecb11fe0c7eccee54c68f236cde",
+      "duration": 1.959184,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Manchmal lese ich abends.",
+        "isolated_asr": "Manchmal lese ich abends.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0226",
+      "text": "Wir spielen jeden Tag.",
+      "kind": "course-phrase",
+      "file": "rq003_course.mp3",
+      "source_start": 5.00066,
+      "source_end": 6.736006,
+      "speech_start": 5.08066,
+      "speech_end": 6.616006,
+      "sha256": "1136281fdde0cf9aa05d238d17a45913b418b8f220ff7742194fd789c0efa497",
+      "duration": 1.776327,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir spielen jeden Tag.",
+        "isolated_asr": "Wir spielen jeden Tag.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0227",
+      "text": "Sie kommt immer früh.",
+      "kind": "course-phrase",
+      "file": "rq004_course.mp3",
+      "source_start": 7.47723,
+      "source_end": 8.936753,
+      "speech_start": 7.55723,
+      "speech_end": 8.816753,
+      "sha256": "9ab7669063e349c545b0b8ecd11ea035412fcf6b6f2e99efb5b632a8e0750aeb",
+      "duration": 1.48898,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Sie kommt immer früh.",
+        "isolated_asr": "Sie kommt immer früh.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0228",
+      "text": "Ich rauche nie.",
+      "kind": "course-phrase",
+      "file": "rq005_course.mp3",
+      "source_start": 9.64927,
+      "source_end": 10.861195,
+      "speech_start": 9.72927,
+      "speech_end": 10.741195,
+      "sha256": "15e4dcc2091928baf22cef95ac92745a435d70ad659fa1801af94386c8062587",
+      "duration": 1.253878,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich rauche nie.",
+        "isolated_asr": "Ich rauche nie.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0229",
+      "text": "Zuerst lerne ich Deutsch.",
+      "kind": "course-phrase",
+      "file": "rq006_course.mp3",
+      "source_start": 11.577,
+      "source_end": 13.331919,
+      "speech_start": 11.657,
+      "speech_end": 13.211919,
+      "sha256": "9785d83bc293891ec98fb57e01a61c96ebd402f95a8ae54ef0087389397d28fd",
+      "duration": 1.802449,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Zuerst lerne ich Deutsch.",
+        "isolated_asr": "Zuerst lerne ich Deutsch.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0230",
+      "text": "Danach kaufe ich ein.",
+      "kind": "course-phrase",
+      "file": "rq007_course.mp3",
+      "source_start": 13.7982,
+      "source_end": 15.332945,
+      "speech_start": 13.8782,
+      "speech_end": 15.212945,
+      "sha256": "1c6685fe29eb5dd2423ba0593addfb2cb0896c739065da3a8d38ed6264cdabac",
+      "duration": 1.567347,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Danach kaufe ich ein.",
+        "isolated_asr": "Danach kaufe ich ein.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0231",
+      "text": "Wann können wir uns treffen?",
+      "kind": "course-phrase",
+      "file": "rq008_course.mp3",
+      "source_start": 16.0307,
+      "source_end": 17.523338,
+      "speech_start": 16.1107,
+      "speech_end": 17.403338,
+      "sha256": "ebafb209427773a5936dea9cd208eb59bc61ad21678f26efbeb6a23912a0059b",
+      "duration": 1.541224,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wann können wir uns treffen?",
+        "isolated_asr": "Wann können wir uns treffen?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0232",
+      "text": "Wir können uns morgen treffen.",
+      "kind": "course-phrase",
+      "file": "rq009_course.mp3",
+      "source_start": 18.2459,
+      "source_end": 19.87971,
+      "speech_start": 18.3259,
+      "speech_end": 19.75971,
+      "sha256": "652aa642cc4c7f6887ef860ab3ba903cb41ecefb07547837c415bfbb65dfd30d",
+      "duration": 1.671837,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir können uns morgen treffen.",
+        "isolated_asr": "Wir können uns morgen treffen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0233",
+      "text": "Hast du am Samstag Zeit?",
+      "kind": "course-phrase",
+      "file": "rq010_course.mp3",
+      "source_start": 20.6159,
+      "source_end": 22.177068,
+      "speech_start": 20.6959,
+      "speech_end": 22.057068,
+      "sha256": "8a4ed8d8e60e32f17396b4182afdb25d96589fd83a7e6e6f130d5eb46f0bef91",
+      "duration": 1.593469,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Hast du am Samstag Zeit?",
+        "isolated_asr": "Hast du am Samstag Zeit?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0234",
+      "text": "Ja, ich habe Zeit.",
+      "kind": "course-phrase",
+      "file": "rq011_course.mp3",
+      "source_start": 22.7492,
+      "source_end": 24.138222,
+      "speech_start": 22.8292,
+      "speech_end": 24.018222,
+      "sha256": "d456c663df852d01da9ab83a1680dfc3708d5ead2ce3351b60e88bd2a3252d1b",
+      "duration": 1.436735,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ja, ich habe Zeit.",
+        "isolated_asr": "Ja, ich habe Zeit.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0235",
+      "text": "Treffen wir uns um acht Uhr?",
+      "kind": "course-phrase",
+      "file": "rq012_course.mp3",
+      "source_start": 24.7838,
+      "source_end": 26.426032,
+      "speech_start": 24.8638,
+      "speech_end": 26.306032,
+      "sha256": "6dfd851a1ae894fafba0c8868d81e0a9d3686d6ef514795d97a7958f74245f01",
+      "duration": 1.671837,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Treffen wir uns um acht Uhr?",
+        "isolated_asr": "Treffen wir uns um 8 Uhr?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0236",
+      "text": "Das passt gut.",
+      "kind": "course-phrase",
+      "file": "rq013_course.mp3",
+      "source_start": 26.9961,
+      "source_end": 27.984262,
+      "speech_start": 27.0761,
+      "speech_end": 27.864262,
+      "sha256": "e1565dfdea2cf0a05b9f2043d954b7aa2a79c4d2699603bfc4b6b0fe1ec704c2",
+      "duration": 1.018776,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Das passt gut.",
+        "isolated_asr": "Das passt gut.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0237",
+      "text": "Leider kann ich nicht kommen.",
+      "kind": "course-phrase",
+      "file": "rq014_course.mp3",
+      "source_start": 28.6995,
+      "source_end": 30.221005,
+      "speech_start": 28.7795,
+      "speech_end": 30.101005,
+      "sha256": "116b08f13d4e49072f60b7754d346ff25a852122da406fd5e8ba9cd2aaa3cc3b",
+      "duration": 1.567347,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Leider kann ich nicht kommen.",
+        "isolated_asr": "Leider kann ich nicht kommen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0238",
+      "text": "Ich rufe dich morgen an.",
+      "kind": "course-phrase",
+      "file": "rq015_course.mp3",
+      "source_start": 30.8491,
+      "source_end": 32.227949,
+      "speech_start": 30.9291,
+      "speech_end": 32.107949,
+      "sha256": "54d8e6e29bb78bca4af1895a7771e9404e54614290c1e7fe92de6cc983eac113",
+      "duration": 1.410612,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich rufe dich morgen an.",
+        "isolated_asr": "Ich rufe dich morgen an.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0239",
+      "text": "Ich habe Deutsch gelernt.",
+      "kind": "course-phrase",
+      "file": "rq016_course.mp3",
+      "source_start": 32.9755,
+      "source_end": 34.403522,
+      "speech_start": 33.0555,
+      "speech_end": 34.283522,
+      "sha256": "06abe4970ff54b6705f5a94982df53afc8502b7e46613f44d0a5d140ec8fb883",
+      "duration": 1.462857,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich habe Deutsch gelernt.",
+        "isolated_asr": "Ich habe Deutsch gelernt.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0240",
+      "text": "Du hast gestern gespielt.",
+      "kind": "course-phrase",
+      "file": "rq017_course.mp3",
+      "source_start": 35.0891,
+      "source_end": 36.724622,
+      "speech_start": 35.1691,
+      "speech_end": 36.604622,
+      "sha256": "945ecfea363e763fa99744b80618301542b7101626dcc00e345d51aacf161647",
+      "duration": 1.671837,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Du hast gestern gespielt.",
+        "isolated_asr": "Du hast gestern gespielt.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0241",
+      "text": "Er hat hier gearbeitet.",
+      "kind": "course-phrase",
+      "file": "rq018_course.mp3",
+      "source_start": 37.4402,
+      "source_end": 39.13678,
+      "speech_start": 37.5202,
+      "speech_end": 39.01678,
+      "sha256": "ef9f2d164cc96d89e62006e402d6f01a820549d85179c896535168dcba471e40",
+      "duration": 1.724082,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Er hat hier gearbeitet.",
+        "isolated_asr": "Er hat hier gearbeitet.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0242",
+      "text": "Wir haben das gemacht.",
+      "kind": "course-phrase",
+      "file": "rq019_course.mp3",
+      "source_start": 39.8422,
+      "source_end": 41.338527,
+      "speech_start": 39.9222,
+      "speech_end": 41.218527,
+      "sha256": "ead5a4e6de351599c98e0c48725181a349a5594113e7e425abe0d27731d00cff",
+      "duration": 1.541224,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir haben das gemacht.",
+        "isolated_asr": "Wir haben das gemacht.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0243",
+      "text": "Ihr habt gefragt.",
+      "kind": "course-phrase",
+      "file": "rq020_course.mp3",
+      "source_start": 42.0666,
+      "source_end": 43.331424,
+      "speech_start": 42.1466,
+      "speech_end": 43.211424,
+      "sha256": "57ad3e9d611f528fafb6f2da2418ea5a0a033979c86e9e1fea2d5e144a0c2066",
+      "duration": 1.306122,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ihr habt gefragt.",
+        "isolated_asr": "Ihr habt gefragt.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0244",
+      "text": "Sie haben getanzt.",
+      "kind": "course-phrase",
+      "file": "rq021_course.mp3",
+      "source_start": 43.978,
+      "source_end": 45.44478,
+      "speech_start": 44.058,
+      "speech_end": 45.32478,
+      "sha256": "865a199149f167c618447d118fbfb629bc570f905ec29dd5616cf22f96c85b41",
+      "duration": 1.515102,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Sie haben getanzt.",
+        "isolated_asr": "Sie haben getanzt.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0245",
+      "text": "Hast du heute gelernt?",
+      "kind": "course-phrase",
+      "file": "rq022_course.mp3",
+      "source_start": 46.1819,
+      "source_end": 47.467693,
+      "speech_start": 46.2619,
+      "speech_end": 47.347693,
+      "sha256": "44f2f07fa4b7904d14429526d5ddce31f373d8fdeef8888ba938a37d20dc029d",
+      "duration": 1.332245,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Hast du heute gelernt?",
+        "isolated_asr": "Hast du heute gelernt?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0246",
+      "text": "Ich habe gestern nicht gearbeitet.",
+      "kind": "course-phrase",
+      "file": "rq023_course.mp3",
+      "source_start": 48.1125,
+      "source_end": 50.117346,
+      "speech_start": 48.1925,
+      "speech_end": 49.997346,
+      "sha256": "a8baefe538ec07cfce518d0e5ae959f0ff8b24df30d081db4549e63196f14616",
+      "duration": 2.037551,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich habe gestern nicht gearbeitet.",
+        "isolated_asr": "Ich habe gestern nicht gearbeitet.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0247",
+      "text": "Ich habe Brot gegessen.",
+      "kind": "course-phrase",
+      "file": "rq024_course.mp3",
+      "source_start": 50.7517,
+      "source_end": 52.205219,
+      "speech_start": 50.8317,
+      "speech_end": 52.085219,
+      "sha256": "02b1f92c40d2a3ba18c5f50f95708c043da2c2fe4d15d29457a9014c5a1c8c7e",
+      "duration": 1.48898,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich habe Brot gegessen.",
+        "isolated_asr": "Ich habe Brot gegessen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0248",
+      "text": "Du hast Wasser getrunken.",
+      "kind": "course-phrase",
+      "file": "rq025_course.mp3",
+      "source_start": 52.9237,
+      "source_end": 54.525785,
+      "speech_start": 53.0037,
+      "speech_end": 54.405785,
+      "sha256": "e536405ba1d0755aa9098c6ece7061bd2fbb4527f4c40d46e9140bd3dcd39107",
+      "duration": 1.645714,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Du hast Wasser getrunken.",
+        "isolated_asr": "Du hast Wasser getrunken.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0249",
+      "text": "Er hat das Buch gelesen.",
+      "kind": "course-phrase",
+      "file": "rq026_course.mp3",
+      "source_start": 55.2632,
+      "source_end": 56.931716,
+      "speech_start": 55.3432,
+      "speech_end": 56.811716,
+      "sha256": "f8c968179bb11e0c997dcfc784f256f84b7e418f21b3660ab01bf1766a516353",
+      "duration": 1.697959,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Er hat das Buch gelesen.",
+        "isolated_asr": "Er hat das Buch gelesen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0250",
+      "text": "Wir haben den Hund gesehen.",
+      "kind": "course-phrase",
+      "file": "rq027_course.mp3",
+      "source_start": 57.6609,
+      "source_end": 59.225794,
+      "speech_start": 57.7409,
+      "speech_end": 59.105794,
+      "sha256": "9fcf57727b767755774125a56e2a2006b825af745e992db72dd6ec25e5e52838",
+      "duration": 1.593469,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir haben den Hund gesehen.",
+        "isolated_asr": "Wir haben den Hund gesehen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0251",
+      "text": "Sie hat eine Nachricht geschrieben.",
+      "kind": "course-phrase",
+      "file": "rq028_course.mp3",
+      "source_start": 59.9272,
+      "source_end": 61.830804,
+      "speech_start": 60.0072,
+      "speech_end": 61.710804,
+      "sha256": "4064028b268073c001ab5abb15461c4e5e8258ca5e782a22078408a1d91f146b",
+      "duration": 1.933061,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Sie hat eine Nachricht geschrieben.",
+        "isolated_asr": "Sie hat eine Nachricht geschrieben.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0252",
+      "text": "Ihr habt das Buch genommen.",
+      "kind": "course-phrase",
+      "file": "rq029_course.mp3",
+      "source_start": 62.5606,
+      "source_end": 64.176953,
+      "speech_start": 62.6406,
+      "speech_end": 64.056953,
+      "sha256": "1e6e4d8f63e148c31e75a9f05ad29d2b5bc38c997dfd46ea52dd337b225a29ee",
+      "duration": 1.645714,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ihr habt das Buch genommen.",
+        "isolated_asr": "Ihr habt das Buch genommen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0253",
+      "text": "Wir haben Deutsch gesprochen.",
+      "kind": "course-phrase",
+      "file": "rq030_course.mp3",
+      "source_start": 64.9104,
+      "source_end": 66.636005,
+      "speech_start": 64.9904,
+      "speech_end": 66.516005,
+      "sha256": "e8438ba8af7cfbdb68b4c6e078ba5efa113ed7adc6120bd04519f4af4c269427",
+      "duration": 1.776327,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir haben Deutsch gesprochen.",
+        "isolated_asr": "Wir haben Deutsch gesprochen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0254",
+      "text": "Sie haben gesungen.",
+      "kind": "course-phrase",
+      "file": "rq031_course.mp3",
+      "source_start": 67.338,
+      "source_end": 68.614775,
+      "speech_start": 67.418,
+      "speech_end": 68.494775,
+      "sha256": "af1f7ce2323350e3cd5c74dac549cd9c620acb5e71186984cda0ce5ed763b193",
+      "duration": 1.306122,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Sie haben gesungen.",
+        "isolated_asr": "Sie haben gesungen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0255",
+      "text": "Ich bin nach Hause gegangen.",
+      "kind": "course-phrase",
+      "file": "rq032_course.mp3",
+      "source_start": 69.3438,
+      "source_end": 70.87305,
+      "speech_start": 69.4238,
+      "speech_end": 70.75305,
+      "sha256": "33d0c823f46f8b6d8832ed26b8d87395a7ca87b0355f1b9e09d52a636c720288",
+      "duration": 1.567347,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich bin nach Hause gegangen.",
+        "isolated_asr": "Ich bin nach Hause gegangen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0256",
+      "text": "Du bist früh gekommen.",
+      "kind": "course-phrase",
+      "file": "rq033_course.mp3",
+      "source_start": 71.5772,
+      "source_end": 72.931305,
+      "speech_start": 71.6572,
+      "speech_end": 72.811305,
+      "sha256": "844b8fc4693488fbcb341905e50a36b338ff3cb1c3bbd0b9a1a2ee49d1dec920",
+      "duration": 1.38449,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Du bist früh gekommen.",
+        "isolated_asr": "Du bist früh gekommen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0257",
+      "text": "Er ist nach Berlin gefahren.",
+      "kind": "course-phrase",
+      "file": "rq034_course.mp3",
+      "source_start": 73.6155,
+      "source_end": 75.350668,
+      "speech_start": 73.6955,
+      "speech_end": 75.230668,
+      "sha256": "a09203c4d059f19c5889cb1e9520f6dfe4485ed301d8d0ddb9ff69da3810def9",
+      "duration": 1.776327,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Er ist nach Berlin gefahren.",
+        "isolated_asr": "Er ist nach Berlin gefahren.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0258",
+      "text": "Wir sind hier geblieben.",
+      "kind": "course-phrase",
+      "file": "rq035_course.mp3",
+      "source_start": 76.0828,
+      "source_end": 77.475544,
+      "speech_start": 76.1628,
+      "speech_end": 77.355544,
+      "sha256": "f063092cb2b9e95e4146cf5c2266ae3bb566c0431c87c57e3886c11e8d19397d",
+      "duration": 1.436735,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir sind hier geblieben.",
+        "isolated_asr": "Wir sind hier geblieben.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0259",
+      "text": "Ihr seid in die Schule gegangen.",
+      "kind": "course-phrase",
+      "file": "rq036_course.mp3",
+      "source_start": 78.1928,
+      "source_end": 79.919185,
+      "speech_start": 78.2728,
+      "speech_end": 79.799185,
+      "sha256": "35fb57c2d2221cfa4d93ac124723de06276dad7c5e59b1ee9f61c5ae15eabab0",
+      "duration": 1.776327,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ihr seid in die Schule gegangen.",
+        "isolated_asr": "Ihr seid in die Schule gegangen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0260",
+      "text": "Sie sind nach Hause gekommen.",
+      "kind": "course-phrase",
+      "file": "rq037_course.mp3",
+      "source_start": 80.6105,
+      "source_end": 82.280945,
+      "speech_start": 80.6905,
+      "speech_end": 82.160945,
+      "sha256": "22d6006e9f55e74e4435651b795b58a3cc0e9f0a103a16064045f540d8ff5942",
+      "duration": 1.697959,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Sie sind nach Hause gekommen.",
+        "isolated_asr": "Sie sind nach Hause gekommen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0261",
+      "text": "Bist du im Park geblieben?",
+      "kind": "course-phrase",
+      "file": "rq038_course.mp3",
+      "source_start": 83.0087,
+      "source_end": 84.442718,
+      "speech_start": 83.0887,
+      "speech_end": 84.322718,
+      "sha256": "2ddffb85fa8fddbf40c84ace3c303c19a7030843fc944f2368a36cd83dda7e70",
+      "duration": 1.462857,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Bist du im Park geblieben?",
+        "isolated_asr": "Bist du im Park geblieben?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0262",
+      "text": "Sie hat gestern getanzt.",
+      "kind": "course-phrase",
+      "file": "rq039_course.mp3",
+      "source_start": 85.1468,
+      "source_end": 86.885684,
+      "speech_start": 85.2268,
+      "speech_end": 86.765684,
+      "sha256": "5ff1c87ca64e975027a176bb2cc31dd25f9957df771e1353a841d0853e31ba5b",
+      "duration": 1.776327,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Sie hat gestern getanzt.",
+        "isolated_asr": "Sie hat gestern getanzt.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0263",
+      "text": "Ich bin früh aufgestanden.",
+      "kind": "course-phrase",
+      "file": "rq040_course.mp3",
+      "source_start": 87.5848,
+      "source_end": 89.28231,
+      "speech_start": 87.6648,
+      "speech_end": 89.16231,
+      "sha256": "4f4b95297a3309e5e12dcf0cd24341bbb0ec7a4dc1bf8ffdc8b5689701d39ea8",
+      "duration": 1.724082,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich bin früh aufgestanden.",
+        "isolated_asr": "Ich bin früh aufgestanden.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0264",
+      "text": "Du hast mich angerufen.",
+      "kind": "course-phrase",
+      "file": "rq041_course.mp3",
+      "source_start": 89.9685,
+      "source_end": 91.453266,
+      "speech_start": 90.0485,
+      "speech_end": 91.333266,
+      "sha256": "d4b2c9d6d7e9e752eabcbad1d6d83c96d6f43586b2a9e5ce033d893c42f69978",
+      "duration": 1.515102,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Du hast mich angerufen.",
+        "isolated_asr": "Du hast mich angerufen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0265",
+      "text": "Wir haben heute eingekauft.",
+      "kind": "course-phrase",
+      "file": "rq042_course.mp3",
+      "source_start": 92.1161,
+      "source_end": 93.908921,
+      "speech_start": 92.1961,
+      "speech_end": 93.788921,
+      "sha256": "bb1f3ca22ebac9c5df6aa6521ef6d91820b180ca54aac8188f30820226e6bd98",
+      "duration": 1.828571,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir haben heute eingekauft.",
+        "isolated_asr": "Wir haben heute eingekauft.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0266",
+      "text": "Er hat seine Eltern besucht.",
+      "kind": "course-phrase",
+      "file": "rq043_course.mp3",
+      "source_start": 94.6023,
+      "source_end": 96.404794,
+      "speech_start": 94.6823,
+      "speech_end": 96.284794,
+      "sha256": "07ce950a280f8bf590434b9cf4d71358f4d5d520258af33151f776073d4a2b1f",
+      "duration": 1.854694,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Er hat seine Eltern besucht.",
+        "isolated_asr": "Er hat seine Eltern besucht.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0267",
+      "text": "Ich habe dich verstanden.",
+      "kind": "course-phrase",
+      "file": "rq044_course.mp3",
+      "source_start": 97.0701,
+      "source_end": 98.434454,
+      "speech_start": 97.1501,
+      "speech_end": 98.314454,
+      "sha256": "1f98924f7e2f62284275032819d9414e2fc82f7d5b3430139c9bc93dc76a2590",
+      "duration": 1.410612,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich habe dich verstanden.",
+        "isolated_asr": "Ich habe dich verstanden.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0268",
+      "text": "Sie hat das Wort erklärt.",
+      "kind": "course-phrase",
+      "file": "rq045_course.mp3",
+      "source_start": 99.1462,
+      "source_end": 100.849283,
+      "speech_start": 99.2262,
+      "speech_end": 100.729283,
+      "sha256": "c41dd4ff78c4a1eadffd00711cb64ba14e5bd688854bbc2cd335bc020afca92f",
+      "duration": 1.750204,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Sie hat das Wort erklärt.",
+        "isolated_asr": "Sie hat das Wort erklärt.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0269",
+      "text": "Wir haben lange telefoniert.",
+      "kind": "course-phrase",
+      "file": "rq046_course.mp3",
+      "source_start": 101.534,
+      "source_end": 103.388286,
+      "speech_start": 101.614,
+      "speech_end": 103.268286,
+      "sha256": "a4a348dd105c8b7489fd965254ae0697fa1a4e464d7e616e1d1d368bc7f51566",
+      "duration": 1.880816,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir haben lange telefoniert.",
+        "isolated_asr": "Wir haben lange telefoniert.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0270",
+      "text": "Er ist gestern zurückgekommen.",
+      "kind": "course-phrase",
+      "file": "rq047_course.mp3",
+      "source_start": 104.064,
+      "source_end": 105.879333,
+      "speech_start": 104.144,
+      "speech_end": 105.759333,
+      "sha256": "77a02a136f220ce3d106f9e8bd8e8cab2b95a1b8a449d58ea1762151ef061307",
+      "duration": 1.854694,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Er ist gestern zurückgekommen.",
+        "isolated_asr": "Er ist gestern zurückgekommen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0271",
+      "text": "Ich habe mich gefreut.",
+      "kind": "course-phrase",
+      "file": "rq048_course.mp3",
+      "source_start": 106.556,
+      "source_end": 107.919544,
+      "speech_start": 106.636,
+      "speech_end": 107.799544,
+      "sha256": "0720787285ca6391354f83eb365e1699d217f0db18e31fbf86f6ef22b0a4f662",
+      "duration": 1.410612,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich habe mich gefreut.",
+        "isolated_asr": "Ich habe mich gefreut.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0272",
+      "text": "Du hast dich gewaschen.",
+      "kind": "course-phrase",
+      "file": "rq049_course.mp3",
+      "source_start": 108.619,
+      "source_end": 109.956703,
+      "speech_start": 108.699,
+      "speech_end": 109.836703,
+      "sha256": "136c55b2822668a81830862e09c4b79c62f05a1c103e1b0457bea44bb7394192",
+      "duration": 1.38449,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Du hast dich gewaschen.",
+        "isolated_asr": "Du hast dich gewaschen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0273",
+      "text": "Er hat sich gefreut.",
+      "kind": "course-phrase",
+      "file": "rq050_course.mp3",
+      "source_start": 110.626,
+      "source_end": 112.03461,
+      "speech_start": 110.706,
+      "speech_end": 111.91461,
+      "sha256": "2e65f8406a13543ceced2b390c88c02f7522f84e0c9450a63038c654a93391cb",
+      "duration": 1.436735,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Er hat sich gefreut.",
+        "isolated_asr": "Er hat sich gefreut.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0274",
+      "text": "Wir haben uns getroffen.",
+      "kind": "course-phrase",
+      "file": "rq051_course.mp3",
+      "source_start": 112.703,
+      "source_end": 114.216848,
+      "speech_start": 112.783,
+      "speech_end": 114.096848,
+      "sha256": "c6825f61818465a25c81bea99841bebfa7e59d80a58222ade129181a5d7880e0",
+      "duration": 1.541224,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir haben uns getroffen.",
+        "isolated_asr": "Wir haben uns getroffen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0275",
+      "text": "Ihr habt euch gefreut.",
+      "kind": "course-phrase",
+      "file": "rq052_course.mp3",
+      "source_start": 114.92,
+      "source_end": 116.364707,
+      "speech_start": 115.0,
+      "speech_end": 116.244707,
+      "sha256": "68a51576d0be2740f5dff798160bc5ea8786e3871952b2d51258ff1e7065f254",
+      "duration": 1.48898,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ihr habt euch gefreut.",
+        "isolated_asr": "Ihr habt euch gefreut.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0276",
+      "text": "Sie haben sich gewaschen.",
+      "kind": "course-phrase",
+      "file": "rq053_course.mp3",
+      "source_start": 117.066,
+      "source_end": 118.595553,
+      "speech_start": 117.146,
+      "speech_end": 118.475553,
+      "sha256": "dd808883db4f768ab3dd463b69d2c9531a41f9786244793906fd32a14dfe88ed",
+      "duration": 1.567347,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Sie haben sich gewaschen.",
+        "isolated_asr": "Sie haben sich gewaschen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0277",
+      "text": "Ich habe mir die Hände gewaschen.",
+      "kind": "course-phrase",
+      "file": "rq054_course.mp3",
+      "source_start": 119.249,
+      "source_end": 120.989154,
+      "speech_start": 119.329,
+      "speech_end": 120.869154,
+      "sha256": "f31ed3f61dd631d0743ab0dbf8124913a60198f4aa5ea1789aee6774c087a8fc",
+      "duration": 1.776327,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich habe mir die Hände gewaschen.",
+        "isolated_asr": "Ich habe mir die Hände gewaschen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0278",
+      "text": "Sie hat sich mit ihrer Freundin getroffen.",
+      "kind": "course-phrase",
+      "file": "rq055_course.mp3",
+      "source_start": 121.697,
+      "source_end": 123.95027,
+      "speech_start": 121.777,
+      "speech_end": 123.83027,
+      "sha256": "924af9d7cf895b348da6b65e2ce83557781c9fffb04992bde555198a37554d05",
+      "duration": 2.298776,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Sie hat sich mit ihrer Freundin getroffen.",
+        "isolated_asr": "Sie hat sich mit ihrer Freundin getroffen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0279",
+      "text": "Ich war gestern zu Hause.",
+      "kind": "course-phrase",
+      "file": "rq056_course.mp3",
+      "source_start": 124.669,
+      "source_end": 126.208277,
+      "speech_start": 124.749,
+      "speech_end": 126.088277,
+      "sha256": "bb86eba19f0ebdfdec4b6f2683b882d699eef2bb4f71f92762c6a7ebcbdf5ea6",
+      "duration": 1.567347,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich war gestern zu Hause.",
+        "isolated_asr": "Ich war gestern zu Hause.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0280",
+      "text": "Du warst müde.",
+      "kind": "course-phrase",
+      "file": "rq057_course.mp3",
+      "source_start": 126.88,
+      "source_end": 128.043524,
+      "speech_start": 126.96,
+      "speech_end": 127.923524,
+      "sha256": "e4761f32ea60463b3f785df73817695d8a7355837b8967170defd04260f50964",
+      "duration": 1.201633,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Du warst müde.",
+        "isolated_asr": "Du warst müde.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0281",
+      "text": "Er war krank.",
+      "kind": "course-phrase",
+      "file": "rq058_course.mp3",
+      "source_start": 128.704,
+      "source_end": 129.810211,
+      "speech_start": 128.784,
+      "speech_end": 129.690211,
+      "sha256": "84031965d16e346aaa7defbfe406c5231a0fb3f632d9c5259ac5100bd2414a5e",
+      "duration": 1.149388,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Er war krank.",
+        "isolated_asr": "Er war krank.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0282",
+      "text": "Wir waren in Berlin.",
+      "kind": "course-phrase",
+      "file": "rq059_course.mp3",
+      "source_start": 130.463,
+      "source_end": 131.929932,
+      "speech_start": 130.543,
+      "speech_end": 131.809932,
+      "sha256": "8713c10732c36eb5185dc5e93072e3b8aeede7e045eb3b583c90610a40fa0956",
+      "duration": 1.515102,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir waren in Berlin.",
+        "isolated_asr": "Wir waren in Berlin.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0283",
+      "text": "Ihr wart hier.",
+      "kind": "course-phrase",
+      "file": "rq060_course.mp3",
+      "source_start": 132.63,
+      "source_end": 133.644304,
+      "speech_start": 132.71,
+      "speech_end": 133.524304,
+      "sha256": "e514b1f1591bce64ec47d3b8e11465fed1eb62f687f0baafda1b3e3392dd8d66",
+      "duration": 1.044898,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ihr wart hier.",
+        "isolated_asr": "Ihr wart hier.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0284",
+      "text": "Ich hatte Zeit.",
+      "kind": "course-phrase",
+      "file": "rq061_course.mp3",
+      "source_start": 134.338,
+      "source_end": 135.449333,
+      "speech_start": 134.418,
+      "speech_end": 135.329333,
+      "sha256": "c95f17580d9a4f1bebf03528539599713875735d67ceed8e3e00c259e9ae3c5c",
+      "duration": 1.149388,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich hatte Zeit.",
+        "isolated_asr": "Ich hatte Zeit.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0285",
+      "text": "Du hattest Hunger.",
+      "kind": "course-phrase",
+      "file": "rq062_course.mp3",
+      "source_start": 136.076,
+      "source_end": 137.257912,
+      "speech_start": 136.156,
+      "speech_end": 137.137912,
+      "sha256": "9b027ca020e783ef125e08c52cc71c368f95c96fb1a41e95f185d23df1a09a7c",
+      "duration": 1.227755,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Du hattest Hunger.",
+        "isolated_asr": "Du hattest Hunger.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0286",
+      "text": "Sie hatten Durst.",
+      "kind": "course-phrase",
+      "file": "rq063_course.mp3",
+      "source_start": 137.899,
+      "source_end": 139.209211,
+      "speech_start": 137.979,
+      "speech_end": 139.089211,
+      "sha256": "b68dd44c84113cea5faea3c9e0d5cf34d3a49c52958c268afe432021144887ab",
+      "duration": 1.358367,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Sie hatten Durst.",
+        "isolated_asr": "Sie hatten Durst.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0287",
+      "text": "Hier spricht man Deutsch.",
+      "kind": "course-phrase",
+      "file": "rq064_course.mp3",
+      "source_start": 139.882,
+      "source_end": 141.367113,
+      "speech_start": 139.962,
+      "speech_end": 141.247113,
+      "sha256": "702ff008d10b1688e29f3b7ef97f4e876168ab5a6bd2da34cd278c6ca5ca0c1e",
+      "duration": 1.515102,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Hier spricht man Deutsch.",
+        "isolated_asr": "Hier spricht man Deutsch.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0288",
+      "text": "Man kann hier lernen.",
+      "kind": "course-phrase",
+      "file": "rq065_course.mp3",
+      "source_start": 141.947,
+      "source_end": 143.275912,
+      "speech_start": 142.027,
+      "speech_end": 143.155912,
+      "sha256": "8cdaed7e2aad65ac713e1a49275effa061e2d380458479fda0ed50b49c2de0f4",
+      "duration": 1.358367,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Man kann hier lernen.",
+        "isolated_asr": "Man kann hier lernen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0289",
+      "text": "Man muss hier warten.",
+      "kind": "course-phrase",
+      "file": "rq066_course.mp3",
+      "source_start": 143.947,
+      "source_end": 145.322744,
+      "speech_start": 144.027,
+      "speech_end": 145.202744,
+      "sha256": "405b61736d6a8ef11d8eba80da2bc6e5a6aa93af9ef9eabdc7d8335aff711e6d",
+      "duration": 1.410612,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Man muss hier warten.",
+        "isolated_asr": "Man muss hier warten.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0290",
+      "text": "Man darf hier nicht rauchen.",
+      "kind": "course-phrase",
+      "file": "rq067_course.mp3",
+      "source_start": 145.99,
+      "source_end": 147.581828,
+      "speech_start": 146.07,
+      "speech_end": 147.461828,
+      "sha256": "4d4352ab2539f3ebceade43f315770a8175af132fb5011430786c18a2925872b",
+      "duration": 1.619592,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Man darf hier nicht rauchen.",
+        "isolated_asr": "Man darf hier nicht rauchen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0291",
+      "text": "Kann man mit Karte bezahlen?",
+      "kind": "course-phrase",
+      "file": "rq068_course.mp3",
+      "source_start": 148.246,
+      "source_end": 149.855172,
+      "speech_start": 148.326,
+      "speech_end": 149.735172,
+      "sha256": "9bd5efd35dd16fc1b4c6b6b189fb36d6ed770600458035ab2be2aa428467aea6",
+      "duration": 1.645714,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Kann man mit Karte bezahlen?",
+        "isolated_asr": "Kann man mit Karte bezahlen?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0292",
+      "text": "Man lernt jeden Tag.",
+      "kind": "course-phrase",
+      "file": "rq069_course.mp3",
+      "source_start": 150.531,
+      "source_end": 152.101678,
+      "speech_start": 150.611,
+      "speech_end": 151.981678,
+      "sha256": "642c2f2d03657a8ef7235c808b5441bd622af4562e8e632f46aa7bb4c7ccdb00",
+      "duration": 1.619592,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Man lernt jeden Tag.",
+        "isolated_asr": "Man lernt jeden Tag.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0293",
+      "text": "Hier gibt es Wasser.",
+      "kind": "course-phrase",
+      "file": "rq070_course.mp3",
+      "source_start": 152.73,
+      "source_end": 153.946172,
+      "speech_start": 152.81,
+      "speech_end": 153.826172,
+      "sha256": "56b28e2945a15ea9354b538cf5c47fdc1e189278408ea4faf31150bddc930e0e",
+      "duration": 1.253878,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Hier gibt es Wasser.",
+        "isolated_asr": "Hier gibt es Wasser.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0294",
+      "text": "Der Mann lernt Deutsch.",
+      "kind": "course-phrase",
+      "file": "rq071_course.mp3",
+      "source_start": 154.612,
+      "source_end": 156.042005,
+      "speech_start": 154.692,
+      "speech_end": 155.922005,
+      "sha256": "1364c070bfa3e0c23b8217eccb9b2124744167af401a3fe2cc01e9e66c22b334",
+      "duration": 1.462857,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Der Mann lernt Deutsch.",
+        "isolated_asr": "Der Mann lernt Deutsch.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0295",
+      "text": "Ich habe Zeit, aber ich bin müde.",
+      "kind": "course-phrase",
+      "file": "rq072_course.mp3",
+      "source_start": 156.594,
+      "source_end": 158.923098,
+      "speech_start": 156.674,
+      "speech_end": 158.803098,
+      "sha256": "e5fb7f8f1324ec778b33df348bbb75a0b9c53689e49907ab227432b7dafce157",
+      "duration": 2.377143,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich habe Zeit, aber ich bin müde.",
+        "isolated_asr": "Ich habe Zeit, aber ich bin müde.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0296",
+      "text": "Trinkst du Tee oder Kaffee?",
+      "kind": "course-phrase",
+      "file": "rq073_course.mp3",
+      "source_start": 159.626,
+      "source_end": 161.437406,
+      "speech_start": 159.706,
+      "speech_end": 161.317406,
+      "sha256": "cabc7ea52b84c5df6061feac9228300255d8e6f2e5fc4fe2308ca9b905414848",
+      "duration": 1.854694,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Trinkst du Tee oder Kaffee?",
+        "isolated_asr": "Trinkst du Tee oder Kaffee?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0297",
+      "text": "Ich bleibe hier, denn ich bin müde.",
+      "kind": "course-phrase",
+      "file": "rq074_course.mp3",
+      "source_start": 162.126,
+      "source_end": 164.21563,
+      "speech_start": 162.206,
+      "speech_end": 164.09563,
+      "sha256": "9eb8fc5d94ee440afc9c297a0d700cb5499b413436d5b5bbb8fbbf870b54f8fe",
+      "duration": 2.115918,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich bleibe hier, denn ich bin müde.",
+        "isolated_asr": "Ich bleibe hier, denn ich bin müde.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0298",
+      "text": "Wir können kommen, aber wir haben wenig Zeit.",
+      "kind": "course-phrase",
+      "file": "rq075_course.mp3",
+      "source_start": 164.443,
+      "source_end": 167.399338,
+      "speech_start": 164.523,
+      "speech_end": 167.279338,
+      "sha256": "bcfdca2f7d60615bbe36e30d1a3e098baecc2859475b0c94a08a4cc71dd1e2b7",
+      "duration": 3.004082,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir können kommen, aber wir haben wenig Zeit.",
+        "isolated_asr": "Wir können kommen, aber wir haben wenig Zeit.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0299",
+      "text": "Ich koche, und er kauft ein.",
+      "kind": "course-phrase",
+      "file": "rq076_course.mp3",
+      "source_start": 167.678,
+      "source_end": 169.782295,
+      "speech_start": 167.758,
+      "speech_end": 169.662295,
+      "sha256": "6f427f183f252e2a9d934780ecddf68cf7c226b853195da4bf7d6011a5a052b4",
+      "duration": 2.142041,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich koche und er kauft ein.",
+        "isolated_asr": "Ich koche und er kauft ein.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0300",
+      "text": "Wir gehen nach Hause, denn es ist spät.",
+      "kind": "course-phrase",
+      "file": "rq077_course.mp3",
+      "source_start": 170.112,
+      "source_end": 172.429866,
+      "speech_start": 170.192,
+      "speech_end": 172.309866,
+      "sha256": "4f19f2d3db5bbcbbf201ad3aedf8c2ce8c50aba487760baf305b02d933fbbbbe",
+      "duration": 2.35102,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir gehen nach Hause, denn es ist spät.",
+        "isolated_asr": "Wir gehen nach Hause, denn es ist spät.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0301",
+      "text": "Ich weiß, dass du hier bist.",
+      "kind": "course-phrase",
+      "file": "rq078_course.mp3",
+      "source_start": 172.751,
+      "source_end": 174.41876,
+      "speech_start": 172.831,
+      "speech_end": 174.29876,
+      "sha256": "483483042a2264555ac8dd7d31e5e84124e71e3ef9bf8de89c964487a9a718b7",
+      "duration": 1.697959,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich weiß, dass du hier bist.",
+        "isolated_asr": "Ich weiß, dass du hier bist.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0302",
+      "text": "Er sagt, dass er Zeit hat.",
+      "kind": "course-phrase",
+      "file": "rq079_course.mp3",
+      "source_start": 174.673,
+      "source_end": 176.339084,
+      "speech_start": 174.753,
+      "speech_end": 176.219084,
+      "sha256": "1097524d7ac7c33b9c1351fd7898fd690b67d81ceb7cdb3ea4611c825923b4c0",
+      "duration": 1.697959,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Er sagt, dass er Zeit hat.",
+        "isolated_asr": "Er sagt, dass er Zeit hat.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0303",
+      "text": "Wir glauben, dass sie Deutsch lernt.",
+      "kind": "course-phrase",
+      "file": "rq080_course.mp3",
+      "source_start": 176.566,
+      "source_end": 178.565129,
+      "speech_start": 176.646,
+      "speech_end": 178.445129,
+      "sha256": "74f63c68ae551435b84973bb2784f58fa29f615808ac3bc3f7c294bca645a266",
+      "duration": 2.037551,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir glauben, dass sie Deutsch lernt.",
+        "isolated_asr": "Wir glauben, dass sie Deutsch lernt.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0304",
+      "text": "Ich denke, dass das gut ist.",
+      "kind": "course-phrase",
+      "file": "rq081_course.mp3",
+      "source_start": 178.802,
+      "source_end": 180.679431,
+      "speech_start": 178.882,
+      "speech_end": 180.559431,
+      "sha256": "172e2110c7f7e356d2108d32389ed9bcf13a43cba30b8281667df57a0a5c0a24",
+      "duration": 1.906939,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich denke, dass das gut ist.",
+        "isolated_asr": "Ich denke, dass das gut ist.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0305",
+      "text": "Sie sagt, dass sie kommen kann.",
+      "kind": "course-phrase",
+      "file": "rq082_course.mp3",
+      "source_start": 180.879,
+      "source_end": 182.608909,
+      "speech_start": 180.959,
+      "speech_end": 182.488909,
+      "sha256": "384333017d17e13e6f24aa7204565d5531bf406de02213423938afccbc305ee8",
+      "duration": 1.776327,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Sie sagt, dass sie kommen kann.",
+        "isolated_asr": "Sie sagt, dass sie kommen kann.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0306",
+      "text": "Ich weiß, dass du gestern gearbeitet hast.",
+      "kind": "course-phrase",
+      "file": "rq083_course.mp3",
+      "source_start": 182.829,
+      "source_end": 185.240796,
+      "speech_start": 182.909,
+      "speech_end": 185.120796,
+      "sha256": "63ec80a8d0d6afe17e0ec6037cc5212ed81bd13c17224f7532f149dab7b57432",
+      "duration": 2.45551,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich weiß, dass du gestern gearbeitet hast.",
+        "isolated_asr": "Ich weiß, dass du gestern gearbeitet hast.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0307",
+      "text": "Er sagt, dass wir früh aufstehen müssen.",
+      "kind": "course-phrase",
+      "file": "rq084_course.mp3",
+      "source_start": 185.441,
+      "source_end": 187.84717,
+      "speech_start": 185.521,
+      "speech_end": 187.72717,
+      "sha256": "abcdf21fca33585a90f74e2daf8ac6567209c0a37d7ed5c72b764d9a7d93c00b",
+      "duration": 2.45551,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Er sagt, dass wir früh aufstehen müssen.",
+        "isolated_asr": "Er sagt, dass wir früh aufstehen müssen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0308",
+      "text": "Wir wissen, dass er nach Hause gegangen ist.",
+      "kind": "course-phrase",
+      "file": "rq085_course.mp3",
+      "source_start": 188.082,
+      "source_end": 190.416478,
+      "speech_start": 188.162,
+      "speech_end": 190.296478,
+      "sha256": "1e6e347d4d9d521ab6a795de699290f8d4b9b6038bcdc417e731b828760c46fe",
+      "duration": 2.377143,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir wissen, dass er nach Hause gegangen ist.",
+        "isolated_asr": "Wir wissen, dass er nach Hause gegangen ist.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0309",
+      "text": "Ich bleibe zu Hause, weil ich krank bin.",
+      "kind": "course-phrase",
+      "file": "rq086_course.mp3",
+      "source_start": 190.657,
+      "source_end": 193.004374,
+      "speech_start": 190.737,
+      "speech_end": 192.884374,
+      "sha256": "38f8bc915aac59e242d3a0e19ae2b5a4178fdce516376437ecae29c7bd69bdfa",
+      "duration": 2.377143,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich bleibe zu Hause, weil ich krank bin.",
+        "isolated_asr": "Ich bleibe zu Hause, weil ich krank bin.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0310",
+      "text": "Sie lernt Deutsch, weil sie in Berlin wohnt.",
+      "kind": "course-phrase",
+      "file": "rq087_course.mp3",
+      "source_start": 193.249,
+      "source_end": 195.634122,
+      "speech_start": 193.329,
+      "speech_end": 195.514122,
+      "sha256": "56739eb89c121a00869f5a0c188c138b79354920e7f8feebc7ca148b0b326157",
+      "duration": 2.429388,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Sie lernt Deutsch, weil sie in Berlin wohnt.",
+        "isolated_asr": "Sie lernt Deutsch, weil sie in Berlin wohnt.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0311",
+      "text": "Wir warten, weil er noch nicht da ist.",
+      "kind": "course-phrase",
+      "file": "rq088_course.mp3",
+      "source_start": 195.848,
+      "source_end": 198.07146,
+      "speech_start": 195.928,
+      "speech_end": 197.95146,
+      "sha256": "a449f149ec0c146b67707261eea31b86f203cde173a39acc46eed2e2c54957b1",
+      "duration": 2.272653,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir warten, weil er noch nicht da ist.",
+        "isolated_asr": "Wir warten, weil er noch nicht da ist.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0312",
+      "text": "Ich bin müde. Deshalb gehe ich nach Hause.",
+      "kind": "course-phrase",
+      "file": "rq089_course.mp3",
+      "source_start": 198.254,
+      "source_end": 200.912837,
+      "speech_start": 198.334,
+      "speech_end": 200.792837,
+      "sha256": "2042edd2cb994380dc513b4058019a71a42d4a9f6415a13b9be6041a86eb9936",
+      "duration": 2.690612,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich bin müde, deshalb gehe ich nach Hause.",
+        "isolated_asr": "Ich bin müde, deshalb gehe ich nach Hause.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0313",
+      "text": "Es regnet. Darum bleiben wir hier.",
+      "kind": "course-phrase",
+      "file": "rq090_course.mp3",
+      "source_start": 201.121,
+      "source_end": 203.279741,
+      "speech_start": 201.201,
+      "speech_end": 203.159741,
+      "sha256": "037ce8b459f4c5e87643816eff878aea36c6e05eac44e0ac4aff839be50c3c49",
+      "duration": 2.194286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Es regnet, darum bleiben wir hier.",
+        "isolated_asr": "Es regnet, darum bleiben wir hier.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0314",
+      "text": "Weil ich Zeit habe, komme ich mit.",
+      "kind": "course-phrase",
+      "file": "rq091_course.mp3",
+      "source_start": 203.496,
+      "source_end": 205.497653,
+      "speech_start": 203.576,
+      "speech_end": 205.377653,
+      "sha256": "5ec356c157e071fef895ce663ccc10ac90ed767936c82324d3fce31876198e61",
+      "duration": 2.037551,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Weil ich Zeit habe, komme ich mit.",
+        "isolated_asr": "Weil ich Zeit habe, komme ich mit.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0315",
+      "text": "Er ist froh, weil er alles verstanden hat.",
+      "kind": "course-phrase",
+      "file": "rq092_course.mp3",
+      "source_start": 205.695,
+      "source_end": 208.22893,
+      "speech_start": 205.775,
+      "speech_end": 208.10893,
+      "sha256": "17a74df77a450d5e9bfa38f0a9bd77827be7668a0bbbee7225cdee9fc83da91d",
+      "duration": 2.586122,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Er ist froh, weil er alles verstanden hat.",
+        "isolated_asr": "Er ist froh, weil er alles verstanden hat.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0316",
+      "text": "Wenn ich Zeit habe, komme ich.",
+      "kind": "course-phrase",
+      "file": "rq093_course.mp3",
+      "source_start": 208.408,
+      "source_end": 210.257921,
+      "speech_start": 208.488,
+      "speech_end": 210.137921,
+      "sha256": "c7afc70df74868cd0f474c35e98e97f1d6a25e8c3e089c2e3c5f75dc613a7660",
+      "duration": 1.880816,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wenn ich Zeit habe, komme ich.",
+        "isolated_asr": "Wenn ich Zeit habe, komme ich.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0317",
+      "text": "Wir bleiben zu Hause, wenn es regnet.",
+      "kind": "course-phrase",
+      "file": "rq094_course.mp3",
+      "source_start": 210.413,
+      "source_end": 212.465098,
+      "speech_start": 210.493,
+      "speech_end": 212.345098,
+      "sha256": "c9bcd4b67fffd905856743e2522641a113929e1c3964be69426eadb348c9ee96",
+      "duration": 2.089796,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir Sie bleiben zu Hause, wenn es regnet.",
+        "isolated_asr": "Wir bleiben zu Hause, wenn es regnet.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0318",
+      "text": "Wenn du möchtest, helfe ich dir.",
+      "kind": "course-phrase",
+      "file": "rq095_course.mp3",
+      "source_start": 212.658,
+      "source_end": 214.403308,
+      "speech_start": 212.738,
+      "speech_end": 214.283308,
+      "sha256": "4937c0b6a5e78ee97cca0d1b0317c161caa5933515f5873cbd6c2dc11e56a811",
+      "duration": 1.776327,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wenn du möchtest, helfe ich dir.",
+        "isolated_asr": "Wenn du möchtest, helfe ich dir.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0319",
+      "text": "Ich freue mich, wenn du kommst.",
+      "kind": "course-phrase",
+      "file": "rq096_course.mp3",
+      "source_start": 214.579,
+      "source_end": 216.249873,
+      "speech_start": 214.659,
+      "speech_end": 216.129873,
+      "sha256": "ef645d678f4273bad9ac8b420c1a061acc7069347d2d57b43733a49a659d1d19",
+      "duration": 1.697959,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich freue mich, wenn du kommst.",
+        "isolated_asr": "Ich freue mich, wenn du kommst.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0320",
+      "text": "Wenn wir frei sind, spielen wir.",
+      "kind": "course-phrase",
+      "file": "rq097_course.mp3",
+      "source_start": 216.414,
+      "source_end": 218.361222,
+      "speech_start": 216.494,
+      "speech_end": 218.241222,
+      "sha256": "36a50013346987d9b896fa75315f7e7f5272da757ade010a637ee6c299499cdc",
+      "duration": 1.985306,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wenn wir frei sind, spielen wir.",
+        "isolated_asr": "Wenn wir frei sind, spielen wir.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0321",
+      "text": "Ruf mich an, wenn du zu Hause bist!",
+      "kind": "course-phrase",
+      "file": "rq098_course.mp3",
+      "source_start": 218.489,
+      "source_end": 220.464828,
+      "speech_start": 218.569,
+      "speech_end": 220.344828,
+      "sha256": "a0fce3b9930e43c1905ac43ff89e0818ff98d1fae7d1dbe2cc6ea8ce62e4448e",
+      "duration": 2.011429,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ruf mich an, wenn du zu Hause bist.",
+        "isolated_asr": "Ruf mich an, wenn du zu Hause bist.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0322",
+      "text": "Wenn ich müde bin, schlafe ich.",
+      "kind": "course-phrase",
+      "file": "rq099_course.mp3",
+      "source_start": 220.659,
+      "source_end": 222.608952,
+      "speech_start": 220.739,
+      "speech_end": 222.488952,
+      "sha256": "6933f0d3446d87c145822019f7ffbb98192d49cc4bdf322d194d5eb25205f0ff",
+      "duration": 1.985306,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wenn ich müde bin, schlafe ich.",
+        "isolated_asr": "Wenn ich müde bin, schlafe ich.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0323",
+      "text": "Wir können lernen, wenn ihr Zeit habt.",
+      "kind": "course-phrase",
+      "file": "rq100_course.mp3",
+      "source_start": 222.728,
+      "source_end": 224.764306,
+      "speech_start": 222.808,
+      "speech_end": 224.644306,
+      "sha256": "c3bdc92216f9cdba31e348fcad5e35445288975515870e17fc4f253f71d86e25",
+      "duration": 2.063673,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir können lernen, wenn ihr Zeit habt.",
+        "isolated_asr": "Wir können lernen, wenn ihr Zeit habt.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0324",
+      "text": "Ich versuche, Deutsch zu lernen.",
+      "kind": "course-phrase",
+      "file": "rq101_course.mp3",
+      "source_start": 224.899,
+      "source_end": 226.723744,
+      "speech_start": 224.979,
+      "speech_end": 226.603744,
+      "sha256": "9118f656ef81658957ed60a26efbc26c2cb2e183323574f9d47cd85357b0338d",
+      "duration": 1.854694,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich versuche, Deutsch zu lernen.",
+        "isolated_asr": "Ich versuche Deutsch zu lernen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0325",
+      "text": "Wir beginnen, das Buch zu lesen.",
+      "kind": "course-phrase",
+      "file": "rq102_course.mp3",
+      "source_start": 226.831,
+      "source_end": 228.720937,
+      "speech_start": 226.911,
+      "speech_end": 228.600937,
+      "sha256": "c573b3e0ebf2350520650a49955e123bf3c01d1e3fa07799cdbbcf5af04b7a4f",
+      "duration": 1.933061,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir beginnen, das Buch zu lesen.",
+        "isolated_asr": "Wir beginnen das Buch zu lesen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0326",
+      "text": "Ich habe Zeit, dir zu helfen.",
+      "kind": "course-phrase",
+      "file": "rq103_course.mp3",
+      "source_start": 228.893,
+      "source_end": 230.648211,
+      "speech_start": 228.973,
+      "speech_end": 230.528211,
+      "sha256": "ab633b568dc0b0074c7c62604295eac27b216fe27d3d664ddbc0ea7deeb1a88a",
+      "duration": 1.802449,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich habe Zeit, dir zu helfen.",
+        "isolated_asr": "Ich habe Zeit, dir zu helfen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0327",
+      "text": "Er versucht, früh aufzustehen.",
+      "kind": "course-phrase",
+      "file": "rq104_course.mp3",
+      "source_start": 230.801,
+      "source_end": 232.772639,
+      "speech_start": 230.881,
+      "speech_end": 232.652639,
+      "sha256": "b2e84e6448b5034b6289ab9026f0d7f4d033e5bfb423da5c850f87226f3382f6",
+      "duration": 2.011429,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Er versucht, früh aufzustehen.",
+        "isolated_asr": "Er versucht früh aufzustehen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0328",
+      "text": "Sie vergisst, mich anzurufen.",
+      "kind": "course-phrase",
+      "file": "rq105_course.mp3",
+      "source_start": 232.954,
+      "source_end": 234.733327,
+      "speech_start": 233.034,
+      "speech_end": 234.613327,
+      "sha256": "9ebfa12010b1cd5d36403b5cd2b2c4acc81292649f2971a004748a71d6e687a5",
+      "duration": 1.828571,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Sie vergisst, mich anzurufen.",
+        "isolated_asr": "Sie vergisst mich anzurufen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0329",
+      "text": "Ich hoffe, morgen zu kommen.",
+      "kind": "course-phrase",
+      "file": "rq106_course.mp3",
+      "source_start": 234.897,
+      "source_end": 236.564118,
+      "speech_start": 234.977,
+      "speech_end": 236.444118,
+      "sha256": "831abe6c54f341cbc65628ffbf52262e468bfd8ef48b62508517e91e9ce8520c",
+      "duration": 1.697959,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich hoffe, morgen zu kommen.",
+        "isolated_asr": "Ich hoffe morgen zu kommen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0330",
+      "text": "Es ist wichtig, Deutsch zu lernen.",
+      "kind": "course-phrase",
+      "file": "rq107_course.mp3",
+      "source_start": 236.746,
+      "source_end": 238.72383,
+      "speech_start": 236.826,
+      "speech_end": 238.60383,
+      "sha256": "50284544b397dca007dc71386a424411d10f61f3255dc15ece9d6f388baf3811",
+      "duration": 2.011429,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Es ist wichtig, Deutsch zu lernen.",
+        "isolated_asr": "Es ist wichtig, Deutsch zu lernen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0331",
+      "text": "Das Buch ist interessant.",
+      "kind": "course-phrase",
+      "file": "rq108_course.mp3",
+      "source_start": 238.899,
+      "source_end": 240.596195,
+      "speech_start": 238.979,
+      "speech_end": 240.476195,
+      "sha256": "7c379bdccd6a2cbdff8a987022c533f660df5f6ea0a6ee46fe296a9571973c47",
+      "duration": 1.724082,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Das Buch ist interessant.",
+        "isolated_asr": "Das Buch ist interessant.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0332",
+      "text": "Der Film ist langweilig.",
+      "kind": "course-phrase",
+      "file": "rq109_course.mp3",
+      "source_start": 240.742,
+      "source_end": 242.571578,
+      "speech_start": 240.822,
+      "speech_end": 242.451578,
+      "sha256": "8f16630f0db9b7b7f6645d56167efab7a0173729a1ae66381687bfaf69eace21",
+      "duration": 1.880816,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Der Film ist langweilig.",
+        "isolated_asr": "Der Film ist langweilig.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0333",
+      "text": "Heute ist es kalt.",
+      "kind": "course-phrase",
+      "file": "rq110_course.mp3",
+      "source_start": 242.726,
+      "source_end": 244.177261,
+      "speech_start": 242.806,
+      "speech_end": 244.057261,
+      "sha256": "950f5f1553610dfeef1e7a7fa557f635cda9f398df44642fa5d795f7d9ee8828",
+      "duration": 1.48898,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Heute ist es kalt.",
+        "isolated_asr": "Heute ist es kalt.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0334",
+      "text": "Mir ist warm.",
+      "kind": "course-phrase",
+      "file": "rq111_course.mp3",
+      "source_start": 244.312,
+      "source_end": 245.263351,
+      "speech_start": 244.392,
+      "speech_end": 245.143351,
+      "sha256": "28d87ce532d54ae312577411c1bbccaa56b48edda5b8089e6ae53d050e7bf316",
+      "duration": 0.992653,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Mir ist warm.",
+        "isolated_asr": "Mir ist warm!",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0335",
+      "text": "Die Tasche ist rot.",
+      "kind": "course-phrase",
+      "file": "rq112_course.mp3",
+      "source_start": 245.358,
+      "source_end": 246.806236,
+      "speech_start": 245.438,
+      "speech_end": 246.686236,
+      "sha256": "cabbbaa72e1b515dae82c55f89862ab197182b3be3fe7d73490db0794a07b655",
+      "duration": 1.48898,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Die Tasche ist rot.",
+        "isolated_asr": "Die Tasche ist rot.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0336",
+      "text": "Das Auto ist blau.",
+      "kind": "course-phrase",
+      "file": "rq113_course.mp3",
+      "source_start": 246.9,
+      "source_end": 248.408417,
+      "speech_start": 246.98,
+      "speech_end": 248.288417,
+      "sha256": "41e1d3683f17628854f78748d5936b7d3388b2b63e36fe76641484ea2c99ada6",
+      "duration": 1.541224,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Das Auto ist blau.",
+        "isolated_asr": "Das Auto ist blau.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0337",
+      "text": "Warum bist du traurig?",
+      "kind": "course-phrase",
+      "file": "rq114_course.mp3",
+      "source_start": 248.552,
+      "source_end": 249.950669,
+      "speech_start": 248.632,
+      "speech_end": 249.830669,
+      "sha256": "bca1ceb1e2336b43a4d341f0e5369676f0bf3dc419fe0cdd773befdd4892c692",
+      "duration": 1.436735,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Warum bist du traurig?",
+        "isolated_asr": "Warum bist du traurig?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0338",
+      "text": "Mein Auto ist schneller als dein Auto.",
+      "kind": "course-phrase",
+      "file": "rq115_course.mp3",
+      "source_start": 250.065,
+      "source_end": 252.58829,
+      "speech_start": 250.145,
+      "speech_end": 252.46829,
+      "sha256": "c70fa6641178ad38c63759631fd40b4545826a976265f28b2a3a15bbca15d1a7",
+      "duration": 2.56,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Mein Auto ist schneller als dein Auto.",
+        "isolated_asr": "Mein Auto ist schneller als dein Auto.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0339",
+      "text": "Das Buch ist besser als das Buch dort.",
+      "kind": "course-phrase",
+      "file": "rq116_course.mp3",
+      "source_start": 252.726,
+      "source_end": 255.182281,
+      "speech_start": 252.806,
+      "speech_end": 255.062281,
+      "sha256": "4ef221e3f0e3e5693ef20bb5b033703b2ad1b81b0ef85b2c7e1ab3f4b418a870",
+      "duration": 2.507755,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Das Buch ist besser als das Buch dort.",
+        "isolated_asr": "Das Buch ist besser als das Buch dort.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0340",
+      "text": "Unser Haus ist größer als euer Haus.",
+      "kind": "course-phrase",
+      "file": "rq117_course.mp3",
+      "source_start": 255.276,
+      "source_end": 257.866152,
+      "speech_start": 255.356,
+      "speech_end": 257.746152,
+      "sha256": "398af12b22c891a8f99a6e3e7f16ad97b707f0627f7b4f20dc38ba783381b97b",
+      "duration": 2.638367,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Unser Haus ist größer als euer Haus.",
+        "isolated_asr": "Unser Haus ist größer als euer Haus.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0341",
+      "text": "Der Tisch ist kleiner als der Tisch dort.",
+      "kind": "course-phrase",
+      "file": "rq118_course.mp3",
+      "source_start": 257.923,
+      "source_end": 260.351848,
+      "speech_start": 258.003,
+      "speech_end": 260.231848,
+      "sha256": "68cf876b958dd173eae2f1f031756b756494a184290053fca980abe931bae80d",
+      "duration": 2.45551,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Der Tisch ist kleiner als der Tisch dort.",
+        "isolated_asr": "Der Tisch ist kleiner als der Tisch dort.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0342",
+      "text": "Ich habe mehr Zeit als du.",
+      "kind": "course-phrase",
+      "file": "rq119_course.mp3",
+      "source_start": 260.465,
+      "source_end": 262.196091,
+      "speech_start": 260.545,
+      "speech_end": 262.076091,
+      "sha256": "c56a6b5447b8e879bcdbdfc8c7cc1eb63f452f480b7c67e415672bfa5fe1d70e",
+      "duration": 1.776327,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich habe mehr Zeit als du.",
+        "isolated_asr": "Ich habe mehr Zeit als du.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0343",
+      "text": "Sie spricht langsamer als er.",
+      "kind": "course-phrase",
+      "file": "rq120_course.mp3",
+      "source_start": 262.306,
+      "source_end": 264.236379,
+      "speech_start": 262.386,
+      "speech_end": 264.116379,
+      "sha256": "4f80e181f635bcb3a45b237dc29be61464f7719dbe76af123ea50e7c89340de0",
+      "duration": 1.959184,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Sie spricht langsamer als er.",
+        "isolated_asr": "Sie spricht langsamer als er.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0344",
+      "text": "Das Buch ist so gut wie das Buch dort.",
+      "kind": "course-phrase",
+      "file": "rq121_course.mp3",
+      "source_start": 264.383,
+      "source_end": 266.919696,
+      "speech_start": 264.463,
+      "speech_end": 266.799696,
+      "sha256": "9c854e42af9d515bed9c5a1431bd9655f1988f62dee445fc2071cb7eca582eea",
+      "duration": 2.586122,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Das Buch ist so gut wie das Buch dort.",
+        "isolated_asr": "Das Buch ist so gut wie das Buch dort.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0345",
+      "text": "Heute ist es wärmer als gestern.",
+      "kind": "course-phrase",
+      "file": "rq122_course.mp3",
+      "source_start": 267.026,
+      "source_end": 269.119746,
+      "speech_start": 267.106,
+      "speech_end": 268.999746,
+      "sha256": "ea0635d55d06d7da786c074e105bcac6b0797057cd430d78de4a8a427725e042",
+      "duration": 2.142041,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Heute ist es wärmer als gestern.",
+        "isolated_asr": "Heute ist es wärmer als gestern.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0346",
+      "text": "Sie läuft am schnellsten.",
+      "kind": "course-phrase",
+      "file": "rq123_course.mp3",
+      "source_start": 269.248,
+      "source_end": 270.834354,
+      "speech_start": 269.328,
+      "speech_end": 270.714354,
+      "sha256": "dac3291b44cf2dc69afd15f11c5e09bbd9bd7f2a1dbb033eb3b6e659876fd3a9",
+      "duration": 1.619592,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Sie läuft am schnellsten.",
+        "isolated_asr": "Sie läuft am schnellsten.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0347",
+      "text": "Das Buch ist am besten.",
+      "kind": "course-phrase",
+      "file": "rq124_course.mp3",
+      "source_start": 270.89,
+      "source_end": 272.531746,
+      "speech_start": 270.97,
+      "speech_end": 272.411746,
+      "sha256": "c188122489ef8d6039b4b5347ce4c6ea9b5dc085390c10c13030ad2dacbfd796",
+      "duration": 1.671837,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Das Buch ist am besten.",
+        "isolated_asr": "Das Buch ist am besten.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0348",
+      "text": "Ich trinke lieber Tee als Kaffee.",
+      "kind": "course-phrase",
+      "file": "rq125_course.mp3",
+      "source_start": 272.64,
+      "source_end": 274.635102,
+      "speech_start": 272.72,
+      "speech_end": 274.515102,
+      "sha256": "14c7dc39f10b83a4c54fb96d39ffbeacd68853124bf48d503fd4087ed1c8662e",
+      "duration": 2.037551,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich trinke lieber Tee als Kaffee.",
+        "isolated_asr": "Ich trinke lieber Tee als Kaffee.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0349",
+      "text": "Am liebsten trinke ich Wasser.",
+      "kind": "course-phrase",
+      "file": "rq126_course.mp3",
+      "source_start": 274.71,
+      "source_end": 276.46234,
+      "speech_start": 274.79,
+      "speech_end": 276.34234,
+      "sha256": "582e93a155c5339b86751f7746b2b61cf9e7f0bdd8fced5ccf01647921b0379d",
+      "duration": 1.802449,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Am liebsten trinke ich Wasser.",
+        "isolated_asr": "Am liebsten trinke ich Wasser.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0350",
+      "text": "Er hat am meisten Zeit.",
+      "kind": "course-phrase",
+      "file": "rq127_course.mp3",
+      "source_start": 276.562,
+      "source_end": 278.311771,
+      "speech_start": 276.642,
+      "speech_end": 278.191771,
+      "sha256": "d8f1c5351a30726d15151bf89f037e8ea4854d519297e3b29a338bb13a1bde0a",
+      "duration": 1.776327,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Er hat am meisten Zeit.",
+        "isolated_asr": "Er hat am meisten Zeit.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0351",
+      "text": "Unser Haus ist am kleinsten.",
+      "kind": "course-phrase",
+      "file": "rq128_course.mp3",
+      "source_start": 278.381,
+      "source_end": 280.263109,
+      "speech_start": 278.461,
+      "speech_end": 280.143109,
+      "sha256": "4c3293b9c3c91b7df69ba86e4cac309052473c86470e6c2452b4d7684121bd5d",
+      "duration": 1.933061,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Unser Haus ist am kleinsten.",
+        "isolated_asr": "Unser Haus ist am kleinsten.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0352",
+      "text": "Hier lerne ich am besten.",
+      "kind": "course-phrase",
+      "file": "rq129_course.mp3",
+      "source_start": 280.311,
+      "source_end": 282.001644,
+      "speech_start": 280.391,
+      "speech_end": 281.881644,
+      "sha256": "371f5520b3b885233e923c29a0490f8c5ce4278f44a9436ee3a118d9631c5bdf",
+      "duration": 1.724082,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Hier lerne ich am besten.",
+        "isolated_asr": "Hier lerne ich am besten.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0353",
+      "text": "Wir spielen am liebsten zusammen.",
+      "kind": "course-phrase",
+      "file": "rq130_course.mp3",
+      "source_start": 282.075,
+      "source_end": 284.004676,
+      "speech_start": 282.155,
+      "speech_end": 283.884676,
+      "sha256": "22a66b45887efd4c90fd32ef8c9d9338b63259ecd8deb39178b84c3b793f6753",
+      "duration": 1.959184,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir spielen am liebsten zusammen.",
+        "isolated_asr": "Wir spielen am liebsten zusammen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0354",
+      "text": "Der gute Mann ist hier.",
+      "kind": "course-phrase",
+      "file": "rq131_course.mp3",
+      "source_start": 284.102,
+      "source_end": 285.497939,
+      "speech_start": 284.182,
+      "speech_end": 285.377939,
+      "sha256": "ce6c19a8a6fa6d6bf7148b8864d9492948add570fe6d6dacce11aaaffe440c9c",
+      "duration": 1.436735,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Der gute Mann ist hier.",
+        "isolated_asr": "Der gute Mann ist hier.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0355",
+      "text": "Die kleine Katze spielt.",
+      "kind": "course-phrase",
+      "file": "rq132_course.mp3",
+      "source_start": 285.591,
+      "source_end": 287.311551,
+      "speech_start": 285.671,
+      "speech_end": 287.191551,
+      "sha256": "39c658c7da0c30cfd4aabbfec81bbc219cb994a95e6e7422b164d277294c3bc3",
+      "duration": 1.750204,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Die kleine Katze spielt.",
+        "isolated_asr": "Die kleine Katze spielt.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0356",
+      "text": "Das neue Buch ist hier.",
+      "kind": "course-phrase",
+      "file": "rq133_course.mp3",
+      "source_start": 287.414,
+      "source_end": 288.937841,
+      "speech_start": 287.494,
+      "speech_end": 288.817841,
+      "sha256": "10aa4b7783cd253f070e1f83d02a90480d7b1c70f4b0a605b2006a8941b7ff16",
+      "duration": 1.567347,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Das neue Buch ist hier.",
+        "isolated_asr": "Das neue Buch ist hier.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0357",
+      "text": "Ich sehe den großen Hund.",
+      "kind": "course-phrase",
+      "file": "rq134_course.mp3",
+      "source_start": 289.038,
+      "source_end": 290.897454,
+      "speech_start": 289.118,
+      "speech_end": 290.777454,
+      "sha256": "830664a9496ee8856335fab3b2ecf836496ec56db81e9ef8232f1a027ed93c49",
+      "duration": 1.906939,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich sehe den großen Hund.",
+        "isolated_asr": "Ich sehe den großen Hund.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0358",
+      "text": "Er liest die interessante Geschichte.",
+      "kind": "course-phrase",
+      "file": "rq135_course.mp3",
+      "source_start": 290.957,
+      "source_end": 293.162637,
+      "speech_start": 291.037,
+      "speech_end": 293.042637,
+      "sha256": "b0689b653a8530a81ea6fff98f24d940c041962aad3d36285283bf9b0117d915",
+      "duration": 2.246531,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Er liest die interessante Geschichte.",
+        "isolated_asr": "Er liest die interessante Geschichte.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0359",
+      "text": "Wir sehen das kleine Kind.",
+      "kind": "course-phrase",
+      "file": "rq136_course.mp3",
+      "source_start": 293.213,
+      "source_end": 294.89176,
+      "speech_start": 293.293,
+      "speech_end": 294.77176,
+      "sha256": "57510f4e52da997090bc5c9e142595848f8ea73f0c947de7a763c29ee0422434",
+      "duration": 1.724082,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir sehen das kleine Kind.",
+        "isolated_asr": "Wir sehen das kleine Kind.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0360",
+      "text": "Die alten Bücher sind dort.",
+      "kind": "course-phrase",
+      "file": "rq137_course.mp3",
+      "source_start": 295.166,
+      "source_end": 296.887812,
+      "speech_start": 295.246,
+      "speech_end": 296.767812,
+      "sha256": "7cfd0709a4ba9a900feaa470bb328b352ebff379e324a7b05860b3dffa1f1d88",
+      "duration": 1.750204,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Die alten Bücher sind dort.",
+        "isolated_asr": "Die alten Bücher sind dort.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0361",
+      "text": "Ich kenne die guten Freunde.",
+      "kind": "course-phrase",
+      "file": "rq138_course.mp3",
+      "source_start": 297.265,
+      "source_end": 298.945397,
+      "speech_start": 297.345,
+      "speech_end": 298.825397,
+      "sha256": "bbd7b8f581791c493e082e0dcffd01473b69610b490612c345fc6a481249733b",
+      "duration": 1.724082,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich kenne die guten Freunde.",
+        "isolated_asr": "Ich kenne die guten Freunde.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0362",
+      "text": "Ein guter Freund kommt.",
+      "kind": "course-phrase",
+      "file": "rq139_course.mp3",
+      "source_start": 299.36,
+      "source_end": 300.926878,
+      "speech_start": 299.44,
+      "speech_end": 300.806878,
+      "sha256": "856f199b986d1493924de4d990f5a68b5a04f58290f493322ad35a9e825d11aa",
+      "duration": 1.593469,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ein guter Freund kommt.",
+        "isolated_asr": "Ein guter Freund kommt.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0363",
+      "text": "Eine kleine Katze spielt.",
+      "kind": "course-phrase",
+      "file": "rq140_course.mp3",
+      "source_start": 301.313,
+      "source_end": 303.054925,
+      "speech_start": 301.393,
+      "speech_end": 302.934925,
+      "sha256": "d730fd8182c492a07998eb5065f847a927fe55fa3a95e74cbe8900ff4a52efd7",
+      "duration": 1.776327,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Eine kleine Katze spielt.",
+        "isolated_asr": "Eine kleine Katze spielt.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0364",
+      "text": "Das ist ein neues Buch.",
+      "kind": "course-phrase",
+      "file": "rq141_course.mp3",
+      "source_start": 303.472,
+      "source_end": 305.149322,
+      "speech_start": 303.552,
+      "speech_end": 305.029322,
+      "sha256": "826c2295080ce9fd80e9cbb25c9de8450892e6a5b728490cddabdbf2c1a961a5",
+      "duration": 1.724082,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Das ist ein neues Buch.",
+        "isolated_asr": "Das ist ein neues Buch.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0365",
+      "text": "Ich sehe einen großen Hund.",
+      "kind": "course-phrase",
+      "file": "rq142_course.mp3",
+      "source_start": 305.531,
+      "source_end": 307.512499,
+      "speech_start": 305.611,
+      "speech_end": 307.392499,
+      "sha256": "9aa39ce357c51083c65ccb1d61c2daade4f3ad9c55a0fa41b3fcfcee9910938c",
+      "duration": 2.011429,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich sehe einen großen Hund.",
+        "isolated_asr": "Ich sehe einen großen Hund.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0366",
+      "text": "Das ist mein alter Tisch.",
+      "kind": "course-phrase",
+      "file": "rq143_course.mp3",
+      "source_start": 307.952,
+      "source_end": 309.65139,
+      "speech_start": 308.032,
+      "speech_end": 309.53139,
+      "sha256": "d0243cd4e9cbd92c00e8d10947a48b4908608e9915f0a945d89d27ed39d8d44a",
+      "duration": 1.750204,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Das ist mein alter Tisch.",
+        "isolated_asr": "Das ist mein alter Tisch.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0367",
+      "text": "Ich lese meine neue Geschichte.",
+      "kind": "course-phrase",
+      "file": "rq144_course.mp3",
+      "source_start": 310.013,
+      "source_end": 311.961057,
+      "speech_start": 310.093,
+      "speech_end": 311.841057,
+      "sha256": "693808356aced9f109a2994f7069b219234b5ba57b0ee92810861992990354aa",
+      "duration": 1.985306,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich lese meine neue Geschichte.",
+        "isolated_asr": "Ich lese meine neue Geschichte.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0368",
+      "text": "Wir haben kein kleines Auto.",
+      "kind": "course-phrase",
+      "file": "rq145_course.mp3",
+      "source_start": 312.366,
+      "source_end": 314.373032,
+      "speech_start": 312.446,
+      "speech_end": 314.253032,
+      "sha256": "c7432ccf35d09e521db0d164739e18aca5ba64d1024aab3f78becae03df5aaef",
+      "duration": 2.037551,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir haben kein kleines Auto.",
+        "isolated_asr": "Wir haben kein kleines Auto.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0369",
+      "text": "Er sieht seinen guten Freund.",
+      "kind": "course-phrase",
+      "file": "rq146_course.mp3",
+      "source_start": 314.777,
+      "source_end": 316.624537,
+      "speech_start": 314.857,
+      "speech_end": 316.504537,
+      "sha256": "dcaf7410b04ed172763e39ddf1a18e747705fdd00f973286189a360dd9f168f6",
+      "duration": 1.880816,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Er sieht seinen guten Freund.",
+        "isolated_asr": "Er sieht seinen guten Freund.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0370",
+      "text": "Ich spreche mit dem guten Freund.",
+      "kind": "course-phrase",
+      "file": "rq147_course.mp3",
+      "source_start": 316.991,
+      "source_end": 318.936358,
+      "speech_start": 317.071,
+      "speech_end": 318.816358,
+      "sha256": "c62e4a4c35bcc220eeebeb8d9e2f54f44282efe737c5a5a0e1e89c5f6c23b35d",
+      "duration": 1.985306,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich spreche mit mit dem guten Freund.",
+        "isolated_asr": "Ich spreche mit dem guten Freund.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0371",
+      "text": "Sie hilft einem kleinen Kind.",
+      "kind": "course-phrase",
+      "file": "rq148_course.mp3",
+      "source_start": 319.274,
+      "source_end": 321.175812,
+      "speech_start": 319.354,
+      "speech_end": 321.055812,
+      "sha256": "f9be6562054bf058c14ac8abeff56e54588cd57a343b96645cc3187ef8b0132f",
+      "duration": 1.933061,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Sie hilft einem kleinen Kind.",
+        "isolated_asr": "Sie hilft einem kleinen Kind.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0372",
+      "text": "Wir kommen mit einer neuen Tasche.",
+      "kind": "course-phrase",
+      "file": "rq149_course.mp3",
+      "source_start": 321.533,
+      "source_end": 323.459279,
+      "speech_start": 321.613,
+      "speech_end": 323.339279,
+      "sha256": "2c510303895968aa95ac45814337cf2a46771725d6e0b522ff798b63455d7c10",
+      "duration": 1.959184,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir kommen mit einer neuen Tasche.",
+        "isolated_asr": "Wir kommen mit einer neuen Tasche.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0373",
+      "text": "Er antwortet der freundlichen Frau.",
+      "kind": "course-phrase",
+      "file": "rq150_course.mp3",
+      "source_start": 323.762,
+      "source_end": 325.94354,
+      "speech_start": 323.842,
+      "speech_end": 325.82354,
+      "sha256": "de02e2298d0c567d6867527ffd69eaf9e7f80857e88f10a69a99f46a45a0242e",
+      "duration": 2.220408,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Er antwortet der freundlichen Frau.",
+        "isolated_asr": "Er antwortet der freundlichen Frau.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0374",
+      "text": "Ich spiele mit meinem kleinen Bruder.",
+      "kind": "course-phrase",
+      "file": "rq151_course.mp3",
+      "source_start": 326.161,
+      "source_end": 328.287118,
+      "speech_start": 326.241,
+      "speech_end": 328.167118,
+      "sha256": "7f66339da7d3ee15acfb78ad5a51de792361209e7e28c752ca1bdf6c6e889093",
+      "duration": 2.168163,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich spiele mit meinem kleinen Bruder.",
+        "isolated_asr": "Ich spiele mit meinem kleinen Bruder.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0375",
+      "text": "Wir sprechen mit den guten Freunden.",
+      "kind": "course-phrase",
+      "file": "rq152_course.mp3",
+      "source_start": 328.569,
+      "source_end": 330.628698,
+      "speech_start": 328.649,
+      "speech_end": 330.508698,
+      "sha256": "66eada517fb6f543d7a58edf0d96c9a507cd3ac570d9f82245c730cec398cba9",
+      "duration": 2.089796,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir sprechen mit den guten Freunden.",
+        "isolated_asr": "Wir sprechen mit den guten Freunden.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0376",
+      "text": "Das Bild ist von einem alten Freund.",
+      "kind": "course-phrase",
+      "file": "rq153_course.mp3",
+      "source_start": 330.886,
+      "source_end": 333.220454,
+      "speech_start": 330.966,
+      "speech_end": 333.100454,
+      "sha256": "dc5c099061b7dda725bf992d262e3d107c6b8eddce0fb73154cb9f6ba2f7073d",
+      "duration": 2.377143,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Das Bild ist von einem alten Freund.",
+        "isolated_asr": "Das Bild ist von einem alten Freund.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0377",
+      "text": "Ich bin bei meiner alten Schule.",
+      "kind": "course-phrase",
+      "file": "rq154_course.mp3",
+      "source_start": 333.44,
+      "source_end": 335.289884,
+      "speech_start": 333.52,
+      "speech_end": 335.169884,
+      "sha256": "1d2f51ed7ce160cfc6457c56ae8854d22a310d740778a12db7ee9c73e04f428a",
+      "duration": 1.880816,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich bin bei meiner alten Schule.",
+        "isolated_asr": "Ich bin bei meiner alten Schule.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0378",
+      "text": "Ich trinke kaltes Wasser.",
+      "kind": "course-phrase",
+      "file": "rq155_course.mp3",
+      "source_start": 335.519,
+      "source_end": 337.176186,
+      "speech_start": 335.599,
+      "speech_end": 337.056186,
+      "sha256": "94ffbb5a04ecef0914709d5b7ca036bd8d4de9f89f22e503c08ecdbc69d6b596",
+      "duration": 1.697959,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich trinke kaltes Wasser.",
+        "isolated_asr": "Ich trinke kaltes Wasser.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0379",
+      "text": "Wir essen frisches Brot.",
+      "kind": "course-phrase",
+      "file": "rq156_course.mp3",
+      "source_start": 337.388,
+      "source_end": 339.120229,
+      "speech_start": 337.468,
+      "speech_end": 339.000229,
+      "sha256": "8afbeb0e9028a048c25a5cb9c4f338f2c53816472fe3bf0405761fe4bbb5413c",
+      "duration": 1.776327,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir essen frisches Brot.",
+        "isolated_asr": "Wir essen frisches Brot.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0380",
+      "text": "Ich mag grünen Tee.",
+      "kind": "course-phrase",
+      "file": "rq157_course.mp3",
+      "source_start": 339.361,
+      "source_end": 340.773272,
+      "speech_start": 339.441,
+      "speech_end": 340.653272,
+      "sha256": "499e84437f22cc675767896466066a51a538c2cb79c5602e7284592d94291bc7",
+      "duration": 1.462857,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich mag grünen Tee.",
+        "isolated_asr": "Ich mag grünen Tee.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0381",
+      "text": "Hier gibt es guten Kaffee.",
+      "kind": "course-phrase",
+      "file": "rq158_course.mp3",
+      "source_start": 341.003,
+      "source_end": 342.678619,
+      "speech_start": 341.083,
+      "speech_end": 342.558619,
+      "sha256": "1039cb1b627c707518d65b4de777d22e619821f5d5ac010c9a1afee8869f7ccd",
+      "duration": 1.724082,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Hier gibt es guten Kaffee.",
+        "isolated_asr": "Hier gibt es guten Kaffee.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0382",
+      "text": "Gute Bücher sind interessant.",
+      "kind": "course-phrase",
+      "file": "rq159_course.mp3",
+      "source_start": 342.881,
+      "source_end": 344.815367,
+      "speech_start": 342.961,
+      "speech_end": 344.695367,
+      "sha256": "a2a118341b47a274ed74cfae8ae0f2cc18bb3436c48ccc0fc14e35a9b3f15150",
+      "duration": 1.985306,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Gute Bücher sind interessant.",
+        "isolated_asr": "Gute Bücher sind interessant.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0383",
+      "text": "Wir lesen neue Geschichten.",
+      "kind": "course-phrase",
+      "file": "rq160_course.mp3",
+      "source_start": 345.037,
+      "source_end": 346.760578,
+      "speech_start": 345.117,
+      "speech_end": 346.640578,
+      "sha256": "d0ebf68a5dfeb130c2966bfcfe0719a522bd7be33888d45082dc6800f7838979",
+      "duration": 1.750204,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir lesen neue Geschichten.",
+        "isolated_asr": "Wir lesen neue Geschichten.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0384",
+      "text": "Ich spreche mit guten Freunden.",
+      "kind": "course-phrase",
+      "file": "rq161_course.mp3",
+      "source_start": 346.955,
+      "source_end": 348.851039,
+      "speech_start": 347.035,
+      "speech_end": 348.731039,
+      "sha256": "8d0ffed257e5dd0cd309588958523575de8c91db335fdb85d3a0cdbb539e908b",
+      "duration": 1.933061,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich spreche mit guten Freunden.",
+        "isolated_asr": "Ich spreche mit guten Freunden.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0385",
+      "text": "Warme Milch ist hier.",
+      "kind": "course-phrase",
+      "file": "rq162_course.mp3",
+      "source_start": 349.068,
+      "source_end": 350.611379,
+      "speech_start": 349.148,
+      "speech_end": 350.491379,
+      "sha256": "f8e939936e6878119eabffc1e7c35d3aa3afeae5c45d5c6584f157eea357641f",
+      "duration": 1.593469,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Warme Milch ist hier.",
+        "isolated_asr": "Warme Milch ist hier.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0386",
+      "text": "Mein Vorname ist Mia.",
+      "kind": "course-phrase",
+      "file": "rq163_course.mp3",
+      "source_start": 350.868,
+      "source_end": 352.605508,
+      "speech_start": 350.948,
+      "speech_end": 352.485508,
+      "sha256": "14dcd587d526260f6d67478032d986d8b936ec2a876bc61e34d946363a3c22da",
+      "duration": 1.776327,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Mein Vorname ist Mia.",
+        "isolated_asr": "Mein Vorname ist Mia.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0387",
+      "text": "Mein Nachname ist Weber.",
+      "kind": "course-phrase",
+      "file": "rq164_course.mp3",
+      "source_start": 352.739,
+      "source_end": 354.476866,
+      "speech_start": 352.819,
+      "speech_end": 354.356866,
+      "sha256": "14776006d6a2170c81e66eec7ad37583808175ee6cef1d3d3b25703c7a014629",
+      "duration": 1.776327,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Mein Nachname ist Weber.",
+        "isolated_asr": "Mein Nachname ist Weber.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0388",
+      "text": "Ich wohne in der Schulstraße.",
+      "kind": "course-phrase",
+      "file": "rq165_course.mp3",
+      "source_start": 354.658,
+      "source_end": 356.519449,
+      "speech_start": 354.738,
+      "speech_end": 356.399449,
+      "sha256": "75f961d99dc049cacbe4803a26386ba273ff4186b623686c4b7da86a95490a9e",
+      "duration": 1.906939,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich wohne in der Schulstraße.",
+        "isolated_asr": "Ich wohne in der Schulstraße.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0389",
+      "text": "Meine Hausnummer ist zwölf.",
+      "kind": "course-phrase",
+      "file": "rq166_course.mp3",
+      "source_start": 356.657,
+      "source_end": 358.576664,
+      "speech_start": 356.737,
+      "speech_end": 358.456664,
+      "sha256": "0a9e218b1619fa216f96c530230b6158a452bafd09a7cbe8dc7fb34b4914f84c",
+      "duration": 1.959184,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Meine Hausnummer ist zwölf.",
+        "isolated_asr": "Meine Hausnummer ist zwölf.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0390",
+      "text": "Wie ist Ihre Adresse?",
+      "kind": "course-phrase",
+      "file": "rq167_course.mp3",
+      "source_start": 358.749,
+      "source_end": 360.127184,
+      "speech_start": 358.829,
+      "speech_end": 360.007184,
+      "sha256": "6bfaf29d9ce7169921d2d427c445149a4365392daa686d129dad7b3cb386e91c",
+      "duration": 1.410612,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wie ist Ihre Adresse?",
+        "isolated_asr": "Wie ist Ihre Adresse?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0391",
+      "text": "Buchstabieren Sie bitte Ihren Namen!",
+      "kind": "course-phrase",
+      "file": "rq168_course.mp3",
+      "source_start": 360.398,
+      "source_end": 362.454057,
+      "speech_start": 360.478,
+      "speech_end": 362.334057,
+      "sha256": "30409f5b098f5bbdb0b7838cf4ef240f6c6980fca2a19765c98a473da9c601a4",
+      "duration": 2.089796,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Buchstabieren Sie bitte Ihren Namen.",
+        "isolated_asr": "Buchstabieren Sie bitte Ihren Namen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0392",
+      "text": "Bitte schreiben Sie Ihre Telefonnummer!",
+      "kind": "course-phrase",
+      "file": "rq169_course.mp3",
+      "source_start": 362.609,
+      "source_end": 364.675642,
+      "speech_start": 362.689,
+      "speech_end": 364.555642,
+      "sha256": "7080fee4da5722769bc9bba3b4033a4c87265575cc6fbee1dffe6eb8c5a56db4",
+      "duration": 2.115918,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Bitte schreiben Sie Ihre Telefonnummer.",
+        "isolated_asr": "Bitte schreiben Sie Ihre Telefonnummer.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0393",
+      "text": "Ich möchte das Formular ausfüllen.",
+      "kind": "course-phrase",
+      "file": "rq170_course.mp3",
+      "source_start": 364.828,
+      "source_end": 366.92656,
+      "speech_start": 364.908,
+      "speech_end": 366.80656,
+      "sha256": "18ecd07fb63438984803f75338423b92446b89b1d2965b09b5d1dec453cbee44",
+      "duration": 2.142041,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich möchte das Formular ausfüllen.",
+        "isolated_asr": "Ich möchte das Formular ausfüllen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0394",
+      "text": "Ich suche eine Jacke.",
+      "kind": "course-phrase",
+      "file": "rq171_course.mp3",
+      "source_start": 367.103,
+      "source_end": 368.507014,
+      "speech_start": 367.183,
+      "speech_end": 368.387014,
+      "sha256": "29e4d6edfc9ceb7e8009d19a5d52cde1bfc32d2e28d40a906706c321e2963a36",
+      "duration": 1.436735,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich suche eine Jacke.",
+        "isolated_asr": "Ich suche eine Jacke.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0395",
+      "text": "Haben Sie das Hemd in Größe vierzig?",
+      "kind": "course-phrase",
+      "file": "rq172_course.mp3",
+      "source_start": 368.653,
+      "source_end": 370.880893,
+      "speech_start": 368.733,
+      "speech_end": 370.760893,
+      "sha256": "46254cbf748765db35731f8f51aa6b54127d28981956c24ecdba7119901c3212",
+      "duration": 2.272653,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Haben Sie das Hemd in Größe 40?",
+        "isolated_asr": "Haben Sie das Hemd in Größe 40?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0396",
+      "text": "Kann ich die Hose anprobieren?",
+      "kind": "course-phrase",
+      "file": "rq173_course.mp3",
+      "source_start": 370.994,
+      "source_end": 372.698832,
+      "speech_start": 371.074,
+      "speech_end": 372.578832,
+      "sha256": "39f8df98fcb4b6ea763dacf76dcbe07bd35d86fa1578241bda38be625e344637",
+      "duration": 1.750204,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Kann ich die Hose anprobieren?",
+        "isolated_asr": "Kann ich die Hose anprobieren?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0397",
+      "text": "Die Jacke ist zu groß.",
+      "kind": "course-phrase",
+      "file": "rq174_course.mp3",
+      "source_start": 372.875,
+      "source_end": 374.442766,
+      "speech_start": 372.955,
+      "speech_end": 374.322766,
+      "sha256": "d195ee93aaeb15ac398134201e733906b70832e85dee83866b0da06c562586a7",
+      "duration": 1.619592,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Die Jacke ist zu groß.",
+        "isolated_asr": "Die Jacke ist zu groß.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0398",
+      "text": "Ich möchte eine kleinere Größe.",
+      "kind": "course-phrase",
+      "file": "rq175_course.mp3",
+      "source_start": 374.5,
+      "source_end": 376.366531,
+      "speech_start": 374.58,
+      "speech_end": 376.246531,
+      "sha256": "59fc19de6a8a3673b922b3f65adff3d031c49dfc32877031ff9cdbb36792188e",
+      "duration": 1.906939,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich möchte eine kleinere Größe.",
+        "isolated_asr": "Ich möchte eine kleinere Größe.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0399",
+      "text": "Das ist zu teuer.",
+      "kind": "course-phrase",
+      "file": "rq176_course.mp3",
+      "source_start": 376.52,
+      "source_end": 377.728839,
+      "speech_start": 376.6,
+      "speech_end": 377.608839,
+      "sha256": "1ef49e61295013ffb902e7c48da38c63c71a6dd02f18c590974b474e3d41d544",
+      "duration": 1.253878,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Das ist zu teuer.",
+        "isolated_asr": "Das ist zu teuer.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0400",
+      "text": "Kann ich mit Karte bezahlen?",
+      "kind": "course-phrase",
+      "file": "rq177_course.mp3",
+      "source_start": 377.778,
+      "source_end": 379.354213,
+      "speech_start": 377.858,
+      "speech_end": 379.234213,
+      "sha256": "64a0fa00207f888d56fa56977780fef9aa428a74edd07b5aa1894b800b4a3785",
+      "duration": 1.619592,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Kann ich mit Karte bezahlen?",
+        "isolated_asr": "Kann ich mit Karte bezahlen?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0401",
+      "text": "Ich nehme die blaue Jacke.",
+      "kind": "course-phrase",
+      "file": "rq178_course.mp3",
+      "source_start": 379.458,
+      "source_end": 380.990152,
+      "speech_start": 379.538,
+      "speech_end": 380.870152,
+      "sha256": "cf74eb92368c8357706d96aca2784e0db35878cb9af8d042e69c13f6b6730ee0",
+      "duration": 1.567347,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich nehme die blaue Jacke.",
+        "isolated_asr": "Ich nehme die blaue Jacke.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0402",
+      "text": "Ich habe Kopfschmerzen.",
+      "kind": "course-phrase",
+      "file": "rq179_course.mp3",
+      "source_start": 381.137,
+      "source_end": 382.696288,
+      "speech_start": 381.217,
+      "speech_end": 382.576288,
+      "sha256": "67c6bf95d60ca1af4d80756c27ecfc193efef6da57b11b427b0e0c89ecd8cb73",
+      "duration": 1.593469,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich habe Kopfschmerzen.",
+        "isolated_asr": "Ich habe Kopfschmerzen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0403",
+      "text": "Mein Hals tut weh.",
+      "kind": "course-phrase",
+      "file": "rq180_course.mp3",
+      "source_start": 382.803,
+      "source_end": 384.172372,
+      "speech_start": 382.883,
+      "speech_end": 384.052372,
+      "sha256": "2d63fff7a7dcc7bf8b2c9f6e711d1865f34116d546c7d6b96505cdfd6b625c04",
+      "duration": 1.410612,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Mein Hals tut weh.",
+        "isolated_asr": "Mein Hals tut weh.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0404",
+      "text": "Ich fühle mich nicht gut.",
+      "kind": "course-phrase",
+      "file": "rq181_course.mp3",
+      "source_start": 384.276,
+      "source_end": 385.703599,
+      "speech_start": 384.356,
+      "speech_end": 385.583599,
+      "sha256": "3a0a25f8451bb3349034d5b3800845a3509f0b1fbb9477ff585ddfeaddd204d0",
+      "duration": 1.462857,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich fühle mich nicht gut.",
+        "isolated_asr": "Ich fühle mich nicht gut.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0405",
+      "text": "Ich habe Fieber.",
+      "kind": "course-phrase",
+      "file": "rq182_course.mp3",
+      "source_start": 385.777,
+      "source_end": 386.884283,
+      "speech_start": 385.857,
+      "speech_end": 386.764283,
+      "sha256": "210066d6d1c9397090ba73e74dca143bb54917b10c3e7b6b3f956e45a76aad75",
+      "duration": 1.149388,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich habe Fieber.",
+        "isolated_asr": "Ich habe Fieber.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0406",
+      "text": "Ich brauche einen Termin.",
+      "kind": "course-phrase",
+      "file": "rq183_course.mp3",
+      "source_start": 386.989,
+      "source_end": 388.481109,
+      "speech_start": 387.069,
+      "speech_end": 388.361109,
+      "sha256": "47534309004f84ce5f1001262f5d93f52e65da60a77a8f521fda43ebb5f71145",
+      "duration": 1.541224,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich brauche einen Termin.",
+        "isolated_asr": "Ich brauche einen Termin.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0407",
+      "text": "Wann kann ich zum Arzt kommen?",
+      "kind": "course-phrase",
+      "file": "rq184_course.mp3",
+      "source_start": 388.589,
+      "source_end": 390.248612,
+      "speech_start": 388.669,
+      "speech_end": 390.128612,
+      "sha256": "bc358df281cf96c5525dfcf69ec69beb7ccaf6adab1ccd2f02a0a90969df4e64",
+      "duration": 1.697959,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wann kann ich zum Arzt kommen?",
+        "isolated_asr": "Wann kann ich zum Arzt kommen?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0408",
+      "text": "Ich war gestern beim Arzt.",
+      "kind": "course-phrase",
+      "file": "rq185_course.mp3",
+      "source_start": 390.338,
+      "source_end": 391.896338,
+      "speech_start": 390.418,
+      "speech_end": 391.776338,
+      "sha256": "589917b3bc1ed2f23d706e79892a0a7291de0524b749b5a5ca6594c559c07758",
+      "duration": 1.593469,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich war gestern beim Arzt.",
+        "isolated_asr": "Ich war gestern beim Arzt.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0409",
+      "text": "Können Sie bitte langsam sprechen?",
+      "kind": "course-phrase",
+      "file": "rq186_course.mp3",
+      "source_start": 392.005,
+      "source_end": 393.946805,
+      "speech_start": 392.085,
+      "speech_end": 393.826805,
+      "sha256": "ec80fdf07c909be6bdcf31f69ad2b2289a990790db3e28165b96fe2bd5896913",
+      "duration": 1.985306,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Können Sie bitte langsam sprechen?",
+        "isolated_asr": "Können Sie bitte langsam sprechen?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0410",
+      "text": "Unsere Wohnung hat drei Zimmer.",
+      "kind": "course-phrase",
+      "file": "rq187_course.mp3",
+      "source_start": 394.041,
+      "source_end": 395.924896,
+      "speech_start": 394.121,
+      "speech_end": 395.804896,
+      "sha256": "b15c895cf2748bd25ba2f7b453b5165acc2bee42e24a8213e3aadb76426df9f0",
+      "duration": 1.933061,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Unsere Wohnung hat drei Zimmer.",
+        "isolated_asr": "Unsere Wohnung hat drei Zimmer.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0411",
+      "text": "Die Küche ist neben dem Bad.",
+      "kind": "course-phrase",
+      "file": "rq188_course.mp3",
+      "source_start": 396.019,
+      "source_end": 397.88507,
+      "speech_start": 396.099,
+      "speech_end": 397.76507,
+      "sha256": "18927e8c2e236863b34f3cf7bf13238ed2481c380918c036269c8e5cf35092f2",
+      "duration": 1.906939,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Die Küche ist neben dem Bad.",
+        "isolated_asr": "Die Küche ist neben dem Bad.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0412",
+      "text": "Die Heizung funktioniert nicht.",
+      "kind": "course-phrase",
+      "file": "rq189_course.mp3",
+      "source_start": 397.946,
+      "source_end": 399.714376,
+      "speech_start": 398.026,
+      "speech_end": 399.594376,
+      "sha256": "4883438de6772b7876148c2a703b54fcd0cb75f1e642283d5c61460583ca0155",
+      "duration": 1.802449,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Die Heizung funktioniert nicht.",
+        "isolated_asr": "Die Heizung funktioniert nicht.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0413",
+      "text": "Das Fenster ist kaputt.",
+      "kind": "course-phrase",
+      "file": "rq190_course.mp3",
+      "source_start": 399.79,
+      "source_end": 401.24415,
+      "speech_start": 399.87,
+      "speech_end": 401.12415,
+      "sha256": "90ff559def8b849f92b527f57579c31aac47ff01b5f2f607f553087d035452e3",
+      "duration": 1.48898,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Das Fenster ist kaputt.",
+        "isolated_asr": "Das Fenster ist kaputt.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0414",
+      "text": "Können Sie das bitte reparieren?",
+      "kind": "course-phrase",
+      "file": "rq191_course.mp3",
+      "source_start": 401.3,
+      "source_end": 403.047002,
+      "speech_start": 401.38,
+      "speech_end": 402.927002,
+      "sha256": "02a7b0e6ac6f85d03943e7d0afb2a59d4a92cb711ca12140369606b93cbad796",
+      "duration": 1.776327,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Können Sie das bitte reparieren?",
+        "isolated_asr": "Können Sie das bitte reparieren?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0415",
+      "text": "Ich muss mein Zimmer aufräumen.",
+      "kind": "course-phrase",
+      "file": "rq192_course.mp3",
+      "source_start": 403.138,
+      "source_end": 404.886268,
+      "speech_start": 403.218,
+      "speech_end": 404.766268,
+      "sha256": "1eddaf540ca55dfdb3b7fc4108a848698438cfd7178f2f27b58ec329a16866c2",
+      "duration": 1.776327,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich muss mein Zimmer aufräumen.",
+        "isolated_asr": "Ich muss mein Zimmer aufräumen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0416",
+      "text": "Wir haben die Küche geputzt.",
+      "kind": "course-phrase",
+      "file": "rq193_course.mp3",
+      "source_start": 404.984,
+      "source_end": 406.587052,
+      "speech_start": 405.064,
+      "speech_end": 406.467052,
+      "sha256": "1d832ba7e1b6ea0d715adca3ce1cc71741a4e485ca54a276e868de13d26461de",
+      "duration": 1.645714,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir haben die Küche geputzt.",
+        "isolated_asr": "Wir haben die Küche geputzt.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0417",
+      "text": "Der Tisch steht vor dem Fenster.",
+      "kind": "course-phrase",
+      "file": "rq194_course.mp3",
+      "source_start": 406.67,
+      "source_end": 408.487553,
+      "speech_start": 406.75,
+      "speech_end": 408.367553,
+      "sha256": "6e61203b91b47bf920120b92e66d0670e64d52f3a78d55b35c49b2ae3f112d16",
+      "duration": 1.854694,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Der Tisch steht vor dem Fenster.",
+        "isolated_asr": "Der Tisch steht vor dem Fenster.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0418",
+      "text": "Der Unterricht fängt um neun Uhr an.",
+      "kind": "course-phrase",
+      "file": "rq195_course.mp3",
+      "source_start": 408.571,
+      "source_end": 410.788492,
+      "speech_start": 408.651,
+      "speech_end": 410.668492,
+      "sha256": "7fca90ed85a59a9535e665b97e36b2fba3af87acf1204a9db7e772dde0f20bf2",
+      "duration": 2.246531,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Der Unterricht fängt um 9 Uhr an.",
+        "isolated_asr": "Der Unterricht fängt um 9 Uhr an.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0419",
+      "text": "Meine Arbeit beginnt um acht Uhr.",
+      "kind": "course-phrase",
+      "file": "rq196_course.mp3",
+      "source_start": 410.865,
+      "source_end": 412.946297,
+      "speech_start": 410.945,
+      "speech_end": 412.826297,
+      "sha256": "fb4cd6536ba83d56474e7ea424a59cb4bfb156ac34ec8d05756e5ad77049323d",
+      "duration": 2.115918,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Meine Arbeit beginnt um 8 Uhr.",
+        "isolated_asr": "Meine Arbeit beginnt um 8 Uhr.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0420",
+      "text": "Ich habe eine Frage.",
+      "kind": "course-phrase",
+      "file": "rq197_course.mp3",
+      "source_start": 413.057,
+      "source_end": 414.341481,
+      "speech_start": 413.137,
+      "speech_end": 414.221481,
+      "sha256": "c187d8a0e7983d0f25c9b0aac8cb03066a41ff1ce332bf89c9e3343c376741f1",
+      "duration": 1.332245,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich habe eine Frage.",
+        "isolated_asr": "Ich habe eine Frage.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0421",
+      "text": "Ich verstehe die Aufgabe nicht.",
+      "kind": "course-phrase",
+      "file": "rq198_course.mp3",
+      "source_start": 414.433,
+      "source_end": 416.225481,
+      "speech_start": 414.513,
+      "speech_end": 416.108961,
+      "sha256": "6b52c3ac0108bd19dc05ffeee28e1e3494e76e28f36584a2ccf0a5c0a90cb496",
+      "duration": 1.828571,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich verstehe die Aufgabe nicht.",
+        "isolated_asr": "Ich verstehe die Aufgabe nicht.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0422",
+      "text": "Kannst du das bitte erklären?",
+      "kind": "course-phrase",
+      "file": "rq199_course.mp3",
+      "source_start": 416.262,
+      "source_end": 417.892195,
+      "speech_start": 416.342,
+      "speech_end": 417.772195,
+      "sha256": "e31e7fbe16781cae51604c756c9a6df61863d93683a8d374d4571d274fd5f0a4",
+      "duration": 1.671837,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Kannst du das bitte erklären?",
+        "isolated_asr": "Kannst du das bitte erklären?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0423",
+      "text": "Wann haben wir Pause?",
+      "kind": "course-phrase",
+      "file": "rq200_course.mp3",
+      "source_start": 417.948,
+      "source_end": 419.292721,
+      "speech_start": 418.028,
+      "speech_end": 419.172721,
+      "sha256": "c0315c5be7dd006a1962204d33ff8ee6c3a1d8e847b118514ca23238e8ddc4c5",
+      "duration": 1.38449,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wann haben wir Pause?",
+        "isolated_asr": "Wann haben wir Pause?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0424",
+      "text": "Ich habe meine Hausaufgaben gemacht.",
+      "kind": "course-phrase",
+      "file": "rq201_course.mp3",
+      "source_start": 419.36,
+      "source_end": 421.333671,
+      "speech_start": 419.44,
+      "speech_end": 421.218342,
+      "sha256": "556e68deae96b01000fcf6cd87c6806069cf77977b41af6d23b4e2c10cbaca10",
+      "duration": 2.011429,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich habe meine Hausaufgaben gemacht.",
+        "isolated_asr": "Ich habe meine Hausaufgaben gemacht.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0425",
+      "text": "Wir müssen morgen früh anfangen.",
+      "kind": "course-phrase",
+      "file": "rq202_course.mp3",
+      "source_start": 421.369,
+      "source_end": 423.231807,
+      "speech_start": 421.449,
+      "speech_end": 423.111807,
+      "sha256": "a05820cbaee58592dc09ad925d4d98be71a8ed0c8c34631ec87a0e70d4949fd0",
+      "duration": 1.906939,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir müssen morgen früh anfangen.",
+        "isolated_asr": "Wir müssen morgen früh anfangen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0426",
+      "text": "Ich möchte eine Fahrkarte nach Berlin.",
+      "kind": "course-phrase",
+      "file": "rq203_course.mp3",
+      "source_start": 423.297,
+      "source_end": 425.454454,
+      "speech_start": 423.377,
+      "speech_end": 425.334454,
+      "sha256": "13f55d92ffb9076d8789fbe426e5a6080c837c46f5509c4c243b9139741ec8f3",
+      "duration": 2.194286,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich möchte eine Fahrkarte nach Berlin.",
+        "isolated_asr": "Ich möchte eine Fahrkarte nach Berlin.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0427",
+      "text": "Wann fährt der Zug ab?",
+      "kind": "course-phrase",
+      "file": "rq204_course.mp3",
+      "source_start": 425.844,
+      "source_end": 427.427286,
+      "speech_start": 425.924,
+      "speech_end": 427.307286,
+      "sha256": "0ba68fc6cce754d8f096fbf802f4814b8a0eb62691a9cb15ef6ecca1d77f2432",
+      "duration": 1.619592,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wann fährt der Zug ab?",
+        "isolated_asr": "Wann fährt der Zug ab?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0428",
+      "text": "Der Zug fährt von Gleis drei ab.",
+      "kind": "course-phrase",
+      "file": "rq205_course.mp3",
+      "source_start": 427.903,
+      "source_end": 430.081943,
+      "speech_start": 427.983,
+      "speech_end": 429.961943,
+      "sha256": "e939596f531e731ca24ced20dc23e1d6f72c165c605b5889f8fbfd22ecaa0654",
+      "duration": 2.220408,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Der Zug fährt von Gleis 3 ab.",
+        "isolated_asr": "Der Zug fährt von Gleis 3 ab.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0429",
+      "text": "Ich fahre mit dem Zug.",
+      "kind": "course-phrase",
+      "file": "rq206_course.mp3",
+      "source_start": 430.467,
+      "source_end": 431.928649,
+      "speech_start": 430.547,
+      "speech_end": 431.808649,
+      "sha256": "2f924f65dfc4d7ec090e34c5ec61c0176a14d6b6919c8ff90cf846a43be49e80",
+      "duration": 1.48898,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich fahre mit dem Zug.",
+        "isolated_asr": "Ich fahre mit dem Zug.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0430",
+      "text": "Ich habe ein Zimmer gebucht.",
+      "kind": "course-phrase",
+      "file": "rq207_course.mp3",
+      "source_start": 432.334,
+      "source_end": 433.954458,
+      "speech_start": 432.414,
+      "speech_end": 433.834458,
+      "sha256": "c663ce91b5169ca0ea7cd4ae2f786d3070ead5898bd1c9f8183891ec3f3fed3a",
+      "duration": 1.671837,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich habe ein Zimmer gebucht.",
+        "isolated_asr": "Ich habe ein Zimmer gebucht.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0431",
+      "text": "Wir bleiben zwei Nächte.",
+      "kind": "course-phrase",
+      "file": "rq208_course.mp3",
+      "source_start": 434.316,
+      "source_end": 435.841977,
+      "speech_start": 434.396,
+      "speech_end": 435.721977,
+      "sha256": "66aa85197a84ef962c4519c5c1e8390855c69b24a4876760f7dbc6b3aa0fc5dc",
+      "duration": 1.567347,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir bleiben zwei Nächte.",
+        "isolated_asr": "Wir bleiben zwei Nächte.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0432",
+      "text": "Haben Sie ein freies Zimmer?",
+      "kind": "course-phrase",
+      "file": "rq209_course.mp3",
+      "source_start": 436.252,
+      "source_end": 437.862025,
+      "speech_start": 436.332,
+      "speech_end": 437.742025,
+      "sha256": "95c78d0633ef01e4179aed0504a74750f55f3a3ac9f9d02afbcc0a2a483d061e",
+      "duration": 1.645714,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Haben Sie ein freies Zimmer?",
+        "isolated_asr": "Haben Sie ein freies Zimmer?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0433",
+      "text": "Können Sie uns bitte helfen?",
+      "kind": "course-phrase",
+      "file": "rq210_course.mp3",
+      "source_start": 438.313,
+      "source_end": 439.789147,
+      "speech_start": 438.393,
+      "speech_end": 439.669147,
+      "sha256": "135c0292bde28fa2f85de6f77d1b176ebb4d2db2fe1a2ec9624215d052e5f288",
+      "duration": 1.515102,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Können Sie uns bitte helfen?",
+        "isolated_asr": "Können Sie uns bitte helfen?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0434",
+      "text": "Hallo Mia!",
+      "kind": "course-phrase",
+      "file": "rq211_course.mp3",
+      "source_start": 440.154,
+      "source_end": 441.042549,
+      "speech_start": 440.234,
+      "speech_end": 440.922549,
+      "sha256": "051a71c1ae1c35cbbf5cf1c293861d93781c9e53d3f4a5d256873324765a7182",
+      "duration": 0.940408,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Hallo Mia!",
+        "isolated_asr": "Hallo, Mia!",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0435",
+      "text": "Ich möchte dich einladen.",
+      "kind": "course-phrase",
+      "file": "rq212_course.mp3",
+      "source_start": 441.374,
+      "source_end": 442.834451,
+      "speech_start": 441.454,
+      "speech_end": 442.714451,
+      "sha256": "032adee672c8d8213ea160eed89c6eba93050c21c35959e13883602f36d0cec9",
+      "duration": 1.48898,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich möchte dich einladen.",
+        "isolated_asr": "Ich möchte dich einladen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0436",
+      "text": "Wir treffen uns um acht Uhr im Park.",
+      "kind": "course-phrase",
+      "file": "rq213_course.mp3",
+      "source_start": 443.183,
+      "source_end": 445.504984,
+      "speech_start": 443.263,
+      "speech_end": 445.384984,
+      "sha256": "5136e325ecb411f7c541456224f3d0cddbf7fb6bc1042907e793cb1f12af39f8",
+      "duration": 2.35102,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir treffen uns um 8 Uhr im Park.",
+        "isolated_asr": "Wir treffen uns um 8 Uhr im Park.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0437",
+      "text": "Danke für deine Nachricht.",
+      "kind": "course-phrase",
+      "file": "rq214_course.mp3",
+      "source_start": 445.858,
+      "source_end": 447.348721,
+      "speech_start": 445.938,
+      "speech_end": 447.228721,
+      "sha256": "4ac52a9c242a911b84b939636f393815c5d55a250940c84abafb957390547bc1",
+      "duration": 1.541224,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Danke für deine Nachricht.",
+        "isolated_asr": "Danke für deine Nachricht.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0438",
+      "text": "Leider kann ich morgen nicht kommen.",
+      "kind": "course-phrase",
+      "file": "rq215_course.mp3",
+      "source_start": 447.556,
+      "source_end": 449.473342,
+      "speech_start": 447.636,
+      "speech_end": 449.353342,
+      "sha256": "5f8aba0578953a65e3ab6b797d6ef96e92dfe39705a921dd19ab134698ceaac6",
+      "duration": 1.959184,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Leider kann ich morgen nicht kommen.",
+        "isolated_asr": "Leider kann ich morgen nicht kommen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0439",
+      "text": "Können wir den Termin verschieben?",
+      "kind": "course-phrase",
+      "file": "rq216_course.mp3",
+      "source_start": 449.774,
+      "source_end": 451.493091,
+      "speech_start": 449.854,
+      "speech_end": 451.373091,
+      "sha256": "7942f1093f466c6714b73708b150351b90c8fe30dd3eea29a80b0b7f8dff6d62",
+      "duration": 1.750204,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Können wir den Termin verschieben?",
+        "isolated_asr": "Können wir den Termin verschieben?",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0440",
+      "text": "Morgen lerne ich Deutsch.",
+      "kind": "course-phrase",
+      "file": "rq217_course.mp3",
+      "source_start": 451.793,
+      "source_end": 453.365224,
+      "speech_start": 451.873,
+      "speech_end": 453.245224,
+      "sha256": "f47e92f08068e147521ea00e1920122d4d2c40b159e7a10a544255e9b53b8cad",
+      "duration": 1.619592,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Morgen lerne ich Deutsch.",
+        "isolated_asr": "Morgen lerne ich Deutsch.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0441",
+      "text": "Ich werde morgen Deutsch lernen.",
+      "kind": "course-phrase",
+      "file": "rq218_course.mp3",
+      "source_start": 453.664,
+      "source_end": 455.379712,
+      "speech_start": 453.744,
+      "speech_end": 455.259712,
+      "sha256": "bf520118936356b34d507f53b2d3b87aa13758265ae18f89db0fdef560999ba4",
+      "duration": 1.750204,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ich werde morgen Deutsch lernen.",
+        "isolated_asr": "Ich werde morgen Deutsch lernen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0442",
+      "text": "Du wirst nach Berlin fahren.",
+      "kind": "course-phrase",
+      "file": "rq219_course.mp3",
+      "source_start": 455.643,
+      "source_end": 457.246188,
+      "speech_start": 455.723,
+      "speech_end": 457.126188,
+      "sha256": "c14c62e03299d04a55fafb1ec973f690998ae8b2ec96f65c77e28e62c5af2dce",
+      "duration": 1.645714,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Du wirst nach Berlin fahren.",
+        "isolated_asr": "Du wirst nach Berlin fahren.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0443",
+      "text": "Er wird uns helfen.",
+      "kind": "course-phrase",
+      "file": "rq220_course.mp3",
+      "source_start": 457.569,
+      "source_end": 458.83561,
+      "speech_start": 457.649,
+      "speech_end": 458.71561,
+      "sha256": "a1353f9d80aa3ca552304965c593becf81fff0f7285763cac824ba834e0b99e0",
+      "duration": 1.306122,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Er wird uns helfen.",
+        "isolated_asr": "Er wird uns helfen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0444",
+      "text": "Wir werden nächste Woche reisen.",
+      "kind": "course-phrase",
+      "file": "rq221_course.mp3",
+      "source_start": 459.134,
+      "source_end": 460.891637,
+      "speech_start": 459.214,
+      "speech_end": 460.771637,
+      "sha256": "4cc163aa6fdd2d89b7ba483b018b7e91121700e7832ff7bce364c319d5481c49",
+      "duration": 1.802449,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Wir werden nächste Woche reisen.",
+        "isolated_asr": "Wir werden nächste Woche reisen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0445",
+      "text": "Ihr werdet hier wohnen.",
+      "kind": "course-phrase",
+      "file": "rq222_course.mp3",
+      "source_start": 461.192,
+      "source_end": 462.607424,
+      "speech_start": 461.272,
+      "speech_end": 462.487424,
+      "sha256": "26dd185e3fe4822eefeab04a73962b8dc4b49542fff84031c8f698753dd8a522",
+      "duration": 1.462857,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Ihr werdet hier wohnen.",
+        "isolated_asr": "Ihr werdet hier wohnen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    },
+    {
+      "id": "course80-audio-0446",
+      "text": "Sie werden morgen kommen.",
+      "kind": "course-phrase",
+      "file": "rq223_course.mp3",
+      "source_start": 462.864,
+      "source_end": 464.431,
+      "speech_start": 462.944,
+      "speech_end": 464.171,
+      "sha256": "754be7e250d0eb8f99a34536e9236ac652cf2436c4534883daf86d48fd0a44ed",
+      "duration": 1.593469,
+      "verification": {
+        "status": "exact-isolated",
+        "aligned_asr": "Sie werden morgen kommen.",
+        "isolated_asr": "Sie werden morgen kommen.",
+        "method": "Whisper small full-source alignment and independent isolated-clip ASR; positions 280–282 additionally resolved by regional Whisper medium transcription; punctuation, capitalization, spoken numeric notation and word spacing normalized"
+      }
+    }
+  ]
+}

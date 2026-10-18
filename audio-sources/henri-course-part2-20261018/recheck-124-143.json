@@ -1,0 +1,282 @@
+[
+  {
+    "start": 124.0,
+    "end": 126.22,
+    "text": " Ich war gestern zu Hause.",
+    "words": [
+      {
+        "start": 124.0,
+        "end": 124.9,
+        "word": " Ich",
+        "probability": 0.8327146172523499
+      },
+      {
+        "start": 124.9,
+        "end": 125.08,
+        "word": " war",
+        "probability": 0.9966614246368408
+      },
+      {
+        "start": 125.08,
+        "end": 125.54,
+        "word": " gestern",
+        "probability": 0.9990346431732178
+      },
+      {
+        "start": 125.54,
+        "end": 125.78,
+        "word": " zu",
+        "probability": 0.963195264339447
+      },
+      {
+        "start": 125.78,
+        "end": 126.22,
+        "word": " Hause.",
+        "probability": 0.9068238735198975
+      }
+    ]
+  },
+  {
+    "start": 126.94,
+    "end": 128.22,
+    "text": " Du warst müde.",
+    "words": [
+      {
+        "start": 126.94,
+        "end": 127.12,
+        "word": " Du",
+        "probability": 0.9634445905685425
+      },
+      {
+        "start": 127.12,
+        "end": 127.6,
+        "word": " warst",
+        "probability": 0.9925422668457031
+      },
+      {
+        "start": 127.6,
+        "end": 128.22,
+        "word": " müde.",
+        "probability": 0.9988401234149933
+      }
+    ]
+  },
+  {
+    "start": 128.8,
+    "end": 130.36,
+    "text": " Er war krank.",
+    "words": [
+      {
+        "start": 128.8,
+        "end": 128.98,
+        "word": " Er",
+        "probability": 0.9946041703224182
+      },
+      {
+        "start": 128.98,
+        "end": 129.26,
+        "word": " war",
+        "probability": 0.9992331266403198
+      },
+      {
+        "start": 129.26,
+        "end": 130.36,
+        "word": " krank.",
+        "probability": 0.997151106595993
+      }
+    ]
+  },
+  {
+    "start": 130.6,
+    "end": 131.8,
+    "text": " Wir waren in Berlin.",
+    "words": [
+      {
+        "start": 130.6,
+        "end": 130.8,
+        "word": " Wir",
+        "probability": 0.995996356010437
+      },
+      {
+        "start": 130.8,
+        "end": 131.14,
+        "word": " waren",
+        "probability": 0.9994751811027527
+      },
+      {
+        "start": 131.14,
+        "end": 131.36,
+        "word": " in",
+        "probability": 0.9984394907951355
+      },
+      {
+        "start": 131.36,
+        "end": 131.8,
+        "word": " Berlin.",
+        "probability": 0.9987659454345703
+      }
+    ]
+  },
+  {
+    "start": 132.74,
+    "end": 133.68,
+    "text": " Ihr wart hier.",
+    "words": [
+      {
+        "start": 132.74,
+        "end": 132.94,
+        "word": " Ihr",
+        "probability": 0.9928436875343323
+      },
+      {
+        "start": 132.94,
+        "end": 133.18,
+        "word": " wart",
+        "probability": 0.9771719574928284
+      },
+      {
+        "start": 133.18,
+        "end": 133.68,
+        "word": " hier.",
+        "probability": 0.9764261841773987
+      }
+    ]
+  },
+  {
+    "start": 134.34,
+    "end": 135.34,
+    "text": " Ich hatte Zeit.",
+    "words": [
+      {
+        "start": 134.34,
+        "end": 134.62,
+        "word": " Ich",
+        "probability": 0.9966261386871338
+      },
+      {
+        "start": 134.62,
+        "end": 134.92,
+        "word": " hatte",
+        "probability": 0.9995768666267395
+      },
+      {
+        "start": 134.92,
+        "end": 135.34,
+        "word": " Zeit.",
+        "probability": 0.9990930557250977
+      }
+    ]
+  },
+  {
+    "start": 136.16,
+    "end": 137.12,
+    "text": " Du hattest Hunger.",
+    "words": [
+      {
+        "start": 136.16,
+        "end": 136.36,
+        "word": " Du",
+        "probability": 0.9972597360610962
+      },
+      {
+        "start": 136.36,
+        "end": 136.78,
+        "word": " hattest",
+        "probability": 0.9992085297902426
+      },
+      {
+        "start": 136.78,
+        "end": 137.12,
+        "word": " Hunger.",
+        "probability": 0.9950679540634155
+      }
+    ]
+  },
+  {
+    "start": 138.06,
+    "end": 139.34,
+    "text": " Sie hatten Durst.",
+    "words": [
+      {
+        "start": 138.06,
+        "end": 138.26,
+        "word": " Sie",
+        "probability": 0.9988322854042053
+      },
+      {
+        "start": 138.26,
+        "end": 138.6,
+        "word": " hatten",
+        "probability": 0.9989101886749268
+      },
+      {
+        "start": 138.6,
+        "end": 139.34,
+        "word": " Durst.",
+        "probability": 0.9969799518585205
+      }
+    ]
+  },
+  {
+    "start": 140.02,
+    "end": 141.2,
+    "text": " Hier spricht man Deutsch.",
+    "words": [
+      {
+        "start": 140.02,
+        "end": 140.24,
+        "word": " Hier",
+        "probability": 0.9896636605262756
+      },
+      {
+        "start": 140.24,
+        "end": 140.56,
+        "word": " spricht",
+        "probability": 0.998421311378479
+      },
+      {
+        "start": 140.56,
+        "end": 140.84,
+        "word": " man",
+        "probability": 0.9990923404693604
+      },
+      {
+        "start": 140.84,
+        "end": 141.2,
+        "word": " Deutsch.",
+        "probability": 0.9176639914512634
+      }
+    ]
+  },
+  {
+    "start": 142.0,
+    "end": 142.98,
+    "text": " Man kann hier lernen.",
+    "words": [
+      {
+        "start": 142.0,
+        "end": 142.22,
+        "word": " Man",
+        "probability": 0.9969017505645752
+      },
+      {
+        "start": 142.22,
+        "end": 142.48,
+        "word": " kann",
+        "probability": 0.9996019005775452
+      },
+      {
+        "start": 142.48,
+        "end": 142.74,
+        "word": " hier",
+        "probability": 0.9982876181602478
+      },
+      {
+        "start": 142.74,
+        "end": 142.98,
+        "word": " lernen.",
+        "probability": 0.9950084686279297
+      }
+    ]
+  }
+]

@@ -61,5 +61,14 @@ class VoiceImportTests(unittest.TestCase):
         manifest['entries'][0]['duration'] = 60
         p.write_text(json.dumps(manifest))
         with self.assertRaises(ValueError): collect(self.root)
+    def test_second_course_batch_matches_frozen_second_part(self):
+        p = self.root / 'audio-sources/henri-course-part2-20261018/queue.json'
+        if not p.exists(): self.skipTest('Second course recording package not present')
+        queue = json.loads(p.read_text())
+        canonical = json.loads((ROOT / 'audio/recording/course-80-missing.json').read_text())['missing'][223:446]
+        self.assertEqual(queue['range'], [224, 446])
+        self.assertEqual([(e['id'], e['text']) for e in queue['entries']], [(e['id'], e['text']) for e in canonical])
+        _, _, report = collect(self.root)
+        self.assertEqual(sum(e['path'].startswith('audio/henri-course-part2-20261018/') for e in report), 223)
 
 if __name__ == '__main__': unittest.main()
