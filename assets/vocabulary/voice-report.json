@@ -1,5 +1,5 @@
 {
-  "count": 899,
+  "count": 1122,
   "entries": [
     {
       "id": "rq001",
@@ -6839,6 +6839,1790 @@
       "path": "audio/henri-course-part2-20261018/rq223_course_754be7e250d0.mp3",
       "sha256": "754be7e250d0eb8f99a34536e9236ac652cf2436c4534883daf86d48fd0a44ed",
       "duration": 1.593469,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0447",
+      "text": "Ich möchte jeden Tag üben.",
+      "path": "audio/henri-course-part3-20261018/rq001_course_d3ea44dc67b7.mp3",
+      "sha256": "d3ea44dc67b78a3ea7dbdf9c7f3d7932fdb373a81fcd713e298572c4d1d2f0c3",
+      "duration": 2.011429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0448",
+      "text": "Ich heiße Mia.",
+      "path": "audio/henri-course-part3-20261018/rq002_course_200e5eab1112.mp3",
+      "sha256": "200e5eab1112d6c728e8a91e03497c971a43698533019675d0edd72462362651",
+      "duration": 1.149388,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0449",
+      "text": "Ich lerne jeden Tag Deutsch.",
+      "path": "audio/henri-course-part3-20261018/rq003_course_77baa211a390.mp3",
+      "sha256": "77baa211a390924b64f154eb9442d36aa3a45109053e1d264af48746901e9227",
+      "duration": 2.037551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0450",
+      "text": "Gestern habe ich meine Freundin besucht.",
+      "path": "audio/henri-course-part3-20261018/rq004_course_5c6f41461f52.mp3",
+      "sha256": "5c6f41461f524859fc06746bc94c6e5806bd9b46db282b45ef6dbb98dee9ace1",
+      "duration": 2.481633,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0451",
+      "text": "Wir haben zusammen gekocht.",
+      "path": "audio/henri-course-part3-20261018/rq005_course_48c7c7543f22.mp3",
+      "sha256": "48c7c7543f227c4fa486222083933e5bdd2548bea3f7ad758ab69074f17d080d",
+      "duration": 1.724082,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0452",
+      "text": "Danach sind wir in den Park gegangen.",
+      "path": "audio/henri-course-part3-20261018/rq006_course_9efb9090d96b.mp3",
+      "sha256": "9efb9090d96b4b4cde8d5af7c0819ea8a1ae6389be3dd2aeb06c94e6b9a934d0",
+      "duration": 2.089796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0453",
+      "text": "Ich lerne Deutsch, weil ich hier arbeiten möchte.",
+      "path": "audio/henri-course-part3-20261018/rq007_course_7ee92c3484e8.mp3",
+      "sha256": "7ee92c3484e81df221baeef3cd3bd15566342dc7cc5e67746c606b71cd4cbd6c",
+      "duration": 2.66449,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0454",
+      "text": "Morgen werde ich wieder üben.",
+      "path": "audio/henri-course-part3-20261018/rq008_course_5c6fca5b9ddc.mp3",
+      "sha256": "5c6fca5b9ddc2bb97895bb532c3599da366bffa7bf9502143657534f4c0e158c",
+      "duration": 1.933061,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0455",
+      "text": "bereit",
+      "path": "audio/henri-course-part3-20261018/rq009_course_5875d5eba46f.mp3",
+      "sha256": "5875d5eba46f4d2c662b36a34be390eee97e12510f9f41f18e1fd93d77e5450c",
+      "duration": 0.574694,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0456",
+      "text": "die Zeit",
+      "path": "audio/henri-course-part3-20261018/rq010_course_f319850c9388.mp3",
+      "sha256": "f319850c93887a641cbaf321b5685e5ecf1223c7428d9be433a71fb54074a822",
+      "duration": 1.697959,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0457",
+      "text": "der Hunger",
+      "path": "audio/henri-course-part3-20261018/rq011_course_e2d18d9b7c44.mp3",
+      "sha256": "e2d18d9b7c446cd83299ca1e1ace832e9492e8f95482c16278f00468c5ed768c",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0458",
+      "text": "der Durst",
+      "path": "audio/henri-course-part3-20261018/rq012_course_c24e1d707ce6.mp3",
+      "sha256": "c24e1d707ce6426f1152f5413aac2638b9575b512d0ca7c4a4b4398a1fcf76c1",
+      "duration": 0.992653,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0459",
+      "text": "Deutsch",
+      "path": "audio/henri-course-part3-20261018/rq013_course_6777c98de18a.mp3",
+      "sha256": "6777c98de18ae99d67d30ec42c1e87c7b83707e32e90160c7010cca2cf1b482a",
+      "duration": 0.731429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0460",
+      "text": "heißen",
+      "path": "audio/henri-course-part3-20261018/rq014_course_ceb5ccabd91b.mp3",
+      "sha256": "ceb5ccabd91b7d5e13efe83e8bca86567f78d0d13bfc4f0b8e11805102620166",
+      "duration": 0.835918,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0461",
+      "text": "ein",
+      "path": "audio/henri-course-part3-20261018/rq015_course_90cd0c4fb9c3.mp3",
+      "sha256": "90cd0c4fb9c38c9a3535033ea44574b292887164099b9848530a73000a7b47e4",
+      "duration": 0.679184,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0462",
+      "text": "eine",
+      "path": "audio/henri-course-part3-20261018/rq016_course_9364bbb632b6.mp3",
+      "sha256": "9364bbb632b66245a6e7b297ac1babaed7dbb1048df877d04af8a7eaf61d51fc",
+      "duration": 0.679184,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "course80-audio-0463",
+      "text": "kein",
+      "path": "audio/henri-course-part3-20261018/rq017_course_75d5c528652a.mp3",
+      "sha256": "75d5c528652a6536b360cc39b3caa0fc075ddbcb9d8ac863fb5fc73c17d37b6f",
+      "duration": 0.731429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0464",
+      "text": "keine",
+      "path": "audio/henri-course-part3-20261018/rq018_course_e03016219a5a.mp3",
+      "sha256": "e03016219a5a5780394ff4cec3ff16d241c2453176a1eb78d86d3809e370d5ce",
+      "duration": 0.731429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0465",
+      "text": "die Bücher",
+      "path": "audio/henri-course-part3-20261018/rq019_course_0c2a03898ac8.mp3",
+      "sha256": "0c2a03898ac8c8bb4dd622301e87cb84efdec5f7949cac27a35f33b6fa416629",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0466",
+      "text": "die Kinder",
+      "path": "audio/henri-course-part3-20261018/rq020_course_5ba819bf17e4.mp3",
+      "sha256": "5ba819bf17e4537f907545e89941d8fc090a9765ee41446c4ffe29bb2d1a48a1",
+      "duration": 0.862041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0467",
+      "text": "die Tische",
+      "path": "audio/henri-course-part3-20261018/rq021_course_88474651b189.mp3",
+      "sha256": "88474651b1895116cd0202c81ff9ffd9290e91f266b685a9d6598c1c0d710141",
+      "duration": 0.862041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0468",
+      "text": "die Stühle",
+      "path": "audio/henri-course-part3-20261018/rq022_course_029b15988ec9.mp3",
+      "sha256": "029b15988ec96ce2018632832cf8213f5afcc1ea3a6f85b4d471079750f0b5d4",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0469",
+      "text": "die Türen",
+      "path": "audio/henri-course-part3-20261018/rq023_course_9927514da555.mp3",
+      "sha256": "9927514da5550a64d3a0514bac11c45eb47a763edd9d84ba1772bc765b878903",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0470",
+      "text": "die Katzen",
+      "path": "audio/henri-course-part3-20261018/rq024_course_ea520e6e9bc6.mp3",
+      "sha256": "ea520e6e9bc6cb9fc98adf4ddc61b0d89630e8d589172e3892f334cf3a9fbe41",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0471",
+      "text": "die Hunde",
+      "path": "audio/henri-course-part3-20261018/rq025_course_cec0d9c2cc89.mp3",
+      "sha256": "cec0d9c2cc891dc1ef8711a63658fc3d274551e35ad6b07d516e5c287c70b7d2",
+      "duration": 0.862041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0472",
+      "text": "die Schulen",
+      "path": "audio/henri-course-part3-20261018/rq026_course_046868816ec5.mp3",
+      "sha256": "046868816ec5483b0ee1768f15b3715211e1860ba351b3dc32000ae17ed59177",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0473",
+      "text": "mein",
+      "path": "audio/henri-course-part3-20261018/rq027_course_69776e218fb6.mp3",
+      "sha256": "69776e218fb661fada85e3ce3a7fdcb5cc5e53f9237699026b9e24bc47ac8da4",
+      "duration": 0.783673,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0474",
+      "text": "dein",
+      "path": "audio/henri-course-part3-20261018/rq028_course_f1e3a7561628.mp3",
+      "sha256": "f1e3a7561628fc99874ff47449d69f28de945693b0171af4764a5de579f20910",
+      "duration": 0.679184,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0475",
+      "text": "unser",
+      "path": "audio/henri-course-part3-20261018/rq029_course_fda434c66fc7.mp3",
+      "sha256": "fda434c66fc716d4e93c162f548dd694c2fd0ca6540d4168c88ff15b6d057d84",
+      "duration": 0.757551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0476",
+      "text": "euer",
+      "path": "audio/henri-course-part3-20261018/rq030_course_880ccec8b349.mp3",
+      "sha256": "880ccec8b349f9276c4211a335c275407f7fd3e8ae42f9e9eb60398bf8e02e78",
+      "duration": 0.653061,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "course80-audio-0477",
+      "text": "suchen",
+      "path": "audio/henri-course-part3-20261018/rq031_course_959a85463d42.mp3",
+      "sha256": "959a85463d4248cf711a5c8441d8343f7f174b3dcb59a865900c66e4cc5d9bae",
+      "duration": 0.835918,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0478",
+      "text": "mich",
+      "path": "audio/henri-course-part3-20261018/rq032_course_14b1ad6a2528.mp3",
+      "sha256": "14b1ad6a252883ae906041a793a89934e714e5890d8780053ff12e7690c0b98f",
+      "duration": 0.731429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0479",
+      "text": "dich",
+      "path": "audio/henri-course-part3-20261018/rq033_course_a9f8fd0625f8.mp3",
+      "sha256": "a9f8fd0625f84585665bdf16135c007da41ac32f5837e74344ef78bd81f30391",
+      "duration": 0.679184,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0480",
+      "text": "ihn",
+      "path": "audio/henri-course-part3-20261018/rq034_course_431624ad6ac3.mp3",
+      "sha256": "431624ad6ac3846cfcaa12071d64a4096ccef0e3df62070eb9e9419b4eaf4fb5",
+      "duration": 0.653061,
+      "verification": "exact-full"
+    },
+    {
+      "id": "course80-audio-0481",
+      "text": "uns",
+      "path": "audio/henri-course-part3-20261018/rq035_course_e89c87c89946.mp3",
+      "sha256": "e89c87c8994658423f1b4a6d3e910f2dec868619b737517a7ca3f7878535ca40",
+      "duration": 0.783673,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0482",
+      "text": "euch",
+      "path": "audio/henri-course-part3-20261018/rq036_course_9bab156b0cd2.mp3",
+      "sha256": "9bab156b0cd26a0f4ccc4aa675aac56d4d6c6ef50f0132ddcceb59530bebe00e",
+      "duration": 0.757551,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "course80-audio-0483",
+      "text": "mögen",
+      "path": "audio/henri-course-part3-20261018/rq037_course_8a21c7822056.mp3",
+      "sha256": "8a21c7822056097f87030e1d5f34295cd61d0ac915adf7c6cc010ddf1afdbbb3",
+      "duration": 0.783673,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0484",
+      "text": "gern",
+      "path": "audio/henri-course-part3-20261018/rq038_course_15537696e824.mp3",
+      "sha256": "15537696e8243b6d018bfe23276834ebaac2f6d49698758e6378aa9c2ada99ce",
+      "duration": 0.679184,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "course80-audio-0485",
+      "text": "die Musik",
+      "path": "audio/henri-course-part3-20261018/rq039_course_ff7e70b409f3.mp3",
+      "sha256": "ff7e70b409f3277444b232ca84e5fb6d508bfed87820d7e09c18e894210e9ed9",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0486",
+      "text": "der Sport",
+      "path": "audio/henri-course-part3-20261018/rq040_course_c709846bd497.mp3",
+      "sha256": "c709846bd497b42d3855158a2013113965206b95ab5278a7b766cbed1caa2390",
+      "duration": 0.992653,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "course80-audio-0487",
+      "text": "der Zucker",
+      "path": "audio/henri-course-part3-20261018/rq041_course_22fe66c0846b.mp3",
+      "sha256": "22fe66c0846b9396a92ccb181808144b0442e3099e35f425227cb666dc8b53b5",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0488",
+      "text": "die Rechnung",
+      "path": "audio/henri-course-part3-20261018/rq042_course_3ec42fc37d05.mp3",
+      "sha256": "3ec42fc37d0596e6361822d1a041b2795a98c7eedecf23ea3e12977320cb9b9b",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0489",
+      "text": "das Café",
+      "path": "audio/henri-course-part3-20261018/rq043_course_e9609f83d0fc.mp3",
+      "sha256": "e9609f83d0fc9e68d4d69c7402055acbf8537e93303dcdbdcf9fa42ca1a337ab",
+      "duration": 0.992653,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0490",
+      "text": "schwimmen",
+      "path": "audio/henri-course-part3-20261018/rq044_course_8bcaefb51f34.mp3",
+      "sha256": "8bcaefb51f3402153f0bd663e39bf55c0139081d069381fbc9a94694b76acad4",
+      "duration": 0.862041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0491",
+      "text": "sollen",
+      "path": "audio/henri-course-part3-20261018/rq045_course_b36375d7e301.mp3",
+      "sha256": "b36375d7e30194ce024dab37877612beb9fdead09c60287b06f6e8ba9c281e3a",
+      "duration": 0.809796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0492",
+      "text": "warten",
+      "path": "audio/henri-course-part3-20261018/rq046_course_f4af520e7596.mp3",
+      "sha256": "f4af520e7596bd976dcce8b65cf65d8ae8cfa4efa18d9e39847b2084900274dd",
+      "duration": 0.862041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0493",
+      "text": "möchten",
+      "path": "audio/henri-course-part3-20261018/rq047_course_15f44237ffdd.mp3",
+      "sha256": "15f44237ffdd4c239f01d3341b3e4ec444e0b069744e5601d791353bbd1e6555",
+      "duration": 0.835918,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0494",
+      "text": "reisen",
+      "path": "audio/henri-course-part3-20261018/rq048_course_e789e39512b1.mp3",
+      "sha256": "e789e39512b1a152f2d226428104ed64b01f81d708d071dd311bfab333d94b10",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0495",
+      "text": "dürfen",
+      "path": "audio/henri-course-part3-20261018/rq049_course_12d179b7e535.mp3",
+      "sha256": "12d179b7e53569b314b8a4a897c28dd3c56194da33e8e3130cfc62d8062ebe5c",
+      "duration": 0.783673,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "course80-audio-0496",
+      "text": "rauchen",
+      "path": "audio/henri-course-part3-20261018/rq050_course_920957930405.mp3",
+      "sha256": "920957930405edc760ea4bb7b5b4de7b9824b7122e4f43e45e994ad5a9c7c7c3",
+      "duration": 0.862041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0497",
+      "text": "langsam",
+      "path": "audio/henri-course-part3-20261018/rq051_course_6906dc4b30de.mp3",
+      "sha256": "6906dc4b30de8d371784b6db1606573254f2c720b0a44b0b91e8c9cbf5f9f743",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0498",
+      "text": "leise",
+      "path": "audio/henri-course-part3-20261018/rq052_course_0441b7e6890d.mp3",
+      "sha256": "0441b7e6890dc9447528d70f2aba4141bba3f67f24799c664a22b11c4be8b8c0",
+      "duration": 0.862041,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "course80-audio-0499",
+      "text": "antworten",
+      "path": "audio/henri-course-part3-20261018/rq053_course_9b3cd9ffa57b.mp3",
+      "sha256": "9b3cd9ffa57b027c364273d1e121119290dae59019e0a279ee7468e6e405fdf4",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0500",
+      "text": "mir",
+      "path": "audio/henri-course-part3-20261018/rq054_course_0a3b46e03219.mp3",
+      "sha256": "0a3b46e032199616ccf10e28281e6106e0412952f8e64a50329919ec444cc4e1",
+      "duration": 0.705306,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "course80-audio-0501",
+      "text": "dir",
+      "path": "audio/henri-course-part3-20261018/rq055_course_b3cf35987326.mp3",
+      "sha256": "b3cf3598732600586f11d2c419b68731d3232a20c5f8bc8f3c2f404c96bf7744",
+      "duration": 0.626939,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0502",
+      "text": "ihm",
+      "path": "audio/henri-course-part3-20261018/rq056_course_193584c08b90.mp3",
+      "sha256": "193584c08b90ff58310602159c40f16b11d2b2038f6c7dc1eef6a346b7247d6e",
+      "duration": 0.679184,
+      "verification": "exact-full"
+    },
+    {
+      "id": "course80-audio-0503",
+      "text": "ihnen",
+      "path": "audio/henri-course-part3-20261018/rq057_course_14dbfeb472fe.mp3",
+      "sha256": "14dbfeb472fe88af810f703177a87e635628062a013645f10a3f32a4c1a8a74a",
+      "duration": 0.705306,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0504",
+      "text": "zeigen",
+      "path": "audio/henri-course-part3-20261018/rq058_course_094354a37077.mp3",
+      "sha256": "094354a37077b24dd573c3bd65eb0d4d7ff60cd59a2ef41e061af22f93b4e7ff",
+      "duration": 0.835918,
+      "verification": "exact-full"
+    },
+    {
+      "id": "course80-audio-0505",
+      "text": "schenken",
+      "path": "audio/henri-course-part3-20261018/rq059_course_0ff9cb4d3649.mp3",
+      "sha256": "0ff9cb4d364917215780fd5ed523d4d857ec867500c44e30a9c60119565289cc",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0506",
+      "text": "das Geschenk",
+      "path": "audio/henri-course-part3-20261018/rq060_course_824230c9496a.mp3",
+      "sha256": "824230c9496a4e113f1417037223630f5e97ebe20dc34859ae0e83e28f591366",
+      "duration": 1.018776,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0507",
+      "text": "der Ball",
+      "path": "audio/henri-course-part3-20261018/rq061_course_f2c05c21e6b3.mp3",
+      "sha256": "f2c05c21e6b39b9f4b53003edbc2cbee8602b83b77ded9fd5acbdd523874ad0a",
+      "duration": 0.809796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0508",
+      "text": "das Bild",
+      "path": "audio/henri-course-part3-20261018/rq062_course_754329da1706.mp3",
+      "sha256": "754329da170625781ee6f1c51712dd23999c976fa0eff1ef7c7402c10573d63b",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0509",
+      "text": "zu",
+      "path": "audio/henri-course-part3-20261018/rq063_course_d8f581fd5d20.mp3",
+      "sha256": "d8f581fd5d204cc29266107e02e6951b27db063a89dd20030482cd21911f1436",
+      "duration": 0.653061,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0510",
+      "text": "von",
+      "path": "audio/henri-course-part3-20261018/rq064_course_d9b98e6eb6be.mp3",
+      "sha256": "d9b98e6eb6be68715213ec047405639a9157178885f5b8dd2bdc2253329b730e",
+      "duration": 0.731429,
+      "verification": "exact-full"
+    },
+    {
+      "id": "course80-audio-0511",
+      "text": "bei",
+      "path": "audio/henri-course-part3-20261018/rq065_course_ae7cc890740d.mp3",
+      "sha256": "ae7cc890740dce2ab93b9e2f5ad118d94477dc6bbc65a9f5faeb2b708af06ee3",
+      "duration": 0.600816,
+      "verification": "exact-full"
+    },
+    {
+      "id": "course80-audio-0512",
+      "text": "nach",
+      "path": "audio/henri-course-part3-20261018/rq066_course_77f9f6250e12.mp3",
+      "sha256": "77f9f6250e12741af22e8283fa371d05c22f85672300427465cc3ba36801b7f9",
+      "duration": 0.783673,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0513",
+      "text": "der Arzt",
+      "path": "audio/henri-course-part3-20261018/rq067_course_13b696dcce45.mp3",
+      "sha256": "13b696dcce458d983eb1d4fdadf4204a424efd1d342081e26e7a6fa189cbbcc1",
+      "duration": 0.992653,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0514",
+      "text": "für",
+      "path": "audio/henri-course-part3-20261018/rq068_course_17020eba6e30.mp3",
+      "sha256": "17020eba6e30c8b0909485d97026c6972ed62e3caa0dab95f12855c35f660064",
+      "duration": 0.731429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0515",
+      "text": "gegen",
+      "path": "audio/henri-course-part3-20261018/rq069_course_f510aa8b18f0.mp3",
+      "sha256": "f510aa8b18f06897396ea9e3c2d1137d846bd9efa491f3a21f590a644725ad8b",
+      "duration": 0.705306,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0516",
+      "text": "durch",
+      "path": "audio/henri-course-part3-20261018/rq070_course_239a8f6c29ab.mp3",
+      "sha256": "239a8f6c29ab2a31dcca1490ea1ab2295b7dfc63a216ac885768ef60107fbc1c",
+      "duration": 0.757551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0517",
+      "text": "um",
+      "path": "audio/henri-course-part3-20261018/rq071_course_c3b3fd9d7af7.mp3",
+      "sha256": "c3b3fd9d7af79f0973b2b07e8eaedbc2c36e08a0b42ce89492403d57d1368c54",
+      "duration": 0.574694,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0518",
+      "text": "die Tasche",
+      "path": "audio/henri-course-part3-20261018/rq072_course_fd14965c866c.mp3",
+      "sha256": "fd14965c866cd8c84383275a49a8863e21ad1798f5bf04965f046a65cdbbd0fe",
+      "duration": 0.862041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0519",
+      "text": "tausend",
+      "path": "audio/henri-course-part3-20261018/rq073_course_247dbefc6ac0.mp3",
+      "sha256": "247dbefc6ac05c01274e6987ddf4417a29dc02b91fffaa634ecbe06b0ac0f58c",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0520",
+      "text": "kosten",
+      "path": "audio/henri-course-part3-20261018/rq074_course_a70d9e418dd3.mp3",
+      "sha256": "a70d9e418dd3afaee972f9ec31b53d588dc80fdd862771199d0558fb21ddfcc9",
+      "duration": 0.835918,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0521",
+      "text": "der Euro",
+      "path": "audio/henri-course-part3-20261018/rq075_course_581daedf36e3.mp3",
+      "sha256": "581daedf36e3e57ed211c4d7e803046860d0799e2acc1cfa261b01b4b730c218",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0522",
+      "text": "der Cent",
+      "path": "audio/henri-course-part3-20261018/rq076_course_65ed09e5cedc.mp3",
+      "sha256": "65ed09e5cedc51de32b30957f6c55e22b86b4a2a16f1f8d8eedeacc66539dadb",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0523",
+      "text": "der Mensch",
+      "path": "audio/henri-course-part3-20261018/rq077_course_28f2c1081fff.mp3",
+      "sha256": "28f2c1081fff330e9330c9588b133ff1dee40b9e009630bcbf6b641a3bee8134",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0524",
+      "text": "die Uhr",
+      "path": "audio/henri-course-part3-20261018/rq078_course_b7e31bd8037b.mp3",
+      "sha256": "b7e31bd8037b041cb0e6d99d376af2575afe7f77b564804cfc5eabadeea894e1",
+      "duration": 0.809796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0525",
+      "text": "halb",
+      "path": "audio/henri-course-part3-20261018/rq079_course_1baeb57ef609.mp3",
+      "sha256": "1baeb57ef6095543e21c83c7327ce46ea96301bcbc85e9da3b74398edbc19055",
+      "duration": 0.705306,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "course80-audio-0526",
+      "text": "der Montag",
+      "path": "audio/henri-course-part3-20261018/rq080_course_f3edae2dc9ea.mp3",
+      "sha256": "f3edae2dc9ea749886edcba619abd21676a75671da82b98b1d465bfe58596643",
+      "duration": 1.044898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0527",
+      "text": "der Mai",
+      "path": "audio/henri-course-part3-20261018/rq081_course_5965ed795fc2.mp3",
+      "sha256": "5965ed795fc2d7b39676d5eae058594bc83ba2ae32af93c407cb7c90105c9726",
+      "duration": 0.809796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0528",
+      "text": "der Geburtstag",
+      "path": "audio/henri-course-part3-20261018/rq082_course_edaff1f7c43d.mp3",
+      "sha256": "edaff1f7c43d96320ccbe36843bf5f129c4b1e1fef80e983ee9bc4d075fa3120",
+      "duration": 1.201633,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0529",
+      "text": "der Termin",
+      "path": "audio/henri-course-part3-20261018/rq083_course_12b9382044fb.mp3",
+      "sha256": "12b9382044fb2fc7c84e195b4ce9290f6556a148d4a970f0d6fd4a93c6359d62",
+      "duration": 0.992653,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0530",
+      "text": "auf",
+      "path": "audio/henri-course-part3-20261018/rq084_course_e72f99b161ee.mp3",
+      "sha256": "e72f99b161ee6610dd41d9d5d7c44cd11316ec9bc3ae0d483ea8171eb280b2bc",
+      "duration": 0.731429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0531",
+      "text": "unter",
+      "path": "audio/henri-course-part3-20261018/rq085_course_a06fde951016.mp3",
+      "sha256": "a06fde951016269aa21055a9ecd5036516999f56c2bb2f73b701c04458c29ad6",
+      "duration": 0.679184,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0532",
+      "text": "neben",
+      "path": "audio/henri-course-part3-20261018/rq086_course_e23932a79def.mp3",
+      "sha256": "e23932a79def9b63e1f59e319e2d492b078376b275973e8e4bd36a8e0d29244b",
+      "duration": 0.809796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0533",
+      "text": "die Wand",
+      "path": "audio/henri-course-part3-20261018/rq087_course_086e2d05e12f.mp3",
+      "sha256": "086e2d05e12ff252591b9119e7e685ca085ffa0031476ed9c2c8538e67fbda72",
+      "duration": 0.809796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0534",
+      "text": "stehen",
+      "path": "audio/henri-course-part3-20261018/rq088_course_ddc42816dd2d.mp3",
+      "sha256": "ddc42816dd2d652c5945d131c081d465cf24e4baf20fc1321e3ae778ceb4655d",
+      "duration": 0.835918,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0535",
+      "text": "liegen",
+      "path": "audio/henri-course-part3-20261018/rq089_course_6a001f498f26.mp3",
+      "sha256": "6a001f498f26bd8670adff598db61067de9aa0268208460dc07664060da15b80",
+      "duration": 0.783673,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0536",
+      "text": "laufen",
+      "path": "audio/henri-course-part3-20261018/rq090_course_9fb823f974db.mp3",
+      "sha256": "9fb823f974db14265a9b576b34d2a193d3bc22ada1a0b425fee76db7869be091",
+      "duration": 0.835918,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0537",
+      "text": "hängen",
+      "path": "audio/henri-course-part3-20261018/rq091_course_80c28aa7e53e.mp3",
+      "sha256": "80c28aa7e53e7e6ecc1c2e4f4dbcb8ab7a15317063f04b040c66878a69a6f7a2",
+      "duration": 0.679184,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0538",
+      "text": "stellen",
+      "path": "audio/henri-course-part3-20261018/rq092_course_1d45a1cc7ad8.mp3",
+      "sha256": "1d45a1cc7ad83a00e48c199556195cf25eb11f39e6abd04ceff4ce28405d9c09",
+      "duration": 0.835918,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0539",
+      "text": "legen",
+      "path": "audio/henri-course-part3-20261018/rq093_course_eda35c1390c2.mp3",
+      "sha256": "eda35c1390c24ec164fa85312d1860290d8e487424c331f1666433efb87561dd",
+      "duration": 0.783673,
+      "verification": "exact-medium"
+    },
+    {
+      "id": "course80-audio-0540",
+      "text": "der Garten",
+      "path": "audio/henri-course-part3-20261018/rq094_course_19add611fc93.mp3",
+      "sha256": "19add611fc93d6049e8342026223fe3749f198b298225ac5be94f73415d2b129",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0541",
+      "text": "links",
+      "path": "audio/henri-course-part3-20261018/rq095_course_8780a6589f28.mp3",
+      "sha256": "8780a6589f2880c870e822baf154b8e99f616221b305ede4a7097f47d47356bb",
+      "duration": 0.757551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0542",
+      "text": "rechts",
+      "path": "audio/henri-course-part3-20261018/rq096_course_fb04a536667e.mp3",
+      "sha256": "fb04a536667eb437eb3bb30b34a4eaece81e0c9e81611ee57de6d1eea94e1b49",
+      "duration": 0.835918,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0543",
+      "text": "geradeaus",
+      "path": "audio/henri-course-part3-20261018/rq097_course_2a195abb2638.mp3",
+      "sha256": "2a195abb26382a911163480306e67a617c38519f3986d7e8296115a83cee4476",
+      "duration": 1.123265,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0544",
+      "text": "der Norden",
+      "path": "audio/henri-course-part3-20261018/rq098_course_50cb08a8e6c4.mp3",
+      "sha256": "50cb08a8e6c463d0139f9db78320687b3fa21450b80dbd9cf81f66c3a286a150",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0545",
+      "text": "der Süden",
+      "path": "audio/henri-course-part3-20261018/rq099_course_e9ca2ffb45c9.mp3",
+      "sha256": "e9ca2ffb45c913c7dfc31a08308e5391de8e014df42660a3ea665fe0805033db",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0546",
+      "text": "der Osten",
+      "path": "audio/henri-course-part3-20261018/rq100_course_fc67439bd053.mp3",
+      "sha256": "fc67439bd053e6236c67f4aef2e5ab21e15041e78e803581255993042f61e3fd",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0547",
+      "text": "der Westen",
+      "path": "audio/henri-course-part3-20261018/rq101_course_d191325aafb7.mp3",
+      "sha256": "d191325aafb734456524c50bc47640b23b315a6083fdd45af85e964633e9f3c1",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0548",
+      "text": "aufstehen",
+      "path": "audio/henri-course-part3-20261018/rq102_course_d5926c1b6702.mp3",
+      "sha256": "d5926c1b6702f6d26e85a9e7815df5f4d6545686c07f793a79d196af056702ba",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0549",
+      "text": "anrufen",
+      "path": "audio/henri-course-part3-20261018/rq103_course_fc224a1d0ccc.mp3",
+      "sha256": "fc224a1d0cccfcd0be7c045b0d9a1cc9fe8162c228432edb9859017a64bb2e23",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0550",
+      "text": "einkaufen",
+      "path": "audio/henri-course-part3-20261018/rq104_course_6825a52ebf60.mp3",
+      "sha256": "6825a52ebf60cbf090d9163b6f0460f893e3009b8d1b22ad88fe15d83c9ceab6",
+      "duration": 0.992653,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0551",
+      "text": "aufmachen",
+      "path": "audio/henri-course-part3-20261018/rq105_course_c2cbfc53aa55.mp3",
+      "sha256": "c2cbfc53aa55f7292fba27af9b1f2d2c0ed275a365b7411e2ed0709cbec5a829",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0552",
+      "text": "mitkommen",
+      "path": "audio/henri-course-part3-20261018/rq106_course_dee111e1baa9.mp3",
+      "sha256": "dee111e1baa9d0f2388235dec3a262dc1f8673fa31e6f937b994ad8c44de49f2",
+      "duration": 0.862041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0553",
+      "text": "zurückkommen",
+      "path": "audio/henri-course-part3-20261018/rq107_course_4c6b3f298cb3.mp3",
+      "sha256": "4c6b3f298cb388fe02d1eeb54c90ac868be478e969b2821ce5e6220562f098c1",
+      "duration": 1.044898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0554",
+      "text": "verstehen",
+      "path": "audio/henri-course-part3-20261018/rq108_course_12bd8c4caea2.mp3",
+      "sha256": "12bd8c4caea29fa068245329e1a1010da0c50eab194a4d2572935f3683985d2a",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0555",
+      "text": "besuchen",
+      "path": "audio/henri-course-part3-20261018/rq109_course_7049461fd6a0.mp3",
+      "sha256": "7049461fd6a0f0952c88dfb06d3295f062644d210213897e4e0ef629e4eb715e",
+      "duration": 0.862041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0556",
+      "text": "erklären",
+      "path": "audio/henri-course-part3-20261018/rq110_course_776500328265.mp3",
+      "sha256": "7765003282654f31d66ef89480c71ce16dc953df2a902cdaf3ec5b39917cf82d",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0557",
+      "text": "bezahlen",
+      "path": "audio/henri-course-part3-20261018/rq111_course_3024863dfeea.mp3",
+      "sha256": "3024863dfeea33f31e9e2ef4acedf646479e15f359b69a9025fe11aa9cb44e97",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0558",
+      "text": "telefonieren",
+      "path": "audio/henri-course-part3-20261018/rq112_course_34ebfc732d95.mp3",
+      "sha256": "34ebfc732d9568f3877bf4f9a913439c4a4fd01216e47efea60f6433af121013",
+      "duration": 1.123265,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0559",
+      "text": "studieren",
+      "path": "audio/henri-course-part3-20261018/rq113_course_46a9d271b2b1.mp3",
+      "sha256": "46a9d271b2b1b338bc1cb411ac44167884284c87d0d0fbd0df678adff0f40de4",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0560",
+      "text": "das Wort",
+      "path": "audio/henri-course-part3-20261018/rq114_course_fd36867e2206.mp3",
+      "sha256": "fd36867e22065f2ca1a3e0d229c8fce7b6519aac96379a14a3177312a6186b06",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0561",
+      "text": "sich treffen",
+      "path": "audio/henri-course-part3-20261018/rq115_course_e5520ee969fc.mp3",
+      "sha256": "e5520ee969fcdb7d600b85d8fa63d359083dd2f34a268ec93050f9ea9bf0c72a",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0562",
+      "text": "sich freuen",
+      "path": "audio/henri-course-part3-20261018/rq116_course_3329f70b6ebd.mp3",
+      "sha256": "3329f70b6ebd7e82f25bb9857025208a0af3ac8917bbd5f93e8e5942c225d4dc",
+      "duration": 0.992653,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0563",
+      "text": "sich waschen",
+      "path": "audio/henri-course-part3-20261018/rq117_course_53a9d8448183.mp3",
+      "sha256": "53a9d8448183556e7f46e979d34ea89253cb941be1033e12fecdd14b4d15d813",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0564",
+      "text": "die Hände",
+      "path": "audio/henri-course-part3-20261018/rq118_course_ebc7f0a28205.mp3",
+      "sha256": "ebc7f0a28205692ea2da411c698e9c6c65d8f3f9b076dd334532055befa01cad",
+      "duration": 0.809796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0565",
+      "text": "oft",
+      "path": "audio/henri-course-part3-20261018/rq119_course_63aecfa1fe3f.mp3",
+      "sha256": "63aecfa1fe3fd651a1638da96c4a855996e5007306f87e7d5edacd234120bfcd",
+      "duration": 0.653061,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0566",
+      "text": "manchmal",
+      "path": "audio/henri-course-part3-20261018/rq120_course_e5c0c732da36.mp3",
+      "sha256": "e5c0c732da366e473065c092081263b04dbff489d768f1c670b6d8410d54a03f",
+      "duration": 0.835918,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0567",
+      "text": "selten",
+      "path": "audio/henri-course-part3-20261018/rq121_course_ef9b5eca928d.mp3",
+      "sha256": "ef9b5eca928d7afc518bff5ee0c4abc86273dff6910ba75e439efba04416b924",
+      "duration": 0.809796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0568",
+      "text": "morgens",
+      "path": "audio/henri-course-part3-20261018/rq122_course_9252c8bc3e02.mp3",
+      "sha256": "9252c8bc3e02e2ca98ef09628ca4826b61fd6f651602713773ff9007ecc2906e",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0569",
+      "text": "abends",
+      "path": "audio/henri-course-part3-20261018/rq123_course_6e14c401a102.mp3",
+      "sha256": "6e14c401a102daaaac1f6c27f4c24178e6da3433d6a734045f69c6a66ac418f1",
+      "duration": 0.809796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0570",
+      "text": "zuerst",
+      "path": "audio/henri-course-part3-20261018/rq124_course_b80aad30787f.mp3",
+      "sha256": "b80aad30787f00de669b3aee3931d4d864befb2f5499d09fd4cdc47216638d4f",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0571",
+      "text": "danach",
+      "path": "audio/henri-course-part3-20261018/rq125_course_684ba760f6c7.mp3",
+      "sha256": "684ba760f6c7f521e73264f46cff0ac87e134d30ea2f4b4d85ee0f55f9919c54",
+      "duration": 0.783673,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0572",
+      "text": "passen",
+      "path": "audio/henri-course-part3-20261018/rq126_course_2e33c81919c5.mp3",
+      "sha256": "2e33c81919c5ef48491bc2043ed4df4492f7855e35a04a625d2b619e9179b5ac",
+      "duration": 0.679184,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0573",
+      "text": "leider",
+      "path": "audio/henri-course-part3-20261018/rq127_course_3bb88d6d2c74.mp3",
+      "sha256": "3bb88d6d2c74d252c8a521af904e7598cea3c17130b316ac75f3506f2f117083",
+      "duration": 0.757551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0574",
+      "text": "der Samstag",
+      "path": "audio/henri-course-part3-20261018/rq128_course_bf2220767aff.mp3",
+      "sha256": "bf2220767aff09ea702e64580f1161b53928f7c6ef5513e5d6f77558d14f2b02",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0575",
+      "text": "die Nachricht",
+      "path": "audio/henri-course-part3-20261018/rq129_course_a83c8c1280b9.mp3",
+      "sha256": "a83c8c1280b9a622764ef3a8286880198159f29680d3efd9bbddb4b377c32499",
+      "duration": 1.201633,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0576",
+      "text": "war",
+      "path": "audio/henri-course-part3-20261018/rq130_course_2b4fba6f2b10.mp3",
+      "sha256": "2b4fba6f2b1080f11f1a6f43f1d31dc83f3072142e226fca0422c92251497223",
+      "duration": 0.626939,
+      "verification": "exact-full"
+    },
+    {
+      "id": "course80-audio-0577",
+      "text": "hatte",
+      "path": "audio/henri-course-part3-20261018/rq131_course_2d32ed13a42b.mp3",
+      "sha256": "2d32ed13a42b12f182fc01b2f50a61fcf7be466b353a902e15799a6f50943f79",
+      "duration": 0.679184,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0578",
+      "text": "krank",
+      "path": "audio/henri-course-part3-20261018/rq132_course_03932355678a.mp3",
+      "sha256": "03932355678a397a52f287ed0f21a031d6f4b58a1c5b5530a0c385cd81947b14",
+      "duration": 0.731429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0579",
+      "text": "früher",
+      "path": "audio/henri-course-part3-20261018/rq133_course_19eb664cd5d3.mp3",
+      "sha256": "19eb664cd5d3a5563cfc29749f063bb099cc31d9caa91b8c1cff094837fc7b28",
+      "duration": 0.757551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0580",
+      "text": "man",
+      "path": "audio/henri-course-part3-20261018/rq134_course_8ec5f6eba031.mp3",
+      "sha256": "8ec5f6eba031bc11251b4dc0e83158a48b9d232ebb7bef20522b000a0e8b87f7",
+      "duration": 0.653061,
+      "verification": "homophone"
+    },
+    {
+      "id": "course80-audio-0581",
+      "text": "die Karte",
+      "path": "audio/henri-course-part3-20261018/rq135_course_4049f1300030.mp3",
+      "sha256": "4049f1300030824a702d838a19154172716df04ad042e9ba9374e87bf091bbf6",
+      "duration": 0.862041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0582",
+      "text": "denn",
+      "path": "audio/henri-course-part3-20261018/rq136_course_9a1c2ffbc054.mp3",
+      "sha256": "9a1c2ffbc054c9a4d8cc2ae4421247c15b24c21835d48cee887a0b2d4b456901",
+      "duration": 0.574694,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0583",
+      "text": "kochen",
+      "path": "audio/henri-course-part3-20261018/rq137_course_12d30d7b841b.mp3",
+      "sha256": "12d30d7b841b55b17e46c04d3fba7b6841e1b62098184ef042ca0c0b1ca58dab",
+      "duration": 0.705306,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0584",
+      "text": "wenig",
+      "path": "audio/henri-course-part3-20261018/rq138_course_f66f9dcddd9d.mp3",
+      "sha256": "f66f9dcddd9dc8691ed9dee46c950f33ca3febdf547daf49a62720605c45a867",
+      "duration": 0.809796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0585",
+      "text": "spät",
+      "path": "audio/henri-course-part3-20261018/rq139_course_54b724a3085e.mp3",
+      "sha256": "54b724a3085eed34743a8096d15d3eac3984aaabd1bf05c7f9203511fbcc5586",
+      "duration": 0.809796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0586",
+      "text": "dass",
+      "path": "audio/henri-course-part3-20261018/rq140_course_6ee9564d9fa8.mp3",
+      "sha256": "6ee9564d9fa8ec7093ddb74066f930f57723c72a23f6e4849aaa3e02a0dbf33f",
+      "duration": 0.653061,
+      "verification": "homophone"
+    },
+    {
+      "id": "course80-audio-0587",
+      "text": "denken",
+      "path": "audio/henri-course-part3-20261018/rq141_course_265ed3913c8e.mp3",
+      "sha256": "265ed3913c8ecb5f27d778adbe490b8306b63f5119efb37d26f714085b101247",
+      "duration": 0.757551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0588",
+      "text": "glauben",
+      "path": "audio/henri-course-part3-20261018/rq142_course_d089907efe2f.mp3",
+      "sha256": "d089907efe2f887c71c1d317bf8823408e216ffbfc62d2fe69dfe328af95627e",
+      "duration": 0.783673,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0589",
+      "text": "deshalb",
+      "path": "audio/henri-course-part3-20261018/rq143_course_78e1538c79f4.mp3",
+      "sha256": "78e1538c79f47121010bc5e965ff684a49743b77b4a9446a033904e49ba98986",
+      "duration": 0.600816,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0590",
+      "text": "darum",
+      "path": "audio/henri-course-part3-20261018/rq144_course_54e2748ab8bc.mp3",
+      "sha256": "54e2748ab8bc4e9d1d0ee8d063e7926ff87ecb999dc24f6a1150d8f6bd6ca909",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0591",
+      "text": "regnen",
+      "path": "audio/henri-course-part3-20261018/rq145_course_e053a5ea4dad.mp3",
+      "sha256": "e053a5ea4dad3656b5e1235e07c06b9ad56050aaaba5e39d956ffbc49b831868",
+      "duration": 0.835918,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0592",
+      "text": "noch",
+      "path": "audio/henri-course-part3-20261018/rq146_course_f5ef96d3aa74.mp3",
+      "sha256": "f5ef96d3aa745e87fb6486df796aba17896b94a54bba32ab87e53f3a15f7aa36",
+      "duration": 0.653061,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0593",
+      "text": "froh",
+      "path": "audio/henri-course-part3-20261018/rq147_course_ba98c252ebda.mp3",
+      "sha256": "ba98c252ebda1941284e4707756a4e7d07e88dcc19b7790ac8cd2adee6f15aff",
+      "duration": 0.705306,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0594",
+      "text": "wenn",
+      "path": "audio/henri-course-part3-20261018/rq148_course_6fef1240cedc.mp3",
+      "sha256": "6fef1240cedc245723d73f565a08c10da122080b5c296f7e2ac5e6764c5f66c9",
+      "duration": 0.653061,
+      "verification": "exact-full"
+    },
+    {
+      "id": "course80-audio-0595",
+      "text": "frei",
+      "path": "audio/henri-course-part3-20261018/rq149_course_df41f281ee5b.mp3",
+      "sha256": "df41f281ee5be784e4fddcb4963353f93d78b6e4ce39afcca882aebf26256897",
+      "duration": 0.731429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0596",
+      "text": "früh",
+      "path": "audio/henri-course-part3-20261018/rq150_course_f360d2a69626.mp3",
+      "sha256": "f360d2a696269bf3f99f8a0209dd0f4a4002ce366ad7843d9a9bdd675386dbbb",
+      "duration": 0.705306,
+      "verification": "exact-full"
+    },
+    {
+      "id": "course80-audio-0597",
+      "text": "zusammen",
+      "path": "audio/henri-course-part3-20261018/rq151_course_7ccba74a51e9.mp3",
+      "sha256": "7ccba74a51e9fe3da749812d6b503660c71203678bcc023ffa3bfe2f7c06201c",
+      "duration": 0.835918,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0598",
+      "text": "versuchen",
+      "path": "audio/henri-course-part3-20261018/rq152_course_85a767a8b034.mp3",
+      "sha256": "85a767a8b034cc22e437d0553f0cb73fc49ff9c032c09b60361cb951f82b0f22",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0599",
+      "text": "vergessen",
+      "path": "audio/henri-course-part3-20261018/rq153_course_1ff630642935.mp3",
+      "sha256": "1ff630642935c09e93d1e0c7d3cf1b26a1c608a9ff8afc55c9e3ffd964d43e1d",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0600",
+      "text": "beginnen",
+      "path": "audio/henri-course-part3-20261018/rq154_course_621bfb0bbcef.mp3",
+      "sha256": "621bfb0bbcefc204e9e3da16738265544d9a4288f2ea66cb6ede9f610c73668c",
+      "duration": 0.757551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0601",
+      "text": "hoffen",
+      "path": "audio/henri-course-part3-20261018/rq155_course_eb0a3192a69b.mp3",
+      "sha256": "eb0a3192a69b7de491178e96b055d6dbf8b374e94f910e66f81891a86777440e",
+      "duration": 0.679184,
+      "verification": "exact-full"
+    },
+    {
+      "id": "course80-audio-0602",
+      "text": "wichtig",
+      "path": "audio/henri-course-part3-20261018/rq156_course_7a1b671a8e6a.mp3",
+      "sha256": "7a1b671a8e6a6342212a28178824d9c3168dbb297a1f6022a1714bfe98a9245c",
+      "duration": 0.862041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0603",
+      "text": "interessant",
+      "path": "audio/henri-course-part3-20261018/rq157_course_1465584ce39f.mp3",
+      "sha256": "1465584ce39f9541fe15a79ea7548bee0261a52adcde54d7a2d0a7b1b065c2b7",
+      "duration": 1.044898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0604",
+      "text": "langweilig",
+      "path": "audio/henri-course-part3-20261018/rq158_course_453649882f43.mp3",
+      "sha256": "453649882f43371d7d45d22cfef8e0d5696af2a4f35934925d242119df06d57f",
+      "duration": 1.07102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0605",
+      "text": "warm",
+      "path": "audio/henri-course-part3-20261018/rq159_course_584bd6c6e26b.mp3",
+      "sha256": "584bd6c6e26b4461589cdbbaa71b929f7ba6217e12638ec23aec9f3ccfbe5692",
+      "duration": 0.705306,
+      "verification": "exact-full"
+    },
+    {
+      "id": "course80-audio-0606",
+      "text": "kalt",
+      "path": "audio/henri-course-part3-20261018/rq160_course_cb8b4d3aa4cb.mp3",
+      "sha256": "cb8b4d3aa4cb369dbd1e4598884848182c282acf49e89e44d74ee95d3e1c6246",
+      "duration": 0.705306,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0607",
+      "text": "traurig",
+      "path": "audio/henri-course-part3-20261018/rq161_course_4f2e963530cd.mp3",
+      "sha256": "4f2e963530cd9433a31a737d4bcc45b2f07c77a718ce020f4b7f2404656bd71d",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0608",
+      "text": "der Film",
+      "path": "audio/henri-course-part3-20261018/rq162_course_b1ed21c4cd1b.mp3",
+      "sha256": "b1ed21c4cd1b84050218e93660af70aac5ab947aa2b02ae1cdbd0c54086e3dad",
+      "duration": 0.835918,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0609",
+      "text": "schnell",
+      "path": "audio/henri-course-part3-20261018/rq163_course_088562252b5e.mp3",
+      "sha256": "088562252b5ed8181e8f24d2add9858f351d53edc19c366d7a6ca7fcd76d9833",
+      "duration": 0.731429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0610",
+      "text": "größer",
+      "path": "audio/henri-course-part3-20261018/rq164_course_33f7c6c46059.mp3",
+      "sha256": "33f7c6c46059aed59bc4ab753b6989e44ff9a111515596328e986d80e0975947",
+      "duration": 0.783673,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0611",
+      "text": "kleiner",
+      "path": "audio/henri-course-part3-20261018/rq165_course_b63d16e4217e.mp3",
+      "sha256": "b63d16e4217e0b3c9e2e4cefaff90e65ba79ab20b9996a41799f9480bc204aa2",
+      "duration": 0.757551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0612",
+      "text": "besser",
+      "path": "audio/henri-course-part3-20261018/rq166_course_68aa0c41038b.mp3",
+      "sha256": "68aa0c41038b03e9b45be4837384bfa807531038213df5335ea9a17518abc7af",
+      "duration": 0.809796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0613",
+      "text": "mehr",
+      "path": "audio/henri-course-part3-20261018/rq167_course_3320abfa2643.mp3",
+      "sha256": "3320abfa26435d461797fe14eec2191e1235906ca8142e3b7f5a347d9327bc9a",
+      "duration": 0.705306,
+      "verification": "exact-full"
+    },
+    {
+      "id": "course80-audio-0614",
+      "text": "als",
+      "path": "audio/henri-course-part3-20261018/rq168_course_bcaec4d319b8.mp3",
+      "sha256": "bcaec4d319b8e463b711fc05e8cba2d5bb577c3a4a23a9b8b41f5a4711580513",
+      "duration": 0.809796,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0615",
+      "text": "so … wie",
+      "path": "audio/henri-course-part3-20261018/rq169_course_20719f783ca7.mp3",
+      "sha256": "20719f783ca73e380d07596f7e0030d8f85cb9559f6c330c4d81e1562e1f6dde",
+      "duration": 1.750204,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0616",
+      "text": "am besten",
+      "path": "audio/henri-course-part3-20261018/rq170_course_d3da165224e6.mp3",
+      "sha256": "d3da165224e648c3b150bc7968dc6fd8a41858abbd63d590f9e7447811cf89ff",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0617",
+      "text": "am liebsten",
+      "path": "audio/henri-course-part3-20261018/rq171_course_4c601aab39a9.mp3",
+      "sha256": "4c601aab39a9c451b8bba7444ad89893e0000f10ab0fd5a34b25c8734104272c",
+      "duration": 1.044898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0618",
+      "text": "am meisten",
+      "path": "audio/henri-course-part3-20261018/rq172_course_dfe329582ddc.mp3",
+      "sha256": "dfe329582ddc8812a64a2fae36f024c1b11858eb115dcaa8339c3751c7abfa3d",
+      "duration": 1.044898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0619",
+      "text": "am schnellsten",
+      "path": "audio/henri-course-part3-20261018/rq173_course_42740a0d89ed.mp3",
+      "sha256": "42740a0d89ed347fb6edddb3884148bf1d8be7fc2e273d86f2ee04b2be6c0cce",
+      "duration": 1.149388,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0620",
+      "text": "lieber",
+      "path": "audio/henri-course-part3-20261018/rq174_course_ce1fae5959e1.mp3",
+      "sha256": "ce1fae5959e19130db550b9639264efb32521f1ae8d24f7d5057546f35a792fa",
+      "duration": 0.731429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0621",
+      "text": "die Geschichte",
+      "path": "audio/henri-course-part3-20261018/rq175_course_5c180aaf9273.mp3",
+      "sha256": "5c180aaf92739dd3895bf21367f239cdd9a9a1153f204517f71c1c5fd1566c7b",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0622",
+      "text": "ein guter Freund",
+      "path": "audio/henri-course-part3-20261018/rq176_course_ce2b4aa303a6.mp3",
+      "sha256": "ce2b4aa303a6bb88aa258e699fe817ea295c261bf64c5642070967d287b533a8",
+      "duration": 1.332245,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0623",
+      "text": "eine kleine Katze",
+      "path": "audio/henri-course-part3-20261018/rq177_course_bd25185a9857.mp3",
+      "sha256": "bd25185a985743c1973cd2eee46351f703ac58940a3ba6cbfad05d7b07847509",
+      "duration": 1.332245,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0624",
+      "text": "ein neues Buch",
+      "path": "audio/henri-course-part3-20261018/rq178_course_ef69fc9d8213.mp3",
+      "sha256": "ef69fc9d8213047fc4fd15a008bef22b1a177b86c68cb5d50d9a9ac69189f1b1",
+      "duration": 1.28,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0625",
+      "text": "mit einem guten Freund",
+      "path": "audio/henri-course-part3-20261018/rq179_course_18a5894f652b.mp3",
+      "sha256": "18a5894f652b819fdd5fe1c8bf08ee39aeccfe1ff3baf1bd5ea69b4ef46fb9aa",
+      "duration": 1.567347,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0626",
+      "text": "bei meiner alten Schule",
+      "path": "audio/henri-course-part3-20261018/rq180_course_49ece6068d33.mp3",
+      "sha256": "49ece6068d33b127e3b92ea3ca22733350a55b9be3df1096a30d2d3b739a6f20",
+      "duration": 1.515102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0627",
+      "text": "freundlich",
+      "path": "audio/henri-course-part3-20261018/rq181_course_2c0e187cc31f.mp3",
+      "sha256": "2c0e187cc31fe2a98e4362ce6f0afb7b0ff2289a45951c453b76255305ab9c3f",
+      "duration": 1.018776,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0628",
+      "text": "frisch",
+      "path": "audio/henri-course-part3-20261018/rq182_course_4eb27732d392.mp3",
+      "sha256": "4eb27732d39207d20cb6bd35de7373121d46c7a61e52ada85aee8b9cb4ef6c39",
+      "duration": 0.757551,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0629",
+      "text": "der Vorname",
+      "path": "audio/henri-course-part3-20261018/rq183_course_fb96db5255ef.mp3",
+      "sha256": "fb96db5255efb3b960813d2ce2bd89b84ba2fe68518716fe95a4d63e550a3241",
+      "duration": 1.07102,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0630",
+      "text": "der Nachname",
+      "path": "audio/henri-course-part3-20261018/rq184_course_8907e2ccc2e9.mp3",
+      "sha256": "8907e2ccc2e98a52b1e61cfc3befb1956f866ee3ba2ccf121675521b6ffda7ac",
+      "duration": 1.044898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0631",
+      "text": "die Adresse",
+      "path": "audio/henri-course-part3-20261018/rq185_course_d0f9b00ff72a.mp3",
+      "sha256": "d0f9b00ff72ad0416e74ba3dbee63900e974272b0cf7b6b94a2431033468c672",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0632",
+      "text": "die Telefonnummer",
+      "path": "audio/henri-course-part3-20261018/rq186_course_af95326c5a77.mp3",
+      "sha256": "af95326c5a77cd86780fdff4797fc14e783fcaf0777bcca0fcf0c18f27f7172e",
+      "duration": 1.227755,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0633",
+      "text": "buchstabieren",
+      "path": "audio/henri-course-part3-20261018/rq187_course_996b6678614c.mp3",
+      "sha256": "996b6678614c3356b9b02fd2cfcefeca6de3d313d0a4dc5fc5fff5918f3c6a04",
+      "duration": 1.123265,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0634",
+      "text": "das Formular",
+      "path": "audio/henri-course-part3-20261018/rq188_course_b54cc1b5cc5e.mp3",
+      "sha256": "b54cc1b5cc5ef30cdae615f3cca99e5975d6a569cb5f03f23030689e38e0cda7",
+      "duration": 1.097143,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0635",
+      "text": "die Hausnummer",
+      "path": "audio/henri-course-part3-20261018/rq189_course_90a08aad271e.mp3",
+      "sha256": "90a08aad271e71882245ae4dbe071b79b34555909df16273e8b773774993a143",
+      "duration": 1.018776,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0636",
+      "text": "ausfüllen",
+      "path": "audio/henri-course-part3-20261018/rq190_course_090fed78949d.mp3",
+      "sha256": "090fed78949dc3ebf5a4a6628e2adab9d0d52cfc62f4ab02cbf512aa01f38449",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0637",
+      "text": "das Hemd",
+      "path": "audio/henri-course-part3-20261018/rq191_course_e4c220c9405d.mp3",
+      "sha256": "e4c220c9405db4e63d255f2392f98d4ecb957d373e0f58bc5c9c9d663eca6140",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0638",
+      "text": "die Größe",
+      "path": "audio/henri-course-part3-20261018/rq192_course_2182ed581c8c.mp3",
+      "sha256": "2182ed581c8c5030dc063f31ef6ca734cf5462ed25543902e959e92534166647",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0639",
+      "text": "anprobieren",
+      "path": "audio/henri-course-part3-20261018/rq193_course_8ab5a2a2be7a.mp3",
+      "sha256": "8ab5a2a2be7aa665123a3b53e90af5bb789975340d173569f657619a40b1bafe",
+      "duration": 1.044898,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0640",
+      "text": "teuer",
+      "path": "audio/henri-course-part3-20261018/rq194_course_b476f6cf77ce.mp3",
+      "sha256": "b476f6cf77cead823effc45b4f13bdbfbc83e47e172207454a0a6b7fcddddb82",
+      "duration": 0.705306,
+      "verification": "exact-full"
+    },
+    {
+      "id": "course80-audio-0641",
+      "text": "billig",
+      "path": "audio/henri-course-part3-20261018/rq195_course_0b9fb42879b7.mp3",
+      "sha256": "0b9fb42879b7254268afa8748a14fed7e4d58e2b3e066c3206f142f9de103798",
+      "duration": 0.705306,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0642",
+      "text": "die Kopfschmerzen",
+      "path": "audio/henri-course-part3-20261018/rq196_course_c3f9e598172a.mp3",
+      "sha256": "c3f9e598172af1ed92bc5acff372eaed111389cb72c7cbd471311026bc30950b",
+      "duration": 1.227755,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0643",
+      "text": "wehtun",
+      "path": "audio/henri-course-part3-20261018/rq197_course_71397002b0fd.mp3",
+      "sha256": "71397002b0fd50ff56ece84d2b8e119431b051f67e4d021059a70e961ea3bba0",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0644",
+      "text": "das Fieber",
+      "path": "audio/henri-course-part3-20261018/rq198_course_f8c9fc6654f3.mp3",
+      "sha256": "f8c9fc6654f328746262ff161bc418980912de8abfd2f3d73cb04e4d060f60ca",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0645",
+      "text": "die Ärztin",
+      "path": "audio/henri-course-part3-20261018/rq199_course_bcccbb462b4a.mp3",
+      "sha256": "bcccbb462b4a51b85def964478498e11d91f1fb21d28d33584a82ba371af63e7",
+      "duration": 0.992653,
+      "verification": "exact-full"
+    },
+    {
+      "id": "course80-audio-0646",
+      "text": "die Heizung",
+      "path": "audio/henri-course-part3-20261018/rq200_course_b9e4fc8c88c3.mp3",
+      "sha256": "b9e4fc8c88c36d9104583e7b0951dea01a6e65b3384646116814b07d8844766b",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0647",
+      "text": "kaputt",
+      "path": "audio/henri-course-part3-20261018/rq201_course_4c130cd8f8c3.mp3",
+      "sha256": "4c130cd8f8c3f72707d35dd198eb4b74c6bf163c25fe299b1c4f7cf1b3cde9ab",
+      "duration": 0.783673,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0648",
+      "text": "funktionieren",
+      "path": "audio/henri-course-part3-20261018/rq202_course_040e464fd85b.mp3",
+      "sha256": "040e464fd85b8f2b0f5ee10d99945cf1d627af20c39bf82acef13dd2ee5b661f",
+      "duration": 1.123265,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0649",
+      "text": "aufräumen",
+      "path": "audio/henri-course-part3-20261018/rq203_course_adf9d691d0a7.mp3",
+      "sha256": "adf9d691d0a72b0168524a726de70be654e6bfed45acc1860aa43f5790936193",
+      "duration": 0.940408,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0650",
+      "text": "reparieren",
+      "path": "audio/henri-course-part3-20261018/rq204_course_1a5be4b178aa.mp3",
+      "sha256": "1a5be4b178aab65ce52c97f30bb452e830654244bd265ec5312a7bb43414e1be",
+      "duration": 1.018776,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0651",
+      "text": "putzen",
+      "path": "audio/henri-course-part3-20261018/rq205_course_a54411ae9847.mp3",
+      "sha256": "a54411ae9847a5f77ce0b9e4ea41e30f538ed8fa09580dd461766c04c6b40c59",
+      "duration": 0.731429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0652",
+      "text": "der Unterricht",
+      "path": "audio/henri-course-part3-20261018/rq206_course_8c23dfccf478.mp3",
+      "sha256": "8c23dfccf4783284a04c451f6282ce99b8221eb1f82a16f391d6b0acb07052ca",
+      "duration": 1.097143,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0653",
+      "text": "die Arbeit",
+      "path": "audio/henri-course-part3-20261018/rq207_course_09112ca7100a.mp3",
+      "sha256": "09112ca7100ae24324190d9f74cd2f1d53629d4649e8718b1273c68fe60557b0",
+      "duration": 0.966531,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0654",
+      "text": "die Pause",
+      "path": "audio/henri-course-part3-20261018/rq208_course_38b71000a278.mp3",
+      "sha256": "38b71000a278a6ef052479091e231ec4e25ec032678063b38216a34b6fcac939",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0655",
+      "text": "anfangen",
+      "path": "audio/henri-course-part3-20261018/rq209_course_ae351db12c26.mp3",
+      "sha256": "ae351db12c269fe0df727e82879da9ba9b0b5ebd060405cce85e961071fbf320",
+      "duration": 0.835918,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0656",
+      "text": "die Hausaufgaben",
+      "path": "audio/henri-course-part3-20261018/rq210_course_2d8a3c19fe0d.mp3",
+      "sha256": "2d8a3c19fe0d48aad463b8d242669d5cd5f92c871a6e99425da42d9671ab5979",
+      "duration": 1.201633,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0657",
+      "text": "die Fahrkarte",
+      "path": "audio/henri-course-part3-20261018/rq211_course_ae10d64fb147.mp3",
+      "sha256": "ae10d64fb14768ff333e03ad752da7057385a2d700188c326417a70e3a3f1114",
+      "duration": 1.097143,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0658",
+      "text": "abfahren",
+      "path": "audio/henri-course-part3-20261018/rq212_course_39a77de66347.mp3",
+      "sha256": "39a77de663471352c25f9473d370d72cb73d89faae179975405dca60196db9af",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0659",
+      "text": "das Gleis",
+      "path": "audio/henri-course-part3-20261018/rq213_course_e17de0d1bdf5.mp3",
+      "sha256": "e17de0d1bdf52c7919f98c8a51c5719bbd487dda5a0302356f6fbe9a28278896",
+      "duration": 0.992653,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0660",
+      "text": "das Hotel",
+      "path": "audio/henri-course-part3-20261018/rq214_course_d50385e22a12.mp3",
+      "sha256": "d50385e22a128266dfd07dd542ac86f82d20d078a14e381d466c0744fb2a5b29",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0661",
+      "text": "buchen",
+      "path": "audio/henri-course-part3-20261018/rq215_course_64d8155a03f5.mp3",
+      "sha256": "64d8155a03f5c5a3c83e00e539f5c7ce7927db8d2a44f8a52715881b4d8ded25",
+      "duration": 0.679184,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0662",
+      "text": "einladen",
+      "path": "audio/henri-course-part3-20261018/rq216_course_f553357cd583.mp3",
+      "sha256": "f553357cd58397a56451baa3608bd4ea9a1ce5ac0eaf831f8ad4fa314d666814",
+      "duration": 0.888163,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0663",
+      "text": "verschieben",
+      "path": "audio/henri-course-part3-20261018/rq217_course_bcf9096ec2e7.mp3",
+      "sha256": "bcf9096ec2e785be4faf29fab6ac19417382471d0a4410e557b90e42fa7715f4",
+      "duration": 0.914286,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0664",
+      "text": "werden",
+      "path": "audio/henri-course-part3-20261018/rq218_course_751b177508a6.mp3",
+      "sha256": "751b177508a6d23cf8644881c97f84f612ad3f5b28fd78618f03a9852073d747",
+      "duration": 0.783673,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0665",
+      "text": "nächste Woche",
+      "path": "audio/henri-course-part3-20261018/rq219_course_fcf60cdb098b.mp3",
+      "sha256": "fcf60cdb098bd1149327c8f0c525d13d057e13d36b39de111774c00d72a54082",
+      "duration": 1.018776,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0666",
+      "text": "der Plan",
+      "path": "audio/henri-course-part3-20261018/rq220_course_18f64c0d9a0c.mp3",
+      "sha256": "18f64c0d9a0c2cd202affc75fcb2e6970e0b514f6a010b7f4517e5df243251b8",
+      "duration": 0.862041,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0667",
+      "text": "üben",
+      "path": "audio/henri-course-part3-20261018/rq221_course_21b57cca97f1.mp3",
+      "sha256": "21b57cca97f1aa61cd6cae0ac6c7b9c3bd24867b94689485d9bbef59828248f6",
+      "duration": 0.679184,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0668",
+      "text": "Mia",
+      "path": "audio/henri-course-part3-20261018/rq222_course_f1dc690e5dbb.mp3",
+      "sha256": "f1dc690e5dbbfc504ab78a36d3488c5ce29b56d889123bc8da2006596667161b",
+      "duration": 0.731429,
+      "verification": "exact-isolated"
+    },
+    {
+      "id": "course80-audio-0669",
+      "text": "jeden Tag",
+      "path": "audio/henri-course-part3-20261018/rq223_course_0d2cdb96b33d.mp3",
+      "sha256": "0d2cdb96b33db5a67fc9bd1ba928c71b91a824e687d330912f6da489105afb98",
+      "duration": 1.201633,
       "verification": "exact-isolated"
     },
     {
