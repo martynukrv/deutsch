@@ -1,0 +1,2328 @@
+{
+  "version": 1,
+  "count": 208,
+  "groups": [
+    {
+      "lesson": 16,
+      "title": "Мій, твій, його, її, наш",
+      "cols": 3,
+      "rows": 3,
+      "words": [
+        {
+          "id": "course-lexeme-0b7f4e4186727cc3",
+          "de": "mein",
+          "ua": "мій",
+          "art": null,
+          "scene": "Child pointing to their own chest while hugging their orange book: mine",
+          "slot": 0,
+          "name": "course_0b7f4e4186727cc3"
+        },
+        {
+          "id": "course-lexeme-0ddcbee2bb8498ff",
+          "de": "dein",
+          "ua": "твій",
+          "art": null,
+          "scene": "Child offering an orange book outward toward the viewer: yours",
+          "slot": 1,
+          "name": "course_0ddcbee2bb8498ff"
+        },
+        {
+          "id": "course-lexeme-a439c2303a05c465",
+          "de": "sein",
+          "ua": "його (присвійне)",
+          "art": null,
+          "scene": "Boy with his orange backpack clearly beside him, pointing toward the boy as owner",
+          "slot": 2,
+          "name": "course_a439c2303a05c465"
+        },
+        {
+          "id": "course-lexeme-d8d8206d1075de02",
+          "de": "ihr",
+          "ua": "її / їхній",
+          "art": null,
+          "scene": "Girl with her orange handbag beside her, pointing toward girl as owner",
+          "slot": 3,
+          "name": "course_d8d8206d1075de02"
+        },
+        {
+          "id": "course-lexeme-74b68c0133979b65",
+          "de": "unser",
+          "ua": "наш",
+          "art": null,
+          "scene": "Two children holding one shared large book together: ours",
+          "slot": 4,
+          "name": "course_74b68c0133979b65"
+        },
+        {
+          "id": "course-lexeme-bbd4b20f1ffdc0d3",
+          "de": "euer",
+          "ua": "ваш (кілька людей)",
+          "art": null,
+          "scene": "Two other children receiving a shared ball from a small foreground hand: yours plural",
+          "slot": 5,
+          "name": "course_bbd4b20f1ffdc0d3"
+        },
+        {
+          "id": "course-lexeme-ee3722091a73234f",
+          "de": "Ihr",
+          "ua": "Ваш (ввічливо)",
+          "art": null,
+          "scene": "Politely dressed adult receiving their orange briefcase from a child: formal yours",
+          "slot": 6,
+          "name": "course_ee3722091a73234f"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 19,
+      "title": "Бачу кого? Маю що?",
+      "cols": 2,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-c487816a5be16c92",
+          "de": "suchen",
+          "ua": "шукати",
+          "art": null,
+          "scene": "Child searching under a table with a magnifying glass",
+          "slot": 0,
+          "name": "course_c487816a5be16c92"
+        },
+        {
+          "id": "course-lexeme-8049eda005358d3d",
+          "de": "es gibt",
+          "ua": "є / існує",
+          "art": null,
+          "scene": "Open treasure chest revealing a visible toy ball: something exists/is there",
+          "slot": 1,
+          "name": "course_8049eda005358d3d"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 20,
+      "title": "Мене, тебе, його",
+      "cols": 3,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-7fc6c37c76f7c8f2",
+          "de": "mich",
+          "ua": "мене",
+          "art": null,
+          "scene": "Child pointing at themself while another character looks at them through binoculars: me as object",
+          "slot": 0,
+          "name": "course_7fc6c37c76f7c8f2"
+        },
+        {
+          "id": "course-lexeme-62c70eaca29104ad",
+          "de": "dich",
+          "ua": "тебе",
+          "art": null,
+          "scene": "Friendly foreground hand pointing toward a child being looked at: you as object",
+          "slot": 1,
+          "name": "course_62c70eaca29104ad"
+        },
+        {
+          "id": "course-lexeme-ad5fd8b05051cb68",
+          "de": "ihn",
+          "ua": "його (додаток)",
+          "art": null,
+          "scene": "Foreground character pointing at a distinct boy in the distance: him",
+          "slot": 2,
+          "name": "course_ad5fd8b05051cb68"
+        },
+        {
+          "id": "course-lexeme-c9d98e2219af8f02",
+          "de": "uns",
+          "ua": "нас",
+          "art": null,
+          "scene": "Two children together with foreground pointer directed at both: us as object",
+          "slot": 3,
+          "name": "course_c9d98e2219af8f02"
+        },
+        {
+          "id": "course-lexeme-7f3072344e63698e",
+          "de": "euch",
+          "ua": "вас (кілька людей)",
+          "art": null,
+          "scene": "Two other children together, foreground speaker pointing toward both: you plural as object",
+          "slot": 4,
+          "name": "course_7f3072344e63698e"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 22,
+      "title": "Що мені подобається",
+      "cols": 2,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-e4f74e14d16b1dcb",
+          "de": "mögen",
+          "ua": "любити / подобатися",
+          "art": null,
+          "scene": "Child smiling warmly at a small heart above a favorite toy: liking",
+          "slot": 0,
+          "name": "course_e4f74e14d16b1dcb"
+        },
+        {
+          "id": "course-lexeme-480cc885ca0b24fb",
+          "de": "gern",
+          "ua": "охоче",
+          "art": null,
+          "scene": "Child eagerly playing an instrument with a joyful face: gladly",
+          "slot": 1,
+          "name": "course_480cc885ca0b24fb"
+        },
+        {
+          "id": "course-lexeme-2a9bbfb01dac4f3e",
+          "de": "die Musik",
+          "ua": "музика",
+          "art": null,
+          "scene": "Simple orange musical note and small headphones",
+          "slot": 2,
+          "name": "course_2a9bbfb01dac4f3e"
+        },
+        {
+          "id": "course-lexeme-83f838d9aee12e9f",
+          "de": "der Sport",
+          "ua": "спорт",
+          "art": null,
+          "scene": "Child joyfully kicking an orange football",
+          "slot": 3,
+          "name": "course_83f838d9aee12e9f"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 23,
+      "title": "Перший діалог у кафе",
+      "cols": 3,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-c525891f01aa3b12",
+          "de": "der Zucker",
+          "ua": "цукор",
+          "art": null,
+          "scene": "Small cream sugar bowl with orange spoon and a few white sugar cubes",
+          "slot": 0,
+          "name": "course_c525891f01aa3b12"
+        },
+        {
+          "id": "course-lexeme-b04234e3217b517d",
+          "de": "die Rechnung",
+          "ua": "рахунок",
+          "art": null,
+          "scene": "Restaurant bill receipt with an orange edge and simple navy amount lines, no readable text",
+          "slot": 1,
+          "name": "course_b04234e3217b517d"
+        },
+        {
+          "id": "course-lexeme-7237c9fe86658cd6",
+          "de": "das Café",
+          "ua": "кафе",
+          "art": null,
+          "scene": "Small welcoming cafe storefront with orange awning and cup symbol",
+          "slot": 2,
+          "name": "course_7237c9fe86658cd6"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 25,
+      "title": "Можу та вмію",
+      "cols": 1,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-b7baed75d9cf5417",
+          "de": "schwimmen",
+          "ua": "плавати",
+          "art": null,
+          "scene": "Child swimming with arms above simple navy outlined cream waves, no blue",
+          "slot": 0,
+          "name": "course_b7baed75d9cf5417"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 26,
+      "title": "Треба та слід",
+      "cols": 2,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-5357fcd39f860fcd",
+          "de": "sollen",
+          "ua": "мати зробити / слід",
+          "art": null,
+          "scene": "Child following a helpful adults pointing finger toward a simple checklist: should",
+          "slot": 0,
+          "name": "course_5357fcd39f860fcd"
+        },
+        {
+          "id": "course-lexeme-8a8a140399c42837",
+          "de": "warten",
+          "ua": "чекати",
+          "art": null,
+          "scene": "Child patiently sitting on a bench next to a clock: waiting",
+          "slot": 1,
+          "name": "course_8a8a140399c42837"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 27,
+      "title": "Хочу та хотів би",
+      "cols": 2,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-5cc68d619a5d016f",
+          "de": "möchten",
+          "ua": "хотіти б (ввічливо)",
+          "art": null,
+          "scene": "Child politely requesting a cup with open hand and a small heart: would like",
+          "slot": 0,
+          "name": "course_5cc68d619a5d016f"
+        },
+        {
+          "id": "course-lexeme-21e34af987794719",
+          "de": "reisen",
+          "ua": "подорожувати",
+          "art": null,
+          "scene": "Child with orange suitcase looking at a small globe with navy outlined cream continents",
+          "slot": 1,
+          "name": "course_21e34af987794719"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 28,
+      "title": "Можна та не можна",
+      "cols": 2,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-0b7a7a48667409b1",
+          "de": "dürfen",
+          "ua": "мати дозвіл",
+          "art": null,
+          "scene": "Child receiving an affirmative thumbs-up from an adult next to an open gate: permission",
+          "slot": 0,
+          "name": "course_0b7a7a48667409b1"
+        },
+        {
+          "id": "course-lexeme-afcad6580fc8eff4",
+          "de": "rauchen",
+          "ua": "курити",
+          "art": null,
+          "scene": "A single cigarette with a small navy curl of smoke, no person or glamorous treatment",
+          "slot": 1,
+          "name": "course_afcad6580fc8eff4"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 29,
+      "title": "Прохання та вказівки",
+      "cols": 2,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-ae320810bed8e2f9",
+          "de": "langsam",
+          "ua": "повільно",
+          "art": null,
+          "scene": "Friendly slow snail moving across a tiny simple ground line",
+          "slot": 0,
+          "name": "course_ae320810bed8e2f9"
+        },
+        {
+          "id": "course-lexeme-d37802788ef3d0c6",
+          "de": "leise",
+          "ua": "тихо",
+          "art": null,
+          "scene": "Child gently holding a finger to lips, quiet gesture",
+          "slot": 1,
+          "name": "course_d37802788ef3d0c6"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 31,
+      "title": "Кому: Dativ з іменниками",
+      "cols": 1,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-67c3201d0c79772e",
+          "de": "antworten",
+          "ua": "відповідати",
+          "art": null,
+          "scene": "Two children exchanging speech bubbles, second child responding with a happy nod",
+          "slot": 0,
+          "name": "course_67c3201d0c79772e"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 32,
+      "title": "Мені, тобі, йому",
+      "cols": 3,
+      "rows": 3,
+      "words": [
+        {
+          "id": "course-lexeme-a2bd80ae21d30e7d",
+          "de": "mir",
+          "ua": "мені",
+          "art": null,
+          "scene": "Gift arriving in a childs hands who points to their own chest: to me",
+          "slot": 0,
+          "name": "course_a2bd80ae21d30e7d"
+        },
+        {
+          "id": "course-lexeme-9f385980e3dc62de",
+          "de": "dir",
+          "ua": "тобі",
+          "art": null,
+          "scene": "Gift offered forward toward a child facing the viewer: to you",
+          "slot": 1,
+          "name": "course_9f385980e3dc62de"
+        },
+        {
+          "id": "course-lexeme-20a5449140fc1e76",
+          "de": "ihm",
+          "ua": "йому (Dativ)",
+          "art": null,
+          "scene": "Gift handed to a separate boy at the right: to him",
+          "slot": 2,
+          "name": "course_20a5449140fc1e76"
+        },
+        {
+          "id": "course-lexeme-4ab71e057cbb60c7",
+          "de": "ihnen",
+          "ua": "їм",
+          "art": null,
+          "scene": "Gift being handed to a group of three people in the distance: to them",
+          "slot": 3,
+          "name": "course_4ab71e057cbb60c7"
+        },
+        {
+          "id": "course-lexeme-2a4314ac7a13eb40",
+          "de": "Ihnen",
+          "ua": "Вам (ввічливо)",
+          "art": null,
+          "scene": "Child respectfully offering a gift to a politely dressed adult: formal to you",
+          "slot": 4,
+          "name": "course_2a4314ac7a13eb40"
+        },
+        {
+          "id": "course-lexeme-01c56fa0c6c2c6c0",
+          "de": "uns",
+          "ua": "нам",
+          "art": null,
+          "scene": "Two foreground children jointly receiving one gift: to us",
+          "slot": 5,
+          "name": "course_01c56fa0c6c2c6c0"
+        },
+        {
+          "id": "course-lexeme-8d365b958ad5e5b4",
+          "de": "euch",
+          "ua": "вам (кілька людей)",
+          "art": null,
+          "scene": "Two other children jointly receiving one gift from a foreground hand: to you plural",
+          "slot": 6,
+          "name": "course_8d365b958ad5e5b4"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 33,
+      "title": "Хто кому що дає",
+      "cols": 3,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-9746e8ba8ebb2010",
+          "de": "zeigen",
+          "ua": "показувати",
+          "art": null,
+          "scene": "Child pointing clearly at a framed picture to show it to another child",
+          "slot": 0,
+          "name": "course_9746e8ba8ebb2010"
+        },
+        {
+          "id": "course-lexeme-0efbeebf817e9fce",
+          "de": "schenken",
+          "ua": "дарувати",
+          "art": null,
+          "scene": "Child handing a wrapped gift to a delighted friend",
+          "slot": 1,
+          "name": "course_0efbeebf817e9fce"
+        },
+        {
+          "id": "course-lexeme-262870414c23075b",
+          "de": "das Geschenk",
+          "ua": "подарунок",
+          "art": null,
+          "scene": "One playful orange gift box with cream ribbon and navy contours",
+          "slot": 2,
+          "name": "course_262870414c23075b"
+        },
+        {
+          "id": "course-lexeme-25b853700bceb636",
+          "de": "der Ball",
+          "ua": "м’яч",
+          "art": null,
+          "scene": "One friendly orange cream football, navy outlines",
+          "slot": 3,
+          "name": "course_25b853700bceb636"
+        },
+        {
+          "id": "course-lexeme-8e1ce687a6dbead2",
+          "de": "das Bild",
+          "ua": "картина / зображення",
+          "art": null,
+          "scene": "Simple navy frame enclosing a cream mountain and orange sun picture",
+          "slot": 4,
+          "name": "course_8e1ce687a6dbead2"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 34,
+      "title": "Зі мною, до тебе, від нього",
+      "cols": 3,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-f7e659cbeece0133",
+          "de": "zu",
+          "ua": "до",
+          "art": null,
+          "scene": "Child walking toward a small house with a clear orange curved arrow pointing TO it",
+          "slot": 0,
+          "name": "course_f7e659cbeece0133"
+        },
+        {
+          "id": "course-lexeme-ecd25fafe848b23c",
+          "de": "von",
+          "ua": "від",
+          "art": null,
+          "scene": "Orange parcel moving FROM a small house, curved arrow leaving doorway toward foreground",
+          "slot": 1,
+          "name": "course_ecd25fafe848b23c"
+        },
+        {
+          "id": "course-lexeme-6028ea467a07fd8c",
+          "de": "aus",
+          "ua": "з (походження)",
+          "art": null,
+          "scene": "Child emerging OUT OF an open cream box, orange arrow pointing outward",
+          "slot": 2,
+          "name": "course_6028ea467a07fd8c"
+        },
+        {
+          "id": "course-lexeme-4ae9495bf7b81e57",
+          "de": "bei",
+          "ua": "у / при",
+          "art": null,
+          "scene": "Child staying beside a friendly adult at their house: at someones place",
+          "slot": 3,
+          "name": "course_4ae9495bf7b81e57"
+        },
+        {
+          "id": "course-lexeme-ae626abd30d1d1b9",
+          "de": "nach",
+          "ua": "до (місто, країна без артикля)",
+          "art": null,
+          "scene": "Orange train heading toward a distant city skyline, small directional arrow",
+          "slot": 4,
+          "name": "course_ae626abd30d1d1b9"
+        },
+        {
+          "id": "course-lexeme-7cba6b93504d1027",
+          "de": "der Arzt",
+          "ua": "лікар",
+          "art": null,
+          "scene": "Friendly adult male doctor with navy hair, white coat, orange stethoscope",
+          "slot": 5,
+          "name": "course_7cba6b93504d1027"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 35,
+      "title": "Для мене, без тебе",
+      "cols": 3,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-d80f132e585b603b",
+          "de": "für",
+          "ua": "для",
+          "art": null,
+          "scene": "Wrapped gift with small heart being offered toward a child: for",
+          "slot": 0,
+          "name": "course_d80f132e585b603b"
+        },
+        {
+          "id": "course-lexeme-1ee4b27807772bde",
+          "de": "gegen",
+          "ua": "проти / об",
+          "art": null,
+          "scene": "Soft orange ball bouncing against a simple navy outlined wall with rebound mark",
+          "slot": 1,
+          "name": "course_1ee4b27807772bde"
+        },
+        {
+          "id": "course-lexeme-21a4097855430785",
+          "de": "durch",
+          "ua": "через",
+          "art": null,
+          "scene": "Child walking THROUGH an open archway, orange arrow continuing through",
+          "slot": 2,
+          "name": "course_21a4097855430785"
+        },
+        {
+          "id": "course-lexeme-5212d0b4f20f8620",
+          "de": "um",
+          "ua": "навколо / о (час)",
+          "art": null,
+          "scene": "Orange ball following a curved arrow AROUND a cream box",
+          "slot": 3,
+          "name": "course_5212d0b4f20f8620"
+        },
+        {
+          "id": "course-lexeme-b6c121b222ea295b",
+          "de": "die Tasche",
+          "ua": "сумка",
+          "art": null,
+          "scene": "One orange shoulder bag with navy straps and cream clasp",
+          "slot": 4,
+          "name": "course_b6c121b222ea295b"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 37,
+      "title": "Великі числа та ціни",
+      "cols": 3,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-15c80fe449acf79b",
+          "de": "tausend",
+          "ua": "тисяча",
+          "art": null,
+          "scene": "Large friendly clear numerals 1000 on one chunky cream number tile with orange edges",
+          "slot": 0,
+          "name": "course_15c80fe449acf79b"
+        },
+        {
+          "id": "course-lexeme-c0ff8da75fa24004",
+          "de": "kosten",
+          "ua": "коштувати",
+          "art": null,
+          "scene": "Child looking at an orange price tag attached to a toy car: costs",
+          "slot": 1,
+          "name": "course_c0ff8da75fa24004"
+        },
+        {
+          "id": "course-lexeme-f2a7b19847ea24e6",
+          "de": "der Euro",
+          "ua": "євро",
+          "art": null,
+          "scene": "One chunky orange coin bearing a clear cream euro symbol €",
+          "slot": 2,
+          "name": "course_f2a7b19847ea24e6"
+        },
+        {
+          "id": "course-lexeme-570fd431597c4cf8",
+          "de": "der Cent",
+          "ua": "цент",
+          "art": null,
+          "scene": "One small orange cent coin marked 1 with tiny simple cream dot beside, not a euro symbol",
+          "slot": 3,
+          "name": "course_570fd431597c4cf8"
+        },
+        {
+          "id": "course-lexeme-d183ab4cd795c4b8",
+          "de": "der Mensch",
+          "ua": "людина",
+          "art": null,
+          "scene": "One friendly ordinary adult person standing and waving",
+          "slot": 4,
+          "name": "course_d183ab4cd795c4b8"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 38,
+      "title": "Годинник, дні, дати й день народження",
+      "cols": 3,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-c38db6bd267f913a",
+          "de": "die Uhr",
+          "ua": "година / годинник",
+          "art": null,
+          "scene": "One friendly orange wristwatch with cream dial and simple navy hands",
+          "slot": 0,
+          "name": "course_c38db6bd267f913a"
+        },
+        {
+          "id": "course-lexeme-b6aea37c0f8aaa04",
+          "de": "halb",
+          "ua": "половина до наступної години",
+          "art": null,
+          "scene": "A round cream clock face with its right HALF filled orange, navy clock hands",
+          "slot": 1,
+          "name": "course_b6aea37c0f8aaa04"
+        },
+        {
+          "id": "course-lexeme-d7b05bc0de22b279",
+          "de": "der Mai",
+          "ua": "травень",
+          "art": null,
+          "scene": "One calendar leaf bearing clear text MAI and a small orange flower, no other text",
+          "slot": 2,
+          "name": "course_d7b05bc0de22b279"
+        },
+        {
+          "id": "course-lexeme-7e08bfa51d21db70",
+          "de": "der Geburtstag",
+          "ua": "день народження",
+          "art": null,
+          "scene": "Simple small birthday cake with three orange candles and cream frosting",
+          "slot": 3,
+          "name": "course_7e08bfa51d21db70"
+        },
+        {
+          "id": "course-lexeme-28c07535619e7b79",
+          "de": "der Termin",
+          "ua": "запланована зустріч",
+          "art": null,
+          "scene": "Calendar page with a navy appointment dot linked to a little orange clock",
+          "slot": 4,
+          "name": "course_28c07535619e7b79"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 39,
+      "title": "Де: місце",
+      "cols": 3,
+      "rows": 3,
+      "words": [
+        {
+          "id": "course-lexeme-eaecc8ef185712d2",
+          "de": "in",
+          "ua": "в / у",
+          "art": null,
+          "scene": "Orange ball visibly INSIDE an open cream box",
+          "slot": 0,
+          "name": "course_eaecc8ef185712d2"
+        },
+        {
+          "id": "course-lexeme-fa71aac3c67db3c5",
+          "de": "auf",
+          "ua": "на (поверхні)",
+          "art": null,
+          "scene": "Orange ball resting ON TOP of a small cream table",
+          "slot": 1,
+          "name": "course_fa71aac3c67db3c5"
+        },
+        {
+          "id": "course-lexeme-935ca190572f0fc7",
+          "de": "unter",
+          "ua": "під",
+          "art": null,
+          "scene": "Orange ball UNDER a small cream table",
+          "slot": 2,
+          "name": "course_935ca190572f0fc7"
+        },
+        {
+          "id": "course-lexeme-3366117bb294d7e3",
+          "de": "neben",
+          "ua": "поруч із",
+          "art": null,
+          "scene": "Orange ball BESIDE a small cream box",
+          "slot": 3,
+          "name": "course_3366117bb294d7e3"
+        },
+        {
+          "id": "course-lexeme-83251c723a90ce56",
+          "de": "die Wand",
+          "ua": "стіна",
+          "art": null,
+          "scene": "Small cream wall of a few large blocks, thick navy edges",
+          "slot": 4,
+          "name": "course_83251c723a90ce56"
+        },
+        {
+          "id": "course-lexeme-1ae8a47c590c26e6",
+          "de": "stehen",
+          "ua": "стояти",
+          "art": null,
+          "scene": "Child standing straight upright with both feet on ground",
+          "slot": 5,
+          "name": "course_1ae8a47c590c26e6"
+        },
+        {
+          "id": "course-lexeme-72813e9d121b98d1",
+          "de": "liegen",
+          "ua": "лежати",
+          "art": null,
+          "scene": "Child lying down comfortably on a simple cream mat",
+          "slot": 6,
+          "name": "course_72813e9d121b98d1"
+        },
+        {
+          "id": "course-lexeme-9d88f98846395e91",
+          "de": "laufen",
+          "ua": "бігати",
+          "art": null,
+          "scene": "Child running with expressive orange motion dashes",
+          "slot": 7,
+          "name": "course_9d88f98846395e91"
+        },
+        {
+          "id": "course-lexeme-d0299eec7de4fbfd",
+          "de": "hängen",
+          "ua": "вішати / висіти",
+          "art": null,
+          "scene": "One orange picture frame hanging from a hook on a small cream wall",
+          "slot": 8,
+          "name": "course_d0299eec7de4fbfd"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 40,
+      "title": "Куди: напрямок",
+      "cols": 3,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-cd51caa089455c1d",
+          "de": "stellen",
+          "ua": "ставити",
+          "art": null,
+          "scene": "Hand setting an orange bottle upright ON a simple table, short down arrow",
+          "slot": 0,
+          "name": "course_cd51caa089455c1d"
+        },
+        {
+          "id": "course-lexeme-833ab2b32db7ac36",
+          "de": "legen",
+          "ua": "класти",
+          "art": null,
+          "scene": "Hand laying an orange book flat ON a simple table, short down arrow",
+          "slot": 1,
+          "name": "course_833ab2b32db7ac36"
+        },
+        {
+          "id": "course-lexeme-c8e490418e220323",
+          "de": "der Garten",
+          "ua": "сад",
+          "art": null,
+          "scene": "Small simple cream garden bed with orange flowers and a navy outlined tree, no green",
+          "slot": 2,
+          "name": "course_c8e490418e220323"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 41,
+      "title": "Місто, маршрут, вдома й додому",
+      "cols": 3,
+      "rows": 3,
+      "words": [
+        {
+          "id": "course-lexeme-ea446504d732bcba",
+          "de": "links",
+          "ua": "ліворуч",
+          "art": null,
+          "scene": "Child at a small road sign with a bold orange arrow pointing LEFT",
+          "slot": 0,
+          "name": "course_ea446504d732bcba"
+        },
+        {
+          "id": "course-lexeme-4d73b34b6719fc0c",
+          "de": "rechts",
+          "ua": "праворуч",
+          "art": null,
+          "scene": "Child at a small road sign with a bold orange arrow pointing RIGHT",
+          "slot": 1,
+          "name": "course_4d73b34b6719fc0c"
+        },
+        {
+          "id": "course-lexeme-b8892cf1fb086b42",
+          "de": "geradeaus",
+          "ua": "прямо",
+          "art": null,
+          "scene": "Child on simple path with arrow pointing straight FORWARD/up",
+          "slot": 2,
+          "name": "course_b8892cf1fb086b42"
+        },
+        {
+          "id": "course-lexeme-8bd574f60c07f667",
+          "de": "der Norden",
+          "ua": "північ",
+          "art": null,
+          "scene": "Playful compass rose with orange needle pointing UP, clear N at top",
+          "slot": 3,
+          "name": "course_8bd574f60c07f667"
+        },
+        {
+          "id": "course-lexeme-f9c24cf018252883",
+          "de": "der Süden",
+          "ua": "південь",
+          "art": null,
+          "scene": "Playful compass rose with orange needle pointing DOWN, clear S at bottom",
+          "slot": 4,
+          "name": "course_f9c24cf018252883"
+        },
+        {
+          "id": "course-lexeme-80557a4bc43bd484",
+          "de": "der Osten",
+          "ua": "схід",
+          "art": null,
+          "scene": "Playful compass rose with orange needle pointing RIGHT, clear O at right for German Osten",
+          "slot": 5,
+          "name": "course_80557a4bc43bd484"
+        },
+        {
+          "id": "course-lexeme-dd607a971187fae9",
+          "de": "der Westen",
+          "ua": "захід",
+          "art": null,
+          "scene": "Playful compass rose with orange needle pointing LEFT, clear W at left",
+          "slot": 6,
+          "name": "course_dd607a971187fae9"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 43,
+      "title": "Відокремлювані префікси",
+      "cols": 3,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-0d65a58c743ade97",
+          "de": "aufstehen",
+          "ua": "вставати",
+          "art": null,
+          "scene": "Child getting UP out of a simple orange bed",
+          "slot": 0,
+          "name": "course_0d65a58c743ade97"
+        },
+        {
+          "id": "course-lexeme-c434610e38c8a3ef",
+          "de": "anrufen",
+          "ua": "телефонувати",
+          "art": null,
+          "scene": "Child making a phone CALL with orange handset",
+          "slot": 1,
+          "name": "course_c434610e38c8a3ef"
+        },
+        {
+          "id": "course-lexeme-b01dd3f2f60188e4",
+          "de": "einkaufen",
+          "ua": "робити покупки",
+          "art": null,
+          "scene": "Child carrying orange shopping basket with cream groceries",
+          "slot": 2,
+          "name": "course_b01dd3f2f60188e4"
+        },
+        {
+          "id": "course-lexeme-3abffccaa6e35ca0",
+          "de": "aufmachen",
+          "ua": "відчиняти",
+          "art": null,
+          "scene": "Child opening a small door outward, visible opening motion",
+          "slot": 3,
+          "name": "course_3abffccaa6e35ca0"
+        },
+        {
+          "id": "course-lexeme-16b4ff651c34b52a",
+          "de": "mitkommen",
+          "ua": "йти разом",
+          "art": null,
+          "scene": "Two children walking together in the same direction",
+          "slot": 4,
+          "name": "course_16b4ff651c34b52a"
+        },
+        {
+          "id": "course-lexeme-cc0c15ebe426087f",
+          "de": "zurückkommen",
+          "ua": "повертатися",
+          "art": null,
+          "scene": "Child returning toward their house with orange curved return arrow",
+          "slot": 5,
+          "name": "course_cc0c15ebe426087f"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 44,
+      "title": "Невідокремлювані префікси та -ieren",
+      "cols": 3,
+      "rows": 3,
+      "words": [
+        {
+          "id": "course-lexeme-da56adf03ee72438",
+          "de": "verstehen",
+          "ua": "розуміти",
+          "art": null,
+          "scene": "Child with a lightbulb appearing above head, clear understanding expression",
+          "slot": 0,
+          "name": "course_da56adf03ee72438"
+        },
+        {
+          "id": "course-lexeme-de038420ed292e91",
+          "de": "besuchen",
+          "ua": "відвідувати",
+          "art": null,
+          "scene": "Child arriving at a friends open front door for a visit",
+          "slot": 1,
+          "name": "course_de038420ed292e91"
+        },
+        {
+          "id": "course-lexeme-3856c49615db204e",
+          "de": "erklären",
+          "ua": "пояснювати",
+          "art": null,
+          "scene": "Child explaining a simple object to a friend with a pointing gesture and speech bubble",
+          "slot": 2,
+          "name": "course_3856c49615db204e"
+        },
+        {
+          "id": "course-lexeme-8aa76e8b6bf5c558",
+          "de": "bezahlen",
+          "ua": "оплачувати",
+          "art": null,
+          "scene": "Hand paying with an orange coin at a simple counter",
+          "slot": 3,
+          "name": "course_8aa76e8b6bf5c558"
+        },
+        {
+          "id": "course-lexeme-5c1b3e9df70cd6bb",
+          "de": "telefonieren",
+          "ua": "розмовляти телефоном",
+          "art": null,
+          "scene": "Child talking on an orange telephone handset",
+          "slot": 4,
+          "name": "course_5c1b3e9df70cd6bb"
+        },
+        {
+          "id": "course-lexeme-9df1a49a6c43ca48",
+          "de": "studieren",
+          "ua": "навчатися у виші",
+          "art": null,
+          "scene": "Young adult studying an open book beside a graduation cap",
+          "slot": 5,
+          "name": "course_9df1a49a6c43ca48"
+        },
+        {
+          "id": "course-lexeme-722f7e3997de1415",
+          "de": "das Wort",
+          "ua": "слово",
+          "art": null,
+          "scene": "One cream speech bubble containing the single clear word Hallo",
+          "slot": 6,
+          "name": "course_722f7e3997de1415"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 45,
+      "title": "Зворотні дієслова",
+      "cols": 3,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-b208e662f6f03d87",
+          "de": "sich treffen",
+          "ua": "зустрічатися",
+          "art": null,
+          "scene": "Two happy children meeting and greeting each other with raised hands",
+          "slot": 0,
+          "name": "course_b208e662f6f03d87"
+        },
+        {
+          "id": "course-lexeme-360a0865af50eacc",
+          "de": "sich freuen",
+          "ua": "радіти",
+          "art": null,
+          "scene": "Child jumping joyfully with a happy expressive face and small orange heart",
+          "slot": 1,
+          "name": "course_360a0865af50eacc"
+        },
+        {
+          "id": "course-lexeme-d2caffe2e6c3bd8d",
+          "de": "sich waschen",
+          "ua": "митися",
+          "art": null,
+          "scene": "Child washing their own hands at a simple basin with cream navy outlined water drops",
+          "slot": 2,
+          "name": "course_d2caffe2e6c3bd8d"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 46,
+      "title": "Розпорядок дня та частота",
+      "cols": 3,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-83e0ecb1f0f1e386",
+          "de": "oft",
+          "ua": "часто",
+          "art": null,
+          "scene": "Simple seven-day calendar with FIVE orange marked squares, no text",
+          "slot": 0,
+          "name": "course_83e0ecb1f0f1e386"
+        },
+        {
+          "id": "course-lexeme-97d9b4a8530f699b",
+          "de": "manchmal",
+          "ua": "іноді",
+          "art": null,
+          "scene": "Simple seven-day calendar with THREE orange marked squares, no text",
+          "slot": 1,
+          "name": "course_97d9b4a8530f699b"
+        },
+        {
+          "id": "course-lexeme-b62e83c726dbe6a2",
+          "de": "selten",
+          "ua": "рідко",
+          "art": null,
+          "scene": "Simple seven-day calendar with ONE orange marked square, no text",
+          "slot": 2,
+          "name": "course_b62e83c726dbe6a2"
+        },
+        {
+          "id": "course-lexeme-07b04d13ca361874",
+          "de": "nie",
+          "ua": "ніколи",
+          "art": null,
+          "scene": "Simple seven-day calendar with NO marked squares and a small orange X beside",
+          "slot": 3,
+          "name": "course_07b04d13ca361874"
+        },
+        {
+          "id": "course-lexeme-dd8b5df750f35767",
+          "de": "zuerst",
+          "ua": "спочатку",
+          "art": null,
+          "scene": "Two footprints along a short path, first footprint highlighted orange and second navy outlined: first",
+          "slot": 4,
+          "name": "course_dd8b5df750f35767"
+        },
+        {
+          "id": "course-lexeme-9c640f73a99bc116",
+          "de": "danach",
+          "ua": "після цього",
+          "art": null,
+          "scene": "Two footprints along a short path, second footprint highlighted orange and first navy outlined: afterward",
+          "slot": 5,
+          "name": "course_9c640f73a99bc116"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 47,
+      "title": "Домовляємося про зустріч",
+      "cols": 3,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-ec257f628221479b",
+          "de": "passen",
+          "ua": "підходити",
+          "art": null,
+          "scene": "Two simple puzzle pieces fitting neatly together",
+          "slot": 0,
+          "name": "course_ec257f628221479b"
+        },
+        {
+          "id": "course-lexeme-98d9cc053d91faec",
+          "de": "leider",
+          "ua": "на жаль",
+          "art": null,
+          "scene": "Child with a gently apologetic sad face and open palms",
+          "slot": 1,
+          "name": "course_98d9cc053d91faec"
+        },
+        {
+          "id": "course-lexeme-6924d6a767c0f6ec",
+          "de": "gern",
+          "ua": "залюбки",
+          "art": null,
+          "scene": "Child cheerfully volunteering with raised hand and a small orange heart",
+          "slot": 2,
+          "name": "course_6924d6a767c0f6ec"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 50,
+      "title": "Часті неправильні Partizip II",
+      "cols": 1,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-8d9c883c60fee1bd",
+          "de": "die Nachricht",
+          "ua": "повідомлення",
+          "art": null,
+          "scene": "One orange smartphone displaying a cream speech message bubble, no text",
+          "slot": 0,
+          "name": "course_8d9c883c60fee1bd"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 52,
+      "title": "Perfekt і префікси",
+      "cols": 1,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-674b68e4394f6fee",
+          "de": "telefonieren",
+          "ua": "телефонувати",
+          "art": null,
+          "scene": "Child talking on an orange telephone handset",
+          "slot": 0,
+          "name": "course_674b68e4394f6fee"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 54,
+      "title": "Був і мав: war та hatte",
+      "cols": 2,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-b20c5d201024deeb",
+          "de": "war",
+          "ua": "був / була",
+          "art": null,
+          "scene": "Child beside a small faded cream outlined image of themself with a curved arrow pointing into the past",
+          "slot": 0,
+          "name": "course_b20c5d201024deeb"
+        },
+        {
+          "id": "course-lexeme-95c0867071b4d52c",
+          "de": "hatte",
+          "ua": "мав / мала",
+          "art": null,
+          "scene": "Child remembering an orange toy they held before, toy shown in a thought bubble with past arrow",
+          "slot": 1,
+          "name": "course_95c0867071b4d52c"
+        },
+        {
+          "id": "course-lexeme-2ea24cbdaf6e301f",
+          "de": "krank",
+          "ua": "хворий / хвора",
+          "art": null,
+          "scene": "Child in bed with a thermometer and a gently unwell face",
+          "slot": 2,
+          "name": "course_2ea24cbdaf6e301f"
+        },
+        {
+          "id": "course-lexeme-3c7f98d813c0fe5a",
+          "de": "früher",
+          "ua": "раніше",
+          "art": null,
+          "scene": "Two calendar leaves with orange arrow pointing backward to the earlier leaf",
+          "slot": 3,
+          "name": "course_3c7f98d813c0fe5a"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 56,
+      "title": "Коли кажуть «тут можна» або «люди роблять»",
+      "cols": 2,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-a3590b436deeba7a",
+          "de": "man",
+          "ua": "неозначено-особовий займенник",
+          "art": null,
+          "scene": "Three ordinary people each doing the same small everyday action, no single person singled out",
+          "slot": 0,
+          "name": "course_a3590b436deeba7a"
+        },
+        {
+          "id": "course-lexeme-b416201e4d9ee3b0",
+          "de": "die Karte",
+          "ua": "картка",
+          "art": null,
+          "scene": "One orange payment card with a small cream chip and two navy simple lines, no numbers",
+          "slot": 1,
+          "name": "course_b416201e4d9ee3b0"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 57,
+      "title": "І, але, або, адже",
+      "cols": 2,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-c2b8c27ca0ea527d",
+          "de": "denn",
+          "ua": "адже / бо",
+          "art": null,
+          "scene": "Small rain cloud beside child explaining an umbrella in a speech bubble: because",
+          "slot": 0,
+          "name": "course_c2b8c27ca0ea527d"
+        },
+        {
+          "id": "course-lexeme-8ff64ddec51c52d3",
+          "de": "kochen",
+          "ua": "готувати їжу",
+          "art": null,
+          "scene": "Child stirring a simple orange cooking pot with a spoon",
+          "slot": 1,
+          "name": "course_8ff64ddec51c52d3"
+        },
+        {
+          "id": "course-lexeme-63ab50f3b1230006",
+          "de": "wenig",
+          "ua": "мало",
+          "art": null,
+          "scene": "Small bowl with only TWO cream berries clearly showing a small amount",
+          "slot": 2,
+          "name": "course_63ab50f3b1230006"
+        },
+        {
+          "id": "course-lexeme-7c4bbf3d39d19726",
+          "de": "spät",
+          "ua": "пізно",
+          "art": null,
+          "scene": "Child looking surprised at a clock beside a low orange setting sun: late",
+          "slot": 3,
+          "name": "course_7c4bbf3d39d19726"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 58,
+      "title": "Я знаю, що…",
+      "cols": 3,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-0d47a455e04ee9d5",
+          "de": "dass",
+          "ua": "що (сполучник)",
+          "art": null,
+          "scene": "Large speech bubble containing a smaller speech bubble, clear connection between a speaker and a reported idea",
+          "slot": 0,
+          "name": "course_0d47a455e04ee9d5"
+        },
+        {
+          "id": "course-lexeme-038b891891597e40",
+          "de": "denken",
+          "ua": "думати",
+          "art": null,
+          "scene": "Child thoughtfully touching chin with a small empty thought bubble",
+          "slot": 1,
+          "name": "course_038b891891597e40"
+        },
+        {
+          "id": "course-lexeme-55be9cce4d825d23",
+          "de": "glauben",
+          "ua": "вважати / вірити",
+          "art": null,
+          "scene": "Child thoughtfully holding a small orange heart in an empty thought bubble, belief",
+          "slot": 2,
+          "name": "course_55be9cce4d825d23"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 59,
+      "title": "Чому, тому що, тому",
+      "cols": 3,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-fe263a20453a421e",
+          "de": "deshalb",
+          "ua": "тому / через це",
+          "art": null,
+          "scene": "Small rain cloud followed by orange arrow leading to a child holding an umbrella: therefore",
+          "slot": 0,
+          "name": "course_fe263a20453a421e"
+        },
+        {
+          "id": "course-lexeme-ae96d46fc00a6ab8",
+          "de": "darum",
+          "ua": "тому",
+          "art": null,
+          "scene": "Child taking an umbrella as the consequence of visible rain, simple cause-result arrow",
+          "slot": 1,
+          "name": "course_ae96d46fc00a6ab8"
+        },
+        {
+          "id": "course-lexeme-cc492023d5ddbd34",
+          "de": "regnen",
+          "ua": "дощити",
+          "art": null,
+          "scene": "Small cream cloud with several navy outlined cream rain drops and orange accent dashes",
+          "slot": 2,
+          "name": "course_cc492023d5ddbd34"
+        },
+        {
+          "id": "course-lexeme-b199ecdeb983d9ba",
+          "de": "noch",
+          "ua": "ще",
+          "art": null,
+          "scene": "Child adding one MORE small orange block to an unfinished stack, continuing",
+          "slot": 3,
+          "name": "course_b199ecdeb983d9ba"
+        },
+        {
+          "id": "course-lexeme-353922964fc00424",
+          "de": "froh",
+          "ua": "радий",
+          "art": null,
+          "scene": "Child smiling with open joyful arms and a small orange sun",
+          "slot": 4,
+          "name": "course_353922964fc00424"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 60,
+      "title": "Коли або якщо",
+      "cols": 2,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-482fb10cc2efd420",
+          "de": "wenn",
+          "ua": "якщо / коли (умова, повторення)",
+          "art": null,
+          "scene": "Rain cloud in a thought bubble connected by a small arrow to an umbrella: if it rains",
+          "slot": 0,
+          "name": "course_482fb10cc2efd420"
+        },
+        {
+          "id": "course-lexeme-faacd4005ab76bb4",
+          "de": "frei",
+          "ua": "вільний",
+          "art": null,
+          "scene": "Child happily stretching free arms beside an open gate, freedom",
+          "slot": 1,
+          "name": "course_faacd4005ab76bb4"
+        },
+        {
+          "id": "course-lexeme-c1766166c4eaeb90",
+          "de": "früh",
+          "ua": "рано",
+          "art": null,
+          "scene": "Rising orange sun above simple cream horizon next to small alarm clock: early",
+          "slot": 2,
+          "name": "course_c1766166c4eaeb90"
+        },
+        {
+          "id": "course-lexeme-0d42dba4ecf0f474",
+          "de": "zusammen",
+          "ua": "разом",
+          "art": null,
+          "scene": "Two friendly children carrying one shared box TOGETHER",
+          "slot": 3,
+          "name": "course_0d42dba4ecf0f474"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 61,
+      "title": "Зробити щось: інфінітив із zu",
+      "cols": 3,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-092bfb6d1d83685a",
+          "de": "versuchen",
+          "ua": "намагатися",
+          "art": null,
+          "scene": "Child making an effort to stack slightly wobbly chunky blocks",
+          "slot": 0,
+          "name": "course_092bfb6d1d83685a"
+        },
+        {
+          "id": "course-lexeme-5bc15582bbe8e266",
+          "de": "vergessen",
+          "ua": "забувати",
+          "art": null,
+          "scene": "Child leaving house with an empty thought bubble containing a small missing-book dashed outline",
+          "slot": 1,
+          "name": "course_5bc15582bbe8e266"
+        },
+        {
+          "id": "course-lexeme-f51c6969a170b9f7",
+          "de": "beginnen",
+          "ua": "починати",
+          "art": null,
+          "scene": "Child stepping onto the start of a short path, orange first-step marker",
+          "slot": 2,
+          "name": "course_f51c6969a170b9f7"
+        },
+        {
+          "id": "course-lexeme-011db95127558869",
+          "de": "hoffen",
+          "ua": "сподіватися",
+          "art": null,
+          "scene": "Child looking hopefully at a small orange star above clasped hands",
+          "slot": 3,
+          "name": "course_011db95127558869"
+        },
+        {
+          "id": "course-lexeme-8f7b29ebbf17a032",
+          "de": "wichtig",
+          "ua": "важливий",
+          "art": null,
+          "scene": "Large orange exclamation mark on a cream reminder card, friendly emphasis",
+          "slot": 4,
+          "name": "course_8f7b29ebbf17a032"
+        },
+        {
+          "id": "course-lexeme-1ee95a9408a6811a",
+          "de": "Zeit haben",
+          "ua": "мати час",
+          "art": null,
+          "scene": "Relaxed child seated with a small orange clock and open book, having time",
+          "slot": 5,
+          "name": "course_1ee95a9408a6811a"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 63,
+      "title": "Опис, колір, погода й самопочуття",
+      "cols": 3,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-489a111d4c5d440e",
+          "de": "interessant",
+          "ua": "цікавий",
+          "art": null,
+          "scene": "Child leaning eagerly toward an open book with a tiny star above, interested",
+          "slot": 0,
+          "name": "course_489a111d4c5d440e"
+        },
+        {
+          "id": "course-lexeme-bc4096043af009e7",
+          "de": "langweilig",
+          "ua": "нудний",
+          "art": null,
+          "scene": "Child yawning beside a plain book with bored expression",
+          "slot": 1,
+          "name": "course_bc4096043af009e7"
+        },
+        {
+          "id": "course-lexeme-f9ca9c3559396692",
+          "de": "warm",
+          "ua": "теплий",
+          "art": null,
+          "scene": "Child enjoying a warm orange cup with small navy steam curls",
+          "slot": 2,
+          "name": "course_f9ca9c3559396692"
+        },
+        {
+          "id": "course-lexeme-ede47028b329ac9e",
+          "de": "kalt",
+          "ua": "холодний",
+          "art": null,
+          "scene": "Child shivering with arms crossed and small navy snowflakes",
+          "slot": 3,
+          "name": "course_ede47028b329ac9e"
+        },
+        {
+          "id": "course-lexeme-888d64ec78a8f01c",
+          "de": "traurig",
+          "ua": "сумний",
+          "art": null,
+          "scene": "Child with clearly sad face and one cream tear outlined navy",
+          "slot": 4,
+          "name": "course_888d64ec78a8f01c"
+        },
+        {
+          "id": "course-lexeme-5e4fd7e517f21667",
+          "de": "der Film",
+          "ua": "фільм",
+          "art": null,
+          "scene": "One playful orange movie clapperboard with cream panels and navy outline, no text",
+          "slot": 5,
+          "name": "course_5e4fd7e517f21667"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 64,
+      "title": "Більший і швидший, ніж",
+      "cols": 3,
+      "rows": 3,
+      "words": [
+        {
+          "id": "course-lexeme-cc906841996c2cd2",
+          "de": "schnell",
+          "ua": "швидкий",
+          "art": null,
+          "scene": "Friendly rabbit running quickly with long orange speed dashes",
+          "slot": 0,
+          "name": "course_cc906841996c2cd2"
+        },
+        {
+          "id": "course-lexeme-40ae99a2e7df9d21",
+          "de": "langsam",
+          "ua": "повільний",
+          "art": null,
+          "scene": "Friendly slow snail moving across a tiny simple ground line",
+          "slot": 1,
+          "name": "course_40ae99a2e7df9d21"
+        },
+        {
+          "id": "course-lexeme-ae18d3c9424eb8b4",
+          "de": "größer",
+          "ua": "більший",
+          "art": null,
+          "scene": "Two similar cream boxes, LEFT small and RIGHT much larger, right highlighted orange",
+          "slot": 2,
+          "name": "course_ae18d3c9424eb8b4"
+        },
+        {
+          "id": "course-lexeme-c6f3aa416b7eeb03",
+          "de": "kleiner",
+          "ua": "менший",
+          "art": null,
+          "scene": "Two similar cream boxes, LEFT large and RIGHT much smaller, right highlighted orange",
+          "slot": 3,
+          "name": "course_c6f3aa416b7eeb03"
+        },
+        {
+          "id": "course-lexeme-6bdcbaacb871d49b",
+          "de": "besser",
+          "ua": "кращий",
+          "art": null,
+          "scene": "Two small simple stars, right star brighter orange with a little upward arrow: better",
+          "slot": 4,
+          "name": "course_6bdcbaacb871d49b"
+        },
+        {
+          "id": "course-lexeme-3593cd6c26b24848",
+          "de": "mehr",
+          "ua": "більше",
+          "art": null,
+          "scene": "Two bowls of berries, left with two and right with six, right highlighted orange",
+          "slot": 5,
+          "name": "course_3593cd6c26b24848"
+        },
+        {
+          "id": "course-lexeme-b044b89a1a59b8f4",
+          "de": "als",
+          "ua": "ніж",
+          "art": null,
+          "scene": "Two similar simple blocks of unequal height with a small orange comparison arrow between",
+          "slot": 6,
+          "name": "course_b044b89a1a59b8f4"
+        },
+        {
+          "id": "course-lexeme-1e5e5ac00b02a7a6",
+          "de": "so … wie",
+          "ua": "так само … як",
+          "art": null,
+          "scene": "Two identical same-size cream boxes side by side linked by an orange equality sign",
+          "slot": 7,
+          "name": "course_1e5e5ac00b02a7a6"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 65,
+      "title": "Найкращий і найбільший",
+      "cols": 3,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-617382b59df4cd6b",
+          "de": "am besten",
+          "ua": "найкраще",
+          "art": null,
+          "scene": "Child standing on a simple winners podium with one orange trophy",
+          "slot": 0,
+          "name": "course_617382b59df4cd6b"
+        },
+        {
+          "id": "course-lexeme-3ce0f5fff4a4c13a",
+          "de": "am liebsten",
+          "ua": "найохочіше / найбільше любити",
+          "art": null,
+          "scene": "Child hugging their favorite orange book with a large small heart above",
+          "slot": 1,
+          "name": "course_3ce0f5fff4a4c13a"
+        },
+        {
+          "id": "course-lexeme-96538ed6f70c1507",
+          "de": "am meisten",
+          "ua": "найбільше",
+          "art": null,
+          "scene": "Three bowls of berries, the bowl with MOST berries highlighted orange",
+          "slot": 2,
+          "name": "course_96538ed6f70c1507"
+        },
+        {
+          "id": "course-lexeme-f3d19043e9dbd491",
+          "de": "am schnellsten",
+          "ua": "найшвидше",
+          "art": null,
+          "scene": "Three running rabbits, farthest-ahead rabbit highlighted orange as fastest",
+          "slot": 3,
+          "name": "course_f3d19043e9dbd491"
+        },
+        {
+          "id": "course-lexeme-1348cfe34b3c60e8",
+          "de": "lieber",
+          "ua": "охочіше",
+          "art": null,
+          "scene": "Child choosing an orange apple over a cream cookie, a small heart above the apple",
+          "slot": 4,
+          "name": "course_1348cfe34b3c60e8"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 66,
+      "title": "Опис з der/die/das",
+      "cols": 1,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-eb7ef939b5c001f8",
+          "de": "die Geschichte",
+          "ua": "історія",
+          "art": null,
+          "scene": "Open storybook with small friendly castle and orange star emerging from its pages",
+          "slot": 0,
+          "name": "course_eb7ef939b5c001f8"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 67,
+      "title": "Опис з ein/mein/kein",
+      "cols": 3,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-49211de5f5e437b1",
+          "de": "ein guter Freund",
+          "ua": "добрий друг",
+          "art": null,
+          "scene": "Friendly smiling child offering support to a friend, both together, one orange heart",
+          "slot": 0,
+          "name": "course_49211de5f5e437b1"
+        },
+        {
+          "id": "course-lexeme-660e0d0220192fd6",
+          "de": "eine kleine Katze",
+          "ua": "маленька кішка",
+          "art": null,
+          "scene": "One SMALL playful cream kitten with navy outlines and orange ears",
+          "slot": 1,
+          "name": "course_660e0d0220192fd6"
+        },
+        {
+          "id": "course-lexeme-43d3890f180561e6",
+          "de": "ein neues Buch",
+          "ua": "нова книжка",
+          "art": null,
+          "scene": "One crisp orange NEW book with cream pages and a small orange sparkle",
+          "slot": 2,
+          "name": "course_43d3890f180561e6"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 68,
+      "title": "Прикметники в Dativ",
+      "cols": 3,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-e0209220a02b4b28",
+          "de": "mit einem guten Freund",
+          "ua": "з добрим другом",
+          "art": null,
+          "scene": "Two friendly children walking side by side together, small orange heart",
+          "slot": 0,
+          "name": "course_e0209220a02b4b28"
+        },
+        {
+          "id": "course-lexeme-b4ca7924dc987471",
+          "de": "bei meiner alten Schule",
+          "ua": "біля моєї старої школи",
+          "art": null,
+          "scene": "Child standing BESIDE an old friendly cream schoolhouse, short navy cracks convey old not ruined",
+          "slot": 1,
+          "name": "course_b4ca7924dc987471"
+        },
+        {
+          "id": "course-lexeme-262473192d19b935",
+          "de": "freundlich",
+          "ua": "привітний",
+          "art": null,
+          "scene": "One friendly child waving warmly to another with a smile",
+          "slot": 2,
+          "name": "course_262473192d19b935"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 69,
+      "title": "Множина й опис без артикля",
+      "cols": 1,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-5adc078ea15a4f93",
+          "de": "frisch",
+          "ua": "свіжий",
+          "art": null,
+          "scene": "One fresh orange apple with a cream leaf outlined navy and small freshness sparkle",
+          "slot": 0,
+          "name": "course_5adc078ea15a4f93"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 71,
+      "title": "Адреса, телефон та анкета",
+      "cols": 3,
+      "rows": 3,
+      "words": [
+        {
+          "id": "course-lexeme-71b43eb586537391",
+          "de": "der Vorname",
+          "ua": "ім’я",
+          "art": null,
+          "scene": "Child pointing to FIRST line on a blank cream name badge, highlighted orange, no letters",
+          "slot": 0,
+          "name": "course_71b43eb586537391"
+        },
+        {
+          "id": "course-lexeme-d8c7cfd215aa466f",
+          "de": "der Nachname",
+          "ua": "прізвище",
+          "art": null,
+          "scene": "Child pointing to SECOND line on a blank cream name badge, highlighted orange, no letters",
+          "slot": 1,
+          "name": "course_d8c7cfd215aa466f"
+        },
+        {
+          "id": "course-lexeme-93422abcc2b8d3d5",
+          "de": "die Adresse",
+          "ua": "адреса",
+          "art": null,
+          "scene": "Small house beside a cream envelope with orange location pin",
+          "slot": 2,
+          "name": "course_93422abcc2b8d3d5"
+        },
+        {
+          "id": "course-lexeme-ad787518763fa8a2",
+          "de": "die Telefonnummer",
+          "ua": "номер телефону",
+          "art": null,
+          "scene": "One orange telephone beside a cream number tile with simple digits 123",
+          "slot": 3,
+          "name": "course_ad787518763fa8a2"
+        },
+        {
+          "id": "course-lexeme-2b3bec8594f1c80c",
+          "de": "buchstabieren",
+          "ua": "називати по літерах",
+          "art": null,
+          "scene": "Child speaking three separate clear letters A B C in three small connected speech bubbles",
+          "slot": 4,
+          "name": "course_2b3bec8594f1c80c"
+        },
+        {
+          "id": "course-lexeme-06079490110f2eaa",
+          "de": "das Formular",
+          "ua": "формуляр",
+          "art": null,
+          "scene": "One simple cream application form on an orange clipboard with blank lines and checkboxes",
+          "slot": 5,
+          "name": "course_06079490110f2eaa"
+        },
+        {
+          "id": "course-lexeme-4365305c5012ceb9",
+          "de": "die Hausnummer",
+          "ua": "номер будинку",
+          "art": null,
+          "scene": "Small cream house with a large orange address plaque bearing clear number 12",
+          "slot": 6,
+          "name": "course_4365305c5012ceb9"
+        },
+        {
+          "id": "course-lexeme-f59914ebbe96e2e6",
+          "de": "ausfüllen",
+          "ua": "заповнювати",
+          "art": null,
+          "scene": "Hand filling a blank form with an orange pencil, no readable text",
+          "slot": 7,
+          "name": "course_f59914ebbe96e2e6"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 72,
+      "title": "Магазин та одяг",
+      "cols": 3,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-1f24e4d027af4b80",
+          "de": "das Hemd",
+          "ua": "сорочка",
+          "art": null,
+          "scene": "One simple cream button-up shirt with orange collar and navy outlines",
+          "slot": 0,
+          "name": "course_1f24e4d027af4b80"
+        },
+        {
+          "id": "course-lexeme-d8a7e73cc1549d81",
+          "de": "die Größe",
+          "ua": "розмір",
+          "art": null,
+          "scene": "Orange measuring tape wrapped around a simple cream shirt, size",
+          "slot": 1,
+          "name": "course_d8a7e73cc1549d81"
+        },
+        {
+          "id": "course-lexeme-973b84754c0500d9",
+          "de": "anprobieren",
+          "ua": "приміряти",
+          "art": null,
+          "scene": "Child trying on an orange jacket in front of a small mirror",
+          "slot": 2,
+          "name": "course_973b84754c0500d9"
+        },
+        {
+          "id": "course-lexeme-457b9b860e6dfe3f",
+          "de": "teuer",
+          "ua": "дорогий",
+          "art": null,
+          "scene": "Simple toy with a price tag and a LARGE stack of orange coins, expensive",
+          "slot": 3,
+          "name": "course_457b9b860e6dfe3f"
+        },
+        {
+          "id": "course-lexeme-e1003b940d4e8a04",
+          "de": "billig",
+          "ua": "дешевий",
+          "art": null,
+          "scene": "Same simple toy with a price tag and only ONE orange coin, cheap",
+          "slot": 4,
+          "name": "course_e1003b940d4e8a04"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 73,
+      "title": "Самопочуття й звернення по допомогу",
+      "cols": 3,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-5b00128160357929",
+          "de": "die Kopfschmerzen",
+          "ua": "головний біль",
+          "art": null,
+          "scene": "Child pressing fingers to temples with small orange pain zigzags near head",
+          "slot": 0,
+          "name": "course_5b00128160357929"
+        },
+        {
+          "id": "course-lexeme-b2cbb33e2a4908f9",
+          "de": "wehtun",
+          "ua": "боліти",
+          "art": null,
+          "scene": "Child touching a sore knee with small orange pain zigzags",
+          "slot": 1,
+          "name": "course_b2cbb33e2a4908f9"
+        },
+        {
+          "id": "course-lexeme-66f5f2a71240733c",
+          "de": "das Fieber",
+          "ua": "підвищена температура",
+          "art": null,
+          "scene": "Simple orange thermometer beside child with flushed cheeks, fever",
+          "slot": 2,
+          "name": "course_66f5f2a71240733c"
+        },
+        {
+          "id": "course-lexeme-146d0cadd6805c23",
+          "de": "die Ärztin",
+          "ua": "лікарка",
+          "art": null,
+          "scene": "Friendly female doctor in white coat, navy hair and orange stethoscope",
+          "slot": 3,
+          "name": "course_146d0cadd6805c23"
+        },
+        {
+          "id": "course-lexeme-a543b1d822d37816",
+          "de": "der Termin",
+          "ua": "запланований прийом",
+          "art": null,
+          "scene": "Calendar appointment page linked to an orange medical cross and small clock",
+          "slot": 4,
+          "name": "course_a543b1d822d37816"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 74,
+      "title": "Житло та домашні справи",
+      "cols": 3,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-9156e88459246130",
+          "de": "die Heizung",
+          "ua": "опалення",
+          "art": null,
+          "scene": "One chunky cream radiator with orange top and simple navy steam dashes",
+          "slot": 0,
+          "name": "course_9156e88459246130"
+        },
+        {
+          "id": "course-lexeme-00c81671d92ca255",
+          "de": "kaputt",
+          "ua": "несправний",
+          "art": null,
+          "scene": "One broken toy car with detached wheel beside it",
+          "slot": 1,
+          "name": "course_00c81671d92ca255"
+        },
+        {
+          "id": "course-lexeme-a819acb6613c29f9",
+          "de": "funktionieren",
+          "ua": "функціонувати",
+          "art": null,
+          "scene": "Simple toy car with all wheels attached and an orange check mark, functioning",
+          "slot": 2,
+          "name": "course_a819acb6613c29f9"
+        },
+        {
+          "id": "course-lexeme-aa85039ae26c6373",
+          "de": "aufräumen",
+          "ua": "прибирати",
+          "art": null,
+          "scene": "Child putting scattered toys into an orange storage box, tidying",
+          "slot": 3,
+          "name": "course_aa85039ae26c6373"
+        },
+        {
+          "id": "course-lexeme-c4b5284ffa972047",
+          "de": "reparieren",
+          "ua": "ремонтувати",
+          "art": null,
+          "scene": "Child carefully repairing a toy with an orange wrench",
+          "slot": 4,
+          "name": "course_c4b5284ffa972047"
+        },
+        {
+          "id": "course-lexeme-abc331d0f296e006",
+          "de": "putzen",
+          "ua": "прибирати / чистити",
+          "art": null,
+          "scene": "Child wiping a simple table with an orange cloth, cleaning",
+          "slot": 5,
+          "name": "course_abc331d0f296e006"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 75,
+      "title": "Школа, навчання та робота",
+      "cols": 3,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-b991cb1f3b350671",
+          "de": "der Unterricht",
+          "ua": "урок / заняття",
+          "art": null,
+          "scene": "Teacher pointing at a small blank classroom board with two attentive children",
+          "slot": 0,
+          "name": "course_b991cb1f3b350671"
+        },
+        {
+          "id": "course-lexeme-96c53f8bf13e4481",
+          "de": "die Arbeit",
+          "ua": "робота",
+          "art": null,
+          "scene": "Friendly adult working at a simple orange desk with an open laptop",
+          "slot": 1,
+          "name": "course_96c53f8bf13e4481"
+        },
+        {
+          "id": "course-lexeme-dd851ded4f8a92e7",
+          "de": "die Pause",
+          "ua": "перерва",
+          "art": null,
+          "scene": "Child relaxing on a bench with a small orange pause symbol",
+          "slot": 2,
+          "name": "course_dd851ded4f8a92e7"
+        },
+        {
+          "id": "course-lexeme-714fd775c97e0f47",
+          "de": "anfangen",
+          "ua": "починатися",
+          "art": null,
+          "scene": "Child beginning to open a book at a little orange start marker",
+          "slot": 3,
+          "name": "course_714fd775c97e0f47"
+        },
+        {
+          "id": "course-lexeme-85ac48dca4d63321",
+          "de": "die Hausaufgaben",
+          "ua": "домашнє завдання",
+          "art": null,
+          "scene": "Child writing homework in an open book beside an orange school backpack",
+          "slot": 4,
+          "name": "course_85ac48dca4d63321"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 76,
+      "title": "Транспорт, квитки та житло в подорожі",
+      "cols": 3,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-4fc49b1d5e55faa3",
+          "de": "die Fahrkarte",
+          "ua": "квиток на транспорт",
+          "art": null,
+          "scene": "One orange transport ticket with cream train pictogram and navy outline, no text",
+          "slot": 0,
+          "name": "course_4fc49b1d5e55faa3"
+        },
+        {
+          "id": "course-lexeme-a491965ff63db98b",
+          "de": "abfahren",
+          "ua": "відправлятися",
+          "art": null,
+          "scene": "Simple orange train departing a small platform with forward motion dashes",
+          "slot": 1,
+          "name": "course_a491965ff63db98b"
+        },
+        {
+          "id": "course-lexeme-e4cb754c72586e11",
+          "de": "das Gleis",
+          "ua": "колія",
+          "art": null,
+          "scene": "Simple railway tracks with two parallel navy rails and large cream sleepers",
+          "slot": 2,
+          "name": "course_e4cb754c72586e11"
+        },
+        {
+          "id": "course-lexeme-f4b9b1113a4207ca",
+          "de": "das Hotel",
+          "ua": "готель",
+          "art": null,
+          "scene": "Small welcoming cream hotel building with orange doorway and a bed symbol",
+          "slot": 3,
+          "name": "course_f4b9b1113a4207ca"
+        },
+        {
+          "id": "course-lexeme-2feea14b5c00cb29",
+          "de": "buchen",
+          "ua": "бронювати",
+          "art": null,
+          "scene": "Hand selecting a small hotel room card on an orange device, booking",
+          "slot": 4,
+          "name": "course_2feea14b5c00cb29"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 77,
+      "title": "Повідомлення та домовленості",
+      "cols": 2,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-0cfe44afe7b5a4d9",
+          "de": "einladen",
+          "ua": "запрошувати",
+          "art": null,
+          "scene": "Child offering an orange invitation envelope with a small heart to a friend",
+          "slot": 0,
+          "name": "course_0cfe44afe7b5a4d9"
+        },
+        {
+          "id": "course-lexeme-b43a12a36f4cbfc2",
+          "de": "verschieben",
+          "ua": "переносити (зустріч)",
+          "art": null,
+          "scene": "Two calendar leaves connected by an orange arrow moving appointment from one date to another",
+          "slot": 1,
+          "name": "course_b43a12a36f4cbfc2"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 78,
+      "title": "Плани та бажання",
+      "cols": 2,
+      "rows": 2,
+      "words": [
+        {
+          "id": "course-lexeme-cb63ff86d339ff0a",
+          "de": "werden",
+          "ua": "допоміжне дієслово майбутнього часу",
+          "art": null,
+          "scene": "Child imagining themself as a future taller person, small arrow from present to future",
+          "slot": 0,
+          "name": "course_cb63ff86d339ff0a"
+        },
+        {
+          "id": "course-lexeme-472325157fdab3fb",
+          "de": "nächste Woche",
+          "ua": "наступного тижня",
+          "art": null,
+          "scene": "Two calendar weeks, clear orange arrow to the NEXT week",
+          "slot": 1,
+          "name": "course_472325157fdab3fb"
+        },
+        {
+          "id": "course-lexeme-6289cbdab3e6ee0f",
+          "de": "der Plan",
+          "ua": "план",
+          "art": null,
+          "scene": "Open cream planning notebook with a simple navy path leading to an orange goal flag",
+          "slot": 2,
+          "name": "course_6289cbdab3e6ee0f"
+        },
+        {
+          "id": "course-lexeme-95204693cf83f35c",
+          "de": "üben",
+          "ua": "практикуватися",
+          "art": null,
+          "scene": "Child practicing stacking blocks repeatedly with small loop arrow",
+          "slot": 3,
+          "name": "course_95204693cf83f35c"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "lesson": 79,
+      "title": "Моя історія: зараз, учора, далі",
+      "cols": 3,
+      "rows": 1,
+      "words": [
+        {
+          "id": "course-lexeme-8e522cb66b3786fb",
+          "de": "Mia",
+          "ua": "Міа (ім’я)",
+          "art": null,
+          "scene": "Friendly smiling GIRL character with navy hair, cream face and orange shirt, our story character Mia, no text",
+          "slot": 0,
+          "name": "course_8e522cb66b3786fb"
+        },
+        {
+          "id": "course-lexeme-983575760184915f",
+          "de": "jeden Tag",
+          "ua": "щодня",
+          "art": null,
+          "scene": "Seven-day calendar with ALL seven days marked orange and small recurring sun",
+          "slot": 1,
+          "name": "course_983575760184915f"
+        },
+        {
+          "id": "course-lexeme-10e023385c646e10",
+          "de": "deshalb",
+          "ua": "тому",
+          "art": null,
+          "scene": "Small rain cloud followed by orange arrow leading to a child holding an umbrella: therefore",
+          "slot": 2,
+          "name": "course_10e023385c646e10"
+        }
+      ],
+      "status": "pending"
+    }
+  ]
+}

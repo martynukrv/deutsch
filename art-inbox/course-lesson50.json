@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "die Nachricht",
+      "ua": "повідомлення",
+      "file": "course_8d9c883c60fee1bd.png"
+    }
+  ]
+}

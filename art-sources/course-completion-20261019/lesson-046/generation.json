@@ -1,0 +1,55 @@
+{
+  "lesson": 46,
+  "cols": 3,
+  "rows": 2,
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Asset type: ONE transparent vocabulary sprite sheet for German lesson 46, \"Розпорядок дня та частота\". EXACTLY 3 columns and 2 rows of EQUAL-size cells. Each illustration must stay inside its own cell's CENTRAL 60%, with very LARGE TRANSPARENT gutters around every cell, including the bottom row. No figures crossing cell borders, even in the last row. No shared elements. Unused cells stay fully transparent. Read cells left to right, top to bottom.\nSTYLE: match approved references: playful compact chibi cartoons, thick organic navy #102B50 contours, simple white #FFFFFF/cream #FFF1E5 surfaces and orange #FF5726 accents. ONLY these four colors, even skin/hair/plants/water. White/cream-haired children with navy facial features. Add short tapered navy/orange signature dashes beside EACH complete composition. Restrained large details for 110px display. Every pixel outside the hard clean silhouette shapes MUST have alpha=0, never partially transparent colored clouds. No bloom or semitransparent glow. No glow, haze, gradients, backdrop shadows, glossy emoji, 3D or realism. Transparent background between all shapes. No titles, printed vocabulary labels, cell numbers or borders. Only internal letters/digits explicitly requested in a scene may appear. Uniform cell centers and scales; all characters/objects fully visible.\nCELLS:\n1 [oft, часто]: Simple seven-day calendar with FIVE orange marked squares, no text.\n2 [manchmal, іноді]: Simple seven-day calendar with THREE orange marked squares, no text.\n3 [selten, рідко]: Simple seven-day calendar with ONE orange marked square, no text.\n4 [nie, ніколи]: Simple seven-day calendar with NO marked squares and a small orange X beside.\n5 [zuerst, спочатку]: Two footprints along a short path, first footprint highlighted orange and second navy outlined: first.\n6 [danach, після цього]: Two footprints along a short path, second footprint highlighted orange and first navy outlined: afterward.\nGuide labels are NOT to be printed. Every cell contains ONLY its assigned complete scene.",
+  "words": [
+    {
+      "id": "course-lexeme-83e0ecb1f0f1e386",
+      "de": "oft",
+      "ua": "часто",
+      "scene": "Simple seven-day calendar with FIVE orange marked squares, no text",
+      "slot": 0
+    },
+    {
+      "id": "course-lexeme-97d9b4a8530f699b",
+      "de": "manchmal",
+      "ua": "іноді",
+      "scene": "Simple seven-day calendar with THREE orange marked squares, no text",
+      "slot": 1
+    },
+    {
+      "id": "course-lexeme-b62e83c726dbe6a2",
+      "de": "selten",
+      "ua": "рідко",
+      "scene": "Simple seven-day calendar with ONE orange marked square, no text",
+      "slot": 2
+    },
+    {
+      "id": "course-lexeme-07b04d13ca361874",
+      "de": "nie",
+      "ua": "ніколи",
+      "scene": "Simple seven-day calendar with NO marked squares and a small orange X beside",
+      "slot": 3
+    },
+    {
+      "id": "course-lexeme-dd8b5df750f35767",
+      "de": "zuerst",
+      "ua": "спочатку",
+      "scene": "Two footprints along a short path, first footprint highlighted orange and second navy outlined: first",
+      "slot": 4
+    },
+    {
+      "id": "course-lexeme-9c640f73a99bc116",
+      "de": "danach",
+      "ua": "після цього",
+      "scene": "Two footprints along a short path, second footprint highlighted orange and first navy outlined: afterward",
+      "slot": 5
+    }
+  ],
+  "references": [
+    "assets/illustrations/course/ready.png",
+    "assets/illustrations/food/apfel.png"
+  ]
+}

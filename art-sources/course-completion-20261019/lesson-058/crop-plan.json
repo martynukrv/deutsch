@@ -1,0 +1,73 @@
+{
+  "lesson": 58,
+  "cols": 3,
+  "rows": 1,
+  "originalSha256": "f964cd9e1b95ea54a936a5289eeb217f731fa939a7fb3b839801be3036aa19e9",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-0d47a455e04ee9d5",
+      "de": "dass",
+      "ua": "що (сполучник)",
+      "scene": "Large speech bubble containing a smaller speech bubble, clear connection between a speaker and a reported idea",
+      "cell": [
+        0,
+        0,
+        736,
+        724
+      ],
+      "alphaCropInCell": [
+        60,
+        98,
+        641,
+        666
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_0d47a455e04ee9d5.png",
+      "sha256": "eafa71ae03237a18d4bbbe9f8878d235febda7b7043adcdb15cc3a6cf65d96a6"
+    },
+    {
+      "id": "course-lexeme-038b891891597e40",
+      "de": "denken",
+      "ua": "думати",
+      "scene": "Child thoughtfully touching chin with a small empty thought bubble",
+      "cell": [
+        736,
+        0,
+        1467,
+        724
+      ],
+      "alphaCropInCell": [
+        96,
+        80,
+        658,
+        670
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_038b891891597e40.png",
+      "sha256": "053e61a3736a0ef7504b42469684bd424f7a6e840de9379adf2de74349b04f67"
+    },
+    {
+      "id": "course-lexeme-55be9cce4d825d23",
+      "de": "glauben",
+      "ua": "вважати / вірити",
+      "scene": "Child thoughtfully holding a small orange heart in an empty thought bubble, belief",
+      "cell": [
+        1467,
+        0,
+        2172,
+        724
+      ],
+      "alphaCropInCell": [
+        74,
+        68,
+        667,
+        671
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_55be9cce4d825d23.png",
+      "sha256": "d73165af59392bbd9e64c075f5596ab6acc85a3d4e465ce84231fc0ba0c0c351"
+    }
+  ]
+}

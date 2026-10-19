@@ -1,0 +1,41 @@
+{
+  "lesson": 78,
+  "cols": 2,
+  "rows": 2,
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Asset type: ONE transparent vocabulary sprite sheet for German lesson 78, \"Плани та бажання\". EXACTLY 2 columns and 2 rows of EQUAL-size cells. Each illustration must stay inside its own cell's CENTRAL 60%, with very LARGE TRANSPARENT gutters around every cell, including the bottom row. No figures crossing cell borders, even in the last row. No shared elements. Unused cells stay fully transparent. Read cells left to right, top to bottom.\nSTYLE: match approved references: playful compact chibi cartoons, thick organic navy #102B50 contours, simple white #FFFFFF/cream #FFF1E5 surfaces and orange #FF5726 accents. ONLY these four colors, even skin/hair/plants/water. White/cream-haired children with navy facial features. Add short tapered navy/orange signature dashes beside EACH complete composition. Restrained large details for 110px display. Every pixel outside the hard clean silhouette shapes MUST have alpha=0, never partially transparent colored clouds. No bloom or semitransparent glow. No glow, haze, gradients, backdrop shadows, glossy emoji, 3D or realism. Transparent background between all shapes. No titles, printed vocabulary labels, cell numbers or borders. Only internal letters/digits explicitly requested in a scene may appear. Uniform cell centers and scales; all characters/objects fully visible.\nCELLS:\n1 [werden, допоміжне дієслово майбутнього часу]: Child imagining themself as a future taller person, small arrow from present to future.\n2 [nächste Woche, наступного тижня]: Two calendar weeks, clear orange arrow to the NEXT week.\n3 [der Plan, план]: Open cream planning notebook with a simple navy path leading to an orange goal flag.\n4 [üben, практикуватися]: Child practicing stacking blocks repeatedly with small loop arrow.\nGuide labels are NOT to be printed. Every cell contains ONLY its assigned complete scene.",
+  "words": [
+    {
+      "id": "course-lexeme-cb63ff86d339ff0a",
+      "de": "werden",
+      "ua": "допоміжне дієслово майбутнього часу",
+      "scene": "Child imagining themself as a future taller person, small arrow from present to future",
+      "slot": 0
+    },
+    {
+      "id": "course-lexeme-472325157fdab3fb",
+      "de": "nächste Woche",
+      "ua": "наступного тижня",
+      "scene": "Two calendar weeks, clear orange arrow to the NEXT week",
+      "slot": 1
+    },
+    {
+      "id": "course-lexeme-6289cbdab3e6ee0f",
+      "de": "der Plan",
+      "ua": "план",
+      "scene": "Open cream planning notebook with a simple navy path leading to an orange goal flag",
+      "slot": 2
+    },
+    {
+      "id": "course-lexeme-95204693cf83f35c",
+      "de": "üben",
+      "ua": "практикуватися",
+      "scene": "Child practicing stacking blocks repeatedly with small loop arrow",
+      "slot": 3
+    }
+  ],
+  "references": [
+    "assets/illustrations/course/ready.png",
+    "assets/illustrations/food/apfel.png"
+  ]
+}

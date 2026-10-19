@@ -1,0 +1,115 @@
+{
+  "lesson": 35,
+  "cols": 3,
+  "rows": 2,
+  "originalSha256": "9a117e17b27056b26594fb0bded94ff8f7c7579872f796938a3ca1c5f32ace84",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-d80f132e585b603b",
+      "de": "für",
+      "ua": "для",
+      "scene": "Wrapped gift with small heart being offered toward a child: for",
+      "cell": [
+        0,
+        0,
+        516,
+        521
+      ],
+      "alphaCropInCell": [
+        54,
+        74,
+        485,
+        500
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_d80f132e585b603b.png",
+      "sha256": "1928ce4cdd604e7f345ed89ce6840c701afb1fb84b632e4231d38a18a4b789ca"
+    },
+    {
+      "id": "course-lexeme-1ee4b27807772bde",
+      "de": "gegen",
+      "ua": "проти / об",
+      "scene": "Soft orange ball bouncing against a simple navy outlined wall with rebound mark",
+      "cell": [
+        516,
+        0,
+        1009,
+        521
+      ],
+      "alphaCropInCell": [
+        32,
+        93,
+        464,
+        468
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_1ee4b27807772bde.png",
+      "sha256": "e10191cc177dcda05e336d23d53f150ad243d185d392338c12244e2236195363"
+    },
+    {
+      "id": "course-lexeme-21a4097855430785",
+      "de": "durch",
+      "ua": "через",
+      "scene": "Child walking THROUGH an open archway, orange arrow continuing through",
+      "cell": [
+        1009,
+        0,
+        1536,
+        521
+      ],
+      "alphaCropInCell": [
+        30,
+        56,
+        508,
+        496
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_21a4097855430785.png",
+      "sha256": "128f4756533febe94322fdd7b5cf3fdc83a39337bc28e7962d0e277999ad2c49"
+    },
+    {
+      "id": "course-lexeme-5212d0b4f20f8620",
+      "de": "um",
+      "ua": "навколо / о (час)",
+      "scene": "Orange ball following a curved arrow AROUND a cream box",
+      "cell": [
+        0,
+        521,
+        520,
+        1024
+      ],
+      "alphaCropInCell": [
+        40,
+        22,
+        495,
+        420
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_5212d0b4f20f8620.png",
+      "sha256": "07ba77db53fe5c1cfb25485d6c39026b13df1006b27c2f5fe56eefa9c06d8ae1"
+    },
+    {
+      "id": "course-lexeme-b6c121b222ea295b",
+      "de": "die Tasche",
+      "ua": "сумка",
+      "scene": "One orange shoulder bag with navy straps and cream clasp",
+      "cell": [
+        520,
+        521,
+        1536,
+        1024
+      ],
+      "alphaCropInCell": [
+        26,
+        30,
+        474,
+        434
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_b6c121b222ea295b.png",
+      "sha256": "b856e49699b5b1d53e1dd48ecffa587a0bf6f4c65ae06bb693fa55f8f9c9e393"
+    }
+  ]
+}

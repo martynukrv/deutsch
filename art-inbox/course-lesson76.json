@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "die Fahrkarte",
+      "ua": "квиток на транспорт",
+      "file": "course_4fc49b1d5e55faa3.png"
+    },
+    {
+      "de": "abfahren",
+      "ua": "відправлятися",
+      "file": "course_a491965ff63db98b.png"
+    },
+    {
+      "de": "das Gleis",
+      "ua": "колія",
+      "file": "course_e4cb754c72586e11.png"
+    },
+    {
+      "de": "das Hotel",
+      "ua": "готель",
+      "file": "course_f4b9b1113a4207ca.png"
+    },
+    {
+      "de": "buchen",
+      "ua": "бронювати",
+      "file": "course_2feea14b5c00cb29.png"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "tausend",
+      "ua": "тисяча",
+      "file": "course_15c80fe449acf79b.png"
+    },
+    {
+      "de": "kosten",
+      "ua": "коштувати",
+      "file": "course_c0ff8da75fa24004.png"
+    },
+    {
+      "de": "der Euro",
+      "ua": "євро",
+      "file": "course_f2a7b19847ea24e6.png"
+    },
+    {
+      "de": "der Cent",
+      "ua": "цент",
+      "file": "course_570fd431597c4cf8.png"
+    },
+    {
+      "de": "der Mensch",
+      "ua": "людина",
+      "file": "course_d183ab4cd795c4b8.png"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "denn",
+      "ua": "адже / бо",
+      "file": "course_c2b8c27ca0ea527d.png"
+    },
+    {
+      "de": "kochen",
+      "ua": "готувати їжу",
+      "file": "course_8ff64ddec51c52d3.png"
+    },
+    {
+      "de": "wenig",
+      "ua": "мало",
+      "file": "course_63ab50f3b1230006.png"
+    },
+    {
+      "de": "spät",
+      "ua": "пізно",
+      "file": "course_7c4bbf3d39d19726.png"
+    }
+  ]
+}

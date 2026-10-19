@@ -1,0 +1,136 @@
+{
+  "lesson": 61,
+  "cols": 3,
+  "rows": 2,
+  "originalSha256": "785b1908bd9d65d9aa9170ca58a0a3204c8323959ad8543629634a56085392a0",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-092bfb6d1d83685a",
+      "de": "versuchen",
+      "ua": "намагатися",
+      "scene": "Child making an effort to stack slightly wobbly chunky blocks",
+      "cell": [
+        0,
+        0,
+        497,
+        514
+      ],
+      "alphaCropInCell": [
+        55,
+        65,
+        456,
+        488
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_092bfb6d1d83685a.png",
+      "sha256": "ce35c8a7f645a9086447a50999f8913b5d5d9abedfdec43ed5e2ce3d38673643"
+    },
+    {
+      "id": "course-lexeme-5bc15582bbe8e266",
+      "de": "vergessen",
+      "ua": "забувати",
+      "scene": "Child leaving house with an empty thought bubble containing a small missing-book dashed outline",
+      "cell": [
+        497,
+        0,
+        1037,
+        514
+      ],
+      "alphaCropInCell": [
+        41,
+        38,
+        514,
+        499
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_5bc15582bbe8e266.png",
+      "sha256": "69c6a8266d269714a63fdc3be7356638ed200c4b3951f9fbff7f4e3e0ebda57f"
+    },
+    {
+      "id": "course-lexeme-f51c6969a170b9f7",
+      "de": "beginnen",
+      "ua": "починати",
+      "scene": "Child stepping onto the start of a short path, orange first-step marker",
+      "cell": [
+        1037,
+        0,
+        1536,
+        514
+      ],
+      "alphaCropInCell": [
+        26,
+        74,
+        457,
+        499
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_f51c6969a170b9f7.png",
+      "sha256": "0f5d7e25ae1884dee75276803d1ebd6905ed9f897c96c68f56d023bcdcc7cf88"
+    },
+    {
+      "id": "course-lexeme-011db95127558869",
+      "de": "hoffen",
+      "ua": "сподіватися",
+      "scene": "Child looking hopefully at a small orange star above clasped hands",
+      "cell": [
+        0,
+        514,
+        521,
+        1024
+      ],
+      "alphaCropInCell": [
+        65,
+        15,
+        456,
+        474
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_011db95127558869.png",
+      "sha256": "c2f2a28148b3b6e9f8db5994ba197c616e6ea59a0f76b99a105dd06b9056736d"
+    },
+    {
+      "id": "course-lexeme-8f7b29ebbf17a032",
+      "de": "wichtig",
+      "ua": "важливий",
+      "scene": "Large orange exclamation mark on a cream reminder card, friendly emphasis",
+      "cell": [
+        521,
+        514,
+        985,
+        1024
+      ],
+      "alphaCropInCell": [
+        66,
+        47,
+        404,
+        437
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_8f7b29ebbf17a032.png",
+      "sha256": "658213fe389dbd83880cd9b420f437569e9490bcb30ba474194b13b03731f4ac"
+    },
+    {
+      "id": "course-lexeme-1ee95a9408a6811a",
+      "de": "Zeit haben",
+      "ua": "мати час",
+      "scene": "Relaxed child seated with a small orange clock and open book, having time",
+      "cell": [
+        985,
+        514,
+        1536,
+        1024
+      ],
+      "alphaCropInCell": [
+        61,
+        66,
+        496,
+        476
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_1ee95a9408a6811a.png",
+      "sha256": "b52f2505b6f0748e955b42be7730a6a32625c2edb017f391b68b60e7f7c1cc6f"
+    }
+  ]
+}

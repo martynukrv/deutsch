@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "passen",
+      "ua": "підходити",
+      "file": "course_ec257f628221479b.png"
+    },
+    {
+      "de": "leider",
+      "ua": "на жаль",
+      "file": "course_98d9cc053d91faec.png"
+    }
+  ]
+}

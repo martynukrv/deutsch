@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "versuchen",
+      "ua": "намагатися",
+      "file": "course_092bfb6d1d83685a.png"
+    },
+    {
+      "de": "vergessen",
+      "ua": "забувати",
+      "file": "course_5bc15582bbe8e266.png"
+    },
+    {
+      "de": "beginnen",
+      "ua": "починати",
+      "file": "course_f51c6969a170b9f7.png"
+    },
+    {
+      "de": "hoffen",
+      "ua": "сподіватися",
+      "file": "course_011db95127558869.png"
+    },
+    {
+      "de": "wichtig",
+      "ua": "важливий",
+      "file": "course_8f7b29ebbf17a032.png"
+    },
+    {
+      "de": "Zeit haben",
+      "ua": "мати час",
+      "file": "course_1ee95a9408a6811a.png"
+    }
+  ]
+}

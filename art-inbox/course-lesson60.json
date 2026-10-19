@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "wenn",
+      "ua": "якщо / коли (умова, повторення)",
+      "file": "course_482fb10cc2efd420.png"
+    },
+    {
+      "de": "frei",
+      "ua": "вільний",
+      "file": "course_faacd4005ab76bb4.png"
+    },
+    {
+      "de": "früh",
+      "ua": "рано",
+      "file": "course_c1766166c4eaeb90.png"
+    },
+    {
+      "de": "zusammen",
+      "ua": "разом",
+      "file": "course_0d42dba4ecf0f474.png"
+    }
+  ]
+}

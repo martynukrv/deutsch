@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-19",
+  "newImages": 192,
+  "newLessonPackages": 47,
+  "queuedMeanings": 208,
+  "reusedMeanings": 16,
+  "courseCards": 373,
+  "illustrated": 373,
+  "missing": 0,
+  "lessons": 80,
+  "lessonWordAppearances": 449,
+  "assetImportTests": 7,
+  "renderedImageElements": 459,
+  "viewportWidths": [
+    320,
+    390,
+    768,
+    1280
+  ],
+  "sourceHashesVerified": true,
+  "tool": "built-in image_gen.imagegen"
+}

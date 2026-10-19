@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "am besten",
+      "ua": "найкраще",
+      "file": "course_617382b59df4cd6b.png"
+    },
+    {
+      "de": "am liebsten",
+      "ua": "найохочіше / найбільше любити",
+      "file": "course_3ce0f5fff4a4c13a.png"
+    },
+    {
+      "de": "am meisten",
+      "ua": "найбільше",
+      "file": "course_96538ed6f70c1507.png"
+    },
+    {
+      "de": "am schnellsten",
+      "ua": "найшвидше",
+      "file": "course_f3d19043e9dbd491.png"
+    },
+    {
+      "de": "lieber",
+      "ua": "охочіше",
+      "file": "course_1348cfe34b3c60e8.png"
+    }
+  ]
+}

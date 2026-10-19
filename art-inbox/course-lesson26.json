@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "sollen",
+      "ua": "мати зробити / слід",
+      "file": "course_5357fcd39f860fcd.png"
+    },
+    {
+      "de": "warten",
+      "ua": "чекати",
+      "file": "course_8a8a140399c42837.png"
+    }
+  ]
+}

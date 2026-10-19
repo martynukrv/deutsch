@@ -1,0 +1,115 @@
+{
+  "lesson": 76,
+  "cols": 3,
+  "rows": 2,
+  "originalSha256": "a2e765ff9cae9397c28b23840273e9ff549252c755cd857cca45984d4a9ebb1d",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-4fc49b1d5e55faa3",
+      "de": "die Fahrkarte",
+      "ua": "квиток на транспорт",
+      "scene": "One orange transport ticket with cream train pictogram and navy outline, no text",
+      "cell": [
+        0,
+        0,
+        506,
+        510
+      ],
+      "alphaCropInCell": [
+        92,
+        117,
+        475,
+        426
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_4fc49b1d5e55faa3.png",
+      "sha256": "377a662cb862f5c2f1c2a089b57b291f63d4a625c75f8353c155ff97a2bb8343"
+    },
+    {
+      "id": "course-lexeme-a491965ff63db98b",
+      "de": "abfahren",
+      "ua": "відправлятися",
+      "scene": "Simple orange train departing a small platform with forward motion dashes",
+      "cell": [
+        506,
+        0,
+        1046,
+        510
+      ],
+      "alphaCropInCell": [
+        31,
+        134,
+        519,
+        449
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_a491965ff63db98b.png",
+      "sha256": "3ba763d8c1b0bfad1bca3a77b5f507e75aa355ec59c0fa06efe0aa5f50e4f5b2"
+    },
+    {
+      "id": "course-lexeme-e4cb754c72586e11",
+      "de": "das Gleis",
+      "ua": "колія",
+      "scene": "Simple railway tracks with two parallel navy rails and large cream sleepers",
+      "cell": [
+        1046,
+        0,
+        1536,
+        510
+      ],
+      "alphaCropInCell": [
+        22,
+        137,
+        422,
+        443
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_e4cb754c72586e11.png",
+      "sha256": "b35c4101664bd0b9df95600716d2ae816b222d8bbaf3dc6c44b778c2d7afbf9d"
+    },
+    {
+      "id": "course-lexeme-f4b9b1113a4207ca",
+      "de": "das Hotel",
+      "ua": "готель",
+      "scene": "Small welcoming cream hotel building with orange doorway and a bed symbol",
+      "cell": [
+        0,
+        510,
+        566,
+        1024
+      ],
+      "alphaCropInCell": [
+        53,
+        67,
+        505,
+        405
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_f4b9b1113a4207ca.png",
+      "sha256": "72029da2c946643b2b8059988768aa20a64d0b37b2c531fc24654b10a3c0c429"
+    },
+    {
+      "id": "course-lexeme-2feea14b5c00cb29",
+      "de": "buchen",
+      "ua": "бронювати",
+      "scene": "Hand selecting a small hotel room card on an orange device, booking",
+      "cell": [
+        566,
+        510,
+        1536,
+        1024
+      ],
+      "alphaCropInCell": [
+        62,
+        62,
+        446,
+        410
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_2feea14b5c00cb29.png",
+      "sha256": "9f3e406c1132fd9533a49dbd768126ec5c24b359b23e842e91a0832cdb0dcd7d"
+    }
+  ]
+}

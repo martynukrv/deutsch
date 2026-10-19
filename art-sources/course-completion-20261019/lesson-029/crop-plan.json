@@ -1,0 +1,52 @@
+{
+  "lesson": 29,
+  "cols": 2,
+  "rows": 1,
+  "originalSha256": "4be5a55c07d1be0e675bf3b3aa818a1dd270c17cf798949af027cb6b438d33a2",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-ae320810bed8e2f9",
+      "de": "langsam",
+      "ua": "повільно",
+      "scene": "Friendly slow snail moving across a tiny simple ground line",
+      "cell": [
+        0,
+        0,
+        887,
+        887
+      ],
+      "alphaCropInCell": [
+        94,
+        221,
+        783,
+        696
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_ae320810bed8e2f9.png",
+      "sha256": "cb28402583584fcbed254716abf43350468f5b84f9a795fe93355282415d2b79"
+    },
+    {
+      "id": "course-lexeme-d37802788ef3d0c6",
+      "de": "leise",
+      "ua": "тихо",
+      "scene": "Child gently holding a finger to lips, quiet gesture",
+      "cell": [
+        887,
+        0,
+        1774,
+        887
+      ],
+      "alphaCropInCell": [
+        128,
+        132,
+        725,
+        766
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_d37802788ef3d0c6.png",
+      "sha256": "369e1fc4613ed63de3dddd9d762ce7f57cd283661d7834d5d705574d8d07f5b6"
+    }
+  ]
+}

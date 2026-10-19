@@ -1,0 +1,62 @@
+{
+  "lesson": 44,
+  "cols": 3,
+  "rows": 3,
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Asset type: ONE transparent vocabulary sprite sheet for German lesson 44, \"Невідокремлювані префікси та -ieren\". EXACTLY 3 columns and 3 rows of EQUAL-size cells. Each illustration must stay inside its own cell's CENTRAL 60%, with very LARGE TRANSPARENT gutters around every cell, including the bottom row. No figures crossing cell borders, even in the last row. No shared elements. Unused cells stay fully transparent. Read cells left to right, top to bottom.\nSTYLE: match approved references: playful compact chibi cartoons, thick organic navy #102B50 contours, simple white #FFFFFF/cream #FFF1E5 surfaces and orange #FF5726 accents. ONLY these four colors, even skin/hair/plants/water. White/cream-haired children with navy facial features. Add short tapered navy/orange signature dashes beside EACH complete composition. Restrained large details for 110px display. Every pixel outside the hard clean silhouette shapes MUST have alpha=0, never partially transparent colored clouds. No bloom or semitransparent glow. No glow, haze, gradients, backdrop shadows, glossy emoji, 3D or realism. Transparent background between all shapes. No titles, printed vocabulary labels, cell numbers or borders. Only internal letters/digits explicitly requested in a scene may appear. Uniform cell centers and scales; all characters/objects fully visible.\nCELLS:\n1 [verstehen, розуміти]: Child with a lightbulb appearing above head, clear understanding expression.\n2 [besuchen, відвідувати]: Child arriving at a friends open front door for a visit.\n3 [erklären, пояснювати]: Child explaining a simple object to a friend with a pointing gesture and speech bubble.\n4 [bezahlen, оплачувати]: Hand paying with an orange coin at a simple counter.\n5 [telefonieren, розмовляти телефоном]: Child talking on an orange telephone handset.\n6 [studieren, навчатися у виші]: Young adult studying an open book beside a graduation cap.\n7 [das Wort, слово]: One cream speech bubble containing the single clear word Hallo.\nGuide labels are NOT to be printed. Every cell contains ONLY its assigned complete scene.",
+  "words": [
+    {
+      "id": "course-lexeme-da56adf03ee72438",
+      "de": "verstehen",
+      "ua": "розуміти",
+      "scene": "Child with a lightbulb appearing above head, clear understanding expression",
+      "slot": 0
+    },
+    {
+      "id": "course-lexeme-de038420ed292e91",
+      "de": "besuchen",
+      "ua": "відвідувати",
+      "scene": "Child arriving at a friends open front door for a visit",
+      "slot": 1
+    },
+    {
+      "id": "course-lexeme-3856c49615db204e",
+      "de": "erklären",
+      "ua": "пояснювати",
+      "scene": "Child explaining a simple object to a friend with a pointing gesture and speech bubble",
+      "slot": 2
+    },
+    {
+      "id": "course-lexeme-8aa76e8b6bf5c558",
+      "de": "bezahlen",
+      "ua": "оплачувати",
+      "scene": "Hand paying with an orange coin at a simple counter",
+      "slot": 3
+    },
+    {
+      "id": "course-lexeme-5c1b3e9df70cd6bb",
+      "de": "telefonieren",
+      "ua": "розмовляти телефоном",
+      "scene": "Child talking on an orange telephone handset",
+      "slot": 4
+    },
+    {
+      "id": "course-lexeme-9df1a49a6c43ca48",
+      "de": "studieren",
+      "ua": "навчатися у виші",
+      "scene": "Young adult studying an open book beside a graduation cap",
+      "slot": 5
+    },
+    {
+      "id": "course-lexeme-722f7e3997de1415",
+      "de": "das Wort",
+      "ua": "слово",
+      "scene": "One cream speech bubble containing the single clear word Hallo",
+      "slot": 6
+    }
+  ],
+  "references": [
+    "assets/illustrations/course/ready.png",
+    "assets/illustrations/food/apfel.png"
+  ]
+}

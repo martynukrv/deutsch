@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "der Zucker",
+      "ua": "цукор",
+      "file": "course_c525891f01aa3b12.png"
+    },
+    {
+      "de": "die Rechnung",
+      "ua": "рахунок",
+      "file": "course_b04234e3217b517d.png"
+    },
+    {
+      "de": "das Café",
+      "ua": "кафе",
+      "file": "course_7237c9fe86658cd6.png"
+    }
+  ]
+}

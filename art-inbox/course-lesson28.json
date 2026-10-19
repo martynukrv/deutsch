@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "dürfen",
+      "ua": "мати дозвіл",
+      "file": "course_0b7a7a48667409b1.png"
+    },
+    {
+      "de": "rauchen",
+      "ua": "курити",
+      "file": "course_afcad6580fc8eff4.png"
+    }
+  ]
+}

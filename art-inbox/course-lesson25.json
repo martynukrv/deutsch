@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "schwimmen",
+      "ua": "плавати",
+      "file": "course_b7baed75d9cf5417.png"
+    }
+  ]
+}

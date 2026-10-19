@@ -1,0 +1,115 @@
+{
+  "lesson": 65,
+  "cols": 3,
+  "rows": 2,
+  "originalSha256": "f7eec119039619221f8aafb44c1cefac3a3e0009cce8e9afcbd299ccc1247739",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-617382b59df4cd6b",
+      "de": "am besten",
+      "ua": "найкраще",
+      "scene": "Child standing on a simple winners podium with one orange trophy",
+      "cell": [
+        0,
+        0,
+        539,
+        545
+      ],
+      "alphaCropInCell": [
+        102,
+        80,
+        476,
+        500
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_617382b59df4cd6b.png",
+      "sha256": "e989783e2af120418c3566687396cc12e003d0e64b0000f81dd39ea445747bae"
+    },
+    {
+      "id": "course-lexeme-3ce0f5fff4a4c13a",
+      "de": "am liebsten",
+      "ua": "найохочіше / найбільше любити",
+      "scene": "Child hugging their favorite orange book with a large small heart above",
+      "cell": [
+        539,
+        0,
+        998,
+        545
+      ],
+      "alphaCropInCell": [
+        64,
+        113,
+        426,
+        495
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_3ce0f5fff4a4c13a.png",
+      "sha256": "0234e8cda70ca7efc95d142e9c264941ea383b9a7416bce40e42097187b14ce5"
+    },
+    {
+      "id": "course-lexeme-96538ed6f70c1507",
+      "de": "am meisten",
+      "ua": "найбільше",
+      "scene": "Three bowls of berries, the bowl with MOST berries highlighted orange",
+      "cell": [
+        998,
+        0,
+        1536,
+        545
+      ],
+      "alphaCropInCell": [
+        34,
+        194,
+        493,
+        450
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_96538ed6f70c1507.png",
+      "sha256": "c82b42810b63e9adfe59d90809f8496ea38fbc69ad3b14446fbe12889a064e69"
+    },
+    {
+      "id": "course-lexeme-f3d19043e9dbd491",
+      "de": "am schnellsten",
+      "ua": "найшвидше",
+      "scene": "Three running rabbits, farthest-ahead rabbit highlighted orange as fastest",
+      "cell": [
+        0,
+        545,
+        548,
+        1024
+      ],
+      "alphaCropInCell": [
+        40,
+        110,
+        524,
+        372
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_f3d19043e9dbd491.png",
+      "sha256": "0b2371b09741bc75c3a78baf60985c5dd045b022bb541360095f87295e344314"
+    },
+    {
+      "id": "course-lexeme-1348cfe34b3c60e8",
+      "de": "lieber",
+      "ua": "охочіше",
+      "scene": "Child choosing an orange apple over a cream cookie, a small heart above the apple",
+      "cell": [
+        548,
+        545,
+        1536,
+        1024
+      ],
+      "alphaCropInCell": [
+        25,
+        45,
+        438,
+        388
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_1348cfe34b3c60e8.png",
+      "sha256": "b85ace4be0757fc7f8913a70eb34a9dc3a212691dde60b95329c9e1d0aec3c34"
+    }
+  ]
+}

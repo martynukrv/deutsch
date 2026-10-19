@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "mein",
+      "ua": "мій",
+      "file": "course_0b7f4e4186727cc3.png"
+    },
+    {
+      "de": "dein",
+      "ua": "твій",
+      "file": "course_0ddcbee2bb8498ff.png"
+    },
+    {
+      "de": "sein",
+      "ua": "його (присвійне)",
+      "file": "course_a439c2303a05c465.png"
+    },
+    {
+      "de": "ihr",
+      "ua": "її / їхній",
+      "file": "course_d8d8206d1075de02.png"
+    },
+    {
+      "de": "unser",
+      "ua": "наш",
+      "file": "course_74b68c0133979b65.png"
+    },
+    {
+      "de": "euer",
+      "ua": "ваш (кілька людей)",
+      "file": "course_bbd4b20f1ffdc0d3.png"
+    },
+    {
+      "de": "Ihr",
+      "ua": "Ваш (ввічливо)",
+      "file": "course_ee3722091a73234f.png"
+    }
+  ]
+}

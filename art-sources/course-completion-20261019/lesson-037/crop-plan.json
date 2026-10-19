@@ -1,0 +1,115 @@
+{
+  "lesson": 37,
+  "cols": 3,
+  "rows": 2,
+  "originalSha256": "b482c6a395c6c242372c86b53a4e05ff3f99d86e01c60e875df5021df3b8fd29",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-15c80fe449acf79b",
+      "de": "tausend",
+      "ua": "тисяча",
+      "scene": "Large friendly clear numerals 1000 on one chunky cream number tile with orange edges",
+      "cell": [
+        0,
+        0,
+        487,
+        514
+      ],
+      "alphaCropInCell": [
+        45,
+        137,
+        486,
+        475
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_15c80fe449acf79b.png",
+      "sha256": "835edafb841e59285f9a4019a87de7a83b5f4b14b3ab97f949a535ee923ffebe"
+    },
+    {
+      "id": "course-lexeme-c0ff8da75fa24004",
+      "de": "kosten",
+      "ua": "коштувати",
+      "scene": "Child looking at an orange price tag attached to a toy car: costs",
+      "cell": [
+        487,
+        0,
+        1049,
+        514
+      ],
+      "alphaCropInCell": [
+        2,
+        30,
+        533,
+        500
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_c0ff8da75fa24004.png",
+      "sha256": "b0f764ee6bcc3581d27761cf73941853c99bb8bea2130d14b09fc56738e83a15"
+    },
+    {
+      "id": "course-lexeme-f2a7b19847ea24e6",
+      "de": "der Euro",
+      "ua": "євро",
+      "scene": "One chunky orange coin bearing a clear cream euro symbol €",
+      "cell": [
+        1049,
+        0,
+        1536,
+        514
+      ],
+      "alphaCropInCell": [
+        30,
+        133,
+        456,
+        469
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_f2a7b19847ea24e6.png",
+      "sha256": "4fc2665379831deb51d6b13cf72eaedd236b7ded47313becc4243a84c276f5c4"
+    },
+    {
+      "id": "course-lexeme-570fd431597c4cf8",
+      "de": "der Cent",
+      "ua": "цент",
+      "scene": "One small orange cent coin marked 1 with tiny simple cream dot beside, not a euro symbol",
+      "cell": [
+        0,
+        514,
+        540,
+        1024
+      ],
+      "alphaCropInCell": [
+        91,
+        138,
+        451,
+        403
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_570fd431597c4cf8.png",
+      "sha256": "1edb96910ee54cdfc9ce45b5d41f5ee3bee4cd0095ea203642bf8ae80ace57ae"
+    },
+    {
+      "id": "course-lexeme-d183ab4cd795c4b8",
+      "de": "der Mensch",
+      "ua": "людина",
+      "scene": "One friendly ordinary adult person standing and waving",
+      "cell": [
+        540,
+        514,
+        1536,
+        1024
+      ],
+      "alphaCropInCell": [
+        116,
+        14,
+        416,
+        482
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_d183ab4cd795c4b8.png",
+      "sha256": "c8e793efafa25a8751a20e1a0cd65730ad26818b1973896d131a94a6d1389df8"
+    }
+  ]
+}

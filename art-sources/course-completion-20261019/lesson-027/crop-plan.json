@@ -1,0 +1,52 @@
+{
+  "lesson": 27,
+  "cols": 2,
+  "rows": 1,
+  "originalSha256": "2bab941fc5a978f7b9c61cb377344be3673e6c698ac51c94d4be0a6500d0d274",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-5cc68d619a5d016f",
+      "de": "möchten",
+      "ua": "хотіти б (ввічливо)",
+      "scene": "Child politely requesting a cup with open hand and a small heart: would like",
+      "cell": [
+        0,
+        0,
+        971,
+        809
+      ],
+      "alphaCropInCell": [
+        162,
+        132,
+        909,
+        698
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_5cc68d619a5d016f.png",
+      "sha256": "befa253e27a1deeb354fc98e471df0fb69fd7fe3065aab16e4689d886999a011"
+    },
+    {
+      "id": "course-lexeme-21e34af987794719",
+      "de": "reisen",
+      "ua": "подорожувати",
+      "scene": "Child with orange suitcase looking at a small globe with navy outlined cream continents",
+      "cell": [
+        971,
+        0,
+        1942,
+        809
+      ],
+      "alphaCropInCell": [
+        166,
+        112,
+        877,
+        714
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_21e34af987794719.png",
+      "sha256": "a5d7479de5112482a991fcd0b42c7110b3fc9566d66dbcd5f84277e694d86300"
+    }
+  ]
+}

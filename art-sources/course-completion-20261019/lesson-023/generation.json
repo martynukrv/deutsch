@@ -1,0 +1,12 @@
+{
+  "lesson": 23,
+  "cols": 3,
+  "rows": 1,
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Asset type: ONE transparent vocabulary sprite sheet for German lesson 23, \"Перший діалог у кафе\". EXACTLY 3 columns and 1 rows of EQUAL-size cells. Each illustration must stay inside its own cell's CENTRAL 60%, with very LARGE TRANSPARENT gutters around every cell, including the bottom row. No figures crossing cell borders, even in the last row. No shared elements. Unused cells stay fully transparent. Read cells left to right, top to bottom.\nSTYLE: match approved references: playful compact chibi cartoons, thick organic navy #102B50 contours, simple white #FFFFFF/cream #FFF1E5 surfaces and orange #FF5726 accents. ONLY these four colors, even skin/hair/plants/water. White/cream-haired children with navy facial features. Add short tapered navy/orange signature dashes beside EACH complete composition. Restrained large details for 110px display. No glow, haze, gradients, backdrop shadows, glossy emoji, 3D or realism. Transparent background between all shapes. No titles, printed vocabulary labels, cell numbers or borders. Only internal letters/digits explicitly requested in a scene may appear. Uniform cell centers and scales; all characters/objects fully visible.\nCELLS:\n1 [der Zucker, цукор]: Small cream sugar bowl with orange spoon and a few white sugar cubes.\n2 [die Rechnung, рахунок]: Restaurant bill receipt with an orange edge and simple navy amount lines, no readable text.\n3 [das Café, кафе]: Small welcoming cafe storefront with orange awning and cup symbol.\nGuide labels are NOT to be printed. Every cell contains ONLY its assigned complete scene.",
+  "references": [
+    "assets/illustrations/verbs/lernen.png",
+    "assets/illustrations/food/apfel.png",
+    "assets/illustrations/course/time.png"
+  ]
+}

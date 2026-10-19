@@ -1,0 +1,11 @@
+{
+  "lesson": 33,
+  "cols": 3,
+  "rows": 2,
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Asset type: ONE transparent vocabulary sprite sheet for German lesson 33, \"Хто кому що дає\". EXACTLY 3 columns and 2 rows of EQUAL-size cells. Each illustration must stay inside its own cell's CENTRAL 60%, with very LARGE TRANSPARENT gutters around every cell, including the bottom row. No figures crossing cell borders, even in the last row. No shared elements. Unused cells stay fully transparent. Read cells left to right, top to bottom.\nSTYLE: match approved references: playful compact chibi cartoons, thick organic navy #102B50 contours, simple white #FFFFFF/cream #FFF1E5 surfaces and orange #FF5726 accents. ONLY these four colors, even skin/hair/plants/water. White/cream-haired children with navy facial features. Add short tapered navy/orange signature dashes beside EACH complete composition. Restrained large details for 110px display. Every pixel outside the hard clean silhouette shapes MUST have alpha=0, never partially transparent colored clouds. No bloom or semitransparent glow. No glow, haze, gradients, backdrop shadows, glossy emoji, 3D or realism. Transparent background between all shapes. No titles, printed vocabulary labels, cell numbers or borders. Only internal letters/digits explicitly requested in a scene may appear. Uniform cell centers and scales; all characters/objects fully visible.\nCELLS:\n1 [zeigen, показувати]: Child pointing clearly at a framed picture to show it to another child.\n2 [schenken, дарувати]: Child handing a wrapped gift to a delighted friend.\n3 [das Geschenk, подарунок]: One playful orange gift box with cream ribbon and navy contours.\n4 [der Ball, м’яч]: One friendly orange cream football, navy outlines.\n5 [das Bild, картина / зображення]: Simple navy frame enclosing a cream mountain and orange sun picture.\nGuide labels are NOT to be printed. Every cell contains ONLY its assigned complete scene.",
+  "references": [
+    "assets/illustrations/course/ready.png",
+    "assets/illustrations/food/apfel.png"
+  ]
+}

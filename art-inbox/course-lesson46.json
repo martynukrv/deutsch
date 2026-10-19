@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "oft",
+      "ua": "часто",
+      "file": "course_83e0ecb1f0f1e386.png"
+    },
+    {
+      "de": "manchmal",
+      "ua": "іноді",
+      "file": "course_97d9b4a8530f699b.png"
+    },
+    {
+      "de": "selten",
+      "ua": "рідко",
+      "file": "course_b62e83c726dbe6a2.png"
+    },
+    {
+      "de": "nie",
+      "ua": "ніколи",
+      "file": "course_07b04d13ca361874.png"
+    },
+    {
+      "de": "zuerst",
+      "ua": "спочатку",
+      "file": "course_dd8b5df750f35767.png"
+    },
+    {
+      "de": "danach",
+      "ua": "після цього",
+      "file": "course_9c640f73a99bc116.png"
+    }
+  ]
+}

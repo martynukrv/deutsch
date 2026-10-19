@@ -1,0 +1,41 @@
+{
+  "lesson": 57,
+  "cols": 2,
+  "rows": 2,
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Asset type: ONE transparent vocabulary sprite sheet for German lesson 57, \"І, але, або, адже\". EXACTLY 2 columns and 2 rows of EQUAL-size cells. Each illustration must stay inside its own cell's CENTRAL 60%, with very LARGE TRANSPARENT gutters around every cell, including the bottom row. No figures crossing cell borders, even in the last row. No shared elements. Unused cells stay fully transparent. Read cells left to right, top to bottom.\nSTYLE: match approved references: playful compact chibi cartoons, thick organic navy #102B50 contours, simple white #FFFFFF/cream #FFF1E5 surfaces and orange #FF5726 accents. ONLY these four colors, even skin/hair/plants/water. White/cream-haired children with navy facial features. Add short tapered navy/orange signature dashes beside EACH complete composition. Restrained large details for 110px display. Every pixel outside the hard clean silhouette shapes MUST have alpha=0, never partially transparent colored clouds. No bloom or semitransparent glow. No glow, haze, gradients, backdrop shadows, glossy emoji, 3D or realism. Transparent background between all shapes. No titles, printed vocabulary labels, cell numbers or borders. Only internal letters/digits explicitly requested in a scene may appear. Uniform cell centers and scales; all characters/objects fully visible.\nCELLS:\n1 [denn, адже / бо]: Small rain cloud beside child explaining an umbrella in a speech bubble: because.\n2 [kochen, готувати їжу]: Child stirring a simple orange cooking pot with a spoon.\n3 [wenig, мало]: Small bowl with only TWO cream berries clearly showing a small amount.\n4 [spät, пізно]: Child looking surprised at a clock beside a low orange setting sun: late.\nGuide labels are NOT to be printed. Every cell contains ONLY its assigned complete scene.",
+  "words": [
+    {
+      "id": "course-lexeme-c2b8c27ca0ea527d",
+      "de": "denn",
+      "ua": "адже / бо",
+      "scene": "Small rain cloud beside child explaining an umbrella in a speech bubble: because",
+      "slot": 0
+    },
+    {
+      "id": "course-lexeme-8ff64ddec51c52d3",
+      "de": "kochen",
+      "ua": "готувати їжу",
+      "scene": "Child stirring a simple orange cooking pot with a spoon",
+      "slot": 1
+    },
+    {
+      "id": "course-lexeme-63ab50f3b1230006",
+      "de": "wenig",
+      "ua": "мало",
+      "scene": "Small bowl with only TWO cream berries clearly showing a small amount",
+      "slot": 2
+    },
+    {
+      "id": "course-lexeme-7c4bbf3d39d19726",
+      "de": "spät",
+      "ua": "пізно",
+      "scene": "Child looking surprised at a clock beside a low orange setting sun: late",
+      "slot": 3
+    }
+  ],
+  "references": [
+    "assets/illustrations/course/ready.png",
+    "assets/illustrations/food/apfel.png"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "lesson": 74,
+  "cols": 3,
+  "rows": 2,
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Asset type: ONE transparent vocabulary sprite sheet for German lesson 74, \"Житло та домашні справи\". EXACTLY 3 columns and 2 rows of EQUAL-size cells. Each illustration must stay inside its own cell's CENTRAL 60%, with very LARGE TRANSPARENT gutters around every cell, including the bottom row. No figures crossing cell borders, even in the last row. No shared elements. Unused cells stay fully transparent. Read cells left to right, top to bottom.\nSTYLE: match approved references: playful compact chibi cartoons, thick organic navy #102B50 contours, simple white #FFFFFF/cream #FFF1E5 surfaces and orange #FF5726 accents. ONLY these four colors, even skin/hair/plants/water. White/cream-haired children with navy facial features. Add short tapered navy/orange signature dashes beside EACH complete composition. Restrained large details for 110px display. Every pixel outside the hard clean silhouette shapes MUST have alpha=0, never partially transparent colored clouds. No bloom or semitransparent glow. No glow, haze, gradients, backdrop shadows, glossy emoji, 3D or realism. Transparent background between all shapes. No titles, printed vocabulary labels, cell numbers or borders. Only internal letters/digits explicitly requested in a scene may appear. Uniform cell centers and scales; all characters/objects fully visible.\nCELLS:\n1 [die Heizung, опалення]: One chunky cream radiator with orange top and simple navy steam dashes.\n2 [kaputt, несправний]: One broken toy car with detached wheel beside it.\n3 [funktionieren, функціонувати]: Simple toy car with all wheels attached and an orange check mark, functioning.\n4 [aufräumen, прибирати]: Child putting scattered toys into an orange storage box, tidying.\n5 [reparieren, ремонтувати]: Child carefully repairing a toy with an orange wrench.\n6 [putzen, прибирати / чистити]: Child wiping a simple table with an orange cloth, cleaning.\nGuide labels are NOT to be printed. Every cell contains ONLY its assigned complete scene.",
+  "words": [
+    {
+      "id": "course-lexeme-9156e88459246130",
+      "de": "die Heizung",
+      "ua": "опалення",
+      "scene": "One chunky cream radiator with orange top and simple navy steam dashes",
+      "slot": 0
+    },
+    {
+      "id": "course-lexeme-00c81671d92ca255",
+      "de": "kaputt",
+      "ua": "несправний",
+      "scene": "One broken toy car with detached wheel beside it",
+      "slot": 1
+    },
+    {
+      "id": "course-lexeme-a819acb6613c29f9",
+      "de": "funktionieren",
+      "ua": "функціонувати",
+      "scene": "Simple toy car with all wheels attached and an orange check mark, functioning",
+      "slot": 2
+    },
+    {
+      "id": "course-lexeme-aa85039ae26c6373",
+      "de": "aufräumen",
+      "ua": "прибирати",
+      "scene": "Child putting scattered toys into an orange storage box, tidying",
+      "slot": 3
+    },
+    {
+      "id": "course-lexeme-c4b5284ffa972047",
+      "de": "reparieren",
+      "ua": "ремонтувати",
+      "scene": "Child carefully repairing a toy with an orange wrench",
+      "slot": 4
+    },
+    {
+      "id": "course-lexeme-abc331d0f296e006",
+      "de": "putzen",
+      "ua": "прибирати / чистити",
+      "scene": "Child wiping a simple table with an orange cloth, cleaning",
+      "slot": 5
+    }
+  ],
+  "references": [
+    "assets/illustrations/course/ready.png",
+    "assets/illustrations/food/apfel.png"
+  ]
+}

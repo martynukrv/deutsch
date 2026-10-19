@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "suchen",
+      "ua": "шукати",
+      "file": "course_c487816a5be16c92.png"
+    },
+    {
+      "de": "es gibt",
+      "ua": "є / існує",
+      "file": "course_8049eda005358d3d.png"
+    }
+  ]
+}

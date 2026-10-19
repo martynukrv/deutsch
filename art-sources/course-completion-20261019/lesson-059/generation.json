@@ -1,0 +1,48 @@
+{
+  "lesson": 59,
+  "cols": 3,
+  "rows": 2,
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Asset type: ONE transparent vocabulary sprite sheet for German lesson 59, \"Чому, тому що, тому\". EXACTLY 3 columns and 2 rows of EQUAL-size cells. Each illustration must stay inside its own cell's CENTRAL 60%, with very LARGE TRANSPARENT gutters around every cell, including the bottom row. No figures crossing cell borders, even in the last row. No shared elements. Unused cells stay fully transparent. Read cells left to right, top to bottom.\nSTYLE: match approved references: playful compact chibi cartoons, thick organic navy #102B50 contours, simple white #FFFFFF/cream #FFF1E5 surfaces and orange #FF5726 accents. ONLY these four colors, even skin/hair/plants/water. White/cream-haired children with navy facial features. Add short tapered navy/orange signature dashes beside EACH complete composition. Restrained large details for 110px display. Every pixel outside the hard clean silhouette shapes MUST have alpha=0, never partially transparent colored clouds. No bloom or semitransparent glow. No glow, haze, gradients, backdrop shadows, glossy emoji, 3D or realism. Transparent background between all shapes. No titles, printed vocabulary labels, cell numbers or borders. Only internal letters/digits explicitly requested in a scene may appear. Uniform cell centers and scales; all characters/objects fully visible.\nCELLS:\n1 [deshalb, тому / через це]: Small rain cloud followed by orange arrow leading to a child holding an umbrella: therefore.\n2 [darum, тому]: Child taking an umbrella as the consequence of visible rain, simple cause-result arrow.\n3 [regnen, дощити]: Small cream cloud with several navy outlined cream rain drops and orange accent dashes.\n4 [noch, ще]: Child adding one MORE small orange block to an unfinished stack, continuing.\n5 [froh, радий]: Child smiling with open joyful arms and a small orange sun.\nGuide labels are NOT to be printed. Every cell contains ONLY its assigned complete scene.",
+  "words": [
+    {
+      "id": "course-lexeme-fe263a20453a421e",
+      "de": "deshalb",
+      "ua": "тому / через це",
+      "scene": "Small rain cloud followed by orange arrow leading to a child holding an umbrella: therefore",
+      "slot": 0
+    },
+    {
+      "id": "course-lexeme-ae96d46fc00a6ab8",
+      "de": "darum",
+      "ua": "тому",
+      "scene": "Child taking an umbrella as the consequence of visible rain, simple cause-result arrow",
+      "slot": 1
+    },
+    {
+      "id": "course-lexeme-cc492023d5ddbd34",
+      "de": "regnen",
+      "ua": "дощити",
+      "scene": "Small cream cloud with several navy outlined cream rain drops and orange accent dashes",
+      "slot": 2
+    },
+    {
+      "id": "course-lexeme-b199ecdeb983d9ba",
+      "de": "noch",
+      "ua": "ще",
+      "scene": "Child adding one MORE small orange block to an unfinished stack, continuing",
+      "slot": 3
+    },
+    {
+      "id": "course-lexeme-353922964fc00424",
+      "de": "froh",
+      "ua": "радий",
+      "scene": "Child smiling with open joyful arms and a small orange sun",
+      "slot": 4
+    }
+  ],
+  "references": [
+    "assets/illustrations/course/ready.png",
+    "assets/illustrations/food/apfel.png"
+  ]
+}

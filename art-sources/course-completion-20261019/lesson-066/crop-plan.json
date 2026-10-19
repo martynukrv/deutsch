@@ -1,0 +1,31 @@
+{
+  "lesson": 66,
+  "cols": 1,
+  "rows": 1,
+  "originalSha256": "691daf016d55e6b5ecd2e6e03b177d959db81b3d48af520e7c44158731e425db",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-eb7ef939b5c001f8",
+      "de": "die Geschichte",
+      "ua": "історія",
+      "scene": "Open storybook with small friendly castle and orange star emerging from its pages",
+      "cell": [
+        0,
+        0,
+        1286,
+        1223
+      ],
+      "alphaCropInCell": [
+        138,
+        164,
+        1183,
+        1069
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_eb7ef939b5c001f8.png",
+      "sha256": "195e127ede9706647390061fdcc2b1f637dab7231f73de5bcb927be9b446a5f7"
+    }
+  ]
+}

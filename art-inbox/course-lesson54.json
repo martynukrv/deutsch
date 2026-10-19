@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "war",
+      "ua": "був / була",
+      "file": "course_b20c5d201024deeb.png"
+    },
+    {
+      "de": "hatte",
+      "ua": "мав / мала",
+      "file": "course_95c0867071b4d52c.png"
+    },
+    {
+      "de": "krank",
+      "ua": "хворий / хвора",
+      "file": "course_2ea24cbdaf6e301f.png"
+    },
+    {
+      "de": "früher",
+      "ua": "раніше",
+      "file": "course_3c7f98d813c0fe5a.png"
+    }
+  ]
+}

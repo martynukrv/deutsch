@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "ein guter Freund",
+      "ua": "добрий друг",
+      "file": "course_49211de5f5e437b1.png"
+    },
+    {
+      "de": "eine kleine Katze",
+      "ua": "маленька кішка",
+      "file": "course_660e0d0220192fd6.png"
+    },
+    {
+      "de": "ein neues Buch",
+      "ua": "нова книжка",
+      "file": "course_43d3890f180561e6.png"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "lesson": 31,
+  "cols": 1,
+  "rows": 1,
+  "originalSha256": "316775c5db4450337366f2df6acebd6f9c0ebb329a125c5edb0703fb280d6e5c",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-67c3201d0c79772e",
+      "de": "antworten",
+      "ua": "відповідати",
+      "scene": "Two children exchanging speech bubbles, second child responding with a happy nod",
+      "cell": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "alphaCropInCell": [
+        237,
+        141,
+        1353,
+        895
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_67c3201d0c79772e.png",
+      "sha256": "1fd813d50a009223f3c7df9284fcb259436781636f0f66725c0fd51807834776"
+    }
+  ]
+}

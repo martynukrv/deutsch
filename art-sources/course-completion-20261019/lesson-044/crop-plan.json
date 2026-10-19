@@ -1,0 +1,157 @@
+{
+  "lesson": 44,
+  "cols": 3,
+  "rows": 3,
+  "originalSha256": "db13a852ed96ca6cd52ad31cdae5edcf51d4e4bef17cb9131f7b42bf987f1b20",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-da56adf03ee72438",
+      "de": "verstehen",
+      "ua": "розуміти",
+      "scene": "Child with a lightbulb appearing above head, clear understanding expression",
+      "cell": [
+        0,
+        0,
+        537,
+        390
+      ],
+      "alphaCropInCell": [
+        101,
+        6,
+        489,
+        366
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_da56adf03ee72438.png",
+      "sha256": "e2af37f51be3a3bd35b62d8ec8d705720e48dfe9f3cc8b01501676931ba2dba2"
+    },
+    {
+      "id": "course-lexeme-de038420ed292e91",
+      "de": "besuchen",
+      "ua": "відвідувати",
+      "scene": "Child arriving at a friends open front door for a visit",
+      "cell": [
+        537,
+        0,
+        1011,
+        390
+      ],
+      "alphaCropInCell": [
+        49,
+        26,
+        435,
+        383
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_de038420ed292e91.png",
+      "sha256": "d7dab849d5eac772e83c1263b37e52c6c26511ac61e5ef56a3cd0cafe81ce49c"
+    },
+    {
+      "id": "course-lexeme-3856c49615db204e",
+      "de": "erklären",
+      "ua": "пояснювати",
+      "scene": "Child explaining a simple object to a friend with a pointing gesture and speech bubble",
+      "cell": [
+        1011,
+        0,
+        1536,
+        390
+      ],
+      "alphaCropInCell": [
+        39,
+        53,
+        481,
+        367
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_3856c49615db204e.png",
+      "sha256": "3ab08b59865a5842ffab246300265e58c6c49e911c9c5a58e5005203a83cf121"
+    },
+    {
+      "id": "course-lexeme-8aa76e8b6bf5c558",
+      "de": "bezahlen",
+      "ua": "оплачувати",
+      "scene": "Hand paying with an orange coin at a simple counter",
+      "cell": [
+        0,
+        390,
+        500,
+        737
+      ],
+      "alphaCropInCell": [
+        88,
+        55,
+        433,
+        309
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_8aa76e8b6bf5c558.png",
+      "sha256": "d25ffae618c83c8bd85083e0ed116fc2fdcdaad347d7afc00fe86a423da13d72"
+    },
+    {
+      "id": "course-lexeme-5c1b3e9df70cd6bb",
+      "de": "telefonieren",
+      "ua": "розмовляти телефоном",
+      "scene": "Child talking on an orange telephone handset",
+      "cell": [
+        500,
+        390,
+        989,
+        737
+      ],
+      "alphaCropInCell": [
+        67,
+        14,
+        424,
+        328
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_5c1b3e9df70cd6bb.png",
+      "sha256": "0071017bb7be3369141c377ac828c5068c129fb4dd004f16aabe69b50783c9fb"
+    },
+    {
+      "id": "course-lexeme-9df1a49a6c43ca48",
+      "de": "studieren",
+      "ua": "навчатися у виші",
+      "scene": "Young adult studying an open book beside a graduation cap",
+      "cell": [
+        989,
+        390,
+        1536,
+        737
+      ],
+      "alphaCropInCell": [
+        66,
+        7,
+        490,
+        343
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_9df1a49a6c43ca48.png",
+      "sha256": "2603641c4cab17f1554c2121babc05f50f9c0b5710f24b1652f6e4693e6c6b29"
+    },
+    {
+      "id": "course-lexeme-722f7e3997de1415",
+      "de": "das Wort",
+      "ua": "слово",
+      "scene": "One cream speech bubble containing the single clear word Hallo",
+      "cell": [
+        0,
+        737,
+        1536,
+        1024
+      ],
+      "alphaCropInCell": [
+        73,
+        5,
+        482,
+        260
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_722f7e3997de1415.png",
+      "sha256": "b259b8efd4424535b95b702b87c3298f69a7ea3e4c65ddb0e2d0bfdb6fdc5674"
+    }
+  ]
+}

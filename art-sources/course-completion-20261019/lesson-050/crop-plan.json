@@ -1,0 +1,31 @@
+{
+  "lesson": 50,
+  "cols": 1,
+  "rows": 1,
+  "originalSha256": "391422f54c8009237aecb924fe0652584e589033c8eada5fe5d7130252cca773",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-8d9c883c60fee1bd",
+      "de": "die Nachricht",
+      "ua": "повідомлення",
+      "scene": "One orange smartphone displaying a cream speech message bubble, no text",
+      "cell": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaCropInCell": [
+        243,
+        269,
+        1066,
+        1039
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_8d9c883c60fee1bd.png",
+      "sha256": "a745dad229fb15b59481a416b8885d1d9365e5419319ef0085c8c60778340f66"
+    }
+  ]
+}

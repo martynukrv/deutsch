@@ -1,0 +1,55 @@
+{
+  "lesson": 61,
+  "cols": 3,
+  "rows": 2,
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Asset type: ONE transparent vocabulary sprite sheet for German lesson 61, \"Зробити щось: інфінітив із zu\". EXACTLY 3 columns and 2 rows of EQUAL-size cells. Each illustration must stay inside its own cell's CENTRAL 60%, with very LARGE TRANSPARENT gutters around every cell, including the bottom row. No figures crossing cell borders, even in the last row. No shared elements. Unused cells stay fully transparent. Read cells left to right, top to bottom.\nSTYLE: match approved references: playful compact chibi cartoons, thick organic navy #102B50 contours, simple white #FFFFFF/cream #FFF1E5 surfaces and orange #FF5726 accents. ONLY these four colors, even skin/hair/plants/water. White/cream-haired children with navy facial features. Add short tapered navy/orange signature dashes beside EACH complete composition. Restrained large details for 110px display. Every pixel outside the hard clean silhouette shapes MUST have alpha=0, never partially transparent colored clouds. No bloom or semitransparent glow. No glow, haze, gradients, backdrop shadows, glossy emoji, 3D or realism. Transparent background between all shapes. No titles, printed vocabulary labels, cell numbers or borders. Only internal letters/digits explicitly requested in a scene may appear. Uniform cell centers and scales; all characters/objects fully visible.\nCELLS:\n1 [versuchen, намагатися]: Child making an effort to stack slightly wobbly chunky blocks.\n2 [vergessen, забувати]: Child leaving house with an empty thought bubble containing a small missing-book dashed outline.\n3 [beginnen, починати]: Child stepping onto the start of a short path, orange first-step marker.\n4 [hoffen, сподіватися]: Child looking hopefully at a small orange star above clasped hands.\n5 [wichtig, важливий]: Large orange exclamation mark on a cream reminder card, friendly emphasis.\n6 [Zeit haben, мати час]: Relaxed child seated with a small orange clock and open book, having time.\nGuide labels are NOT to be printed. Every cell contains ONLY its assigned complete scene.",
+  "words": [
+    {
+      "id": "course-lexeme-092bfb6d1d83685a",
+      "de": "versuchen",
+      "ua": "намагатися",
+      "scene": "Child making an effort to stack slightly wobbly chunky blocks",
+      "slot": 0
+    },
+    {
+      "id": "course-lexeme-5bc15582bbe8e266",
+      "de": "vergessen",
+      "ua": "забувати",
+      "scene": "Child leaving house with an empty thought bubble containing a small missing-book dashed outline",
+      "slot": 1
+    },
+    {
+      "id": "course-lexeme-f51c6969a170b9f7",
+      "de": "beginnen",
+      "ua": "починати",
+      "scene": "Child stepping onto the start of a short path, orange first-step marker",
+      "slot": 2
+    },
+    {
+      "id": "course-lexeme-011db95127558869",
+      "de": "hoffen",
+      "ua": "сподіватися",
+      "scene": "Child looking hopefully at a small orange star above clasped hands",
+      "slot": 3
+    },
+    {
+      "id": "course-lexeme-8f7b29ebbf17a032",
+      "de": "wichtig",
+      "ua": "важливий",
+      "scene": "Large orange exclamation mark on a cream reminder card, friendly emphasis",
+      "slot": 4
+    },
+    {
+      "id": "course-lexeme-1ee95a9408a6811a",
+      "de": "Zeit haben",
+      "ua": "мати час",
+      "scene": "Relaxed child seated with a small orange clock and open book, having time",
+      "slot": 5
+    }
+  ],
+  "references": [
+    "assets/illustrations/course/ready.png",
+    "assets/illustrations/food/apfel.png"
+  ]
+}

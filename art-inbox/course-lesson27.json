@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "möchten",
+      "ua": "хотіти б (ввічливо)",
+      "file": "course_5cc68d619a5d016f.png"
+    },
+    {
+      "de": "reisen",
+      "ua": "подорожувати",
+      "file": "course_21e34af987794719.png"
+    }
+  ]
+}

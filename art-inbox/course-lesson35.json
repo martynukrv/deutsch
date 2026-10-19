@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "für",
+      "ua": "для",
+      "file": "course_d80f132e585b603b.png"
+    },
+    {
+      "de": "gegen",
+      "ua": "проти / об",
+      "file": "course_1ee4b27807772bde.png"
+    },
+    {
+      "de": "durch",
+      "ua": "через",
+      "file": "course_21a4097855430785.png"
+    },
+    {
+      "de": "um",
+      "ua": "навколо / о (час)",
+      "file": "course_5212d0b4f20f8620.png"
+    },
+    {
+      "de": "die Tasche",
+      "ua": "сумка",
+      "file": "course_b6c121b222ea295b.png"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "lesson": 46,
+  "cols": 3,
+  "rows": 2,
+  "originalSha256": "c24b785a0a5a76b19a381a7f6ffe88c015dda538af9626f268ec80c0db800ab6",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-83e0ecb1f0f1e386",
+      "de": "oft",
+      "ua": "часто",
+      "scene": "Simple seven-day calendar with FIVE orange marked squares, no text",
+      "cell": [
+        0,
+        0,
+        519,
+        506
+      ],
+      "alphaCropInCell": [
+        42,
+        131,
+        487,
+        415
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_83e0ecb1f0f1e386.png",
+      "sha256": "b4753db2374abde607d7f41d6c66a41691467c8f8f85de0f0db11aa9a8e216e5"
+    },
+    {
+      "id": "course-lexeme-97d9b4a8530f699b",
+      "de": "manchmal",
+      "ua": "іноді",
+      "scene": "Simple seven-day calendar with THREE orange marked squares, no text",
+      "cell": [
+        519,
+        0,
+        1029,
+        506
+      ],
+      "alphaCropInCell": [
+        33,
+        129,
+        475,
+        415
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_97d9b4a8530f699b.png",
+      "sha256": "df2296b17208777942cfd01cc3fcb21fd8fa89e5efabac12bd9281e25fd37dca"
+    },
+    {
+      "id": "course-lexeme-b62e83c726dbe6a2",
+      "de": "selten",
+      "ua": "рідко",
+      "scene": "Simple seven-day calendar with ONE orange marked square, no text",
+      "cell": [
+        1029,
+        0,
+        1536,
+        506
+      ],
+      "alphaCropInCell": [
+        35,
+        128,
+        479,
+        416
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_b62e83c726dbe6a2.png",
+      "sha256": "d3bef37d516ebc1d9d97043099ebae3c0cea2fd51933e544f273ede525c3f013"
+    },
+    {
+      "id": "course-lexeme-07b04d13ca361874",
+      "de": "nie",
+      "ua": "ніколи",
+      "scene": "Simple seven-day calendar with NO marked squares and a small orange X beside",
+      "cell": [
+        0,
+        506,
+        532,
+        1024
+      ],
+      "alphaCropInCell": [
+        40,
+        91,
+        489,
+        403
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_07b04d13ca361874.png",
+      "sha256": "3637ec831eb1c3654798eb7c0b4b973ce450369b24adc6f23612132e3768e2f6"
+    },
+    {
+      "id": "course-lexeme-dd8b5df750f35767",
+      "de": "zuerst",
+      "ua": "спочатку",
+      "scene": "Two footprints along a short path, first footprint highlighted orange and second navy outlined: first",
+      "cell": [
+        532,
+        506,
+        1034,
+        1024
+      ],
+      "alphaCropInCell": [
+        43,
+        102,
+        456,
+        361
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_dd8b5df750f35767.png",
+      "sha256": "972bbc91067c33f7a30bd9c52b517c3f8cb4d50b49e5840a8a56cc289ee0f487"
+    },
+    {
+      "id": "course-lexeme-9c640f73a99bc116",
+      "de": "danach",
+      "ua": "після цього",
+      "scene": "Two footprints along a short path, second footprint highlighted orange and first navy outlined: afterward",
+      "cell": [
+        1034,
+        506,
+        1536,
+        1024
+      ],
+      "alphaCropInCell": [
+        47,
+        129,
+        461,
+        382
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_9c640f73a99bc116.png",
+      "sha256": "c70215f8cd896def4c7a89065d0fae905810b1b637182cb19c11ed11ed7328c4"
+    }
+  ]
+}

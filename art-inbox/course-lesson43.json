@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "aufstehen",
+      "ua": "вставати",
+      "file": "course_0d65a58c743ade97.png"
+    },
+    {
+      "de": "anrufen",
+      "ua": "телефонувати",
+      "file": "course_c434610e38c8a3ef.png"
+    },
+    {
+      "de": "einkaufen",
+      "ua": "робити покупки",
+      "file": "course_b01dd3f2f60188e4.png"
+    },
+    {
+      "de": "aufmachen",
+      "ua": "відчиняти",
+      "file": "course_3abffccaa6e35ca0.png"
+    },
+    {
+      "de": "mitkommen",
+      "ua": "йти разом",
+      "file": "course_16b4ff651c34b52a.png"
+    },
+    {
+      "de": "zurückkommen",
+      "ua": "повертатися",
+      "file": "course_cc0c15ebe426087f.png"
+    }
+  ]
+}

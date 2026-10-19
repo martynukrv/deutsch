@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "frisch",
+      "ua": "свіжий",
+      "file": "course_5adc078ea15a4f93.png"
+    }
+  ]
+}

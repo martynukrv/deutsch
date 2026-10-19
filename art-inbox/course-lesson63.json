@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "interessant",
+      "ua": "цікавий",
+      "file": "course_489a111d4c5d440e.png"
+    },
+    {
+      "de": "langweilig",
+      "ua": "нудний",
+      "file": "course_bc4096043af009e7.png"
+    },
+    {
+      "de": "warm",
+      "ua": "теплий",
+      "file": "course_f9ca9c3559396692.png"
+    },
+    {
+      "de": "kalt",
+      "ua": "холодний",
+      "file": "course_ede47028b329ac9e.png"
+    },
+    {
+      "de": "traurig",
+      "ua": "сумний",
+      "file": "course_888d64ec78a8f01c.png"
+    },
+    {
+      "de": "der Film",
+      "ua": "фільм",
+      "file": "course_5e4fd7e517f21667.png"
+    }
+  ]
+}

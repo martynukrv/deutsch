@@ -1,0 +1,157 @@
+{
+  "lesson": 41,
+  "cols": 3,
+  "rows": 3,
+  "originalSha256": "b02d39a036f631e0ca2b62fac9bbb945b7a64a151815e7917306339244f5fc70",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-ea446504d732bcba",
+      "de": "links",
+      "ua": "ліворуч",
+      "scene": "Child at a small road sign with a bold orange arrow pointing LEFT",
+      "cell": [
+        0,
+        0,
+        437,
+        415
+      ],
+      "alphaCropInCell": [
+        52,
+        36,
+        384,
+        391
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_ea446504d732bcba.png",
+      "sha256": "e77ab44e8623d01b168bcfac9eb5e3b04ff6b71bb562a2638ee07ce85438ec60"
+    },
+    {
+      "id": "course-lexeme-4d73b34b6719fc0c",
+      "de": "rechts",
+      "ua": "праворуч",
+      "scene": "Child at a small road sign with a bold orange arrow pointing RIGHT",
+      "cell": [
+        437,
+        0,
+        879,
+        415
+      ],
+      "alphaCropInCell": [
+        53,
+        33,
+        397,
+        394
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_4d73b34b6719fc0c.png",
+      "sha256": "18a8e9425818e9c1fca00c1d91439bd07173515f5370b5f5550d34998f0eece3"
+    },
+    {
+      "id": "course-lexeme-b8892cf1fb086b42",
+      "de": "geradeaus",
+      "ua": "прямо",
+      "scene": "Child on simple path with arrow pointing straight FORWARD/up",
+      "cell": [
+        879,
+        0,
+        1330,
+        415
+      ],
+      "alphaCropInCell": [
+        45,
+        42,
+        410,
+        397
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_b8892cf1fb086b42.png",
+      "sha256": "63d896b14ba6013409ce6f50496bacf8a594ef8e9e04e9677b0ffe1761442370"
+    },
+    {
+      "id": "course-lexeme-8bd574f60c07f667",
+      "de": "der Norden",
+      "ua": "північ",
+      "scene": "Playful compass rose with orange needle pointing UP, clear N at top",
+      "cell": [
+        0,
+        415,
+        447,
+        787
+      ],
+      "alphaCropInCell": [
+        56,
+        19,
+        403,
+        349
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_8bd574f60c07f667.png",
+      "sha256": "a0aa7ba1003f3faf4cc493dba26b056905e057c409f707323e1165df702fa75d"
+    },
+    {
+      "id": "course-lexeme-f9c24cf018252883",
+      "de": "der Süden",
+      "ua": "південь",
+      "scene": "Playful compass rose with orange needle pointing DOWN, clear S at bottom",
+      "cell": [
+        447,
+        415,
+        879,
+        787
+      ],
+      "alphaCropInCell": [
+        44,
+        21,
+        384,
+        347
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_f9c24cf018252883.png",
+      "sha256": "883121ebb396c41ed5ad9769b5bcad5fbc94b9562137100ca7615a002fc683c7"
+    },
+    {
+      "id": "course-lexeme-80557a4bc43bd484",
+      "de": "der Osten",
+      "ua": "схід",
+      "scene": "Playful compass rose with orange needle pointing RIGHT, clear O at right for German Osten",
+      "cell": [
+        879,
+        415,
+        1330,
+        787
+      ],
+      "alphaCropInCell": [
+        48,
+        21,
+        393,
+        347
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_80557a4bc43bd484.png",
+      "sha256": "97cd5d34bc7b0002eb2e03647a26d8e34939f40af9363229a0038ea386b7e26a"
+    },
+    {
+      "id": "course-lexeme-dd607a971187fae9",
+      "de": "der Westen",
+      "ua": "захід",
+      "scene": "Playful compass rose with orange needle pointing LEFT, clear W at left",
+      "cell": [
+        0,
+        787,
+        1330,
+        1182
+      ],
+      "alphaCropInCell": [
+        55,
+        23,
+        402,
+        352
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_dd607a971187fae9.png",
+      "sha256": "03a66471c48f698d5fe2d0701ccbb47975ab2597c3bee9c530d0591f96524bd2"
+    }
+  ]
+}

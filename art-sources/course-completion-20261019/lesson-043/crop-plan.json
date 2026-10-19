@@ -1,0 +1,136 @@
+{
+  "lesson": 43,
+  "cols": 3,
+  "rows": 2,
+  "originalSha256": "9f2e2304789f700759f9bff3b4216776d0cc73e675feaeb4987166da54b08078",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-0d65a58c743ade97",
+      "de": "aufstehen",
+      "ua": "вставати",
+      "scene": "Child getting UP out of a simple orange bed",
+      "cell": [
+        0,
+        0,
+        545,
+        525
+      ],
+      "alphaCropInCell": [
+        62,
+        70,
+        483,
+        494
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_0d65a58c743ade97.png",
+      "sha256": "2414e95d56ac1d7c53012cbb9a19cb42423743c383033a6e9b0a06156ce53200"
+    },
+    {
+      "id": "course-lexeme-c434610e38c8a3ef",
+      "de": "anrufen",
+      "ua": "телефонувати",
+      "scene": "Child making a phone CALL with orange handset",
+      "cell": [
+        545,
+        0,
+        1052,
+        525
+      ],
+      "alphaCropInCell": [
+        63,
+        70,
+        441,
+        489
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_c434610e38c8a3ef.png",
+      "sha256": "7572e7881a190b2024f9c0b0d365646ddcf3900877b79c49a68d2288efbfeb42"
+    },
+    {
+      "id": "course-lexeme-b01dd3f2f60188e4",
+      "de": "einkaufen",
+      "ua": "робити покупки",
+      "scene": "Child carrying orange shopping basket with cream groceries",
+      "cell": [
+        1052,
+        0,
+        1536,
+        525
+      ],
+      "alphaCropInCell": [
+        66,
+        61,
+        429,
+        501
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_b01dd3f2f60188e4.png",
+      "sha256": "d7bc1a86170f89d015845829e1ed3f8cbe0b400559bf623cba7dde1dab330c15"
+    },
+    {
+      "id": "course-lexeme-3abffccaa6e35ca0",
+      "de": "aufmachen",
+      "ua": "відчиняти",
+      "scene": "Child opening a small door outward, visible opening motion",
+      "cell": [
+        0,
+        525,
+        502,
+        1024
+      ],
+      "alphaCropInCell": [
+        88,
+        24,
+        474,
+        445
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_3abffccaa6e35ca0.png",
+      "sha256": "648956155c412ba4c8ac0c81f30161f891b2b5f7aceaa2d8eaf34a402f60c1ab"
+    },
+    {
+      "id": "course-lexeme-16b4ff651c34b52a",
+      "de": "mitkommen",
+      "ua": "йти разом",
+      "scene": "Two children walking together in the same direction",
+      "cell": [
+        502,
+        525,
+        1032,
+        1024
+      ],
+      "alphaCropInCell": [
+        29,
+        34,
+        516,
+        450
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_16b4ff651c34b52a.png",
+      "sha256": "5a379be731b3f358afa027440a41776de2edf3cb0247f73507ba7d82f7489703"
+    },
+    {
+      "id": "course-lexeme-cc0c15ebe426087f",
+      "de": "zurückkommen",
+      "ua": "повертатися",
+      "scene": "Child returning toward their house with orange curved return arrow",
+      "cell": [
+        1032,
+        525,
+        1536,
+        1024
+      ],
+      "alphaCropInCell": [
+        14,
+        42,
+        462,
+        446
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_cc0c15ebe426087f.png",
+      "sha256": "78685fc2ee864b445663de8dbcb7741e02c4aa1a9aa8abfc1a41be42453ddac0"
+    }
+  ]
+}

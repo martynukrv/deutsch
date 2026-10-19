@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "schnell",
+      "ua": "швидкий",
+      "file": "course_cc906841996c2cd2.png"
+    },
+    {
+      "de": "größer",
+      "ua": "більший",
+      "file": "course_ae18d3c9424eb8b4.png"
+    },
+    {
+      "de": "kleiner",
+      "ua": "менший",
+      "file": "course_c6f3aa416b7eeb03.png"
+    },
+    {
+      "de": "besser",
+      "ua": "кращий",
+      "file": "course_6bdcbaacb871d49b.png"
+    },
+    {
+      "de": "mehr",
+      "ua": "більше",
+      "file": "course_3593cd6c26b24848.png"
+    },
+    {
+      "de": "als",
+      "ua": "ніж",
+      "file": "course_b044b89a1a59b8f4.png"
+    },
+    {
+      "de": "so … wie",
+      "ua": "так само … як",
+      "file": "course_1e5e5ac00b02a7a6.png"
+    }
+  ]
+}

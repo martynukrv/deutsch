@@ -1,0 +1,136 @@
+{
+  "lesson": 63,
+  "cols": 3,
+  "rows": 2,
+  "originalSha256": "bbfe8b8a9d7f047a96615aee13ed9428a3334f18b3ecc22eceb1d09ff01be980",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-489a111d4c5d440e",
+      "de": "interessant",
+      "ua": "цікавий",
+      "scene": "Child leaning eagerly toward an open book with a tiny star above, interested",
+      "cell": [
+        0,
+        0,
+        555,
+        510
+      ],
+      "alphaCropInCell": [
+        60,
+        72,
+        521,
+        490
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_489a111d4c5d440e.png",
+      "sha256": "7fabb507d180c6f42b560339902ba0fedbc91b909f6e67b42e3bcae1f7b48c93"
+    },
+    {
+      "id": "course-lexeme-bc4096043af009e7",
+      "de": "langweilig",
+      "ua": "нудний",
+      "scene": "Child yawning beside a plain book with bored expression",
+      "cell": [
+        555,
+        0,
+        1039,
+        510
+      ],
+      "alphaCropInCell": [
+        34,
+        65,
+        434,
+        486
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_bc4096043af009e7.png",
+      "sha256": "0c84bb694d8bc685696a6544392633a31a1bd8a9d9f7e0df06028a9545cee063"
+    },
+    {
+      "id": "course-lexeme-f9ca9c3559396692",
+      "de": "warm",
+      "ua": "теплий",
+      "scene": "Child enjoying a warm orange cup with small navy steam curls",
+      "cell": [
+        1039,
+        0,
+        1536,
+        510
+      ],
+      "alphaCropInCell": [
+        50,
+        60,
+        460,
+        485
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_f9ca9c3559396692.png",
+      "sha256": "592019cdb3f6e85f0abf15d5bd68d475999c73b5dd5910beb75fc17385124bf6"
+    },
+    {
+      "id": "course-lexeme-ede47028b329ac9e",
+      "de": "kalt",
+      "ua": "холодний",
+      "scene": "Child shivering with arms crossed and small navy snowflakes",
+      "cell": [
+        0,
+        510,
+        545,
+        1024
+      ],
+      "alphaCropInCell": [
+        65,
+        20,
+        502,
+        464
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_ede47028b329ac9e.png",
+      "sha256": "e117421c6f397bf4b5d256718242fc275bf40482ec235495e0b4009b7e4a084a"
+    },
+    {
+      "id": "course-lexeme-888d64ec78a8f01c",
+      "de": "traurig",
+      "ua": "сумний",
+      "scene": "Child with clearly sad face and one cream tear outlined navy",
+      "cell": [
+        545,
+        510,
+        1019,
+        1024
+      ],
+      "alphaCropInCell": [
+        43,
+        28,
+        420,
+        465
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_888d64ec78a8f01c.png",
+      "sha256": "c74055bc6fd70d927d4b37f4509308c82351d8d7aacfbd24902d6722e7c0028f"
+    },
+    {
+      "id": "course-lexeme-5e4fd7e517f21667",
+      "de": "der Film",
+      "ua": "фільм",
+      "scene": "One playful orange movie clapperboard with cream panels and navy outline, no text",
+      "cell": [
+        1019,
+        510,
+        1536,
+        1024
+      ],
+      "alphaCropInCell": [
+        54,
+        61,
+        482,
+        439
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_5e4fd7e517f21667.png",
+      "sha256": "82f6c157d9c7b4ec65ff8063574da53081a14fcc2c60895de82501e27592111d"
+    }
+  ]
+}

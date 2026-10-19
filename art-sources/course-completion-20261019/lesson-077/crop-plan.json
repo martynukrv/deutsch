@@ -1,0 +1,52 @@
+{
+  "lesson": 77,
+  "cols": 2,
+  "rows": 1,
+  "originalSha256": "5402bcc98172750509b2dbde7b7997788d6c365953a6ef0c146f0bbf50864a04",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-0cfe44afe7b5a4d9",
+      "de": "einladen",
+      "ua": "запрошувати",
+      "scene": "Child offering an orange invitation envelope with a small heart to a friend",
+      "cell": [
+        0,
+        0,
+        984,
+        809
+      ],
+      "alphaCropInCell": [
+        108,
+        125,
+        924,
+        697
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_0cfe44afe7b5a4d9.png",
+      "sha256": "62dd897d84e588539479908ac605fe1cb96fe39f7ab91883aad77aa9c6846504"
+    },
+    {
+      "id": "course-lexeme-b43a12a36f4cbfc2",
+      "de": "verschieben",
+      "ua": "переносити (зустріч)",
+      "scene": "Two calendar leaves connected by an orange arrow moving appointment from one date to another",
+      "cell": [
+        984,
+        0,
+        1942,
+        809
+      ],
+      "alphaCropInCell": [
+        61,
+        174,
+        850,
+        649
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_b43a12a36f4cbfc2.png",
+      "sha256": "95e7326ddfaf71b026d771032012b535982663aa1663e2bca952de35aaa97be6"
+    }
+  ]
+}

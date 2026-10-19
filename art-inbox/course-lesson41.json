@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "links",
+      "ua": "ліворуч",
+      "file": "course_ea446504d732bcba.png"
+    },
+    {
+      "de": "rechts",
+      "ua": "праворуч",
+      "file": "course_4d73b34b6719fc0c.png"
+    },
+    {
+      "de": "geradeaus",
+      "ua": "прямо",
+      "file": "course_b8892cf1fb086b42.png"
+    },
+    {
+      "de": "der Norden",
+      "ua": "північ",
+      "file": "course_8bd574f60c07f667.png"
+    },
+    {
+      "de": "der Süden",
+      "ua": "південь",
+      "file": "course_f9c24cf018252883.png"
+    },
+    {
+      "de": "der Osten",
+      "ua": "схід",
+      "file": "course_80557a4bc43bd484.png"
+    },
+    {
+      "de": "der Westen",
+      "ua": "захід",
+      "file": "course_dd607a971187fae9.png"
+    }
+  ]
+}

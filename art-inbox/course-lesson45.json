@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "sich treffen",
+      "ua": "зустрічатися",
+      "file": "course_b208e662f6f03d87.png"
+    },
+    {
+      "de": "sich freuen",
+      "ua": "радіти",
+      "file": "course_360a0865af50eacc.png"
+    },
+    {
+      "de": "sich waschen",
+      "ua": "митися",
+      "file": "course_d2caffe2e6c3bd8d.png"
+    }
+  ]
+}

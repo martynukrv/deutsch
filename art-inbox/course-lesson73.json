@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "die Kopfschmerzen",
+      "ua": "головний біль",
+      "file": "course_5b00128160357929.png"
+    },
+    {
+      "de": "wehtun",
+      "ua": "боліти",
+      "file": "course_b2cbb33e2a4908f9.png"
+    },
+    {
+      "de": "das Fieber",
+      "ua": "підвищена температура",
+      "file": "course_66f5f2a71240733c.png"
+    },
+    {
+      "de": "die Ärztin",
+      "ua": "лікарка",
+      "file": "course_146d0cadd6805c23.png"
+    },
+    {
+      "de": "der Termin",
+      "ua": "запланований прийом",
+      "file": "course_a543b1d822d37816.png"
+    }
+  ]
+}

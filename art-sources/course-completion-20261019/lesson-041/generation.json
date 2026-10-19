@@ -1,0 +1,62 @@
+{
+  "lesson": 41,
+  "cols": 3,
+  "rows": 3,
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Asset type: ONE transparent vocabulary sprite sheet for German lesson 41, \"Місто, маршрут, вдома й додому\". EXACTLY 3 columns and 3 rows of EQUAL-size cells. Each illustration must stay inside its own cell's CENTRAL 60%, with very LARGE TRANSPARENT gutters around every cell, including the bottom row. No figures crossing cell borders, even in the last row. No shared elements. Unused cells stay fully transparent. Read cells left to right, top to bottom.\nSTYLE: match approved references: playful compact chibi cartoons, thick organic navy #102B50 contours, simple white #FFFFFF/cream #FFF1E5 surfaces and orange #FF5726 accents. ONLY these four colors, even skin/hair/plants/water. White/cream-haired children with navy facial features. Add short tapered navy/orange signature dashes beside EACH complete composition. Restrained large details for 110px display. Every pixel outside the hard clean silhouette shapes MUST have alpha=0, never partially transparent colored clouds. No bloom or semitransparent glow. No glow, haze, gradients, backdrop shadows, glossy emoji, 3D or realism. Transparent background between all shapes. No titles, printed vocabulary labels, cell numbers or borders. Only internal letters/digits explicitly requested in a scene may appear. Uniform cell centers and scales; all characters/objects fully visible.\nCELLS:\n1 [links, ліворуч]: Child at a small road sign with a bold orange arrow pointing LEFT.\n2 [rechts, праворуч]: Child at a small road sign with a bold orange arrow pointing RIGHT.\n3 [geradeaus, прямо]: Child on simple path with arrow pointing straight FORWARD/up.\n4 [der Norden, північ]: Playful compass rose with orange needle pointing UP, clear N at top.\n5 [der Süden, південь]: Playful compass rose with orange needle pointing DOWN, clear S at bottom.\n6 [der Osten, схід]: Playful compass rose with orange needle pointing RIGHT, clear O at right for German Osten.\n7 [der Westen, захід]: Playful compass rose with orange needle pointing LEFT, clear W at left.\nGuide labels are NOT to be printed. Every cell contains ONLY its assigned complete scene.",
+  "words": [
+    {
+      "id": "course-lexeme-ea446504d732bcba",
+      "de": "links",
+      "ua": "ліворуч",
+      "scene": "Child at a small road sign with a bold orange arrow pointing LEFT",
+      "slot": 0
+    },
+    {
+      "id": "course-lexeme-4d73b34b6719fc0c",
+      "de": "rechts",
+      "ua": "праворуч",
+      "scene": "Child at a small road sign with a bold orange arrow pointing RIGHT",
+      "slot": 1
+    },
+    {
+      "id": "course-lexeme-b8892cf1fb086b42",
+      "de": "geradeaus",
+      "ua": "прямо",
+      "scene": "Child on simple path with arrow pointing straight FORWARD/up",
+      "slot": 2
+    },
+    {
+      "id": "course-lexeme-8bd574f60c07f667",
+      "de": "der Norden",
+      "ua": "північ",
+      "scene": "Playful compass rose with orange needle pointing UP, clear N at top",
+      "slot": 3
+    },
+    {
+      "id": "course-lexeme-f9c24cf018252883",
+      "de": "der Süden",
+      "ua": "південь",
+      "scene": "Playful compass rose with orange needle pointing DOWN, clear S at bottom",
+      "slot": 4
+    },
+    {
+      "id": "course-lexeme-80557a4bc43bd484",
+      "de": "der Osten",
+      "ua": "схід",
+      "scene": "Playful compass rose with orange needle pointing RIGHT, clear O at right for German Osten",
+      "slot": 5
+    },
+    {
+      "id": "course-lexeme-dd607a971187fae9",
+      "de": "der Westen",
+      "ua": "захід",
+      "scene": "Playful compass rose with orange needle pointing LEFT, clear W at left",
+      "slot": 6
+    }
+  ],
+  "references": [
+    "assets/illustrations/course/ready.png",
+    "assets/illustrations/food/apfel.png"
+  ]
+}

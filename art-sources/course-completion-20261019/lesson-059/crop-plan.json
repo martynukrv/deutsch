@@ -1,0 +1,115 @@
+{
+  "lesson": 59,
+  "cols": 3,
+  "rows": 2,
+  "originalSha256": "d34923c33e4c7d0cde33caf0ccb3ae79aebdf4148f12ff50334e262b71e23df5",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-fe263a20453a421e",
+      "de": "deshalb",
+      "ua": "тому / через це",
+      "scene": "Small rain cloud followed by orange arrow leading to a child holding an umbrella: therefore",
+      "cell": [
+        0,
+        0,
+        536,
+        534
+      ],
+      "alphaCropInCell": [
+        38,
+        63,
+        509,
+        505
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_fe263a20453a421e.png",
+      "sha256": "f0049edcfa6ee52eafcf5ade05a30c527e592169398204629a2ce09ecf4d59b8"
+    },
+    {
+      "id": "course-lexeme-ae96d46fc00a6ab8",
+      "de": "darum",
+      "ua": "тому",
+      "scene": "Child taking an umbrella as the consequence of visible rain, simple cause-result arrow",
+      "cell": [
+        536,
+        0,
+        1038,
+        534
+      ],
+      "alphaCropInCell": [
+        28,
+        71,
+        465,
+        511
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_ae96d46fc00a6ab8.png",
+      "sha256": "35141d5aad15b47dcd4fe819574147e7a7d61e047771e19d283b074ac1a3886c"
+    },
+    {
+      "id": "course-lexeme-cc492023d5ddbd34",
+      "de": "regnen",
+      "ua": "дощити",
+      "scene": "Small cream cloud with several navy outlined cream rain drops and orange accent dashes",
+      "cell": [
+        1038,
+        0,
+        1536,
+        534
+      ],
+      "alphaCropInCell": [
+        38,
+        113,
+        455,
+        483
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_cc492023d5ddbd34.png",
+      "sha256": "0f7269578ef377c2f877849da16f57ec14c4728e6c7cb23655b38ab3931d2b91"
+    },
+    {
+      "id": "course-lexeme-b199ecdeb983d9ba",
+      "de": "noch",
+      "ua": "ще",
+      "scene": "Child adding one MORE small orange block to an unfinished stack, continuing",
+      "cell": [
+        0,
+        534,
+        515,
+        1024
+      ],
+      "alphaCropInCell": [
+        122,
+        29,
+        473,
+        427
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_b199ecdeb983d9ba.png",
+      "sha256": "01fa9c4803925c2b0a3aa8768dd514a6fb4d0944dc89df463366cd1fde2952a8"
+    },
+    {
+      "id": "course-lexeme-353922964fc00424",
+      "de": "froh",
+      "ua": "радий",
+      "scene": "Child smiling with open joyful arms and a small orange sun",
+      "cell": [
+        515,
+        534,
+        1536,
+        1024
+      ],
+      "alphaCropInCell": [
+        43,
+        23,
+        464,
+        446
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_353922964fc00424.png",
+      "sha256": "485d7835f979a147bea300cfcc30befdf06dcd3d8d161de2d148fba676e79fe4"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "lesson": 72,
+  "cols": 3,
+  "rows": 2,
+  "originalSha256": "c21f0fe161d607685fed06ab2c5bd0818dc019f51cce68eefb8a8105d0407540",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-1f24e4d027af4b80",
+      "de": "das Hemd",
+      "ua": "сорочка",
+      "scene": "One simple cream button-up shirt with orange collar and navy outlines",
+      "cell": [
+        0,
+        0,
+        529,
+        561
+      ],
+      "alphaCropInCell": [
+        60,
+        144,
+        490,
+        463
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_1f24e4d027af4b80.png",
+      "sha256": "dcd9caae713a1bd5aeb63d10e972731103f2423c454ebd06b5b70eca9a2ca36d"
+    },
+    {
+      "id": "course-lexeme-d8a7e73cc1549d81",
+      "de": "die Größe",
+      "ua": "розмір",
+      "scene": "Orange measuring tape wrapped around a simple cream shirt, size",
+      "cell": [
+        529,
+        0,
+        996,
+        561
+      ],
+      "alphaCropInCell": [
+        39,
+        140,
+        433,
+        472
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_d8a7e73cc1549d81.png",
+      "sha256": "39ea37b2b4f0cf52ed59b9755904411a0a0e417f6719c94a8baa4efb4674b861"
+    },
+    {
+      "id": "course-lexeme-973b84754c0500d9",
+      "de": "anprobieren",
+      "ua": "приміряти",
+      "scene": "Child trying on an orange jacket in front of a small mirror",
+      "cell": [
+        996,
+        0,
+        1536,
+        561
+      ],
+      "alphaCropInCell": [
+        35,
+        70,
+        500,
+        523
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_973b84754c0500d9.png",
+      "sha256": "509075b0f1f769899191f4c06a30de7fbcdc495ec01c21cfb44ed86fd811889f"
+    },
+    {
+      "id": "course-lexeme-457b9b860e6dfe3f",
+      "de": "teuer",
+      "ua": "дорогий",
+      "scene": "Simple toy with a price tag and a LARGE stack of orange coins, expensive",
+      "cell": [
+        0,
+        561,
+        543,
+        1024
+      ],
+      "alphaCropInCell": [
+        58,
+        39,
+        519,
+        370
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_457b9b860e6dfe3f.png",
+      "sha256": "58a3a496587520b02b124221c7a13639455e33a16d2c10f6ab28799a3b41eb6f"
+    },
+    {
+      "id": "course-lexeme-e1003b940d4e8a04",
+      "de": "billig",
+      "ua": "дешевий",
+      "scene": "Same simple toy with a price tag and only ONE orange coin, cheap",
+      "cell": [
+        543,
+        561,
+        1536,
+        1024
+      ],
+      "alphaCropInCell": [
+        24,
+        50,
+        441,
+        360
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_e1003b940d4e8a04.png",
+      "sha256": "4f63ca1c10488f0cb24cca25953d20b7000b5a930ec881247168beb8f9ea585a"
+    }
+  ]
+}

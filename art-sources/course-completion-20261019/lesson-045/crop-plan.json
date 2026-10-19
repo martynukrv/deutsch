@@ -1,0 +1,73 @@
+{
+  "lesson": 45,
+  "cols": 3,
+  "rows": 1,
+  "originalSha256": "d6babda2ba52ea48fcb14557e550ad92455c331b0d9cf90374a910fa9ba7644e",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-b208e662f6f03d87",
+      "de": "sich treffen",
+      "ua": "зустрічатися",
+      "scene": "Two happy children meeting and greeting each other with raised hands",
+      "cell": [
+        0,
+        0,
+        766,
+        724
+      ],
+      "alphaCropInCell": [
+        33,
+        142,
+        712,
+        667
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_b208e662f6f03d87.png",
+      "sha256": "c4f1bdb598ebefa8a4f552f2675534e321b8b1f0b25826fc7680d3fe88db0d3e"
+    },
+    {
+      "id": "course-lexeme-360a0865af50eacc",
+      "de": "sich freuen",
+      "ua": "радіти",
+      "scene": "Child jumping joyfully with a happy expressive face and small orange heart",
+      "cell": [
+        766,
+        0,
+        1462,
+        724
+      ],
+      "alphaCropInCell": [
+        55,
+        90,
+        578,
+        659
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_360a0865af50eacc.png",
+      "sha256": "58ccd78149e46a97ecc3c802878ceb43d2226fa99cfb84086311ee105bb18a3f"
+    },
+    {
+      "id": "course-lexeme-d2caffe2e6c3bd8d",
+      "de": "sich waschen",
+      "ua": "митися",
+      "scene": "Child washing their own hands at a simple basin with cream navy outlined water drops",
+      "cell": [
+        1462,
+        0,
+        2172,
+        724
+      ],
+      "alphaCropInCell": [
+        119,
+        87,
+        610,
+        681
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_d2caffe2e6c3bd8d.png",
+      "sha256": "bfbf00c791d5009438abb50deac4bd9f000c367f2b4b0bcb43f17a25cae79419"
+    }
+  ]
+}

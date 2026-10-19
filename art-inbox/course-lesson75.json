@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "der Unterricht",
+      "ua": "урок / заняття",
+      "file": "course_b991cb1f3b350671.png"
+    },
+    {
+      "de": "die Arbeit",
+      "ua": "робота",
+      "file": "course_96c53f8bf13e4481.png"
+    },
+    {
+      "de": "die Pause",
+      "ua": "перерва",
+      "file": "course_dd851ded4f8a92e7.png"
+    },
+    {
+      "de": "anfangen",
+      "ua": "починатися",
+      "file": "course_714fd775c97e0f47.png"
+    },
+    {
+      "de": "die Hausaufgaben",
+      "ua": "домашнє завдання",
+      "file": "course_85ac48dca4d63321.png"
+    }
+  ]
+}

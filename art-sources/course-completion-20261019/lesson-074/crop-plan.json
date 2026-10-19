@@ -1,0 +1,136 @@
+{
+  "lesson": 74,
+  "cols": 3,
+  "rows": 2,
+  "originalSha256": "8d215b692704b221952113b38b2f6ddc7c1335c62dd2a6ccbce2eea4631913a4",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-9156e88459246130",
+      "de": "die Heizung",
+      "ua": "опалення",
+      "scene": "One chunky cream radiator with orange top and simple navy steam dashes",
+      "cell": [
+        0,
+        0,
+        531,
+        478
+      ],
+      "alphaCropInCell": [
+        47,
+        64,
+        500,
+        443
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_9156e88459246130.png",
+      "sha256": "90e1fec98133d17154c8b8d879ff7b890147f9bd856129344dc1d8683079531a"
+    },
+    {
+      "id": "course-lexeme-00c81671d92ca255",
+      "de": "kaputt",
+      "ua": "несправний",
+      "scene": "One broken toy car with detached wheel beside it",
+      "cell": [
+        531,
+        0,
+        1027,
+        478
+      ],
+      "alphaCropInCell": [
+        31,
+        170,
+        440,
+        455
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_00c81671d92ca255.png",
+      "sha256": "1cc659b57d338e6469bdfcbc4cc2e020b70c709dd6245c296f38cdc7910ef1bf"
+    },
+    {
+      "id": "course-lexeme-a819acb6613c29f9",
+      "de": "funktionieren",
+      "ua": "функціонувати",
+      "scene": "Simple toy car with all wheels attached and an orange check mark, functioning",
+      "cell": [
+        1027,
+        0,
+        1536,
+        478
+      ],
+      "alphaCropInCell": [
+        57,
+        94,
+        447,
+        453
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_a819acb6613c29f9.png",
+      "sha256": "3307f6f6d4fa0d1686b6c128622765dc26252abd11bb719bd09e2aa2f9d086d9"
+    },
+    {
+      "id": "course-lexeme-aa85039ae26c6373",
+      "de": "aufräumen",
+      "ua": "прибирати",
+      "scene": "Child putting scattered toys into an orange storage box, tidying",
+      "cell": [
+        0,
+        478,
+        534,
+        1024
+      ],
+      "alphaCropInCell": [
+        53,
+        34,
+        488,
+        491
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_aa85039ae26c6373.png",
+      "sha256": "db825c745399a273ebe2b3b5af10d917172bb9e9a2090f064524458675a2af21"
+    },
+    {
+      "id": "course-lexeme-c4b5284ffa972047",
+      "de": "reparieren",
+      "ua": "ремонтувати",
+      "scene": "Child carefully repairing a toy with an orange wrench",
+      "cell": [
+        534,
+        478,
+        1001,
+        1024
+      ],
+      "alphaCropInCell": [
+        46,
+        30,
+        414,
+        494
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_c4b5284ffa972047.png",
+      "sha256": "1de9f3a63d582e1b212d6c3e015b6d67fe736abc1cc4230cf70eebf6feb86a78"
+    },
+    {
+      "id": "course-lexeme-abc331d0f296e006",
+      "de": "putzen",
+      "ua": "прибирати / чистити",
+      "scene": "Child wiping a simple table with an orange cloth, cleaning",
+      "cell": [
+        1001,
+        478,
+        1536,
+        1024
+      ],
+      "alphaCropInCell": [
+        53,
+        23,
+        500,
+        501
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_abc331d0f296e006.png",
+      "sha256": "45b6e4a6ac874754e0f9c202fc80a655b9c57a7d175012d7b689b245150a4acc"
+    }
+  ]
+}

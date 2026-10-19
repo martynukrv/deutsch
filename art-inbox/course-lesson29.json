@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "langsam",
+      "ua": "повільно",
+      "file": "course_ae320810bed8e2f9.png"
+    },
+    {
+      "de": "leise",
+      "ua": "тихо",
+      "file": "course_d37802788ef3d0c6.png"
+    }
+  ]
+}

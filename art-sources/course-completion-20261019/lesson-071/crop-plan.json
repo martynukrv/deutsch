@@ -1,0 +1,178 @@
+{
+  "lesson": 71,
+  "cols": 3,
+  "rows": 3,
+  "originalSha256": "63577ab57bed8d10bf676bca284871fef818b8481ad7884c3607e25a18b08d13",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-71b43eb586537391",
+      "de": "der Vorname",
+      "ua": "ім’я",
+      "scene": "Child pointing to FIRST line on a blank cream name badge, highlighted orange, no letters",
+      "cell": [
+        0,
+        0,
+        406,
+        428
+      ],
+      "alphaCropInCell": [
+        30,
+        63,
+        390,
+        411
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_71b43eb586537391.png",
+      "sha256": "c668c38fd5eb8942cebd5731b65cfaeedfd56db6b2c438b2d8cbd9d35e764dac"
+    },
+    {
+      "id": "course-lexeme-d8c7cfd215aa466f",
+      "de": "der Nachname",
+      "ua": "прізвище",
+      "scene": "Child pointing to SECOND line on a blank cream name badge, highlighted orange, no letters",
+      "cell": [
+        406,
+        0,
+        819,
+        428
+      ],
+      "alphaCropInCell": [
+        16,
+        63,
+        402,
+        412
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_d8c7cfd215aa466f.png",
+      "sha256": "c31437eafc69aec2e01d93440ffb0cf863c725ea8babf38a415d4840f1201ea0"
+    },
+    {
+      "id": "course-lexeme-93422abcc2b8d3d5",
+      "de": "die Adresse",
+      "ua": "адреса",
+      "scene": "Small house beside a cream envelope with orange location pin",
+      "cell": [
+        819,
+        0,
+        1254,
+        428
+      ],
+      "alphaCropInCell": [
+        12,
+        129,
+        409,
+        415
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_93422abcc2b8d3d5.png",
+      "sha256": "8b548e168aba3523457ed0472ec274dc9ebc2cc305420a1887d5ebfa1d450cd2"
+    },
+    {
+      "id": "course-lexeme-ad787518763fa8a2",
+      "de": "die Telefonnummer",
+      "ua": "номер телефону",
+      "scene": "One orange telephone beside a cream number tile with simple digits 123",
+      "cell": [
+        0,
+        428,
+        431,
+        843
+      ],
+      "alphaCropInCell": [
+        27,
+        94,
+        421,
+        348
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_ad787518763fa8a2.png",
+      "sha256": "eb1b6026597baf5da3c9e63e51236440e83e90e71cf4c7050c1417a4f60592e9"
+    },
+    {
+      "id": "course-lexeme-2b3bec8594f1c80c",
+      "de": "buchstabieren",
+      "ua": "називати по літерах",
+      "scene": "Child speaking three separate clear letters A B C in three small connected speech bubbles",
+      "cell": [
+        431,
+        428,
+        844,
+        843
+      ],
+      "alphaCropInCell": [
+        10,
+        13,
+        394,
+        391
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_2b3bec8594f1c80c.png",
+      "sha256": "2eb0bf06e9db8a4126df13cf543a0d4a4e9edac36868d726ea2c43b973d75a01"
+    },
+    {
+      "id": "course-lexeme-06079490110f2eaa",
+      "de": "das Formular",
+      "ua": "формуляр",
+      "scene": "One simple cream application form on an orange clipboard with blank lines and checkboxes",
+      "cell": [
+        844,
+        428,
+        1254,
+        843
+      ],
+      "alphaCropInCell": [
+        20,
+        36,
+        378,
+        378
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_06079490110f2eaa.png",
+      "sha256": "ecc6762de3c8fffeb5d2586061057534c1608e5370d398dc082ca5f54e6cec0a"
+    },
+    {
+      "id": "course-lexeme-4365305c5012ceb9",
+      "de": "die Hausnummer",
+      "ua": "номер будинку",
+      "scene": "Small cream house with a large orange address plaque bearing clear number 12",
+      "cell": [
+        0,
+        843,
+        423,
+        1254
+      ],
+      "alphaCropInCell": [
+        31,
+        25,
+        403,
+        328
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_4365305c5012ceb9.png",
+      "sha256": "5fbb4ef24fbada0109756dbb32b0d684467e316d21523eb34d5dd29c306df718"
+    },
+    {
+      "id": "course-lexeme-f59914ebbe96e2e6",
+      "de": "ausfüllen",
+      "ua": "заповнювати",
+      "scene": "Hand filling a blank form with an orange pencil, no readable text",
+      "cell": [
+        423,
+        843,
+        1254,
+        1254
+      ],
+      "alphaCropInCell": [
+        20,
+        30,
+        422,
+        352
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_f59914ebbe96e2e6.png",
+      "sha256": "64d3b9cbd762e75856e8ff683059e2daf11553856a77f55b992482c383f06c69"
+    }
+  ]
+}

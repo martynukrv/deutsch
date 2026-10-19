@@ -1,0 +1,76 @@
+{
+  "lesson": 39,
+  "cols": 3,
+  "rows": 3,
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Asset type: ONE transparent vocabulary sprite sheet for German lesson 39, \"Де: місце\". EXACTLY 3 columns and 3 rows of EQUAL-size cells. Each illustration must stay inside its own cell's CENTRAL 60%, with very LARGE TRANSPARENT gutters around every cell, including the bottom row. No figures crossing cell borders, even in the last row. No shared elements. Unused cells stay fully transparent. Read cells left to right, top to bottom.\nSTYLE: match approved references: playful compact chibi cartoons, thick organic navy #102B50 contours, simple white #FFFFFF/cream #FFF1E5 surfaces and orange #FF5726 accents. ONLY these four colors, even skin/hair/plants/water. White/cream-haired children with navy facial features. Add short tapered navy/orange signature dashes beside EACH complete composition. Restrained large details for 110px display. Every pixel outside the hard clean silhouette shapes MUST have alpha=0, never partially transparent colored clouds. No bloom or semitransparent glow. No glow, haze, gradients, backdrop shadows, glossy emoji, 3D or realism. Transparent background between all shapes. No titles, printed vocabulary labels, cell numbers or borders. Only internal letters/digits explicitly requested in a scene may appear. Uniform cell centers and scales; all characters/objects fully visible.\nCELLS:\n1 [in, в / у]: Orange ball visibly INSIDE an open cream box.\n2 [auf, на (поверхні)]: Orange ball resting ON TOP of a small cream table.\n3 [unter, під]: Orange ball UNDER a small cream table.\n4 [neben, поруч із]: Orange ball BESIDE a small cream box.\n5 [die Wand, стіна]: Small cream wall of a few large blocks, thick navy edges.\n6 [stehen, стояти]: Child standing straight upright with both feet on ground.\n7 [liegen, лежати]: Child lying down comfortably on a simple cream mat.\n8 [laufen, бігати]: Child running with expressive orange motion dashes.\n9 [hängen, вішати / висіти]: One orange picture frame hanging from a hook on a small cream wall.\nGuide labels are NOT to be printed. Every cell contains ONLY its assigned complete scene.",
+  "words": [
+    {
+      "id": "course-lexeme-eaecc8ef185712d2",
+      "de": "in",
+      "ua": "в / у",
+      "scene": "Orange ball visibly INSIDE an open cream box",
+      "slot": 0
+    },
+    {
+      "id": "course-lexeme-fa71aac3c67db3c5",
+      "de": "auf",
+      "ua": "на (поверхні)",
+      "scene": "Orange ball resting ON TOP of a small cream table",
+      "slot": 1
+    },
+    {
+      "id": "course-lexeme-935ca190572f0fc7",
+      "de": "unter",
+      "ua": "під",
+      "scene": "Orange ball UNDER a small cream table",
+      "slot": 2
+    },
+    {
+      "id": "course-lexeme-3366117bb294d7e3",
+      "de": "neben",
+      "ua": "поруч із",
+      "scene": "Orange ball BESIDE a small cream box",
+      "slot": 3
+    },
+    {
+      "id": "course-lexeme-83251c723a90ce56",
+      "de": "die Wand",
+      "ua": "стіна",
+      "scene": "Small cream wall of a few large blocks, thick navy edges",
+      "slot": 4
+    },
+    {
+      "id": "course-lexeme-1ae8a47c590c26e6",
+      "de": "stehen",
+      "ua": "стояти",
+      "scene": "Child standing straight upright with both feet on ground",
+      "slot": 5
+    },
+    {
+      "id": "course-lexeme-72813e9d121b98d1",
+      "de": "liegen",
+      "ua": "лежати",
+      "scene": "Child lying down comfortably on a simple cream mat",
+      "slot": 6
+    },
+    {
+      "id": "course-lexeme-9d88f98846395e91",
+      "de": "laufen",
+      "ua": "бігати",
+      "scene": "Child running with expressive orange motion dashes",
+      "slot": 7
+    },
+    {
+      "id": "course-lexeme-d0299eec7de4fbfd",
+      "de": "hängen",
+      "ua": "вішати / висіти",
+      "scene": "One orange picture frame hanging from a hook on a small cream wall",
+      "slot": 8
+    }
+  ],
+  "references": [
+    "assets/illustrations/course/ready.png",
+    "assets/illustrations/food/apfel.png"
+  ]
+}

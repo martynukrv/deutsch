@@ -1,0 +1,73 @@
+{
+  "lesson": 40,
+  "cols": 3,
+  "rows": 1,
+  "originalSha256": "eb4ee6be24985b520e29c59ed4bf96988b9d54d93c4d43ff671af5c7b78577f4",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-cd51caa089455c1d",
+      "de": "stellen",
+      "ua": "ставити",
+      "scene": "Hand setting an orange bottle upright ON a simple table, short down arrow",
+      "cell": [
+        0,
+        0,
+        748,
+        724
+      ],
+      "alphaCropInCell": [
+        99,
+        61,
+        662,
+        664
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_cd51caa089455c1d.png",
+      "sha256": "991f8701fed3b63564d99b7f9577aa1803acceb8afd9664500140058aa349741"
+    },
+    {
+      "id": "course-lexeme-833ab2b32db7ac36",
+      "de": "legen",
+      "ua": "класти",
+      "scene": "Hand laying an orange book flat ON a simple table, short down arrow",
+      "cell": [
+        748,
+        0,
+        1452,
+        724
+      ],
+      "alphaCropInCell": [
+        87,
+        74,
+        629,
+        670
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_833ab2b32db7ac36.png",
+      "sha256": "589d8666e96dc5436e2f88a358c14619d9d9944195f07df991dd534a7ffc6d17"
+    },
+    {
+      "id": "course-lexeme-c8e490418e220323",
+      "de": "der Garten",
+      "ua": "сад",
+      "scene": "Small simple cream garden bed with orange flowers and a navy outlined tree, no green",
+      "cell": [
+        1452,
+        0,
+        2172,
+        724
+      ],
+      "alphaCropInCell": [
+        75,
+        98,
+        635,
+        652
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_c8e490418e220323.png",
+      "sha256": "c70f48f6e542b7dca4017827db1f3a0cab0f1d973415487e8214a894806f26f6"
+    }
+  ]
+}

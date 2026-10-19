@@ -1,0 +1,52 @@
+{
+  "lesson": 26,
+  "cols": 2,
+  "rows": 1,
+  "originalSha256": "2a3c90cdc8a86b38fbd64cd23ae4f8da6227776db9f83ee6e44f18e49751f578",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-5357fcd39f860fcd",
+      "de": "sollen",
+      "ua": "мати зробити / слід",
+      "scene": "Child following a helpful adults pointing finger toward a simple checklist: should",
+      "cell": [
+        0,
+        0,
+        887,
+        887
+      ],
+      "alphaCropInCell": [
+        122,
+        164,
+        869,
+        775
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_5357fcd39f860fcd.png",
+      "sha256": "efa0f7fab2a7b793f07d1c900f298e784fbebd128381c9eda458203df3f6d0fd"
+    },
+    {
+      "id": "course-lexeme-8a8a140399c42837",
+      "de": "warten",
+      "ua": "чекати",
+      "scene": "Child patiently sitting on a bench next to a clock: waiting",
+      "cell": [
+        887,
+        0,
+        1774,
+        887
+      ],
+      "alphaCropInCell": [
+        81,
+        176,
+        765,
+        760
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_8a8a140399c42837.png",
+      "sha256": "01f19bfcea9777df80ccce132bb305a0ef4bab08b7df5f36525c5b56ae0b9533"
+    }
+  ]
+}

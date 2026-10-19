@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "zeigen",
+      "ua": "показувати",
+      "file": "course_9746e8ba8ebb2010.png"
+    },
+    {
+      "de": "schenken",
+      "ua": "дарувати",
+      "file": "course_0efbeebf817e9fce.png"
+    },
+    {
+      "de": "das Geschenk",
+      "ua": "подарунок",
+      "file": "course_262870414c23075b.png"
+    },
+    {
+      "de": "der Ball",
+      "ua": "м’яч",
+      "file": "course_25b853700bceb636.png"
+    },
+    {
+      "de": "das Bild",
+      "ua": "картина / зображення",
+      "file": "course_8e1ce687a6dbead2.png"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "zu",
+      "ua": "до",
+      "file": "course_f7e659cbeece0133.png"
+    },
+    {
+      "de": "von",
+      "ua": "від",
+      "file": "course_ecd25fafe848b23c.png"
+    },
+    {
+      "de": "aus",
+      "ua": "з (походження)",
+      "file": "course_6028ea467a07fd8c.png"
+    },
+    {
+      "de": "bei",
+      "ua": "у / при",
+      "file": "course_4ae9495bf7b81e57.png"
+    },
+    {
+      "de": "nach",
+      "ua": "до (місто, країна без артикля)",
+      "file": "course_ae626abd30d1d1b9.png"
+    },
+    {
+      "de": "der Arzt",
+      "ua": "лікар",
+      "file": "course_7cba6b93504d1027.png"
+    }
+  ]
+}

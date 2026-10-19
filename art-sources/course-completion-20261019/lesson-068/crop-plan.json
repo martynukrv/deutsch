@@ -1,0 +1,73 @@
+{
+  "lesson": 68,
+  "cols": 3,
+  "rows": 1,
+  "originalSha256": "ae57398b1e72bd307b2a16981844e64b49729a85441c281fc5dfddaa4e4b2b62",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-e0209220a02b4b28",
+      "de": "mit einem guten Freund",
+      "ua": "з добрим другом",
+      "scene": "Two friendly children walking side by side together, small orange heart",
+      "cell": [
+        0,
+        0,
+        724,
+        724
+      ],
+      "alphaCropInCell": [
+        56,
+        99,
+        681,
+        652
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_e0209220a02b4b28.png",
+      "sha256": "d74bc4a147aec1803e69a3624d3ccac13c8c9516d7122cfdb410ab8f0c5c991f"
+    },
+    {
+      "id": "course-lexeme-b4ca7924dc987471",
+      "de": "bei meiner alten Schule",
+      "ua": "біля моєї старої школи",
+      "scene": "Child standing BESIDE an old friendly cream schoolhouse, short navy cracks convey old not ruined",
+      "cell": [
+        724,
+        0,
+        1437,
+        724
+      ],
+      "alphaCropInCell": [
+        44,
+        116,
+        676,
+        648
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_b4ca7924dc987471.png",
+      "sha256": "2f46b9573b5bdf550682688fc041869aa9ac0351c45cabeba9aade5a79f3fd34"
+    },
+    {
+      "id": "course-lexeme-262473192d19b935",
+      "de": "freundlich",
+      "ua": "привітний",
+      "scene": "One friendly child waving warmly to another with a smile",
+      "cell": [
+        1437,
+        0,
+        2172,
+        724
+      ],
+      "alphaCropInCell": [
+        37,
+        164,
+        704,
+        650
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_262473192d19b935.png",
+      "sha256": "11ebc2a1ad93ccb2518491214de4ed353b63eb70bbaf33be7ddff07828d3168c"
+    }
+  ]
+}

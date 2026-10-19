@@ -1,8 +1,8 @@
 {
   "version": 1,
   "total": 373,
-  "illustrated": 165,
-  "missing": 208,
+  "illustrated": 373,
+  "missing": 0,
   "lessons": [
     {
       "number": 1,
@@ -961,43 +961,71 @@
           "id": "course-lexeme-0b7f4e4186727cc3",
           "de": "mein",
           "ua": "мій",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_0b7f4e4186727cc3.png?v=79de1c473c33",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-0ddcbee2bb8498ff",
           "de": "dein",
           "ua": "твій",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_0ddcbee2bb8498ff.png?v=c5b2be328ae1",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-a439c2303a05c465",
           "de": "sein",
           "ua": "його (присвійне)",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_a439c2303a05c465.png?v=e4df5e1bdc85",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-d8d8206d1075de02",
           "de": "ihr",
           "ua": "її / їхній",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_d8d8206d1075de02.png?v=e91abaf16d3f",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-74b68c0133979b65",
           "de": "unser",
           "ua": "наш",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_74b68c0133979b65.png?v=c1564bf02822",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-bbd4b20f1ffdc0d3",
           "de": "euer",
           "ua": "ваш (кілька людей)",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_bbd4b20f1ffdc0d3.png?v=e96b286089c4",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-ee3722091a73234f",
           "de": "Ihr",
           "ua": "Ваш (ввічливо)",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_ee3722091a73234f.png?v=d0427cb74a57",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -1116,7 +1144,11 @@
           "id": "course-lexeme-c487816a5be16c92",
           "de": "suchen",
           "ua": "шукати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_c487816a5be16c92.png?v=7ae2647e4fb2",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-people-006",
@@ -1152,7 +1184,11 @@
           "id": "course-lexeme-8049eda005358d3d",
           "de": "es gibt",
           "ua": "є / існує",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_8049eda005358d3d.png?v=39a0b0121ecc",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -1166,37 +1202,61 @@
           "id": "course-lexeme-c487816a5be16c92",
           "de": "suchen",
           "ua": "шукати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_c487816a5be16c92.png?v=7ae2647e4fb2",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-7fc6c37c76f7c8f2",
           "de": "mich",
           "ua": "мене",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/pronouns/ich.png?v=21da3c280ad3",
+            "kind": "reused",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-62c70eaca29104ad",
           "de": "dich",
           "ua": "тебе",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/pronouns/du.png?v=ab019cf61858",
+            "kind": "reused",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-ad5fd8b05051cb68",
           "de": "ihn",
           "ua": "його (додаток)",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/pronouns/er.png?v=af8ad01dfe20",
+            "kind": "reused",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-c9d98e2219af8f02",
           "de": "uns",
           "ua": "нас",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/pronouns/wir.png?v=33afdf4f9dbe",
+            "kind": "reused",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-7f3072344e63698e",
           "de": "euch",
           "ua": "вас (кілька людей)",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/pronouns/ihr.png?v=f5c70e0e6fc7",
+            "kind": "reused",
+            "copies": 1
+          }
         },
         {
           "id": "word-verbs-025",
@@ -1298,25 +1358,41 @@
           "id": "course-lexeme-e4f74e14d16b1dcb",
           "de": "mögen",
           "ua": "любити / подобатися",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_e4f74e14d16b1dcb.png?v=f1d4a16e0eeb",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-480cc885ca0b24fb",
           "de": "gern",
           "ua": "охоче",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_480cc885ca0b24fb.png?v=1a4f6f48c679",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-2a9bbfb01dac4f3e",
           "de": "die Musik",
           "ua": "музика",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_2a9bbfb01dac4f3e.png?v=38b91f839afe",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-83f838d9aee12e9f",
           "de": "der Sport",
           "ua": "спорт",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_83f838d9aee12e9f.png?v=3c602665753b",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-animals-004",
@@ -1390,19 +1466,31 @@
           "id": "course-lexeme-c525891f01aa3b12",
           "de": "der Zucker",
           "ua": "цукор",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_c525891f01aa3b12.png?v=5afac62e7c3d",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-b04234e3217b517d",
           "de": "die Rechnung",
           "ua": "рахунок",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_b04234e3217b517d.png?v=0b0a72f5ebb9",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-7237c9fe86658cd6",
           "de": "das Café",
           "ua": "кафе",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_7237c9fe86658cd6.png?v=bdcb8c0e9d2c",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -1433,7 +1521,11 @@
           "id": "course-lexeme-b7baed75d9cf5417",
           "de": "schwimmen",
           "ua": "плавати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_b7baed75d9cf5417.png?v=a4bda49ef21b",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-verbs-038",
@@ -1497,7 +1589,11 @@
           "id": "course-lexeme-5357fcd39f860fcd",
           "de": "sollen",
           "ua": "мати зробити / слід",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_5357fcd39f860fcd.png?v=efa0f7fab2a7",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-verbs-021",
@@ -1513,7 +1609,11 @@
           "id": "course-lexeme-8a8a140399c42837",
           "de": "warten",
           "ua": "чекати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_8a8a140399c42837.png?v=01f19bfcea97",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -1537,7 +1637,11 @@
           "id": "course-lexeme-5cc68d619a5d016f",
           "de": "möchten",
           "ua": "хотіти б (ввічливо)",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_5cc68d619a5d016f.png?v=befa253e27a1",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-verbs-033",
@@ -1563,7 +1667,11 @@
           "id": "course-lexeme-21e34af987794719",
           "de": "reisen",
           "ua": "подорожувати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_21e34af987794719.png?v=a5d7479de511",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -1577,13 +1685,21 @@
           "id": "course-lexeme-0b7a7a48667409b1",
           "de": "dürfen",
           "ua": "мати дозвіл",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_0b7a7a48667409b1.png?v=586a142ced34",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-afcad6580fc8eff4",
           "de": "rauchen",
           "ua": "курити",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_afcad6580fc8eff4.png?v=9c7e124a1fed",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-verbs-035",
@@ -1677,13 +1793,21 @@
           "id": "course-lexeme-ae320810bed8e2f9",
           "de": "langsam",
           "ua": "повільно",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_ae320810bed8e2f9.png?v=cb2840258358",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-d37802788ef3d0c6",
           "de": "leise",
           "ua": "тихо",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_d37802788ef3d0c6.png?v=369e1fc4613e",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -1734,7 +1858,11 @@
           "id": "course-lexeme-67c3201d0c79772e",
           "de": "antworten",
           "ua": "відповідати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_67c3201d0c79772e.png?v=1fd813d50a00",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-verbs-030",
@@ -1798,27 +1926,39 @@
           "id": "course-lexeme-a2bd80ae21d30e7d",
           "de": "mir",
           "ua": "мені",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/pronouns/ich.png?v=21da3c280ad3",
+            "kind": "reused",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-9f385980e3dc62de",
           "de": "dir",
           "ua": "тобі",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/pronouns/du.png?v=ab019cf61858",
+            "kind": "reused",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-20a5449140fc1e76",
           "de": "ihm",
           "ua": "йому (Dativ)",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/pronouns/er.png?v=af8ad01dfe20",
+            "kind": "reused",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-08eb47aea2edcb22",
           "de": "ihr",
           "ua": "їй (Dativ)",
           "art": {
-            "src": "assets/illustrations/pronouns/ihr.png?v=f5c70e0e6fc7",
-            "kind": "existing",
+            "src": "assets/illustrations/pronouns/sie_she.png?v=9d0016e220fc",
+            "kind": "reused",
             "copies": 1
           }
         },
@@ -1826,25 +1966,41 @@
           "id": "course-lexeme-4ab71e057cbb60c7",
           "de": "ihnen",
           "ua": "їм",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/pronouns/sie_they.png?v=03392b54dff7",
+            "kind": "reused",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-2a4314ac7a13eb40",
           "de": "Ihnen",
           "ua": "Вам (ввічливо)",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/pronouns/Sie_formal.png?v=932fe702e00e",
+            "kind": "reused",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-01c56fa0c6c2c6c0",
           "de": "uns",
           "ua": "нам",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/pronouns/wir.png?v=33afdf4f9dbe",
+            "kind": "reused",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-8d365b958ad5e5b4",
           "de": "euch",
           "ua": "вам (кілька людей)",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/pronouns/ihr.png?v=f5c70e0e6fc7",
+            "kind": "reused",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -1868,31 +2024,51 @@
           "id": "course-lexeme-9746e8ba8ebb2010",
           "de": "zeigen",
           "ua": "показувати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_9746e8ba8ebb2010.png?v=3455eeaa3e72",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-0efbeebf817e9fce",
           "de": "schenken",
           "ua": "дарувати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_0efbeebf817e9fce.png?v=72df926ce83a",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-262870414c23075b",
           "de": "das Geschenk",
           "ua": "подарунок",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_262870414c23075b.png?v=a7517450dbe6",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-25b853700bceb636",
           "de": "der Ball",
           "ua": "м’яч",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_25b853700bceb636.png?v=e8033d5578f9",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-8e1ce687a6dbead2",
           "de": "das Bild",
           "ua": "картина / зображення",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_8e1ce687a6dbead2.png?v=809a60ce2309",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -1916,31 +2092,51 @@
           "id": "course-lexeme-f7e659cbeece0133",
           "de": "zu",
           "ua": "до",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_f7e659cbeece0133.png?v=30eab7469c2e",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-ecd25fafe848b23c",
           "de": "von",
           "ua": "від",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_ecd25fafe848b23c.png?v=9184ac9da398",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-6028ea467a07fd8c",
           "de": "aus",
           "ua": "з (походження)",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_6028ea467a07fd8c.png?v=61e9f721177f",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-4ae9495bf7b81e57",
           "de": "bei",
           "ua": "у / при",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_4ae9495bf7b81e57.png?v=15a9931061c5",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-ae626abd30d1d1b9",
           "de": "nach",
           "ua": "до (місто, країна без артикля)",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_ae626abd30d1d1b9.png?v=675c74e70f40",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-family-003",
@@ -1956,7 +2152,11 @@
           "id": "course-lexeme-7cba6b93504d1027",
           "de": "der Arzt",
           "ua": "лікар",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_7cba6b93504d1027.png?v=c361726cf98b",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-verbs-034",
@@ -1980,7 +2180,11 @@
           "id": "course-lexeme-d80f132e585b603b",
           "de": "für",
           "ua": "для",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_d80f132e585b603b.png?v=1928ce4cdd60",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-grammar-016",
@@ -1996,25 +2200,41 @@
           "id": "course-lexeme-1ee4b27807772bde",
           "de": "gegen",
           "ua": "проти / об",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_1ee4b27807772bde.png?v=e10191cc177d",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-21a4097855430785",
           "de": "durch",
           "ua": "через",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_21a4097855430785.png?v=128f4756533f",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-5212d0b4f20f8620",
           "de": "um",
           "ua": "навколо / о (час)",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_5212d0b4f20f8620.png?v=07ba77db53fe",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-b6c121b222ea295b",
           "de": "die Tasche",
           "ua": "сумка",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_b6c121b222ea295b.png?v=b856e49699b5",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-family-004",
@@ -2095,31 +2315,51 @@
           "id": "course-lexeme-15c80fe449acf79b",
           "de": "tausend",
           "ua": "тисяча",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_15c80fe449acf79b.png?v=835edafb841e",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-c0ff8da75fa24004",
           "de": "kosten",
           "ua": "коштувати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_c0ff8da75fa24004.png?v=b0f764ee6bcc",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-f2a7b19847ea24e6",
           "de": "der Euro",
           "ua": "євро",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_f2a7b19847ea24e6.png?v=4fc266537983",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-570fd431597c4cf8",
           "de": "der Cent",
           "ua": "цент",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_570fd431597c4cf8.png?v=1edb96910ee5",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-d183ab4cd795c4b8",
           "de": "der Mensch",
           "ua": "людина",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_d183ab4cd795c4b8.png?v=c8e793efafa2",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -2133,13 +2373,21 @@
           "id": "course-lexeme-c38db6bd267f913a",
           "de": "die Uhr",
           "ua": "година / годинник",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_c38db6bd267f913a.png?v=6fceebf0187b",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-b6aea37c0f8aaa04",
           "de": "halb",
           "ua": "половина до наступної години",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_b6aea37c0f8aaa04.png?v=1f6fa0063aad",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-bd302c790d41ab22",
@@ -2155,19 +2403,31 @@
           "id": "course-lexeme-d7b05bc0de22b279",
           "de": "der Mai",
           "ua": "травень",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_d7b05bc0de22b279.png?v=b4e5d1155948",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-7e08bfa51d21db70",
           "de": "der Geburtstag",
           "ua": "день народження",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_7e08bfa51d21db70.png?v=cf3189023d6e",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-28c07535619e7b79",
           "de": "der Termin",
           "ua": "запланована зустріч",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_28c07535619e7b79.png?v=80bcf12d61bd",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -2191,55 +2451,91 @@
           "id": "course-lexeme-eaecc8ef185712d2",
           "de": "in",
           "ua": "в / у",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_eaecc8ef185712d2.png?v=cf6204c06115",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-fa71aac3c67db3c5",
           "de": "auf",
           "ua": "на (поверхні)",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_fa71aac3c67db3c5.png?v=5a8b228f0b46",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-935ca190572f0fc7",
           "de": "unter",
           "ua": "під",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_935ca190572f0fc7.png?v=5f2441ec4642",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-3366117bb294d7e3",
           "de": "neben",
           "ua": "поруч із",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_3366117bb294d7e3.png?v=005c8befe08b",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-83251c723a90ce56",
           "de": "die Wand",
           "ua": "стіна",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_83251c723a90ce56.png?v=a550f4310671",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-1ae8a47c590c26e6",
           "de": "stehen",
           "ua": "стояти",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_1ae8a47c590c26e6.png?v=9a7ebab66a0d",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-72813e9d121b98d1",
           "de": "liegen",
           "ua": "лежати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_72813e9d121b98d1.png?v=3d1ec0411bbb",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-9d88f98846395e91",
           "de": "laufen",
           "ua": "бігати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_9d88f98846395e91.png?v=6d27af6b59e3",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-d0299eec7de4fbfd",
           "de": "hängen",
           "ua": "вішати / висіти",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_d0299eec7de4fbfd.png?v=cca0321567d4",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -2253,25 +2549,41 @@
           "id": "course-lexeme-83251c723a90ce56",
           "de": "die Wand",
           "ua": "стіна",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_83251c723a90ce56.png?v=a550f4310671",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-d0299eec7de4fbfd",
           "de": "hängen",
           "ua": "вішати / висіти",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_d0299eec7de4fbfd.png?v=cca0321567d4",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-cd51caa089455c1d",
           "de": "stellen",
           "ua": "ставити",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_cd51caa089455c1d.png?v=991f8701fed3",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-833ab2b32db7ac36",
           "de": "legen",
           "ua": "класти",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_833ab2b32db7ac36.png?v=589d8666e96d",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-home-003",
@@ -2287,7 +2599,11 @@
           "id": "course-lexeme-c8e490418e220323",
           "de": "der Garten",
           "ua": "сад",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_c8e490418e220323.png?v=c70f48f6e542",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -2301,43 +2617,71 @@
           "id": "course-lexeme-ea446504d732bcba",
           "de": "links",
           "ua": "ліворуч",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_ea446504d732bcba.png?v=e77ab44e8623",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-4d73b34b6719fc0c",
           "de": "rechts",
           "ua": "праворуч",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_4d73b34b6719fc0c.png?v=18a8e9425818",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-b8892cf1fb086b42",
           "de": "geradeaus",
           "ua": "прямо",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_b8892cf1fb086b42.png?v=63d896b14ba6",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-8bd574f60c07f667",
           "de": "der Norden",
           "ua": "північ",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_8bd574f60c07f667.png?v=a0aa7ba1003f",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-f9c24cf018252883",
           "de": "der Süden",
           "ua": "південь",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_f9c24cf018252883.png?v=883121ebb396",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-80557a4bc43bd484",
           "de": "der Osten",
           "ua": "схід",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_80557a4bc43bd484.png?v=97cd5d34bc7b",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-dd607a971187fae9",
           "de": "der Westen",
           "ua": "захід",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_dd607a971187fae9.png?v=03a66471c48f",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-places-004",
@@ -2368,37 +2712,61 @@
           "id": "course-lexeme-0d65a58c743ade97",
           "de": "aufstehen",
           "ua": "вставати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_0d65a58c743ade97.png?v=2414e95d56ac",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-c434610e38c8a3ef",
           "de": "anrufen",
           "ua": "телефонувати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_c434610e38c8a3ef.png?v=7572e7881a19",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-b01dd3f2f60188e4",
           "de": "einkaufen",
           "ua": "робити покупки",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_b01dd3f2f60188e4.png?v=d7bc1a86170f",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-3abffccaa6e35ca0",
           "de": "aufmachen",
           "ua": "відчиняти",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_3abffccaa6e35ca0.png?v=648956155c41",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-16b4ff651c34b52a",
           "de": "mitkommen",
           "ua": "йти разом",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_16b4ff651c34b52a.png?v=5a379be731b3",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-cc0c15ebe426087f",
           "de": "zurückkommen",
           "ua": "повертатися",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_cc0c15ebe426087f.png?v=78685fc2ee86",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -2412,43 +2780,71 @@
           "id": "course-lexeme-da56adf03ee72438",
           "de": "verstehen",
           "ua": "розуміти",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_da56adf03ee72438.png?v=e2af37f51be3",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-de038420ed292e91",
           "de": "besuchen",
           "ua": "відвідувати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_de038420ed292e91.png?v=d7dab849d5ea",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-3856c49615db204e",
           "de": "erklären",
           "ua": "пояснювати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_3856c49615db204e.png?v=3ab08b59865a",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-8aa76e8b6bf5c558",
           "de": "bezahlen",
           "ua": "оплачувати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_8aa76e8b6bf5c558.png?v=d25ffae618c8",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-5c1b3e9df70cd6bb",
           "de": "telefonieren",
           "ua": "розмовляти телефоном",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_5c1b3e9df70cd6bb.png?v=0071017bb7be",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-9df1a49a6c43ca48",
           "de": "studieren",
           "ua": "навчатися у виші",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_9df1a49a6c43ca48.png?v=2603641c4cab",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-722f7e3997de1415",
           "de": "das Wort",
           "ua": "слово",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_722f7e3997de1415.png?v=b259b8efd442",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -2462,19 +2858,31 @@
           "id": "course-lexeme-b208e662f6f03d87",
           "de": "sich treffen",
           "ua": "зустрічатися",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_b208e662f6f03d87.png?v=c4f1bdb598eb",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-360a0865af50eacc",
           "de": "sich freuen",
           "ua": "радіти",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_360a0865af50eacc.png?v=58ccd78149e4",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-d2caffe2e6c3bd8d",
           "de": "sich waschen",
           "ua": "митися",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_d2caffe2e6c3bd8d.png?v=bfbf00c791d5",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-body-002",
@@ -2518,25 +2926,41 @@
           "id": "course-lexeme-83e0ecb1f0f1e386",
           "de": "oft",
           "ua": "часто",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_83e0ecb1f0f1e386.png?v=b4753db2374a",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-97d9b4a8530f699b",
           "de": "manchmal",
           "ua": "іноді",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_97d9b4a8530f699b.png?v=df2296b17208",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-b62e83c726dbe6a2",
           "de": "selten",
           "ua": "рідко",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_b62e83c726dbe6a2.png?v=d3bef37d516e",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-07b04d13ca361874",
           "de": "nie",
           "ua": "ніколи",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_07b04d13ca361874.png?v=3637ec831eb1",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-764f6db2ecdfc12b",
@@ -2562,13 +2986,21 @@
           "id": "course-lexeme-dd8b5df750f35767",
           "de": "zuerst",
           "ua": "спочатку",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_dd8b5df750f35767.png?v=972bbc91067c",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-9c640f73a99bc116",
           "de": "danach",
           "ua": "після цього",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_9c640f73a99bc116.png?v=c70215f8cd89",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -2592,25 +3024,41 @@
           "id": "course-lexeme-b208e662f6f03d87",
           "de": "sich treffen",
           "ua": "зустрічатися",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_b208e662f6f03d87.png?v=c4f1bdb598eb",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-ec257f628221479b",
           "de": "passen",
           "ua": "підходити",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_ec257f628221479b.png?v=6ee39ba14edb",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-98d9cc053d91faec",
           "de": "leider",
           "ua": "на жаль",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_98d9cc053d91faec.png?v=15d775e9db2e",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-6924d6a767c0f6ec",
           "de": "gern",
           "ua": "залюбки",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_480cc885ca0b24fb.png?v=1a4f6f48c679",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-532548ef72e85826",
@@ -2769,7 +3217,11 @@
           "id": "course-lexeme-8d9c883c60fee1bd",
           "de": "die Nachricht",
           "ua": "повідомлення",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_8d9c883c60fee1bd.png?v=a745dad229fb",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -2841,37 +3293,61 @@
           "id": "course-lexeme-0d65a58c743ade97",
           "de": "aufstehen",
           "ua": "вставати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_0d65a58c743ade97.png?v=2414e95d56ac",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-c434610e38c8a3ef",
           "de": "anrufen",
           "ua": "телефонувати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_c434610e38c8a3ef.png?v=7572e7881a19",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-b01dd3f2f60188e4",
           "de": "einkaufen",
           "ua": "робити покупки",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_b01dd3f2f60188e4.png?v=d7bc1a86170f",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-da56adf03ee72438",
           "de": "verstehen",
           "ua": "розуміти",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_da56adf03ee72438.png?v=e2af37f51be3",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-de038420ed292e91",
           "de": "besuchen",
           "ua": "відвідувати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_de038420ed292e91.png?v=d7dab849d5ea",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-674b68e4394f6fee",
           "de": "telefonieren",
           "ua": "телефонувати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_5c1b3e9df70cd6bb.png?v=0071017bb7be",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -2885,19 +3361,31 @@
           "id": "course-lexeme-b208e662f6f03d87",
           "de": "sich treffen",
           "ua": "зустрічатися",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_b208e662f6f03d87.png?v=c4f1bdb598eb",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-360a0865af50eacc",
           "de": "sich freuen",
           "ua": "радіти",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_360a0865af50eacc.png?v=58ccd78149e4",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-d2caffe2e6c3bd8d",
           "de": "sich waschen",
           "ua": "митися",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_d2caffe2e6c3bd8d.png?v=bfbf00c791d5",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-f3da6065748d5e50",
@@ -2931,19 +3419,31 @@
           "id": "course-lexeme-b20c5d201024deeb",
           "de": "war",
           "ua": "був / була",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_b20c5d201024deeb.png?v=75d9128b4aa0",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-95c0867071b4d52c",
           "de": "hatte",
           "ua": "мав / мала",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_95c0867071b4d52c.png?v=785b59edd13b",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-2ea24cbdaf6e301f",
           "de": "krank",
           "ua": "хворий / хвора",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_2ea24cbdaf6e301f.png?v=1139c7a200d6",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-fb5fcae2fefadb78",
@@ -2959,7 +3459,11 @@
           "id": "course-lexeme-3c7f98d813c0fe5a",
           "de": "früher",
           "ua": "раніше",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_3c7f98d813c0fe5a.png?v=0ba07c9fa5d4",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -2990,7 +3494,11 @@
           "id": "course-lexeme-0b7a7a48667409b1",
           "de": "dürfen",
           "ua": "мати дозвіл",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_0b7a7a48667409b1.png?v=586a142ced34",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-people-001",
@@ -3006,19 +3514,31 @@
           "id": "course-lexeme-8aa76e8b6bf5c558",
           "de": "bezahlen",
           "ua": "оплачувати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_8aa76e8b6bf5c558.png?v=d25ffae618c8",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-a3590b436deeba7a",
           "de": "man",
           "ua": "неозначено-особовий займенник",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_a3590b436deeba7a.png?v=32b6bfbdb9f7",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-b416201e4d9ee3b0",
           "de": "die Karte",
           "ua": "картка",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_b416201e4d9ee3b0.png?v=768a6fbc23ba",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -3072,25 +3592,41 @@
           "id": "course-lexeme-c2b8c27ca0ea527d",
           "de": "denn",
           "ua": "адже / бо",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_c2b8c27ca0ea527d.png?v=53978bc2cdfc",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-8ff64ddec51c52d3",
           "de": "kochen",
           "ua": "готувати їжу",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_8ff64ddec51c52d3.png?v=296e4d03a41d",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-63ab50f3b1230006",
           "de": "wenig",
           "ua": "мало",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_63ab50f3b1230006.png?v=a9037daaaf58",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-7c4bbf3d39d19726",
           "de": "spät",
           "ua": "пізно",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_7c4bbf3d39d19726.png?v=7ea3c9258285",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -3104,13 +3640,21 @@
           "id": "course-lexeme-7c4bbf3d39d19726",
           "de": "spät",
           "ua": "пізно",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_7c4bbf3d39d19726.png?v=7ea3c9258285",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-0d47a455e04ee9d5",
           "de": "dass",
           "ua": "що (сполучник)",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_0d47a455e04ee9d5.png?v=eafa71ae0323",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-35ebc6fbaf2a36a4",
@@ -3126,13 +3670,21 @@
           "id": "course-lexeme-038b891891597e40",
           "de": "denken",
           "ua": "думати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_038b891891597e40.png?v=053e61a3736a",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-55be9cce4d825d23",
           "de": "glauben",
           "ua": "вважати / вірити",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_55be9cce4d825d23.png?v=d73165af5939",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-verbs-002",
@@ -3166,7 +3718,11 @@
           "id": "course-lexeme-2ea24cbdaf6e301f",
           "de": "krank",
           "ua": "хворий / хвора",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_2ea24cbdaf6e301f.png?v=1139c7a200d6",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-grammar-014",
@@ -3182,31 +3738,51 @@
           "id": "course-lexeme-fe263a20453a421e",
           "de": "deshalb",
           "ua": "тому / через це",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_fe263a20453a421e.png?v=f0049edcfa6e",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-ae96d46fc00a6ab8",
           "de": "darum",
           "ua": "тому",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_ae96d46fc00a6ab8.png?v=35141d5aad15",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-cc492023d5ddbd34",
           "de": "regnen",
           "ua": "дощити",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_cc492023d5ddbd34.png?v=0f7269578ef3",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-b199ecdeb983d9ba",
           "de": "noch",
           "ua": "ще",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_b199ecdeb983d9ba.png?v=01fa9c480392",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-353922964fc00424",
           "de": "froh",
           "ua": "радий",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_353922964fc00424.png?v=485d7835f979",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -3220,37 +3796,61 @@
           "id": "course-lexeme-7c4bbf3d39d19726",
           "de": "spät",
           "ua": "пізно",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_7c4bbf3d39d19726.png?v=7ea3c9258285",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-cc492023d5ddbd34",
           "de": "regnen",
           "ua": "дощити",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_cc492023d5ddbd34.png?v=0f7269578ef3",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-482fb10cc2efd420",
           "de": "wenn",
           "ua": "якщо / коли (умова, повторення)",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_482fb10cc2efd420.png?v=f3fdd850cfbb",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-faacd4005ab76bb4",
           "de": "frei",
           "ua": "вільний",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_faacd4005ab76bb4.png?v=408e23f1c59c",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-c1766166c4eaeb90",
           "de": "früh",
           "ua": "рано",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_c1766166c4eaeb90.png?v=029ea2233ba2",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-0d42dba4ecf0f474",
           "de": "zusammen",
           "ua": "разом",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_0d42dba4ecf0f474.png?v=0defb117d979",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -3264,37 +3864,61 @@
           "id": "course-lexeme-092bfb6d1d83685a",
           "de": "versuchen",
           "ua": "намагатися",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_092bfb6d1d83685a.png?v=ce35c8a7f645",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-5bc15582bbe8e266",
           "de": "vergessen",
           "ua": "забувати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_5bc15582bbe8e266.png?v=69c6a8266d26",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-f51c6969a170b9f7",
           "de": "beginnen",
           "ua": "починати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_f51c6969a170b9f7.png?v=0f5d7e25ae18",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-011db95127558869",
           "de": "hoffen",
           "ua": "сподіватися",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_011db95127558869.png?v=c2f2a28148b3",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-8f7b29ebbf17a032",
           "de": "wichtig",
           "ua": "важливий",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_8f7b29ebbf17a032.png?v=658213fe389d",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-1ee95a9408a6811a",
           "de": "Zeit haben",
           "ua": "мати час",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_1ee95a9408a6811a.png?v=b52f2505b6f0",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -3315,25 +3939,41 @@
           "id": "course-lexeme-489a111d4c5d440e",
           "de": "interessant",
           "ua": "цікавий",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_489a111d4c5d440e.png?v=7fabb507d180",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-bc4096043af009e7",
           "de": "langweilig",
           "ua": "нудний",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_bc4096043af009e7.png?v=0c84bb694d8b",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-f9ca9c3559396692",
           "de": "warm",
           "ua": "теплий",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_f9ca9c3559396692.png?v=592019cdb3f6",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-ede47028b329ac9e",
           "de": "kalt",
           "ua": "холодний",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_ede47028b329ac9e.png?v=e117421c6f39",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-people-016",
@@ -3349,7 +3989,11 @@
           "id": "course-lexeme-888d64ec78a8f01c",
           "de": "traurig",
           "ua": "сумний",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_888d64ec78a8f01c.png?v=c74055bc6fd7",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-colors-001",
@@ -3375,7 +4019,11 @@
           "id": "course-lexeme-5e4fd7e517f21667",
           "de": "der Film",
           "ua": "фільм",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_5e4fd7e517f21667.png?v=82f6c157d9c7",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-places-006",
@@ -3399,49 +4047,81 @@
           "id": "course-lexeme-cc906841996c2cd2",
           "de": "schnell",
           "ua": "швидкий",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_cc906841996c2cd2.png?v=81b70e11cc98",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-40ae99a2e7df9d21",
           "de": "langsam",
           "ua": "повільний",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_ae320810bed8e2f9.png?v=cb2840258358",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-ae18d3c9424eb8b4",
           "de": "größer",
           "ua": "більший",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_ae18d3c9424eb8b4.png?v=11fbcd9d8a7d",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-c6f3aa416b7eeb03",
           "de": "kleiner",
           "ua": "менший",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_c6f3aa416b7eeb03.png?v=b14aa35b52b6",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-6bdcbaacb871d49b",
           "de": "besser",
           "ua": "кращий",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_6bdcbaacb871d49b.png?v=5086fa47c6b1",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-3593cd6c26b24848",
           "de": "mehr",
           "ua": "більше",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_3593cd6c26b24848.png?v=aaa2b85d3a6e",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-b044b89a1a59b8f4",
           "de": "als",
           "ua": "ніж",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_b044b89a1a59b8f4.png?v=3a270dccc882",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-1e5e5ac00b02a7a6",
           "de": "so … wie",
           "ua": "так само … як",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_1e5e5ac00b02a7a6.png?v=fc42a079016f",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -3455,31 +4135,51 @@
           "id": "course-lexeme-617382b59df4cd6b",
           "de": "am besten",
           "ua": "найкраще",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_617382b59df4cd6b.png?v=e989783e2af1",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-3ce0f5fff4a4c13a",
           "de": "am liebsten",
           "ua": "найохочіше / найбільше любити",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_3ce0f5fff4a4c13a.png?v=0234e8cda70c",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-96538ed6f70c1507",
           "de": "am meisten",
           "ua": "найбільше",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_96538ed6f70c1507.png?v=c82b42810b63",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-f3d19043e9dbd491",
           "de": "am schnellsten",
           "ua": "найшвидше",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_f3d19043e9dbd491.png?v=0b2371b09741",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-1348cfe34b3c60e8",
           "de": "lieber",
           "ua": "охочіше",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_1348cfe34b3c60e8.png?v=b85ace4be075",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -3513,7 +4213,11 @@
           "id": "course-lexeme-489a111d4c5d440e",
           "de": "interessant",
           "ua": "цікавий",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_489a111d4c5d440e.png?v=7fabb507d180",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-d365658b2c11365a",
@@ -3549,7 +4253,11 @@
           "id": "course-lexeme-eb7ef939b5c001f8",
           "de": "die Geschichte",
           "ua": "історія",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_eb7ef939b5c001f8.png?v=195e127ede97",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -3583,25 +4291,41 @@
           "id": "course-lexeme-eb7ef939b5c001f8",
           "de": "die Geschichte",
           "ua": "історія",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_eb7ef939b5c001f8.png?v=195e127ede97",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-49211de5f5e437b1",
           "de": "ein guter Freund",
           "ua": "добрий друг",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_49211de5f5e437b1.png?v=153f0bf165c6",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-660e0d0220192fd6",
           "de": "eine kleine Katze",
           "ua": "маленька кішка",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_660e0d0220192fd6.png?v=d765f59b3ef5",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-43d3890f180561e6",
           "de": "ein neues Buch",
           "ua": "нова книжка",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_43d3890f180561e6.png?v=a62acffaa73a",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -3635,19 +4359,31 @@
           "id": "course-lexeme-e0209220a02b4b28",
           "de": "mit einem guten Freund",
           "ua": "з добрим другом",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_e0209220a02b4b28.png?v=d74bc4a147ae",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-b4ca7924dc987471",
           "de": "bei meiner alten Schule",
           "ua": "біля моєї старої школи",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_b4ca7924dc987471.png?v=2f46b9573b5b",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-262473192d19b935",
           "de": "freundlich",
           "ua": "привітний",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_262473192d19b935.png?v=11ebc2a1ad93",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -3661,13 +4397,21 @@
           "id": "course-lexeme-f9ca9c3559396692",
           "de": "warm",
           "ua": "теплий",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_f9ca9c3559396692.png?v=592019cdb3f6",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-ede47028b329ac9e",
           "de": "kalt",
           "ua": "холодний",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_ede47028b329ac9e.png?v=e117421c6f39",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-d365658b2c11365a",
@@ -3683,7 +4427,11 @@
           "id": "course-lexeme-5adc078ea15a4f93",
           "de": "frisch",
           "ua": "свіжий",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_5adc078ea15a4f93.png?v=3ec895201155",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-colors-005",
@@ -3724,49 +4472,81 @@
           "id": "course-lexeme-71b43eb586537391",
           "de": "der Vorname",
           "ua": "ім’я",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_71b43eb586537391.png?v=c668c38fd5eb",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-d8c7cfd215aa466f",
           "de": "der Nachname",
           "ua": "прізвище",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_d8c7cfd215aa466f.png?v=c31437eafc69",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-93422abcc2b8d3d5",
           "de": "die Adresse",
           "ua": "адреса",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_93422abcc2b8d3d5.png?v=8b548e168aba",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-ad787518763fa8a2",
           "de": "die Telefonnummer",
           "ua": "номер телефону",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_ad787518763fa8a2.png?v=eb1b6026597b",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-2b3bec8594f1c80c",
           "de": "buchstabieren",
           "ua": "називати по літерах",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_2b3bec8594f1c80c.png?v=2eb0bf06e9db",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-06079490110f2eaa",
           "de": "das Formular",
           "ua": "формуляр",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_06079490110f2eaa.png?v=ecc6762de3c8",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-4365305c5012ceb9",
           "de": "die Hausnummer",
           "ua": "номер будинку",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_4365305c5012ceb9.png?v=5fbb4ef24fba",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-f59914ebbe96e2e6",
           "de": "ausfüllen",
           "ua": "заповнювати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_f59914ebbe96e2e6.png?v=64d3b9cbd762",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -3780,7 +4560,11 @@
           "id": "course-lexeme-8aa76e8b6bf5c558",
           "de": "bezahlen",
           "ua": "оплачувати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_8aa76e8b6bf5c558.png?v=d25ffae618c8",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-clothes-004",
@@ -3806,31 +4590,51 @@
           "id": "course-lexeme-1f24e4d027af4b80",
           "de": "das Hemd",
           "ua": "сорочка",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_1f24e4d027af4b80.png?v=dcd9caae713a",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-d8a7e73cc1549d81",
           "de": "die Größe",
           "ua": "розмір",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_d8a7e73cc1549d81.png?v=39ea37b2b4f0",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-973b84754c0500d9",
           "de": "anprobieren",
           "ua": "приміряти",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_973b84754c0500d9.png?v=509075b0f1f7",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-457b9b860e6dfe3f",
           "de": "teuer",
           "ua": "дорогий",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_457b9b860e6dfe3f.png?v=58a3a4965875",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-e1003b940d4e8a04",
           "de": "billig",
           "ua": "дешевий",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_e1003b940d4e8a04.png?v=4f63ca1c1048",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -3844,13 +4648,21 @@
           "id": "course-lexeme-7cba6b93504d1027",
           "de": "der Arzt",
           "ua": "лікар",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_7cba6b93504d1027.png?v=c361726cf98b",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-5b00128160357929",
           "de": "die Kopfschmerzen",
           "ua": "головний біль",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_5b00128160357929.png?v=c54aad8f4fb6",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-887e282e3a7ee797",
@@ -3866,25 +4678,41 @@
           "id": "course-lexeme-b2cbb33e2a4908f9",
           "de": "wehtun",
           "ua": "боліти",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_b2cbb33e2a4908f9.png?v=ef4fee2a9fda",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-66f5f2a71240733c",
           "de": "das Fieber",
           "ua": "підвищена температура",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_66f5f2a71240733c.png?v=8bf62ec9b9e7",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-146d0cadd6805c23",
           "de": "die Ärztin",
           "ua": "лікарка",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_146d0cadd6805c23.png?v=29fd72dd5cb4",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-a543b1d822d37816",
           "de": "der Termin",
           "ua": "запланований прийом",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_a543b1d822d37816.png?v=9c74f617fe7a",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -3928,37 +4756,61 @@
           "id": "course-lexeme-9156e88459246130",
           "de": "die Heizung",
           "ua": "опалення",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_9156e88459246130.png?v=90e1fec98133",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-00c81671d92ca255",
           "de": "kaputt",
           "ua": "несправний",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_00c81671d92ca255.png?v=1cc659b57d33",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-a819acb6613c29f9",
           "de": "funktionieren",
           "ua": "функціонувати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_a819acb6613c29f9.png?v=3307f6f6d4fa",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-aa85039ae26c6373",
           "de": "aufräumen",
           "ua": "прибирати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_aa85039ae26c6373.png?v=db825c745399",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-c4b5284ffa972047",
           "de": "reparieren",
           "ua": "ремонтувати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_c4b5284ffa972047.png?v=1de9f3a63d58",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-abc331d0f296e006",
           "de": "putzen",
           "ua": "прибирати / чистити",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_abc331d0f296e006.png?v=45b6e4a6ac87",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -3972,19 +4824,31 @@
           "id": "course-lexeme-3856c49615db204e",
           "de": "erklären",
           "ua": "пояснювати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_3856c49615db204e.png?v=3ab08b59865a",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-b991cb1f3b350671",
           "de": "der Unterricht",
           "ua": "урок / заняття",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_b991cb1f3b350671.png?v=f5a62f8a6e1d",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-96c53f8bf13e4481",
           "de": "die Arbeit",
           "ua": "робота",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_96c53f8bf13e4481.png?v=dbe49cff73b9",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-school-009",
@@ -4000,19 +4864,31 @@
           "id": "course-lexeme-dd851ded4f8a92e7",
           "de": "die Pause",
           "ua": "перерва",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_dd851ded4f8a92e7.png?v=6e025e5b139a",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-714fd775c97e0f47",
           "de": "anfangen",
           "ua": "починатися",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_714fd775c97e0f47.png?v=979b1ba2bbff",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-85ac48dca4d63321",
           "de": "die Hausaufgaben",
           "ua": "домашнє завдання",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_85ac48dca4d63321.png?v=df6a7d0492eb",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-59def6d3551746ac",
@@ -4046,7 +4922,11 @@
           "id": "course-lexeme-4fc49b1d5e55faa3",
           "de": "die Fahrkarte",
           "ua": "квиток на транспорт",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_4fc49b1d5e55faa3.png?v=377a662cb862",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-places-008",
@@ -4062,25 +4942,41 @@
           "id": "course-lexeme-a491965ff63db98b",
           "de": "abfahren",
           "ua": "відправлятися",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_a491965ff63db98b.png?v=3ba763d8c1b0",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-e4cb754c72586e11",
           "de": "das Gleis",
           "ua": "колія",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_e4cb754c72586e11.png?v=b35c4101664b",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-f4b9b1113a4207ca",
           "de": "das Hotel",
           "ua": "готель",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_f4b9b1113a4207ca.png?v=72029da2c946",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-2feea14b5c00cb29",
           "de": "buchen",
           "ua": "бронювати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_2feea14b5c00cb29.png?v=9f3e406c1132",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-time-006",
@@ -4114,25 +5010,41 @@
           "id": "course-lexeme-98d9cc053d91faec",
           "de": "leider",
           "ua": "на жаль",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_98d9cc053d91faec.png?v=15d775e9db2e",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-8d9c883c60fee1bd",
           "de": "die Nachricht",
           "ua": "повідомлення",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_8d9c883c60fee1bd.png?v=a745dad229fb",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-0cfe44afe7b5a4d9",
           "de": "einladen",
           "ua": "запрошувати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_0cfe44afe7b5a4d9.png?v=62dd897d84e5",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-b43a12a36f4cbfc2",
           "de": "verschieben",
           "ua": "переносити (зустріч)",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_b43a12a36f4cbfc2.png?v=95e7326ddfaf",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-d56d608c437b11d0",
@@ -4166,31 +5078,51 @@
           "id": "course-lexeme-21e34af987794719",
           "de": "reisen",
           "ua": "подорожувати",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_21e34af987794719.png?v=a5d7479de511",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-cb63ff86d339ff0a",
           "de": "werden",
           "ua": "допоміжне дієслово майбутнього часу",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_cb63ff86d339ff0a.png?v=42ae359cc1fb",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-472325157fdab3fb",
           "de": "nächste Woche",
           "ua": "наступного тижня",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_472325157fdab3fb.png?v=2ee8e8136c71",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-6289cbdab3e6ee0f",
           "de": "der Plan",
           "ua": "план",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_6289cbdab3e6ee0f.png?v=7feb99ec0846",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-95204693cf83f35c",
           "de": "üben",
           "ua": "практикуватися",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_95204693cf83f35c.png?v=09222156184b",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false
@@ -4224,25 +5156,41 @@
           "id": "course-lexeme-0d42dba4ecf0f474",
           "de": "zusammen",
           "ua": "разом",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_0d42dba4ecf0f474.png?v=0defb117d979",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-8e522cb66b3786fb",
           "de": "Mia",
           "ua": "Міа (ім’я)",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_8e522cb66b3786fb.png?v=0ec777b63603",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-983575760184915f",
           "de": "jeden Tag",
           "ua": "щодня",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_983575760184915f.png?v=3fc1e1b276e7",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-10e023385c646e10",
           "de": "deshalb",
           "ua": "тому",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/course_fe263a20453a421e.png?v=f0049edcfa6e",
+            "kind": "new",
+            "copies": 1
+          }
         }
       ],
       "checkpoint": false

@@ -1,0 +1,11 @@
+{
+  "lesson": 34,
+  "cols": 3,
+  "rows": 2,
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Asset type: ONE transparent vocabulary sprite sheet for German lesson 34, \"Зі мною, до тебе, від нього\". EXACTLY 3 columns and 2 rows of EQUAL-size cells. Each illustration must stay inside its own cell's CENTRAL 60%, with very LARGE TRANSPARENT gutters around every cell, including the bottom row. No figures crossing cell borders, even in the last row. No shared elements. Unused cells stay fully transparent. Read cells left to right, top to bottom.\nSTYLE: match approved references: playful compact chibi cartoons, thick organic navy #102B50 contours, simple white #FFFFFF/cream #FFF1E5 surfaces and orange #FF5726 accents. ONLY these four colors, even skin/hair/plants/water. White/cream-haired children with navy facial features. Add short tapered navy/orange signature dashes beside EACH complete composition. Restrained large details for 110px display. Every pixel outside the hard clean silhouette shapes MUST have alpha=0, never partially transparent colored clouds. No bloom or semitransparent glow. No glow, haze, gradients, backdrop shadows, glossy emoji, 3D or realism. Transparent background between all shapes. No titles, printed vocabulary labels, cell numbers or borders. Only internal letters/digits explicitly requested in a scene may appear. Uniform cell centers and scales; all characters/objects fully visible.\nCELLS:\n1 [zu, до]: Child walking toward a small house with a clear orange curved arrow pointing TO it.\n2 [von, від]: Orange parcel moving FROM a small house, curved arrow leaving doorway toward foreground.\n3 [aus, з (походження)]: Child emerging OUT OF an open cream box, orange arrow pointing outward.\n4 [bei, у / при]: Child staying beside a friendly adult at their house: at someones place.\n5 [nach, до (місто, країна без артикля)]: Orange train heading toward a distant city skyline, small directional arrow.\n6 [der Arzt, лікар]: Friendly adult male doctor with navy hair, white coat, orange stethoscope.\nGuide labels are NOT to be printed. Every cell contains ONLY its assigned complete scene.",
+  "references": [
+    "assets/illustrations/course/ready.png",
+    "assets/illustrations/food/apfel.png"
+  ]
+}

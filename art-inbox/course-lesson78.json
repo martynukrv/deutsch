@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "werden",
+      "ua": "допоміжне дієслово майбутнього часу",
+      "file": "course_cb63ff86d339ff0a.png"
+    },
+    {
+      "de": "nächste Woche",
+      "ua": "наступного тижня",
+      "file": "course_472325157fdab3fb.png"
+    },
+    {
+      "de": "der Plan",
+      "ua": "план",
+      "file": "course_6289cbdab3e6ee0f.png"
+    },
+    {
+      "de": "üben",
+      "ua": "практикуватися",
+      "file": "course_95204693cf83f35c.png"
+    }
+  ]
+}

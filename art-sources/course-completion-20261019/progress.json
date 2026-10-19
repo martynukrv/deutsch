@@ -1,0 +1,346 @@
+{
+  "19": {
+    "status": "prepared",
+    "count": 2,
+    "source": "art-sources/course-completion-20261019/lesson-019/original.png",
+    "sourceSha256": "0eb7019ee44aa8ec9ab70343c5a1b7eabd33af29d2e1b5bc4b6d4e1994c4c739",
+    "package": "art-inbox/course-lesson19.zip"
+  },
+  "16": {
+    "status": "prepared",
+    "count": 7,
+    "source": "art-sources/course-completion-20261019/lesson-016/original.png",
+    "sourceSha256": "9abb6b32b826d31edef6e4cff35f07404f2314d66ae57b673620afa6bab2248f",
+    "package": "art-inbox/course-lesson16.zip"
+  },
+  "22": {
+    "status": "prepared",
+    "count": 4,
+    "source": "art-sources/course-completion-20261019/lesson-022/original.png",
+    "sourceSha256": "b4295b54ef0803caa50efb9bd4f3c59301317d48cd33a01f0f30d6081d7ff046",
+    "package": "art-inbox/course-lesson22.zip"
+  },
+  "23": {
+    "status": "prepared",
+    "count": 3,
+    "source": "art-sources/course-completion-20261019/lesson-023/original.png",
+    "sourceSha256": "823140479c39f66a35143f4bbfc7ac82e13778ebaff44411af8a7f79ac09230c",
+    "package": "art-inbox/course-lesson23.zip"
+  },
+  "26": {
+    "status": "prepared",
+    "count": 2,
+    "source": "art-sources/course-completion-20261019/lesson-026/original.png",
+    "sourceSha256": "2a3c90cdc8a86b38fbd64cd23ae4f8da6227776db9f83ee6e44f18e49751f578",
+    "package": "art-inbox/course-lesson26.zip"
+  },
+  "27": {
+    "status": "prepared",
+    "count": 2,
+    "source": "art-sources/course-completion-20261019/lesson-027/original.png",
+    "sourceSha256": "2bab941fc5a978f7b9c61cb377344be3673e6c698ac51c94d4be0a6500d0d274",
+    "package": "art-inbox/course-lesson27.zip"
+  },
+  "29": {
+    "status": "prepared",
+    "count": 2,
+    "source": "art-sources/course-completion-20261019/lesson-029/original.png",
+    "sourceSha256": "4be5a55c07d1be0e675bf3b3aa818a1dd270c17cf798949af027cb6b438d33a2",
+    "package": "art-inbox/course-lesson29.zip"
+  },
+  "20": {
+    "status": "reused",
+    "count": 5,
+    "reason": "Accusative forms refer to the same people as approved ich/du/er/wir/ihr art; explicit aliases preserve consistent characters."
+  },
+  "32": {
+    "status": "reused",
+    "count": 7,
+    "reason": "Dative forms refer to the same people as approved ich/du/er/sie/Sie/wir/ihr art; explicit aliases preserve consistent characters."
+  },
+  "28": {
+    "status": "prepared",
+    "count": 2,
+    "source": "art-sources/course-completion-20261019/lesson-028/original.png",
+    "sourceSha256": "941bfbb78b819b4889e29b95a2c2a8a2252116c8a0cb6db4750dc76d1e9d10fa",
+    "package": "art-inbox/course-lesson28.zip"
+  },
+  "31": {
+    "status": "prepared",
+    "count": 1,
+    "source": "art-sources/course-completion-20261019/lesson-031/original.png",
+    "sourceSha256": "316775c5db4450337366f2df6acebd6f9c0ebb329a125c5edb0703fb280d6e5c",
+    "package": "art-inbox/course-lesson31.zip"
+  },
+  "33": {
+    "status": "prepared",
+    "count": 5,
+    "source": "art-sources/course-completion-20261019/lesson-033/original.png",
+    "sourceSha256": "c27e8fc07d847b70bb5d571c511b33100aaaed2b5d8c1f25d51448e25cdcb5b9",
+    "package": "art-inbox/course-lesson33.zip"
+  },
+  "34": {
+    "status": "prepared",
+    "count": 6,
+    "source": "art-sources/course-completion-20261019/lesson-034/original.png",
+    "sourceSha256": "9c39824b39b41204210e7139c7f8e56adb703fe2c3cd3a7c2cc4381388f64316",
+    "package": "art-inbox/course-lesson34.zip"
+  },
+  "35": {
+    "status": "prepared",
+    "count": 5,
+    "source": "art-sources/course-completion-20261019/lesson-035/original.png",
+    "sourceSha256": "9a117e17b27056b26594fb0bded94ff8f7c7579872f796938a3ca1c5f32ace84",
+    "package": "art-inbox/course-lesson35.zip"
+  },
+  "37": {
+    "status": "prepared",
+    "count": 5,
+    "source": "art-sources/course-completion-20261019/lesson-037/original.png",
+    "sourceSha256": "b482c6a395c6c242372c86b53a4e05ff3f99d86e01c60e875df5021df3b8fd29",
+    "package": "art-inbox/course-lesson37.zip"
+  },
+  "25": {
+    "status": "prepared",
+    "count": 1,
+    "source": "art-sources/course-completion-20261019/lesson-025/original.png",
+    "sourceSha256": "79d4ed9de3873104d983aa92047f46e97a416ecd30b7733d4d3377cc6795e45d",
+    "package": "art-inbox/course-lesson25.zip"
+  },
+  "38": {
+    "status": "prepared",
+    "count": 5,
+    "source": "art-sources/course-completion-20261019/lesson-038/original.png",
+    "sourceSha256": "902b99399020e73076651da33a773d0c05a79d50cf85a48e900e2f5bbe6c92a2",
+    "package": "art-inbox/course-lesson38.zip"
+  },
+  "39": {
+    "status": "prepared",
+    "count": 9,
+    "source": "art-sources/course-completion-20261019/lesson-039/original.png",
+    "sourceSha256": "9a10fb05908cf4ee5e86d12614889e486e18c266e424b744ab34f3e4213e3f8f",
+    "package": "art-inbox/course-lesson39.zip"
+  },
+  "40": {
+    "status": "prepared",
+    "count": 3,
+    "source": "art-sources/course-completion-20261019/lesson-040/original.png",
+    "sourceSha256": "eb4ee6be24985b520e29c59ed4bf96988b9d54d93c4d43ff671af5c7b78577f4",
+    "package": "art-inbox/course-lesson40.zip"
+  },
+  "41": {
+    "status": "prepared",
+    "count": 7,
+    "source": "art-sources/course-completion-20261019/lesson-041/original.png",
+    "sourceSha256": "b02d39a036f631e0ca2b62fac9bbb945b7a64a151815e7917306339244f5fc70",
+    "package": "art-inbox/course-lesson41.zip"
+  },
+  "43": {
+    "status": "prepared",
+    "count": 6,
+    "source": "art-sources/course-completion-20261019/lesson-043/original.png",
+    "sourceSha256": "9f2e2304789f700759f9bff3b4216776d0cc73e675feaeb4987166da54b08078",
+    "package": "art-inbox/course-lesson43.zip"
+  },
+  "45": {
+    "status": "prepared",
+    "count": 3,
+    "source": "art-sources/course-completion-20261019/lesson-045/original.png",
+    "sourceSha256": "d6babda2ba52ea48fcb14557e550ad92455c331b0d9cf90374a910fa9ba7644e",
+    "package": "art-inbox/course-lesson45.zip"
+  },
+  "46": {
+    "status": "prepared",
+    "count": 6,
+    "source": "art-sources/course-completion-20261019/lesson-046/original.png",
+    "sourceSha256": "c24b785a0a5a76b19a381a7f6ffe88c015dda538af9626f268ec80c0db800ab6",
+    "package": "art-inbox/course-lesson46.zip"
+  },
+  "44": {
+    "status": "prepared",
+    "count": 7,
+    "source": "art-sources/course-completion-20261019/lesson-044/original.png",
+    "sourceSha256": "db13a852ed96ca6cd52ad31cdae5edcf51d4e4bef17cb9131f7b42bf987f1b20",
+    "package": "art-inbox/course-lesson44.zip"
+  },
+  "50": {
+    "status": "prepared",
+    "count": 1,
+    "source": "art-sources/course-completion-20261019/lesson-050/original.png",
+    "sourceSha256": "391422f54c8009237aecb924fe0652584e589033c8eada5fe5d7130252cca773",
+    "package": "art-inbox/course-lesson50.zip"
+  },
+  "56": {
+    "status": "prepared",
+    "count": 2,
+    "source": "art-sources/course-completion-20261019/lesson-056/original.png",
+    "sourceSha256": "d5c595e12c0aefd004fbf8b7a4d7d0a8076106dd82e790732e4f75fd0887ffdb",
+    "package": "art-inbox/course-lesson56.zip"
+  },
+  "47": {
+    "status": "prepared",
+    "count": 2,
+    "source": "art-sources/course-completion-20261019/lesson-047/original.png",
+    "sourceSha256": "99ebe3604784313446607c8001da9a2a557762cc705daee0a0d20df1d2b30cc2",
+    "package": "art-inbox/course-lesson47.zip"
+  },
+  "54": {
+    "status": "prepared",
+    "count": 4,
+    "source": "art-sources/course-completion-20261019/lesson-054/original.png",
+    "sourceSha256": "eb7932ada34b6f19eae88e5b8146319fa5273e1c90beb86ac1480bf2135c9984",
+    "package": "art-inbox/course-lesson54.zip"
+  },
+  "57": {
+    "status": "prepared",
+    "count": 4,
+    "source": "art-sources/course-completion-20261019/lesson-057/original.png",
+    "sourceSha256": "23b4b9ff9baf93b7aa9e8918017f2716be01324bb051963f920fd486bd499c3c",
+    "package": "art-inbox/course-lesson57.zip"
+  },
+  "58": {
+    "status": "prepared",
+    "count": 3,
+    "source": "art-sources/course-completion-20261019/lesson-058/original.png",
+    "sourceSha256": "f964cd9e1b95ea54a936a5289eeb217f731fa939a7fb3b839801be3036aa19e9",
+    "package": "art-inbox/course-lesson58.zip"
+  },
+  "59": {
+    "status": "prepared",
+    "count": 5,
+    "source": "art-sources/course-completion-20261019/lesson-059/original.png",
+    "sourceSha256": "d34923c33e4c7d0cde33caf0ccb3ae79aebdf4148f12ff50334e262b71e23df5",
+    "package": "art-inbox/course-lesson59.zip"
+  },
+  "60": {
+    "status": "prepared",
+    "count": 4,
+    "source": "art-sources/course-completion-20261019/lesson-060/original.png",
+    "sourceSha256": "38578677be371d38587bd718809c4dd1beeea3421abd9ad30ee3f07cb7b4962d",
+    "package": "art-inbox/course-lesson60.zip"
+  },
+  "61": {
+    "status": "prepared",
+    "count": 6,
+    "source": "art-sources/course-completion-20261019/lesson-061/original.png",
+    "sourceSha256": "785b1908bd9d65d9aa9170ca58a0a3204c8323959ad8543629634a56085392a0",
+    "package": "art-inbox/course-lesson61.zip"
+  },
+  "63": {
+    "status": "prepared",
+    "count": 6,
+    "source": "art-sources/course-completion-20261019/lesson-063/original.png",
+    "sourceSha256": "bbfe8b8a9d7f047a96615aee13ed9428a3334f18b3ecc22eceb1d09ff01be980",
+    "package": "art-inbox/course-lesson63.zip"
+  },
+  "65": {
+    "status": "prepared",
+    "count": 5,
+    "source": "art-sources/course-completion-20261019/lesson-065/original.png",
+    "sourceSha256": "f7eec119039619221f8aafb44c1cefac3a3e0009cce8e9afcbd299ccc1247739",
+    "package": "art-inbox/course-lesson65.zip"
+  },
+  "66": {
+    "status": "prepared",
+    "count": 1,
+    "source": "art-sources/course-completion-20261019/lesson-066/original.png",
+    "sourceSha256": "691daf016d55e6b5ecd2e6e03b177d959db81b3d48af520e7c44158731e425db",
+    "package": "art-inbox/course-lesson66.zip"
+  },
+  "67": {
+    "status": "prepared",
+    "count": 3,
+    "source": "art-sources/course-completion-20261019/lesson-067/original.png",
+    "sourceSha256": "66eba18ea32bd453367310ddca01ec7211997d1677a8008b72c472481a3c9d1c",
+    "package": "art-inbox/course-lesson67.zip"
+  },
+  "68": {
+    "status": "prepared",
+    "count": 3,
+    "source": "art-sources/course-completion-20261019/lesson-068/original.png",
+    "sourceSha256": "ae57398b1e72bd307b2a16981844e64b49729a85441c281fc5dfddaa4e4b2b62",
+    "package": "art-inbox/course-lesson68.zip"
+  },
+  "71": {
+    "status": "prepared",
+    "count": 8,
+    "source": "art-sources/course-completion-20261019/lesson-071/original.png",
+    "sourceSha256": "63577ab57bed8d10bf676bca284871fef818b8481ad7884c3607e25a18b08d13",
+    "package": "art-inbox/course-lesson71.zip"
+  },
+  "72": {
+    "status": "prepared",
+    "count": 5,
+    "source": "art-sources/course-completion-20261019/lesson-072/original.png",
+    "sourceSha256": "c21f0fe161d607685fed06ab2c5bd0818dc019f51cce68eefb8a8105d0407540",
+    "package": "art-inbox/course-lesson72.zip"
+  },
+  "74": {
+    "status": "prepared",
+    "count": 6,
+    "source": "art-sources/course-completion-20261019/lesson-074/original.png",
+    "sourceSha256": "8d215b692704b221952113b38b2f6ddc7c1335c62dd2a6ccbce2eea4631913a4",
+    "package": "art-inbox/course-lesson74.zip"
+  },
+  "75": {
+    "status": "prepared",
+    "count": 5,
+    "source": "art-sources/course-completion-20261019/lesson-075/original.png",
+    "sourceSha256": "80e92339a69a5a704c2fa6d5f67fbb8d336efabf6ca7d868b5bc77496807eb64",
+    "package": "art-inbox/course-lesson75.zip"
+  },
+  "64": {
+    "status": "prepared",
+    "count": 7,
+    "source": "art-sources/course-completion-20261019/lesson-064/original.png",
+    "sourceSha256": "44f8b2b117fe383711ac577ab6f787a8dc30b55c67e6cf2427c30bd76db3cafe",
+    "package": "art-inbox/course-lesson64.zip"
+  },
+  "69": {
+    "status": "prepared",
+    "count": 1,
+    "source": "art-sources/course-completion-20261019/lesson-069/original.png",
+    "sourceSha256": "213ccc0ad563b9b4e0c2ee267c720b10fc448bbc720eee73b7ca3f227bbb168f",
+    "package": "art-inbox/course-lesson69.zip"
+  },
+  "76": {
+    "status": "prepared",
+    "count": 5,
+    "source": "art-sources/course-completion-20261019/lesson-076/original.png",
+    "sourceSha256": "a2e765ff9cae9397c28b23840273e9ff549252c755cd857cca45984d4a9ebb1d",
+    "package": "art-inbox/course-lesson76.zip"
+  },
+  "77": {
+    "status": "prepared",
+    "count": 2,
+    "source": "art-sources/course-completion-20261019/lesson-077/original.png",
+    "sourceSha256": "5402bcc98172750509b2dbde7b7997788d6c365953a6ef0c146f0bbf50864a04",
+    "package": "art-inbox/course-lesson77.zip"
+  },
+  "78": {
+    "status": "prepared",
+    "count": 4,
+    "source": "art-sources/course-completion-20261019/lesson-078/original.png",
+    "sourceSha256": "02452b4994c8036c658e736e6e26fdd0431b7b3089933544371103d0dabc94f8",
+    "package": "art-inbox/course-lesson78.zip"
+  },
+  "73": {
+    "status": "prepared",
+    "count": 5,
+    "source": "art-sources/course-completion-20261019/lesson-073/original.png",
+    "sourceSha256": "8be0486edff3932df23d25b2522bd6ece6394daa5cf5ad1ab831ebe4e092286e",
+    "package": "art-inbox/course-lesson73.zip"
+  },
+  "79": {
+    "status": "prepared",
+    "count": 2,
+    "source": "art-sources/course-completion-20261019/lesson-079/original.png",
+    "sourceSha256": "c9bb3fcb64b407ce6b2b8ac13c9d44e3069837161d8ac44b9737a5c5b5ed0d2e",
+    "package": "art-inbox/course-lesson79.zip"
+  },
+  "52": {
+    "status": "reused",
+    "count": 1,
+    "reason": "Same telephone conversation meaning uses approved telefonieren illustration from lesson 44."
+  }
+}

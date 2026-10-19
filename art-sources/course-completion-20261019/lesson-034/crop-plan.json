@@ -1,0 +1,136 @@
+{
+  "lesson": 34,
+  "cols": 3,
+  "rows": 2,
+  "originalSha256": "9c39824b39b41204210e7139c7f8e56adb703fe2c3cd3a7c2cc4381388f64316",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-f7e659cbeece0133",
+      "de": "zu",
+      "ua": "до",
+      "scene": "Child walking toward a small house with a clear orange curved arrow pointing TO it",
+      "cell": [
+        0,
+        0,
+        568,
+        499
+      ],
+      "alphaCropInCell": [
+        41,
+        90,
+        552,
+        471
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_f7e659cbeece0133.png",
+      "sha256": "30eab7469c2e09b2845b531afd98d005df68dac7830899f276666edc7ca84ecb"
+    },
+    {
+      "id": "course-lexeme-ecd25fafe848b23c",
+      "de": "von",
+      "ua": "від",
+      "scene": "Orange parcel moving FROM a small house, curved arrow leaving doorway toward foreground",
+      "cell": [
+        568,
+        0,
+        1018,
+        499
+      ],
+      "alphaCropInCell": [
+        17,
+        71,
+        415,
+        468
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_ecd25fafe848b23c.png",
+      "sha256": "9184ac9da39811119bda044d8e7d2488d3354b15ccaf3ea28c4b4d7bbf53a94f"
+    },
+    {
+      "id": "course-lexeme-6028ea467a07fd8c",
+      "de": "aus",
+      "ua": "з (походження)",
+      "scene": "Child emerging OUT OF an open cream box, orange arrow pointing outward",
+      "cell": [
+        1018,
+        0,
+        1536,
+        499
+      ],
+      "alphaCropInCell": [
+        36,
+        55,
+        477,
+        475
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_6028ea467a07fd8c.png",
+      "sha256": "61e9f721177fac826e9ae5b4f9840c54e69a3ca3ef4d7df214dc9a9b507e5837"
+    },
+    {
+      "id": "course-lexeme-4ae9495bf7b81e57",
+      "de": "bei",
+      "ua": "у / при",
+      "scene": "Child staying beside a friendly adult at their house: at someones place",
+      "cell": [
+        0,
+        499,
+        501,
+        1024
+      ],
+      "alphaCropInCell": [
+        50,
+        25,
+        485,
+        458
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_4ae9495bf7b81e57.png",
+      "sha256": "15a9931061c56911068699664f5922801678a52dd5cf325b4dca852f182825f7"
+    },
+    {
+      "id": "course-lexeme-ae626abd30d1d1b9",
+      "de": "nach",
+      "ua": "до (місто, країна без артикля)",
+      "scene": "Orange train heading toward a distant city skyline, small directional arrow",
+      "cell": [
+        501,
+        499,
+        1076,
+        1024
+      ],
+      "alphaCropInCell": [
+        17,
+        38,
+        541,
+        423
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_ae626abd30d1d1b9.png",
+      "sha256": "675c74e70f406c9fdf73f6027be5499a7786d77dc26d04f3266265e9a0118364"
+    },
+    {
+      "id": "course-lexeme-7cba6b93504d1027",
+      "de": "der Arzt",
+      "ua": "лікар",
+      "scene": "Friendly adult male doctor with navy hair, white coat, orange stethoscope",
+      "cell": [
+        1076,
+        499,
+        1536,
+        1024
+      ],
+      "alphaCropInCell": [
+        35,
+        27,
+        391,
+        458
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_7cba6b93504d1027.png",
+      "sha256": "c361726cf98bfbf8f38487d44fd7f5feed388d30b20fac97c5cf195c618227f0"
+    }
+  ]
+}

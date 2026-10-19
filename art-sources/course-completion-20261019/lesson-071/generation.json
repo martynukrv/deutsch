@@ -1,0 +1,69 @@
+{
+  "lesson": 71,
+  "cols": 3,
+  "rows": 3,
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Asset type: ONE transparent vocabulary sprite sheet for German lesson 71, \"Адреса, телефон та анкета\". EXACTLY 3 columns and 3 rows of EQUAL-size cells. Each illustration must stay inside its own cell's CENTRAL 60%, with very LARGE TRANSPARENT gutters around every cell, including the bottom row. No figures crossing cell borders, even in the last row. No shared elements. Unused cells stay fully transparent. Read cells left to right, top to bottom.\nSTYLE: match approved references: playful compact chibi cartoons, thick organic navy #102B50 contours, simple white #FFFFFF/cream #FFF1E5 surfaces and orange #FF5726 accents. ONLY these four colors, even skin/hair/plants/water. White/cream-haired children with navy facial features. Add short tapered navy/orange signature dashes beside EACH complete composition. Restrained large details for 110px display. Every pixel outside the hard clean silhouette shapes MUST have alpha=0, never partially transparent colored clouds. No bloom or semitransparent glow. No glow, haze, gradients, backdrop shadows, glossy emoji, 3D or realism. Transparent background between all shapes. No titles, printed vocabulary labels, cell numbers or borders. Only internal letters/digits explicitly requested in a scene may appear. Uniform cell centers and scales; all characters/objects fully visible.\nCELLS:\n1 [der Vorname, ім’я]: Child pointing to FIRST line on a blank cream name badge, highlighted orange, no letters.\n2 [der Nachname, прізвище]: Child pointing to SECOND line on a blank cream name badge, highlighted orange, no letters.\n3 [die Adresse, адреса]: Small house beside a cream envelope with orange location pin.\n4 [die Telefonnummer, номер телефону]: One orange telephone beside a cream number tile with simple digits 123.\n5 [buchstabieren, називати по літерах]: Child speaking three separate clear letters A B C in three small connected speech bubbles.\n6 [das Formular, формуляр]: One simple cream application form on an orange clipboard with blank lines and checkboxes.\n7 [die Hausnummer, номер будинку]: Small cream house with a large orange address plaque bearing clear number 12.\n8 [ausfüllen, заповнювати]: Hand filling a blank form with an orange pencil, no readable text.\nGuide labels are NOT to be printed. Every cell contains ONLY its assigned complete scene.",
+  "words": [
+    {
+      "id": "course-lexeme-71b43eb586537391",
+      "de": "der Vorname",
+      "ua": "ім’я",
+      "scene": "Child pointing to FIRST line on a blank cream name badge, highlighted orange, no letters",
+      "slot": 0
+    },
+    {
+      "id": "course-lexeme-d8c7cfd215aa466f",
+      "de": "der Nachname",
+      "ua": "прізвище",
+      "scene": "Child pointing to SECOND line on a blank cream name badge, highlighted orange, no letters",
+      "slot": 1
+    },
+    {
+      "id": "course-lexeme-93422abcc2b8d3d5",
+      "de": "die Adresse",
+      "ua": "адреса",
+      "scene": "Small house beside a cream envelope with orange location pin",
+      "slot": 2
+    },
+    {
+      "id": "course-lexeme-ad787518763fa8a2",
+      "de": "die Telefonnummer",
+      "ua": "номер телефону",
+      "scene": "One orange telephone beside a cream number tile with simple digits 123",
+      "slot": 3
+    },
+    {
+      "id": "course-lexeme-2b3bec8594f1c80c",
+      "de": "buchstabieren",
+      "ua": "називати по літерах",
+      "scene": "Child speaking three separate clear letters A B C in three small connected speech bubbles",
+      "slot": 4
+    },
+    {
+      "id": "course-lexeme-06079490110f2eaa",
+      "de": "das Formular",
+      "ua": "формуляр",
+      "scene": "One simple cream application form on an orange clipboard with blank lines and checkboxes",
+      "slot": 5
+    },
+    {
+      "id": "course-lexeme-4365305c5012ceb9",
+      "de": "die Hausnummer",
+      "ua": "номер будинку",
+      "scene": "Small cream house with a large orange address plaque bearing clear number 12",
+      "slot": 6
+    },
+    {
+      "id": "course-lexeme-f59914ebbe96e2e6",
+      "de": "ausfüllen",
+      "ua": "заповнювати",
+      "scene": "Hand filling a blank form with an orange pencil, no readable text",
+      "slot": 7
+    }
+  ],
+  "references": [
+    "assets/illustrations/course/ready.png",
+    "assets/illustrations/food/apfel.png"
+  ]
+}

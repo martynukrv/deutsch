@@ -1,0 +1,94 @@
+{
+  "lesson": 54,
+  "cols": 2,
+  "rows": 2,
+  "originalSha256": "eb7932ada34b6f19eae88e5b8146319fa5273e1c90beb86ac1480bf2135c9984",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-b20c5d201024deeb",
+      "de": "war",
+      "ua": "був / була",
+      "scene": "Child beside a small faded cream outlined image of themself with a curved arrow pointing into the past",
+      "cell": [
+        0,
+        0,
+        643,
+        644
+      ],
+      "alphaCropInCell": [
+        56,
+        93,
+        611,
+        604
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_b20c5d201024deeb.png",
+      "sha256": "75d9128b4aa03da6c0232c16dbb686bb0548d6804a7564786aa1711814cc7ebc"
+    },
+    {
+      "id": "course-lexeme-95c0867071b4d52c",
+      "de": "hatte",
+      "ua": "мав / мала",
+      "scene": "Child remembering an orange toy they held before, toy shown in a thought bubble with past arrow",
+      "cell": [
+        643,
+        0,
+        1286,
+        644
+      ],
+      "alphaCropInCell": [
+        32,
+        55,
+        606,
+        590
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_95c0867071b4d52c.png",
+      "sha256": "785b59edd13b95ebdca7a93c8ce972f7b499dc32b46147e57eb1f5fb6cd7bace"
+    },
+    {
+      "id": "course-lexeme-2ea24cbdaf6e301f",
+      "de": "krank",
+      "ua": "хворий / хвора",
+      "scene": "Child in bed with a thermometer and a gently unwell face",
+      "cell": [
+        0,
+        644,
+        660,
+        1223
+      ],
+      "alphaCropInCell": [
+        60,
+        40,
+        636,
+        507
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_2ea24cbdaf6e301f.png",
+      "sha256": "1139c7a200d6d5e4a5db60721bee6f59f9f640a2010d1d2c99afcbd6967da1a3"
+    },
+    {
+      "id": "course-lexeme-3c7f98d813c0fe5a",
+      "de": "früher",
+      "ua": "раніше",
+      "scene": "Two calendar leaves with orange arrow pointing backward to the earlier leaf",
+      "cell": [
+        660,
+        644,
+        1286,
+        1223
+      ],
+      "alphaCropInCell": [
+        25,
+        82,
+        573,
+        488
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_3c7f98d813c0fe5a.png",
+      "sha256": "0ba07c9fa5d4167291c348ec38fff9f4a30f91f4fb594fca89077e26719dc58b"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "lesson": 67,
+  "cols": 3,
+  "rows": 1,
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Asset type: ONE transparent vocabulary sprite sheet for German lesson 67, \"Опис з ein/mein/kein\". EXACTLY 3 columns and 1 rows of EQUAL-size cells. Each illustration must stay inside its own cell's CENTRAL 60%, with very LARGE TRANSPARENT gutters around every cell, including the bottom row. No figures crossing cell borders, even in the last row. No shared elements. Unused cells stay fully transparent. Read cells left to right, top to bottom.\nSTYLE: match approved references: playful compact chibi cartoons, thick organic navy #102B50 contours, simple white #FFFFFF/cream #FFF1E5 surfaces and orange #FF5726 accents. ONLY these four colors, even skin/hair/plants/water. White/cream-haired children with navy facial features. Add short tapered navy/orange signature dashes beside EACH complete composition. Restrained large details for 110px display. Every pixel outside the hard clean silhouette shapes MUST have alpha=0, never partially transparent colored clouds. No bloom or semitransparent glow. No glow, haze, gradients, backdrop shadows, glossy emoji, 3D or realism. Transparent background between all shapes. No titles, printed vocabulary labels, cell numbers or borders. Only internal letters/digits explicitly requested in a scene may appear. Uniform cell centers and scales; all characters/objects fully visible.\nCELLS:\n1 [ein guter Freund, добрий друг]: Friendly smiling child offering support to a friend, both together, one orange heart.\n2 [eine kleine Katze, маленька кішка]: One SMALL playful cream kitten with navy outlines and orange ears.\n3 [ein neues Buch, нова книжка]: One crisp orange NEW book with cream pages and a small orange sparkle.\nGuide labels are NOT to be printed. Every cell contains ONLY its assigned complete scene.",
+  "words": [
+    {
+      "id": "course-lexeme-49211de5f5e437b1",
+      "de": "ein guter Freund",
+      "ua": "добрий друг",
+      "scene": "Friendly smiling child offering support to a friend, both together, one orange heart",
+      "slot": 0
+    },
+    {
+      "id": "course-lexeme-660e0d0220192fd6",
+      "de": "eine kleine Katze",
+      "ua": "маленька кішка",
+      "scene": "One SMALL playful cream kitten with navy outlines and orange ears",
+      "slot": 1
+    },
+    {
+      "id": "course-lexeme-43d3890f180561e6",
+      "de": "ein neues Buch",
+      "ua": "нова книжка",
+      "scene": "One crisp orange NEW book with cream pages and a small orange sparkle",
+      "slot": 2
+    }
+  ],
+  "references": [
+    "assets/illustrations/course/ready.png",
+    "assets/illustrations/food/apfel.png"
+  ]
+}

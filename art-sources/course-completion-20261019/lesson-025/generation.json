@@ -1,0 +1,12 @@
+{
+  "lesson": 25,
+  "cols": 1,
+  "rows": 1,
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Asset type: ONE transparent vocabulary sprite sheet for German lesson 25, \"Можу та вмію\". EXACTLY 1 columns and 1 rows of EQUAL-size cells. Each illustration must stay inside its own cell's CENTRAL 60%, with very LARGE TRANSPARENT gutters around every cell, including the bottom row. No figures crossing cell borders, even in the last row. No shared elements. Unused cells stay fully transparent. Read cells left to right, top to bottom.\nSTYLE: match approved references: playful compact chibi cartoons, thick organic navy #102B50 contours, simple white #FFFFFF/cream #FFF1E5 surfaces and orange #FF5726 accents. ONLY these four colors, even skin/hair/plants/water. White/cream-haired children with navy facial features. Add short tapered navy/orange signature dashes beside EACH complete composition. Restrained large details for 110px display. Every pixel outside the hard clean silhouette shapes MUST have alpha=0, never partially transparent colored clouds. No bloom or semitransparent glow. No glow, haze, gradients, backdrop shadows, glossy emoji, 3D or realism. Transparent background between all shapes. No titles, printed vocabulary labels, cell numbers or borders. Only internal letters/digits explicitly requested in a scene may appear. Uniform cell centers and scales; all characters/objects fully visible.\nCELLS:\n1 [schwimmen, плавати]: One compact white-haired child swimming in three simple cream wave shapes outlined navy. Crisp hard silhouettes only. Transparent gaps between separate wave shapes, no water surface background, no haze or reflections.\nGuide labels are NOT to be printed. Every cell contains ONLY its assigned complete scene.",
+  "references": [
+    "assets/illustrations/verbs/lernen.png",
+    "assets/illustrations/food/apfel.png",
+    "assets/illustrations/course/time.png"
+  ]
+}

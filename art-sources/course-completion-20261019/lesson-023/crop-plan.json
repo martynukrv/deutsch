@@ -1,0 +1,73 @@
+{
+  "lesson": 23,
+  "cols": 3,
+  "rows": 1,
+  "originalSha256": "823140479c39f66a35143f4bbfc7ac82e13778ebaff44411af8a7f79ac09230c",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-c525891f01aa3b12",
+      "de": "der Zucker",
+      "ua": "цукор",
+      "scene": "Small cream sugar bowl with orange spoon and a few white sugar cubes",
+      "cell": [
+        0,
+        0,
+        724,
+        724
+      ],
+      "alphaCropInCell": [
+        83,
+        143,
+        623,
+        618
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_c525891f01aa3b12.png",
+      "sha256": "5afac62e7c3d0123efb770348187553e1b50cf1c44dac6d62ee89494fff03901"
+    },
+    {
+      "id": "course-lexeme-b04234e3217b517d",
+      "de": "die Rechnung",
+      "ua": "рахунок",
+      "scene": "Restaurant bill receipt with an orange edge and simple navy amount lines, no readable text",
+      "cell": [
+        724,
+        0,
+        1448,
+        724
+      ],
+      "alphaCropInCell": [
+        102,
+        128,
+        621,
+        607
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_b04234e3217b517d.png",
+      "sha256": "0b0a72f5ebb9736cbd518b85b8151d34ee9fa586e159df1669f07883cd6b006a"
+    },
+    {
+      "id": "course-lexeme-7237c9fe86658cd6",
+      "de": "das Café",
+      "ua": "кафе",
+      "scene": "Small welcoming cafe storefront with orange awning and cup symbol",
+      "cell": [
+        1448,
+        0,
+        2172,
+        724
+      ],
+      "alphaCropInCell": [
+        71,
+        98,
+        664,
+        628
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_7237c9fe86658cd6.png",
+      "sha256": "bdcb8c0e9d2c35f783fb5b15bbb1dfa2c0031154b1c757bd2b922268369b2956"
+    }
+  ]
+}

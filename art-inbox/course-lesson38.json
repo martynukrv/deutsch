@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "die Uhr",
+      "ua": "година / годинник",
+      "file": "course_c38db6bd267f913a.png"
+    },
+    {
+      "de": "halb",
+      "ua": "половина до наступної години",
+      "file": "course_b6aea37c0f8aaa04.png"
+    },
+    {
+      "de": "der Mai",
+      "ua": "травень",
+      "file": "course_d7b05bc0de22b279.png"
+    },
+    {
+      "de": "der Geburtstag",
+      "ua": "день народження",
+      "file": "course_7e08bfa51d21db70.png"
+    },
+    {
+      "de": "der Termin",
+      "ua": "запланована зустріч",
+      "file": "course_28c07535619e7b79.png"
+    }
+  ]
+}

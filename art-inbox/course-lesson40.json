@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "stellen",
+      "ua": "ставити",
+      "file": "course_cd51caa089455c1d.png"
+    },
+    {
+      "de": "legen",
+      "ua": "класти",
+      "file": "course_833ab2b32db7ac36.png"
+    },
+    {
+      "de": "der Garten",
+      "ua": "сад",
+      "file": "course_c8e490418e220323.png"
+    }
+  ]
+}

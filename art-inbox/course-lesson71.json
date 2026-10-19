@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "der Vorname",
+      "ua": "ім’я",
+      "file": "course_71b43eb586537391.png"
+    },
+    {
+      "de": "der Nachname",
+      "ua": "прізвище",
+      "file": "course_d8c7cfd215aa466f.png"
+    },
+    {
+      "de": "die Adresse",
+      "ua": "адреса",
+      "file": "course_93422abcc2b8d3d5.png"
+    },
+    {
+      "de": "die Telefonnummer",
+      "ua": "номер телефону",
+      "file": "course_ad787518763fa8a2.png"
+    },
+    {
+      "de": "buchstabieren",
+      "ua": "називати по літерах",
+      "file": "course_2b3bec8594f1c80c.png"
+    },
+    {
+      "de": "das Formular",
+      "ua": "формуляр",
+      "file": "course_06079490110f2eaa.png"
+    },
+    {
+      "de": "die Hausnummer",
+      "ua": "номер будинку",
+      "file": "course_4365305c5012ceb9.png"
+    },
+    {
+      "de": "ausfüllen",
+      "ua": "заповнювати",
+      "file": "course_f59914ebbe96e2e6.png"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "lesson": 64,
+  "cols": 3,
+  "rows": 3,
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Asset type: ONE transparent vocabulary sprite sheet for German lesson 64, \"Більший і швидший, ніж\". EXACTLY 3 columns and 3 rows of EQUAL-size cells. Each illustration must stay inside its own cell's CENTRAL 60%, with very LARGE TRANSPARENT gutters around every cell, including the bottom row. No figures crossing cell borders, even in the last row. No shared elements. Unused cells stay fully transparent. Read cells left to right, top to bottom.\nSTYLE: match approved references: playful compact chibi cartoons, thick organic navy #102B50 contours, simple white #FFFFFF/cream #FFF1E5 surfaces and orange #FF5726 accents. ONLY these four colors, even skin/hair/plants/water. White/cream-haired children with navy facial features. Add short tapered navy/orange signature dashes beside EACH complete composition. Restrained large details for 110px display. Every pixel outside the hard clean silhouette shapes MUST have alpha=0, never partially transparent colored clouds. No bloom or semitransparent glow. No glow, haze, gradients, backdrop shadows, glossy emoji, 3D or realism. Transparent background between all shapes. No titles, printed vocabulary labels, cell numbers or borders. Only internal letters/digits explicitly requested in a scene may appear. Uniform cell centers and scales; all characters/objects fully visible.\nCELLS:\n1 [schnell, швидкий]: Friendly rabbit running quickly with long orange speed dashes.\n2 [größer, більший]: Two similar cream boxes, LEFT small and RIGHT much larger, right highlighted orange.\n3 [kleiner, менший]: Two similar cream boxes, LEFT large and RIGHT much smaller, right highlighted orange.\n4 [besser, кращий]: Two small simple stars, right star brighter orange with a little upward arrow: better.\n5 [mehr, більше]: Two bowls of berries, left with two and right with six, right highlighted orange.\n6 [als, ніж]: Two similar simple blocks of unequal height with a small orange comparison arrow between.\n7 [so … wie, так само … як]: Two identical same-size cream boxes side by side linked by an orange equality sign.\nGuide labels are NOT to be printed. Every cell contains ONLY its assigned complete scene.",
+  "words": [
+    {
+      "id": "course-lexeme-cc906841996c2cd2",
+      "de": "schnell",
+      "ua": "швидкий",
+      "scene": "Friendly rabbit running quickly with long orange speed dashes",
+      "slot": 0
+    },
+    {
+      "id": "course-lexeme-ae18d3c9424eb8b4",
+      "de": "größer",
+      "ua": "більший",
+      "scene": "Two similar cream boxes, LEFT small and RIGHT much larger, right highlighted orange",
+      "slot": 1
+    },
+    {
+      "id": "course-lexeme-c6f3aa416b7eeb03",
+      "de": "kleiner",
+      "ua": "менший",
+      "scene": "Two similar cream boxes, LEFT large and RIGHT much smaller, right highlighted orange",
+      "slot": 2
+    },
+    {
+      "id": "course-lexeme-6bdcbaacb871d49b",
+      "de": "besser",
+      "ua": "кращий",
+      "scene": "Two small simple stars, right star brighter orange with a little upward arrow: better",
+      "slot": 3
+    },
+    {
+      "id": "course-lexeme-3593cd6c26b24848",
+      "de": "mehr",
+      "ua": "більше",
+      "scene": "Two bowls of berries, left with two and right with six, right highlighted orange",
+      "slot": 4
+    },
+    {
+      "id": "course-lexeme-b044b89a1a59b8f4",
+      "de": "als",
+      "ua": "ніж",
+      "scene": "Two similar simple blocks of unequal height with a small orange comparison arrow between",
+      "slot": 5
+    },
+    {
+      "id": "course-lexeme-1e5e5ac00b02a7a6",
+      "de": "so … wie",
+      "ua": "так само … як",
+      "scene": "Two identical same-size cream boxes side by side linked by an orange equality sign",
+      "slot": 6
+    }
+  ],
+  "references": [
+    "assets/illustrations/course/ready.png",
+    "assets/illustrations/food/apfel.png"
+  ]
+}

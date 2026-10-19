@@ -1,0 +1,94 @@
+{
+  "lesson": 78,
+  "cols": 2,
+  "rows": 2,
+  "originalSha256": "02452b4994c8036c658e736e6e26fdd0431b7b3089933544371103d0dabc94f8",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-cb63ff86d339ff0a",
+      "de": "werden",
+      "ua": "допоміжне дієслово майбутнього часу",
+      "scene": "Child imagining themself as a future taller person, small arrow from present to future",
+      "cell": [
+        0,
+        0,
+        624,
+        640
+      ],
+      "alphaCropInCell": [
+        61,
+        87,
+        601,
+        603
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_cb63ff86d339ff0a.png",
+      "sha256": "42ae359cc1fb2c7dc257636b90a1cf27842ecc253683bb69a3f8139ed1ebeb86"
+    },
+    {
+      "id": "course-lexeme-472325157fdab3fb",
+      "de": "nächste Woche",
+      "ua": "наступного тижня",
+      "scene": "Two calendar weeks, clear orange arrow to the NEXT week",
+      "cell": [
+        624,
+        0,
+        1254,
+        640
+      ],
+      "alphaCropInCell": [
+        24,
+        211,
+        590,
+        540
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_472325157fdab3fb.png",
+      "sha256": "2ee8e8136c71e0ddedac34bfbca057e80038bb8cc72f44f3b44036fb041354bd"
+    },
+    {
+      "id": "course-lexeme-6289cbdab3e6ee0f",
+      "de": "der Plan",
+      "ua": "план",
+      "scene": "Open cream planning notebook with a simple navy path leading to an orange goal flag",
+      "cell": [
+        0,
+        640,
+        658,
+        1254
+      ],
+      "alphaCropInCell": [
+        61,
+        63,
+        615,
+        505
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_6289cbdab3e6ee0f.png",
+      "sha256": "7feb99ec0846c08904ee0db5750c6abb123274aa72fad15fcd683c50e6296dc7"
+    },
+    {
+      "id": "course-lexeme-95204693cf83f35c",
+      "de": "üben",
+      "ua": "практикуватися",
+      "scene": "Child practicing stacking blocks repeatedly with small loop arrow",
+      "cell": [
+        658,
+        640,
+        1254,
+        1254
+      ],
+      "alphaCropInCell": [
+        44,
+        37,
+        549,
+        534
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_95204693cf83f35c.png",
+      "sha256": "09222156184b04d55300bdffecaa87da4404c1530ffe5f3b79533e84ec0ee047"
+    }
+  ]
+}

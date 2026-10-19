@@ -1,0 +1,48 @@
+{
+  "lesson": 76,
+  "cols": 3,
+  "rows": 2,
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Asset type: ONE transparent vocabulary sprite sheet for German lesson 76, \"Транспорт, квитки та житло в подорожі\". EXACTLY 3 columns and 2 rows of EQUAL-size cells. Each illustration must stay inside its own cell's CENTRAL 60%, with very LARGE TRANSPARENT gutters around every cell, including the bottom row. No figures crossing cell borders, even in the last row. No shared elements. Unused cells stay fully transparent. Read cells left to right, top to bottom.\nSTYLE: match approved references: playful compact chibi cartoons, thick organic navy #102B50 contours, simple white #FFFFFF/cream #FFF1E5 surfaces and orange #FF5726 accents. ONLY these four colors, even skin/hair/plants/water. White/cream-haired children with navy facial features. Add short tapered navy/orange signature dashes beside EACH complete composition. Restrained large details for 110px display. Every pixel outside the hard clean silhouette shapes MUST have alpha=0, never partially transparent colored clouds. No bloom or semitransparent glow. No glow, haze, gradients, backdrop shadows, glossy emoji, 3D or realism. Transparent background between all shapes. No titles, printed vocabulary labels, cell numbers or borders. Only internal letters/digits explicitly requested in a scene may appear. Uniform cell centers and scales; all characters/objects fully visible.\nCELLS:\n1 [die Fahrkarte, квиток на транспорт]: One orange transport ticket with cream train pictogram and navy outline, no text.\n2 [abfahren, відправлятися]: Simple orange train departing a small platform with forward motion dashes.\n3 [das Gleis, колія]: Simple railway tracks with two parallel navy rails and large cream sleepers.\n4 [das Hotel, готель]: Small welcoming cream hotel building with orange doorway and a bed symbol.\n5 [buchen, бронювати]: Hand selecting a small hotel room card on an orange device, booking.\nGuide labels are NOT to be printed. Every cell contains ONLY its assigned complete scene.",
+  "words": [
+    {
+      "id": "course-lexeme-4fc49b1d5e55faa3",
+      "de": "die Fahrkarte",
+      "ua": "квиток на транспорт",
+      "scene": "One orange transport ticket with cream train pictogram and navy outline, no text",
+      "slot": 0
+    },
+    {
+      "id": "course-lexeme-a491965ff63db98b",
+      "de": "abfahren",
+      "ua": "відправлятися",
+      "scene": "Simple orange train departing a small platform with forward motion dashes",
+      "slot": 1
+    },
+    {
+      "id": "course-lexeme-e4cb754c72586e11",
+      "de": "das Gleis",
+      "ua": "колія",
+      "scene": "Simple railway tracks with two parallel navy rails and large cream sleepers",
+      "slot": 2
+    },
+    {
+      "id": "course-lexeme-f4b9b1113a4207ca",
+      "de": "das Hotel",
+      "ua": "готель",
+      "scene": "Small welcoming cream hotel building with orange doorway and a bed symbol",
+      "slot": 3
+    },
+    {
+      "id": "course-lexeme-2feea14b5c00cb29",
+      "de": "buchen",
+      "ua": "бронювати",
+      "scene": "Hand selecting a small hotel room card on an orange device, booking",
+      "slot": 4
+    }
+  ],
+  "references": [
+    "assets/illustrations/course/ready.png",
+    "assets/illustrations/food/apfel.png"
+  ]
+}

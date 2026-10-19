@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "die Heizung",
+      "ua": "опалення",
+      "file": "course_9156e88459246130.png"
+    },
+    {
+      "de": "kaputt",
+      "ua": "несправний",
+      "file": "course_00c81671d92ca255.png"
+    },
+    {
+      "de": "funktionieren",
+      "ua": "функціонувати",
+      "file": "course_a819acb6613c29f9.png"
+    },
+    {
+      "de": "aufräumen",
+      "ua": "прибирати",
+      "file": "course_aa85039ae26c6373.png"
+    },
+    {
+      "de": "reparieren",
+      "ua": "ремонтувати",
+      "file": "course_c4b5284ffa972047.png"
+    },
+    {
+      "de": "putzen",
+      "ua": "прибирати / чистити",
+      "file": "course_abc331d0f296e006.png"
+    }
+  ]
+}

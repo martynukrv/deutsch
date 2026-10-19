@@ -1,0 +1,52 @@
+{
+  "lesson": 47,
+  "cols": 3,
+  "rows": 1,
+  "originalSha256": "99ebe3604784313446607c8001da9a2a557762cc705daee0a0d20df1d2b30cc2",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-ec257f628221479b",
+      "de": "passen",
+      "ua": "підходити",
+      "scene": "Two simple puzzle pieces fitting neatly together",
+      "cell": [
+        0,
+        0,
+        724,
+        724
+      ],
+      "alphaCropInCell": [
+        56,
+        196,
+        680,
+        538
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_ec257f628221479b.png",
+      "sha256": "6ee39ba14edbdba9c7a058dba30867914ff3a13afb2d79572ef00ff332b39747"
+    },
+    {
+      "id": "course-lexeme-98d9cc053d91faec",
+      "de": "leider",
+      "ua": "на жаль",
+      "scene": "Child with a gently apologetic sad face and open palms",
+      "cell": [
+        724,
+        0,
+        1448,
+        724
+      ],
+      "alphaCropInCell": [
+        92,
+        57,
+        609,
+        675
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_98d9cc053d91faec.png",
+      "sha256": "15d775e9db2eb580b19b5e37a9745e05ba7d433c5b89c6084a18a8182969c146"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "verstehen",
+      "ua": "розуміти",
+      "file": "course_da56adf03ee72438.png"
+    },
+    {
+      "de": "besuchen",
+      "ua": "відвідувати",
+      "file": "course_de038420ed292e91.png"
+    },
+    {
+      "de": "erklären",
+      "ua": "пояснювати",
+      "file": "course_3856c49615db204e.png"
+    },
+    {
+      "de": "bezahlen",
+      "ua": "оплачувати",
+      "file": "course_8aa76e8b6bf5c558.png"
+    },
+    {
+      "de": "telefonieren",
+      "ua": "розмовляти телефоном",
+      "file": "course_5c1b3e9df70cd6bb.png"
+    },
+    {
+      "de": "studieren",
+      "ua": "навчатися у виші",
+      "file": "course_9df1a49a6c43ca48.png"
+    },
+    {
+      "de": "das Wort",
+      "ua": "слово",
+      "file": "course_722f7e3997de1415.png"
+    }
+  ]
+}

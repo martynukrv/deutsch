@@ -1,0 +1,52 @@
+{
+  "lesson": 28,
+  "cols": 2,
+  "rows": 1,
+  "originalSha256": "941bfbb78b819b4889e29b95a2c2a8a2252116c8a0cb6db4750dc76d1e9d10fa",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-0b7a7a48667409b1",
+      "de": "dürfen",
+      "ua": "мати дозвіл",
+      "scene": "Child receiving an affirmative thumbs-up from an adult next to an open gate: permission",
+      "cell": [
+        0,
+        0,
+        929,
+        887
+      ],
+      "alphaCropInCell": [
+        40,
+        111,
+        848,
+        794
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_0b7a7a48667409b1.png",
+      "sha256": "586a142ced3491148f693a0e9bea5952c47602d796735bb002c9007ddcf524c9"
+    },
+    {
+      "id": "course-lexeme-afcad6580fc8eff4",
+      "de": "rauchen",
+      "ua": "курити",
+      "scene": "A single cigarette with a small navy curl of smoke, no person or glamorous treatment",
+      "cell": [
+        929,
+        0,
+        1774,
+        887
+      ],
+      "alphaCropInCell": [
+        82,
+        177,
+        764,
+        735
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_afcad6580fc8eff4.png",
+      "sha256": "9c7e124a1fed79f8f37bd267aeb0373d3cbf77db0af7ce094e4cc733032779d6"
+    }
+  ]
+}

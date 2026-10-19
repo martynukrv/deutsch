@@ -1,0 +1,31 @@
+{
+  "lesson": 69,
+  "cols": 1,
+  "rows": 1,
+  "originalSha256": "213ccc0ad563b9b4e0c2ee267c720b10fc448bbc720eee73b7ca3f227bbb168f",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-5adc078ea15a4f93",
+      "de": "frisch",
+      "ua": "свіжий",
+      "scene": "One fresh orange apple with a cream leaf outlined navy and small freshness sparkle",
+      "cell": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alphaCropInCell": [
+        119,
+        165,
+        1151,
+        1119
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_5adc078ea15a4f93.png",
+      "sha256": "3ec895201155ee3dd13d15cff7727886ef7e82bff115092ffa4a2dbba542a2e6"
+    }
+  ]
+}

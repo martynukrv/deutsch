@@ -1,0 +1,115 @@
+{
+  "lesson": 75,
+  "cols": 3,
+  "rows": 2,
+  "originalSha256": "80e92339a69a5a704c2fa6d5f67fbb8d336efabf6ca7d868b5bc77496807eb64",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-b991cb1f3b350671",
+      "de": "der Unterricht",
+      "ua": "урок / заняття",
+      "scene": "Teacher pointing at a small blank classroom board with two attentive children",
+      "cell": [
+        0,
+        0,
+        549,
+        547
+      ],
+      "alphaCropInCell": [
+        29,
+        73,
+        507,
+        506
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_b991cb1f3b350671.png",
+      "sha256": "f5a62f8a6e1d1150c49149f430693d71ca382294b4e5dafe82deee67454efc21"
+    },
+    {
+      "id": "course-lexeme-96c53f8bf13e4481",
+      "de": "die Arbeit",
+      "ua": "робота",
+      "scene": "Friendly adult working at a simple orange desk with an open laptop",
+      "cell": [
+        549,
+        0,
+        1042,
+        547
+      ],
+      "alphaCropInCell": [
+        42,
+        80,
+        454,
+        502
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_96c53f8bf13e4481.png",
+      "sha256": "dbe49cff73b95e8d4682d5a647a14500147c8baefea2726d634fdc10fb247156"
+    },
+    {
+      "id": "course-lexeme-dd851ded4f8a92e7",
+      "de": "die Pause",
+      "ua": "перерва",
+      "scene": "Child relaxing on a bench with a small orange pause symbol",
+      "cell": [
+        1042,
+        0,
+        1536,
+        547
+      ],
+      "alphaCropInCell": [
+        40,
+        116,
+        450,
+        504
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_dd851ded4f8a92e7.png",
+      "sha256": "6e025e5b139ad7836cd61df2cd1fbf0449f6df15bb5f95ce271de5459676a3f6"
+    },
+    {
+      "id": "course-lexeme-714fd775c97e0f47",
+      "de": "anfangen",
+      "ua": "починатися",
+      "scene": "Child beginning to open a book at a little orange start marker",
+      "cell": [
+        0,
+        547,
+        531,
+        1024
+      ],
+      "alphaCropInCell": [
+        53,
+        42,
+        492,
+        419
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_714fd775c97e0f47.png",
+      "sha256": "979b1ba2bbffc03870f39cc123433aead37ce59ea72b735741224405697f52a6"
+    },
+    {
+      "id": "course-lexeme-85ac48dca4d63321",
+      "de": "die Hausaufgaben",
+      "ua": "домашнє завдання",
+      "scene": "Child writing homework in an open book beside an orange school backpack",
+      "cell": [
+        531,
+        547,
+        1536,
+        1024
+      ],
+      "alphaCropInCell": [
+        40,
+        46,
+        513,
+        418
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_85ac48dca4d63321.png",
+      "sha256": "df6a7d0492eb5df7b67aa16d08c7ddb2cc9ae0d08b061a6ed90ad006d2f931f8"
+    }
+  ]
+}

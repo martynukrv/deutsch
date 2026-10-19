@@ -1,0 +1,94 @@
+{
+  "lesson": 22,
+  "cols": 2,
+  "rows": 2,
+  "originalSha256": "b4295b54ef0803caa50efb9bd4f3c59301317d48cd33a01f0f30d6081d7ff046",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-e4f74e14d16b1dcb",
+      "de": "mögen",
+      "ua": "любити / подобатися",
+      "scene": "Child smiling warmly at a small heart above a favorite toy: liking",
+      "cell": [
+        0,
+        0,
+        687,
+        572
+      ],
+      "alphaCropInCell": [
+        111,
+        50,
+        648,
+        559
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_e4f74e14d16b1dcb.png",
+      "sha256": "f1d4a16e0eeb1dbaf809137cdb6349716c6f76607bf74051a22916db3aed53aa"
+    },
+    {
+      "id": "course-lexeme-480cc885ca0b24fb",
+      "de": "gern",
+      "ua": "охоче",
+      "scene": "Child eagerly playing an instrument with a joyful face: gladly",
+      "cell": [
+        687,
+        0,
+        1374,
+        572
+      ],
+      "alphaCropInCell": [
+        53,
+        45,
+        644,
+        560
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_480cc885ca0b24fb.png",
+      "sha256": "1a4f6f48c679f4e46436cb6b5b59e2b7efc014a66855629947e369b6c3b59021"
+    },
+    {
+      "id": "course-lexeme-2a9bbfb01dac4f3e",
+      "de": "die Musik",
+      "ua": "музика",
+      "scene": "Simple orange musical note and small headphones",
+      "cell": [
+        0,
+        572,
+        687,
+        1145
+      ],
+      "alphaCropInCell": [
+        69,
+        76,
+        646,
+        493
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_2a9bbfb01dac4f3e.png",
+      "sha256": "38b91f839afe6e9243abbee8bb46f18c0aeeca7200f4883b9a62ba5bab18c623"
+    },
+    {
+      "id": "course-lexeme-83f838d9aee12e9f",
+      "de": "der Sport",
+      "ua": "спорт",
+      "scene": "Child joyfully kicking an orange football",
+      "cell": [
+        687,
+        572,
+        1374,
+        1145
+      ],
+      "alphaCropInCell": [
+        45,
+        29,
+        645,
+        522
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_83f838d9aee12e9f.png",
+      "sha256": "3c602665753b5fc697ed488514bb0b22d0b61b384c4c03fc248193ee94f8de0f"
+    }
+  ]
+}

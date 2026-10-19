@@ -1,0 +1,115 @@
+{
+  "lesson": 33,
+  "cols": 3,
+  "rows": 2,
+  "originalSha256": "c27e8fc07d847b70bb5d571c511b33100aaaed2b5d8c1f25d51448e25cdcb5b9",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-9746e8ba8ebb2010",
+      "de": "zeigen",
+      "ua": "показувати",
+      "scene": "Child pointing clearly at a framed picture to show it to another child",
+      "cell": [
+        0,
+        0,
+        538,
+        566
+      ],
+      "alphaCropInCell": [
+        23,
+        104,
+        532,
+        505
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_9746e8ba8ebb2010.png",
+      "sha256": "3455eeaa3e72a8b47cfdf1e2653d660da9c2dee84b5a1665f6eeed9d159a50c3"
+    },
+    {
+      "id": "course-lexeme-0efbeebf817e9fce",
+      "de": "schenken",
+      "ua": "дарувати",
+      "scene": "Child handing a wrapped gift to a delighted friend",
+      "cell": [
+        538,
+        0,
+        1053,
+        566
+      ],
+      "alphaCropInCell": [
+        7,
+        111,
+        497,
+        506
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_0efbeebf817e9fce.png",
+      "sha256": "72df926ce83ab51d59bd0cfaa35b175576e5b447a5273c07e1537e921cc7bd75"
+    },
+    {
+      "id": "course-lexeme-262870414c23075b",
+      "de": "das Geschenk",
+      "ua": "подарунок",
+      "scene": "One playful orange gift box with cream ribbon and navy contours",
+      "cell": [
+        1053,
+        0,
+        1536,
+        566
+      ],
+      "alphaCropInCell": [
+        18,
+        163,
+        411,
+        494
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_262870414c23075b.png",
+      "sha256": "a7517450dbe6c5379bc85c63e8141138e564c871ee7834af1246791e1497b8ae"
+    },
+    {
+      "id": "course-lexeme-25b853700bceb636",
+      "de": "der Ball",
+      "ua": "м’яч",
+      "scene": "One friendly orange cream football, navy outlines",
+      "cell": [
+        0,
+        566,
+        511,
+        1024
+      ],
+      "alphaCropInCell": [
+        47,
+        61,
+        469,
+        350
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_25b853700bceb636.png",
+      "sha256": "e8033d5578f9dfd52159e8c49093f285308e675d5ffbdba3a226ea229d3cc107"
+    },
+    {
+      "id": "course-lexeme-8e1ce687a6dbead2",
+      "de": "das Bild",
+      "ua": "картина / зображення",
+      "scene": "Simple navy frame enclosing a cream mountain and orange sun picture",
+      "cell": [
+        511,
+        566,
+        1536,
+        1024
+      ],
+      "alphaCropInCell": [
+        43,
+        66,
+        488,
+        333
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_8e1ce687a6dbead2.png",
+      "sha256": "809a60ce2309bd4b1d15cb66b9efafd3319a3554a8fd3b098fb8c4518367b132"
+    }
+  ]
+}

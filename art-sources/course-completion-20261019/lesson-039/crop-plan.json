@@ -1,0 +1,199 @@
+{
+  "lesson": 39,
+  "cols": 3,
+  "rows": 3,
+  "originalSha256": "9a10fb05908cf4ee5e86d12614889e486e18c266e424b744ab34f3e4213e3f8f",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-eaecc8ef185712d2",
+      "de": "in",
+      "ua": "в / у",
+      "scene": "Orange ball visibly INSIDE an open cream box",
+      "cell": [
+        0,
+        0,
+        436,
+        419
+      ],
+      "alphaCropInCell": [
+        48,
+        108,
+        403,
+        396
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_eaecc8ef185712d2.png",
+      "sha256": "cf6204c061153235db51992e4dd17b886904e9527c2385e83b06b88059642ccc"
+    },
+    {
+      "id": "course-lexeme-fa71aac3c67db3c5",
+      "de": "auf",
+      "ua": "на (поверхні)",
+      "scene": "Orange ball resting ON TOP of a small cream table",
+      "cell": [
+        436,
+        0,
+        843,
+        419
+      ],
+      "alphaCropInCell": [
+        33,
+        93,
+        363,
+        389
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_fa71aac3c67db3c5.png",
+      "sha256": "5a8b228f0b4667d5d2cb77c2d090e0062bd15e2be9e3024234e06bb9686f7d6f"
+    },
+    {
+      "id": "course-lexeme-935ca190572f0fc7",
+      "de": "unter",
+      "ua": "під",
+      "scene": "Orange ball UNDER a small cream table",
+      "cell": [
+        843,
+        0,
+        1254,
+        419
+      ],
+      "alphaCropInCell": [
+        44,
+        155,
+        375,
+        377
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_935ca190572f0fc7.png",
+      "sha256": "5f2441ec4642659ef1b8bb54aaca6b4364eb705e335cc3b37b5f4d086668d291"
+    },
+    {
+      "id": "course-lexeme-3366117bb294d7e3",
+      "de": "neben",
+      "ua": "поруч із",
+      "scene": "Orange ball BESIDE a small cream box",
+      "cell": [
+        0,
+        419,
+        450,
+        841
+      ],
+      "alphaCropInCell": [
+        49,
+        163,
+        409,
+        380
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_3366117bb294d7e3.png",
+      "sha256": "005c8befe08bf98b8596efe1849248bfb6f2b39abc36792712ebb0d5c304d389"
+    },
+    {
+      "id": "course-lexeme-83251c723a90ce56",
+      "de": "die Wand",
+      "ua": "стіна",
+      "scene": "Small cream wall of a few large blocks, thick navy edges",
+      "cell": [
+        450,
+        419,
+        843,
+        841
+      ],
+      "alphaCropInCell": [
+        42,
+        72,
+        333,
+        380
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_83251c723a90ce56.png",
+      "sha256": "a550f4310671aae0a8df03c3c0084684ad96b55aec81040337604052139a920b"
+    },
+    {
+      "id": "course-lexeme-1ae8a47c590c26e6",
+      "de": "stehen",
+      "ua": "стояти",
+      "scene": "Child standing straight upright with both feet on ground",
+      "cell": [
+        843,
+        419,
+        1254,
+        841
+      ],
+      "alphaCropInCell": [
+        61,
+        23,
+        336,
+        412
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_1ae8a47c590c26e6.png",
+      "sha256": "9a7ebab66a0d5990e352dbf12f6898a4141fedb609059a92d4cef90f3654a8bd"
+    },
+    {
+      "id": "course-lexeme-72813e9d121b98d1",
+      "de": "liegen",
+      "ua": "лежати",
+      "scene": "Child lying down comfortably on a simple cream mat",
+      "cell": [
+        0,
+        841,
+        445,
+        1254
+      ],
+      "alphaCropInCell": [
+        42,
+        71,
+        431,
+        325
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_72813e9d121b98d1.png",
+      "sha256": "3d1ec0411bbb9fead1dab37272ace1f49df4304a46a209503be35c0eda17b4aa"
+    },
+    {
+      "id": "course-lexeme-9d88f98846395e91",
+      "de": "laufen",
+      "ua": "бігати",
+      "scene": "Child running with expressive orange motion dashes",
+      "cell": [
+        445,
+        841,
+        844,
+        1254
+      ],
+      "alphaCropInCell": [
+        15,
+        11,
+        354,
+        356
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_9d88f98846395e91.png",
+      "sha256": "6d27af6b59e311f9f756e411883e167609dda793fa0f475ae47e924d64f20f74"
+    },
+    {
+      "id": "course-lexeme-d0299eec7de4fbfd",
+      "de": "hängen",
+      "ua": "вішати / висіти",
+      "scene": "One orange picture frame hanging from a hook on a small cream wall",
+      "cell": [
+        844,
+        841,
+        1254,
+        1254
+      ],
+      "alphaCropInCell": [
+        45,
+        31,
+        363,
+        356
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_d0299eec7de4fbfd.png",
+      "sha256": "cca0321567d4c215dc88cff81e6e151e2992f58935f78d5178964d02c7e1a56f"
+    }
+  ]
+}

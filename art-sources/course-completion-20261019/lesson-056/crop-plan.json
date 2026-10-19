@@ -1,0 +1,52 @@
+{
+  "lesson": 56,
+  "cols": 2,
+  "rows": 1,
+  "originalSha256": "d5c595e12c0aefd004fbf8b7a4d7d0a8076106dd82e790732e4f75fd0887ffdb",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-a3590b436deeba7a",
+      "de": "man",
+      "ua": "неозначено-особовий займенник",
+      "scene": "Three ordinary people each doing the same small everyday action, no single person singled out",
+      "cell": [
+        0,
+        0,
+        1062,
+        887
+      ],
+      "alphaCropInCell": [
+        19,
+        213,
+        1030,
+        743
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_a3590b436deeba7a.png",
+      "sha256": "32b6bfbdb9f7c1516b2a2b958aa64628a09ddaebc1e9d5300509dd4f59c981e5"
+    },
+    {
+      "id": "course-lexeme-b416201e4d9ee3b0",
+      "de": "die Karte",
+      "ua": "картка",
+      "scene": "One orange payment card with a small cream chip and two navy simple lines, no numbers",
+      "cell": [
+        1062,
+        0,
+        1774,
+        887
+      ],
+      "alphaCropInCell": [
+        68,
+        278,
+        679,
+        684
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_b416201e4d9ee3b0.png",
+      "sha256": "768a6fbc23ba90c9b846700b91888d59bd8e097fbd2329f4887a38e546e22b0e"
+    }
+  ]
+}

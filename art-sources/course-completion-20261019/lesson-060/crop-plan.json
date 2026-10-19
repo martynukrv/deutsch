@@ -1,0 +1,94 @@
+{
+  "lesson": 60,
+  "cols": 2,
+  "rows": 2,
+  "originalSha256": "38578677be371d38587bd718809c4dd1beeea3421abd9ad30ee3f07cb7b4962d",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-482fb10cc2efd420",
+      "de": "wenn",
+      "ua": "якщо / коли (умова, повторення)",
+      "scene": "Rain cloud in a thought bubble connected by a small arrow to an umbrella: if it rains",
+      "cell": [
+        0,
+        0,
+        642,
+        665
+      ],
+      "alphaCropInCell": [
+        90,
+        76,
+        596,
+        611
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_482fb10cc2efd420.png",
+      "sha256": "f3fdd850cfbbb9b2f66c63a9e3163712cf6017fb7e0a4a9438de325980184b10"
+    },
+    {
+      "id": "course-lexeme-faacd4005ab76bb4",
+      "de": "frei",
+      "ua": "вільний",
+      "scene": "Child happily stretching free arms beside an open gate, freedom",
+      "cell": [
+        642,
+        0,
+        1286,
+        665
+      ],
+      "alphaCropInCell": [
+        46,
+        122,
+        609,
+        616
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_faacd4005ab76bb4.png",
+      "sha256": "408e23f1c59cb48438da3c42d21eb73370314dc6a7ece7736300354d6186aa1c"
+    },
+    {
+      "id": "course-lexeme-c1766166c4eaeb90",
+      "de": "früh",
+      "ua": "рано",
+      "scene": "Rising orange sun above simple cream horizon next to small alarm clock: early",
+      "cell": [
+        0,
+        665,
+        635,
+        1223
+      ],
+      "alphaCropInCell": [
+        39,
+        54,
+        602,
+        488
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_c1766166c4eaeb90.png",
+      "sha256": "029ea2233ba2090a257528d90c229932629fa1c0060384c3e126ee1e08eb0705"
+    },
+    {
+      "id": "course-lexeme-0d42dba4ecf0f474",
+      "de": "zusammen",
+      "ua": "разом",
+      "scene": "Two friendly children carrying one shared box TOGETHER",
+      "cell": [
+        635,
+        665,
+        1286,
+        1223
+      ],
+      "alphaCropInCell": [
+        34,
+        49,
+        633,
+        513
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_0d42dba4ecf0f474.png",
+      "sha256": "0defb117d9791ac665c85c2ffb148c8f83722ef12f18b64b9c19a2474207ce1c"
+    }
+  ]
+}

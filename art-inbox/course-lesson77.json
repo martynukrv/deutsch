@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "einladen",
+      "ua": "запрошувати",
+      "file": "course_0cfe44afe7b5a4d9.png"
+    },
+    {
+      "de": "verschieben",
+      "ua": "переносити (зустріч)",
+      "file": "course_b43a12a36f4cbfc2.png"
+    }
+  ]
+}

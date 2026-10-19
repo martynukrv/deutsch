@@ -1,0 +1,73 @@
+{
+  "lesson": 67,
+  "cols": 3,
+  "rows": 1,
+  "originalSha256": "66eba18ea32bd453367310ddca01ec7211997d1677a8008b72c472481a3c9d1c",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-49211de5f5e437b1",
+      "de": "ein guter Freund",
+      "ua": "добрий друг",
+      "scene": "Friendly smiling child offering support to a friend, both together, one orange heart",
+      "cell": [
+        0,
+        0,
+        747,
+        724
+      ],
+      "alphaCropInCell": [
+        80,
+        67,
+        664,
+        662
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_49211de5f5e437b1.png",
+      "sha256": "153f0bf165c6e7913430e06f90dfb358d9b17549e1760e35557cfc22b009d609"
+    },
+    {
+      "id": "course-lexeme-660e0d0220192fd6",
+      "de": "eine kleine Katze",
+      "ua": "маленька кішка",
+      "scene": "One SMALL playful cream kitten with navy outlines and orange ears",
+      "cell": [
+        747,
+        0,
+        1465,
+        724
+      ],
+      "alphaCropInCell": [
+        84,
+        156,
+        616,
+        632
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_660e0d0220192fd6.png",
+      "sha256": "d765f59b3ef53315459eea0309418d5f6f98e97ead4e3eb62d8ff44e5e3f7ce6"
+    },
+    {
+      "id": "course-lexeme-43d3890f180561e6",
+      "de": "ein neues Buch",
+      "ua": "нова книжка",
+      "scene": "One crisp orange NEW book with cream pages and a small orange sparkle",
+      "cell": [
+        1465,
+        0,
+        2172,
+        724
+      ],
+      "alphaCropInCell": [
+        103,
+        102,
+        607,
+        619
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_43d3890f180561e6.png",
+      "sha256": "a62acffaa73a14b0a0638f81af5decb6c6526ae45b04f4a4938c2536d98cd4d9"
+    }
+  ]
+}

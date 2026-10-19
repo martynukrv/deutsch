@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "in",
+      "ua": "в / у",
+      "file": "course_eaecc8ef185712d2.png"
+    },
+    {
+      "de": "auf",
+      "ua": "на (поверхні)",
+      "file": "course_fa71aac3c67db3c5.png"
+    },
+    {
+      "de": "unter",
+      "ua": "під",
+      "file": "course_935ca190572f0fc7.png"
+    },
+    {
+      "de": "neben",
+      "ua": "поруч із",
+      "file": "course_3366117bb294d7e3.png"
+    },
+    {
+      "de": "die Wand",
+      "ua": "стіна",
+      "file": "course_83251c723a90ce56.png"
+    },
+    {
+      "de": "stehen",
+      "ua": "стояти",
+      "file": "course_1ae8a47c590c26e6.png"
+    },
+    {
+      "de": "liegen",
+      "ua": "лежати",
+      "file": "course_72813e9d121b98d1.png"
+    },
+    {
+      "de": "laufen",
+      "ua": "бігати",
+      "file": "course_9d88f98846395e91.png"
+    },
+    {
+      "de": "hängen",
+      "ua": "вішати / висіти",
+      "file": "course_d0299eec7de4fbfd.png"
+    }
+  ]
+}

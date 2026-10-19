@@ -1,0 +1,157 @@
+{
+  "lesson": 64,
+  "cols": 3,
+  "rows": 3,
+  "originalSha256": "44f8b2b117fe383711ac577ab6f787a8dc30b55c67e6cf2427c30bd76db3cafe",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-cc906841996c2cd2",
+      "de": "schnell",
+      "ua": "швидкий",
+      "scene": "Friendly rabbit running quickly with long orange speed dashes",
+      "cell": [
+        0,
+        0,
+        446,
+        470
+      ],
+      "alphaCropInCell": [
+        29,
+        91,
+        423,
+        427
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_cc906841996c2cd2.png",
+      "sha256": "81b70e11cc98e1889b71f730483916da9c9b8eb6b1a45c1b8c3518d7a74ae80c"
+    },
+    {
+      "id": "course-lexeme-ae18d3c9424eb8b4",
+      "de": "größer",
+      "ua": "більший",
+      "scene": "Two similar cream boxes, LEFT small and RIGHT much larger, right highlighted orange",
+      "cell": [
+        446,
+        0,
+        845,
+        470
+      ],
+      "alphaCropInCell": [
+        23,
+        117,
+        366,
+        418
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_ae18d3c9424eb8b4.png",
+      "sha256": "11fbcd9d8a7dbd93aef529931266383b7629f9fe1b353dd247d20ed2c28d94c3"
+    },
+    {
+      "id": "course-lexeme-c6f3aa416b7eeb03",
+      "de": "kleiner",
+      "ua": "менший",
+      "scene": "Two similar cream boxes, LEFT large and RIGHT much smaller, right highlighted orange",
+      "cell": [
+        845,
+        0,
+        1254,
+        470
+      ],
+      "alphaCropInCell": [
+        34,
+        202,
+        384,
+        417
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_c6f3aa416b7eeb03.png",
+      "sha256": "b14aa35b52b6b275b2c750b518a091548133039db1682255add48b1c9230adbb"
+    },
+    {
+      "id": "course-lexeme-6bdcbaacb871d49b",
+      "de": "besser",
+      "ua": "кращий",
+      "scene": "Two small simple stars, right star brighter orange with a little upward arrow: better",
+      "cell": [
+        0,
+        470,
+        430,
+        886
+      ],
+      "alphaCropInCell": [
+        67,
+        76,
+        415,
+        357
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_6bdcbaacb871d49b.png",
+      "sha256": "5086fa47c6b161182ccdca7df5d821294bd59efec5bfd16b7b6a7949027ba273"
+    },
+    {
+      "id": "course-lexeme-3593cd6c26b24848",
+      "de": "mehr",
+      "ua": "більше",
+      "scene": "Two bowls of berries, left with two and right with six, right highlighted orange",
+      "cell": [
+        430,
+        470,
+        848,
+        886
+      ],
+      "alphaCropInCell": [
+        15,
+        91,
+        386,
+        371
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_3593cd6c26b24848.png",
+      "sha256": "aaa2b85d3a6e4e972d99b2a72b4d12fdc4677ea75cbfd7179d1409506f1678f3"
+    },
+    {
+      "id": "course-lexeme-b044b89a1a59b8f4",
+      "de": "als",
+      "ua": "ніж",
+      "scene": "Two similar simple blocks of unequal height with a small orange comparison arrow between",
+      "cell": [
+        848,
+        470,
+        1254,
+        886
+      ],
+      "alphaCropInCell": [
+        33,
+        74,
+        372,
+        357
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_b044b89a1a59b8f4.png",
+      "sha256": "3a270dccc882cd208671ef097f28a58fd62995cae93ae16d0169a505ee502ced"
+    },
+    {
+      "id": "course-lexeme-1e5e5ac00b02a7a6",
+      "de": "so … wie",
+      "ua": "так само … як",
+      "scene": "Two identical same-size cream boxes side by side linked by an orange equality sign",
+      "cell": [
+        0,
+        886,
+        1254,
+        1254
+      ],
+      "alphaCropInCell": [
+        42,
+        123,
+        657,
+        298
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_1e5e5ac00b02a7a6.png",
+      "sha256": "fc42a079016f84aee3122611f0cbdc6eb94e6494cdb9a5950fa1b88ad8d20ac6"
+    }
+  ]
+}

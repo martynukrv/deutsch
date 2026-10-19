@@ -1,0 +1,50 @@
+{
+  "lesson": 19,
+  "cols": 2,
+  "rows": 1,
+  "originalSha256": "0eb7019ee44aa8ec9ab70343c5a1b7eabd33af29d2e1b5bc4b6d4e1994c4c739",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-c487816a5be16c92",
+      "de": "suchen",
+      "ua": "шукати",
+      "scene": "Child searching under a table with a magnifying glass",
+      "cell": [
+        0,
+        0,
+        1086,
+        724
+      ],
+      "alphaCropInCell": [
+        71,
+        31,
+        1064,
+        690
+      ],
+      "file": "course_c487816a5be16c92.png",
+      "sha256": "7ae2647e4fb253137323586bde8eae6d6d937bdeb8d6ac32d3903b35e5d511dc"
+    },
+    {
+      "id": "course-lexeme-8049eda005358d3d",
+      "de": "es gibt",
+      "ua": "є / існує",
+      "scene": "Open treasure chest revealing a visible toy ball: something exists/is there",
+      "cell": [
+        1086,
+        0,
+        2172,
+        724
+      ],
+      "alphaCropInCell": [
+        41,
+        23,
+        1048,
+        702
+      ],
+      "file": "course_8049eda005358d3d.png",
+      "sha256": "39a0b0121ecc6efe539a5768591585e21f647661bbbc13ffb03a2a83ae85b341"
+    }
+  ]
+}

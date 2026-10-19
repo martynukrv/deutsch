@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "man",
+      "ua": "неозначено-особовий займенник",
+      "file": "course_a3590b436deeba7a.png"
+    },
+    {
+      "de": "die Karte",
+      "ua": "картка",
+      "file": "course_b416201e4d9ee3b0.png"
+    }
+  ]
+}

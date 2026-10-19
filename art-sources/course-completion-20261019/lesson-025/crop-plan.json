@@ -1,0 +1,31 @@
+{
+  "lesson": 25,
+  "cols": 1,
+  "rows": 1,
+  "originalSha256": "79d4ed9de3873104d983aa92047f46e97a416ecd30b7733d4d3377cc6795e45d",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-b7baed75d9cf5417",
+      "de": "schwimmen",
+      "ua": "плавати",
+      "scene": "Child swimming with arms above simple navy outlined cream waves, no blue",
+      "cell": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "alphaCropInCell": [
+        115,
+        169,
+        1421,
+        854
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_b7baed75d9cf5417.png",
+      "sha256": "a4bda49ef21b8719a5ececf88a1f64e4242d9a21486ec1817858bc09312e40fa"
+    }
+  ]
+}

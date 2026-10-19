@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "das Hemd",
+      "ua": "сорочка",
+      "file": "course_1f24e4d027af4b80.png"
+    },
+    {
+      "de": "die Größe",
+      "ua": "розмір",
+      "file": "course_d8a7e73cc1549d81.png"
+    },
+    {
+      "de": "anprobieren",
+      "ua": "приміряти",
+      "file": "course_973b84754c0500d9.png"
+    },
+    {
+      "de": "teuer",
+      "ua": "дорогий",
+      "file": "course_457b9b860e6dfe3f.png"
+    },
+    {
+      "de": "billig",
+      "ua": "дешевий",
+      "file": "course_e1003b940d4e8a04.png"
+    }
+  ]
+}

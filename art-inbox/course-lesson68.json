@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "mit einem guten Freund",
+      "ua": "з добрим другом",
+      "file": "course_e0209220a02b4b28.png"
+    },
+    {
+      "de": "bei meiner alten Schule",
+      "ua": "біля моєї старої школи",
+      "file": "course_b4ca7924dc987471.png"
+    },
+    {
+      "de": "freundlich",
+      "ua": "привітний",
+      "file": "course_262473192d19b935.png"
+    }
+  ]
+}

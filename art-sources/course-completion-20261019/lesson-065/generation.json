@@ -1,0 +1,48 @@
+{
+  "lesson": 65,
+  "cols": 3,
+  "rows": 2,
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Asset type: ONE transparent vocabulary sprite sheet for German lesson 65, \"Найкращий і найбільший\". EXACTLY 3 columns and 2 rows of EQUAL-size cells. Each illustration must stay inside its own cell's CENTRAL 60%, with very LARGE TRANSPARENT gutters around every cell, including the bottom row. No figures crossing cell borders, even in the last row. No shared elements. Unused cells stay fully transparent. Read cells left to right, top to bottom.\nSTYLE: match approved references: playful compact chibi cartoons, thick organic navy #102B50 contours, simple white #FFFFFF/cream #FFF1E5 surfaces and orange #FF5726 accents. ONLY these four colors, even skin/hair/plants/water. White/cream-haired children with navy facial features. Add short tapered navy/orange signature dashes beside EACH complete composition. Restrained large details for 110px display. Every pixel outside the hard clean silhouette shapes MUST have alpha=0, never partially transparent colored clouds. No bloom or semitransparent glow. No glow, haze, gradients, backdrop shadows, glossy emoji, 3D or realism. Transparent background between all shapes. No titles, printed vocabulary labels, cell numbers or borders. Only internal letters/digits explicitly requested in a scene may appear. Uniform cell centers and scales; all characters/objects fully visible.\nCELLS:\n1 [am besten, найкраще]: Child standing on a simple winners podium with one orange trophy.\n2 [am liebsten, найохочіше / найбільше любити]: Child hugging their favorite orange book with a large small heart above.\n3 [am meisten, найбільше]: Three bowls of berries, the bowl with MOST berries highlighted orange.\n4 [am schnellsten, найшвидше]: Three running rabbits, farthest-ahead rabbit highlighted orange as fastest.\n5 [lieber, охочіше]: Child choosing an orange apple over a cream cookie, a small heart above the apple.\nGuide labels are NOT to be printed. Every cell contains ONLY its assigned complete scene.",
+  "words": [
+    {
+      "id": "course-lexeme-617382b59df4cd6b",
+      "de": "am besten",
+      "ua": "найкраще",
+      "scene": "Child standing on a simple winners podium with one orange trophy",
+      "slot": 0
+    },
+    {
+      "id": "course-lexeme-3ce0f5fff4a4c13a",
+      "de": "am liebsten",
+      "ua": "найохочіше / найбільше любити",
+      "scene": "Child hugging their favorite orange book with a large small heart above",
+      "slot": 1
+    },
+    {
+      "id": "course-lexeme-96538ed6f70c1507",
+      "de": "am meisten",
+      "ua": "найбільше",
+      "scene": "Three bowls of berries, the bowl with MOST berries highlighted orange",
+      "slot": 2
+    },
+    {
+      "id": "course-lexeme-f3d19043e9dbd491",
+      "de": "am schnellsten",
+      "ua": "найшвидше",
+      "scene": "Three running rabbits, farthest-ahead rabbit highlighted orange as fastest",
+      "slot": 3
+    },
+    {
+      "id": "course-lexeme-1348cfe34b3c60e8",
+      "de": "lieber",
+      "ua": "охочіше",
+      "scene": "Child choosing an orange apple over a cream cookie, a small heart above the apple",
+      "slot": 4
+    }
+  ],
+  "references": [
+    "assets/illustrations/course/ready.png",
+    "assets/illustrations/food/apfel.png"
+  ]
+}

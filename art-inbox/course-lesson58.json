@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "dass",
+      "ua": "що (сполучник)",
+      "file": "course_0d47a455e04ee9d5.png"
+    },
+    {
+      "de": "denken",
+      "ua": "думати",
+      "file": "course_038b891891597e40.png"
+    },
+    {
+      "de": "glauben",
+      "ua": "вважати / вірити",
+      "file": "course_55be9cce4d825d23.png"
+    }
+  ]
+}

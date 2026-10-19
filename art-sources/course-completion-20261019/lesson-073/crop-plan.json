@@ -1,0 +1,115 @@
+{
+  "lesson": 73,
+  "cols": 3,
+  "rows": 2,
+  "originalSha256": "8be0486edff3932df23d25b2522bd6ece6394daa5cf5ad1ab831ebe4e092286e",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-5b00128160357929",
+      "de": "die Kopfschmerzen",
+      "ua": "головний біль",
+      "scene": "Child pressing fingers to temples with small orange pain zigzags near head",
+      "cell": [
+        0,
+        0,
+        546,
+        542
+      ],
+      "alphaCropInCell": [
+        74,
+        50,
+        484,
+        530
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_5b00128160357929.png",
+      "sha256": "c54aad8f4fb60c70ca1dfe2fc82df4cb6a8521e247c4612fbe1f021490f5375b"
+    },
+    {
+      "id": "course-lexeme-b2cbb33e2a4908f9",
+      "de": "wehtun",
+      "ua": "боліти",
+      "scene": "Child touching a sore knee with small orange pain zigzags",
+      "cell": [
+        546,
+        0,
+        1050,
+        542
+      ],
+      "alphaCropInCell": [
+        62,
+        60,
+        472,
+        521
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_b2cbb33e2a4908f9.png",
+      "sha256": "ef4fee2a9fdaa1c55d345356ac4379a0114fbf3e0a6284581fb664cbbc8864c1"
+    },
+    {
+      "id": "course-lexeme-66f5f2a71240733c",
+      "de": "das Fieber",
+      "ua": "підвищена температура",
+      "scene": "Simple orange thermometer beside child with flushed cheeks, fever",
+      "cell": [
+        1050,
+        0,
+        1536,
+        542
+      ],
+      "alphaCropInCell": [
+        33,
+        51,
+        447,
+        529
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_66f5f2a71240733c.png",
+      "sha256": "8bf62ec9b9e7c45ccf82f84b89c8f372f0df1422be0f09f1a22040a7cd313f0a"
+    },
+    {
+      "id": "course-lexeme-146d0cadd6805c23",
+      "de": "die Ärztin",
+      "ua": "лікарка",
+      "scene": "Friendly female doctor in white coat, navy hair and orange stethoscope",
+      "cell": [
+        0,
+        540,
+        768,
+        1024
+      ],
+      "alphaCropInCell": [
+        270,
+        14,
+        700,
+        439
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_146d0cadd6805c23.png",
+      "sha256": "29fd72dd5cb476fdfc2d09d468551d8cac88ab42ec7adc9d0a16dd6e09e72fb5"
+    },
+    {
+      "id": "course-lexeme-a543b1d822d37816",
+      "de": "der Termin",
+      "ua": "запланований прийом",
+      "scene": "Calendar appointment page linked to an orange medical cross and small clock",
+      "cell": [
+        768,
+        540,
+        1536,
+        1024
+      ],
+      "alphaCropInCell": [
+        38,
+        79,
+        473,
+        423
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_a543b1d822d37816.png",
+      "sha256": "9c74f617fe7aaf0b14c591c6a1f4719528888bf66f11108b39e0948a886eacd5"
+    }
+  ]
+}

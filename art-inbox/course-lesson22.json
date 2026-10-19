@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "mögen",
+      "ua": "любити / подобатися",
+      "file": "course_e4f74e14d16b1dcb.png"
+    },
+    {
+      "de": "gern",
+      "ua": "охоче",
+      "file": "course_480cc885ca0b24fb.png"
+    },
+    {
+      "de": "die Musik",
+      "ua": "музика",
+      "file": "course_2a9bbfb01dac4f3e.png"
+    },
+    {
+      "de": "der Sport",
+      "ua": "спорт",
+      "file": "course_83f838d9aee12e9f.png"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "lesson": 57,
+  "cols": 2,
+  "rows": 2,
+  "originalSha256": "23b4b9ff9baf93b7aa9e8918017f2716be01324bb051963f920fd486bd499c3c",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-c2b8c27ca0ea527d",
+      "de": "denn",
+      "ua": "адже / бо",
+      "scene": "Small rain cloud beside child explaining an umbrella in a speech bubble: because",
+      "cell": [
+        0,
+        0,
+        669,
+        640
+      ],
+      "alphaCropInCell": [
+        52,
+        84,
+        604,
+        598
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_c2b8c27ca0ea527d.png",
+      "sha256": "53978bc2cdfcadaf367c36e26184a99feaa99439646ee5dde1644de50762a43f"
+    },
+    {
+      "id": "course-lexeme-8ff64ddec51c52d3",
+      "de": "kochen",
+      "ua": "готувати їжу",
+      "scene": "Child stirring a simple orange cooking pot with a spoon",
+      "cell": [
+        669,
+        0,
+        1254,
+        640
+      ],
+      "alphaCropInCell": [
+        66,
+        107,
+        504,
+        579
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_8ff64ddec51c52d3.png",
+      "sha256": "296e4d03a41df53135e44706f381fc80c783e529ea816f4e4d8a05d2e2c1c2cb"
+    },
+    {
+      "id": "course-lexeme-63ab50f3b1230006",
+      "de": "wenig",
+      "ua": "мало",
+      "scene": "Small bowl with only TWO cream berries clearly showing a small amount",
+      "cell": [
+        0,
+        640,
+        603,
+        1254
+      ],
+      "alphaCropInCell": [
+        135,
+        182,
+        518,
+        497
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_63ab50f3b1230006.png",
+      "sha256": "a9037daaaf5899d5ea34ec05cec7934197651e054d2e1da45fc0d4d21e290cd9"
+    },
+    {
+      "id": "course-lexeme-7c4bbf3d39d19726",
+      "de": "spät",
+      "ua": "пізно",
+      "scene": "Child looking surprised at a clock beside a low orange setting sun: late",
+      "cell": [
+        603,
+        640,
+        1254,
+        1254
+      ],
+      "alphaCropInCell": [
+        85,
+        43,
+        632,
+        544
+      ],
+      "geometryAlphaThreshold": 128,
+      "file": "course_7c4bbf3d39d19726.png",
+      "sha256": "7ea3c9258285ff4883164a639275a226988ff481708b8d992d452d613cddcbb0"
+    }
+  ]
+}

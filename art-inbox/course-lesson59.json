@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "deshalb",
+      "ua": "тому / через це",
+      "file": "course_fe263a20453a421e.png"
+    },
+    {
+      "de": "darum",
+      "ua": "тому",
+      "file": "course_ae96d46fc00a6ab8.png"
+    },
+    {
+      "de": "regnen",
+      "ua": "дощити",
+      "file": "course_cc492023d5ddbd34.png"
+    },
+    {
+      "de": "noch",
+      "ua": "ще",
+      "file": "course_b199ecdeb983d9ba.png"
+    },
+    {
+      "de": "froh",
+      "ua": "радий",
+      "file": "course_353922964fc00424.png"
+    }
+  ]
+}

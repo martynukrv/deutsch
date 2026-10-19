@@ -1,0 +1,157 @@
+{
+  "lesson": 16,
+  "cols": 3,
+  "rows": 3,
+  "originalSha256": "9abb6b32b826d31edef6e4cff35f07404f2314d66ae57b673620afa6bab2248f",
+  "approved": true,
+  "operation": "Crop equal cells verified visually, crop alpha bounds, proportional fit to 480px and transparent padding to 512px; never draw or recolor",
+  "items": [
+    {
+      "id": "course-lexeme-0b7f4e4186727cc3",
+      "de": "mein",
+      "ua": "мій",
+      "scene": "Child pointing to their own chest while hugging their orange book: mine",
+      "cell": [
+        0,
+        0,
+        437,
+        426
+      ],
+      "alphaCropInCell": [
+        51,
+        40,
+        396,
+        407
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_0b7f4e4186727cc3.png",
+      "sha256": "79de1c473c33710acd6b477b5390f3fea541f17724f83fdbfaeee3c7647a50d8"
+    },
+    {
+      "id": "course-lexeme-0ddcbee2bb8498ff",
+      "de": "dein",
+      "ua": "твій",
+      "scene": "Child offering an orange book outward toward the viewer: yours",
+      "cell": [
+        437,
+        0,
+        875,
+        426
+      ],
+      "alphaCropInCell": [
+        46,
+        40,
+        378,
+        411
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_0ddcbee2bb8498ff.png",
+      "sha256": "c5b2be328ae166b391f6f800c099f90179c7fa7c402cc170ae0a045c8d927045"
+    },
+    {
+      "id": "course-lexeme-a439c2303a05c465",
+      "de": "sein",
+      "ua": "його (присвійне)",
+      "scene": "Boy with his orange backpack clearly beside him, pointing toward the boy as owner",
+      "cell": [
+        875,
+        0,
+        1312,
+        426
+      ],
+      "alphaCropInCell": [
+        25,
+        41,
+        399,
+        401
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_a439c2303a05c465.png",
+      "sha256": "e4df5e1bdc855344270daa1ebbf7b3e592d3685220ee64d347346e3b8f06df21"
+    },
+    {
+      "id": "course-lexeme-d8d8206d1075de02",
+      "de": "ihr",
+      "ua": "її / їхній",
+      "scene": "Girl with her orange handbag beside her, pointing toward girl as owner",
+      "cell": [
+        0,
+        426,
+        437,
+        817
+      ],
+      "alphaCropInCell": [
+        21,
+        15,
+        410,
+        367
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_d8d8206d1075de02.png",
+      "sha256": "e91abaf16d3fd34f824b9d6733544ef8b03ba94f37f72e760c4139312d619f03"
+    },
+    {
+      "id": "course-lexeme-74b68c0133979b65",
+      "de": "unser",
+      "ua": "наш",
+      "scene": "Two children holding one shared large book together: ours",
+      "cell": [
+        437,
+        426,
+        875,
+        817
+      ],
+      "alphaCropInCell": [
+        12,
+        16,
+        424,
+        369
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_74b68c0133979b65.png",
+      "sha256": "c1564bf02822360bc8f93ddc6df731fbd7b9ec60fb71fe1c45da0a13e9ad1473"
+    },
+    {
+      "id": "course-lexeme-bbd4b20f1ffdc0d3",
+      "de": "euer",
+      "ua": "ваш (кілька людей)",
+      "scene": "Two other children receiving a shared ball from a small foreground hand: yours plural",
+      "cell": [
+        875,
+        426,
+        1312,
+        817
+      ],
+      "alphaCropInCell": [
+        13,
+        22,
+        419,
+        385
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_bbd4b20f1ffdc0d3.png",
+      "sha256": "e96b286089c4c05332d7c48e5a495027a1746e4b87758757474ebf8bc7b8bd47"
+    },
+    {
+      "id": "course-lexeme-ee3722091a73234f",
+      "de": "Ihr",
+      "ua": "Ваш (ввічливо)",
+      "scene": "Politely dressed adult receiving their orange briefcase from a child: formal yours",
+      "cell": [
+        0,
+        817,
+        1312,
+        1199
+      ],
+      "alphaCropInCell": [
+        31,
+        6,
+        462,
+        355
+      ],
+      "geometryAlphaThreshold": 16,
+      "file": "course_ee3722091a73234f.png",
+      "sha256": "d0427cb74a5758d8419872c64e5325c9e07c3e72c51f4189d512988bcf7560ad"
+    }
+  ]
+}
