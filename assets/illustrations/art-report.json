@@ -307,6 +307,1734 @@
   },
   {
     "category": "course",
+    "de": "mein",
+    "ua": "мій",
+    "path": "assets/illustrations/course/course_0b7f4e4186727cc3.png",
+    "sha256": "79de1c473c33710acd6b477b5390f3fea541f17724f83fdbfaeee3c7647a50d8",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "dein",
+    "ua": "твій",
+    "path": "assets/illustrations/course/course_0ddcbee2bb8498ff.png",
+    "sha256": "c5b2be328ae166b391f6f800c099f90179c7fa7c402cc170ae0a045c8d927045",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "sein",
+    "ua": "його (присвійне)",
+    "path": "assets/illustrations/course/course_a439c2303a05c465.png",
+    "sha256": "e4df5e1bdc855344270daa1ebbf7b3e592d3685220ee64d347346e3b8f06df21",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "ihr",
+    "ua": "її / їхній",
+    "path": "assets/illustrations/course/course_d8d8206d1075de02.png",
+    "sha256": "e91abaf16d3fd34f824b9d6733544ef8b03ba94f37f72e760c4139312d619f03",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "unser",
+    "ua": "наш",
+    "path": "assets/illustrations/course/course_74b68c0133979b65.png",
+    "sha256": "c1564bf02822360bc8f93ddc6df731fbd7b9ec60fb71fe1c45da0a13e9ad1473",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "euer",
+    "ua": "ваш (кілька людей)",
+    "path": "assets/illustrations/course/course_bbd4b20f1ffdc0d3.png",
+    "sha256": "e96b286089c4c05332d7c48e5a495027a1746e4b87758757474ebf8bc7b8bd47",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "Ihr",
+    "ua": "Ваш (ввічливо)",
+    "path": "assets/illustrations/course/course_ee3722091a73234f.png",
+    "sha256": "d0427cb74a5758d8419872c64e5325c9e07c3e72c51f4189d512988bcf7560ad",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "suchen",
+    "ua": "шукати",
+    "path": "assets/illustrations/course/course_c487816a5be16c92.png",
+    "sha256": "7ae2647e4fb253137323586bde8eae6d6d937bdeb8d6ac32d3903b35e5d511dc",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "es gibt",
+    "ua": "є / існує",
+    "path": "assets/illustrations/course/course_8049eda005358d3d.png",
+    "sha256": "39a0b0121ecc6efe539a5768591585e21f647661bbbc13ffb03a2a83ae85b341",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "mögen",
+    "ua": "любити / подобатися",
+    "path": "assets/illustrations/course/course_e4f74e14d16b1dcb.png",
+    "sha256": "f1d4a16e0eeb1dbaf809137cdb6349716c6f76607bf74051a22916db3aed53aa",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "gern",
+    "ua": "охоче",
+    "path": "assets/illustrations/course/course_480cc885ca0b24fb.png",
+    "sha256": "1a4f6f48c679f4e46436cb6b5b59e2b7efc014a66855629947e369b6c3b59021",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Musik",
+    "ua": "музика",
+    "path": "assets/illustrations/course/course_2a9bbfb01dac4f3e.png",
+    "sha256": "38b91f839afe6e9243abbee8bb46f18c0aeeca7200f4883b9a62ba5bab18c623",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Sport",
+    "ua": "спорт",
+    "path": "assets/illustrations/course/course_83f838d9aee12e9f.png",
+    "sha256": "3c602665753b5fc697ed488514bb0b22d0b61b384c4c03fc248193ee94f8de0f",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Zucker",
+    "ua": "цукор",
+    "path": "assets/illustrations/course/course_c525891f01aa3b12.png",
+    "sha256": "5afac62e7c3d0123efb770348187553e1b50cf1c44dac6d62ee89494fff03901",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Rechnung",
+    "ua": "рахунок",
+    "path": "assets/illustrations/course/course_b04234e3217b517d.png",
+    "sha256": "0b0a72f5ebb9736cbd518b85b8151d34ee9fa586e159df1669f07883cd6b006a",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "das Café",
+    "ua": "кафе",
+    "path": "assets/illustrations/course/course_7237c9fe86658cd6.png",
+    "sha256": "bdcb8c0e9d2c35f783fb5b15bbb1dfa2c0031154b1c757bd2b922268369b2956",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "schwimmen",
+    "ua": "плавати",
+    "path": "assets/illustrations/course/course_b7baed75d9cf5417.png",
+    "sha256": "a4bda49ef21b8719a5ececf88a1f64e4242d9a21486ec1817858bc09312e40fa",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "sollen",
+    "ua": "мати зробити / слід",
+    "path": "assets/illustrations/course/course_5357fcd39f860fcd.png",
+    "sha256": "efa0f7fab2a7b793f07d1c900f298e784fbebd128381c9eda458203df3f6d0fd",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "warten",
+    "ua": "чекати",
+    "path": "assets/illustrations/course/course_8a8a140399c42837.png",
+    "sha256": "01f19bfcea9777df80ccce132bb305a0ef4bab08b7df5f36525c5b56ae0b9533",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "möchten",
+    "ua": "хотіти б (ввічливо)",
+    "path": "assets/illustrations/course/course_5cc68d619a5d016f.png",
+    "sha256": "befa253e27a1deeb354fc98e471df0fb69fd7fe3065aab16e4689d886999a011",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "reisen",
+    "ua": "подорожувати",
+    "path": "assets/illustrations/course/course_21e34af987794719.png",
+    "sha256": "a5d7479de5112482a991fcd0b42c7110b3fc9566d66dbcd5f84277e694d86300",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "dürfen",
+    "ua": "мати дозвіл",
+    "path": "assets/illustrations/course/course_0b7a7a48667409b1.png",
+    "sha256": "586a142ced3491148f693a0e9bea5952c47602d796735bb002c9007ddcf524c9",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "rauchen",
+    "ua": "курити",
+    "path": "assets/illustrations/course/course_afcad6580fc8eff4.png",
+    "sha256": "9c7e124a1fed79f8f37bd267aeb0373d3cbf77db0af7ce094e4cc733032779d6",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "langsam",
+    "ua": "повільно",
+    "path": "assets/illustrations/course/course_ae320810bed8e2f9.png",
+    "sha256": "cb28402583584fcbed254716abf43350468f5b84f9a795fe93355282415d2b79",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "leise",
+    "ua": "тихо",
+    "path": "assets/illustrations/course/course_d37802788ef3d0c6.png",
+    "sha256": "369e1fc4613ed63de3dddd9d762ce7f57cd283661d7834d5d705574d8d07f5b6",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "antworten",
+    "ua": "відповідати",
+    "path": "assets/illustrations/course/course_67c3201d0c79772e.png",
+    "sha256": "1fd813d50a009223f3c7df9284fcb259436781636f0f66725c0fd51807834776",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "zeigen",
+    "ua": "показувати",
+    "path": "assets/illustrations/course/course_9746e8ba8ebb2010.png",
+    "sha256": "3455eeaa3e72a8b47cfdf1e2653d660da9c2dee84b5a1665f6eeed9d159a50c3",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "schenken",
+    "ua": "дарувати",
+    "path": "assets/illustrations/course/course_0efbeebf817e9fce.png",
+    "sha256": "72df926ce83ab51d59bd0cfaa35b175576e5b447a5273c07e1537e921cc7bd75",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "das Geschenk",
+    "ua": "подарунок",
+    "path": "assets/illustrations/course/course_262870414c23075b.png",
+    "sha256": "a7517450dbe6c5379bc85c63e8141138e564c871ee7834af1246791e1497b8ae",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Ball",
+    "ua": "м’яч",
+    "path": "assets/illustrations/course/course_25b853700bceb636.png",
+    "sha256": "e8033d5578f9dfd52159e8c49093f285308e675d5ffbdba3a226ea229d3cc107",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "das Bild",
+    "ua": "картина / зображення",
+    "path": "assets/illustrations/course/course_8e1ce687a6dbead2.png",
+    "sha256": "809a60ce2309bd4b1d15cb66b9efafd3319a3554a8fd3b098fb8c4518367b132",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "zu",
+    "ua": "до",
+    "path": "assets/illustrations/course/course_f7e659cbeece0133.png",
+    "sha256": "30eab7469c2e09b2845b531afd98d005df68dac7830899f276666edc7ca84ecb",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "von",
+    "ua": "від",
+    "path": "assets/illustrations/course/course_ecd25fafe848b23c.png",
+    "sha256": "9184ac9da39811119bda044d8e7d2488d3354b15ccaf3ea28c4b4d7bbf53a94f",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "aus",
+    "ua": "з (походження)",
+    "path": "assets/illustrations/course/course_6028ea467a07fd8c.png",
+    "sha256": "61e9f721177fac826e9ae5b4f9840c54e69a3ca3ef4d7df214dc9a9b507e5837",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "bei",
+    "ua": "у / при",
+    "path": "assets/illustrations/course/course_4ae9495bf7b81e57.png",
+    "sha256": "15a9931061c56911068699664f5922801678a52dd5cf325b4dca852f182825f7",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "nach",
+    "ua": "до (місто, країна без артикля)",
+    "path": "assets/illustrations/course/course_ae626abd30d1d1b9.png",
+    "sha256": "675c74e70f406c9fdf73f6027be5499a7786d77dc26d04f3266265e9a0118364",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Arzt",
+    "ua": "лікар",
+    "path": "assets/illustrations/course/course_7cba6b93504d1027.png",
+    "sha256": "c361726cf98bfbf8f38487d44fd7f5feed388d30b20fac97c5cf195c618227f0",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "für",
+    "ua": "для",
+    "path": "assets/illustrations/course/course_d80f132e585b603b.png",
+    "sha256": "1928ce4cdd604e7f345ed89ce6840c701afb1fb84b632e4231d38a18a4b789ca",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "gegen",
+    "ua": "проти / об",
+    "path": "assets/illustrations/course/course_1ee4b27807772bde.png",
+    "sha256": "e10191cc177dcda05e336d23d53f150ad243d185d392338c12244e2236195363",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "durch",
+    "ua": "через",
+    "path": "assets/illustrations/course/course_21a4097855430785.png",
+    "sha256": "128f4756533febe94322fdd7b5cf3fdc83a39337bc28e7962d0e277999ad2c49",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "um",
+    "ua": "навколо / о (час)",
+    "path": "assets/illustrations/course/course_5212d0b4f20f8620.png",
+    "sha256": "07ba77db53fe5c1cfb25485d6c39026b13df1006b27c2f5fe56eefa9c06d8ae1",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Tasche",
+    "ua": "сумка",
+    "path": "assets/illustrations/course/course_b6c121b222ea295b.png",
+    "sha256": "b856e49699b5b1d53e1dd48ecffa587a0bf6f4c65ae06bb693fa55f8f9c9e393",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "tausend",
+    "ua": "тисяча",
+    "path": "assets/illustrations/course/course_15c80fe449acf79b.png",
+    "sha256": "835edafb841e59285f9a4019a87de7a83b5f4b14b3ab97f949a535ee923ffebe",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "kosten",
+    "ua": "коштувати",
+    "path": "assets/illustrations/course/course_c0ff8da75fa24004.png",
+    "sha256": "b0f764ee6bcc3581d27761cf73941853c99bb8bea2130d14b09fc56738e83a15",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Euro",
+    "ua": "євро",
+    "path": "assets/illustrations/course/course_f2a7b19847ea24e6.png",
+    "sha256": "4fc2665379831deb51d6b13cf72eaedd236b7ded47313becc4243a84c276f5c4",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Cent",
+    "ua": "цент",
+    "path": "assets/illustrations/course/course_570fd431597c4cf8.png",
+    "sha256": "1edb96910ee54cdfc9ce45b5d41f5ee3bee4cd0095ea203642bf8ae80ace57ae",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Mensch",
+    "ua": "людина",
+    "path": "assets/illustrations/course/course_d183ab4cd795c4b8.png",
+    "sha256": "c8e793efafa25a8751a20e1a0cd65730ad26818b1973896d131a94a6d1389df8",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Uhr",
+    "ua": "година / годинник",
+    "path": "assets/illustrations/course/course_c38db6bd267f913a.png",
+    "sha256": "6fceebf0187b6ab7fbc1f3ee53aedb580372766cea919a1c65df53337120366c",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "halb",
+    "ua": "половина до наступної години",
+    "path": "assets/illustrations/course/course_b6aea37c0f8aaa04.png",
+    "sha256": "1f6fa0063aad82c859d169f3ad8f18ca2ec9aa63d3921b8a5a85a576ef3f3b23",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Mai",
+    "ua": "травень",
+    "path": "assets/illustrations/course/course_d7b05bc0de22b279.png",
+    "sha256": "b4e5d1155948baeffab8a63b54933b7d7aab75e36d6fea990b0f7cdc0bfad979",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Geburtstag",
+    "ua": "день народження",
+    "path": "assets/illustrations/course/course_7e08bfa51d21db70.png",
+    "sha256": "cf3189023d6e0d4325919ddb2ca2bc638dfea133dad3faf3d837a3f0f2fd57b0",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Termin",
+    "ua": "запланована зустріч",
+    "path": "assets/illustrations/course/course_28c07535619e7b79.png",
+    "sha256": "80bcf12d61bde3f97d1122b39d1dca57b45f1e6f03aebe3af4d02d4a3e0e3cdc",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "in",
+    "ua": "в / у",
+    "path": "assets/illustrations/course/course_eaecc8ef185712d2.png",
+    "sha256": "cf6204c061153235db51992e4dd17b886904e9527c2385e83b06b88059642ccc",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "auf",
+    "ua": "на (поверхні)",
+    "path": "assets/illustrations/course/course_fa71aac3c67db3c5.png",
+    "sha256": "5a8b228f0b4667d5d2cb77c2d090e0062bd15e2be9e3024234e06bb9686f7d6f",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "unter",
+    "ua": "під",
+    "path": "assets/illustrations/course/course_935ca190572f0fc7.png",
+    "sha256": "5f2441ec4642659ef1b8bb54aaca6b4364eb705e335cc3b37b5f4d086668d291",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "neben",
+    "ua": "поруч із",
+    "path": "assets/illustrations/course/course_3366117bb294d7e3.png",
+    "sha256": "005c8befe08bf98b8596efe1849248bfb6f2b39abc36792712ebb0d5c304d389",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Wand",
+    "ua": "стіна",
+    "path": "assets/illustrations/course/course_83251c723a90ce56.png",
+    "sha256": "a550f4310671aae0a8df03c3c0084684ad96b55aec81040337604052139a920b",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "stehen",
+    "ua": "стояти",
+    "path": "assets/illustrations/course/course_1ae8a47c590c26e6.png",
+    "sha256": "9a7ebab66a0d5990e352dbf12f6898a4141fedb609059a92d4cef90f3654a8bd",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "liegen",
+    "ua": "лежати",
+    "path": "assets/illustrations/course/course_72813e9d121b98d1.png",
+    "sha256": "3d1ec0411bbb9fead1dab37272ace1f49df4304a46a209503be35c0eda17b4aa",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "laufen",
+    "ua": "бігати",
+    "path": "assets/illustrations/course/course_9d88f98846395e91.png",
+    "sha256": "6d27af6b59e311f9f756e411883e167609dda793fa0f475ae47e924d64f20f74",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "hängen",
+    "ua": "вішати / висіти",
+    "path": "assets/illustrations/course/course_d0299eec7de4fbfd.png",
+    "sha256": "cca0321567d4c215dc88cff81e6e151e2992f58935f78d5178964d02c7e1a56f",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "stellen",
+    "ua": "ставити",
+    "path": "assets/illustrations/course/course_cd51caa089455c1d.png",
+    "sha256": "991f8701fed3b63564d99b7f9577aa1803acceb8afd9664500140058aa349741",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "legen",
+    "ua": "класти",
+    "path": "assets/illustrations/course/course_833ab2b32db7ac36.png",
+    "sha256": "589d8666e96dc5436e2f88a358c14619d9d9944195f07df991dd534a7ffc6d17",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Garten",
+    "ua": "сад",
+    "path": "assets/illustrations/course/course_c8e490418e220323.png",
+    "sha256": "c70f48f6e542b7dca4017827db1f3a0cab0f1d973415487e8214a894806f26f6",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "links",
+    "ua": "ліворуч",
+    "path": "assets/illustrations/course/course_ea446504d732bcba.png",
+    "sha256": "e77ab44e8623d01b168bcfac9eb5e3b04ff6b71bb562a2638ee07ce85438ec60",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "rechts",
+    "ua": "праворуч",
+    "path": "assets/illustrations/course/course_4d73b34b6719fc0c.png",
+    "sha256": "18a8e9425818e9c1fca00c1d91439bd07173515f5370b5f5550d34998f0eece3",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "geradeaus",
+    "ua": "прямо",
+    "path": "assets/illustrations/course/course_b8892cf1fb086b42.png",
+    "sha256": "63d896b14ba6013409ce6f50496bacf8a594ef8e9e04e9677b0ffe1761442370",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Norden",
+    "ua": "північ",
+    "path": "assets/illustrations/course/course_8bd574f60c07f667.png",
+    "sha256": "a0aa7ba1003f3faf4cc493dba26b056905e057c409f707323e1165df702fa75d",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Süden",
+    "ua": "південь",
+    "path": "assets/illustrations/course/course_f9c24cf018252883.png",
+    "sha256": "883121ebb396c41ed5ad9769b5bcad5fbc94b9562137100ca7615a002fc683c7",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Osten",
+    "ua": "схід",
+    "path": "assets/illustrations/course/course_80557a4bc43bd484.png",
+    "sha256": "97cd5d34bc7b0002eb2e03647a26d8e34939f40af9363229a0038ea386b7e26a",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Westen",
+    "ua": "захід",
+    "path": "assets/illustrations/course/course_dd607a971187fae9.png",
+    "sha256": "03a66471c48f698d5fe2d0701ccbb47975ab2597c3bee9c530d0591f96524bd2",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "aufstehen",
+    "ua": "вставати",
+    "path": "assets/illustrations/course/course_0d65a58c743ade97.png",
+    "sha256": "2414e95d56ac1d7c53012cbb9a19cb42423743c383033a6e9b0a06156ce53200",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "anrufen",
+    "ua": "телефонувати",
+    "path": "assets/illustrations/course/course_c434610e38c8a3ef.png",
+    "sha256": "7572e7881a190b2024f9c0b0d365646ddcf3900877b79c49a68d2288efbfeb42",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "einkaufen",
+    "ua": "робити покупки",
+    "path": "assets/illustrations/course/course_b01dd3f2f60188e4.png",
+    "sha256": "d7bc1a86170f89d015845829e1ed3f8cbe0b400559bf623cba7dde1dab330c15",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "aufmachen",
+    "ua": "відчиняти",
+    "path": "assets/illustrations/course/course_3abffccaa6e35ca0.png",
+    "sha256": "648956155c412ba4c8ac0c81f30161f891b2b5f7aceaa2d8eaf34a402f60c1ab",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "mitkommen",
+    "ua": "йти разом",
+    "path": "assets/illustrations/course/course_16b4ff651c34b52a.png",
+    "sha256": "5a379be731b3f358afa027440a41776de2edf3cb0247f73507ba7d82f7489703",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "zurückkommen",
+    "ua": "повертатися",
+    "path": "assets/illustrations/course/course_cc0c15ebe426087f.png",
+    "sha256": "78685fc2ee864b445663de8dbcb7741e02c4aa1a9aa8abfc1a41be42453ddac0",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "verstehen",
+    "ua": "розуміти",
+    "path": "assets/illustrations/course/course_da56adf03ee72438.png",
+    "sha256": "e2af37f51be3a3bd35b62d8ec8d705720e48dfe9f3cc8b01501676931ba2dba2",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "besuchen",
+    "ua": "відвідувати",
+    "path": "assets/illustrations/course/course_de038420ed292e91.png",
+    "sha256": "d7dab849d5eac772e83c1263b37e52c6c26511ac61e5ef56a3cd0cafe81ce49c",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "erklären",
+    "ua": "пояснювати",
+    "path": "assets/illustrations/course/course_3856c49615db204e.png",
+    "sha256": "3ab08b59865a5842ffab246300265e58c6c49e911c9c5a58e5005203a83cf121",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "bezahlen",
+    "ua": "оплачувати",
+    "path": "assets/illustrations/course/course_8aa76e8b6bf5c558.png",
+    "sha256": "d25ffae618c83c8bd85083e0ed116fc2fdcdaad347d7afc00fe86a423da13d72",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "telefonieren",
+    "ua": "розмовляти телефоном",
+    "path": "assets/illustrations/course/course_5c1b3e9df70cd6bb.png",
+    "sha256": "0071017bb7be3369141c377ac828c5068c129fb4dd004f16aabe69b50783c9fb",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "studieren",
+    "ua": "навчатися у виші",
+    "path": "assets/illustrations/course/course_9df1a49a6c43ca48.png",
+    "sha256": "2603641c4cab17f1554c2121babc05f50f9c0b5710f24b1652f6e4693e6c6b29",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "das Wort",
+    "ua": "слово",
+    "path": "assets/illustrations/course/course_722f7e3997de1415.png",
+    "sha256": "b259b8efd4424535b95b702b87c3298f69a7ea3e4c65ddb0e2d0bfdb6fdc5674",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "sich treffen",
+    "ua": "зустрічатися",
+    "path": "assets/illustrations/course/course_b208e662f6f03d87.png",
+    "sha256": "c4f1bdb598ebefa8a4f552f2675534e321b8b1f0b25826fc7680d3fe88db0d3e",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "sich freuen",
+    "ua": "радіти",
+    "path": "assets/illustrations/course/course_360a0865af50eacc.png",
+    "sha256": "58ccd78149e46a97ecc3c802878ceb43d2226fa99cfb84086311ee105bb18a3f",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "sich waschen",
+    "ua": "митися",
+    "path": "assets/illustrations/course/course_d2caffe2e6c3bd8d.png",
+    "sha256": "bfbf00c791d5009438abb50deac4bd9f000c367f2b4b0bcb43f17a25cae79419",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "oft",
+    "ua": "часто",
+    "path": "assets/illustrations/course/course_83e0ecb1f0f1e386.png",
+    "sha256": "b4753db2374abde607d7f41d6c66a41691467c8f8f85de0f0db11aa9a8e216e5",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "manchmal",
+    "ua": "іноді",
+    "path": "assets/illustrations/course/course_97d9b4a8530f699b.png",
+    "sha256": "df2296b17208777942cfd01cc3fcb21fd8fa89e5efabac12bd9281e25fd37dca",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "selten",
+    "ua": "рідко",
+    "path": "assets/illustrations/course/course_b62e83c726dbe6a2.png",
+    "sha256": "d3bef37d516ebc1d9d97043099ebae3c0cea2fd51933e544f273ede525c3f013",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "nie",
+    "ua": "ніколи",
+    "path": "assets/illustrations/course/course_07b04d13ca361874.png",
+    "sha256": "3637ec831eb1c3654798eb7c0b4b973ce450369b24adc6f23612132e3768e2f6",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "zuerst",
+    "ua": "спочатку",
+    "path": "assets/illustrations/course/course_dd8b5df750f35767.png",
+    "sha256": "972bbc91067c33f7a30bd9c52b517c3f8cb4d50b49e5840a8a56cc289ee0f487",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "danach",
+    "ua": "після цього",
+    "path": "assets/illustrations/course/course_9c640f73a99bc116.png",
+    "sha256": "c70215f8cd896def4c7a89065d0fae905810b1b637182cb19c11ed11ed7328c4",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "passen",
+    "ua": "підходити",
+    "path": "assets/illustrations/course/course_ec257f628221479b.png",
+    "sha256": "6ee39ba14edbdba9c7a058dba30867914ff3a13afb2d79572ef00ff332b39747",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "leider",
+    "ua": "на жаль",
+    "path": "assets/illustrations/course/course_98d9cc053d91faec.png",
+    "sha256": "15d775e9db2eb580b19b5e37a9745e05ba7d433c5b89c6084a18a8182969c146",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Nachricht",
+    "ua": "повідомлення",
+    "path": "assets/illustrations/course/course_8d9c883c60fee1bd.png",
+    "sha256": "a745dad229fb15b59481a416b8885d1d9365e5419319ef0085c8c60778340f66",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "war",
+    "ua": "був / була",
+    "path": "assets/illustrations/course/course_b20c5d201024deeb.png",
+    "sha256": "75d9128b4aa03da6c0232c16dbb686bb0548d6804a7564786aa1711814cc7ebc",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "hatte",
+    "ua": "мав / мала",
+    "path": "assets/illustrations/course/course_95c0867071b4d52c.png",
+    "sha256": "785b59edd13b95ebdca7a93c8ce972f7b499dc32b46147e57eb1f5fb6cd7bace",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "krank",
+    "ua": "хворий / хвора",
+    "path": "assets/illustrations/course/course_2ea24cbdaf6e301f.png",
+    "sha256": "1139c7a200d6d5e4a5db60721bee6f59f9f640a2010d1d2c99afcbd6967da1a3",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "früher",
+    "ua": "раніше",
+    "path": "assets/illustrations/course/course_3c7f98d813c0fe5a.png",
+    "sha256": "0ba07c9fa5d4167291c348ec38fff9f4a30f91f4fb594fca89077e26719dc58b",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "man",
+    "ua": "неозначено-особовий займенник",
+    "path": "assets/illustrations/course/course_a3590b436deeba7a.png",
+    "sha256": "32b6bfbdb9f7c1516b2a2b958aa64628a09ddaebc1e9d5300509dd4f59c981e5",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Karte",
+    "ua": "картка",
+    "path": "assets/illustrations/course/course_b416201e4d9ee3b0.png",
+    "sha256": "768a6fbc23ba90c9b846700b91888d59bd8e097fbd2329f4887a38e546e22b0e",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "denn",
+    "ua": "адже / бо",
+    "path": "assets/illustrations/course/course_c2b8c27ca0ea527d.png",
+    "sha256": "53978bc2cdfcadaf367c36e26184a99feaa99439646ee5dde1644de50762a43f",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "kochen",
+    "ua": "готувати їжу",
+    "path": "assets/illustrations/course/course_8ff64ddec51c52d3.png",
+    "sha256": "296e4d03a41df53135e44706f381fc80c783e529ea816f4e4d8a05d2e2c1c2cb",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "wenig",
+    "ua": "мало",
+    "path": "assets/illustrations/course/course_63ab50f3b1230006.png",
+    "sha256": "a9037daaaf5899d5ea34ec05cec7934197651e054d2e1da45fc0d4d21e290cd9",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "spät",
+    "ua": "пізно",
+    "path": "assets/illustrations/course/course_7c4bbf3d39d19726.png",
+    "sha256": "7ea3c9258285ff4883164a639275a226988ff481708b8d992d452d613cddcbb0",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "dass",
+    "ua": "що (сполучник)",
+    "path": "assets/illustrations/course/course_0d47a455e04ee9d5.png",
+    "sha256": "eafa71ae03237a18d4bbbe9f8878d235febda7b7043adcdb15cc3a6cf65d96a6",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "denken",
+    "ua": "думати",
+    "path": "assets/illustrations/course/course_038b891891597e40.png",
+    "sha256": "053e61a3736a0ef7504b42469684bd424f7a6e840de9379adf2de74349b04f67",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "glauben",
+    "ua": "вважати / вірити",
+    "path": "assets/illustrations/course/course_55be9cce4d825d23.png",
+    "sha256": "d73165af59392bbd9e64c075f5596ab6acc85a3d4e465ce84231fc0ba0c0c351",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "deshalb",
+    "ua": "тому / через це",
+    "path": "assets/illustrations/course/course_fe263a20453a421e.png",
+    "sha256": "f0049edcfa6ee52eafcf5ade05a30c527e592169398204629a2ce09ecf4d59b8",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "darum",
+    "ua": "тому",
+    "path": "assets/illustrations/course/course_ae96d46fc00a6ab8.png",
+    "sha256": "35141d5aad15b47dcd4fe819574147e7a7d61e047771e19d283b074ac1a3886c",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "regnen",
+    "ua": "дощити",
+    "path": "assets/illustrations/course/course_cc492023d5ddbd34.png",
+    "sha256": "0f7269578ef377c2f877849da16f57ec14c4728e6c7cb23655b38ab3931d2b91",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "noch",
+    "ua": "ще",
+    "path": "assets/illustrations/course/course_b199ecdeb983d9ba.png",
+    "sha256": "01fa9c4803925c2b0a3aa8768dd514a6fb4d0944dc89df463366cd1fde2952a8",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "froh",
+    "ua": "радий",
+    "path": "assets/illustrations/course/course_353922964fc00424.png",
+    "sha256": "485d7835f979a147bea300cfcc30befdf06dcd3d8d161de2d148fba676e79fe4",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "wenn",
+    "ua": "якщо / коли (умова, повторення)",
+    "path": "assets/illustrations/course/course_482fb10cc2efd420.png",
+    "sha256": "f3fdd850cfbbb9b2f66c63a9e3163712cf6017fb7e0a4a9438de325980184b10",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "frei",
+    "ua": "вільний",
+    "path": "assets/illustrations/course/course_faacd4005ab76bb4.png",
+    "sha256": "408e23f1c59cb48438da3c42d21eb73370314dc6a7ece7736300354d6186aa1c",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "früh",
+    "ua": "рано",
+    "path": "assets/illustrations/course/course_c1766166c4eaeb90.png",
+    "sha256": "029ea2233ba2090a257528d90c229932629fa1c0060384c3e126ee1e08eb0705",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "zusammen",
+    "ua": "разом",
+    "path": "assets/illustrations/course/course_0d42dba4ecf0f474.png",
+    "sha256": "0defb117d9791ac665c85c2ffb148c8f83722ef12f18b64b9c19a2474207ce1c",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "versuchen",
+    "ua": "намагатися",
+    "path": "assets/illustrations/course/course_092bfb6d1d83685a.png",
+    "sha256": "ce35c8a7f645a9086447a50999f8913b5d5d9abedfdec43ed5e2ce3d38673643",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "vergessen",
+    "ua": "забувати",
+    "path": "assets/illustrations/course/course_5bc15582bbe8e266.png",
+    "sha256": "69c6a8266d269714a63fdc3be7356638ed200c4b3951f9fbff7f4e3e0ebda57f",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "beginnen",
+    "ua": "починати",
+    "path": "assets/illustrations/course/course_f51c6969a170b9f7.png",
+    "sha256": "0f5d7e25ae1884dee75276803d1ebd6905ed9f897c96c68f56d023bcdcc7cf88",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "hoffen",
+    "ua": "сподіватися",
+    "path": "assets/illustrations/course/course_011db95127558869.png",
+    "sha256": "c2f2a28148b3b6e9f8db5994ba197c616e6ea59a0f76b99a105dd06b9056736d",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "wichtig",
+    "ua": "важливий",
+    "path": "assets/illustrations/course/course_8f7b29ebbf17a032.png",
+    "sha256": "658213fe389dbd83880cd9b420f437569e9490bcb30ba474194b13b03731f4ac",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "Zeit haben",
+    "ua": "мати час",
+    "path": "assets/illustrations/course/course_1ee95a9408a6811a.png",
+    "sha256": "b52f2505b6f0748e955b42be7730a6a32625c2edb017f391b68b60e7f7c1cc6f",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "interessant",
+    "ua": "цікавий",
+    "path": "assets/illustrations/course/course_489a111d4c5d440e.png",
+    "sha256": "7fabb507d180c6f42b560339902ba0fedbc91b909f6e67b42e3bcae1f7b48c93",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "langweilig",
+    "ua": "нудний",
+    "path": "assets/illustrations/course/course_bc4096043af009e7.png",
+    "sha256": "0c84bb694d8bc685696a6544392633a31a1bd8a9d9f7e0df06028a9545cee063",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "warm",
+    "ua": "теплий",
+    "path": "assets/illustrations/course/course_f9ca9c3559396692.png",
+    "sha256": "592019cdb3f6e85f0abf15d5bd68d475999c73b5dd5910beb75fc17385124bf6",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "kalt",
+    "ua": "холодний",
+    "path": "assets/illustrations/course/course_ede47028b329ac9e.png",
+    "sha256": "e117421c6f397bf4b5d256718242fc275bf40482ec235495e0b4009b7e4a084a",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "traurig",
+    "ua": "сумний",
+    "path": "assets/illustrations/course/course_888d64ec78a8f01c.png",
+    "sha256": "c74055bc6fd70d927d4b37f4509308c82351d8d7aacfbd24902d6722e7c0028f",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Film",
+    "ua": "фільм",
+    "path": "assets/illustrations/course/course_5e4fd7e517f21667.png",
+    "sha256": "82f6c157d9c7b4ec65ff8063574da53081a14fcc2c60895de82501e27592111d",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "schnell",
+    "ua": "швидкий",
+    "path": "assets/illustrations/course/course_cc906841996c2cd2.png",
+    "sha256": "81b70e11cc98e1889b71f730483916da9c9b8eb6b1a45c1b8c3518d7a74ae80c",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "größer",
+    "ua": "більший",
+    "path": "assets/illustrations/course/course_ae18d3c9424eb8b4.png",
+    "sha256": "11fbcd9d8a7dbd93aef529931266383b7629f9fe1b353dd247d20ed2c28d94c3",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "kleiner",
+    "ua": "менший",
+    "path": "assets/illustrations/course/course_c6f3aa416b7eeb03.png",
+    "sha256": "b14aa35b52b6b275b2c750b518a091548133039db1682255add48b1c9230adbb",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "besser",
+    "ua": "кращий",
+    "path": "assets/illustrations/course/course_6bdcbaacb871d49b.png",
+    "sha256": "5086fa47c6b161182ccdca7df5d821294bd59efec5bfd16b7b6a7949027ba273",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "mehr",
+    "ua": "більше",
+    "path": "assets/illustrations/course/course_3593cd6c26b24848.png",
+    "sha256": "aaa2b85d3a6e4e972d99b2a72b4d12fdc4677ea75cbfd7179d1409506f1678f3",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "als",
+    "ua": "ніж",
+    "path": "assets/illustrations/course/course_b044b89a1a59b8f4.png",
+    "sha256": "3a270dccc882cd208671ef097f28a58fd62995cae93ae16d0169a505ee502ced",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "so … wie",
+    "ua": "так само … як",
+    "path": "assets/illustrations/course/course_1e5e5ac00b02a7a6.png",
+    "sha256": "fc42a079016f84aee3122611f0cbdc6eb94e6494cdb9a5950fa1b88ad8d20ac6",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "am besten",
+    "ua": "найкраще",
+    "path": "assets/illustrations/course/course_617382b59df4cd6b.png",
+    "sha256": "e989783e2af120418c3566687396cc12e003d0e64b0000f81dd39ea445747bae",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "am liebsten",
+    "ua": "найохочіше / найбільше любити",
+    "path": "assets/illustrations/course/course_3ce0f5fff4a4c13a.png",
+    "sha256": "0234e8cda70ca7efc95d142e9c264941ea383b9a7416bce40e42097187b14ce5",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "am meisten",
+    "ua": "найбільше",
+    "path": "assets/illustrations/course/course_96538ed6f70c1507.png",
+    "sha256": "c82b42810b63e9adfe59d90809f8496ea38fbc69ad3b14446fbe12889a064e69",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "am schnellsten",
+    "ua": "найшвидше",
+    "path": "assets/illustrations/course/course_f3d19043e9dbd491.png",
+    "sha256": "0b2371b09741bc75c3a78baf60985c5dd045b022bb541360095f87295e344314",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "lieber",
+    "ua": "охочіше",
+    "path": "assets/illustrations/course/course_1348cfe34b3c60e8.png",
+    "sha256": "b85ace4be0757fc7f8913a70eb34a9dc3a212691dde60b95329c9e1d0aec3c34",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Geschichte",
+    "ua": "історія",
+    "path": "assets/illustrations/course/course_eb7ef939b5c001f8.png",
+    "sha256": "195e127ede9706647390061fdcc2b1f637dab7231f73de5bcb927be9b446a5f7",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "ein guter Freund",
+    "ua": "добрий друг",
+    "path": "assets/illustrations/course/course_49211de5f5e437b1.png",
+    "sha256": "153f0bf165c6e7913430e06f90dfb358d9b17549e1760e35557cfc22b009d609",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "eine kleine Katze",
+    "ua": "маленька кішка",
+    "path": "assets/illustrations/course/course_660e0d0220192fd6.png",
+    "sha256": "d765f59b3ef53315459eea0309418d5f6f98e97ead4e3eb62d8ff44e5e3f7ce6",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "ein neues Buch",
+    "ua": "нова книжка",
+    "path": "assets/illustrations/course/course_43d3890f180561e6.png",
+    "sha256": "a62acffaa73a14b0a0638f81af5decb6c6526ae45b04f4a4938c2536d98cd4d9",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "mit einem guten Freund",
+    "ua": "з добрим другом",
+    "path": "assets/illustrations/course/course_e0209220a02b4b28.png",
+    "sha256": "d74bc4a147aec1803e69a3624d3ccac13c8c9516d7122cfdb410ab8f0c5c991f",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "bei meiner alten Schule",
+    "ua": "біля моєї старої школи",
+    "path": "assets/illustrations/course/course_b4ca7924dc987471.png",
+    "sha256": "2f46b9573b5bdf550682688fc041869aa9ac0351c45cabeba9aade5a79f3fd34",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "freundlich",
+    "ua": "привітний",
+    "path": "assets/illustrations/course/course_262473192d19b935.png",
+    "sha256": "11ebc2a1ad93ccb2518491214de4ed353b63eb70bbaf33be7ddff07828d3168c",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "frisch",
+    "ua": "свіжий",
+    "path": "assets/illustrations/course/course_5adc078ea15a4f93.png",
+    "sha256": "3ec895201155ee3dd13d15cff7727886ef7e82bff115092ffa4a2dbba542a2e6",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Vorname",
+    "ua": "ім’я",
+    "path": "assets/illustrations/course/course_71b43eb586537391.png",
+    "sha256": "c668c38fd5eb8942cebd5731b65cfaeedfd56db6b2c438b2d8cbd9d35e764dac",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Nachname",
+    "ua": "прізвище",
+    "path": "assets/illustrations/course/course_d8c7cfd215aa466f.png",
+    "sha256": "c31437eafc69aec2e01d93440ffb0cf863c725ea8babf38a415d4840f1201ea0",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Adresse",
+    "ua": "адреса",
+    "path": "assets/illustrations/course/course_93422abcc2b8d3d5.png",
+    "sha256": "8b548e168aba3523457ed0472ec274dc9ebc2cc305420a1887d5ebfa1d450cd2",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Telefonnummer",
+    "ua": "номер телефону",
+    "path": "assets/illustrations/course/course_ad787518763fa8a2.png",
+    "sha256": "eb1b6026597baf5da3c9e63e51236440e83e90e71cf4c7050c1417a4f60592e9",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "buchstabieren",
+    "ua": "називати по літерах",
+    "path": "assets/illustrations/course/course_2b3bec8594f1c80c.png",
+    "sha256": "2eb0bf06e9db8a4126df13cf543a0d4a4e9edac36868d726ea2c43b973d75a01",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "das Formular",
+    "ua": "формуляр",
+    "path": "assets/illustrations/course/course_06079490110f2eaa.png",
+    "sha256": "ecc6762de3c8fffeb5d2586061057534c1608e5370d398dc082ca5f54e6cec0a",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Hausnummer",
+    "ua": "номер будинку",
+    "path": "assets/illustrations/course/course_4365305c5012ceb9.png",
+    "sha256": "5fbb4ef24fbada0109756dbb32b0d684467e316d21523eb34d5dd29c306df718",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "ausfüllen",
+    "ua": "заповнювати",
+    "path": "assets/illustrations/course/course_f59914ebbe96e2e6.png",
+    "sha256": "64d3b9cbd762e75856e8ff683059e2daf11553856a77f55b992482c383f06c69",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "das Hemd",
+    "ua": "сорочка",
+    "path": "assets/illustrations/course/course_1f24e4d027af4b80.png",
+    "sha256": "dcd9caae713a1bd5aeb63d10e972731103f2423c454ebd06b5b70eca9a2ca36d",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Größe",
+    "ua": "розмір",
+    "path": "assets/illustrations/course/course_d8a7e73cc1549d81.png",
+    "sha256": "39ea37b2b4f0cf52ed59b9755904411a0a0e417f6719c94a8baa4efb4674b861",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "anprobieren",
+    "ua": "приміряти",
+    "path": "assets/illustrations/course/course_973b84754c0500d9.png",
+    "sha256": "509075b0f1f769899191f4c06a30de7fbcdc495ec01c21cfb44ed86fd811889f",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "teuer",
+    "ua": "дорогий",
+    "path": "assets/illustrations/course/course_457b9b860e6dfe3f.png",
+    "sha256": "58a3a496587520b02b124221c7a13639455e33a16d2c10f6ab28799a3b41eb6f",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "billig",
+    "ua": "дешевий",
+    "path": "assets/illustrations/course/course_e1003b940d4e8a04.png",
+    "sha256": "4f63ca1c10488f0cb24cca25953d20b7000b5a930ec881247168beb8f9ea585a",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Kopfschmerzen",
+    "ua": "головний біль",
+    "path": "assets/illustrations/course/course_5b00128160357929.png",
+    "sha256": "c54aad8f4fb60c70ca1dfe2fc82df4cb6a8521e247c4612fbe1f021490f5375b",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "wehtun",
+    "ua": "боліти",
+    "path": "assets/illustrations/course/course_b2cbb33e2a4908f9.png",
+    "sha256": "ef4fee2a9fdaa1c55d345356ac4379a0114fbf3e0a6284581fb664cbbc8864c1",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "das Fieber",
+    "ua": "підвищена температура",
+    "path": "assets/illustrations/course/course_66f5f2a71240733c.png",
+    "sha256": "8bf62ec9b9e7c45ccf82f84b89c8f372f0df1422be0f09f1a22040a7cd313f0a",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Ärztin",
+    "ua": "лікарка",
+    "path": "assets/illustrations/course/course_146d0cadd6805c23.png",
+    "sha256": "29fd72dd5cb476fdfc2d09d468551d8cac88ab42ec7adc9d0a16dd6e09e72fb5",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Termin",
+    "ua": "запланований прийом",
+    "path": "assets/illustrations/course/course_a543b1d822d37816.png",
+    "sha256": "9c74f617fe7aaf0b14c591c6a1f4719528888bf66f11108b39e0948a886eacd5",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Heizung",
+    "ua": "опалення",
+    "path": "assets/illustrations/course/course_9156e88459246130.png",
+    "sha256": "90e1fec98133d17154c8b8d879ff7b890147f9bd856129344dc1d8683079531a",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "kaputt",
+    "ua": "несправний",
+    "path": "assets/illustrations/course/course_00c81671d92ca255.png",
+    "sha256": "1cc659b57d338e6469bdfcbc4cc2e020b70c709dd6245c296f38cdc7910ef1bf",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "funktionieren",
+    "ua": "функціонувати",
+    "path": "assets/illustrations/course/course_a819acb6613c29f9.png",
+    "sha256": "3307f6f6d4fa0d1686b6c128622765dc26252abd11bb719bd09e2aa2f9d086d9",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "aufräumen",
+    "ua": "прибирати",
+    "path": "assets/illustrations/course/course_aa85039ae26c6373.png",
+    "sha256": "db825c745399a273ebe2b3b5af10d917172bb9e9a2090f064524458675a2af21",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "reparieren",
+    "ua": "ремонтувати",
+    "path": "assets/illustrations/course/course_c4b5284ffa972047.png",
+    "sha256": "1de9f3a63d582e1b212d6c3e015b6d67fe736abc1cc4230cf70eebf6feb86a78",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "putzen",
+    "ua": "прибирати / чистити",
+    "path": "assets/illustrations/course/course_abc331d0f296e006.png",
+    "sha256": "45b6e4a6ac874754e0f9c202fc80a655b9c57a7d175012d7b689b245150a4acc",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Unterricht",
+    "ua": "урок / заняття",
+    "path": "assets/illustrations/course/course_b991cb1f3b350671.png",
+    "sha256": "f5a62f8a6e1d1150c49149f430693d71ca382294b4e5dafe82deee67454efc21",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Arbeit",
+    "ua": "робота",
+    "path": "assets/illustrations/course/course_96c53f8bf13e4481.png",
+    "sha256": "dbe49cff73b95e8d4682d5a647a14500147c8baefea2726d634fdc10fb247156",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Pause",
+    "ua": "перерва",
+    "path": "assets/illustrations/course/course_dd851ded4f8a92e7.png",
+    "sha256": "6e025e5b139ad7836cd61df2cd1fbf0449f6df15bb5f95ce271de5459676a3f6",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "anfangen",
+    "ua": "починатися",
+    "path": "assets/illustrations/course/course_714fd775c97e0f47.png",
+    "sha256": "979b1ba2bbffc03870f39cc123433aead37ce59ea72b735741224405697f52a6",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Hausaufgaben",
+    "ua": "домашнє завдання",
+    "path": "assets/illustrations/course/course_85ac48dca4d63321.png",
+    "sha256": "df6a7d0492eb5df7b67aa16d08c7ddb2cc9ae0d08b061a6ed90ad006d2f931f8",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Fahrkarte",
+    "ua": "квиток на транспорт",
+    "path": "assets/illustrations/course/course_4fc49b1d5e55faa3.png",
+    "sha256": "377a662cb862f5c2f1c2a089b57b291f63d4a625c75f8353c155ff97a2bb8343",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "abfahren",
+    "ua": "відправлятися",
+    "path": "assets/illustrations/course/course_a491965ff63db98b.png",
+    "sha256": "3ba763d8c1b0bfad1bca3a77b5f507e75aa355ec59c0fa06efe0aa5f50e4f5b2",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "das Gleis",
+    "ua": "колія",
+    "path": "assets/illustrations/course/course_e4cb754c72586e11.png",
+    "sha256": "b35c4101664bd0b9df95600716d2ae816b222d8bbaf3dc6c44b778c2d7afbf9d",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "das Hotel",
+    "ua": "готель",
+    "path": "assets/illustrations/course/course_f4b9b1113a4207ca.png",
+    "sha256": "72029da2c946643b2b8059988768aa20a64d0b37b2c531fc24654b10a3c0c429",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "buchen",
+    "ua": "бронювати",
+    "path": "assets/illustrations/course/course_2feea14b5c00cb29.png",
+    "sha256": "9f3e406c1132fd9533a49dbd768126ec5c24b359b23e842e91a0832cdb0dcd7d",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "einladen",
+    "ua": "запрошувати",
+    "path": "assets/illustrations/course/course_0cfe44afe7b5a4d9.png",
+    "sha256": "62dd897d84e588539479908ac605fe1cb96fe39f7ab91883aad77aa9c6846504",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "verschieben",
+    "ua": "переносити (зустріч)",
+    "path": "assets/illustrations/course/course_b43a12a36f4cbfc2.png",
+    "sha256": "95e7326ddfaf71b026d771032012b535982663aa1663e2bca952de35aaa97be6",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "werden",
+    "ua": "допоміжне дієслово майбутнього часу",
+    "path": "assets/illustrations/course/course_cb63ff86d339ff0a.png",
+    "sha256": "42ae359cc1fb2c7dc257636b90a1cf27842ecc253683bb69a3f8139ed1ebeb86",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "nächste Woche",
+    "ua": "наступного тижня",
+    "path": "assets/illustrations/course/course_472325157fdab3fb.png",
+    "sha256": "2ee8e8136c71e0ddedac34bfbca057e80038bb8cc72f44f3b44036fb041354bd",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Plan",
+    "ua": "план",
+    "path": "assets/illustrations/course/course_6289cbdab3e6ee0f.png",
+    "sha256": "7feb99ec0846c08904ee0db5750c6abb123274aa72fad15fcd683c50e6296dc7",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "üben",
+    "ua": "практикуватися",
+    "path": "assets/illustrations/course/course_95204693cf83f35c.png",
+    "sha256": "09222156184b04d55300bdffecaa87da4404c1530ffe5f3b79533e84ec0ee047",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "Mia",
+    "ua": "Міа (ім’я)",
+    "path": "assets/illustrations/course/course_8e522cb66b3786fb.png",
+    "sha256": "0ec777b636030db8e1cd39de767b6ef527dfaf45e69de18e632a10d555c5c9f4",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "jeden Tag",
+    "ua": "щодня",
+    "path": "assets/illustrations/course/course_983575760184915f.png",
+    "sha256": "3fc1e1b276e704a42520e930f1202e3eaf6208fbfca9478d473bca17c84087e4",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
     "de": "bereit",
     "ua": "готовий / готова",
     "path": "assets/illustrations/course/ready.png",
