@@ -270,6 +270,60 @@
     "height": 390
   },
   {
+    "category": "course",
+    "de": "bereit",
+    "ua": "готовий / готова",
+    "path": "assets/illustrations/course/ready.png",
+    "sha256": "6459e3045daa3d2eab20a7cc0536d2149e8252629c1b15c89bd55986965e2b31",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "die Zeit",
+    "ua": "час",
+    "path": "assets/illustrations/course/time.png",
+    "sha256": "81fd3a80c61f710b7fe23a1c94a7e22879f7ea2b513384cfbf11fe9ca31adacd",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Hunger",
+    "ua": "голод",
+    "path": "assets/illustrations/course/hunger.png",
+    "sha256": "e6349e8e05afecd32b76a93882ce38ba74d22ba16f30699c587be17cc5129cce",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "der Durst",
+    "ua": "спрага",
+    "path": "assets/illustrations/course/thirst.png",
+    "sha256": "cdec7f6f9f842d6664132da70f807df48c0387a28438fbebc312b7cc5e3bf72e",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "Deutsch",
+    "ua": "німецька мова",
+    "path": "assets/illustrations/course/german.png",
+    "sha256": "43fa6abe10a8b410acdebfc4de7f9e3426a8cce8cc8655a6cdf7fa179e79eebe",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "heißen",
+    "ua": "зватися",
+    "path": "assets/illustrations/course/name.png",
+    "sha256": "0b993d3ff55e57836ea51ecd112e072c18ee3d9d924fa5de4d58a144e535ac23",
+    "width": 512,
+    "height": 512
+  },
+  {
     "category": "animals",
     "de": "die Ente",
     "ua": "качка",
