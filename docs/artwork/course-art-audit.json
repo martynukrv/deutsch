@@ -1,0 +1,4238 @@
+{
+  "version": 1,
+  "total": 373,
+  "illustrated": 160,
+  "missing": 213,
+  "lessons": [
+    {
+      "number": 1,
+      "id": "sounds-greetings",
+      "title": "Звуки, читання й перші привітання",
+      "words": [
+        {
+          "id": "word-greetings-001",
+          "de": "Hallo!",
+          "ua": "Привіт!",
+          "art": {
+            "src": "assets/illustrations/greetings/01.png?v=e6c408caadf3",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-greetings-002",
+          "de": "Guten Morgen!",
+          "ua": "Добрий ранок!",
+          "art": {
+            "src": "assets/illustrations/greetings/02.png?v=6dcdc656acbf",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-greetings-003",
+          "de": "Guten Tag!",
+          "ua": "Добрий день!",
+          "art": {
+            "src": "assets/illustrations/greetings/03.png?v=b5a6f48349a8",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-greetings-004",
+          "de": "Guten Abend!",
+          "ua": "Добрий вечір!",
+          "art": {
+            "src": "assets/illustrations/greetings/04.png?v=d1549e52eeee",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-greetings-005",
+          "de": "Tschüss!",
+          "ua": "Бувай!",
+          "art": {
+            "src": "assets/illustrations/greetings/05.png?v=e8fb97906d93",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-greetings-006",
+          "de": "Auf Wiedersehen!",
+          "ua": "До побачення!",
+          "art": {
+            "src": "assets/illustrations/greetings/06.png?v=ee63527fcd09",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-greetings-007",
+          "de": "Danke!",
+          "ua": "Дякую!",
+          "art": {
+            "src": "assets/illustrations/greetings/07.png?v=dec9bc3b3b07",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-greetings-008",
+          "de": "Bitte!",
+          "ua": "Будь ласка!",
+          "art": {
+            "src": "assets/illustrations/greetings/08.png?v=ae646a07373d",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 2,
+      "id": "personal-pronouns",
+      "title": "Хто виконує дію",
+      "words": [
+        {
+          "id": "word-pronouns-001",
+          "de": "ich",
+          "ua": "я",
+          "art": {
+            "src": "assets/illustrations/pronouns/ich.png?v=21da3c280ad3",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-pronouns-002",
+          "de": "du",
+          "ua": "ти",
+          "art": {
+            "src": "assets/illustrations/pronouns/du.png?v=ab019cf61858",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-pronouns-003",
+          "de": "er",
+          "ua": "він",
+          "art": {
+            "src": "assets/illustrations/pronouns/er.png?v=af8ad01dfe20",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-pronouns-004",
+          "de": "sie",
+          "ua": "вона",
+          "art": {
+            "src": "assets/illustrations/pronouns/sie_she.png?v=9d0016e220fc",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-pronouns-005",
+          "de": "es",
+          "ua": "воно",
+          "art": {
+            "src": "assets/illustrations/pronouns/es.png?v=1b3f61d4b636",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-pronouns-006",
+          "de": "wir",
+          "ua": "ми",
+          "art": {
+            "src": "assets/illustrations/pronouns/wir.png?v=33afdf4f9dbe",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-phrase-7b1bd6f72a953387",
+          "de": "ihr",
+          "ua": "ви (кілька людей)",
+          "art": {
+            "src": "assets/illustrations/pronouns/ihr.png?v=f5c70e0e6fc7",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-pronouns-008",
+          "de": "sie",
+          "ua": "вони",
+          "art": {
+            "src": "assets/illustrations/pronouns/sie_they.png?v=03392b54dff7",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-pronouns-009",
+          "de": "Sie",
+          "ua": "Ви (ввічливо)",
+          "art": {
+            "src": "assets/illustrations/pronouns/Sie_formal.png?v=932fe702e00e",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 3,
+      "id": "present-regular",
+      "title": "Звичайні дієслова в теперішньому часі",
+      "words": [
+        {
+          "id": "course-lexeme-fdc49df7688ddbd5",
+          "de": "lernen",
+          "ua": "вчитися",
+          "art": {
+            "src": "assets/illustrations/verbs/lernen.png?v=f58da442af75",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-008",
+          "de": "spielen",
+          "ua": "грати",
+          "art": {
+            "src": "assets/illustrations/verbs/spielen.png?v=20187fc1529e",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-d06f22f4a8f43f49",
+          "de": "wohnen",
+          "ua": "мешкати",
+          "art": {
+            "src": "assets/illustrations/verbs/wohnen.png?v=08778322c509",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-67a5ab0bfd138ed0",
+          "de": "fragen",
+          "ua": "запитувати",
+          "art": {
+            "src": "assets/illustrations/verbs/fragen.png?v=c911c2348e76",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-001",
+          "de": "machen",
+          "ua": "робити",
+          "art": {
+            "src": "assets/illustrations/verbs/machen.png?v=fb0ee223db17",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-grammar-006",
+          "de": "hier",
+          "ua": "тут",
+          "art": {
+            "src": "assets/illustrations/grammar/06.png?v=87c7632526a0",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 4,
+      "id": "present-sein",
+      "title": "Бути: sein",
+      "words": [
+        {
+          "id": "word-grammar-006",
+          "de": "hier",
+          "ua": "тут",
+          "art": {
+            "src": "assets/illustrations/grammar/06.png?v=87c7632526a0",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-010",
+          "de": "sein",
+          "ua": "бути",
+          "art": {
+            "src": "assets/illustrations/verbs/sein.png?v=3d1f3180fab9",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-grammar-007",
+          "de": "dort",
+          "ua": "там",
+          "art": {
+            "src": "assets/illustrations/grammar/07.png?v=6bb8e12497fa",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-6ae1fb4ec36e7e50",
+          "de": "bereit",
+          "ua": "готовий / готова",
+          "art": {
+            "src": "assets/illustrations/course/ready.png?v=6459e3045daa",
+            "kind": "new",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 5,
+      "id": "present-haben",
+      "title": "Мати: haben",
+      "words": [
+        {
+          "id": "word-verbs-011",
+          "de": "haben",
+          "ua": "мати",
+          "art": {
+            "src": "assets/illustrations/verbs/haben.png?v=55a6a73ee045",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-3fa0f57046d284ce",
+          "de": "die Zeit",
+          "ua": "час",
+          "art": {
+            "src": "assets/illustrations/course/time.png?v=81fd3a80c61f",
+            "kind": "new",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-a83b81a590e23b06",
+          "de": "der Hunger",
+          "ua": "голод",
+          "art": {
+            "src": "assets/illustrations/course/hunger.png?v=e6349e8e05af",
+            "kind": "new",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-472c33c4887980b0",
+          "de": "der Durst",
+          "ua": "спрага",
+          "art": {
+            "src": "assets/illustrations/course/thirst.png?v=cdec7f6f9f84",
+            "kind": "new",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 6,
+      "id": "checkpoint-first-sentences",
+      "title": "Практика: мої перші речення",
+      "words": [],
+      "checkpoint": true
+    },
+    {
+      "number": 7,
+      "id": "main-clause-order",
+      "title": "Порядок слів, місце та час",
+      "words": [
+        {
+          "id": "word-grammar-006",
+          "de": "hier",
+          "ua": "тут",
+          "art": {
+            "src": "assets/illustrations/grammar/06.png?v=87c7632526a0",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-grammar-007",
+          "de": "dort",
+          "ua": "там",
+          "art": {
+            "src": "assets/illustrations/grammar/07.png?v=6bb8e12497fa",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-time-001",
+          "de": "heute",
+          "ua": "сьогодні",
+          "art": {
+            "src": "assets/illustrations/time/01.png?v=8155c1b4dbea",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-time-002",
+          "de": "morgen",
+          "ua": "завтра",
+          "art": {
+            "src": "assets/illustrations/time/02.png?v=516b016ec436",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-grammar-008",
+          "de": "jetzt",
+          "ua": "зараз",
+          "art": {
+            "src": "assets/illustrations/grammar/08.png?v=2e8541415556",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-c4fb16bfdc19a02e",
+          "de": "Deutsch",
+          "ua": "німецька мова",
+          "art": {
+            "src": "assets/illustrations/course/german.png?v=43fa6abe10a8",
+            "kind": "new",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 8,
+      "id": "negation-nicht",
+      "title": "Заперечення з nicht",
+      "words": [
+        {
+          "id": "course-lexeme-6ae1fb4ec36e7e50",
+          "de": "bereit",
+          "ua": "готовий / готова",
+          "art": {
+            "src": "assets/illustrations/course/ready.png?v=6459e3045daa",
+            "kind": "new",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-grammar-003",
+          "de": "nicht",
+          "ua": "не",
+          "art": {
+            "src": "assets/illustrations/grammar/03.png?v=5d53cdb503da",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-018",
+          "de": "arbeiten",
+          "ua": "працювати",
+          "art": {
+            "src": "assets/illustrations/verbs/arbeiten.png?v=ef443fafa4a6",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-009",
+          "de": "tanzen",
+          "ua": "танцювати",
+          "art": {
+            "src": "assets/illustrations/verbs/tanzen.png?v=562274403a40",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-007",
+          "de": "singen",
+          "ua": "співати",
+          "art": {
+            "src": "assets/illustrations/verbs/singen.png?v=6e5a2bb02778",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 9,
+      "id": "yes-no-questions",
+      "title": "Запитання «так / ні»",
+      "words": [
+        {
+          "id": "course-lexeme-fdc49df7688ddbd5",
+          "de": "lernen",
+          "ua": "вчитися",
+          "art": {
+            "src": "assets/illustrations/verbs/lernen.png?v=f58da442af75",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-008",
+          "de": "spielen",
+          "ua": "грати",
+          "art": {
+            "src": "assets/illustrations/verbs/spielen.png?v=20187fc1529e",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-018",
+          "de": "arbeiten",
+          "ua": "працювати",
+          "art": {
+            "src": "assets/illustrations/verbs/arbeiten.png?v=ef443fafa4a6",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-grammar-001",
+          "de": "ja",
+          "ua": "так",
+          "art": {
+            "src": "assets/illustrations/grammar/01.png?v=35b755159a94",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-grammar-002",
+          "de": "nein",
+          "ua": "ні",
+          "art": {
+            "src": "assets/illustrations/grammar/02.png?v=e1aa9a04d463",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 10,
+      "id": "w-questions",
+      "title": "Хто, що, де, коли і як",
+      "words": [
+        {
+          "id": "word-questions-001",
+          "de": "wer",
+          "ua": "хто",
+          "art": {
+            "src": "assets/illustrations/questions/01.png?v=f5c5de57c411",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-questions-002",
+          "de": "was",
+          "ua": "що",
+          "art": {
+            "src": "assets/illustrations/questions/02.png?v=d71bbb1c1f24",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-questions-003",
+          "de": "wo",
+          "ua": "де",
+          "art": {
+            "src": "assets/illustrations/questions/03.png?v=927f23ec151f",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-questions-006",
+          "de": "wann",
+          "ua": "коли",
+          "art": {
+            "src": "assets/illustrations/questions/06.png?v=d4e6fee04c37",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-questions-008",
+          "de": "wie",
+          "ua": "як",
+          "art": {
+            "src": "assets/illustrations/questions/08.png?v=55c06280ba38",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-questions-007",
+          "de": "warum",
+          "ua": "чому",
+          "art": {
+            "src": "assets/illustrations/questions/07.png?v=9eb109fad2c1",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-445a294d7907e97e",
+          "de": "heißen",
+          "ua": "зватися",
+          "art": {
+            "src": "assets/illustrations/course/name.png?v=0b993d3ff55e",
+            "kind": "new",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-013",
+          "de": "kommen",
+          "ua": "приходити",
+          "art": {
+            "src": "assets/illustrations/verbs/kommen.png?v=f58159146006",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 11,
+      "id": "introduce-yourself",
+      "title": "Знайомство: ім’я, місто, мова, вік",
+      "words": [
+        {
+          "id": "course-lexeme-d06f22f4a8f43f49",
+          "de": "wohnen",
+          "ua": "мешкати",
+          "art": {
+            "src": "assets/illustrations/verbs/wohnen.png?v=08778322c509",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-445a294d7907e97e",
+          "de": "heißen",
+          "ua": "зватися",
+          "art": {
+            "src": "assets/illustrations/course/name.png?v=0b993d3ff55e",
+            "kind": "new",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-583e3c1de3933dd7",
+          "de": "kommen",
+          "ua": "приходити / приїжджати",
+          "art": {
+            "src": "assets/illustrations/verbs/kommen.png?v=f58159146006",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-school-004",
+          "de": "der Schüler",
+          "ua": "учень",
+          "art": {
+            "src": "assets/illustrations/school/04.png?v=98550238a1e7",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-school-005",
+          "de": "die Schülerin",
+          "ua": "учениця",
+          "art": {
+            "src": "assets/illustrations/school/05.png?v=2be2c82c6039",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-time-018",
+          "de": "das Jahr",
+          "ua": "рік",
+          "art": {
+            "src": "assets/illustrations/time/exp_33.png?v=6ca018998da6",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-878825ad29cfe362",
+          "de": "alt",
+          "ua": "старий / віком",
+          "art": {
+            "src": "assets/illustrations/people/12.png?v=85b788a5d6a7",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 12,
+      "id": "checkpoint-introduction",
+      "title": "Практика: знайомимося",
+      "words": [],
+      "checkpoint": true
+    },
+    {
+      "number": 13,
+      "id": "nouns-definite",
+      "title": "Іменники й означені артиклі",
+      "words": [
+        {
+          "id": "word-home-006",
+          "de": "der Tisch",
+          "ua": "стіл",
+          "art": {
+            "src": "assets/illustrations/home/tisch.png?v=985a7e06da03",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-home-004",
+          "de": "die Tür",
+          "ua": "двері",
+          "art": {
+            "src": "assets/illustrations/home/tuer.png?v=6124eead3d0b",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-38b2500373af78e3",
+          "de": "das Buch",
+          "ua": "книжка",
+          "art": {
+            "src": "assets/illustrations/school/06.png?v=09c750db6407",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-home-007",
+          "de": "der Stuhl",
+          "ua": "стілець",
+          "art": {
+            "src": "assets/illustrations/home/stuhl.png?v=03a9e3a8f4cc",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-school-001",
+          "de": "die Schule",
+          "ua": "школа",
+          "art": {
+            "src": "assets/illustrations/school/01.png?v=85c89b78c4d1",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-people-003",
+          "de": "das Kind",
+          "ua": "дитина",
+          "art": {
+            "src": "assets/illustrations/people/03.png?v=2ed510c5f5f9",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-animals-001",
+          "de": "der Hund",
+          "ua": "собака",
+          "art": {
+            "src": "assets/illustrations/animals/hund.png?v=79df55949054",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-16c837a225dab8f6",
+          "de": "die Katze",
+          "ua": "кішка",
+          "art": {
+            "src": "assets/illustrations/animals/katze.png?v=2657a9986168",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 14,
+      "id": "nouns-indefinite-negative",
+      "title": "Один предмет або жодного",
+      "words": [
+        {
+          "id": "course-lexeme-56b1f83151359140",
+          "de": "ein",
+          "ua": "один / неозначений артикль",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-409c19274d221e54",
+          "de": "eine",
+          "ua": "одна / неозначений артикль",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-dd122a073d79121e",
+          "de": "kein",
+          "ua": "жоден / не",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-80093cdf7a594205",
+          "de": "keine",
+          "ua": "жодна / не",
+          "art": null
+        },
+        {
+          "id": "word-people-009",
+          "de": "gut",
+          "ua": "добрий / добре",
+          "art": {
+            "src": "assets/illustrations/people/09.png?v=1707f784e56c",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 15,
+      "id": "noun-plurals",
+      "title": "Множина",
+      "words": [
+        {
+          "id": "course-lexeme-8c1bc45bd4ff9c93",
+          "de": "die Bücher",
+          "ua": "книжки",
+          "art": {
+            "src": "assets/illustrations/school/06.png?v=09c750db6407",
+            "kind": "reused",
+            "copies": 2
+          }
+        },
+        {
+          "id": "course-lexeme-3a995fc1b91fb177",
+          "de": "die Kinder",
+          "ua": "діти",
+          "art": {
+            "src": "assets/illustrations/people/03.png?v=2ed510c5f5f9",
+            "kind": "reused",
+            "copies": 2
+          }
+        },
+        {
+          "id": "course-lexeme-ed259d52c1c6fe18",
+          "de": "die Tische",
+          "ua": "столи",
+          "art": {
+            "src": "assets/illustrations/home/tisch.png?v=985a7e06da03",
+            "kind": "reused",
+            "copies": 2
+          }
+        },
+        {
+          "id": "course-lexeme-f90e9a6fd68fd994",
+          "de": "die Stühle",
+          "ua": "стільці",
+          "art": {
+            "src": "assets/illustrations/home/stuhl.png?v=03a9e3a8f4cc",
+            "kind": "reused",
+            "copies": 2
+          }
+        },
+        {
+          "id": "course-lexeme-9db91744a9465552",
+          "de": "die Türen",
+          "ua": "двері (множина)",
+          "art": {
+            "src": "assets/illustrations/home/tuer.png?v=6124eead3d0b",
+            "kind": "reused",
+            "copies": 2
+          }
+        },
+        {
+          "id": "course-lexeme-e84f5479f853b902",
+          "de": "die Katzen",
+          "ua": "кішки",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-0c6e641fd8f41f82",
+          "de": "die Hunde",
+          "ua": "собаки",
+          "art": {
+            "src": "assets/illustrations/animals/hund.png?v=79df55949054",
+            "kind": "reused",
+            "copies": 2
+          }
+        },
+        {
+          "id": "course-lexeme-f7a9339251973784",
+          "de": "die Schulen",
+          "ua": "школи",
+          "art": {
+            "src": "assets/illustrations/school/01.png?v=85c89b78c4d1",
+            "kind": "reused",
+            "copies": 2
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 16,
+      "id": "possessives-nominative",
+      "title": "Мій, твій, його, її, наш",
+      "words": [
+        {
+          "id": "course-lexeme-0b7f4e4186727cc3",
+          "de": "mein",
+          "ua": "мій",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-0ddcbee2bb8498ff",
+          "de": "dein",
+          "ua": "твій",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-a439c2303a05c465",
+          "de": "sein",
+          "ua": "його (присвійне)",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-d8d8206d1075de02",
+          "de": "ihr",
+          "ua": "її / їхній",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-74b68c0133979b65",
+          "de": "unser",
+          "ua": "наш",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-bbd4b20f1ffdc0d3",
+          "de": "euer",
+          "ua": "ваш (кілька людей)",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-ee3722091a73234f",
+          "de": "Ihr",
+          "ua": "Ваш (ввічливо)",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 17,
+      "id": "family-descriptions",
+      "title": "Моя сім’я та прості описи",
+      "words": [
+        {
+          "id": "course-lexeme-251d8e8fc01e1a76",
+          "de": "die Mutter",
+          "ua": "мати",
+          "art": {
+            "src": "assets/illustrations/family/01.png?v=ee80475ce13b",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-8402a7874a2ae033",
+          "de": "der Vater",
+          "ua": "батько",
+          "art": {
+            "src": "assets/illustrations/family/02.png?v=4ec2916a33c8",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-family-006",
+          "de": "der Sohn",
+          "ua": "син",
+          "art": {
+            "src": "assets/illustrations/family/06.png?v=0584c47f1a43",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-family-007",
+          "de": "die Tochter",
+          "ua": "донька",
+          "art": {
+            "src": "assets/illustrations/family/07.png?v=37d9c2bdef65",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-41518b7365310f68",
+          "de": "der Lehrer",
+          "ua": "учитель",
+          "art": {
+            "src": "assets/illustrations/school/02.png?v=147d1ead2a6d",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-fcaa490348f4d93f",
+          "de": "klein",
+          "ua": "маленький",
+          "art": {
+            "src": "assets/illustrations/people/08.png?v=09bc651aef68",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-aa33adb5ad0d5ea5",
+          "de": "groß",
+          "ua": "великий",
+          "art": {
+            "src": "assets/illustrations/people/07.png?v=1c031d013c7e",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-colors-006",
+          "de": "weiß",
+          "ua": "білий",
+          "art": {
+            "src": "assets/illustrations/colors/weiss.png?v=90349ca9ab2a",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 18,
+      "id": "checkpoint-family",
+      "title": "Практика: люди й речі навколо мене",
+      "words": [],
+      "checkpoint": true
+    },
+    {
+      "number": 19,
+      "id": "accusative-nouns",
+      "title": "Бачу кого? Маю що?",
+      "words": [
+        {
+          "id": "word-verbs-014",
+          "de": "sehen",
+          "ua": "бачити",
+          "art": {
+            "src": "assets/illustrations/verbs/sehen.png?v=954f15758608",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-c487816a5be16c92",
+          "de": "suchen",
+          "ua": "шукати",
+          "art": null
+        },
+        {
+          "id": "word-people-006",
+          "de": "der Freund",
+          "ua": "друг",
+          "art": {
+            "src": "assets/illustrations/people/06.png?v=69288daa6f1e",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-food-006",
+          "de": "der Apfel",
+          "ua": "яблуко",
+          "art": {
+            "src": "assets/illustrations/food/apfel.png?v=2c60c7c8bf43",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-food-004",
+          "de": "der Kaffee",
+          "ua": "кава",
+          "art": {
+            "src": "assets/illustrations/food/kaffee.png?v=244e6402b148",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-8049eda005358d3d",
+          "de": "es gibt",
+          "ua": "є / існує",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 20,
+      "id": "accusative-pronouns",
+      "title": "Мене, тебе, його",
+      "words": [
+        {
+          "id": "course-lexeme-c487816a5be16c92",
+          "de": "suchen",
+          "ua": "шукати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-7fc6c37c76f7c8f2",
+          "de": "mich",
+          "ua": "мене",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-62c70eaca29104ad",
+          "de": "dich",
+          "ua": "тебе",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-ad5fd8b05051cb68",
+          "de": "ihn",
+          "ua": "його (додаток)",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-c9d98e2219af8f02",
+          "de": "uns",
+          "ua": "нас",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-7f3072344e63698e",
+          "de": "euch",
+          "ua": "вас (кілька людей)",
+          "art": null
+        },
+        {
+          "id": "word-verbs-025",
+          "de": "kennen",
+          "ua": "знати / бути знайомим",
+          "art": {
+            "src": "assets/illustrations/verbs/kennen.png?v=d905a90b446b",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 21,
+      "id": "present-irregular",
+      "title": "Часті дієслова зі зміною основи",
+      "words": [
+        {
+          "id": "word-verbs-019",
+          "de": "essen",
+          "ua": "їсти",
+          "art": {
+            "src": "assets/illustrations/verbs/essen.png?v=86c24cd63072",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-022",
+          "de": "lesen",
+          "ua": "читати",
+          "art": {
+            "src": "assets/illustrations/verbs/lesen.png?v=85d8a3f0653e",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-016",
+          "de": "sprechen",
+          "ua": "говорити",
+          "art": {
+            "src": "assets/illustrations/verbs/sprechen.png?v=882e7ffa4689",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-031",
+          "de": "nehmen",
+          "ua": "брати",
+          "art": {
+            "src": "assets/illustrations/verbs/nehmen.png?v=6792517de55d",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-food-002",
+          "de": "das Brot",
+          "ua": "хліб",
+          "art": {
+            "src": "assets/illustrations/food/brot.png?v=640d2f89a226",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-food-005",
+          "de": "der Tee",
+          "ua": "чай",
+          "art": {
+            "src": "assets/illustrations/food/tee.png?v=1ccaa782f665",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-food-001",
+          "de": "das Wasser",
+          "ua": "вода",
+          "art": {
+            "src": "assets/illustrations/food/wasser.png?v=d30924c83d89",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 22,
+      "id": "likes-hobbies",
+      "title": "Що мені подобається",
+      "words": [
+        {
+          "id": "course-lexeme-e4f74e14d16b1dcb",
+          "de": "mögen",
+          "ua": "любити / подобатися",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-480cc885ca0b24fb",
+          "de": "gern",
+          "ua": "охоче",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-2a9bbfb01dac4f3e",
+          "de": "die Musik",
+          "ua": "музика",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-83f838d9aee12e9f",
+          "de": "der Sport",
+          "ua": "спорт",
+          "art": null
+        },
+        {
+          "id": "word-animals-004",
+          "de": "der Fisch",
+          "ua": "риба",
+          "art": {
+            "src": "assets/illustrations/animals/fisch.png?v=e25037f47566",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-food-011",
+          "de": "das Gemüse",
+          "ua": "овочі",
+          "art": {
+            "src": "assets/illustrations/food/gemuese.png?v=d75d1480c78b",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 23,
+      "id": "cafe-first-dialogue",
+      "title": "Перший діалог у кафе",
+      "words": [
+        {
+          "id": "word-food-004",
+          "de": "der Kaffee",
+          "ua": "кава",
+          "art": {
+            "src": "assets/illustrations/food/kaffee.png?v=244e6402b148",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-food-005",
+          "de": "der Tee",
+          "ua": "чай",
+          "art": {
+            "src": "assets/illustrations/food/tee.png?v=1ccaa782f665",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-food-001",
+          "de": "das Wasser",
+          "ua": "вода",
+          "art": {
+            "src": "assets/illustrations/food/wasser.png?v=d30924c83d89",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-food-003",
+          "de": "die Milch",
+          "ua": "молоко",
+          "art": {
+            "src": "assets/illustrations/food/milch.png?v=6083e1796d08",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-c525891f01aa3b12",
+          "de": "der Zucker",
+          "ua": "цукор",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-b04234e3217b517d",
+          "de": "die Rechnung",
+          "ua": "рахунок",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-7237c9fe86658cd6",
+          "de": "das Café",
+          "ua": "кафе",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 24,
+      "id": "checkpoint-objects",
+      "title": "Практика: вибираємо й замовляємо",
+      "words": [],
+      "checkpoint": true
+    },
+    {
+      "number": 25,
+      "id": "modal-koennen",
+      "title": "Можу та вмію",
+      "words": [
+        {
+          "id": "word-verbs-027",
+          "de": "können",
+          "ua": "могти / вміти",
+          "art": {
+            "src": "assets/illustrations/verbs/koennen.png?v=62f4ec019727",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-b7baed75d9cf5417",
+          "de": "schwimmen",
+          "ua": "плавати",
+          "art": null
+        },
+        {
+          "id": "word-verbs-038",
+          "de": "helfen",
+          "ua": "допомагати",
+          "art": {
+            "src": "assets/illustrations/verbs/exp_06.png?v=901fd6c8cf8a",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-3d8b98c589f4d776",
+          "de": "gut",
+          "ua": "добре",
+          "art": {
+            "src": "assets/illustrations/people/09.png?v=1707f784e56c",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 26,
+      "id": "modal-muessen-sollen",
+      "title": "Треба та слід",
+      "words": [
+        {
+          "id": "course-lexeme-fdc49df7688ddbd5",
+          "de": "lernen",
+          "ua": "вчитися",
+          "art": {
+            "src": "assets/illustrations/verbs/lernen.png?v=f58da442af75",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-018",
+          "de": "arbeiten",
+          "ua": "працювати",
+          "art": {
+            "src": "assets/illustrations/verbs/arbeiten.png?v=ef443fafa4a6",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-028",
+          "de": "müssen",
+          "ua": "мусити",
+          "art": {
+            "src": "assets/illustrations/verbs/muessen.png?v=221ba05ec74d",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-5357fcd39f860fcd",
+          "de": "sollen",
+          "ua": "мати зробити / слід",
+          "art": null
+        },
+        {
+          "id": "word-verbs-021",
+          "de": "schlafen",
+          "ua": "спати",
+          "art": {
+            "src": "assets/illustrations/verbs/schlafen.png?v=de0693b64c37",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-8a8a140399c42837",
+          "de": "warten",
+          "ua": "чекати",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 27,
+      "id": "modal-wollen-moechten",
+      "title": "Хочу та хотів би",
+      "words": [
+        {
+          "id": "word-verbs-026",
+          "de": "wollen",
+          "ua": "хотіти",
+          "art": {
+            "src": "assets/illustrations/verbs/wollen.png?v=430bc967be9c",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-5cc68d619a5d016f",
+          "de": "möchten",
+          "ua": "хотіти б (ввічливо)",
+          "art": null
+        },
+        {
+          "id": "word-verbs-033",
+          "de": "kaufen",
+          "ua": "купувати",
+          "art": {
+            "src": "assets/illustrations/verbs/kaufen.png?v=ec917ca99a9c",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-020",
+          "de": "trinken",
+          "ua": "пити",
+          "art": {
+            "src": "assets/illustrations/verbs/trinken.png?v=2120afe1c80d",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-21e34af987794719",
+          "de": "reisen",
+          "ua": "подорожувати",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 28,
+      "id": "modal-duerfen",
+      "title": "Можна та не можна",
+      "words": [
+        {
+          "id": "course-lexeme-0b7a7a48667409b1",
+          "de": "dürfen",
+          "ua": "мати дозвіл",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-afcad6580fc8eff4",
+          "de": "rauchen",
+          "ua": "курити",
+          "art": null
+        },
+        {
+          "id": "word-verbs-035",
+          "de": "bleiben",
+          "ua": "залишатися",
+          "art": {
+            "src": "assets/illustrations/verbs/bleiben.png?v=f33f25bcc41f",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-012",
+          "de": "gehen",
+          "ua": "йти",
+          "art": {
+            "src": "assets/illustrations/verbs/gehen.png?v=e063f558c4cb",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-036",
+          "de": "öffnen",
+          "ua": "відчиняти",
+          "art": {
+            "src": "assets/illustrations/verbs/exp_04.png?v=b0c3fab7c725",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-home-005",
+          "de": "das Fenster",
+          "ua": "вікно",
+          "art": {
+            "src": "assets/illustrations/home/fenster.png?v=d7434b92c9ad",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 29,
+      "id": "imperative",
+      "title": "Прохання та вказівки",
+      "words": [
+        {
+          "id": "word-verbs-022",
+          "de": "lesen",
+          "ua": "читати",
+          "art": {
+            "src": "assets/illustrations/verbs/lesen.png?v=85d8a3f0653e",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-016",
+          "de": "sprechen",
+          "ua": "говорити",
+          "art": {
+            "src": "assets/illustrations/verbs/sprechen.png?v=882e7ffa4689",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-031",
+          "de": "nehmen",
+          "ua": "брати",
+          "art": {
+            "src": "assets/illustrations/verbs/nehmen.png?v=6792517de55d",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-9ca1ea47d0cc584d",
+          "de": "bitte",
+          "ua": "будь ласка",
+          "art": {
+            "src": "assets/illustrations/greetings/08.png?v=ae646a07373d",
+            "kind": "reused",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-ae320810bed8e2f9",
+          "de": "langsam",
+          "ua": "повільно",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-d37802788ef3d0c6",
+          "de": "leise",
+          "ua": "тихо",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 30,
+      "id": "checkpoint-requests",
+      "title": "Практика: домовляємося й просимо",
+      "words": [],
+      "checkpoint": true
+    },
+    {
+      "number": 31,
+      "id": "dative-nouns",
+      "title": "Кому: Dativ з іменниками",
+      "words": [
+        {
+          "id": "word-people-003",
+          "de": "das Kind",
+          "ua": "дитина",
+          "art": {
+            "src": "assets/illustrations/people/03.png?v=2ed510c5f5f9",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-41518b7365310f68",
+          "de": "der Lehrer",
+          "ua": "учитель",
+          "art": {
+            "src": "assets/illustrations/school/02.png?v=147d1ead2a6d",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-038",
+          "de": "helfen",
+          "ua": "допомагати",
+          "art": {
+            "src": "assets/illustrations/verbs/exp_06.png?v=901fd6c8cf8a",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-67c3201d0c79772e",
+          "de": "antworten",
+          "ua": "відповідати",
+          "art": null
+        },
+        {
+          "id": "word-verbs-030",
+          "de": "geben",
+          "ua": "давати",
+          "art": {
+            "src": "assets/illustrations/verbs/geben.png?v=d974368ef369",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-people-015",
+          "de": "die Freundin",
+          "ua": "подруга",
+          "art": {
+            "src": "assets/illustrations/people/exp_19.png?v=41c29f4ee113",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-people-001",
+          "de": "der Mann",
+          "ua": "чоловік",
+          "art": {
+            "src": "assets/illustrations/people/01.png?v=52b15a0db634",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-people-002",
+          "de": "die Frau",
+          "ua": "жінка",
+          "art": {
+            "src": "assets/illustrations/people/02.png?v=ffd0ade2ca9e",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-school-003",
+          "de": "die Lehrerin",
+          "ua": "вчителька",
+          "art": {
+            "src": "assets/illustrations/school/03.png?v=704e8fd65e96",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 32,
+      "id": "dative-pronouns",
+      "title": "Мені, тобі, йому",
+      "words": [
+        {
+          "id": "course-lexeme-a2bd80ae21d30e7d",
+          "de": "mir",
+          "ua": "мені",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-9f385980e3dc62de",
+          "de": "dir",
+          "ua": "тобі",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-20a5449140fc1e76",
+          "de": "ihm",
+          "ua": "йому (Dativ)",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-08eb47aea2edcb22",
+          "de": "ihr",
+          "ua": "їй (Dativ)",
+          "art": {
+            "src": "assets/illustrations/pronouns/ihr.png?v=f5c70e0e6fc7",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-4ab71e057cbb60c7",
+          "de": "ihnen",
+          "ua": "їм",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-2a4314ac7a13eb40",
+          "de": "Ihnen",
+          "ua": "Вам (ввічливо)",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-01c56fa0c6c2c6c0",
+          "de": "uns",
+          "ua": "нам",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-8d365b958ad5e5b4",
+          "de": "euch",
+          "ua": "вам (кілька людей)",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 33,
+      "id": "two-objects",
+      "title": "Хто кому що дає",
+      "words": [
+        {
+          "id": "word-verbs-030",
+          "de": "geben",
+          "ua": "давати",
+          "art": {
+            "src": "assets/illustrations/verbs/geben.png?v=d974368ef369",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-9746e8ba8ebb2010",
+          "de": "zeigen",
+          "ua": "показувати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-0efbeebf817e9fce",
+          "de": "schenken",
+          "ua": "дарувати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-262870414c23075b",
+          "de": "das Geschenk",
+          "ua": "подарунок",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-25b853700bceb636",
+          "de": "der Ball",
+          "ua": "м’яч",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-8e1ce687a6dbead2",
+          "de": "das Bild",
+          "ua": "картина / зображення",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 34,
+      "id": "dative-prepositions",
+      "title": "Зі мною, до тебе, від нього",
+      "words": [
+        {
+          "id": "course-lexeme-51bacc12684e4219",
+          "de": "mit",
+          "ua": "з (разом)",
+          "art": {
+            "src": "assets/illustrations/grammar/exp_38.png?v=e731650f6c5c",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-f7e659cbeece0133",
+          "de": "zu",
+          "ua": "до",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-ecd25fafe848b23c",
+          "de": "von",
+          "ua": "від",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-6028ea467a07fd8c",
+          "de": "aus",
+          "ua": "з (походження)",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-4ae9495bf7b81e57",
+          "de": "bei",
+          "ua": "у / при",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-ae626abd30d1d1b9",
+          "de": "nach",
+          "ua": "до (місто, країна без артикля)",
+          "art": null
+        },
+        {
+          "id": "word-family-003",
+          "de": "die Eltern",
+          "ua": "батьки",
+          "art": {
+            "src": "assets/illustrations/family/03.png?v=9b25facd1994",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-7cba6b93504d1027",
+          "de": "der Arzt",
+          "ua": "лікар",
+          "art": null
+        },
+        {
+          "id": "word-verbs-034",
+          "de": "fahren",
+          "ua": "їхати",
+          "art": {
+            "src": "assets/illustrations/verbs/fahren.png?v=23e07255dfc8",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 35,
+      "id": "accusative-prepositions",
+      "title": "Для мене, без тебе",
+      "words": [
+        {
+          "id": "course-lexeme-d80f132e585b603b",
+          "de": "für",
+          "ua": "для",
+          "art": null
+        },
+        {
+          "id": "word-grammar-016",
+          "de": "ohne",
+          "ua": "без",
+          "art": {
+            "src": "assets/illustrations/grammar/exp_39.png?v=39e3fc82eaac",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-1ee4b27807772bde",
+          "de": "gegen",
+          "ua": "проти / об",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-21a4097855430785",
+          "de": "durch",
+          "ua": "через",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-5212d0b4f20f8620",
+          "de": "um",
+          "ua": "навколо / о (час)",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-b6c121b222ea295b",
+          "de": "die Tasche",
+          "ua": "сумка",
+          "art": null
+        },
+        {
+          "id": "word-family-004",
+          "de": "der Bruder",
+          "ua": "брат",
+          "art": {
+            "src": "assets/illustrations/family/04.png?v=7d0c4c4c5292",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-home-001",
+          "de": "das Haus",
+          "ua": "будинок",
+          "art": {
+            "src": "assets/illustrations/home/haus.png?v=e8e99f41e99f",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-places-005",
+          "de": "der Park",
+          "ua": "парк",
+          "art": {
+            "src": "assets/illustrations/places/05.png?v=90b3cd76cb52",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 36,
+      "id": "checkpoint-gifts",
+      "title": "Практика: допомога, подарунки й плани",
+      "words": [],
+      "checkpoint": true
+    },
+    {
+      "number": 37,
+      "id": "numbers-prices",
+      "title": "Великі числа та ціни",
+      "words": [
+        {
+          "id": "course-lexeme-5c3c45dceddecd1c",
+          "de": "zwanzig",
+          "ua": "двадцять",
+          "art": {
+            "src": "assets/illustrations/numbers/21.png?v=1c6574958d03",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-eeb5aa9d92deeda0",
+          "de": "dreißig",
+          "ua": "тридцять",
+          "art": {
+            "src": "assets/illustrations/numbers/22.png?v=64f96e45e696",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-3791ed81dda3708d",
+          "de": "hundert",
+          "ua": "сто",
+          "art": {
+            "src": "assets/illustrations/numbers/25.png?v=234602ebb0e4",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-15c80fe449acf79b",
+          "de": "tausend",
+          "ua": "тисяча",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-c0ff8da75fa24004",
+          "de": "kosten",
+          "ua": "коштувати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-f2a7b19847ea24e6",
+          "de": "der Euro",
+          "ua": "євро",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-570fd431597c4cf8",
+          "de": "der Cent",
+          "ua": "цент",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-d183ab4cd795c4b8",
+          "de": "der Mensch",
+          "ua": "людина",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 38,
+      "id": "clock-dates",
+      "title": "Годинник, дні, дати й день народження",
+      "words": [
+        {
+          "id": "course-lexeme-c38db6bd267f913a",
+          "de": "die Uhr",
+          "ua": "година / годинник",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-b6aea37c0f8aaa04",
+          "de": "halb",
+          "ua": "половина до наступної години",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-bd302c790d41ab22",
+          "de": "der Montag",
+          "ua": "понеділок",
+          "art": {
+            "src": "assets/illustrations/time/07.png?v=78e81603b073",
+            "kind": "reused",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-d7b05bc0de22b279",
+          "de": "der Mai",
+          "ua": "травень",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-7e08bfa51d21db70",
+          "de": "der Geburtstag",
+          "ua": "день народження",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-28c07535619e7b79",
+          "de": "der Termin",
+          "ua": "запланована зустріч",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 39,
+      "id": "location-wo",
+      "title": "Де: місце",
+      "words": [
+        {
+          "id": "word-places-005",
+          "de": "der Park",
+          "ua": "парк",
+          "art": {
+            "src": "assets/illustrations/places/05.png?v=90b3cd76cb52",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-eaecc8ef185712d2",
+          "de": "in",
+          "ua": "в / у",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-fa71aac3c67db3c5",
+          "de": "auf",
+          "ua": "на (поверхні)",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-935ca190572f0fc7",
+          "de": "unter",
+          "ua": "під",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-3366117bb294d7e3",
+          "de": "neben",
+          "ua": "поруч із",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-83251c723a90ce56",
+          "de": "die Wand",
+          "ua": "стіна",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-1ae8a47c590c26e6",
+          "de": "stehen",
+          "ua": "стояти",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-72813e9d121b98d1",
+          "de": "liegen",
+          "ua": "лежати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-9d88f98846395e91",
+          "de": "laufen",
+          "ua": "бігати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-d0299eec7de4fbfd",
+          "de": "hängen",
+          "ua": "вішати / висіти",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 40,
+      "id": "destination-wohin",
+      "title": "Куди: напрямок",
+      "words": [
+        {
+          "id": "course-lexeme-83251c723a90ce56",
+          "de": "die Wand",
+          "ua": "стіна",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-d0299eec7de4fbfd",
+          "de": "hängen",
+          "ua": "вішати / висіти",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-cd51caa089455c1d",
+          "de": "stellen",
+          "ua": "ставити",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-833ab2b32db7ac36",
+          "de": "legen",
+          "ua": "класти",
+          "art": null
+        },
+        {
+          "id": "word-home-003",
+          "de": "das Zimmer",
+          "ua": "кімната",
+          "art": {
+            "src": "assets/illustrations/home/zimmer.png?v=c41099c0a084",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-c8e490418e220323",
+          "de": "der Garten",
+          "ua": "сад",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 41,
+      "id": "directions-home",
+      "title": "Місто, маршрут, вдома й додому",
+      "words": [
+        {
+          "id": "course-lexeme-ea446504d732bcba",
+          "de": "links",
+          "ua": "ліворуч",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-4d73b34b6719fc0c",
+          "de": "rechts",
+          "ua": "праворуч",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-b8892cf1fb086b42",
+          "de": "geradeaus",
+          "ua": "прямо",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-8bd574f60c07f667",
+          "de": "der Norden",
+          "ua": "північ",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-f9c24cf018252883",
+          "de": "der Süden",
+          "ua": "південь",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-80557a4bc43bd484",
+          "de": "der Osten",
+          "ua": "схід",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-dd607a971187fae9",
+          "de": "der Westen",
+          "ua": "захід",
+          "art": null
+        },
+        {
+          "id": "word-places-004",
+          "de": "der Bahnhof",
+          "ua": "вокзал",
+          "art": {
+            "src": "assets/illustrations/places/04.png?v=12bf4b1291be",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 42,
+      "id": "checkpoint-meeting-route",
+      "title": "Практика: зустріч у місті",
+      "words": [],
+      "checkpoint": true
+    },
+    {
+      "number": 43,
+      "id": "separable-present",
+      "title": "Відокремлювані префікси",
+      "words": [
+        {
+          "id": "course-lexeme-0d65a58c743ade97",
+          "de": "aufstehen",
+          "ua": "вставати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-c434610e38c8a3ef",
+          "de": "anrufen",
+          "ua": "телефонувати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-b01dd3f2f60188e4",
+          "de": "einkaufen",
+          "ua": "робити покупки",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-3abffccaa6e35ca0",
+          "de": "aufmachen",
+          "ua": "відчиняти",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-16b4ff651c34b52a",
+          "de": "mitkommen",
+          "ua": "йти разом",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-cc0c15ebe426087f",
+          "de": "zurückkommen",
+          "ua": "повертатися",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 44,
+      "id": "inseparable-present",
+      "title": "Невідокремлювані префікси та -ieren",
+      "words": [
+        {
+          "id": "course-lexeme-da56adf03ee72438",
+          "de": "verstehen",
+          "ua": "розуміти",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-de038420ed292e91",
+          "de": "besuchen",
+          "ua": "відвідувати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-3856c49615db204e",
+          "de": "erklären",
+          "ua": "пояснювати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-8aa76e8b6bf5c558",
+          "de": "bezahlen",
+          "ua": "оплачувати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-5c1b3e9df70cd6bb",
+          "de": "telefonieren",
+          "ua": "розмовляти телефоном",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-9df1a49a6c43ca48",
+          "de": "studieren",
+          "ua": "навчатися у виші",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-722f7e3997de1415",
+          "de": "das Wort",
+          "ua": "слово",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 45,
+      "id": "reflexive-present",
+      "title": "Зворотні дієслова",
+      "words": [
+        {
+          "id": "course-lexeme-b208e662f6f03d87",
+          "de": "sich treffen",
+          "ua": "зустрічатися",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-360a0865af50eacc",
+          "de": "sich freuen",
+          "ua": "радіти",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-d2caffe2e6c3bd8d",
+          "de": "sich waschen",
+          "ua": "митися",
+          "art": null
+        },
+        {
+          "id": "word-body-002",
+          "de": "die Hand",
+          "ua": "рука / кисть",
+          "art": {
+            "src": "assets/illustrations/body/02.png?v=4760def3453d",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-f3da6065748d5e50",
+          "de": "die Hände",
+          "ua": "руки / кисті",
+          "art": {
+            "src": "assets/illustrations/body/02.png?v=4760def3453d",
+            "kind": "reused",
+            "copies": 2
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 46,
+      "id": "daily-frequency",
+      "title": "Розпорядок дня та частота",
+      "words": [
+        {
+          "id": "word-grammar-009",
+          "de": "immer",
+          "ua": "завжди",
+          "art": {
+            "src": "assets/illustrations/grammar/09.png?v=fd9e79bb846a",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-83e0ecb1f0f1e386",
+          "de": "oft",
+          "ua": "часто",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-97d9b4a8530f699b",
+          "de": "manchmal",
+          "ua": "іноді",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-b62e83c726dbe6a2",
+          "de": "selten",
+          "ua": "рідко",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-07b04d13ca361874",
+          "de": "nie",
+          "ua": "ніколи",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-764f6db2ecdfc12b",
+          "de": "morgens",
+          "ua": "вранці (звично)",
+          "art": {
+            "src": "assets/illustrations/time/04.png?v=36fa748d058a",
+            "kind": "reused",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-7f19fe1b4ec25d9c",
+          "de": "abends",
+          "ua": "увечері (звично)",
+          "art": {
+            "src": "assets/illustrations/time/05.png?v=0c73542ae4b8",
+            "kind": "reused",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-dd8b5df750f35767",
+          "de": "zuerst",
+          "ua": "спочатку",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-9c640f73a99bc116",
+          "de": "danach",
+          "ua": "після цього",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 47,
+      "id": "arrange-meeting",
+      "title": "Домовляємося про зустріч",
+      "words": [
+        {
+          "id": "word-time-002",
+          "de": "morgen",
+          "ua": "завтра",
+          "art": {
+            "src": "assets/illustrations/time/02.png?v=516b016ec436",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-b208e662f6f03d87",
+          "de": "sich treffen",
+          "ua": "зустрічатися",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-ec257f628221479b",
+          "de": "passen",
+          "ua": "підходити",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-98d9cc053d91faec",
+          "de": "leider",
+          "ua": "на жаль",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-6924d6a767c0f6ec",
+          "de": "gern",
+          "ua": "залюбки",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-532548ef72e85826",
+          "de": "der Samstag",
+          "ua": "субота",
+          "art": {
+            "src": "assets/illustrations/time/12.png?v=5713d604e8b4",
+            "kind": "reused",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 48,
+      "id": "checkpoint-my-day",
+      "title": "Практика: мій звичайний день",
+      "words": [],
+      "checkpoint": true
+    },
+    {
+      "number": 49,
+      "id": "perfekt-haben-regular",
+      "title": "Perfekt з haben",
+      "words": [
+        {
+          "id": "course-lexeme-fdc49df7688ddbd5",
+          "de": "lernen",
+          "ua": "вчитися",
+          "art": {
+            "src": "assets/illustrations/verbs/lernen.png?v=f58da442af75",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-008",
+          "de": "spielen",
+          "ua": "грати",
+          "art": {
+            "src": "assets/illustrations/verbs/spielen.png?v=20187fc1529e",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-001",
+          "de": "machen",
+          "ua": "робити",
+          "art": {
+            "src": "assets/illustrations/verbs/machen.png?v=fb0ee223db17",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-018",
+          "de": "arbeiten",
+          "ua": "працювати",
+          "art": {
+            "src": "assets/illustrations/verbs/arbeiten.png?v=ef443fafa4a6",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-time-003",
+          "de": "gestern",
+          "ua": "вчора",
+          "art": {
+            "src": "assets/illustrations/time/03.png?v=71d8ab688e88",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-003",
+          "de": "fragen",
+          "ua": "питати",
+          "art": {
+            "src": "assets/illustrations/verbs/fragen.png?v=c911c2348e76",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 50,
+      "id": "perfekt-irregular",
+      "title": "Часті неправильні Partizip II",
+      "words": [
+        {
+          "id": "word-verbs-014",
+          "de": "sehen",
+          "ua": "бачити",
+          "art": {
+            "src": "assets/illustrations/verbs/sehen.png?v=954f15758608",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-019",
+          "de": "essen",
+          "ua": "їсти",
+          "art": {
+            "src": "assets/illustrations/verbs/essen.png?v=86c24cd63072",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-022",
+          "de": "lesen",
+          "ua": "читати",
+          "art": {
+            "src": "assets/illustrations/verbs/lesen.png?v=85d8a3f0653e",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-031",
+          "de": "nehmen",
+          "ua": "брати",
+          "art": {
+            "src": "assets/illustrations/verbs/nehmen.png?v=6792517de55d",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-020",
+          "de": "trinken",
+          "ua": "пити",
+          "art": {
+            "src": "assets/illustrations/verbs/trinken.png?v=2120afe1c80d",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-023",
+          "de": "schreiben",
+          "ua": "писати",
+          "art": {
+            "src": "assets/illustrations/verbs/schreiben.png?v=5aac4db16128",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-8d9c883c60fee1bd",
+          "de": "die Nachricht",
+          "ua": "повідомлення",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 51,
+      "id": "perfekt-sein",
+      "title": "Perfekt з sein",
+      "words": [
+        {
+          "id": "word-verbs-010",
+          "de": "sein",
+          "ua": "бути",
+          "art": {
+            "src": "assets/illustrations/verbs/sein.png?v=3d1f3180fab9",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-013",
+          "de": "kommen",
+          "ua": "приходити",
+          "art": {
+            "src": "assets/illustrations/verbs/kommen.png?v=f58159146006",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-035",
+          "de": "bleiben",
+          "ua": "залишатися",
+          "art": {
+            "src": "assets/illustrations/verbs/bleiben.png?v=f33f25bcc41f",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-012",
+          "de": "gehen",
+          "ua": "йти",
+          "art": {
+            "src": "assets/illustrations/verbs/gehen.png?v=e063f558c4cb",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-034",
+          "de": "fahren",
+          "ua": "їхати",
+          "art": {
+            "src": "assets/illustrations/verbs/fahren.png?v=23e07255dfc8",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 52,
+      "id": "perfekt-prefixes",
+      "title": "Perfekt і префікси",
+      "words": [
+        {
+          "id": "course-lexeme-0d65a58c743ade97",
+          "de": "aufstehen",
+          "ua": "вставати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-c434610e38c8a3ef",
+          "de": "anrufen",
+          "ua": "телефонувати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-b01dd3f2f60188e4",
+          "de": "einkaufen",
+          "ua": "робити покупки",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-da56adf03ee72438",
+          "de": "verstehen",
+          "ua": "розуміти",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-de038420ed292e91",
+          "de": "besuchen",
+          "ua": "відвідувати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-674b68e4394f6fee",
+          "de": "telefonieren",
+          "ua": "телефонувати",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 53,
+      "id": "perfekt-reflexive",
+      "title": "Зворотні дієслова в Perfekt",
+      "words": [
+        {
+          "id": "course-lexeme-b208e662f6f03d87",
+          "de": "sich treffen",
+          "ua": "зустрічатися",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-360a0865af50eacc",
+          "de": "sich freuen",
+          "ua": "радіти",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-d2caffe2e6c3bd8d",
+          "de": "sich waschen",
+          "ua": "митися",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-f3da6065748d5e50",
+          "de": "die Hände",
+          "ua": "руки / кисті",
+          "art": {
+            "src": "assets/illustrations/body/02.png?v=4760def3453d",
+            "kind": "reused",
+            "copies": 2
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 54,
+      "id": "past-sein-haben",
+      "title": "Був і мав: war та hatte",
+      "words": [
+        {
+          "id": "word-time-003",
+          "de": "gestern",
+          "ua": "вчора",
+          "art": {
+            "src": "assets/illustrations/time/03.png?v=71d8ab688e88",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-b20c5d201024deeb",
+          "de": "war",
+          "ua": "був / була",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-95c0867071b4d52c",
+          "de": "hatte",
+          "ua": "мав / мала",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-2ea24cbdaf6e301f",
+          "de": "krank",
+          "ua": "хворий / хвора",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-fb5fcae2fefadb78",
+          "de": "müde",
+          "ua": "втомлений / втомлена",
+          "art": {
+            "src": "assets/illustrations/people/exp_21.png?v=1b7ee759eebc",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-3c7f98d813c0fe5a",
+          "de": "früher",
+          "ua": "раніше",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 55,
+      "id": "checkpoint-yesterday",
+      "title": "Практика: що було вчора",
+      "words": [],
+      "checkpoint": true
+    },
+    {
+      "number": 56,
+      "id": "impersonal-man",
+      "title": "Коли кажуть «тут можна» або «люди роблять»",
+      "words": [
+        {
+          "id": "word-verbs-016",
+          "de": "sprechen",
+          "ua": "говорити",
+          "art": {
+            "src": "assets/illustrations/verbs/sprechen.png?v=882e7ffa4689",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-0b7a7a48667409b1",
+          "de": "dürfen",
+          "ua": "мати дозвіл",
+          "art": null
+        },
+        {
+          "id": "word-people-001",
+          "de": "der Mann",
+          "ua": "чоловік",
+          "art": {
+            "src": "assets/illustrations/people/01.png?v=52b15a0db634",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-8aa76e8b6bf5c558",
+          "de": "bezahlen",
+          "ua": "оплачувати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-a3590b436deeba7a",
+          "de": "man",
+          "ua": "неозначено-особовий займенник",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-b416201e4d9ee3b0",
+          "de": "die Karte",
+          "ua": "картка",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 57,
+      "id": "coordinate-clauses",
+      "title": "І, але, або, адже",
+      "words": [
+        {
+          "id": "course-lexeme-fb5fcae2fefadb78",
+          "de": "müde",
+          "ua": "втомлений / втомлена",
+          "art": {
+            "src": "assets/illustrations/people/exp_21.png?v=1b7ee759eebc",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-grammar-011",
+          "de": "und",
+          "ua": "і",
+          "art": {
+            "src": "assets/illustrations/grammar/11.png?v=c1526c2b36d0",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-grammar-013",
+          "de": "aber",
+          "ua": "але",
+          "art": {
+            "src": "assets/illustrations/grammar/13.png?v=a18dc03a368f",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-grammar-012",
+          "de": "oder",
+          "ua": "або",
+          "art": {
+            "src": "assets/illustrations/grammar/12.png?v=6fb0d2b8c4a0",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-c2b8c27ca0ea527d",
+          "de": "denn",
+          "ua": "адже / бо",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-8ff64ddec51c52d3",
+          "de": "kochen",
+          "ua": "готувати їжу",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-63ab50f3b1230006",
+          "de": "wenig",
+          "ua": "мало",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-7c4bbf3d39d19726",
+          "de": "spät",
+          "ua": "пізно",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 58,
+      "id": "subordinate-dass",
+      "title": "Я знаю, що…",
+      "words": [
+        {
+          "id": "course-lexeme-7c4bbf3d39d19726",
+          "de": "spät",
+          "ua": "пізно",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-0d47a455e04ee9d5",
+          "de": "dass",
+          "ua": "що (сполучник)",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-35ebc6fbaf2a36a4",
+          "de": "wissen",
+          "ua": "знати факт",
+          "art": {
+            "src": "assets/illustrations/verbs/wissen.png?v=064120c463a2",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-038b891891597e40",
+          "de": "denken",
+          "ua": "думати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-55be9cce4d825d23",
+          "de": "glauben",
+          "ua": "вважати / вірити",
+          "art": null
+        },
+        {
+          "id": "word-verbs-002",
+          "de": "sagen",
+          "ua": "казати",
+          "art": {
+            "src": "assets/illustrations/verbs/sagen.png?v=14e1db97e227",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 59,
+      "id": "cause-weil-deshalb",
+      "title": "Чому, тому що, тому",
+      "words": [
+        {
+          "id": "word-questions-007",
+          "de": "warum",
+          "ua": "чому",
+          "art": {
+            "src": "assets/illustrations/questions/07.png?v=9eb109fad2c1",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-2ea24cbdaf6e301f",
+          "de": "krank",
+          "ua": "хворий / хвора",
+          "art": null
+        },
+        {
+          "id": "word-grammar-014",
+          "de": "weil",
+          "ua": "тому що",
+          "art": {
+            "src": "assets/illustrations/grammar/exp_37.png?v=341aa03088ac",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-fe263a20453a421e",
+          "de": "deshalb",
+          "ua": "тому / через це",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-ae96d46fc00a6ab8",
+          "de": "darum",
+          "ua": "тому",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-cc492023d5ddbd34",
+          "de": "regnen",
+          "ua": "дощити",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-b199ecdeb983d9ba",
+          "de": "noch",
+          "ua": "ще",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-353922964fc00424",
+          "de": "froh",
+          "ua": "радий",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 60,
+      "id": "condition-wenn",
+      "title": "Коли або якщо",
+      "words": [
+        {
+          "id": "course-lexeme-7c4bbf3d39d19726",
+          "de": "spät",
+          "ua": "пізно",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-cc492023d5ddbd34",
+          "de": "regnen",
+          "ua": "дощити",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-482fb10cc2efd420",
+          "de": "wenn",
+          "ua": "якщо / коли (умова, повторення)",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-faacd4005ab76bb4",
+          "de": "frei",
+          "ua": "вільний",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-c1766166c4eaeb90",
+          "de": "früh",
+          "ua": "рано",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-0d42dba4ecf0f474",
+          "de": "zusammen",
+          "ua": "разом",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 61,
+      "id": "infinitive-zu",
+      "title": "Зробити щось: інфінітив із zu",
+      "words": [
+        {
+          "id": "course-lexeme-092bfb6d1d83685a",
+          "de": "versuchen",
+          "ua": "намагатися",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-5bc15582bbe8e266",
+          "de": "vergessen",
+          "ua": "забувати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-f51c6969a170b9f7",
+          "de": "beginnen",
+          "ua": "починати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-011db95127558869",
+          "de": "hoffen",
+          "ua": "сподіватися",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-8f7b29ebbf17a032",
+          "de": "wichtig",
+          "ua": "важливий",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-1ee95a9408a6811a",
+          "de": "Zeit haben",
+          "ua": "мати час",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 62,
+      "id": "checkpoint-reasons-plans",
+      "title": "Практика: пояснюємо рішення",
+      "words": [],
+      "checkpoint": true
+    },
+    {
+      "number": 63,
+      "id": "adjectives-predicative",
+      "title": "Опис, колір, погода й самопочуття",
+      "words": [
+        {
+          "id": "course-lexeme-489a111d4c5d440e",
+          "de": "interessant",
+          "ua": "цікавий",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-bc4096043af009e7",
+          "de": "langweilig",
+          "ua": "нудний",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-f9ca9c3559396692",
+          "de": "warm",
+          "ua": "теплий",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-ede47028b329ac9e",
+          "de": "kalt",
+          "ua": "холодний",
+          "art": null
+        },
+        {
+          "id": "word-people-016",
+          "de": "glücklich",
+          "ua": "щасливий",
+          "art": {
+            "src": "assets/illustrations/people/exp_20.png?v=cfb0af3d86bc",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-888d64ec78a8f01c",
+          "de": "traurig",
+          "ua": "сумний",
+          "art": null
+        },
+        {
+          "id": "word-colors-001",
+          "de": "rot",
+          "ua": "червоний",
+          "art": {
+            "src": "assets/illustrations/colors/rot.png?v=e202137da47a",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-colors-002",
+          "de": "blau",
+          "ua": "синій",
+          "art": {
+            "src": "assets/illustrations/colors/blau.png?v=30bf7c4fc6a6",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-5e4fd7e517f21667",
+          "de": "der Film",
+          "ua": "фільм",
+          "art": null
+        },
+        {
+          "id": "word-places-006",
+          "de": "das Auto",
+          "ua": "автомобіль",
+          "art": {
+            "src": "assets/illustrations/places/06.png?v=025028c6bbee",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 64,
+      "id": "adjectives-comparative",
+      "title": "Більший і швидший, ніж",
+      "words": [
+        {
+          "id": "course-lexeme-cc906841996c2cd2",
+          "de": "schnell",
+          "ua": "швидкий",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-40ae99a2e7df9d21",
+          "de": "langsam",
+          "ua": "повільний",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-ae18d3c9424eb8b4",
+          "de": "größer",
+          "ua": "більший",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-c6f3aa416b7eeb03",
+          "de": "kleiner",
+          "ua": "менший",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-6bdcbaacb871d49b",
+          "de": "besser",
+          "ua": "кращий",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-3593cd6c26b24848",
+          "de": "mehr",
+          "ua": "більше",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-b044b89a1a59b8f4",
+          "de": "als",
+          "ua": "ніж",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-1e5e5ac00b02a7a6",
+          "de": "so … wie",
+          "ua": "так само … як",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 65,
+      "id": "adjectives-superlative",
+      "title": "Найкращий і найбільший",
+      "words": [
+        {
+          "id": "course-lexeme-617382b59df4cd6b",
+          "de": "am besten",
+          "ua": "найкраще",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-3ce0f5fff4a4c13a",
+          "de": "am liebsten",
+          "ua": "найохочіше / найбільше любити",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-96538ed6f70c1507",
+          "de": "am meisten",
+          "ua": "найбільше",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-f3d19043e9dbd491",
+          "de": "am schnellsten",
+          "ua": "найшвидше",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-1348cfe34b3c60e8",
+          "de": "lieber",
+          "ua": "охочіше",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 66,
+      "id": "adjective-definite-na",
+      "title": "Опис з der/die/das",
+      "words": [
+        {
+          "id": "course-lexeme-fcaa490348f4d93f",
+          "de": "klein",
+          "ua": "маленький",
+          "art": {
+            "src": "assets/illustrations/people/08.png?v=09bc651aef68",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-aa33adb5ad0d5ea5",
+          "de": "groß",
+          "ua": "великий",
+          "art": {
+            "src": "assets/illustrations/people/07.png?v=1c031d013c7e",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-489a111d4c5d440e",
+          "de": "interessant",
+          "ua": "цікавий",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-d365658b2c11365a",
+          "de": "gut",
+          "ua": "добрий",
+          "art": {
+            "src": "assets/illustrations/people/09.png?v=1707f784e56c",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-people-014",
+          "de": "neu",
+          "ua": "новий",
+          "art": {
+            "src": "assets/illustrations/people/14.png?v=b3fa5bc81b0e",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-people-012",
+          "de": "alt",
+          "ua": "старий",
+          "art": {
+            "src": "assets/illustrations/people/12.png?v=85b788a5d6a7",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-eb7ef939b5c001f8",
+          "de": "die Geschichte",
+          "ua": "історія",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 67,
+      "id": "adjective-indefinite-na",
+      "title": "Опис з ein/mein/kein",
+      "words": [
+        {
+          "id": "word-people-014",
+          "de": "neu",
+          "ua": "новий",
+          "art": {
+            "src": "assets/illustrations/people/14.png?v=b3fa5bc81b0e",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-people-012",
+          "de": "alt",
+          "ua": "старий",
+          "art": {
+            "src": "assets/illustrations/people/12.png?v=85b788a5d6a7",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-eb7ef939b5c001f8",
+          "de": "die Geschichte",
+          "ua": "історія",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-49211de5f5e437b1",
+          "de": "ein guter Freund",
+          "ua": "добрий друг",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-660e0d0220192fd6",
+          "de": "eine kleine Katze",
+          "ua": "маленька кішка",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-43d3890f180561e6",
+          "de": "ein neues Buch",
+          "ua": "нова книжка",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 68,
+      "id": "adjective-dative",
+      "title": "Прикметники в Dativ",
+      "words": [
+        {
+          "id": "word-verbs-016",
+          "de": "sprechen",
+          "ua": "говорити",
+          "art": {
+            "src": "assets/illustrations/verbs/sprechen.png?v=882e7ffa4689",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-verbs-038",
+          "de": "helfen",
+          "ua": "допомагати",
+          "art": {
+            "src": "assets/illustrations/verbs/exp_06.png?v=901fd6c8cf8a",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-e0209220a02b4b28",
+          "de": "mit einem guten Freund",
+          "ua": "з добрим другом",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-b4ca7924dc987471",
+          "de": "bei meiner alten Schule",
+          "ua": "біля моєї старої школи",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-262473192d19b935",
+          "de": "freundlich",
+          "ua": "привітний",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 69,
+      "id": "adjective-no-article",
+      "title": "Множина й опис без артикля",
+      "words": [
+        {
+          "id": "course-lexeme-f9ca9c3559396692",
+          "de": "warm",
+          "ua": "теплий",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-ede47028b329ac9e",
+          "de": "kalt",
+          "ua": "холодний",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-d365658b2c11365a",
+          "de": "gut",
+          "ua": "добрий",
+          "art": {
+            "src": "assets/illustrations/people/09.png?v=1707f784e56c",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-5adc078ea15a4f93",
+          "de": "frisch",
+          "ua": "свіжий",
+          "art": null
+        },
+        {
+          "id": "word-colors-005",
+          "de": "schwarz",
+          "ua": "чорний",
+          "art": {
+            "src": "assets/illustrations/colors/schwarz.png?v=d02f0bdee1db",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-colors-003",
+          "de": "grün",
+          "ua": "зелений",
+          "art": {
+            "src": "assets/illustrations/colors/gruen.png?v=ba3ecb3081e3",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 70,
+      "id": "checkpoint-describe-compare",
+      "title": "Практика: описуємо й порівнюємо",
+      "words": [],
+      "checkpoint": true
+    },
+    {
+      "number": 71,
+      "id": "personal-details",
+      "title": "Адреса, телефон та анкета",
+      "words": [
+        {
+          "id": "course-lexeme-71b43eb586537391",
+          "de": "der Vorname",
+          "ua": "ім’я",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-d8c7cfd215aa466f",
+          "de": "der Nachname",
+          "ua": "прізвище",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-93422abcc2b8d3d5",
+          "de": "die Adresse",
+          "ua": "адреса",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-ad787518763fa8a2",
+          "de": "die Telefonnummer",
+          "ua": "номер телефону",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-2b3bec8594f1c80c",
+          "de": "buchstabieren",
+          "ua": "називати по літерах",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-06079490110f2eaa",
+          "de": "das Formular",
+          "ua": "формуляр",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-4365305c5012ceb9",
+          "de": "die Hausnummer",
+          "ua": "номер будинку",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-f59914ebbe96e2e6",
+          "de": "ausfüllen",
+          "ua": "заповнювати",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 72,
+      "id": "shopping-clothes",
+      "title": "Магазин та одяг",
+      "words": [
+        {
+          "id": "course-lexeme-8aa76e8b6bf5c558",
+          "de": "bezahlen",
+          "ua": "оплачувати",
+          "art": null
+        },
+        {
+          "id": "word-clothes-004",
+          "de": "die Jacke",
+          "ua": "куртка",
+          "art": {
+            "src": "assets/illustrations/clothes/exp_52.png?v=f49c81000bfb",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-clothes-002",
+          "de": "die Hose",
+          "ua": "штани",
+          "art": {
+            "src": "assets/illustrations/clothes/exp_50.png?v=8f76c147a4a7",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-1f24e4d027af4b80",
+          "de": "das Hemd",
+          "ua": "сорочка",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-d8a7e73cc1549d81",
+          "de": "die Größe",
+          "ua": "розмір",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-973b84754c0500d9",
+          "de": "anprobieren",
+          "ua": "приміряти",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-457b9b860e6dfe3f",
+          "de": "teuer",
+          "ua": "дорогий",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-e1003b940d4e8a04",
+          "de": "billig",
+          "ua": "дешевий",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 73,
+      "id": "health-help",
+      "title": "Самопочуття й звернення по допомогу",
+      "words": [
+        {
+          "id": "course-lexeme-7cba6b93504d1027",
+          "de": "der Arzt",
+          "ua": "лікар",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-5b00128160357929",
+          "de": "die Kopfschmerzen",
+          "ua": "головний біль",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-887e282e3a7ee797",
+          "de": "der Hals",
+          "ua": "горло",
+          "art": {
+            "src": "assets/illustrations/body/exp_41.png?v=6ec5806ec8d4",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-b2cbb33e2a4908f9",
+          "de": "wehtun",
+          "ua": "боліти",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-66f5f2a71240733c",
+          "de": "das Fieber",
+          "ua": "підвищена температура",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-146d0cadd6805c23",
+          "de": "die Ärztin",
+          "ua": "лікарка",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-a543b1d822d37816",
+          "de": "der Termin",
+          "ua": "запланований прийом",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 74,
+      "id": "housing-household",
+      "title": "Житло та домашні справи",
+      "words": [
+        {
+          "id": "word-home-002",
+          "de": "die Wohnung",
+          "ua": "квартира",
+          "art": {
+            "src": "assets/illustrations/home/wohnung.png?v=8ae5f52a0da7",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-home-009",
+          "de": "die Küche",
+          "ua": "кухня",
+          "art": {
+            "src": "assets/illustrations/home/kueche.png?v=c1a39d1aabb6",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-home-010",
+          "de": "das Bad",
+          "ua": "ванна кімната",
+          "art": {
+            "src": "assets/illustrations/home/bad.png?v=bf82e3362831",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-9156e88459246130",
+          "de": "die Heizung",
+          "ua": "опалення",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-00c81671d92ca255",
+          "de": "kaputt",
+          "ua": "несправний",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-a819acb6613c29f9",
+          "de": "funktionieren",
+          "ua": "функціонувати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-aa85039ae26c6373",
+          "de": "aufräumen",
+          "ua": "прибирати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-c4b5284ffa972047",
+          "de": "reparieren",
+          "ua": "ремонтувати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-abc331d0f296e006",
+          "de": "putzen",
+          "ua": "прибирати / чистити",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 75,
+      "id": "school-work",
+      "title": "Школа, навчання та робота",
+      "words": [
+        {
+          "id": "course-lexeme-3856c49615db204e",
+          "de": "erklären",
+          "ua": "пояснювати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-b991cb1f3b350671",
+          "de": "der Unterricht",
+          "ua": "урок / заняття",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-96c53f8bf13e4481",
+          "de": "die Arbeit",
+          "ua": "робота",
+          "art": null
+        },
+        {
+          "id": "word-school-009",
+          "de": "die Aufgabe",
+          "ua": "завдання",
+          "art": {
+            "src": "assets/illustrations/school/09.png?v=d303831bdff4",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-dd851ded4f8a92e7",
+          "de": "die Pause",
+          "ua": "перерва",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-714fd775c97e0f47",
+          "de": "anfangen",
+          "ua": "починатися",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-85ac48dca4d63321",
+          "de": "die Hausaufgaben",
+          "ua": "домашнє завдання",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-59def6d3551746ac",
+          "de": "die Frage",
+          "ua": "запитання",
+          "art": {
+            "src": "assets/illustrations/school/10.png?v=d019c02d9b0d",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 76,
+      "id": "travel-accommodation",
+      "title": "Транспорт, квитки та житло в подорожі",
+      "words": [
+        {
+          "id": "word-home-003",
+          "de": "das Zimmer",
+          "ua": "кімната",
+          "art": {
+            "src": "assets/illustrations/home/zimmer.png?v=c41099c0a084",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-4fc49b1d5e55faa3",
+          "de": "die Fahrkarte",
+          "ua": "квиток на транспорт",
+          "art": null
+        },
+        {
+          "id": "word-places-008",
+          "de": "der Zug",
+          "ua": "поїзд",
+          "art": {
+            "src": "assets/illustrations/places/08.png?v=871314fe24cb",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-a491965ff63db98b",
+          "de": "abfahren",
+          "ua": "відправлятися",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-e4cb754c72586e11",
+          "de": "das Gleis",
+          "ua": "колія",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-f4b9b1113a4207ca",
+          "de": "das Hotel",
+          "ua": "готель",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-2feea14b5c00cb29",
+          "de": "buchen",
+          "ua": "бронювати",
+          "art": null
+        },
+        {
+          "id": "word-time-006",
+          "de": "die Nacht",
+          "ua": "ніч",
+          "art": {
+            "src": "assets/illustrations/time/06.png?v=87ff734d2277",
+            "kind": "existing",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 77,
+      "id": "short-messages",
+      "title": "Повідомлення та домовленості",
+      "words": [
+        {
+          "id": "word-time-002",
+          "de": "morgen",
+          "ua": "завтра",
+          "art": {
+            "src": "assets/illustrations/time/02.png?v=516b016ec436",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-98d9cc053d91faec",
+          "de": "leider",
+          "ua": "на жаль",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-8d9c883c60fee1bd",
+          "de": "die Nachricht",
+          "ua": "повідомлення",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-0cfe44afe7b5a4d9",
+          "de": "einladen",
+          "ua": "запрошувати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-b43a12a36f4cbfc2",
+          "de": "verschieben",
+          "ua": "переносити (зустріч)",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-d56d608c437b11d0",
+          "de": "bis bald",
+          "ua": "до скорого",
+          "art": {
+            "src": "assets/illustrations/greetings/exp_15.png?v=1ec2241c5cfe",
+            "kind": "reused",
+            "copies": 1
+          }
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 78,
+      "id": "future-plans",
+      "title": "Плани та бажання",
+      "words": [
+        {
+          "id": "word-time-002",
+          "de": "morgen",
+          "ua": "завтра",
+          "art": {
+            "src": "assets/illustrations/time/02.png?v=516b016ec436",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-21e34af987794719",
+          "de": "reisen",
+          "ua": "подорожувати",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-cb63ff86d339ff0a",
+          "de": "werden",
+          "ua": "допоміжне дієслово майбутнього часу",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-472325157fdab3fb",
+          "de": "nächste Woche",
+          "ua": "наступного тижня",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-6289cbdab3e6ee0f",
+          "de": "der Plan",
+          "ua": "план",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-95204693cf83f35c",
+          "de": "üben",
+          "ua": "практикуватися",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 79,
+      "id": "connected-story",
+      "title": "Моя історія: зараз, учора, далі",
+      "words": [
+        {
+          "id": "word-time-002",
+          "de": "morgen",
+          "ua": "завтра",
+          "art": {
+            "src": "assets/illustrations/time/02.png?v=516b016ec436",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "word-time-003",
+          "de": "gestern",
+          "ua": "вчора",
+          "art": {
+            "src": "assets/illustrations/time/03.png?v=71d8ab688e88",
+            "kind": "existing",
+            "copies": 1
+          }
+        },
+        {
+          "id": "course-lexeme-0d42dba4ecf0f474",
+          "de": "zusammen",
+          "ua": "разом",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-8e522cb66b3786fb",
+          "de": "Mia",
+          "ua": "Міа (ім’я)",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-983575760184915f",
+          "de": "jeden Tag",
+          "ua": "щодня",
+          "art": null
+        },
+        {
+          "id": "course-lexeme-10e023385c646e10",
+          "de": "deshalb",
+          "ua": "тому",
+          "art": null
+        }
+      ],
+      "checkpoint": false
+    },
+    {
+      "number": 80,
+      "id": "checkpoint-final",
+      "title": "Фінальна практика",
+      "words": [],
+      "checkpoint": true
+    }
+  ]
+}

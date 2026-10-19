@@ -3,3 +3,7 @@
 .cv2-word-art{display:block;width:68px;height:68px;object-fit:contain;margin-bottom:10px}.cv2-modes button:disabled{opacity:.35;cursor:not-allowed}
 
 .cv2-side summary{cursor:pointer;font-size:13px;font-weight:800;line-height:1.5;margin:12px 0}.cv2-side button{white-space:normal;overflow-wrap:anywhere;width:100%;font-size:13px;text-align:left}.lessons:has(.cv2-side){max-height:90vh;overflow:auto}
+
+.course-art-plural{display:flex;align-items:center;justify-content:center;gap:4px;min-height:112px}.course-art-plural .cv2-word-art{max-width:42%;width:95px;height:104px;object-fit:contain;margin:0}.course-reading-example{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:12px 0}.course-reading-example .cv2-word-art{width:90px;height:90px;object-fit:contain;margin:0}
+
+.course-art-preview{margin:24px 0}.course-art-preview-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:12px}.course-art-preview-grid>button{display:flex;flex-direction:column;align-items:center;justify-content:flex-start;gap:6px;padding:12px;border:1px solid #102b5018;border-radius:16px;background:#fffaf4;color:#102B50;font:inherit;cursor:pointer;min-width:0;overflow-wrap:anywhere}.course-art-preview-grid .cv2-word-art{width:110px;max-width:100%;height:110px;object-fit:contain;margin:0}.course-art-preview-grid .course-art-plural{min-height:110px}.course-art-preview-grid .course-art-plural .cv2-word-art{width:48px}.course-art-preview-grid small{color:#6c7481;font-size:12px}.course-art-preview-grid span[lang]{font-weight:700}

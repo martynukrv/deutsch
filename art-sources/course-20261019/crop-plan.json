@@ -1,0 +1,42 @@
+{
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "bereit",
+      "ua": "готовий / готова",
+      "source": "ready-display.png",
+      "name": "ready"
+    },
+    {
+      "de": "die Zeit",
+      "ua": "час",
+      "source": "time-display.png",
+      "name": "time"
+    },
+    {
+      "de": "der Hunger",
+      "ua": "голод",
+      "source": "hunger-display.png",
+      "name": "hunger"
+    },
+    {
+      "de": "der Durst",
+      "ua": "спрага",
+      "source": "thirst-display.png",
+      "name": "thirst"
+    },
+    {
+      "de": "Deutsch",
+      "ua": "німецька мова",
+      "source": "german-display.png",
+      "name": "german"
+    },
+    {
+      "de": "heißen",
+      "ua": "зватися",
+      "source": "name-display.png",
+      "name": "name"
+    }
+  ]
+}

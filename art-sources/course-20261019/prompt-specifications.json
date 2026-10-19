@@ -1,0 +1,17 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "references": [
+    "assets/illustrations/verbs/lernen.png",
+    "assets/illustrations/food/apfel.png"
+  ],
+  "style": "Compact friendly chibi cartoon matching approved references. Thick organic navy #102B50 contours, orange #FF5726 accents, cream #FFF1E5 and white #FFFFFF. Transparent background, complete centered composition with clear padding and short tapered navy/orange signature dashes. No backdrop, glow, haze or 3D.",
+  "subjects": {
+    "ready": "bereit: cheerful white/cream-haired child with orange backpack giving a confident thumbs-up, ready to begin. No text.",
+    "time": "die Zeit: chunky charming orange alarm clock with cream/white face, two navy hands and navy tick marks, no numerals or text.",
+    "hunger": "der Hunger: child rubbing empty tummy, mouth slightly open, looking longingly at floating bread. No text.",
+    "thirst": "der Durst: thirsty child lifting large white/cream drinking glass to mouth, white/cream water drops outlined navy, no blue. No text.",
+    "german": "Deutsch: open cream textbook with orange speech bubble containing exactly DE, no flag or other text.",
+    "name": "heißen: friendly child pointing to their own blank orange-edged name badge, empty speech bubble above. No text."
+  },
+  "selection": "The first ready drafts contained unwanted glows and were rejected. The final compact reference-based version is the preserved ready-original.png. Other original source PNGs are the accepted single generated compositions."
+}

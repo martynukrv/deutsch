@@ -1,0 +1,86 @@
+[
+  {
+    "de": "bereit",
+    "ua": "готовий / готова",
+    "original": "ready-original.png",
+    "originalSha256": "a6949de9c2afe6109dc0657d9e5add0ea023f04d2d96f215d78ff755d5b2977f",
+    "alphaCrop": [
+      33,
+      39,
+      1117,
+      1260
+    ],
+    "display": "ready-display.png",
+    "operation": "Crop alpha bounding box, proportional Lanczos fit within 480x480, transparent padding to 512x512. No drawing or recoloring."
+  },
+  {
+    "de": "die Zeit",
+    "ua": "час",
+    "original": "time-original.png",
+    "originalSha256": "57e07688a19c6f6248d095af083f6f6d37a4ba5609ae8674c3dc17b9b28d3d60",
+    "alphaCrop": [
+      98,
+      87,
+      1228,
+      1197
+    ],
+    "display": "time-display.png",
+    "operation": "Crop alpha bounding box, proportional Lanczos fit within 480x480, transparent padding to 512x512. No drawing or recoloring."
+  },
+  {
+    "de": "der Hunger",
+    "ua": "голод",
+    "original": "hunger-original.png",
+    "originalSha256": "f91e1695b3e5bd2067bb658f1cf0b380cabd0c4eb863ea4acebfc9c9cc5bd44c",
+    "alphaCrop": [
+      0,
+      70,
+      1258,
+      1164
+    ],
+    "display": "hunger-display.png",
+    "operation": "Crop alpha bounding box, proportional Lanczos fit within 480x480, transparent padding to 512x512. No drawing or recoloring."
+  },
+  {
+    "de": "der Durst",
+    "ua": "спрага",
+    "original": "thirst-original.png",
+    "originalSha256": "69fe917f9f12325272f53b9d0a67158b7d527b6c87ade4cc6f8d10e7fb97ea18",
+    "alphaCrop": [
+      70,
+      45,
+      1266,
+      1162
+    ],
+    "display": "thirst-display.png",
+    "operation": "Crop alpha bounding box, proportional Lanczos fit within 480x480, transparent padding to 512x512. No drawing or recoloring."
+  },
+  {
+    "de": "Deutsch",
+    "ua": "німецька мова",
+    "original": "german-original.png",
+    "originalSha256": "631403af4ad11e66b9d157fbf3fa75a2cd4e15c0c464b135d30d0b866af1e07c",
+    "alphaCrop": [
+      27,
+      61,
+      1354,
+      1070
+    ],
+    "display": "german-display.png",
+    "operation": "Crop alpha bounding box, proportional Lanczos fit within 480x480, transparent padding to 512x512. No drawing or recoloring."
+  },
+  {
+    "de": "heißen",
+    "ua": "зватися",
+    "original": "name-original.png",
+    "originalSha256": "7519a16ea3ac66e4d4b07e2f0d146c3d7d2a2195bf75098abd4d7d388b345f00",
+    "alphaCrop": [
+      92,
+      57,
+      1290,
+      1175
+    ],
+    "display": "name-display.png",
+    "operation": "Crop alpha bounding box, proportional Lanczos fit within 480x480, transparent padding to 512x512. No drawing or recoloring."
+  }
+]
