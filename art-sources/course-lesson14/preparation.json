@@ -1,0 +1,58 @@
+[
+  {
+    "de": "ein",
+    "ua": "один / неозначений артикль",
+    "original": "article_ein-original.png",
+    "originalSha256": "5f0183f94fb2a50812421b9386f1320c2f82f913a26349e97b832c05d881a45a",
+    "alphaCrop": [
+      72,
+      183,
+      1192,
+      1230
+    ],
+    "display": "article_ein.png",
+    "operation": "Alpha crop, proportional 480px fit and transparent padding to 512x512; no drawing/recoloring."
+  },
+  {
+    "de": "eine",
+    "ua": "одна / неозначений артикль",
+    "original": "article_eine-original.png",
+    "originalSha256": "0a459c2a245efd475ac6653d98c408775aea3ee242f284aaa5087a8fed9f9c9a",
+    "alphaCrop": [
+      97,
+      110,
+      1218,
+      1214
+    ],
+    "display": "article_eine.png",
+    "operation": "Alpha crop, proportional 480px fit and transparent padding to 512x512; no drawing/recoloring."
+  },
+  {
+    "de": "kein",
+    "ua": "жоден / не",
+    "original": "article_kein-original.png",
+    "originalSha256": "c2b754c482e24beed5ef71081a84322e915aa96286dea4e3b4fbb561e4a9cbfd",
+    "alphaCrop": [
+      0,
+      216,
+      1209,
+      1115
+    ],
+    "display": "article_kein.png",
+    "operation": "Alpha crop, proportional 480px fit and transparent padding to 512x512; no drawing/recoloring."
+  },
+  {
+    "de": "keine",
+    "ua": "жодна / не",
+    "original": "article_keine-original.png",
+    "originalSha256": "5d1dd7095e9fe7f3eb7b851ac3e056ebd53b93cb2ef34ea952a19648bdc17a16",
+    "alphaCrop": [
+      31,
+      35,
+      1226,
+      1198
+    ],
+    "display": "article_keine.png",
+    "operation": "Alpha crop, proportional 480px fit and transparent padding to 512x512; no drawing/recoloring."
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "category": "course",
+  "approved": true,
+  "items": [
+    {
+      "de": "ein",
+      "ua": "один / неозначений артикль",
+      "file": "article_ein.png"
+    },
+    {
+      "de": "eine",
+      "ua": "одна / неозначений артикль",
+      "file": "article_eine.png"
+    },
+    {
+      "de": "kein",
+      "ua": "жоден / не",
+      "file": "article_kein.png"
+    },
+    {
+      "de": "keine",
+      "ua": "жодна / не",
+      "file": "article_keine.png"
+    }
+  ]
+}

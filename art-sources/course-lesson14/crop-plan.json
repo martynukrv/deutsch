@@ -1,0 +1,31 @@
+{
+  "category": "course",
+  "package": "course-lesson14",
+  "approved": true,
+  "items": [
+    {
+      "de": "ein",
+      "ua": "один / неозначений артикль",
+      "name": "article_ein",
+      "source": "article_ein-original.png"
+    },
+    {
+      "de": "eine",
+      "ua": "одна / неозначений артикль",
+      "name": "article_eine",
+      "source": "article_eine-original.png"
+    },
+    {
+      "de": "kein",
+      "ua": "жоден / не",
+      "name": "article_kein",
+      "source": "article_kein-original.png"
+    },
+    {
+      "de": "keine",
+      "ua": "жодна / не",
+      "name": "article_keine",
+      "source": "article_keine-original.png"
+    }
+  ]
+}

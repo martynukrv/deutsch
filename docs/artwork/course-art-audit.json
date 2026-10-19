@@ -1,8 +1,8 @@
 {
   "version": 1,
   "total": 373,
-  "illustrated": 160,
-  "missing": 213,
+  "illustrated": 165,
+  "missing": 208,
   "lessons": [
     {
       "number": 1,
@@ -815,25 +815,41 @@
           "id": "course-lexeme-56b1f83151359140",
           "de": "ein",
           "ua": "один / неозначений артикль",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/article_ein.png?v=210ee7cacf6f",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-409c19274d221e54",
           "de": "eine",
           "ua": "одна / неозначений артикль",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/article_eine.png?v=386650661de4",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-dd122a073d79121e",
           "de": "kein",
           "ua": "жоден / не",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/article_kein.png?v=35722caf6735",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "course-lexeme-80093cdf7a594205",
           "de": "keine",
           "ua": "жодна / не",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/course/article_keine.png?v=b19f3315cded",
+            "kind": "new",
+            "copies": 1
+          }
         },
         {
           "id": "word-people-009",
@@ -907,7 +923,11 @@
           "id": "course-lexeme-e84f5479f853b902",
           "de": "die Katzen",
           "ua": "кішки",
-          "art": null
+          "art": {
+            "src": "assets/illustrations/animals/katze.png?v=2657a9986168",
+            "kind": "reused",
+            "copies": 2
+          }
         },
         {
           "id": "course-lexeme-0c6e641fd8f41f82",
