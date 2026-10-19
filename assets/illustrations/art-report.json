@@ -271,6 +271,42 @@
   },
   {
     "category": "course",
+    "de": "ein",
+    "ua": "один / неозначений артикль",
+    "path": "assets/illustrations/course/article_ein.png",
+    "sha256": "210ee7cacf6f009c7dcae83f097825593c7c5410494026dfabe3494f872b3473",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "eine",
+    "ua": "одна / неозначений артикль",
+    "path": "assets/illustrations/course/article_eine.png",
+    "sha256": "386650661de4a57777224437aee35dc0385468eb81670318854f5655244d234f",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "kein",
+    "ua": "жоден / не",
+    "path": "assets/illustrations/course/article_kein.png",
+    "sha256": "35722caf67358fe2b568fa76bb26612e9ba23c47d63d832031b5c8f51dc126c0",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
+    "de": "keine",
+    "ua": "жодна / не",
+    "path": "assets/illustrations/course/article_keine.png",
+    "sha256": "b19f3315cdeda1fe5326b9d4bbb59115d12e789b47e3719cde5ae8e75cd6e8e5",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "course",
     "de": "bereit",
     "ua": "готовий / готова",
     "path": "assets/illustrations/course/ready.png",
