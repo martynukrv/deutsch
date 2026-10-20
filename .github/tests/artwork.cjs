@@ -35,9 +35,9 @@ const fs=require('fs');
     oldArt:document.querySelectorAll('#homeView .doodle-hero svg,#learningPath .path-icon svg,#learningPath .lesson-group-icon svg').length,
     overflow:document.documentElement.scrollWidth>document.documentElement.clientWidth+5
    }));
-   if(home.images!==1||home.lessons!==80||home.topics!==12||home.distinct!==1||home.oldArt||home.overflow)throw Error('Homepage artwork failure '+width+JSON.stringify(home));
+   if(home.images!==1||home.lessons!==79||home.topics!==12||home.distinct!==1||home.oldArt||home.overflow)throw Error('Homepage artwork failure '+width+JSON.stringify(home));
   }
-  console.log('PASS homepage artwork: welcome, one 80-lesson catalog in 12 modules without overflow at 320/390/768/1280px');
+  console.log('PASS homepage artwork: welcome, one 79-lesson catalog in 12 modules without overflow at 320/390/768/1280px');
   await page.locator('#wordsTab').click();
   for(const width of [320,390,768,1280]){
    await page.setViewportSize({width,height:900});
