@@ -2039,6 +2039,75 @@
           "ua": "щодня"
         }
       ]
+    },
+    "phrases": {
+      "name": "Сцени до фраз",
+      "words": [
+        {
+          "de": "Das Buch liegt auf dem Tisch.",
+          "ua": "Книжка лежить на столі."
+        },
+        {
+          "de": "Die Katze ist unter dem Stuhl.",
+          "ua": "Кішка під стільцем."
+        },
+        {
+          "de": "Das Bild hängt an der Wand.",
+          "ua": "Картина висить на стіні."
+        },
+        {
+          "de": "Der Hund ist neben dem Kind.",
+          "ua": "Собака поруч із дитиною."
+        },
+        {
+          "de": "Die Tasche liegt auf dem Stuhl.",
+          "ua": "Сумка лежить на стільці."
+        },
+        {
+          "de": "Ich lege das Buch auf den Tisch.",
+          "ua": "Я кладу книжку на стіл."
+        },
+        {
+          "de": "Du stellst den Stuhl in das Zimmer.",
+          "ua": "Ти ставиш стілець у кімнату."
+        },
+        {
+          "de": "Ich hänge das Bild an die Wand.",
+          "ua": "Я вішаю картину на стіну."
+        },
+        {
+          "de": "Die Katze geht unter den Tisch.",
+          "ua": "Кішка йде під стіл."
+        },
+        {
+          "de": "Die Küche ist neben dem Bad.",
+          "ua": "Кухня поруч із ванною кімнатою."
+        },
+        {
+          "de": "Der Tisch steht vor dem Fenster.",
+          "ua": "Стіл стоїть перед вікном."
+        },
+        {
+          "de": "Das Fenster ist kaputt.",
+          "ua": "Вікно несправне."
+        },
+        {
+          "de": "Die Heizung funktioniert nicht.",
+          "ua": "Опалення не працює."
+        },
+        {
+          "de": "Sie liest und schreibt.",
+          "ua": "Вона читає і пише."
+        },
+        {
+          "de": "Ich lerne und du spielst.",
+          "ua": "Я вчуся, і ти граєш."
+        },
+        {
+          "de": "Ich koche, und er kauft ein.",
+          "ua": "Я готую їжу, а він робить покупки."
+        }
+      ]
     }
   }
 }

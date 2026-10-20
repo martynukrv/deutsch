@@ -3501,6 +3501,150 @@
     "height": 381
   },
   {
+    "category": "phrases",
+    "de": "Das Buch liegt auf dem Tisch.",
+    "ua": "Книжка лежить на столі.",
+    "path": "assets/illustrations/phrases/phrase_scene_01.png",
+    "sha256": "965bef8c30d71bb5cb8b7f6734129273e2d0f26a74a9dafbcd978257d1b02e61",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "phrases",
+    "de": "Die Katze ist unter dem Stuhl.",
+    "ua": "Кішка під стільцем.",
+    "path": "assets/illustrations/phrases/phrase_scene_02.png",
+    "sha256": "aa2731dc43f3cdd49a7d82a48c662b5d44476f7ea5a3519f2a1d9ac0690aee63",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "phrases",
+    "de": "Das Bild hängt an der Wand.",
+    "ua": "Картина висить на стіні.",
+    "path": "assets/illustrations/phrases/phrase_scene_03.png",
+    "sha256": "b9a40617526b8e2dc88cf422a164f548e45c810c24e31479861fa5f5d04e7d3f",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "phrases",
+    "de": "Der Hund ist neben dem Kind.",
+    "ua": "Собака поруч із дитиною.",
+    "path": "assets/illustrations/phrases/phrase_scene_04.png",
+    "sha256": "a795055a199d64cf9acedc9614cc7bbae04a925d18379df7e568902b26dff3ed",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "phrases",
+    "de": "Die Tasche liegt auf dem Stuhl.",
+    "ua": "Сумка лежить на стільці.",
+    "path": "assets/illustrations/phrases/phrase_scene_05.png",
+    "sha256": "07fb711a742cf0d884f955d3d620c883072a44b2ca3e9ab606086833036c84da",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "phrases",
+    "de": "Ich lege das Buch auf den Tisch.",
+    "ua": "Я кладу книжку на стіл.",
+    "path": "assets/illustrations/phrases/phrase_scene_06.png",
+    "sha256": "87d91a5a3966d8536da5deebe6fae48c04b21afa19290af2febe1834e92b41f2",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "phrases",
+    "de": "Du stellst den Stuhl in das Zimmer.",
+    "ua": "Ти ставиш стілець у кімнату.",
+    "path": "assets/illustrations/phrases/phrase_scene_07.png",
+    "sha256": "8a8d26e4c766e3b418f72284684dcfe0b9a9bb5eff2d223eb85604b3e3a1ab80",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "phrases",
+    "de": "Ich hänge das Bild an die Wand.",
+    "ua": "Я вішаю картину на стіну.",
+    "path": "assets/illustrations/phrases/phrase_scene_08.png",
+    "sha256": "d6380041009a3db5e3bc6161909dc53d461b1e735099adbb726b8727ef47c18e",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "phrases",
+    "de": "Die Katze geht unter den Tisch.",
+    "ua": "Кішка йде під стіл.",
+    "path": "assets/illustrations/phrases/phrase_scene_09.png",
+    "sha256": "e3231e8a281448a4eb672919953efc15d14d5371a67512d5fd08b6c02b11634f",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "phrases",
+    "de": "Die Küche ist neben dem Bad.",
+    "ua": "Кухня поруч із ванною кімнатою.",
+    "path": "assets/illustrations/phrases/phrase_scene_10.png",
+    "sha256": "13407dcafaa81745c4394568815a5d25ff00d538d008ac295bc9828f61395485",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "phrases",
+    "de": "Der Tisch steht vor dem Fenster.",
+    "ua": "Стіл стоїть перед вікном.",
+    "path": "assets/illustrations/phrases/phrase_scene_11.png",
+    "sha256": "f152682d993e12049c7e5778cc1607616699214c925d4fa3c0116c575a3f9ab8",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "phrases",
+    "de": "Das Fenster ist kaputt.",
+    "ua": "Вікно несправне.",
+    "path": "assets/illustrations/phrases/phrase_scene_12.png",
+    "sha256": "5401e145ab346cc92b98c15d4071fabd2319cbb916e53af86a42500960a01f12",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "phrases",
+    "de": "Die Heizung funktioniert nicht.",
+    "ua": "Опалення не працює.",
+    "path": "assets/illustrations/phrases/phrase_scene_13.png",
+    "sha256": "289b1df90e044e24ed0785ea6344276c054c4d7988ef7aba5e5f80e9e9be37b9",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "phrases",
+    "de": "Sie liest und schreibt.",
+    "ua": "Вона читає і пише.",
+    "path": "assets/illustrations/phrases/phrase_scene_14.png",
+    "sha256": "2359cc42238d754144c465732020b564d2470019e120e23be23efcfae7faabe6",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "phrases",
+    "de": "Ich lerne und du spielst.",
+    "ua": "Я вчуся, і ти граєш.",
+    "path": "assets/illustrations/phrases/phrase_scene_15.png",
+    "sha256": "5abfd46cf150644ae725fed9c10e0f7feb67b7decc693281d67c45b8148f7911",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "category": "phrases",
+    "de": "Ich koche, und er kauft ein.",
+    "ua": "Я готую їжу, а він робить покупки.",
+    "path": "assets/illustrations/phrases/phrase_scene_16.png",
+    "sha256": "829492ec94ebc3055e9dc18bfde798267ec4143ef433163cee397e4569b89bac",
+    "width": 512,
+    "height": 512
+  },
+  {
     "category": "places",
     "de": "die Stadt",
     "ua": "місто",

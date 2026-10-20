@@ -32,3 +32,5 @@
 #cv2Examples .course-card .speakable{font-size:17px}
 @container(min-width:560px){#cv2LessonWords>.course-grid{grid-template-columns:repeat(3,minmax(0,1fr))}#cv2Examples>.course-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @container(min-width:700px){#cv2LessonWords>.course-grid>.course-card{padding:18px 16px}#cv2LessonWords .cv2-word-art{width:104px;height:104px}#cv2LessonWords .course-art-plural{min-height:110px}#cv2LessonWords .course-art-plural .cv2-word-art{width:88px;height:104px}}
+
+.course-art-phrase{display:inline-flex;justify-content:center;align-items:center;position:relative;max-width:100%;margin:0 auto 6px}.course-art-phrase .cv2-word-art{margin-bottom:0!important}.phrase-art-cue{position:absolute;top:0;right:-8px;background:#FFF1E5;border:1px solid #FF5726;border-radius:7px;padding:2px 5px;color:#102B50;font-size:12px;font-weight:700;line-height:1.2}#cv2Examples .course-card{display:flex;flex-direction:column;align-items:center;gap:2px}

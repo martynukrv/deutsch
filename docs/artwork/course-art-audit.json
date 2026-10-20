@@ -6,94 +6,6 @@
   "lessons": [
     {
       "number": 1,
-      "id": "sounds-greetings",
-      "title": "Звуки, читання й перші привітання",
-      "words": [
-        {
-          "id": "word-greetings-001",
-          "de": "Hallo!",
-          "ua": "Привіт!",
-          "art": {
-            "src": "assets/illustrations/greetings/01.png?v=e6c408caadf3",
-            "kind": "existing",
-            "copies": 1
-          }
-        },
-        {
-          "id": "word-greetings-002",
-          "de": "Guten Morgen!",
-          "ua": "Добрий ранок!",
-          "art": {
-            "src": "assets/illustrations/greetings/02.png?v=6dcdc656acbf",
-            "kind": "existing",
-            "copies": 1
-          }
-        },
-        {
-          "id": "word-greetings-003",
-          "de": "Guten Tag!",
-          "ua": "Добрий день!",
-          "art": {
-            "src": "assets/illustrations/greetings/03.png?v=b5a6f48349a8",
-            "kind": "existing",
-            "copies": 1
-          }
-        },
-        {
-          "id": "word-greetings-004",
-          "de": "Guten Abend!",
-          "ua": "Добрий вечір!",
-          "art": {
-            "src": "assets/illustrations/greetings/04.png?v=d1549e52eeee",
-            "kind": "existing",
-            "copies": 1
-          }
-        },
-        {
-          "id": "word-greetings-005",
-          "de": "Tschüss!",
-          "ua": "Бувай!",
-          "art": {
-            "src": "assets/illustrations/greetings/05.png?v=e8fb97906d93",
-            "kind": "existing",
-            "copies": 1
-          }
-        },
-        {
-          "id": "word-greetings-006",
-          "de": "Auf Wiedersehen!",
-          "ua": "До побачення!",
-          "art": {
-            "src": "assets/illustrations/greetings/06.png?v=ee63527fcd09",
-            "kind": "existing",
-            "copies": 1
-          }
-        },
-        {
-          "id": "word-greetings-007",
-          "de": "Danke!",
-          "ua": "Дякую!",
-          "art": {
-            "src": "assets/illustrations/greetings/07.png?v=dec9bc3b3b07",
-            "kind": "existing",
-            "copies": 1
-          }
-        },
-        {
-          "id": "word-greetings-008",
-          "de": "Bitte!",
-          "ua": "Будь ласка!",
-          "art": {
-            "src": "assets/illustrations/greetings/08.png?v=ae646a07373d",
-            "kind": "existing",
-            "copies": 1
-          }
-        }
-      ],
-      "checkpoint": false
-    },
-    {
-      "number": 2,
       "id": "personal-pronouns",
       "title": "Хто виконує дію",
       "words": [
@@ -191,7 +103,7 @@
       "checkpoint": false
     },
     {
-      "number": 3,
+      "number": 2,
       "id": "present-regular",
       "title": "Звичайні дієслова в теперішньому часі",
       "words": [
@@ -259,7 +171,7 @@
       "checkpoint": false
     },
     {
-      "number": 4,
+      "number": 3,
       "id": "present-sein",
       "title": "Бути: sein",
       "words": [
@@ -307,7 +219,7 @@
       "checkpoint": false
     },
     {
-      "number": 5,
+      "number": 4,
       "id": "present-haben",
       "title": "Мати: haben",
       "words": [
@@ -355,14 +267,14 @@
       "checkpoint": false
     },
     {
-      "number": 6,
+      "number": 5,
       "id": "checkpoint-first-sentences",
       "title": "Практика: мої перші речення",
       "words": [],
       "checkpoint": true
     },
     {
-      "number": 7,
+      "number": 6,
       "id": "main-clause-order",
       "title": "Порядок слів, місце та час",
       "words": [
@@ -430,7 +342,7 @@
       "checkpoint": false
     },
     {
-      "number": 8,
+      "number": 7,
       "id": "negation-nicht",
       "title": "Заперечення з nicht",
       "words": [
@@ -488,7 +400,7 @@
       "checkpoint": false
     },
     {
-      "number": 9,
+      "number": 8,
       "id": "yes-no-questions",
       "title": "Запитання «так / ні»",
       "words": [
@@ -546,7 +458,7 @@
       "checkpoint": false
     },
     {
-      "number": 10,
+      "number": 9,
       "id": "w-questions",
       "title": "Хто, що, де, коли і як",
       "words": [
@@ -634,7 +546,7 @@
       "checkpoint": false
     },
     {
-      "number": 11,
+      "number": 10,
       "id": "introduce-yourself",
       "title": "Знайомство: ім’я, місто, мова, вік",
       "words": [
@@ -712,14 +624,14 @@
       "checkpoint": false
     },
     {
-      "number": 12,
+      "number": 11,
       "id": "checkpoint-introduction",
       "title": "Практика: знайомимося",
       "words": [],
       "checkpoint": true
     },
     {
-      "number": 13,
+      "number": 12,
       "id": "nouns-definite",
       "title": "Іменники й означені артиклі",
       "words": [
@@ -807,7 +719,7 @@
       "checkpoint": false
     },
     {
-      "number": 14,
+      "number": 13,
       "id": "nouns-indefinite-negative",
       "title": "Один предмет або жодного",
       "words": [
@@ -865,7 +777,7 @@
       "checkpoint": false
     },
     {
-      "number": 15,
+      "number": 14,
       "id": "noun-plurals",
       "title": "Множина",
       "words": [
@@ -953,7 +865,7 @@
       "checkpoint": false
     },
     {
-      "number": 16,
+      "number": 15,
       "id": "possessives-nominative",
       "title": "Мій, твій, його, її, наш",
       "words": [
@@ -1031,7 +943,7 @@
       "checkpoint": false
     },
     {
-      "number": 17,
+      "number": 16,
       "id": "family-descriptions",
       "title": "Моя сім’я та прості описи",
       "words": [
@@ -1119,14 +1031,14 @@
       "checkpoint": false
     },
     {
-      "number": 18,
+      "number": 17,
       "id": "checkpoint-family",
       "title": "Практика: люди й речі навколо мене",
       "words": [],
       "checkpoint": true
     },
     {
-      "number": 19,
+      "number": 18,
       "id": "accusative-nouns",
       "title": "Бачу кого? Маю що?",
       "words": [
@@ -1194,7 +1106,7 @@
       "checkpoint": false
     },
     {
-      "number": 20,
+      "number": 19,
       "id": "accusative-pronouns",
       "title": "Мене, тебе, його",
       "words": [
@@ -1272,7 +1184,7 @@
       "checkpoint": false
     },
     {
-      "number": 21,
+      "number": 20,
       "id": "present-irregular",
       "title": "Часті дієслова зі зміною основи",
       "words": [
@@ -1350,7 +1262,7 @@
       "checkpoint": false
     },
     {
-      "number": 22,
+      "number": 21,
       "id": "likes-hobbies",
       "title": "Що мені подобається",
       "words": [
@@ -1418,7 +1330,7 @@
       "checkpoint": false
     },
     {
-      "number": 23,
+      "number": 22,
       "id": "cafe-first-dialogue",
       "title": "Перший діалог у кафе",
       "words": [
@@ -1496,14 +1408,14 @@
       "checkpoint": false
     },
     {
-      "number": 24,
+      "number": 23,
       "id": "checkpoint-objects",
       "title": "Практика: вибираємо й замовляємо",
       "words": [],
       "checkpoint": true
     },
     {
-      "number": 25,
+      "number": 24,
       "id": "modal-koennen",
       "title": "Можу та вмію",
       "words": [
@@ -1551,7 +1463,7 @@
       "checkpoint": false
     },
     {
-      "number": 26,
+      "number": 25,
       "id": "modal-muessen-sollen",
       "title": "Треба та слід",
       "words": [
@@ -1619,7 +1531,7 @@
       "checkpoint": false
     },
     {
-      "number": 27,
+      "number": 26,
       "id": "modal-wollen-moechten",
       "title": "Хочу та хотів би",
       "words": [
@@ -1677,7 +1589,7 @@
       "checkpoint": false
     },
     {
-      "number": 28,
+      "number": 27,
       "id": "modal-duerfen",
       "title": "Можна та не можна",
       "words": [
@@ -1745,7 +1657,7 @@
       "checkpoint": false
     },
     {
-      "number": 29,
+      "number": 28,
       "id": "imperative",
       "title": "Прохання та вказівки",
       "words": [
@@ -1813,14 +1725,14 @@
       "checkpoint": false
     },
     {
-      "number": 30,
+      "number": 29,
       "id": "checkpoint-requests",
       "title": "Практика: домовляємося й просимо",
       "words": [],
       "checkpoint": true
     },
     {
-      "number": 31,
+      "number": 30,
       "id": "dative-nouns",
       "title": "Кому: Dativ з іменниками",
       "words": [
@@ -1918,7 +1830,7 @@
       "checkpoint": false
     },
     {
-      "number": 32,
+      "number": 31,
       "id": "dative-pronouns",
       "title": "Мені, тобі, йому",
       "words": [
@@ -2006,7 +1918,7 @@
       "checkpoint": false
     },
     {
-      "number": 33,
+      "number": 32,
       "id": "two-objects",
       "title": "Хто кому що дає",
       "words": [
@@ -2074,7 +1986,7 @@
       "checkpoint": false
     },
     {
-      "number": 34,
+      "number": 33,
       "id": "dative-prepositions",
       "title": "Зі мною, до тебе, від нього",
       "words": [
@@ -2172,7 +2084,7 @@
       "checkpoint": false
     },
     {
-      "number": 35,
+      "number": 34,
       "id": "accusative-prepositions",
       "title": "Для мене, без тебе",
       "words": [
@@ -2270,14 +2182,14 @@
       "checkpoint": false
     },
     {
-      "number": 36,
+      "number": 35,
       "id": "checkpoint-gifts",
       "title": "Практика: допомога, подарунки й плани",
       "words": [],
       "checkpoint": true
     },
     {
-      "number": 37,
+      "number": 36,
       "id": "numbers-prices",
       "title": "Великі числа та ціни",
       "words": [
@@ -2365,7 +2277,7 @@
       "checkpoint": false
     },
     {
-      "number": 38,
+      "number": 37,
       "id": "clock-dates",
       "title": "Годинник, дні, дати й день народження",
       "words": [
@@ -2433,7 +2345,7 @@
       "checkpoint": false
     },
     {
-      "number": 39,
+      "number": 38,
       "id": "location-wo",
       "title": "Де: місце",
       "words": [
@@ -2541,7 +2453,7 @@
       "checkpoint": false
     },
     {
-      "number": 40,
+      "number": 39,
       "id": "destination-wohin",
       "title": "Куди: напрямок",
       "words": [
@@ -2609,7 +2521,7 @@
       "checkpoint": false
     },
     {
-      "number": 41,
+      "number": 40,
       "id": "directions-home",
       "title": "Місто, маршрут, вдома й додому",
       "words": [
@@ -2697,14 +2609,14 @@
       "checkpoint": false
     },
     {
-      "number": 42,
+      "number": 41,
       "id": "checkpoint-meeting-route",
       "title": "Практика: зустріч у місті",
       "words": [],
       "checkpoint": true
     },
     {
-      "number": 43,
+      "number": 42,
       "id": "separable-present",
       "title": "Відокремлювані префікси",
       "words": [
@@ -2772,7 +2684,7 @@
       "checkpoint": false
     },
     {
-      "number": 44,
+      "number": 43,
       "id": "inseparable-present",
       "title": "Невідокремлювані префікси та -ieren",
       "words": [
@@ -2850,7 +2762,7 @@
       "checkpoint": false
     },
     {
-      "number": 45,
+      "number": 44,
       "id": "reflexive-present",
       "title": "Зворотні дієслова",
       "words": [
@@ -2908,7 +2820,7 @@
       "checkpoint": false
     },
     {
-      "number": 46,
+      "number": 45,
       "id": "daily-frequency",
       "title": "Розпорядок дня та частота",
       "words": [
@@ -3006,7 +2918,7 @@
       "checkpoint": false
     },
     {
-      "number": 47,
+      "number": 46,
       "id": "arrange-meeting",
       "title": "Домовляємося про зустріч",
       "words": [
@@ -3074,14 +2986,14 @@
       "checkpoint": false
     },
     {
-      "number": 48,
+      "number": 47,
       "id": "checkpoint-my-day",
       "title": "Практика: мій звичайний день",
       "words": [],
       "checkpoint": true
     },
     {
-      "number": 49,
+      "number": 48,
       "id": "perfekt-haben-regular",
       "title": "Perfekt з haben",
       "words": [
@@ -3149,7 +3061,7 @@
       "checkpoint": false
     },
     {
-      "number": 50,
+      "number": 49,
       "id": "perfekt-irregular",
       "title": "Часті неправильні Partizip II",
       "words": [
@@ -3227,7 +3139,7 @@
       "checkpoint": false
     },
     {
-      "number": 51,
+      "number": 50,
       "id": "perfekt-sein",
       "title": "Perfekt з sein",
       "words": [
@@ -3285,7 +3197,7 @@
       "checkpoint": false
     },
     {
-      "number": 52,
+      "number": 51,
       "id": "perfekt-prefixes",
       "title": "Perfekt і префікси",
       "words": [
@@ -3353,7 +3265,7 @@
       "checkpoint": false
     },
     {
-      "number": 53,
+      "number": 52,
       "id": "perfekt-reflexive",
       "title": "Зворотні дієслова в Perfekt",
       "words": [
@@ -3401,7 +3313,7 @@
       "checkpoint": false
     },
     {
-      "number": 54,
+      "number": 53,
       "id": "past-sein-haben",
       "title": "Був і мав: war та hatte",
       "words": [
@@ -3469,14 +3381,14 @@
       "checkpoint": false
     },
     {
-      "number": 55,
+      "number": 54,
       "id": "checkpoint-yesterday",
       "title": "Практика: що було вчора",
       "words": [],
       "checkpoint": true
     },
     {
-      "number": 56,
+      "number": 55,
       "id": "impersonal-man",
       "title": "Коли кажуть «тут можна» або «люди роблять»",
       "words": [
@@ -3544,7 +3456,7 @@
       "checkpoint": false
     },
     {
-      "number": 57,
+      "number": 56,
       "id": "coordinate-clauses",
       "title": "І, але, або, адже",
       "words": [
@@ -3632,7 +3544,7 @@
       "checkpoint": false
     },
     {
-      "number": 58,
+      "number": 57,
       "id": "subordinate-dass",
       "title": "Я знаю, що…",
       "words": [
@@ -3700,7 +3612,7 @@
       "checkpoint": false
     },
     {
-      "number": 59,
+      "number": 58,
       "id": "cause-weil-deshalb",
       "title": "Чому, тому що, тому",
       "words": [
@@ -3788,7 +3700,7 @@
       "checkpoint": false
     },
     {
-      "number": 60,
+      "number": 59,
       "id": "condition-wenn",
       "title": "Коли або якщо",
       "words": [
@@ -3856,7 +3768,7 @@
       "checkpoint": false
     },
     {
-      "number": 61,
+      "number": 60,
       "id": "infinitive-zu",
       "title": "Зробити щось: інфінітив із zu",
       "words": [
@@ -3924,14 +3836,14 @@
       "checkpoint": false
     },
     {
-      "number": 62,
+      "number": 61,
       "id": "checkpoint-reasons-plans",
       "title": "Практика: пояснюємо рішення",
       "words": [],
       "checkpoint": true
     },
     {
-      "number": 63,
+      "number": 62,
       "id": "adjectives-predicative",
       "title": "Опис, колір, погода й самопочуття",
       "words": [
@@ -4039,7 +3951,7 @@
       "checkpoint": false
     },
     {
-      "number": 64,
+      "number": 63,
       "id": "adjectives-comparative",
       "title": "Більший і швидший, ніж",
       "words": [
@@ -4127,7 +4039,7 @@
       "checkpoint": false
     },
     {
-      "number": 65,
+      "number": 64,
       "id": "adjectives-superlative",
       "title": "Найкращий і найбільший",
       "words": [
@@ -4185,7 +4097,7 @@
       "checkpoint": false
     },
     {
-      "number": 66,
+      "number": 65,
       "id": "adjective-definite-na",
       "title": "Опис з der/die/das",
       "words": [
@@ -4263,7 +4175,7 @@
       "checkpoint": false
     },
     {
-      "number": 67,
+      "number": 66,
       "id": "adjective-indefinite-na",
       "title": "Опис з ein/mein/kein",
       "words": [
@@ -4331,7 +4243,7 @@
       "checkpoint": false
     },
     {
-      "number": 68,
+      "number": 67,
       "id": "adjective-dative",
       "title": "Прикметники в Dativ",
       "words": [
@@ -4389,7 +4301,7 @@
       "checkpoint": false
     },
     {
-      "number": 69,
+      "number": 68,
       "id": "adjective-no-article",
       "title": "Множина й опис без артикля",
       "words": [
@@ -4457,14 +4369,14 @@
       "checkpoint": false
     },
     {
-      "number": 70,
+      "number": 69,
       "id": "checkpoint-describe-compare",
       "title": "Практика: описуємо й порівнюємо",
       "words": [],
       "checkpoint": true
     },
     {
-      "number": 71,
+      "number": 70,
       "id": "personal-details",
       "title": "Адреса, телефон та анкета",
       "words": [
@@ -4552,7 +4464,7 @@
       "checkpoint": false
     },
     {
-      "number": 72,
+      "number": 71,
       "id": "shopping-clothes",
       "title": "Магазин та одяг",
       "words": [
@@ -4640,7 +4552,7 @@
       "checkpoint": false
     },
     {
-      "number": 73,
+      "number": 72,
       "id": "health-help",
       "title": "Самопочуття й звернення по допомогу",
       "words": [
@@ -4718,7 +4630,7 @@
       "checkpoint": false
     },
     {
-      "number": 74,
+      "number": 73,
       "id": "housing-household",
       "title": "Житло та домашні справи",
       "words": [
@@ -4816,7 +4728,7 @@
       "checkpoint": false
     },
     {
-      "number": 75,
+      "number": 74,
       "id": "school-work",
       "title": "Школа, навчання та робота",
       "words": [
@@ -4904,7 +4816,7 @@
       "checkpoint": false
     },
     {
-      "number": 76,
+      "number": 75,
       "id": "travel-accommodation",
       "title": "Транспорт, квитки та житло в подорожі",
       "words": [
@@ -4992,7 +4904,7 @@
       "checkpoint": false
     },
     {
-      "number": 77,
+      "number": 76,
       "id": "short-messages",
       "title": "Повідомлення та домовленості",
       "words": [
@@ -5060,7 +4972,7 @@
       "checkpoint": false
     },
     {
-      "number": 78,
+      "number": 77,
       "id": "future-plans",
       "title": "Плани та бажання",
       "words": [
@@ -5128,7 +5040,7 @@
       "checkpoint": false
     },
     {
-      "number": 79,
+      "number": 78,
       "id": "connected-story",
       "title": "Моя історія: зараз, учора, далі",
       "words": [
@@ -5196,7 +5108,7 @@
       "checkpoint": false
     },
     {
-      "number": 80,
+      "number": 79,
       "id": "checkpoint-final",
       "title": "Фінальна практика",
       "words": [],

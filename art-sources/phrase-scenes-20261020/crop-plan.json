@@ -1,0 +1,311 @@
+{
+  "approved": true,
+  "sourceSha256": "41c794f9f3051d2a80906625ffea897543f6ceebbe3bd6f237ab5b3e7a739702",
+  "operation": "Crop visually inspected transparent gutters, trim alpha bounds, resize proportionally and pad transparently. No recoloring or redraw.",
+  "items": [
+    {
+      "index": 0,
+      "phraseId": "course-phrase-8113185b8020f22b",
+      "de": "Das Buch liegt auf dem Tisch.",
+      "ua": "Книжка лежить на столі.",
+      "cell": [
+        0,
+        0,
+        313,
+        331
+      ],
+      "alphaBounds": [
+        25,
+        93,
+        295,
+        315
+      ],
+      "sha256": "965bef8c30d71bb5cb8b7f6734129273e2d0f26a74a9dafbcd978257d1b02e61"
+    },
+    {
+      "index": 1,
+      "phraseId": "course-phrase-4025f16dd918251c",
+      "de": "Die Katze ist unter dem Stuhl.",
+      "ua": "Кішка під стільцем.",
+      "cell": [
+        313,
+        0,
+        646,
+        331
+      ],
+      "alphaBounds": [
+        19,
+        49,
+        297,
+        321
+      ],
+      "sha256": "aa2731dc43f3cdd49a7d82a48c662b5d44476f7ea5a3519f2a1d9ac0690aee63"
+    },
+    {
+      "index": 2,
+      "phraseId": "course-phrase-fe969559b757029c",
+      "de": "Das Bild hängt an der Wand.",
+      "ua": "Картина висить на стіні.",
+      "cell": [
+        646,
+        0,
+        945,
+        331
+      ],
+      "alphaBounds": [
+        36,
+        65,
+        269,
+        307
+      ],
+      "sha256": "b9a40617526b8e2dc88cf422a164f548e45c810c24e31479861fa5f5d04e7d3f"
+    },
+    {
+      "index": 3,
+      "phraseId": "course-phrase-307de6a5927dadb5",
+      "de": "Der Hund ist neben dem Kind.",
+      "ua": "Собака поруч із дитиною.",
+      "cell": [
+        945,
+        0,
+        1254,
+        331
+      ],
+      "alphaBounds": [
+        30,
+        50,
+        284,
+        322
+      ],
+      "sha256": "a795055a199d64cf9acedc9614cc7bbae04a925d18379df7e568902b26dff3ed"
+    },
+    {
+      "index": 4,
+      "phraseId": "course-phrase-4379adf76c41db73",
+      "de": "Die Tasche liegt auf dem Stuhl.",
+      "ua": "Сумка лежить на стільці.",
+      "cell": [
+        0,
+        331,
+        290,
+        644
+      ],
+      "alphaBounds": [
+        37,
+        24,
+        262,
+        304
+      ],
+      "sha256": "07fb711a742cf0d884f955d3d620c883072a44b2ca3e9ab606086833036c84da"
+    },
+    {
+      "index": 5,
+      "phraseId": "course-phrase-a1d33015413f9997",
+      "de": "Ich lege das Buch auf den Tisch.",
+      "ua": "Я кладу книжку на стіл.",
+      "cell": [
+        290,
+        331,
+        632,
+        644
+      ],
+      "alphaBounds": [
+        29,
+        10,
+        308,
+        311
+      ],
+      "sha256": "87d91a5a3966d8536da5deebe6fae48c04b21afa19290af2febe1834e92b41f2"
+    },
+    {
+      "index": 6,
+      "phraseId": "course-phrase-14d7525e3b97d46b",
+      "de": "Du stellst den Stuhl in das Zimmer.",
+      "ua": "Ти ставиш стілець у кімнату.",
+      "cell": [
+        632,
+        331,
+        944,
+        644
+      ],
+      "alphaBounds": [
+        35,
+        23,
+        294,
+        295
+      ],
+      "sha256": "8a8d26e4c766e3b418f72284684dcfe0b9a9bb5eff2d223eb85604b3e3a1ab80"
+    },
+    {
+      "index": 7,
+      "phraseId": "course-phrase-4efcd797a38c8281",
+      "de": "Ich hänge das Bild an die Wand.",
+      "ua": "Я вішаю картину на стіну.",
+      "cell": [
+        944,
+        331,
+        1254,
+        644
+      ],
+      "alphaBounds": [
+        19,
+        19,
+        272,
+        309
+      ],
+      "sha256": "d6380041009a3db5e3bc6161909dc53d461b1e735099adbb726b8727ef47c18e"
+    },
+    {
+      "index": 8,
+      "phraseId": "course-phrase-02760b2060ae429d",
+      "de": "Die Katze geht unter den Tisch.",
+      "ua": "Кішка йде під стіл.",
+      "cell": [
+        0,
+        644,
+        305,
+        924
+      ],
+      "alphaBounds": [
+        23,
+        49,
+        295,
+        227
+      ],
+      "sha256": "e3231e8a281448a4eb672919953efc15d14d5371a67512d5fd08b6c02b11634f"
+    },
+    {
+      "index": 9,
+      "phraseId": "course-phrase-18b1d00562bcb8a1",
+      "de": "Die Küche ist neben dem Bad.",
+      "ua": "Кухня поруч із ванною кімнатою.",
+      "cell": [
+        305,
+        644,
+        639,
+        924
+      ],
+      "alphaBounds": [
+        10,
+        3,
+        323,
+        252
+      ],
+      "sha256": "13407dcafaa81745c4394568815a5d25ff00d538d008ac295bc9828f61395485"
+    },
+    {
+      "index": 10,
+      "phraseId": "course-phrase-1d9281f6b5578e8c",
+      "de": "Der Tisch steht vor dem Fenster.",
+      "ua": "Стіл стоїть перед вікном.",
+      "cell": [
+        639,
+        644,
+        959,
+        924
+      ],
+      "alphaBounds": [
+        12,
+        15,
+        294,
+        264
+      ],
+      "sha256": "f152682d993e12049c7e5778cc1607616699214c925d4fa3c0116c575a3f9ab8"
+    },
+    {
+      "index": 11,
+      "phraseId": "course-phrase-63cb5884553e0a45",
+      "de": "Das Fenster ist kaputt.",
+      "ua": "Вікно несправне.",
+      "cell": [
+        959,
+        644,
+        1254,
+        924
+      ],
+      "alphaBounds": [
+        27,
+        27,
+        270,
+        238
+      ],
+      "sha256": "5401e145ab346cc92b98c15d4071fabd2319cbb916e53af86a42500960a01f12"
+    },
+    {
+      "index": 12,
+      "phraseId": "course-phrase-d55b2c172870a373",
+      "de": "Die Heizung funktioniert nicht.",
+      "ua": "Опалення не працює.",
+      "cell": [
+        0,
+        924,
+        304,
+        1254
+      ],
+      "alphaBounds": [
+        20,
+        23,
+        287,
+        272
+      ],
+      "sha256": "289b1df90e044e24ed0785ea6344276c054c4d7988ef7aba5e5f80e9e9be37b9"
+    },
+    {
+      "index": 13,
+      "phraseId": "course-phrase-f6579d44b755240d",
+      "de": "Sie liest und schreibt.",
+      "ua": "Вона читає і пише.",
+      "cell": [
+        304,
+        924,
+        596,
+        1254
+      ],
+      "alphaBounds": [
+        18,
+        16,
+        283,
+        279
+      ],
+      "sha256": "2359cc42238d754144c465732020b564d2470019e120e23be23efcfae7faabe6"
+    },
+    {
+      "index": 14,
+      "phraseId": "course-phrase-2f0e218e09f5b8ff",
+      "de": "Ich lerne und du spielst.",
+      "ua": "Я вчуся, і ти граєш.",
+      "cell": [
+        596,
+        924,
+        939,
+        1254
+      ],
+      "alphaBounds": [
+        9,
+        34,
+        335,
+        297
+      ],
+      "sha256": "5abfd46cf150644ae725fed9c10e0f7feb67b7decc693281d67c45b8148f7911"
+    },
+    {
+      "index": 15,
+      "phraseId": "course-phrase-d68d15de4b5c3c3a",
+      "de": "Ich koche, und er kauft ein.",
+      "ua": "Я готую їжу, а він робить покупки.",
+      "cell": [
+        939,
+        924,
+        1254,
+        1254
+      ],
+      "alphaBounds": [
+        9,
+        26,
+        302,
+        284
+      ],
+      "sha256": "829492ec94ebc3055e9dc18bfde798267ec4143ef433163cee397e4569b89bac"
+    }
+  ]
+}

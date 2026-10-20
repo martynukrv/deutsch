@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "category": "phrases",
+  "approved": true,
+  "items": [
+    {
+      "de": "Das Buch liegt auf dem Tisch.",
+      "ua": "Книжка лежить на столі.",
+      "file": "phrase_scene_01.png"
+    },
+    {
+      "de": "Die Katze ist unter dem Stuhl.",
+      "ua": "Кішка під стільцем.",
+      "file": "phrase_scene_02.png"
+    },
+    {
+      "de": "Das Bild hängt an der Wand.",
+      "ua": "Картина висить на стіні.",
+      "file": "phrase_scene_03.png"
+    },
+    {
+      "de": "Der Hund ist neben dem Kind.",
+      "ua": "Собака поруч із дитиною.",
+      "file": "phrase_scene_04.png"
+    },
+    {
+      "de": "Die Tasche liegt auf dem Stuhl.",
+      "ua": "Сумка лежить на стільці.",
+      "file": "phrase_scene_05.png"
+    },
+    {
+      "de": "Ich lege das Buch auf den Tisch.",
+      "ua": "Я кладу книжку на стіл.",
+      "file": "phrase_scene_06.png"
+    },
+    {
+      "de": "Du stellst den Stuhl in das Zimmer.",
+      "ua": "Ти ставиш стілець у кімнату.",
+      "file": "phrase_scene_07.png"
+    },
+    {
+      "de": "Ich hänge das Bild an die Wand.",
+      "ua": "Я вішаю картину на стіну.",
+      "file": "phrase_scene_08.png"
+    },
+    {
+      "de": "Die Katze geht unter den Tisch.",
+      "ua": "Кішка йде під стіл.",
+      "file": "phrase_scene_09.png"
+    },
+    {
+      "de": "Die Küche ist neben dem Bad.",
+      "ua": "Кухня поруч із ванною кімнатою.",
+      "file": "phrase_scene_10.png"
+    },
+    {
+      "de": "Der Tisch steht vor dem Fenster.",
+      "ua": "Стіл стоїть перед вікном.",
+      "file": "phrase_scene_11.png"
+    },
+    {
+      "de": "Das Fenster ist kaputt.",
+      "ua": "Вікно несправне.",
+      "file": "phrase_scene_12.png"
+    },
+    {
+      "de": "Die Heizung funktioniert nicht.",
+      "ua": "Опалення не працює.",
+      "file": "phrase_scene_13.png"
+    },
+    {
+      "de": "Sie liest und schreibt.",
+      "ua": "Вона читає і пише.",
+      "file": "phrase_scene_14.png"
+    },
+    {
+      "de": "Ich lerne und du spielst.",
+      "ua": "Я вчуся, і ти граєш.",
+      "file": "phrase_scene_15.png"
+    },
+    {
+      "de": "Ich koche, und er kauft ein.",
+      "ua": "Я готую їжу, а він робить покупки.",
+      "file": "phrase_scene_16.png"
+    }
+  ]
+}

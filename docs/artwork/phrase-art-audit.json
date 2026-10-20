@@ -1,0 +1,482 @@
+{
+  "lessons": 79,
+  "totalUnique": 537,
+  "illustrated": 537,
+  "missing": [],
+  "byLesson": [
+    {
+      "id": "personal-pronouns",
+      "number": 1,
+      "total": 9,
+      "illustrated": 9
+    },
+    {
+      "id": "present-regular",
+      "number": 2,
+      "total": 9,
+      "illustrated": 9
+    },
+    {
+      "id": "present-sein",
+      "number": 3,
+      "total": 9,
+      "illustrated": 9
+    },
+    {
+      "id": "present-haben",
+      "number": 4,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "checkpoint-first-sentences",
+      "number": 5,
+      "total": 35,
+      "illustrated": 35
+    },
+    {
+      "id": "main-clause-order",
+      "number": 6,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "negation-nicht",
+      "number": 7,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "yes-no-questions",
+      "number": 8,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "w-questions",
+      "number": 9,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "introduce-yourself",
+      "number": 10,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "checkpoint-introduction",
+      "number": 11,
+      "total": 40,
+      "illustrated": 40
+    },
+    {
+      "id": "nouns-definite",
+      "number": 12,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "nouns-indefinite-negative",
+      "number": 13,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "noun-plurals",
+      "number": 14,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "possessives-nominative",
+      "number": 15,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "family-descriptions",
+      "number": 16,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "checkpoint-family",
+      "number": 17,
+      "total": 40,
+      "illustrated": 40
+    },
+    {
+      "id": "accusative-nouns",
+      "number": 18,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "accusative-pronouns",
+      "number": 19,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "present-irregular",
+      "number": 20,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "likes-hobbies",
+      "number": 21,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "cafe-first-dialogue",
+      "number": 22,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "checkpoint-objects",
+      "number": 23,
+      "total": 40,
+      "illustrated": 40
+    },
+    {
+      "id": "modal-koennen",
+      "number": 24,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "modal-muessen-sollen",
+      "number": 25,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "modal-wollen-moechten",
+      "number": 26,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "modal-duerfen",
+      "number": 27,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "imperative",
+      "number": 28,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "checkpoint-requests",
+      "number": 29,
+      "total": 40,
+      "illustrated": 40
+    },
+    {
+      "id": "dative-nouns",
+      "number": 30,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "dative-pronouns",
+      "number": 31,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "two-objects",
+      "number": 32,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "dative-prepositions",
+      "number": 33,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "accusative-prepositions",
+      "number": 34,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "checkpoint-gifts",
+      "number": 35,
+      "total": 40,
+      "illustrated": 40
+    },
+    {
+      "id": "numbers-prices",
+      "number": 36,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "clock-dates",
+      "number": 37,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "location-wo",
+      "number": 38,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "destination-wohin",
+      "number": 39,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "directions-home",
+      "number": 40,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "checkpoint-meeting-route",
+      "number": 41,
+      "total": 40,
+      "illustrated": 40
+    },
+    {
+      "id": "separable-present",
+      "number": 42,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "inseparable-present",
+      "number": 43,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "reflexive-present",
+      "number": 44,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "daily-frequency",
+      "number": 45,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "arrange-meeting",
+      "number": 46,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "checkpoint-my-day",
+      "number": 47,
+      "total": 40,
+      "illustrated": 40
+    },
+    {
+      "id": "perfekt-haben-regular",
+      "number": 48,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "perfekt-irregular",
+      "number": 49,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "perfekt-sein",
+      "number": 50,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "perfekt-prefixes",
+      "number": 51,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "perfekt-reflexive",
+      "number": 52,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "past-sein-haben",
+      "number": 53,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "checkpoint-yesterday",
+      "number": 54,
+      "total": 48,
+      "illustrated": 48
+    },
+    {
+      "id": "impersonal-man",
+      "number": 55,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "coordinate-clauses",
+      "number": 56,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "subordinate-dass",
+      "number": 57,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "cause-weil-deshalb",
+      "number": 58,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "condition-wenn",
+      "number": 59,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "infinitive-zu",
+      "number": 60,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "checkpoint-reasons-plans",
+      "number": 61,
+      "total": 48,
+      "illustrated": 48
+    },
+    {
+      "id": "adjectives-predicative",
+      "number": 62,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "adjectives-comparative",
+      "number": 63,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "adjectives-superlative",
+      "number": 64,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "adjective-definite-na",
+      "number": 65,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "adjective-indefinite-na",
+      "number": 66,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "adjective-dative",
+      "number": 67,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "adjective-no-article",
+      "number": 68,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "checkpoint-describe-compare",
+      "number": 69,
+      "total": 56,
+      "illustrated": 56
+    },
+    {
+      "id": "personal-details",
+      "number": 70,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "shopping-clothes",
+      "number": 71,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "health-help",
+      "number": 72,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "housing-household",
+      "number": 73,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "school-work",
+      "number": 74,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "travel-accommodation",
+      "number": 75,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "short-messages",
+      "number": 76,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "future-plans",
+      "number": 77,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "connected-story",
+      "number": 78,
+      "total": 8,
+      "illustrated": 8
+    },
+    {
+      "id": "checkpoint-final",
+      "number": 79,
+      "total": 120,
+      "illustrated": 120
+    }
+  ]
+}

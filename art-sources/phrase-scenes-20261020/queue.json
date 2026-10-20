@@ -1,0 +1,5272 @@
+[
+  {
+    "de": "Ich lerne.",
+    "ua": "Я вчуся.",
+    "gapIndex": 1,
+    "gap": "lerne",
+    "sourceLessonId": "present-regular",
+    "phraseId": "phrase-3e4eb8e95686faea",
+    "lesson": 5,
+    "target": "lernen"
+  },
+  {
+    "de": "Du lernst.",
+    "ua": "Ти вчишся.",
+    "gapIndex": 1,
+    "gap": "lernst",
+    "sourceLessonId": "present-regular",
+    "phraseId": "phrase-6afb2893c56b4ff3",
+    "lesson": 5,
+    "target": "lernen"
+  },
+  {
+    "de": "Er spielt.",
+    "ua": "Він грає.",
+    "gapIndex": 1,
+    "gap": "spielt",
+    "sourceLessonId": "present-regular",
+    "phraseId": "phrase-6050ab853eb43568",
+    "lesson": 5,
+    "target": "spielen"
+  },
+  {
+    "de": "Sie spielt.",
+    "ua": "Вона грає.",
+    "gapIndex": 1,
+    "gap": "spielt",
+    "sourceLessonId": "present-regular",
+    "phraseId": "phrase-be3476623752fd9b",
+    "lesson": 5,
+    "target": "spielen"
+  },
+  {
+    "de": "Es spielt.",
+    "ua": "Воно грає.",
+    "gapIndex": 1,
+    "gap": "spielt",
+    "sourceLessonId": "present-regular",
+    "phraseId": "phrase-c013aa8fb5775fc5",
+    "lesson": 5,
+    "target": "spielen"
+  },
+  {
+    "de": "Wir wohnen hier.",
+    "ua": "Ми мешкаємо тут.",
+    "gapIndex": 1,
+    "gap": "wohnen",
+    "sourceLessonId": "present-regular",
+    "phraseId": "course-phrase-592990d50d0304fd",
+    "lesson": 5,
+    "target": "wohnen"
+  },
+  {
+    "de": "Ihr fragt.",
+    "ua": "Ви (кілька людей) запитуєте.",
+    "gapIndex": 1,
+    "gap": "fragt",
+    "sourceLessonId": "present-regular",
+    "phraseId": "phrase-ae84566aac9cc27a",
+    "lesson": 5,
+    "target": "fragen"
+  },
+  {
+    "de": "Sie lernen.",
+    "ua": "Вони вчаться.",
+    "gapIndex": 1,
+    "gap": "lernen",
+    "sourceLessonId": "present-regular",
+    "phraseId": "phrase-6e817b7b6ee61e8c",
+    "lesson": 5,
+    "target": "lernen"
+  },
+  {
+    "de": "Sie fragen.",
+    "ua": "Ви (ввічливо) запитуєте.",
+    "gapIndex": 1,
+    "gap": "fragen",
+    "sourceLessonId": "present-regular",
+    "phraseId": "phrase-ac7dc1251f267cb5",
+    "lesson": 5,
+    "target": "fragen"
+  },
+  {
+    "de": "Ich bin hier.",
+    "ua": "Я тут.",
+    "gapIndex": 1,
+    "gap": "bin",
+    "sourceLessonId": "present-sein",
+    "phraseId": "phrase-17cc8c4ab494b3ae",
+    "lesson": 5,
+    "target": "hier"
+  },
+  {
+    "de": "Du bist dort.",
+    "ua": "Ти там.",
+    "gapIndex": 1,
+    "gap": "bist",
+    "sourceLessonId": "present-sein",
+    "phraseId": "course-phrase-0d57ddbcb94238d9",
+    "lesson": 5,
+    "target": "dort"
+  },
+  {
+    "de": "Er ist hier.",
+    "ua": "Він тут.",
+    "gapIndex": 1,
+    "gap": "ist",
+    "sourceLessonId": "present-sein",
+    "phraseId": "phrase-7d2413efc2fe8ed2",
+    "lesson": 5,
+    "target": "hier"
+  },
+  {
+    "de": "Sie ist bereit.",
+    "ua": "Вона готова.",
+    "gapIndex": 1,
+    "gap": "ist",
+    "sourceLessonId": "present-sein",
+    "phraseId": "course-phrase-e94be64b96dcb3a5",
+    "lesson": 5,
+    "target": "bereit"
+  },
+  {
+    "de": "Es ist hier.",
+    "ua": "Воно тут.",
+    "gapIndex": 1,
+    "gap": "ist",
+    "sourceLessonId": "present-sein",
+    "phraseId": "course-phrase-97e15b954854b8c2",
+    "lesson": 5,
+    "target": "hier"
+  },
+  {
+    "de": "Wir sind bereit.",
+    "ua": "Ми готові.",
+    "gapIndex": 1,
+    "gap": "sind",
+    "sourceLessonId": "present-sein",
+    "phraseId": "course-phrase-95d1db53c105d4c5",
+    "lesson": 5,
+    "target": "bereit"
+  },
+  {
+    "de": "Ihr seid hier.",
+    "ua": "Ви (кілька людей) тут.",
+    "gapIndex": 1,
+    "gap": "seid",
+    "sourceLessonId": "present-sein",
+    "phraseId": "course-phrase-83fddb0e93ff25d8",
+    "lesson": 5,
+    "target": "hier"
+  },
+  {
+    "de": "Sie sind dort.",
+    "ua": "Вони там.",
+    "gapIndex": 1,
+    "gap": "sind",
+    "sourceLessonId": "present-sein",
+    "phraseId": "course-phrase-c2ecc6cdd4d796f3",
+    "lesson": 5,
+    "target": "dort"
+  },
+  {
+    "de": "Sie sind bereit.",
+    "ua": "Ви (ввічливо) готові.",
+    "gapIndex": 1,
+    "gap": "sind",
+    "sourceLessonId": "present-sein",
+    "phraseId": "course-phrase-247dc20ad9d6334b",
+    "lesson": 5,
+    "target": "bereit"
+  },
+  {
+    "de": "Ich habe Zeit.",
+    "ua": "Я маю час.",
+    "gapIndex": 1,
+    "gap": "habe",
+    "sourceLessonId": "present-haben",
+    "phraseId": "phrase-a85febcbc302ad4a",
+    "lesson": 5,
+    "target": "Zeit haben"
+  },
+  {
+    "de": "Du hast Hunger.",
+    "ua": "Ти голодний / голодна.",
+    "gapIndex": 1,
+    "gap": "hast",
+    "sourceLessonId": "present-haben",
+    "phraseId": "course-phrase-be3501d3c975cc87",
+    "lesson": 5,
+    "target": "der Hunger"
+  },
+  {
+    "de": "Er hat Durst.",
+    "ua": "Він хоче пити.",
+    "gapIndex": 1,
+    "gap": "hat",
+    "sourceLessonId": "present-haben",
+    "phraseId": "course-phrase-cbabe0078b7ae0d6",
+    "lesson": 5,
+    "target": "der Durst"
+  },
+  {
+    "de": "Sie hat Zeit.",
+    "ua": "Вона має час.",
+    "gapIndex": 1,
+    "gap": "hat",
+    "sourceLessonId": "present-haben",
+    "phraseId": "course-phrase-4beaffbe2425f435",
+    "lesson": 5,
+    "target": "Zeit haben"
+  },
+  {
+    "de": "Wir haben Hunger.",
+    "ua": "Ми голодні.",
+    "gapIndex": 1,
+    "gap": "haben",
+    "sourceLessonId": "present-haben",
+    "phraseId": "course-phrase-41dc9e1fb604fb19",
+    "lesson": 5,
+    "target": "der Hunger"
+  },
+  {
+    "de": "Ihr habt Durst.",
+    "ua": "Ви (кілька людей) хочете пити.",
+    "gapIndex": 1,
+    "gap": "habt",
+    "sourceLessonId": "present-haben",
+    "phraseId": "course-phrase-c5523b2c49eb5c0a",
+    "lesson": 5,
+    "target": "der Durst"
+  },
+  {
+    "de": "Sie haben Zeit.",
+    "ua": "Вони мають час.",
+    "gapIndex": 1,
+    "gap": "haben",
+    "sourceLessonId": "present-haben",
+    "phraseId": "course-phrase-f45e5a8614905c5c",
+    "lesson": 5,
+    "target": "Zeit haben"
+  },
+  {
+    "de": "Sie haben Hunger.",
+    "ua": "Ви (ввічливо) голодні.",
+    "gapIndex": 1,
+    "gap": "haben",
+    "sourceLessonId": "present-haben",
+    "phraseId": "course-phrase-2b773cc070b894d2",
+    "lesson": 5,
+    "target": "der Hunger"
+  },
+  {
+    "de": "Heute lerne ich.",
+    "ua": "Сьогодні я вчуся.",
+    "gapIndex": 1,
+    "gap": "lerne",
+    "sourceLessonId": "main-clause-order",
+    "phraseId": "phrase-placeTime-06",
+    "lesson": 11,
+    "target": "lernen"
+  },
+  {
+    "de": "Morgen spielst du.",
+    "ua": "Завтра ти граєш.",
+    "gapIndex": 1,
+    "gap": "spielst",
+    "sourceLessonId": "main-clause-order",
+    "phraseId": "course-phrase-3c4435129bd24e24",
+    "lesson": 11,
+    "target": "spielen"
+  },
+  {
+    "de": "Jetzt lernen wir.",
+    "ua": "Зараз ми вчимося.",
+    "gapIndex": 1,
+    "gap": "lernen",
+    "sourceLessonId": "main-clause-order",
+    "phraseId": "course-phrase-8f34fb5c26488764",
+    "lesson": 11,
+    "target": "lernen"
+  },
+  {
+    "de": "Hier wohnt er.",
+    "ua": "Тут він мешкає.",
+    "gapIndex": 1,
+    "gap": "wohnt",
+    "sourceLessonId": "main-clause-order",
+    "phraseId": "course-phrase-39fa3019ab590a68",
+    "lesson": 11,
+    "target": "wohnen"
+  },
+  {
+    "de": "Dort spielt sie.",
+    "ua": "Там вона грає.",
+    "gapIndex": 1,
+    "gap": "spielt",
+    "sourceLessonId": "main-clause-order",
+    "phraseId": "course-phrase-725f54e401044ee9",
+    "lesson": 11,
+    "target": "spielen"
+  },
+  {
+    "de": "Heute habe ich Zeit.",
+    "ua": "Сьогодні я маю час.",
+    "gapIndex": 1,
+    "gap": "habe",
+    "sourceLessonId": "main-clause-order",
+    "phraseId": "course-phrase-6e7d3ed436d24de9",
+    "lesson": 11,
+    "target": "Zeit haben"
+  },
+  {
+    "de": "Morgen sind wir hier.",
+    "ua": "Завтра ми тут.",
+    "gapIndex": 1,
+    "gap": "sind",
+    "sourceLessonId": "main-clause-order",
+    "phraseId": "course-phrase-6f5c380ac402cb0a",
+    "lesson": 11,
+    "target": "hier"
+  },
+  {
+    "de": "Ich lerne heute Deutsch.",
+    "ua": "Я сьогодні вивчаю німецьку.",
+    "gapIndex": 1,
+    "gap": "lerne",
+    "sourceLessonId": "main-clause-order",
+    "phraseId": "course-phrase-800d19091c20c891",
+    "lesson": 11,
+    "target": "lernen"
+  },
+  {
+    "de": "Ich spiele nicht.",
+    "ua": "Я не граю.",
+    "gapIndex": 2,
+    "gap": "nicht",
+    "sourceLessonId": "negation-nicht",
+    "phraseId": "phrase-transform-009",
+    "lesson": 11,
+    "target": "spielen"
+  },
+  {
+    "de": "Du lernst nicht.",
+    "ua": "Ти не вчишся.",
+    "gapIndex": 2,
+    "gap": "nicht",
+    "sourceLessonId": "negation-nicht",
+    "phraseId": "course-phrase-f44e9c3b0c553f14",
+    "lesson": 11,
+    "target": "lernen"
+  },
+  {
+    "de": "Er arbeitet nicht.",
+    "ua": "Він не працює.",
+    "gapIndex": 2,
+    "gap": "nicht",
+    "sourceLessonId": "negation-nicht",
+    "phraseId": "phrase-transform-027",
+    "lesson": 11,
+    "target": "arbeiten"
+  },
+  {
+    "de": "Sie singt nicht.",
+    "ua": "Вона не співає.",
+    "gapIndex": 2,
+    "gap": "nicht",
+    "sourceLessonId": "negation-nicht",
+    "phraseId": "phrase-transform-004",
+    "lesson": 11,
+    "target": "singen"
+  },
+  {
+    "de": "Wir tanzen nicht.",
+    "ua": "Ми не танцюємо.",
+    "gapIndex": 2,
+    "gap": "nicht",
+    "sourceLessonId": "negation-nicht",
+    "phraseId": "phrase-transform-021",
+    "lesson": 11,
+    "target": "tanzen"
+  },
+  {
+    "de": "Ihr seid nicht hier.",
+    "ua": "Ви (кілька людей) не тут.",
+    "gapIndex": 2,
+    "gap": "nicht",
+    "sourceLessonId": "negation-nicht",
+    "phraseId": "course-phrase-fa140fcf1eaac041",
+    "lesson": 11,
+    "target": "hier"
+  },
+  {
+    "de": "Ich bin nicht bereit.",
+    "ua": "Я не готовий / не готова.",
+    "gapIndex": 2,
+    "gap": "nicht",
+    "sourceLessonId": "negation-nicht",
+    "phraseId": "course-phrase-e2fe548fc29cdee2",
+    "lesson": 11,
+    "target": "bereit"
+  },
+  {
+    "de": "Heute arbeitet er nicht.",
+    "ua": "Сьогодні він не працює.",
+    "gapIndex": 3,
+    "gap": "nicht",
+    "sourceLessonId": "negation-nicht",
+    "phraseId": "course-phrase-29b946025e650129",
+    "lesson": 11,
+    "target": "arbeiten"
+  },
+  {
+    "de": "Lernst du?",
+    "ua": "Ти вчишся?",
+    "gapIndex": 0,
+    "gap": "Lernst",
+    "sourceLessonId": "yes-no-questions",
+    "phraseId": "course-phrase-1167325f75313bcf",
+    "lesson": 11,
+    "target": "lernen"
+  },
+  {
+    "de": "Spielt er?",
+    "ua": "Він грає?",
+    "gapIndex": 0,
+    "gap": "Spielt",
+    "sourceLessonId": "yes-no-questions",
+    "phraseId": "phrase-bc34d677c1225114",
+    "lesson": 11,
+    "target": "spielen"
+  },
+  {
+    "de": "Singt sie?",
+    "ua": "Вона співає?",
+    "gapIndex": 0,
+    "gap": "Singt",
+    "sourceLessonId": "yes-no-questions",
+    "phraseId": "course-phrase-98fd3de00cd35549",
+    "lesson": 11,
+    "target": "singen"
+  },
+  {
+    "de": "Arbeiten wir heute?",
+    "ua": "Ми сьогодні працюємо?",
+    "gapIndex": 0,
+    "gap": "Arbeiten",
+    "sourceLessonId": "yes-no-questions",
+    "phraseId": "course-phrase-fd717e8415d72e9c",
+    "lesson": 11,
+    "target": "arbeiten"
+  },
+  {
+    "de": "Seid ihr bereit?",
+    "ua": "Ви (кілька людей) готові?",
+    "gapIndex": 0,
+    "gap": "Seid",
+    "sourceLessonId": "yes-no-questions",
+    "phraseId": "course-phrase-12cb0e9b6141d520",
+    "lesson": 11,
+    "target": "bereit"
+  },
+  {
+    "de": "Bist du hier?",
+    "ua": "Ти тут?",
+    "gapIndex": 0,
+    "gap": "Bist",
+    "sourceLessonId": "yes-no-questions",
+    "phraseId": "phrase-e4df4570e9ec77d8",
+    "lesson": 11,
+    "target": "hier"
+  },
+  {
+    "de": "Hat er Zeit?",
+    "ua": "Він має час?",
+    "gapIndex": 0,
+    "gap": "Hat",
+    "sourceLessonId": "yes-no-questions",
+    "phraseId": "phrase-7f0ff1ae7f65c957",
+    "lesson": 11,
+    "target": "Zeit haben"
+  },
+  {
+    "de": "Haben Sie Durst?",
+    "ua": "Ви (ввічливо) хочете пити?",
+    "gapIndex": 0,
+    "gap": "Haben",
+    "sourceLessonId": "yes-no-questions",
+    "phraseId": "course-phrase-6c7ec5141e94d5d4",
+    "lesson": 11,
+    "target": "der Durst"
+  },
+  {
+    "de": "Wer lernt hier?",
+    "ua": "Хто тут вчиться?",
+    "gapIndex": 0,
+    "gap": "Wer",
+    "sourceLessonId": "w-questions",
+    "phraseId": "course-phrase-e7070dd7dc1c0ec4",
+    "lesson": 11,
+    "target": "lernen"
+  },
+  {
+    "de": "Was machst du?",
+    "ua": "Що ти робиш?",
+    "gapIndex": 0,
+    "gap": "Was",
+    "sourceLessonId": "w-questions",
+    "phraseId": "phrase-questionWords-01",
+    "lesson": 11,
+    "target": "machen"
+  },
+  {
+    "de": "Wo wohnst du?",
+    "ua": "Де ти мешкаєш?",
+    "gapIndex": 0,
+    "gap": "Wo",
+    "sourceLessonId": "w-questions",
+    "phraseId": "phrase-questionWords-02",
+    "lesson": 11,
+    "target": "wohnen"
+  },
+  {
+    "de": "Wann kommst du?",
+    "ua": "Коли ти приходиш?",
+    "gapIndex": 0,
+    "gap": "Wann",
+    "sourceLessonId": "w-questions",
+    "phraseId": "phrase-questionWords-03",
+    "lesson": 11,
+    "target": "kommen"
+  },
+  {
+    "de": "Wie heißt du?",
+    "ua": "Як тебе звати?",
+    "gapIndex": 0,
+    "gap": "Wie",
+    "sourceLessonId": "w-questions",
+    "phraseId": "phrase-questionWords-04",
+    "lesson": 11,
+    "target": "heißen"
+  },
+  {
+    "de": "Warum lernst du Deutsch?",
+    "ua": "Чому ти вивчаєш німецьку?",
+    "gapIndex": 1,
+    "gap": "lernst",
+    "sourceLessonId": "cause-weil-deshalb",
+    "phraseId": "phrase-questionWords-05",
+    "lesson": 79,
+    "target": "Deutsch"
+  },
+  {
+    "de": "Wo seid ihr?",
+    "ua": "Де ви (кілька людей)?",
+    "gapIndex": 0,
+    "gap": "Wo",
+    "sourceLessonId": "w-questions",
+    "phraseId": "course-phrase-d3c8941a451c62a4",
+    "lesson": 11,
+    "target": "wo"
+  },
+  {
+    "de": "Wann haben Sie Zeit?",
+    "ua": "Коли Ви (ввічливо) маєте час?",
+    "gapIndex": 0,
+    "gap": "Wann",
+    "sourceLessonId": "w-questions",
+    "phraseId": "course-phrase-f7a3c62fea8649fb",
+    "lesson": 11,
+    "target": "Zeit haben"
+  },
+  {
+    "de": "Ich heiße Roman.",
+    "ua": "Мене звати Роман.",
+    "gapIndex": 1,
+    "gap": "heiße",
+    "sourceLessonId": "introduce-yourself",
+    "phraseId": "course-phrase-2f6e950860cf6191",
+    "lesson": 79,
+    "target": "heißen"
+  },
+  {
+    "de": "Ich heiße Oleksii.",
+    "ua": "Мене звати Олексій.",
+    "gapIndex": 1,
+    "gap": "heiße",
+    "sourceLessonId": "introduce-yourself",
+    "phraseId": "course-phrase-16df3af2b7e25ca3",
+    "lesson": 79,
+    "target": "heißen"
+  },
+  {
+    "de": "Ich wohne in Kyjiw.",
+    "ua": "Я мешкаю в Києві.",
+    "gapIndex": 1,
+    "gap": "wohne",
+    "sourceLessonId": "introduce-yourself",
+    "phraseId": "course-phrase-cd88ee05672b2458",
+    "lesson": 79,
+    "target": "wohnen"
+  },
+  {
+    "de": "Ich komme aus der Ukraine.",
+    "ua": "Я з України.",
+    "gapIndex": 1,
+    "gap": "komme",
+    "sourceLessonId": "introduce-yourself",
+    "phraseId": "course-phrase-f4e981c030c794db",
+    "lesson": 79,
+    "target": "aus"
+  },
+  {
+    "de": "Ich bin zehn Jahre alt.",
+    "ua": "Мені десять років.",
+    "gapIndex": 1,
+    "gap": "bin",
+    "sourceLessonId": "introduce-yourself",
+    "phraseId": "course-phrase-186887156139793a",
+    "lesson": 79,
+    "target": "zehn"
+  },
+  {
+    "de": "Ich bin Schüler.",
+    "ua": "Я учень.",
+    "gapIndex": 1,
+    "gap": "bin",
+    "sourceLessonId": "introduce-yourself",
+    "phraseId": "course-phrase-4d410e2837984744",
+    "lesson": 79,
+    "target": "der Schüler"
+  },
+  {
+    "de": "Ich bin Schülerin.",
+    "ua": "Я учениця.",
+    "gapIndex": 1,
+    "gap": "bin",
+    "sourceLessonId": "introduce-yourself",
+    "phraseId": "course-phrase-cff1da1943b64167",
+    "lesson": 79,
+    "target": "die Schülerin"
+  },
+  {
+    "de": "Wie alt bist du?",
+    "ua": "Скільки тобі років?",
+    "gapIndex": 1,
+    "gap": "alt",
+    "sourceLessonId": "introduce-yourself",
+    "phraseId": "course-phrase-da1fd7371802258c",
+    "lesson": 79,
+    "target": "das Jahr"
+  },
+  {
+    "de": "Das ist der Tisch.",
+    "ua": "Це стіл (означений артикль).",
+    "gapIndex": 2,
+    "gap": "der",
+    "sourceLessonId": "nouns-definite",
+    "phraseId": "phrase-articles-01",
+    "lesson": 17,
+    "target": "der Tisch"
+  },
+  {
+    "de": "Das ist die Tür.",
+    "ua": "Це двері (означений артикль).",
+    "gapIndex": 2,
+    "gap": "die",
+    "sourceLessonId": "nouns-definite",
+    "phraseId": "phrase-articles-05",
+    "lesson": 17,
+    "target": "die Tür"
+  },
+  {
+    "de": "Das ist das Buch.",
+    "ua": "Це книжка (означений артикль).",
+    "gapIndex": 2,
+    "gap": "das",
+    "sourceLessonId": "nouns-definite",
+    "phraseId": "phrase-articles-03",
+    "lesson": 17,
+    "target": "das Buch"
+  },
+  {
+    "de": "Hier ist der Stuhl.",
+    "ua": "Тут стілець.",
+    "gapIndex": 2,
+    "gap": "der",
+    "sourceLessonId": "nouns-definite",
+    "phraseId": "course-phrase-096fc9dd2d6be036",
+    "lesson": 17,
+    "target": "der Stuhl"
+  },
+  {
+    "de": "Dort ist die Schule.",
+    "ua": "Там школа.",
+    "gapIndex": 2,
+    "gap": "die",
+    "sourceLessonId": "nouns-definite",
+    "phraseId": "course-phrase-f4278f9bac30897a",
+    "lesson": 17,
+    "target": "die Schule"
+  },
+  {
+    "de": "Hier ist das Kind.",
+    "ua": "Тут дитина.",
+    "gapIndex": 2,
+    "gap": "das",
+    "sourceLessonId": "nouns-definite",
+    "phraseId": "course-phrase-a64b2000e79eb597",
+    "lesson": 17,
+    "target": "das Kind"
+  },
+  {
+    "de": "Das ist der Hund.",
+    "ua": "Це собака (означений артикль).",
+    "gapIndex": 2,
+    "gap": "der",
+    "sourceLessonId": "nouns-definite",
+    "phraseId": "phrase-articles-07",
+    "lesson": 17,
+    "target": "der Hund"
+  },
+  {
+    "de": "Das ist die Katze.",
+    "ua": "Це кішка (означений артикль).",
+    "gapIndex": 2,
+    "gap": "die",
+    "sourceLessonId": "nouns-definite",
+    "phraseId": "phrase-articles-08",
+    "lesson": 17,
+    "target": "die Katze"
+  },
+  {
+    "de": "Das ist ein Tisch.",
+    "ua": "Це стіл (неозначений артикль).",
+    "gapIndex": 2,
+    "gap": "ein",
+    "sourceLessonId": "nouns-indefinite-negative",
+    "phraseId": "phrase-indefiniteArticles-01",
+    "lesson": 17,
+    "target": "der Tisch"
+  },
+  {
+    "de": "Das ist eine Katze.",
+    "ua": "Це кішка (неозначений артикль).",
+    "gapIndex": 2,
+    "gap": "eine",
+    "sourceLessonId": "nouns-indefinite-negative",
+    "phraseId": "phrase-indefiniteArticles-08",
+    "lesson": 17,
+    "target": "die Katze"
+  },
+  {
+    "de": "Das ist ein Buch.",
+    "ua": "Це книжка (неозначений артикль).",
+    "gapIndex": 2,
+    "gap": "ein",
+    "sourceLessonId": "nouns-indefinite-negative",
+    "phraseId": "phrase-indefiniteArticles-03",
+    "lesson": 17,
+    "target": "das Buch"
+  },
+  {
+    "de": "Das ist kein Tisch.",
+    "ua": "Це не стіл.",
+    "gapIndex": 2,
+    "gap": "kein",
+    "sourceLessonId": "nouns-indefinite-negative",
+    "phraseId": "phrase-keinObjects-01",
+    "lesson": 17,
+    "target": "der Tisch"
+  },
+  {
+    "de": "Das ist keine Schule.",
+    "ua": "Це не школа.",
+    "gapIndex": 2,
+    "gap": "keine",
+    "sourceLessonId": "nouns-indefinite-negative",
+    "phraseId": "course-phrase-29466dd8f4c9bfe8",
+    "lesson": 17,
+    "target": "die Schule"
+  },
+  {
+    "de": "Das ist kein Kind.",
+    "ua": "Це не дитина.",
+    "gapIndex": 2,
+    "gap": "kein",
+    "sourceLessonId": "nouns-indefinite-negative",
+    "phraseId": "course-phrase-6c83231ed512bd56",
+    "lesson": 17,
+    "target": "das Kind"
+  },
+  {
+    "de": "Das ist keine Tür.",
+    "ua": "Це не двері.",
+    "gapIndex": 2,
+    "gap": "keine",
+    "sourceLessonId": "nouns-indefinite-negative",
+    "phraseId": "course-phrase-7bc46e4af24c63e5",
+    "lesson": 17,
+    "target": "die Tür"
+  },
+  {
+    "de": "Das ist nicht gut.",
+    "ua": "Це недобре.",
+    "gapIndex": 2,
+    "gap": "nicht",
+    "sourceLessonId": "nouns-indefinite-negative",
+    "phraseId": "course-phrase-af4d2738a0eb60b9",
+    "lesson": 17,
+    "target": "schlecht"
+  },
+  {
+    "de": "Das sind Bücher.",
+    "ua": "Це книжки.",
+    "gapIndex": 2,
+    "gap": "Bücher",
+    "sourceLessonId": "noun-plurals",
+    "phraseId": "course-phrase-484625c01df778ee",
+    "lesson": 17,
+    "target": "die Bücher"
+  },
+  {
+    "de": "Die Kinder spielen.",
+    "ua": "Діти грають.",
+    "gapIndex": 1,
+    "gap": "Kinder",
+    "sourceLessonId": "noun-plurals",
+    "phraseId": "course-phrase-79b0d2a0405a49e3",
+    "lesson": 17,
+    "target": "spielen"
+  },
+  {
+    "de": "Hier sind die Tische.",
+    "ua": "Тут столи.",
+    "gapIndex": 3,
+    "gap": "Tische",
+    "sourceLessonId": "noun-plurals",
+    "phraseId": "course-phrase-dc31339637cf6668",
+    "lesson": 17,
+    "target": "die Tische"
+  },
+  {
+    "de": "Dort sind die Stühle.",
+    "ua": "Там стільці.",
+    "gapIndex": 3,
+    "gap": "Stühle",
+    "sourceLessonId": "noun-plurals",
+    "phraseId": "course-phrase-fda5a3a2df49c5a9",
+    "lesson": 17,
+    "target": "die Stühle"
+  },
+  {
+    "de": "Die Türen sind hier.",
+    "ua": "Двері тут.",
+    "gapIndex": 1,
+    "gap": "Türen",
+    "sourceLessonId": "noun-plurals",
+    "phraseId": "course-phrase-88527db8ee142286",
+    "lesson": 17,
+    "target": "die Türen"
+  },
+  {
+    "de": "Die Katzen sind dort.",
+    "ua": "Кішки там.",
+    "gapIndex": 1,
+    "gap": "Katzen",
+    "sourceLessonId": "noun-plurals",
+    "phraseId": "course-phrase-7ffb5441e1c86464",
+    "lesson": 17,
+    "target": "die Katzen"
+  },
+  {
+    "de": "Die Hunde spielen.",
+    "ua": "Собаки грають.",
+    "gapIndex": 1,
+    "gap": "Hunde",
+    "sourceLessonId": "noun-plurals",
+    "phraseId": "course-phrase-b0630f78335f98e2",
+    "lesson": 17,
+    "target": "der Hund"
+  },
+  {
+    "de": "Die Schulen sind hier.",
+    "ua": "Школи тут.",
+    "gapIndex": 1,
+    "gap": "Schulen",
+    "sourceLessonId": "noun-plurals",
+    "phraseId": "course-phrase-6e142c43362f37f2",
+    "lesson": 17,
+    "target": "die Schulen"
+  },
+  {
+    "de": "Das ist mein Buch.",
+    "ua": "Це моя книжка.",
+    "gapIndex": 2,
+    "gap": "mein",
+    "sourceLessonId": "possessives-nominative",
+    "phraseId": "phrase-possessives-01",
+    "lesson": 17,
+    "target": "mein"
+  },
+  {
+    "de": "Das ist meine Katze.",
+    "ua": "Це моя кішка.",
+    "gapIndex": 2,
+    "gap": "meine",
+    "sourceLessonId": "possessives-nominative",
+    "phraseId": "phrase-possessives-06",
+    "lesson": 17,
+    "target": "die Katze"
+  },
+  {
+    "de": "Das ist dein Hund.",
+    "ua": "Це твій собака.",
+    "gapIndex": 2,
+    "gap": "dein",
+    "sourceLessonId": "possessives-nominative",
+    "phraseId": "course-phrase-c42e9060c1af1827",
+    "lesson": 17,
+    "target": "der Hund"
+  },
+  {
+    "de": "Das ist seine Schule.",
+    "ua": "Це його школа.",
+    "gapIndex": 2,
+    "gap": "seine",
+    "sourceLessonId": "possessives-nominative",
+    "phraseId": "course-phrase-034c54129ed37554",
+    "lesson": 17,
+    "target": "die Schule"
+  },
+  {
+    "de": "Das sind ihre Bücher.",
+    "ua": "Це її книжки.",
+    "gapIndex": 2,
+    "gap": "ihre",
+    "sourceLessonId": "possessives-nominative",
+    "phraseId": "course-phrase-5ff930fbab88f825",
+    "lesson": 17,
+    "target": "die Bücher"
+  },
+  {
+    "de": "Das ist unser Tisch.",
+    "ua": "Це наш стіл.",
+    "gapIndex": 2,
+    "gap": "unser",
+    "sourceLessonId": "possessives-nominative",
+    "phraseId": "course-phrase-f1a81ee2c9027541",
+    "lesson": 17,
+    "target": "unser"
+  },
+  {
+    "de": "Das ist eure Katze.",
+    "ua": "Це ваша кішка (кілька людей).",
+    "gapIndex": 2,
+    "gap": "eure",
+    "sourceLessonId": "possessives-nominative",
+    "phraseId": "course-phrase-a6517500afd153b7",
+    "lesson": 17,
+    "target": "euer"
+  },
+  {
+    "de": "Ist das Ihr Buch?",
+    "ua": "Це Ваша книжка (ввічливо)?",
+    "gapIndex": 2,
+    "gap": "Ihr",
+    "sourceLessonId": "possessives-nominative",
+    "phraseId": "course-phrase-bcb3ed5aa045d495",
+    "lesson": 17,
+    "target": "Ihr"
+  },
+  {
+    "de": "Das ist meine Mutter.",
+    "ua": "Це моя мама.",
+    "gapIndex": 3,
+    "gap": "Mutter",
+    "sourceLessonId": "family-descriptions",
+    "phraseId": "course-phrase-a9066471381a78fc",
+    "lesson": 17,
+    "target": "die Mutter"
+  },
+  {
+    "de": "Das ist mein Vater.",
+    "ua": "Це мій тато.",
+    "gapIndex": 3,
+    "gap": "Vater",
+    "sourceLessonId": "family-descriptions",
+    "phraseId": "course-phrase-51862533d2351ed8",
+    "lesson": 17,
+    "target": "der Vater"
+  },
+  {
+    "de": "Mein Sohn ist zehn Jahre alt.",
+    "ua": "Моєму синові десять років.",
+    "gapIndex": 3,
+    "gap": "zehn",
+    "sourceLessonId": "family-descriptions",
+    "phraseId": "course-phrase-e2f643962e1dfb93",
+    "lesson": 17,
+    "target": "der Sohn"
+  },
+  {
+    "de": "Meine Tochter ist klein.",
+    "ua": "Моя донька маленька.",
+    "gapIndex": 3,
+    "gap": "klein",
+    "sourceLessonId": "family-descriptions",
+    "phraseId": "course-phrase-b509393a521f116e",
+    "lesson": 17,
+    "target": "die Tochter"
+  },
+  {
+    "de": "Er ist Lehrer.",
+    "ua": "Він учитель.",
+    "gapIndex": 2,
+    "gap": "Lehrer",
+    "sourceLessonId": "family-descriptions",
+    "phraseId": "course-phrase-3dc2fc7ebde4c7bc",
+    "lesson": 17,
+    "target": "der Lehrer"
+  },
+  {
+    "de": "Die Katze ist weiß.",
+    "ua": "Кішка біла.",
+    "gapIndex": 3,
+    "gap": "weiß",
+    "sourceLessonId": "family-descriptions",
+    "phraseId": "course-phrase-2ed449597214018e",
+    "lesson": 17,
+    "target": "die Katze"
+  },
+  {
+    "de": "Unser Hund ist groß.",
+    "ua": "Наш собака великий.",
+    "gapIndex": 3,
+    "gap": "groß",
+    "sourceLessonId": "family-descriptions",
+    "phraseId": "course-phrase-932b8c8db5629e36",
+    "lesson": 17,
+    "target": "groß"
+  },
+  {
+    "de": "Meine Kinder lernen Deutsch.",
+    "ua": "Мої діти вивчають німецьку.",
+    "gapIndex": 2,
+    "gap": "lernen",
+    "sourceLessonId": "family-descriptions",
+    "phraseId": "course-phrase-f9a04e324b12f867",
+    "lesson": 17,
+    "target": "lernen"
+  },
+  {
+    "de": "Ich sehe den Hund.",
+    "ua": "Я бачу собаку (означений артикль).",
+    "gapIndex": 2,
+    "gap": "den",
+    "sourceLessonId": "accusative-nouns",
+    "phraseId": "course-phrase-839ecfe08bc03ca6",
+    "lesson": 23,
+    "target": "der Hund"
+  },
+  {
+    "de": "Du hast einen Freund.",
+    "ua": "Ти маєш друга.",
+    "gapIndex": 2,
+    "gap": "einen",
+    "sourceLessonId": "accusative-nouns",
+    "phraseId": "course-phrase-551d7db3717cfdc5",
+    "lesson": 23,
+    "target": "der Freund"
+  },
+  {
+    "de": "Er sucht die Katze.",
+    "ua": "Він шукає кішку.",
+    "gapIndex": 2,
+    "gap": "die",
+    "sourceLessonId": "accusative-nouns",
+    "phraseId": "course-phrase-7ecfb51da37a2d58",
+    "lesson": 23,
+    "target": "suchen"
+  },
+  {
+    "de": "Wir haben ein Buch.",
+    "ua": "Ми маємо книжку.",
+    "gapIndex": 2,
+    "gap": "ein",
+    "sourceLessonId": "accusative-nouns",
+    "phraseId": "course-phrase-21d100d75de5faa6",
+    "lesson": 23,
+    "target": "das Buch"
+  },
+  {
+    "de": "Ich habe keinen Hund.",
+    "ua": "У мене немає собаки.",
+    "gapIndex": 2,
+    "gap": "keinen",
+    "sourceLessonId": "accusative-nouns",
+    "phraseId": "phrase-keinObjects-04",
+    "lesson": 23,
+    "target": "der Hund"
+  },
+  {
+    "de": "Sie hat keine Katze.",
+    "ua": "У неї немає кішки.",
+    "gapIndex": 2,
+    "gap": "keine",
+    "sourceLessonId": "accusative-nouns",
+    "phraseId": "course-phrase-1a9a26e0739babae",
+    "lesson": 23,
+    "target": "die Katze"
+  },
+  {
+    "de": "Hier gibt es einen Tisch.",
+    "ua": "Тут є стіл.",
+    "gapIndex": 3,
+    "gap": "einen",
+    "sourceLessonId": "accusative-nouns",
+    "phraseId": "course-phrase-b55deb7ff8c631a6",
+    "lesson": 23,
+    "target": "der Tisch"
+  },
+  {
+    "de": "Ich suche das Kind.",
+    "ua": "Я шукаю дитину.",
+    "gapIndex": 2,
+    "gap": "das",
+    "sourceLessonId": "accusative-nouns",
+    "phraseId": "course-phrase-a432e663f2bc7d8a",
+    "lesson": 23,
+    "target": "suchen"
+  },
+  {
+    "de": "Du suchst mich.",
+    "ua": "Ти шукаєш мене.",
+    "gapIndex": 2,
+    "gap": "mich",
+    "sourceLessonId": "accusative-pronouns",
+    "phraseId": "course-phrase-4632912bcb034a77",
+    "lesson": 23,
+    "target": "suchen"
+  },
+  {
+    "de": "Ich suche dich.",
+    "ua": "Я шукаю тебе.",
+    "gapIndex": 2,
+    "gap": "dich",
+    "sourceLessonId": "accusative-pronouns",
+    "phraseId": "course-phrase-b7f1be7b1c33677a",
+    "lesson": 23,
+    "target": "suchen"
+  },
+  {
+    "de": "Wir suchen ihn.",
+    "ua": "Ми шукаємо його.",
+    "gapIndex": 2,
+    "gap": "ihn",
+    "sourceLessonId": "accusative-pronouns",
+    "phraseId": "course-phrase-a5d83a77425130f6",
+    "lesson": 23,
+    "target": "suchen"
+  },
+  {
+    "de": "Er kennt sie.",
+    "ua": "Він знає її.",
+    "gapIndex": 2,
+    "gap": "sie",
+    "sourceLessonId": "accusative-pronouns",
+    "phraseId": "course-phrase-f106a549377ac574",
+    "lesson": 23,
+    "target": "kennen"
+  },
+  {
+    "de": "Sie kennt uns.",
+    "ua": "Вона знає нас.",
+    "gapIndex": 2,
+    "gap": "uns",
+    "sourceLessonId": "accusative-pronouns",
+    "phraseId": "course-phrase-be33372859aaa803",
+    "lesson": 23,
+    "target": "kennen"
+  },
+  {
+    "de": "Ich suche euch.",
+    "ua": "Я шукаю вас (кілька людей).",
+    "gapIndex": 2,
+    "gap": "euch",
+    "sourceLessonId": "accusative-pronouns",
+    "phraseId": "course-phrase-87525242e72c6cdd",
+    "lesson": 23,
+    "target": "suchen"
+  },
+  {
+    "de": "Wir kennen sie.",
+    "ua": "Ми знаємо їх.",
+    "gapIndex": 2,
+    "gap": "sie",
+    "sourceLessonId": "accusative-pronouns",
+    "phraseId": "course-phrase-7b380093bd009e3d",
+    "lesson": 23,
+    "target": "kennen"
+  },
+  {
+    "de": "Ich kenne Sie.",
+    "ua": "Я знаю Вас (ввічливо).",
+    "gapIndex": 2,
+    "gap": "Sie",
+    "sourceLessonId": "accusative-pronouns",
+    "phraseId": "course-phrase-267dd15339b72ac0",
+    "lesson": 23,
+    "target": "kennen"
+  },
+  {
+    "de": "Du isst Brot.",
+    "ua": "Ти їси хліб.",
+    "gapIndex": 1,
+    "gap": "isst",
+    "sourceLessonId": "present-irregular",
+    "phraseId": "course-phrase-2d854bf4b933c08a",
+    "lesson": 23,
+    "target": "essen"
+  },
+  {
+    "de": "Er liest ein Buch.",
+    "ua": "Він читає книжку.",
+    "gapIndex": 1,
+    "gap": "liest",
+    "sourceLessonId": "present-irregular",
+    "phraseId": "course-phrase-7bf7a046c1ebd1b0",
+    "lesson": 23,
+    "target": "lesen"
+  },
+  {
+    "de": "Sie sieht den Hund.",
+    "ua": "Вона бачить собаку.",
+    "gapIndex": 1,
+    "gap": "sieht",
+    "sourceLessonId": "present-irregular",
+    "phraseId": "course-phrase-dedd1125fec76c19",
+    "lesson": 23,
+    "target": "sehen"
+  },
+  {
+    "de": "Du sprichst Deutsch.",
+    "ua": "Ти говориш німецькою.",
+    "gapIndex": 1,
+    "gap": "sprichst",
+    "sourceLessonId": "present-irregular",
+    "phraseId": "course-phrase-91446fccb569caf6",
+    "lesson": 23,
+    "target": "sprechen"
+  },
+  {
+    "de": "Er nimmt das Buch.",
+    "ua": "Він бере книжку.",
+    "gapIndex": 1,
+    "gap": "nimmt",
+    "sourceLessonId": "present-irregular",
+    "phraseId": "course-phrase-f3404b16b50d9840",
+    "lesson": 23,
+    "target": "nehmen"
+  },
+  {
+    "de": "Wir essen Brot.",
+    "ua": "Ми їмо хліб.",
+    "gapIndex": 1,
+    "gap": "essen",
+    "sourceLessonId": "present-irregular",
+    "phraseId": "course-phrase-8591dc7339fe6663",
+    "lesson": 23,
+    "target": "essen"
+  },
+  {
+    "de": "Ihr lest Bücher.",
+    "ua": "Ви (кілька людей) читаєте книжки.",
+    "gapIndex": 1,
+    "gap": "lest",
+    "sourceLessonId": "present-irregular",
+    "phraseId": "course-phrase-fb50a75021a442dd",
+    "lesson": 23,
+    "target": "lesen"
+  },
+  {
+    "de": "Sie nehmen Wasser.",
+    "ua": "Вони беруть воду.",
+    "gapIndex": 1,
+    "gap": "nehmen",
+    "sourceLessonId": "present-irregular",
+    "phraseId": "course-phrase-916c04978db8d189",
+    "lesson": 23,
+    "target": "das Wasser"
+  },
+  {
+    "de": "Ich mag Tee.",
+    "ua": "Я люблю чай.",
+    "gapIndex": 1,
+    "gap": "mag",
+    "sourceLessonId": "likes-hobbies",
+    "phraseId": "course-phrase-e3cf6dddf97cd00c",
+    "lesson": 23,
+    "target": "der Tee"
+  },
+  {
+    "de": "Du magst Musik.",
+    "ua": "Ти любиш музику.",
+    "gapIndex": 1,
+    "gap": "magst",
+    "sourceLessonId": "likes-hobbies",
+    "phraseId": "course-phrase-772129e6b5e02ba6",
+    "lesson": 23,
+    "target": "die Musik"
+  },
+  {
+    "de": "Er mag Sport.",
+    "ua": "Він любить спорт.",
+    "gapIndex": 1,
+    "gap": "mag",
+    "sourceLessonId": "likes-hobbies",
+    "phraseId": "course-phrase-c8b8fe7a5a0e555b",
+    "lesson": 23,
+    "target": "der Sport"
+  },
+  {
+    "de": "Wir mögen Gemüse.",
+    "ua": "Ми любимо овочі.",
+    "gapIndex": 1,
+    "gap": "mögen",
+    "sourceLessonId": "likes-hobbies",
+    "phraseId": "course-phrase-8c347f40e4bfd088",
+    "lesson": 23,
+    "target": "das Gemüse"
+  },
+  {
+    "de": "Ihr mögt Fisch.",
+    "ua": "Ви (кілька людей) любите рибу.",
+    "gapIndex": 1,
+    "gap": "mögt",
+    "sourceLessonId": "likes-hobbies",
+    "phraseId": "course-phrase-a94622567ddcf653",
+    "lesson": 23,
+    "target": "der Fisch"
+  },
+  {
+    "de": "Ich lese gern.",
+    "ua": "Я охоче читаю.",
+    "gapIndex": 2,
+    "gap": "gern",
+    "sourceLessonId": "likes-hobbies",
+    "phraseId": "course-phrase-b6dc06c65e22479c",
+    "lesson": 23,
+    "target": "lesen"
+  },
+  {
+    "de": "Sie spielt gern.",
+    "ua": "Вона охоче грає.",
+    "gapIndex": 2,
+    "gap": "gern",
+    "sourceLessonId": "likes-hobbies",
+    "phraseId": "course-phrase-4df84d213174ebab",
+    "lesson": 23,
+    "target": "spielen"
+  },
+  {
+    "de": "Wir singen gern.",
+    "ua": "Ми охоче співаємо.",
+    "gapIndex": 2,
+    "gap": "gern",
+    "sourceLessonId": "likes-hobbies",
+    "phraseId": "course-phrase-7a2a9fb5e44df478",
+    "lesson": 23,
+    "target": "singen"
+  },
+  {
+    "de": "Was nehmen Sie?",
+    "ua": "Що Ви замовляєте (ввічливо)?",
+    "gapIndex": 1,
+    "gap": "nehmen",
+    "sourceLessonId": "cafe-first-dialogue",
+    "phraseId": "course-phrase-f53c1ea21d165c02",
+    "lesson": 79,
+    "target": "das Café"
+  },
+  {
+    "de": "Ich nehme einen Kaffee.",
+    "ua": "Я візьму одну каву.",
+    "gapIndex": 2,
+    "gap": "einen",
+    "sourceLessonId": "cafe-first-dialogue",
+    "phraseId": "course-phrase-ba9d731dce5dd7cc",
+    "lesson": 79,
+    "target": "der Kaffee"
+  },
+  {
+    "de": "Ich nehme einen Tee.",
+    "ua": "Я візьму один чай.",
+    "gapIndex": 2,
+    "gap": "einen",
+    "sourceLessonId": "cafe-first-dialogue",
+    "phraseId": "course-phrase-5132bf8f987591bb",
+    "lesson": 79,
+    "target": "der Tee"
+  },
+  {
+    "de": "Ich nehme Wasser.",
+    "ua": "Я візьму воду.",
+    "gapIndex": 2,
+    "gap": "Wasser",
+    "sourceLessonId": "cafe-first-dialogue",
+    "phraseId": "course-phrase-23ef7f2f6213d06d",
+    "lesson": 79,
+    "target": "das Wasser"
+  },
+  {
+    "de": "Trinken Sie Kaffee?",
+    "ua": "Ви п’єте каву (ввічливо)?",
+    "gapIndex": 2,
+    "gap": "Kaffee",
+    "sourceLessonId": "cafe-first-dialogue",
+    "phraseId": "course-phrase-758087e3d32bb6f5",
+    "lesson": 79,
+    "target": "trinken"
+  },
+  {
+    "de": "Ich trinke Tee.",
+    "ua": "Я п’ю чай.",
+    "gapIndex": 2,
+    "gap": "Tee",
+    "sourceLessonId": "cafe-first-dialogue",
+    "phraseId": "course-phrase-110303c1a61e3cd1",
+    "lesson": 79,
+    "target": "trinken"
+  },
+  {
+    "de": "Die Rechnung, bitte.",
+    "ua": "Рахунок, будь ласка.",
+    "gapIndex": 2,
+    "gap": "bitte",
+    "sourceLessonId": "cafe-first-dialogue",
+    "phraseId": "course-phrase-266ae694da0d71de",
+    "lesson": 79,
+    "target": "die Rechnung"
+  },
+  {
+    "de": "Danke schön!",
+    "ua": "Щиро дякую!",
+    "gapIndex": 0,
+    "gap": "Danke",
+    "sourceLessonId": "cafe-first-dialogue",
+    "phraseId": "course-phrase-128a92545cf89f8a",
+    "lesson": 79,
+    "target": "Danke!"
+  },
+  {
+    "de": "Ich kann schwimmen.",
+    "ua": "Я вмію плавати.",
+    "gapIndex": 1,
+    "gap": "kann",
+    "sourceLessonId": "modal-koennen",
+    "phraseId": "course-phrase-6f10937db6cf2d93",
+    "lesson": 29,
+    "target": "schwimmen"
+  },
+  {
+    "de": "Du kannst gut singen.",
+    "ua": "Ти вмієш добре співати.",
+    "gapIndex": 1,
+    "gap": "kannst",
+    "sourceLessonId": "modal-koennen",
+    "phraseId": "phrase-can-02",
+    "lesson": 29,
+    "target": "singen"
+  },
+  {
+    "de": "Er kann hier arbeiten.",
+    "ua": "Він може тут працювати.",
+    "gapIndex": 1,
+    "gap": "kann",
+    "sourceLessonId": "modal-koennen",
+    "phraseId": "course-phrase-236f3d96d655d5c1",
+    "lesson": 29,
+    "target": "arbeiten"
+  },
+  {
+    "de": "Wir können Deutsch lernen.",
+    "ua": "Ми можемо вивчати німецьку.",
+    "gapIndex": 1,
+    "gap": "können",
+    "sourceLessonId": "modal-koennen",
+    "phraseId": "course-phrase-6eb4aa8d07d87b56",
+    "lesson": 29,
+    "target": "lernen"
+  },
+  {
+    "de": "Ihr könnt heute kommen.",
+    "ua": "Ви (кілька людей) можете прийти сьогодні.",
+    "gapIndex": 1,
+    "gap": "könnt",
+    "sourceLessonId": "modal-koennen",
+    "phraseId": "course-phrase-cf5ecee90b13381c",
+    "lesson": 29,
+    "target": "kommen"
+  },
+  {
+    "de": "Sie können gut lesen.",
+    "ua": "Вони вміють добре читати.",
+    "gapIndex": 1,
+    "gap": "können",
+    "sourceLessonId": "modal-koennen",
+    "phraseId": "course-phrase-39ef693d2831dc8f",
+    "lesson": 29,
+    "target": "lesen"
+  },
+  {
+    "de": "Kannst du helfen?",
+    "ua": "Ти можеш допомогти?",
+    "gapIndex": 0,
+    "gap": "Kannst",
+    "sourceLessonId": "modal-koennen",
+    "phraseId": "course-phrase-d1b84aecc566e555",
+    "lesson": 29,
+    "target": "helfen"
+  },
+  {
+    "de": "Ich kann nicht kommen.",
+    "ua": "Я не можу прийти.",
+    "gapIndex": 3,
+    "gap": "kommen",
+    "sourceLessonId": "modal-koennen",
+    "phraseId": "course-phrase-a6dbb297e2eac115",
+    "lesson": 29,
+    "target": "kommen"
+  },
+  {
+    "de": "Ich muss lernen.",
+    "ua": "Я мушу вчитися.",
+    "gapIndex": 1,
+    "gap": "muss",
+    "sourceLessonId": "modal-muessen-sollen",
+    "phraseId": "course-phrase-e8743e10f831e37f",
+    "lesson": 29,
+    "target": "lernen"
+  },
+  {
+    "de": "Du musst arbeiten.",
+    "ua": "Ти мусиш працювати.",
+    "gapIndex": 1,
+    "gap": "musst",
+    "sourceLessonId": "modal-muessen-sollen",
+    "phraseId": "course-phrase-e4311c4be4e5920c",
+    "lesson": 29,
+    "target": "arbeiten"
+  },
+  {
+    "de": "Er muss warten.",
+    "ua": "Він мусить чекати.",
+    "gapIndex": 1,
+    "gap": "muss",
+    "sourceLessonId": "modal-muessen-sollen",
+    "phraseId": "course-phrase-d25d659f3d4cd568",
+    "lesson": 29,
+    "target": "warten"
+  },
+  {
+    "de": "Wir müssen kommen.",
+    "ua": "Ми мусимо прийти.",
+    "gapIndex": 1,
+    "gap": "müssen",
+    "sourceLessonId": "modal-muessen-sollen",
+    "phraseId": "course-phrase-cdc858e288d650b6",
+    "lesson": 29,
+    "target": "kommen"
+  },
+  {
+    "de": "Ihr müsst schlafen.",
+    "ua": "Ви (кілька людей) мусите спати.",
+    "gapIndex": 1,
+    "gap": "müsst",
+    "sourceLessonId": "modal-muessen-sollen",
+    "phraseId": "course-phrase-f6a67220363b9015",
+    "lesson": 29,
+    "target": "schlafen"
+  },
+  {
+    "de": "Ich soll helfen.",
+    "ua": "Мені сказали допомогти.",
+    "gapIndex": 1,
+    "gap": "soll",
+    "sourceLessonId": "modal-muessen-sollen",
+    "phraseId": "course-phrase-2ee1bdaa4e29dcc5",
+    "lesson": 29,
+    "target": "helfen"
+  },
+  {
+    "de": "Du sollst hier warten.",
+    "ua": "Тобі слід чекати тут.",
+    "gapIndex": 1,
+    "gap": "sollst",
+    "sourceLessonId": "modal-muessen-sollen",
+    "phraseId": "course-phrase-5c067a15b427cedd",
+    "lesson": 29,
+    "target": "warten"
+  },
+  {
+    "de": "Wir sollen Deutsch sprechen.",
+    "ua": "Нам сказали говорити німецькою.",
+    "gapIndex": 1,
+    "gap": "sollen",
+    "sourceLessonId": "modal-muessen-sollen",
+    "phraseId": "course-phrase-f3b14dfe8c7ad874",
+    "lesson": 29,
+    "target": "sprechen"
+  },
+  {
+    "de": "Ich will Deutsch lernen.",
+    "ua": "Я хочу вивчати німецьку.",
+    "gapIndex": 1,
+    "gap": "will",
+    "sourceLessonId": "modal-wollen-moechten",
+    "phraseId": "course-phrase-4fd72577204e4b78",
+    "lesson": 79,
+    "target": "lernen"
+  },
+  {
+    "de": "Du willst spielen.",
+    "ua": "Ти хочеш грати.",
+    "gapIndex": 1,
+    "gap": "willst",
+    "sourceLessonId": "modal-wollen-moechten",
+    "phraseId": "course-phrase-344ece4a809e0102",
+    "lesson": 79,
+    "target": "spielen"
+  },
+  {
+    "de": "Wir wollen reisen.",
+    "ua": "Ми хочемо подорожувати.",
+    "gapIndex": 1,
+    "gap": "wollen",
+    "sourceLessonId": "modal-wollen-moechten",
+    "phraseId": "course-phrase-ed4bc3a836fd844c",
+    "lesson": 79,
+    "target": "reisen"
+  },
+  {
+    "de": "Er will ein Buch kaufen.",
+    "ua": "Він хоче купити книжку.",
+    "gapIndex": 1,
+    "gap": "will",
+    "sourceLessonId": "modal-wollen-moechten",
+    "phraseId": "course-phrase-bce357cd67db1c04",
+    "lesson": 79,
+    "target": "kaufen"
+  },
+  {
+    "de": "Ich möchte einen Tee.",
+    "ua": "Я хотів би / хотіла б чаю.",
+    "gapIndex": 1,
+    "gap": "möchte",
+    "sourceLessonId": "modal-wollen-moechten",
+    "phraseId": "course-phrase-16a11ac4f6c0a968",
+    "lesson": 79,
+    "target": "der Tee"
+  },
+  {
+    "de": "Du möchtest Wasser trinken.",
+    "ua": "Ти хотів би / хотіла б випити води.",
+    "gapIndex": 1,
+    "gap": "möchtest",
+    "sourceLessonId": "modal-wollen-moechten",
+    "phraseId": "course-phrase-f9b9815b8c6def79",
+    "lesson": 79,
+    "target": "trinken"
+  },
+  {
+    "de": "Wir möchten hier wohnen.",
+    "ua": "Ми хотіли б тут мешкати.",
+    "gapIndex": 1,
+    "gap": "möchten",
+    "sourceLessonId": "modal-wollen-moechten",
+    "phraseId": "course-phrase-7e340061740c42b1",
+    "lesson": 79,
+    "target": "wohnen"
+  },
+  {
+    "de": "Was möchten Sie?",
+    "ua": "Що Ви хотіли б (ввічливо)?",
+    "gapIndex": 1,
+    "gap": "möchten",
+    "sourceLessonId": "modal-wollen-moechten",
+    "phraseId": "course-phrase-92b0256309ca3bf7",
+    "lesson": 79,
+    "target": "möchten"
+  },
+  {
+    "de": "Darf ich fragen?",
+    "ua": "Можна запитати?",
+    "gapIndex": 0,
+    "gap": "Darf",
+    "sourceLessonId": "modal-duerfen",
+    "phraseId": "course-phrase-0414daf49b566805",
+    "lesson": 29,
+    "target": "fragen"
+  },
+  {
+    "de": "Du darfst hier spielen.",
+    "ua": "Тобі можна тут грати.",
+    "gapIndex": 1,
+    "gap": "darfst",
+    "sourceLessonId": "modal-duerfen",
+    "phraseId": "course-phrase-a75bbb6c59cc03af",
+    "lesson": 29,
+    "target": "spielen"
+  },
+  {
+    "de": "Wir dürfen gehen.",
+    "ua": "Нам можна йти.",
+    "gapIndex": 1,
+    "gap": "dürfen",
+    "sourceLessonId": "modal-duerfen",
+    "phraseId": "course-phrase-d5d737bc659b4d6f",
+    "lesson": 29,
+    "target": "gehen"
+  },
+  {
+    "de": "Ihr dürft bleiben.",
+    "ua": "Вам (кільком людям) можна залишитися.",
+    "gapIndex": 1,
+    "gap": "dürft",
+    "sourceLessonId": "modal-duerfen",
+    "phraseId": "course-phrase-32f2b7a0a925439c",
+    "lesson": 29,
+    "target": "bleiben"
+  },
+  {
+    "de": "Sie dürfen hier nicht rauchen.",
+    "ua": "Вам тут не можна курити (заборона).",
+    "gapIndex": 3,
+    "gap": "nicht",
+    "sourceLessonId": "modal-duerfen",
+    "phraseId": "course-phrase-ec5c835f152540a2",
+    "lesson": 29,
+    "target": "rauchen"
+  },
+  {
+    "de": "Du musst nicht warten.",
+    "ua": "Тобі не потрібно чекати (немає необхідності).",
+    "gapIndex": 2,
+    "gap": "nicht",
+    "sourceLessonId": "modal-duerfen",
+    "phraseId": "course-phrase-f7254c9eccd0380a",
+    "lesson": 29,
+    "target": "warten"
+  },
+  {
+    "de": "Darf ich das Fenster öffnen?",
+    "ua": "Можна мені відчинити вікно?",
+    "gapIndex": 0,
+    "gap": "Darf",
+    "sourceLessonId": "modal-duerfen",
+    "phraseId": "course-phrase-3fdfa23b01a44547",
+    "lesson": 29,
+    "target": "öffnen"
+  },
+  {
+    "de": "Wir müssen heute nicht arbeiten.",
+    "ua": "Нам сьогодні не потрібно працювати.",
+    "gapIndex": 3,
+    "gap": "nicht",
+    "sourceLessonId": "modal-duerfen",
+    "phraseId": "course-phrase-0a883a1c7b9aaf1b",
+    "lesson": 29,
+    "target": "arbeiten"
+  },
+  {
+    "de": "Komm bitte!",
+    "ua": "Прийди, будь ласка (до однієї людини).",
+    "gapIndex": 0,
+    "gap": "Komm",
+    "sourceLessonId": "imperative",
+    "phraseId": "course-phrase-385b9f29f1b765fa",
+    "lesson": 29,
+    "target": "kommen"
+  },
+  {
+    "de": "Kommt bitte!",
+    "ua": "Прийдіть, будь ласка (до кількох людей).",
+    "gapIndex": 0,
+    "gap": "Kommt",
+    "sourceLessonId": "imperative",
+    "phraseId": "course-phrase-da6084bbf21f7fc4",
+    "lesson": 29,
+    "target": "kommen"
+  },
+  {
+    "de": "Kommen Sie bitte!",
+    "ua": "Прийдіть, будь ласка (ввічливо).",
+    "gapIndex": 0,
+    "gap": "Kommen",
+    "sourceLessonId": "imperative",
+    "phraseId": "course-phrase-aa47442edb9c5a7b",
+    "lesson": 29,
+    "target": "kommen"
+  },
+  {
+    "de": "Nimm das Buch!",
+    "ua": "Візьми книжку!",
+    "gapIndex": 0,
+    "gap": "Nimm",
+    "sourceLessonId": "imperative",
+    "phraseId": "course-phrase-d9bcfa3a9de9e6f8",
+    "lesson": 29,
+    "target": "nehmen"
+  },
+  {
+    "de": "Lies bitte!",
+    "ua": "Прочитай, будь ласка!",
+    "gapIndex": 0,
+    "gap": "Lies",
+    "sourceLessonId": "imperative",
+    "phraseId": "course-phrase-46e8df3ae6f8f45d",
+    "lesson": 29,
+    "target": "lesen"
+  },
+  {
+    "de": "Sprich bitte langsam!",
+    "ua": "Говори, будь ласка, повільно!",
+    "gapIndex": 0,
+    "gap": "Sprich",
+    "sourceLessonId": "imperative",
+    "phraseId": "course-phrase-d49bab565968b105",
+    "lesson": 29,
+    "target": "langsam"
+  },
+  {
+    "de": "Sei bitte leise!",
+    "ua": "Будь, будь ласка, тихим / тихою!",
+    "gapIndex": 0,
+    "gap": "Sei",
+    "sourceLessonId": "imperative",
+    "phraseId": "course-phrase-96b9b357298868be",
+    "lesson": 29,
+    "target": "leise"
+  },
+  {
+    "de": "Öffnen Sie bitte das Fenster!",
+    "ua": "Відчиніть, будь ласка, вікно (ввічливо)!",
+    "gapIndex": 0,
+    "gap": "Öffnen",
+    "sourceLessonId": "imperative",
+    "phraseId": "course-phrase-762f4e1cc6bcea6d",
+    "lesson": 29,
+    "target": "öffnen"
+  },
+  {
+    "de": "Ich helfe dem Kind.",
+    "ua": "Я допомагаю дитині.",
+    "gapIndex": 2,
+    "gap": "dem",
+    "sourceLessonId": "dative-nouns",
+    "phraseId": "course-phrase-75b35c2aaf3ea8dc",
+    "lesson": 35,
+    "target": "helfen"
+  },
+  {
+    "de": "Du hilfst einem Freund.",
+    "ua": "Ти допомагаєш другові.",
+    "gapIndex": 2,
+    "gap": "einem",
+    "sourceLessonId": "dative-nouns",
+    "phraseId": "course-phrase-a80aa9beb1dd23fa",
+    "lesson": 35,
+    "target": "helfen"
+  },
+  {
+    "de": "Er antwortet der Lehrerin.",
+    "ua": "Він відповідає вчительці.",
+    "gapIndex": 2,
+    "gap": "der",
+    "sourceLessonId": "dative-nouns",
+    "phraseId": "course-phrase-e3e248f0fbc9b074",
+    "lesson": 35,
+    "target": "antworten"
+  },
+  {
+    "de": "Wir helfen den Kindern.",
+    "ua": "Ми допомагаємо дітям.",
+    "gapIndex": 2,
+    "gap": "den",
+    "sourceLessonId": "dative-nouns",
+    "phraseId": "course-phrase-697a4a018b6cf041",
+    "lesson": 35,
+    "target": "helfen"
+  },
+  {
+    "de": "Ich gebe dem Mann das Buch.",
+    "ua": "Я даю чоловікові книжку.",
+    "gapIndex": 2,
+    "gap": "dem",
+    "sourceLessonId": "dative-nouns",
+    "phraseId": "course-phrase-3dbc4de7e6023bfb",
+    "lesson": 35,
+    "target": "geben"
+  },
+  {
+    "de": "Sie gibt einer Freundin Wasser.",
+    "ua": "Вона дає подрузі воду.",
+    "gapIndex": 2,
+    "gap": "einer",
+    "sourceLessonId": "dative-nouns",
+    "phraseId": "course-phrase-e72b5ee7632dbe13",
+    "lesson": 35,
+    "target": "geben"
+  },
+  {
+    "de": "Ich antworte dem Lehrer.",
+    "ua": "Я відповідаю вчителеві.",
+    "gapIndex": 2,
+    "gap": "dem",
+    "sourceLessonId": "dative-nouns",
+    "phraseId": "course-phrase-db1eb30580a06b25",
+    "lesson": 35,
+    "target": "antworten"
+  },
+  {
+    "de": "Wir geben den Freunden Bücher.",
+    "ua": "Ми даємо друзям книжки.",
+    "gapIndex": 2,
+    "gap": "den",
+    "sourceLessonId": "dative-nouns",
+    "phraseId": "course-phrase-cc7b2f119a2b7d22",
+    "lesson": 35,
+    "target": "geben"
+  },
+  {
+    "de": "Du hilfst mir.",
+    "ua": "Ти допомагаєш мені.",
+    "gapIndex": 2,
+    "gap": "mir",
+    "sourceLessonId": "dative-pronouns",
+    "phraseId": "course-phrase-cec0f4372129ed97",
+    "lesson": 35,
+    "target": "helfen"
+  },
+  {
+    "de": "Ich helfe dir.",
+    "ua": "Я допомагаю тобі.",
+    "gapIndex": 2,
+    "gap": "dir",
+    "sourceLessonId": "dative-pronouns",
+    "phraseId": "course-phrase-07c5ec79cabfeb5e",
+    "lesson": 35,
+    "target": "helfen"
+  },
+  {
+    "de": "Wir antworten ihm.",
+    "ua": "Ми відповідаємо йому.",
+    "gapIndex": 2,
+    "gap": "ihm",
+    "sourceLessonId": "dative-pronouns",
+    "phraseId": "course-phrase-cb938d0e7a53868b",
+    "lesson": 35,
+    "target": "antworten"
+  },
+  {
+    "de": "Er gibt ihr das Buch.",
+    "ua": "Він дає їй книжку.",
+    "gapIndex": 2,
+    "gap": "ihr",
+    "sourceLessonId": "dative-pronouns",
+    "phraseId": "course-phrase-08479b465abcd78f",
+    "lesson": 35,
+    "target": "geben"
+  },
+  {
+    "de": "Sie hilft uns.",
+    "ua": "Вона допомагає нам.",
+    "gapIndex": 2,
+    "gap": "uns",
+    "sourceLessonId": "dative-pronouns",
+    "phraseId": "course-phrase-8f8747e12cf3a3c4",
+    "lesson": 35,
+    "target": "helfen"
+  },
+  {
+    "de": "Ich antworte euch.",
+    "ua": "Я відповідаю вам (кілька людей).",
+    "gapIndex": 2,
+    "gap": "euch",
+    "sourceLessonId": "dative-pronouns",
+    "phraseId": "course-phrase-4f0b38f5fa784b3a",
+    "lesson": 35,
+    "target": "antworten"
+  },
+  {
+    "de": "Wir helfen ihnen.",
+    "ua": "Ми допомагаємо їм.",
+    "gapIndex": 2,
+    "gap": "ihnen",
+    "sourceLessonId": "dative-pronouns",
+    "phraseId": "course-phrase-5dc2f79f17e9c167",
+    "lesson": 35,
+    "target": "helfen"
+  },
+  {
+    "de": "Ich helfe Ihnen.",
+    "ua": "Я допомагаю Вам (ввічливо).",
+    "gapIndex": 2,
+    "gap": "Ihnen",
+    "sourceLessonId": "dative-pronouns",
+    "phraseId": "course-phrase-2fba1343163a0bde",
+    "lesson": 35,
+    "target": "helfen"
+  },
+  {
+    "de": "Ich gebe dem Kind den Ball.",
+    "ua": "Я даю дитині м’яч.",
+    "gapIndex": 2,
+    "gap": "dem",
+    "sourceLessonId": "two-objects",
+    "phraseId": "course-phrase-86f68f0ae5215dd0",
+    "lesson": 79,
+    "target": "geben"
+  },
+  {
+    "de": "Du zeigst der Frau das Bild.",
+    "ua": "Ти показуєш жінці картину.",
+    "gapIndex": 2,
+    "gap": "der",
+    "sourceLessonId": "two-objects",
+    "phraseId": "course-phrase-d7c049e87ff92d91",
+    "lesson": 79,
+    "target": "zeigen"
+  },
+  {
+    "de": "Er schenkt seinem Vater ein Buch.",
+    "ua": "Він дарує своєму батькові книжку.",
+    "gapIndex": 2,
+    "gap": "seinem",
+    "sourceLessonId": "two-objects",
+    "phraseId": "course-phrase-73bafc10979b378a",
+    "lesson": 79,
+    "target": "schenken"
+  },
+  {
+    "de": "Wir geben den Kindern Wasser.",
+    "ua": "Ми даємо дітям воду.",
+    "gapIndex": 2,
+    "gap": "den",
+    "sourceLessonId": "two-objects",
+    "phraseId": "course-phrase-28fba5dad7f9e9d9",
+    "lesson": 79,
+    "target": "geben"
+  },
+  {
+    "de": "Ich gebe ihm das Buch.",
+    "ua": "Я даю йому книжку.",
+    "gapIndex": 2,
+    "gap": "ihm",
+    "sourceLessonId": "two-objects",
+    "phraseId": "course-phrase-342058f46d582a88",
+    "lesson": 79,
+    "target": "geben"
+  },
+  {
+    "de": "Ich gebe es dem Kind.",
+    "ua": "Я даю це дитині.",
+    "gapIndex": 2,
+    "gap": "es",
+    "sourceLessonId": "two-objects",
+    "phraseId": "course-phrase-cb62a08bc00401e4",
+    "lesson": 79,
+    "target": "geben"
+  },
+  {
+    "de": "Ich gebe es ihm.",
+    "ua": "Я даю це йому.",
+    "gapIndex": 3,
+    "gap": "ihm",
+    "sourceLessonId": "two-objects",
+    "phraseId": "course-phrase-52708a1d7147a2ca",
+    "lesson": 79,
+    "target": "geben"
+  },
+  {
+    "de": "Sie zeigt es mir.",
+    "ua": "Вона показує це мені.",
+    "gapIndex": 3,
+    "gap": "mir",
+    "sourceLessonId": "two-objects",
+    "phraseId": "course-phrase-21cdf4b081e6fa99",
+    "lesson": 79,
+    "target": "zeigen"
+  },
+  {
+    "de": "Ich komme mit dir.",
+    "ua": "Я приходжу з тобою.",
+    "gapIndex": 2,
+    "gap": "mit",
+    "sourceLessonId": "dative-prepositions",
+    "phraseId": "course-phrase-672f7115ddb72633",
+    "lesson": 35,
+    "target": "mitkommen"
+  },
+  {
+    "de": "Du gehst zu mir.",
+    "ua": "Ти йдеш до мене.",
+    "gapIndex": 2,
+    "gap": "zu",
+    "sourceLessonId": "dative-prepositions",
+    "phraseId": "course-phrase-4c97d1bff2f9d480",
+    "lesson": 35,
+    "target": "zu"
+  },
+  {
+    "de": "Das Buch ist von meinem Freund.",
+    "ua": "Ця книжка від мого друга.",
+    "gapIndex": 3,
+    "gap": "von",
+    "sourceLessonId": "dative-prepositions",
+    "phraseId": "course-phrase-dfbe68cd6a1f21cb",
+    "lesson": 35,
+    "target": "das Buch"
+  },
+  {
+    "de": "Ich komme aus der Ukraine.",
+    "ua": "Я родом з України.",
+    "gapIndex": 2,
+    "gap": "aus",
+    "sourceLessonId": "dative-prepositions",
+    "phraseId": "course-phrase-caacdeb8652add18",
+    "lesson": 35,
+    "target": "aus"
+  },
+  {
+    "de": "Wir sind bei unseren Eltern.",
+    "ua": "Ми в наших батьків.",
+    "gapIndex": 2,
+    "gap": "bei",
+    "sourceLessonId": "dative-prepositions",
+    "phraseId": "course-phrase-609841be2d20869f",
+    "lesson": 35,
+    "target": "die Eltern"
+  },
+  {
+    "de": "Sie fährt nach Berlin.",
+    "ua": "Вона їде до Берліна.",
+    "gapIndex": 2,
+    "gap": "nach",
+    "sourceLessonId": "dative-prepositions",
+    "phraseId": "course-phrase-3a6eb99d59a4595d",
+    "lesson": 35,
+    "target": "fahren"
+  },
+  {
+    "de": "Ich gehe zum Arzt.",
+    "ua": "Я йду до лікаря.",
+    "gapIndex": 2,
+    "gap": "zum",
+    "sourceLessonId": "dative-prepositions",
+    "phraseId": "course-phrase-06add4ee830d7fa0",
+    "lesson": 35,
+    "target": "der Arzt"
+  },
+  {
+    "de": "Er geht zur Schule.",
+    "ua": "Він іде до школи.",
+    "gapIndex": 2,
+    "gap": "zur",
+    "sourceLessonId": "dative-prepositions",
+    "phraseId": "course-phrase-af39af3f67783929",
+    "lesson": 35,
+    "target": "die Schule"
+  },
+  {
+    "de": "Das ist für dich.",
+    "ua": "Це для тебе.",
+    "gapIndex": 2,
+    "gap": "für",
+    "sourceLessonId": "accusative-prepositions",
+    "phraseId": "course-phrase-1d5b0c8f06cfc3ea",
+    "lesson": 35,
+    "target": "für"
+  },
+  {
+    "de": "Ich gehe ohne meinen Bruder.",
+    "ua": "Я йду без свого брата.",
+    "gapIndex": 2,
+    "gap": "ohne",
+    "sourceLessonId": "accusative-prepositions",
+    "phraseId": "course-phrase-d53502c4aded0a00",
+    "lesson": 35,
+    "target": "gehen"
+  },
+  {
+    "de": "Wir spielen gegen die Kinder.",
+    "ua": "Ми граємо проти дітей.",
+    "gapIndex": 2,
+    "gap": "gegen",
+    "sourceLessonId": "accusative-prepositions",
+    "phraseId": "course-phrase-d883ffd684efc44d",
+    "lesson": 35,
+    "target": "gegen"
+  },
+  {
+    "de": "Sie geht durch den Park.",
+    "ua": "Вона йде через парк.",
+    "gapIndex": 2,
+    "gap": "durch",
+    "sourceLessonId": "accusative-prepositions",
+    "phraseId": "course-phrase-ae2013e35f6e9b09",
+    "lesson": 35,
+    "target": "durch"
+  },
+  {
+    "de": "Wir gehen um das Haus.",
+    "ua": "Ми йдемо навколо будинку.",
+    "gapIndex": 2,
+    "gap": "um",
+    "sourceLessonId": "accusative-prepositions",
+    "phraseId": "course-phrase-3d819e9cb9908a7a",
+    "lesson": 35,
+    "target": "um"
+  },
+  {
+    "de": "Das Geschenk ist für meinen Vater.",
+    "ua": "Подарунок для мого батька.",
+    "gapIndex": 4,
+    "gap": "meinen",
+    "sourceLessonId": "accusative-prepositions",
+    "phraseId": "course-phrase-a7da3b260966796f",
+    "lesson": 35,
+    "target": "das Geschenk"
+  },
+  {
+    "de": "Ich komme ohne meine Tasche.",
+    "ua": "Я приходжу без своєї сумки.",
+    "gapIndex": 3,
+    "gap": "meine",
+    "sourceLessonId": "accusative-prepositions",
+    "phraseId": "course-phrase-fec6adba96e9ed93",
+    "lesson": 35,
+    "target": "die Tasche"
+  },
+  {
+    "de": "Ich komme um acht Uhr.",
+    "ua": "Я прийду о восьмій годині.",
+    "gapIndex": 2,
+    "gap": "um",
+    "sourceLessonId": "clock-dates",
+    "phraseId": "course-phrase-5009d29c1308da8e",
+    "lesson": 41,
+    "target": "die Uhr"
+  },
+  {
+    "de": "Das kostet zwanzig Euro.",
+    "ua": "Це коштує двадцять євро.",
+    "gapIndex": 2,
+    "gap": "zwanzig",
+    "sourceLessonId": "numbers-prices",
+    "phraseId": "course-phrase-5196f14aefeacc68",
+    "lesson": 41,
+    "target": "kosten"
+  },
+  {
+    "de": "Das Buch kostet einundzwanzig Euro.",
+    "ua": "Книжка коштує двадцять один євро.",
+    "gapIndex": 3,
+    "gap": "einundzwanzig",
+    "sourceLessonId": "numbers-prices",
+    "phraseId": "course-phrase-ec99fae84eaa24af",
+    "lesson": 41,
+    "target": "kosten"
+  },
+  {
+    "de": "Ich habe dreißig Euro.",
+    "ua": "Я маю тридцять євро.",
+    "gapIndex": 2,
+    "gap": "dreißig",
+    "sourceLessonId": "numbers-prices",
+    "phraseId": "course-phrase-0e476af7dbe5d3d4",
+    "lesson": 41,
+    "target": "der Euro"
+  },
+  {
+    "de": "Das kostet fünfzig Cent.",
+    "ua": "Це коштує п’ятдесят центів.",
+    "gapIndex": 2,
+    "gap": "fünfzig",
+    "sourceLessonId": "numbers-prices",
+    "phraseId": "course-phrase-b32091022016210b",
+    "lesson": 41,
+    "target": "der Cent"
+  },
+  {
+    "de": "Wir haben hundert Bücher.",
+    "ua": "Ми маємо сто книжок.",
+    "gapIndex": 2,
+    "gap": "hundert",
+    "sourceLessonId": "numbers-prices",
+    "phraseId": "course-phrase-d44034970a35f286",
+    "lesson": 41,
+    "target": "hundert"
+  },
+  {
+    "de": "Hier sind tausend Menschen.",
+    "ua": "Тут тисяча людей.",
+    "gapIndex": 2,
+    "gap": "tausend",
+    "sourceLessonId": "numbers-prices",
+    "phraseId": "course-phrase-be547625e7dedee2",
+    "lesson": 41,
+    "target": "tausend"
+  },
+  {
+    "de": "Das kostet zwei Euro fünfzig.",
+    "ua": "Це коштує два євро п’ятдесят центів.",
+    "gapIndex": 4,
+    "gap": "fünfzig",
+    "sourceLessonId": "numbers-prices",
+    "phraseId": "course-phrase-ad9a9a735fc49005",
+    "lesson": 41,
+    "target": "kosten"
+  },
+  {
+    "de": "Wie viel kostet das?",
+    "ua": "Скільки це коштує?",
+    "gapIndex": 2,
+    "gap": "kostet",
+    "sourceLessonId": "numbers-prices",
+    "phraseId": "course-phrase-8ceb82b0ce54a8b8",
+    "lesson": 41,
+    "target": "kosten"
+  },
+  {
+    "de": "Wir kommen um halb neun.",
+    "ua": "Ми прийдемо о пів на дев’яту.",
+    "gapIndex": 3,
+    "gap": "halb",
+    "sourceLessonId": "clock-dates",
+    "phraseId": "course-phrase-e0a2cba770087b46",
+    "lesson": 41,
+    "target": "halb"
+  },
+  {
+    "de": "Ich arbeite am Montag.",
+    "ua": "Я працюю в понеділок.",
+    "gapIndex": 2,
+    "gap": "am",
+    "sourceLessonId": "clock-dates",
+    "phraseId": "course-phrase-0cd5d14419fd6e50",
+    "lesson": 41,
+    "target": "Montag"
+  },
+  {
+    "de": "Der Termin ist am ersten Mai.",
+    "ua": "Зустріч першого травня.",
+    "gapIndex": 4,
+    "gap": "ersten",
+    "sourceLessonId": "clock-dates",
+    "phraseId": "course-phrase-294723778ce23117",
+    "lesson": 41,
+    "target": "der Termin"
+  },
+  {
+    "de": "Ich habe am dritten Mai Geburtstag.",
+    "ua": "Мій день народження третього травня.",
+    "gapIndex": 3,
+    "gap": "dritten",
+    "sourceLessonId": "clock-dates",
+    "phraseId": "course-phrase-2cd5aa600c6bc83f",
+    "lesson": 41,
+    "target": "der Geburtstag"
+  },
+  {
+    "de": "Heute ist der zwanzigste Mai.",
+    "ua": "Сьогодні двадцяте травня.",
+    "gapIndex": 3,
+    "gap": "zwanzigste",
+    "sourceLessonId": "clock-dates",
+    "phraseId": "course-phrase-f52d70be900a092b",
+    "lesson": 41,
+    "target": "der Mai"
+  },
+  {
+    "de": "Es ist Viertel nach acht.",
+    "ua": "Зараз чверть на дев’яту.",
+    "gapIndex": 2,
+    "gap": "Viertel",
+    "sourceLessonId": "clock-dates",
+    "phraseId": "course-phrase-ec8309bab83ba890",
+    "lesson": 41,
+    "target": "die Uhr"
+  },
+  {
+    "de": "Wann hast du Geburtstag?",
+    "ua": "Коли в тебе день народження?",
+    "gapIndex": 3,
+    "gap": "Geburtstag",
+    "sourceLessonId": "clock-dates",
+    "phraseId": "course-phrase-255245816e2e0c97",
+    "lesson": 41,
+    "target": "der Geburtstag"
+  },
+  {
+    "de": "Das Buch liegt auf dem Tisch.",
+    "ua": "Книжка лежить на столі.",
+    "gapIndex": 4,
+    "gap": "dem",
+    "sourceLessonId": "location-wo",
+    "phraseId": "course-phrase-8113185b8020f22b",
+    "lesson": 41,
+    "target": "@0"
+  },
+  {
+    "de": "Die Katze ist unter dem Stuhl.",
+    "ua": "Кішка під стільцем.",
+    "gapIndex": 4,
+    "gap": "dem",
+    "sourceLessonId": "location-wo",
+    "phraseId": "course-phrase-4025f16dd918251c",
+    "lesson": 41,
+    "target": "@1"
+  },
+  {
+    "de": "Ich bin im Park.",
+    "ua": "Я в парку.",
+    "gapIndex": 2,
+    "gap": "im",
+    "sourceLessonId": "location-wo",
+    "phraseId": "course-phrase-e455a8034b640fd7",
+    "lesson": 41,
+    "target": "der Park"
+  },
+  {
+    "de": "Das Bild hängt an der Wand.",
+    "ua": "Картина висить на стіні.",
+    "gapIndex": 4,
+    "gap": "der",
+    "sourceLessonId": "location-wo",
+    "phraseId": "course-phrase-fe969559b757029c",
+    "lesson": 41,
+    "target": "@2"
+  },
+  {
+    "de": "Wir stehen vor der Schule.",
+    "ua": "Ми стоїмо перед школою.",
+    "gapIndex": 3,
+    "gap": "der",
+    "sourceLessonId": "location-wo",
+    "phraseId": "course-phrase-9275883a6b8c7f92",
+    "lesson": 41,
+    "target": "die Schule"
+  },
+  {
+    "de": "Der Hund ist neben dem Kind.",
+    "ua": "Собака поруч із дитиною.",
+    "gapIndex": 4,
+    "gap": "dem",
+    "sourceLessonId": "location-wo",
+    "phraseId": "course-phrase-307de6a5927dadb5",
+    "lesson": 41,
+    "target": "@3"
+  },
+  {
+    "de": "Ich laufe im Park.",
+    "ua": "Я бігаю в парку.",
+    "gapIndex": 2,
+    "gap": "im",
+    "sourceLessonId": "location-wo",
+    "phraseId": "course-phrase-05aff76af8448d6a",
+    "lesson": 41,
+    "target": "laufen"
+  },
+  {
+    "de": "Die Tasche liegt auf dem Stuhl.",
+    "ua": "Сумка лежить на стільці.",
+    "gapIndex": 4,
+    "gap": "dem",
+    "sourceLessonId": "location-wo",
+    "phraseId": "course-phrase-4379adf76c41db73",
+    "lesson": 41,
+    "target": "@4"
+  },
+  {
+    "de": "Ich lege das Buch auf den Tisch.",
+    "ua": "Я кладу книжку на стіл.",
+    "gapIndex": 5,
+    "gap": "den",
+    "sourceLessonId": "destination-wohin",
+    "phraseId": "course-phrase-a1d33015413f9997",
+    "lesson": 41,
+    "target": "@5"
+  },
+  {
+    "de": "Du stellst den Stuhl in das Zimmer.",
+    "ua": "Ти ставиш стілець у кімнату.",
+    "gapIndex": 5,
+    "gap": "das",
+    "sourceLessonId": "destination-wohin",
+    "phraseId": "course-phrase-14d7525e3b97d46b",
+    "lesson": 41,
+    "target": "@6"
+  },
+  {
+    "de": "Wir gehen in den Park.",
+    "ua": "Ми йдемо в парк.",
+    "gapIndex": 3,
+    "gap": "den",
+    "sourceLessonId": "destination-wohin",
+    "phraseId": "course-phrase-7ad04bda51abc956",
+    "lesson": 41,
+    "target": "gehen"
+  },
+  {
+    "de": "Sie geht in die Schule.",
+    "ua": "Вона заходить до школи.",
+    "gapIndex": 3,
+    "gap": "die",
+    "sourceLessonId": "destination-wohin",
+    "phraseId": "course-phrase-8af0d7c59e0f0376",
+    "lesson": 41,
+    "target": "die Schule"
+  },
+  {
+    "de": "Ich hänge das Bild an die Wand.",
+    "ua": "Я вішаю картину на стіну.",
+    "gapIndex": 5,
+    "gap": "die",
+    "sourceLessonId": "destination-wohin",
+    "phraseId": "course-phrase-4efcd797a38c8281",
+    "lesson": 41,
+    "target": "@7"
+  },
+  {
+    "de": "Die Katze geht unter den Tisch.",
+    "ua": "Кішка йде під стіл.",
+    "gapIndex": 4,
+    "gap": "den",
+    "sourceLessonId": "destination-wohin",
+    "phraseId": "course-phrase-02760b2060ae429d",
+    "lesson": 41,
+    "target": "@8"
+  },
+  {
+    "de": "Er geht ins Zimmer.",
+    "ua": "Він заходить у кімнату.",
+    "gapIndex": 2,
+    "gap": "ins",
+    "sourceLessonId": "destination-wohin",
+    "phraseId": "course-phrase-d7bdc292365272a1",
+    "lesson": 41,
+    "target": "das Zimmer"
+  },
+  {
+    "de": "Wir gehen in den Garten.",
+    "ua": "Ми йдемо в сад.",
+    "gapIndex": 3,
+    "gap": "den",
+    "sourceLessonId": "destination-wohin",
+    "phraseId": "course-phrase-d804e348f5fbefd0",
+    "lesson": 41,
+    "target": "der Garten"
+  },
+  {
+    "de": "Ich bin zu Hause.",
+    "ua": "Я вдома.",
+    "gapIndex": 2,
+    "gap": "zu",
+    "sourceLessonId": "directions-home",
+    "phraseId": "course-phrase-0edd22161489fff7",
+    "lesson": 79,
+    "target": "das Haus"
+  },
+  {
+    "de": "Ich gehe nach Hause.",
+    "ua": "Я йду додому.",
+    "gapIndex": 2,
+    "gap": "nach",
+    "sourceLessonId": "directions-home",
+    "phraseId": "course-phrase-75b7dc8b5e143723",
+    "lesson": 79,
+    "target": "gehen"
+  },
+  {
+    "de": "Wir fahren nach Berlin.",
+    "ua": "Ми їдемо до Берліна.",
+    "gapIndex": 2,
+    "gap": "nach",
+    "sourceLessonId": "directions-home",
+    "phraseId": "course-phrase-a57b75e862e4b23a",
+    "lesson": 79,
+    "target": "fahren"
+  },
+  {
+    "de": "Sie fährt in die Ukraine.",
+    "ua": "Вона їде в Україну.",
+    "gapIndex": 3,
+    "gap": "die",
+    "sourceLessonId": "directions-home",
+    "phraseId": "course-phrase-5fad7c58be7558f4",
+    "lesson": 79,
+    "target": "fahren"
+  },
+  {
+    "de": "Gehen Sie geradeaus!",
+    "ua": "Ідіть прямо (ввічливо)!",
+    "gapIndex": 2,
+    "gap": "geradeaus",
+    "sourceLessonId": "directions-home",
+    "phraseId": "course-phrase-77b6c446bd56ce4d",
+    "lesson": 79,
+    "target": "geradeaus"
+  },
+  {
+    "de": "Gehen Sie nach links!",
+    "ua": "Ідіть ліворуч (ввічливо)!",
+    "gapIndex": 3,
+    "gap": "links",
+    "sourceLessonId": "directions-home",
+    "phraseId": "course-phrase-4ce7636c06442fd1",
+    "lesson": 79,
+    "target": "links"
+  },
+  {
+    "de": "Der Bahnhof ist rechts.",
+    "ua": "Вокзал праворуч.",
+    "gapIndex": 3,
+    "gap": "rechts",
+    "sourceLessonId": "directions-home",
+    "phraseId": "course-phrase-dbbfa57a9378923a",
+    "lesson": 79,
+    "target": "rechts"
+  },
+  {
+    "de": "Der Osten ist hier.",
+    "ua": "Схід у цьому напрямку.",
+    "gapIndex": 1,
+    "gap": "Osten",
+    "sourceLessonId": "directions-home",
+    "phraseId": "course-phrase-7f3d0601880c2178",
+    "lesson": 79,
+    "target": "der Osten"
+  },
+  {
+    "de": "Ich stehe früh auf.",
+    "ua": "Я встаю рано.",
+    "gapIndex": 3,
+    "gap": "auf",
+    "sourceLessonId": "separable-present",
+    "phraseId": "course-phrase-32d7ba497e8f599e",
+    "lesson": 47,
+    "target": "aufstehen"
+  },
+  {
+    "de": "Du rufst mich an.",
+    "ua": "Ти телефонуєш мені.",
+    "gapIndex": 3,
+    "gap": "an",
+    "sourceLessonId": "separable-present",
+    "phraseId": "course-phrase-93baf71c23369fc7",
+    "lesson": 47,
+    "target": "anrufen"
+  },
+  {
+    "de": "Wir kaufen heute ein.",
+    "ua": "Ми сьогодні робимо покупки.",
+    "gapIndex": 3,
+    "gap": "ein",
+    "sourceLessonId": "separable-present",
+    "phraseId": "course-phrase-cf76caf6cee2c14e",
+    "lesson": 47,
+    "target": "einkaufen"
+  },
+  {
+    "de": "Sie macht die Tür auf.",
+    "ua": "Вона відчиняє двері.",
+    "gapIndex": 4,
+    "gap": "auf",
+    "sourceLessonId": "separable-present",
+    "phraseId": "course-phrase-108122cdc3f1baa0",
+    "lesson": 47,
+    "target": "aufmachen"
+  },
+  {
+    "de": "Kommst du mit?",
+    "ua": "Ти йдеш із нами?",
+    "gapIndex": 2,
+    "gap": "mit",
+    "sourceLessonId": "separable-present",
+    "phraseId": "course-phrase-a169ac5e7c92685a",
+    "lesson": 47,
+    "target": "mitkommen"
+  },
+  {
+    "de": "Er kommt morgen zurück.",
+    "ua": "Він повертається завтра.",
+    "gapIndex": 3,
+    "gap": "zurück",
+    "sourceLessonId": "separable-present",
+    "phraseId": "course-phrase-90a2de7b92704219",
+    "lesson": 47,
+    "target": "zurückkommen"
+  },
+  {
+    "de": "Ich muss früh aufstehen.",
+    "ua": "Я мушу рано вставати.",
+    "gapIndex": 3,
+    "gap": "aufstehen",
+    "sourceLessonId": "separable-present",
+    "phraseId": "course-phrase-1cc6a088ec202bbc",
+    "lesson": 47,
+    "target": "aufstehen"
+  },
+  {
+    "de": "Kannst du mich anrufen?",
+    "ua": "Ти можеш мені зателефонувати?",
+    "gapIndex": 3,
+    "gap": "anrufen",
+    "sourceLessonId": "separable-present",
+    "phraseId": "course-phrase-e0ffa267ea31178f",
+    "lesson": 47,
+    "target": "anrufen"
+  },
+  {
+    "de": "Ich verstehe dich.",
+    "ua": "Я розумію тебе.",
+    "gapIndex": 1,
+    "gap": "verstehe",
+    "sourceLessonId": "inseparable-present",
+    "phraseId": "course-phrase-04902d32668d8292",
+    "lesson": 47,
+    "target": "verstehen"
+  },
+  {
+    "de": "Verstehst du mich?",
+    "ua": "Ти мене розумієш?",
+    "gapIndex": 0,
+    "gap": "Verstehst",
+    "sourceLessonId": "inseparable-present",
+    "phraseId": "course-phrase-024ca7506b5b6c0a",
+    "lesson": 47,
+    "target": "verstehen"
+  },
+  {
+    "de": "Wir besuchen unsere Freunde.",
+    "ua": "Ми відвідуємо своїх друзів.",
+    "gapIndex": 1,
+    "gap": "besuchen",
+    "sourceLessonId": "inseparable-present",
+    "phraseId": "course-phrase-8642fe32774000a5",
+    "lesson": 47,
+    "target": "besuchen"
+  },
+  {
+    "de": "Sie erklärt das Wort.",
+    "ua": "Вона пояснює слово.",
+    "gapIndex": 1,
+    "gap": "erklärt",
+    "sourceLessonId": "inseparable-present",
+    "phraseId": "course-phrase-af50f974c0b251ac",
+    "lesson": 47,
+    "target": "erklären"
+  },
+  {
+    "de": "Ich bezahle die Rechnung.",
+    "ua": "Я оплачую рахунок.",
+    "gapIndex": 1,
+    "gap": "bezahle",
+    "sourceLessonId": "inseparable-present",
+    "phraseId": "course-phrase-29eaf7225032f669",
+    "lesson": 47,
+    "target": "bezahlen"
+  },
+  {
+    "de": "Du telefonierst heute.",
+    "ua": "Ти сьогодні розмовляєш телефоном.",
+    "gapIndex": 1,
+    "gap": "telefonierst",
+    "sourceLessonId": "inseparable-present",
+    "phraseId": "course-phrase-a9b38d98c4ce46ea",
+    "lesson": 47,
+    "target": "telefonieren"
+  },
+  {
+    "de": "Er studiert in Berlin.",
+    "ua": "Він навчається у виші в Берліні.",
+    "gapIndex": 1,
+    "gap": "studiert",
+    "sourceLessonId": "inseparable-present",
+    "phraseId": "course-phrase-4c763e41016e0e79",
+    "lesson": 47,
+    "target": "studieren"
+  },
+  {
+    "de": "Wir können das erklären.",
+    "ua": "Ми можемо це пояснити.",
+    "gapIndex": 3,
+    "gap": "erklären",
+    "sourceLessonId": "inseparable-present",
+    "phraseId": "course-phrase-5ea2c1bc478ebf8c",
+    "lesson": 47,
+    "target": "erklären"
+  },
+  {
+    "de": "Ich freue mich.",
+    "ua": "Я радію.",
+    "gapIndex": 2,
+    "gap": "mich",
+    "sourceLessonId": "reflexive-present",
+    "phraseId": "course-phrase-74e9b803b5b13774",
+    "lesson": 47,
+    "target": "sich freuen"
+  },
+  {
+    "de": "Du wäschst dich.",
+    "ua": "Ти миєшся.",
+    "gapIndex": 2,
+    "gap": "dich",
+    "sourceLessonId": "reflexive-present",
+    "phraseId": "course-phrase-c6b4e156dec6c7d8",
+    "lesson": 47,
+    "target": "sich waschen"
+  },
+  {
+    "de": "Er freut sich.",
+    "ua": "Він радіє.",
+    "gapIndex": 2,
+    "gap": "sich",
+    "sourceLessonId": "reflexive-present",
+    "phraseId": "course-phrase-0d38c6651259dfe8",
+    "lesson": 47,
+    "target": "sich freuen"
+  },
+  {
+    "de": "Wir treffen uns heute.",
+    "ua": "Ми зустрічаємося сьогодні.",
+    "gapIndex": 2,
+    "gap": "uns",
+    "sourceLessonId": "reflexive-present",
+    "phraseId": "course-phrase-4f966ed4bb821072",
+    "lesson": 47,
+    "target": "sich treffen"
+  },
+  {
+    "de": "Ihr freut euch.",
+    "ua": "Ви (кілька людей) радієте.",
+    "gapIndex": 2,
+    "gap": "euch",
+    "sourceLessonId": "reflexive-present",
+    "phraseId": "course-phrase-0edabc67744cafeb",
+    "lesson": 47,
+    "target": "sich freuen"
+  },
+  {
+    "de": "Sie waschen sich.",
+    "ua": "Вони миються.",
+    "gapIndex": 2,
+    "gap": "sich",
+    "sourceLessonId": "reflexive-present",
+    "phraseId": "course-phrase-296b2e6c38195218",
+    "lesson": 47,
+    "target": "sich waschen"
+  },
+  {
+    "de": "Ich wasche mir die Hände.",
+    "ua": "Я мию собі руки.",
+    "gapIndex": 2,
+    "gap": "mir",
+    "sourceLessonId": "reflexive-present",
+    "phraseId": "course-phrase-e45fdeb550f9bbb1",
+    "lesson": 47,
+    "target": "sich waschen"
+  },
+  {
+    "de": "Ich treffe mich mit meinem Freund.",
+    "ua": "Я зустрічаюся зі своїм другом.",
+    "gapIndex": 2,
+    "gap": "mich",
+    "sourceLessonId": "reflexive-present",
+    "phraseId": "course-phrase-b65cc4936552be7d",
+    "lesson": 47,
+    "target": "sich treffen"
+  },
+  {
+    "de": "Morgens stehe ich früh auf.",
+    "ua": "Вранці я рано встаю.",
+    "gapIndex": 4,
+    "gap": "auf",
+    "sourceLessonId": "daily-frequency",
+    "phraseId": "course-phrase-e65067b647e1138a",
+    "lesson": 47,
+    "target": "aufstehen"
+  },
+  {
+    "de": "Ich trinke oft Tee.",
+    "ua": "Я часто п’ю чай.",
+    "gapIndex": 2,
+    "gap": "oft",
+    "sourceLessonId": "daily-frequency",
+    "phraseId": "course-phrase-185f439f445fdb08",
+    "lesson": 47,
+    "target": "trinken"
+  },
+  {
+    "de": "Manchmal lese ich abends.",
+    "ua": "Іноді я читаю ввечері.",
+    "gapIndex": 1,
+    "gap": "lese",
+    "sourceLessonId": "daily-frequency",
+    "phraseId": "course-phrase-47d9c71dd52c1a46",
+    "lesson": 47,
+    "target": "lesen"
+  },
+  {
+    "de": "Wir spielen jeden Tag.",
+    "ua": "Ми граємо щодня.",
+    "gapIndex": 2,
+    "gap": "jeden",
+    "sourceLessonId": "daily-frequency",
+    "phraseId": "course-phrase-c8cd37d5c1c03cd6",
+    "lesson": 47,
+    "target": "spielen"
+  },
+  {
+    "de": "Sie kommt immer früh.",
+    "ua": "Вона завжди приходить рано.",
+    "gapIndex": 2,
+    "gap": "immer",
+    "sourceLessonId": "daily-frequency",
+    "phraseId": "course-phrase-06c15a21f1bdd02c",
+    "lesson": 47,
+    "target": "kommen"
+  },
+  {
+    "de": "Ich rauche nie.",
+    "ua": "Я ніколи не курю.",
+    "gapIndex": 2,
+    "gap": "nie",
+    "sourceLessonId": "daily-frequency",
+    "phraseId": "course-phrase-d09073a8189a8d52",
+    "lesson": 47,
+    "target": "rauchen"
+  },
+  {
+    "de": "Zuerst lerne ich Deutsch.",
+    "ua": "Спочатку я вивчаю німецьку.",
+    "gapIndex": 1,
+    "gap": "lerne",
+    "sourceLessonId": "daily-frequency",
+    "phraseId": "course-phrase-8122a01ad1de1b0b",
+    "lesson": 47,
+    "target": "lernen"
+  },
+  {
+    "de": "Danach kaufe ich ein.",
+    "ua": "Після цього я роблю покупки.",
+    "gapIndex": 1,
+    "gap": "kaufe",
+    "sourceLessonId": "daily-frequency",
+    "phraseId": "course-phrase-1e0d69828a10cc65",
+    "lesson": 47,
+    "target": "einkaufen"
+  },
+  {
+    "de": "Wann können wir uns treffen?",
+    "ua": "Коли ми можемо зустрітися?",
+    "gapIndex": 3,
+    "gap": "uns",
+    "sourceLessonId": "arrange-meeting",
+    "phraseId": "course-phrase-6f5da50d8424d3d4",
+    "lesson": 79,
+    "target": "sich treffen"
+  },
+  {
+    "de": "Wir können uns morgen treffen.",
+    "ua": "Ми можемо зустрітися завтра.",
+    "gapIndex": 3,
+    "gap": "morgen",
+    "sourceLessonId": "arrange-meeting",
+    "phraseId": "course-phrase-9087495b28471265",
+    "lesson": 79,
+    "target": "sich treffen"
+  },
+  {
+    "de": "Hast du am Samstag Zeit?",
+    "ua": "У тебе є час у суботу?",
+    "gapIndex": 2,
+    "gap": "am",
+    "sourceLessonId": "arrange-meeting",
+    "phraseId": "course-phrase-da860bccdfe30931",
+    "lesson": 79,
+    "target": "Zeit haben"
+  },
+  {
+    "de": "Ja, ich habe Zeit.",
+    "ua": "Так, я маю час.",
+    "gapIndex": 3,
+    "gap": "Zeit",
+    "sourceLessonId": "arrange-meeting",
+    "phraseId": "course-phrase-b4c3ec9e54d2b61d",
+    "lesson": 79,
+    "target": "Zeit haben"
+  },
+  {
+    "de": "Treffen wir uns um acht Uhr?",
+    "ua": "Зустрінемося о восьмій годині?",
+    "gapIndex": 3,
+    "gap": "um",
+    "sourceLessonId": "arrange-meeting",
+    "phraseId": "course-phrase-03cb5014a3b2b977",
+    "lesson": 79,
+    "target": "sich treffen"
+  },
+  {
+    "de": "Das passt gut.",
+    "ua": "Це добре підходить.",
+    "gapIndex": 1,
+    "gap": "passt",
+    "sourceLessonId": "arrange-meeting",
+    "phraseId": "course-phrase-74ad4ef3d48b002d",
+    "lesson": 79,
+    "target": "passen"
+  },
+  {
+    "de": "Leider kann ich nicht kommen.",
+    "ua": "На жаль, я не можу прийти.",
+    "gapIndex": 3,
+    "gap": "nicht",
+    "sourceLessonId": "arrange-meeting",
+    "phraseId": "course-phrase-d4c9a6a521cf0d36",
+    "lesson": 79,
+    "target": "kommen"
+  },
+  {
+    "de": "Ich rufe dich morgen an.",
+    "ua": "Я зателефоную тобі завтра.",
+    "gapIndex": 4,
+    "gap": "an",
+    "sourceLessonId": "arrange-meeting",
+    "phraseId": "course-phrase-d47464ee751e22f5",
+    "lesson": 79,
+    "target": "anrufen"
+  },
+  {
+    "de": "Ich habe Deutsch gelernt.",
+    "ua": "Я вивчав / вивчала німецьку.",
+    "gapIndex": 1,
+    "gap": "habe",
+    "sourceLessonId": "perfekt-haben-regular",
+    "phraseId": "course-phrase-4793f6a930159c79",
+    "lesson": 54,
+    "target": "lernen"
+  },
+  {
+    "de": "Du hast gestern gespielt.",
+    "ua": "Ти вчора грав / грала.",
+    "gapIndex": 1,
+    "gap": "hast",
+    "sourceLessonId": "perfekt-haben-regular",
+    "phraseId": "course-phrase-89899b01c061d2c2",
+    "lesson": 54,
+    "target": "spielen"
+  },
+  {
+    "de": "Er hat hier gearbeitet.",
+    "ua": "Він тут працював.",
+    "gapIndex": 1,
+    "gap": "hat",
+    "sourceLessonId": "perfekt-haben-regular",
+    "phraseId": "course-phrase-bbed3309c51e5875",
+    "lesson": 54,
+    "target": "arbeiten"
+  },
+  {
+    "de": "Wir haben das gemacht.",
+    "ua": "Ми це зробили.",
+    "gapIndex": 1,
+    "gap": "haben",
+    "sourceLessonId": "perfekt-haben-regular",
+    "phraseId": "course-phrase-f73797834acc98cc",
+    "lesson": 54,
+    "target": "machen"
+  },
+  {
+    "de": "Ihr habt gefragt.",
+    "ua": "Ви (кілька людей) запитали.",
+    "gapIndex": 1,
+    "gap": "habt",
+    "sourceLessonId": "perfekt-haben-regular",
+    "phraseId": "course-phrase-cd85cc22c1552528",
+    "lesson": 54,
+    "target": "fragen"
+  },
+  {
+    "de": "Sie haben getanzt.",
+    "ua": "Вони танцювали.",
+    "gapIndex": 1,
+    "gap": "haben",
+    "sourceLessonId": "perfekt-haben-regular",
+    "phraseId": "course-phrase-f9af9ae800169406",
+    "lesson": 54,
+    "target": "tanzen"
+  },
+  {
+    "de": "Hast du heute gelernt?",
+    "ua": "Ти сьогодні вчився / вчилася?",
+    "gapIndex": 0,
+    "gap": "Hast",
+    "sourceLessonId": "perfekt-haben-regular",
+    "phraseId": "course-phrase-b745a6a6d8c53d2d",
+    "lesson": 54,
+    "target": "lernen"
+  },
+  {
+    "de": "Ich habe gestern nicht gearbeitet.",
+    "ua": "Я вчора не працював / не працювала.",
+    "gapIndex": 4,
+    "gap": "gearbeitet",
+    "sourceLessonId": "perfekt-haben-regular",
+    "phraseId": "course-phrase-1a91505fb25d44a8",
+    "lesson": 54,
+    "target": "arbeiten"
+  },
+  {
+    "de": "Ich habe Brot gegessen.",
+    "ua": "Я їв / їла хліб.",
+    "gapIndex": 3,
+    "gap": "gegessen",
+    "sourceLessonId": "perfekt-irregular",
+    "phraseId": "course-phrase-fc8f6c02edcea3d5",
+    "lesson": 54,
+    "target": "essen"
+  },
+  {
+    "de": "Du hast Wasser getrunken.",
+    "ua": "Ти пив / пила воду.",
+    "gapIndex": 3,
+    "gap": "getrunken",
+    "sourceLessonId": "perfekt-irregular",
+    "phraseId": "course-phrase-52c94869177d0a49",
+    "lesson": 54,
+    "target": "trinken"
+  },
+  {
+    "de": "Er hat das Buch gelesen.",
+    "ua": "Він прочитав книжку.",
+    "gapIndex": 4,
+    "gap": "gelesen",
+    "sourceLessonId": "perfekt-irregular",
+    "phraseId": "course-phrase-4e1368d7e4fb85e1",
+    "lesson": 54,
+    "target": "lesen"
+  },
+  {
+    "de": "Wir haben den Hund gesehen.",
+    "ua": "Ми бачили собаку.",
+    "gapIndex": 4,
+    "gap": "gesehen",
+    "sourceLessonId": "perfekt-irregular",
+    "phraseId": "course-phrase-faa1396e3d885baf",
+    "lesson": 54,
+    "target": "sehen"
+  },
+  {
+    "de": "Sie hat eine Nachricht geschrieben.",
+    "ua": "Вона написала повідомлення.",
+    "gapIndex": 4,
+    "gap": "geschrieben",
+    "sourceLessonId": "perfekt-irregular",
+    "phraseId": "course-phrase-65435bf105f39e05",
+    "lesson": 54,
+    "target": "schreiben"
+  },
+  {
+    "de": "Ihr habt das Buch genommen.",
+    "ua": "Ви (кілька людей) взяли книжку.",
+    "gapIndex": 4,
+    "gap": "genommen",
+    "sourceLessonId": "perfekt-irregular",
+    "phraseId": "course-phrase-c47efde8a6a68a41",
+    "lesson": 54,
+    "target": "nehmen"
+  },
+  {
+    "de": "Wir haben Deutsch gesprochen.",
+    "ua": "Ми говорили німецькою.",
+    "gapIndex": 3,
+    "gap": "gesprochen",
+    "sourceLessonId": "perfekt-irregular",
+    "phraseId": "course-phrase-bc3b6000cad650ea",
+    "lesson": 54,
+    "target": "sprechen"
+  },
+  {
+    "de": "Sie haben gesungen.",
+    "ua": "Вони співали.",
+    "gapIndex": 2,
+    "gap": "gesungen",
+    "sourceLessonId": "perfekt-irregular",
+    "phraseId": "course-phrase-3834d60a54d47d08",
+    "lesson": 54,
+    "target": "singen"
+  },
+  {
+    "de": "Ich bin nach Hause gegangen.",
+    "ua": "Я пішов / пішла додому.",
+    "gapIndex": 1,
+    "gap": "bin",
+    "sourceLessonId": "perfekt-sein",
+    "phraseId": "course-phrase-7da4c45134b5a3c8",
+    "lesson": 54,
+    "target": "gehen"
+  },
+  {
+    "de": "Du bist früh gekommen.",
+    "ua": "Ти прийшов / прийшла рано.",
+    "gapIndex": 1,
+    "gap": "bist",
+    "sourceLessonId": "perfekt-sein",
+    "phraseId": "course-phrase-12cdb032198dd55e",
+    "lesson": 54,
+    "target": "kommen"
+  },
+  {
+    "de": "Er ist nach Berlin gefahren.",
+    "ua": "Він поїхав до Берліна.",
+    "gapIndex": 1,
+    "gap": "ist",
+    "sourceLessonId": "perfekt-sein",
+    "phraseId": "course-phrase-b4dc98ccbb2e87ce",
+    "lesson": 54,
+    "target": "fahren"
+  },
+  {
+    "de": "Wir sind hier geblieben.",
+    "ua": "Ми залишилися тут.",
+    "gapIndex": 1,
+    "gap": "sind",
+    "sourceLessonId": "perfekt-sein",
+    "phraseId": "course-phrase-9b36b307eb770c75",
+    "lesson": 54,
+    "target": "bleiben"
+  },
+  {
+    "de": "Ihr seid in die Schule gegangen.",
+    "ua": "Ви (кілька людей) пішли до школи.",
+    "gapIndex": 1,
+    "gap": "seid",
+    "sourceLessonId": "perfekt-sein",
+    "phraseId": "course-phrase-2f52197810b19e48",
+    "lesson": 54,
+    "target": "die Schule"
+  },
+  {
+    "de": "Sie sind nach Hause gekommen.",
+    "ua": "Вони прийшли додому.",
+    "gapIndex": 1,
+    "gap": "sind",
+    "sourceLessonId": "perfekt-sein",
+    "phraseId": "course-phrase-fa5da3f5d70c4b56",
+    "lesson": 54,
+    "target": "kommen"
+  },
+  {
+    "de": "Bist du im Park geblieben?",
+    "ua": "Ти залишився / залишилася в парку?",
+    "gapIndex": 0,
+    "gap": "Bist",
+    "sourceLessonId": "perfekt-sein",
+    "phraseId": "course-phrase-8546cf5d1f7d535f",
+    "lesson": 54,
+    "target": "der Park"
+  },
+  {
+    "de": "Sie hat gestern getanzt.",
+    "ua": "Вона вчора танцювала.",
+    "gapIndex": 1,
+    "gap": "hat",
+    "sourceLessonId": "perfekt-sein",
+    "phraseId": "course-phrase-82b49c691bc5ae96",
+    "lesson": 54,
+    "target": "tanzen"
+  },
+  {
+    "de": "Ich bin früh aufgestanden.",
+    "ua": "Я рано встав / встала.",
+    "gapIndex": 3,
+    "gap": "aufgestanden",
+    "sourceLessonId": "perfekt-prefixes",
+    "phraseId": "course-phrase-00e870a54d37372a",
+    "lesson": 79,
+    "target": "aufstehen"
+  },
+  {
+    "de": "Du hast mich angerufen.",
+    "ua": "Ти зателефонував / зателефонувала мені.",
+    "gapIndex": 3,
+    "gap": "angerufen",
+    "sourceLessonId": "perfekt-prefixes",
+    "phraseId": "course-phrase-b5349d0394bc1934",
+    "lesson": 79,
+    "target": "anrufen"
+  },
+  {
+    "de": "Wir haben heute eingekauft.",
+    "ua": "Ми сьогодні зробили покупки.",
+    "gapIndex": 3,
+    "gap": "eingekauft",
+    "sourceLessonId": "perfekt-prefixes",
+    "phraseId": "course-phrase-838eae623e494691",
+    "lesson": 79,
+    "target": "einkaufen"
+  },
+  {
+    "de": "Er hat seine Eltern besucht.",
+    "ua": "Він відвідав своїх батьків.",
+    "gapIndex": 4,
+    "gap": "besucht",
+    "sourceLessonId": "perfekt-prefixes",
+    "phraseId": "course-phrase-a02a851cad3614a4",
+    "lesson": 79,
+    "target": "besuchen"
+  },
+  {
+    "de": "Ich habe dich verstanden.",
+    "ua": "Я зрозумів / зрозуміла тебе.",
+    "gapIndex": 3,
+    "gap": "verstanden",
+    "sourceLessonId": "perfekt-prefixes",
+    "phraseId": "course-phrase-af0b505eca7e5d8c",
+    "lesson": 79,
+    "target": "verstehen"
+  },
+  {
+    "de": "Sie hat das Wort erklärt.",
+    "ua": "Вона пояснила слово.",
+    "gapIndex": 4,
+    "gap": "erklärt",
+    "sourceLessonId": "perfekt-prefixes",
+    "phraseId": "course-phrase-0305c4951804d300",
+    "lesson": 79,
+    "target": "erklären"
+  },
+  {
+    "de": "Wir haben lange telefoniert.",
+    "ua": "Ми довго розмовляли телефоном.",
+    "gapIndex": 3,
+    "gap": "telefoniert",
+    "sourceLessonId": "perfekt-prefixes",
+    "phraseId": "course-phrase-177056cb89757a19",
+    "lesson": 79,
+    "target": "telefonieren"
+  },
+  {
+    "de": "Er ist gestern zurückgekommen.",
+    "ua": "Він учора повернувся.",
+    "gapIndex": 3,
+    "gap": "zurückgekommen",
+    "sourceLessonId": "perfekt-prefixes",
+    "phraseId": "course-phrase-307412e9e33e251c",
+    "lesson": 79,
+    "target": "zurückkommen"
+  },
+  {
+    "de": "Ich habe mich gefreut.",
+    "ua": "Я зрадів / зраділа.",
+    "gapIndex": 2,
+    "gap": "mich",
+    "sourceLessonId": "perfekt-reflexive",
+    "phraseId": "course-phrase-7d71e7256d2184c9",
+    "lesson": 54,
+    "target": "sich freuen"
+  },
+  {
+    "de": "Du hast dich gewaschen.",
+    "ua": "Ти помився / помилася.",
+    "gapIndex": 2,
+    "gap": "dich",
+    "sourceLessonId": "perfekt-reflexive",
+    "phraseId": "course-phrase-6cb6daf636e5d1b8",
+    "lesson": 54,
+    "target": "sich waschen"
+  },
+  {
+    "de": "Er hat sich gefreut.",
+    "ua": "Він зрадів.",
+    "gapIndex": 2,
+    "gap": "sich",
+    "sourceLessonId": "perfekt-reflexive",
+    "phraseId": "course-phrase-2f2dc4dabd1a7556",
+    "lesson": 54,
+    "target": "sich freuen"
+  },
+  {
+    "de": "Wir haben uns getroffen.",
+    "ua": "Ми зустрілися.",
+    "gapIndex": 2,
+    "gap": "uns",
+    "sourceLessonId": "perfekt-reflexive",
+    "phraseId": "course-phrase-c42837c3052d56e7",
+    "lesson": 54,
+    "target": "sich treffen"
+  },
+  {
+    "de": "Ihr habt euch gefreut.",
+    "ua": "Ви (кілька людей) зраділи.",
+    "gapIndex": 2,
+    "gap": "euch",
+    "sourceLessonId": "perfekt-reflexive",
+    "phraseId": "course-phrase-d0d79350e5a3aad9",
+    "lesson": 54,
+    "target": "sich freuen"
+  },
+  {
+    "de": "Sie haben sich gewaschen.",
+    "ua": "Вони помилися.",
+    "gapIndex": 2,
+    "gap": "sich",
+    "sourceLessonId": "perfekt-reflexive",
+    "phraseId": "course-phrase-b95ade0f6f3172a2",
+    "lesson": 54,
+    "target": "sich waschen"
+  },
+  {
+    "de": "Ich habe mir die Hände gewaschen.",
+    "ua": "Я помив / помила собі руки.",
+    "gapIndex": 2,
+    "gap": "mir",
+    "sourceLessonId": "perfekt-reflexive",
+    "phraseId": "course-phrase-8fea963e584b6783",
+    "lesson": 54,
+    "target": "sich waschen"
+  },
+  {
+    "de": "Sie hat sich mit ihrer Freundin getroffen.",
+    "ua": "Вона зустрілася зі своєю подругою.",
+    "gapIndex": 2,
+    "gap": "sich",
+    "sourceLessonId": "perfekt-reflexive",
+    "phraseId": "course-phrase-b85b517ab2f63458",
+    "lesson": 54,
+    "target": "sich treffen"
+  },
+  {
+    "de": "Ich war gestern zu Hause.",
+    "ua": "Я вчора був / була вдома.",
+    "gapIndex": 1,
+    "gap": "war",
+    "sourceLessonId": "past-sein-haben",
+    "phraseId": "course-phrase-221412972cb002d4",
+    "lesson": 54,
+    "target": "das Haus"
+  },
+  {
+    "de": "Du warst müde.",
+    "ua": "Ти був втомлений / була втомлена.",
+    "gapIndex": 1,
+    "gap": "warst",
+    "sourceLessonId": "past-sein-haben",
+    "phraseId": "course-phrase-a96cd6d2af7a62ed",
+    "lesson": 54,
+    "target": "müde"
+  },
+  {
+    "de": "Er war krank.",
+    "ua": "Він був хворий.",
+    "gapIndex": 1,
+    "gap": "war",
+    "sourceLessonId": "past-sein-haben",
+    "phraseId": "course-phrase-6899cd94816a90b2",
+    "lesson": 54,
+    "target": "krank"
+  },
+  {
+    "de": "Wir waren in Berlin.",
+    "ua": "Ми були в Берліні.",
+    "gapIndex": 1,
+    "gap": "waren",
+    "sourceLessonId": "past-sein-haben",
+    "phraseId": "course-phrase-580373c0caf6eafb",
+    "lesson": 54,
+    "target": "die Stadt"
+  },
+  {
+    "de": "Ihr wart hier.",
+    "ua": "Ви (кілька людей) були тут.",
+    "gapIndex": 1,
+    "gap": "wart",
+    "sourceLessonId": "past-sein-haben",
+    "phraseId": "course-phrase-ae18299e88609fe1",
+    "lesson": 54,
+    "target": "hier"
+  },
+  {
+    "de": "Ich hatte Zeit.",
+    "ua": "Я мав / мала час.",
+    "gapIndex": 1,
+    "gap": "hatte",
+    "sourceLessonId": "past-sein-haben",
+    "phraseId": "course-phrase-5beac93e83fab129",
+    "lesson": 54,
+    "target": "Zeit haben"
+  },
+  {
+    "de": "Du hattest Hunger.",
+    "ua": "Ти був голодний / була голодна.",
+    "gapIndex": 1,
+    "gap": "hattest",
+    "sourceLessonId": "past-sein-haben",
+    "phraseId": "course-phrase-6b8068426294d213",
+    "lesson": 54,
+    "target": "der Hunger"
+  },
+  {
+    "de": "Sie hatten Durst.",
+    "ua": "Вони хотіли пити.",
+    "gapIndex": 1,
+    "gap": "hatten",
+    "sourceLessonId": "past-sein-haben",
+    "phraseId": "course-phrase-7fb3c120ca6e8466",
+    "lesson": 54,
+    "target": "der Durst"
+  },
+  {
+    "de": "Hier spricht man Deutsch.",
+    "ua": "Тут говорять німецькою.",
+    "gapIndex": 1,
+    "gap": "spricht",
+    "sourceLessonId": "impersonal-man",
+    "phraseId": "course-phrase-2a0973819357d611",
+    "lesson": 61,
+    "target": "sprechen"
+  },
+  {
+    "de": "Man kann hier lernen.",
+    "ua": "Тут можна вчитися.",
+    "gapIndex": 1,
+    "gap": "kann",
+    "sourceLessonId": "impersonal-man",
+    "phraseId": "course-phrase-f7e20f322f2f0033",
+    "lesson": 61,
+    "target": "lernen"
+  },
+  {
+    "de": "Man muss hier warten.",
+    "ua": "Тут потрібно чекати.",
+    "gapIndex": 1,
+    "gap": "muss",
+    "sourceLessonId": "impersonal-man",
+    "phraseId": "course-phrase-a07b94374f8b21bc",
+    "lesson": 61,
+    "target": "warten"
+  },
+  {
+    "de": "Man darf hier nicht rauchen.",
+    "ua": "Тут не можна курити.",
+    "gapIndex": 1,
+    "gap": "darf",
+    "sourceLessonId": "impersonal-man",
+    "phraseId": "course-phrase-4834f410960ceb1c",
+    "lesson": 61,
+    "target": "rauchen"
+  },
+  {
+    "de": "Kann man mit Karte bezahlen?",
+    "ua": "Можна оплатити карткою?",
+    "gapIndex": 0,
+    "gap": "Kann",
+    "sourceLessonId": "impersonal-man",
+    "phraseId": "course-phrase-e15176457babf446",
+    "lesson": 61,
+    "target": "die Karte"
+  },
+  {
+    "de": "Man lernt jeden Tag.",
+    "ua": "Людина вчиться щодня.",
+    "gapIndex": 1,
+    "gap": "lernt",
+    "sourceLessonId": "impersonal-man",
+    "phraseId": "course-phrase-10a28b25828ce7d8",
+    "lesson": 61,
+    "target": "lernen"
+  },
+  {
+    "de": "Hier gibt es Wasser.",
+    "ua": "Тут є вода.",
+    "gapIndex": 1,
+    "gap": "gibt",
+    "sourceLessonId": "impersonal-man",
+    "phraseId": "course-phrase-989c9e6cdfadab99",
+    "lesson": 61,
+    "target": "das Wasser"
+  },
+  {
+    "de": "Der Mann lernt Deutsch.",
+    "ua": "Чоловік вивчає німецьку.",
+    "gapIndex": 2,
+    "gap": "lernt",
+    "sourceLessonId": "impersonal-man",
+    "phraseId": "course-phrase-2978aeee8dcda12a",
+    "lesson": 61,
+    "target": "lernen"
+  },
+  {
+    "de": "Ich lerne und du spielst.",
+    "ua": "Я вчуся, і ти граєш.",
+    "gapIndex": 2,
+    "gap": "und",
+    "sourceLessonId": "coordinate-clauses",
+    "phraseId": "course-phrase-2f0e218e09f5b8ff",
+    "lesson": 61,
+    "target": "@14"
+  },
+  {
+    "de": "Ich habe Zeit, aber ich bin müde.",
+    "ua": "Я маю час, але я втомлений / втомлена.",
+    "gapIndex": 3,
+    "gap": "aber",
+    "sourceLessonId": "coordinate-clauses",
+    "phraseId": "course-phrase-3df84800f4a9ee42",
+    "lesson": 61,
+    "target": "müde"
+  },
+  {
+    "de": "Trinkst du Tee oder Kaffee?",
+    "ua": "Ти п’єш чай чи каву?",
+    "gapIndex": 3,
+    "gap": "oder",
+    "sourceLessonId": "coordinate-clauses",
+    "phraseId": "course-phrase-ac57b868d96f15ff",
+    "lesson": 61,
+    "target": "oder"
+  },
+  {
+    "de": "Ich bleibe hier, denn ich bin müde.",
+    "ua": "Я залишаюся тут, бо я втомлений / втомлена.",
+    "gapIndex": 3,
+    "gap": "denn",
+    "sourceLessonId": "coordinate-clauses",
+    "phraseId": "course-phrase-d527a63c58bd2f70",
+    "lesson": 61,
+    "target": "müde"
+  },
+  {
+    "de": "Sie liest und schreibt.",
+    "ua": "Вона читає і пише.",
+    "gapIndex": 2,
+    "gap": "und",
+    "sourceLessonId": "coordinate-clauses",
+    "phraseId": "course-phrase-f6579d44b755240d",
+    "lesson": 61,
+    "target": "@13"
+  },
+  {
+    "de": "Wir können kommen, aber wir haben wenig Zeit.",
+    "ua": "Ми можемо прийти, але маємо мало часу.",
+    "gapIndex": 3,
+    "gap": "aber",
+    "sourceLessonId": "coordinate-clauses",
+    "phraseId": "course-phrase-3ff38419515d7af7",
+    "lesson": 61,
+    "target": "wenig"
+  },
+  {
+    "de": "Ich koche, und er kauft ein.",
+    "ua": "Я готую їжу, а він робить покупки.",
+    "gapIndex": 2,
+    "gap": "und",
+    "sourceLessonId": "coordinate-clauses",
+    "phraseId": "course-phrase-d68d15de4b5c3c3a",
+    "lesson": 61,
+    "target": "@15"
+  },
+  {
+    "de": "Wir gehen nach Hause, denn es ist spät.",
+    "ua": "Ми йдемо додому, бо вже пізно.",
+    "gapIndex": 4,
+    "gap": "denn",
+    "sourceLessonId": "coordinate-clauses",
+    "phraseId": "course-phrase-e1ef5315383fb3d0",
+    "lesson": 61,
+    "target": "spät"
+  },
+  {
+    "de": "Ich weiß, dass du hier bist.",
+    "ua": "Я знаю, що ти тут.",
+    "gapIndex": 5,
+    "gap": "bist",
+    "sourceLessonId": "subordinate-dass",
+    "phraseId": "course-phrase-2c2cd1cab4ff044a",
+    "lesson": 61,
+    "target": "wissen"
+  },
+  {
+    "de": "Er sagt, dass er Zeit hat.",
+    "ua": "Він каже, що має час.",
+    "gapIndex": 5,
+    "gap": "hat",
+    "sourceLessonId": "subordinate-dass",
+    "phraseId": "course-phrase-b3566e98d3cc2d7d",
+    "lesson": 61,
+    "target": "sagen"
+  },
+  {
+    "de": "Wir glauben, dass sie Deutsch lernt.",
+    "ua": "Ми вважаємо, що вона вивчає німецьку.",
+    "gapIndex": 5,
+    "gap": "lernt",
+    "sourceLessonId": "subordinate-dass",
+    "phraseId": "course-phrase-b127bce3ac96599c",
+    "lesson": 61,
+    "target": "glauben"
+  },
+  {
+    "de": "Ich denke, dass das gut ist.",
+    "ua": "Я думаю, що це добре.",
+    "gapIndex": 5,
+    "gap": "ist",
+    "sourceLessonId": "subordinate-dass",
+    "phraseId": "course-phrase-b5f182f7e2e66320",
+    "lesson": 61,
+    "target": "denken"
+  },
+  {
+    "de": "Sie sagt, dass sie kommen kann.",
+    "ua": "Вона каже, що може прийти.",
+    "gapIndex": 5,
+    "gap": "kann",
+    "sourceLessonId": "subordinate-dass",
+    "phraseId": "course-phrase-25861e554ba50fc9",
+    "lesson": 61,
+    "target": "sagen"
+  },
+  {
+    "de": "Ich weiß, dass du gestern gearbeitet hast.",
+    "ua": "Я знаю, що ти вчора працював / працювала.",
+    "gapIndex": 6,
+    "gap": "hast",
+    "sourceLessonId": "subordinate-dass",
+    "phraseId": "course-phrase-362fdf7865876285",
+    "lesson": 61,
+    "target": "wissen"
+  },
+  {
+    "de": "Er sagt, dass wir früh aufstehen müssen.",
+    "ua": "Він каже, що ми мусимо рано вставати.",
+    "gapIndex": 6,
+    "gap": "müssen",
+    "sourceLessonId": "subordinate-dass",
+    "phraseId": "course-phrase-24ac93cdc76f8e5b",
+    "lesson": 61,
+    "target": "aufstehen"
+  },
+  {
+    "de": "Wir wissen, dass er nach Hause gegangen ist.",
+    "ua": "Ми знаємо, що він пішов додому.",
+    "gapIndex": 7,
+    "gap": "ist",
+    "sourceLessonId": "subordinate-dass",
+    "phraseId": "course-phrase-fec8cecedb74b4b7",
+    "lesson": 61,
+    "target": "gehen"
+  },
+  {
+    "de": "Ich bleibe zu Hause, weil ich krank bin.",
+    "ua": "Я залишаюся вдома, тому що хворію.",
+    "gapIndex": 7,
+    "gap": "bin",
+    "sourceLessonId": "cause-weil-deshalb",
+    "phraseId": "course-phrase-57feccb1755642f3",
+    "lesson": 79,
+    "target": "krank"
+  },
+  {
+    "de": "Sie lernt Deutsch, weil sie in Berlin wohnt.",
+    "ua": "Вона вивчає німецьку, тому що мешкає в Берліні.",
+    "gapIndex": 7,
+    "gap": "wohnt",
+    "sourceLessonId": "cause-weil-deshalb",
+    "phraseId": "course-phrase-0c3208378a466ff6",
+    "lesson": 79,
+    "target": "lernen"
+  },
+  {
+    "de": "Wir warten, weil er noch nicht da ist.",
+    "ua": "Ми чекаємо, тому що його ще немає.",
+    "gapIndex": 7,
+    "gap": "ist",
+    "sourceLessonId": "cause-weil-deshalb",
+    "phraseId": "course-phrase-a1a07a042d531bca",
+    "lesson": 79,
+    "target": "warten"
+  },
+  {
+    "de": "Ich bin müde. Deshalb gehe ich nach Hause.",
+    "ua": "Я втомлений / втомлена. Тому я йду додому.",
+    "gapIndex": 4,
+    "gap": "gehe",
+    "sourceLessonId": "cause-weil-deshalb",
+    "phraseId": "course-phrase-3034c59df2751cb7",
+    "lesson": 79,
+    "target": "müde"
+  },
+  {
+    "de": "Es regnet. Darum bleiben wir hier.",
+    "ua": "Іде дощ. Тому ми залишаємося тут.",
+    "gapIndex": 3,
+    "gap": "bleiben",
+    "sourceLessonId": "cause-weil-deshalb",
+    "phraseId": "course-phrase-a5cc6d9087ee7786",
+    "lesson": 79,
+    "target": "regnen"
+  },
+  {
+    "de": "Weil ich Zeit habe, komme ich mit.",
+    "ua": "Оскільки я маю час, я йду з вами.",
+    "gapIndex": 4,
+    "gap": "komme",
+    "sourceLessonId": "cause-weil-deshalb",
+    "phraseId": "course-phrase-4719fd907c4c2ffc",
+    "lesson": 79,
+    "target": "mitkommen"
+  },
+  {
+    "de": "Er ist froh, weil er alles verstanden hat.",
+    "ua": "Він радий, тому що все зрозумів.",
+    "gapIndex": 7,
+    "gap": "hat",
+    "sourceLessonId": "cause-weil-deshalb",
+    "phraseId": "course-phrase-9a58fdd1efe9cf20",
+    "lesson": 79,
+    "target": "froh"
+  },
+  {
+    "de": "Wenn ich Zeit habe, komme ich.",
+    "ua": "Якщо я матиму час, я прийду.",
+    "gapIndex": 4,
+    "gap": "komme",
+    "sourceLessonId": "condition-wenn",
+    "phraseId": "course-phrase-b0686c1435e0b308",
+    "lesson": 61,
+    "target": "kommen"
+  },
+  {
+    "de": "Wir bleiben zu Hause, wenn es regnet.",
+    "ua": "Ми залишаємося вдома, коли йде дощ.",
+    "gapIndex": 6,
+    "gap": "regnet",
+    "sourceLessonId": "condition-wenn",
+    "phraseId": "course-phrase-60df1a505b7c4e1f",
+    "lesson": 61,
+    "target": "regnen"
+  },
+  {
+    "de": "Wenn du möchtest, helfe ich dir.",
+    "ua": "Якщо ти хочеш, я допоможу тобі.",
+    "gapIndex": 3,
+    "gap": "helfe",
+    "sourceLessonId": "condition-wenn",
+    "phraseId": "course-phrase-b86033f3d77d081d",
+    "lesson": 61,
+    "target": "helfen"
+  },
+  {
+    "de": "Ich freue mich, wenn du kommst.",
+    "ua": "Я радію, коли ти приходиш.",
+    "gapIndex": 5,
+    "gap": "kommst",
+    "sourceLessonId": "condition-wenn",
+    "phraseId": "course-phrase-e3e12b9e0787a546",
+    "lesson": 61,
+    "target": "sich freuen"
+  },
+  {
+    "de": "Wenn wir frei sind, spielen wir.",
+    "ua": "Коли ми вільні, ми граємо.",
+    "gapIndex": 4,
+    "gap": "spielen",
+    "sourceLessonId": "condition-wenn",
+    "phraseId": "course-phrase-561959567fa90446",
+    "lesson": 61,
+    "target": "spielen"
+  },
+  {
+    "de": "Ruf mich an, wenn du zu Hause bist!",
+    "ua": "Зателефонуй мені, коли будеш удома!",
+    "gapIndex": 7,
+    "gap": "bist",
+    "sourceLessonId": "condition-wenn",
+    "phraseId": "course-phrase-d4af48767b9e8e53",
+    "lesson": 61,
+    "target": "anrufen"
+  },
+  {
+    "de": "Wenn ich müde bin, schlafe ich.",
+    "ua": "Коли я втомлений / втомлена, я сплю.",
+    "gapIndex": 4,
+    "gap": "schlafe",
+    "sourceLessonId": "condition-wenn",
+    "phraseId": "course-phrase-2bb313debbec6b9e",
+    "lesson": 61,
+    "target": "schlafen"
+  },
+  {
+    "de": "Wir können lernen, wenn ihr Zeit habt.",
+    "ua": "Ми можемо вчитися, якщо ви (кілька людей) маєте час.",
+    "gapIndex": 6,
+    "gap": "habt",
+    "sourceLessonId": "condition-wenn",
+    "phraseId": "course-phrase-4740b86f23fb4b77",
+    "lesson": 61,
+    "target": "lernen"
+  },
+  {
+    "de": "Ich versuche, Deutsch zu lernen.",
+    "ua": "Я намагаюся вивчати німецьку.",
+    "gapIndex": 3,
+    "gap": "zu",
+    "sourceLessonId": "infinitive-zu",
+    "phraseId": "course-phrase-e5123837f52ccfaa",
+    "lesson": 61,
+    "target": "versuchen"
+  },
+  {
+    "de": "Wir beginnen, das Buch zu lesen.",
+    "ua": "Ми починаємо читати книжку.",
+    "gapIndex": 4,
+    "gap": "zu",
+    "sourceLessonId": "infinitive-zu",
+    "phraseId": "course-phrase-9d4d597fccb514e6",
+    "lesson": 61,
+    "target": "beginnen"
+  },
+  {
+    "de": "Ich habe Zeit, dir zu helfen.",
+    "ua": "Я маю час, щоб допомогти тобі.",
+    "gapIndex": 4,
+    "gap": "zu",
+    "sourceLessonId": "infinitive-zu",
+    "phraseId": "course-phrase-ff32b547c7ba84e0",
+    "lesson": 61,
+    "target": "helfen"
+  },
+  {
+    "de": "Er versucht, früh aufzustehen.",
+    "ua": "Він намагається рано вставати.",
+    "gapIndex": 3,
+    "gap": "aufzustehen",
+    "sourceLessonId": "infinitive-zu",
+    "phraseId": "course-phrase-8ed939da2636dd44",
+    "lesson": 61,
+    "target": "aufstehen"
+  },
+  {
+    "de": "Sie vergisst, mich anzurufen.",
+    "ua": "Вона забуває зателефонувати мені.",
+    "gapIndex": 3,
+    "gap": "anzurufen",
+    "sourceLessonId": "infinitive-zu",
+    "phraseId": "course-phrase-3851206f1b35ec61",
+    "lesson": 61,
+    "target": "vergessen"
+  },
+  {
+    "de": "Ich hoffe, morgen zu kommen.",
+    "ua": "Я сподіваюся прийти завтра.",
+    "gapIndex": 3,
+    "gap": "zu",
+    "sourceLessonId": "infinitive-zu",
+    "phraseId": "course-phrase-c45fdf841acb70cf",
+    "lesson": 61,
+    "target": "hoffen"
+  },
+  {
+    "de": "Es ist wichtig, Deutsch zu lernen.",
+    "ua": "Важливо вивчати німецьку.",
+    "gapIndex": 4,
+    "gap": "zu",
+    "sourceLessonId": "infinitive-zu",
+    "phraseId": "course-phrase-15ce1c59b2b66ee8",
+    "lesson": 61,
+    "target": "wichtig"
+  },
+  {
+    "de": "Ich kann Deutsch lernen.",
+    "ua": "Я можу вивчати німецьку.",
+    "gapIndex": 3,
+    "gap": "lernen",
+    "sourceLessonId": "infinitive-zu",
+    "phraseId": "phrase-can-01",
+    "lesson": 61,
+    "target": "lernen"
+  },
+  {
+    "de": "Das Buch ist interessant.",
+    "ua": "Книжка цікава.",
+    "gapIndex": 3,
+    "gap": "interessant",
+    "sourceLessonId": "adjectives-predicative",
+    "phraseId": "course-phrase-712b2665fc5428a3",
+    "lesson": 69,
+    "target": "interessant"
+  },
+  {
+    "de": "Der Film ist langweilig.",
+    "ua": "Фільм нудний.",
+    "gapIndex": 3,
+    "gap": "langweilig",
+    "sourceLessonId": "adjectives-predicative",
+    "phraseId": "course-phrase-dd877b0858e49a82",
+    "lesson": 69,
+    "target": "langweilig"
+  },
+  {
+    "de": "Heute ist es kalt.",
+    "ua": "Сьогодні холодно.",
+    "gapIndex": 3,
+    "gap": "kalt",
+    "sourceLessonId": "adjectives-predicative",
+    "phraseId": "course-phrase-9cd63683e7cdfb02",
+    "lesson": 69,
+    "target": "kalt"
+  },
+  {
+    "de": "Mir ist warm.",
+    "ua": "Мені тепло.",
+    "gapIndex": 2,
+    "gap": "warm",
+    "sourceLessonId": "adjectives-predicative",
+    "phraseId": "course-phrase-d5e2399d31956c0c",
+    "lesson": 69,
+    "target": "warm"
+  },
+  {
+    "de": "Die Tasche ist rot.",
+    "ua": "Сумка червона.",
+    "gapIndex": 3,
+    "gap": "rot",
+    "sourceLessonId": "adjectives-predicative",
+    "phraseId": "course-phrase-b4a0c9029e61b60c",
+    "lesson": 69,
+    "target": "die Tasche"
+  },
+  {
+    "de": "Das Auto ist blau.",
+    "ua": "Авто синє.",
+    "gapIndex": 3,
+    "gap": "blau",
+    "sourceLessonId": "adjectives-predicative",
+    "phraseId": "course-phrase-8d5564bf03842e24",
+    "lesson": 69,
+    "target": "das Auto"
+  },
+  {
+    "de": "Ich bin glücklich.",
+    "ua": "Я щасливий / щаслива.",
+    "gapIndex": 2,
+    "gap": "glücklich",
+    "sourceLessonId": "adjectives-predicative",
+    "phraseId": "course-phrase-2d3075e53dc0f40e",
+    "lesson": 69,
+    "target": "glücklich"
+  },
+  {
+    "de": "Warum bist du traurig?",
+    "ua": "Чому ти сумний / сумна?",
+    "gapIndex": 3,
+    "gap": "traurig",
+    "sourceLessonId": "adjectives-predicative",
+    "phraseId": "course-phrase-5080c36e3901c083",
+    "lesson": 69,
+    "target": "traurig"
+  },
+  {
+    "de": "Mein Auto ist schneller als dein Auto.",
+    "ua": "Моє авто швидше за твоє авто.",
+    "gapIndex": 3,
+    "gap": "schneller",
+    "sourceLessonId": "adjectives-comparative",
+    "phraseId": "course-phrase-56928bf96e034f6d",
+    "lesson": 79,
+    "target": "schnell"
+  },
+  {
+    "de": "Das Buch ist besser als das Buch dort.",
+    "ua": "Ця книжка краща за ту книжку там.",
+    "gapIndex": 3,
+    "gap": "besser",
+    "sourceLessonId": "adjectives-comparative",
+    "phraseId": "course-phrase-80486767d691bf57",
+    "lesson": 79,
+    "target": "besser"
+  },
+  {
+    "de": "Unser Haus ist größer als euer Haus.",
+    "ua": "Наш будинок більший за ваш будинок.",
+    "gapIndex": 3,
+    "gap": "größer",
+    "sourceLessonId": "adjectives-comparative",
+    "phraseId": "course-phrase-051573f332ffc5a6",
+    "lesson": 79,
+    "target": "größer"
+  },
+  {
+    "de": "Der Tisch ist kleiner als der Tisch dort.",
+    "ua": "Цей стіл менший за той стіл там.",
+    "gapIndex": 3,
+    "gap": "kleiner",
+    "sourceLessonId": "adjectives-comparative",
+    "phraseId": "course-phrase-9b47210788488c1c",
+    "lesson": 79,
+    "target": "kleiner"
+  },
+  {
+    "de": "Ich habe mehr Zeit als du.",
+    "ua": "Я маю більше часу, ніж ти.",
+    "gapIndex": 2,
+    "gap": "mehr",
+    "sourceLessonId": "adjectives-comparative",
+    "phraseId": "course-phrase-f882323d7c3a20d2",
+    "lesson": 79,
+    "target": "mehr"
+  },
+  {
+    "de": "Sie spricht langsamer als er.",
+    "ua": "Вона говорить повільніше за нього.",
+    "gapIndex": 2,
+    "gap": "langsamer",
+    "sourceLessonId": "adjectives-comparative",
+    "phraseId": "course-phrase-d9d7b97969229ebe",
+    "lesson": 79,
+    "target": "langsam"
+  },
+  {
+    "de": "Das Buch ist so gut wie das Buch dort.",
+    "ua": "Ця книжка така ж хороша, як та книжка там.",
+    "gapIndex": 5,
+    "gap": "wie",
+    "sourceLessonId": "adjectives-comparative",
+    "phraseId": "course-phrase-4b42a6970aa3054e",
+    "lesson": 79,
+    "target": "so … wie"
+  },
+  {
+    "de": "Heute ist es wärmer als gestern.",
+    "ua": "Сьогодні тепліше, ніж учора.",
+    "gapIndex": 3,
+    "gap": "wärmer",
+    "sourceLessonId": "adjectives-comparative",
+    "phraseId": "course-phrase-9c4055576c2882e7",
+    "lesson": 79,
+    "target": "warm"
+  },
+  {
+    "de": "Sie läuft am schnellsten.",
+    "ua": "Вона бігає найшвидше.",
+    "gapIndex": 3,
+    "gap": "schnellsten",
+    "sourceLessonId": "adjectives-superlative",
+    "phraseId": "course-phrase-3ff77d56e46901e9",
+    "lesson": 69,
+    "target": "am schnellsten"
+  },
+  {
+    "de": "Das Buch ist am besten.",
+    "ua": "Ця книжка найкраща.",
+    "gapIndex": 4,
+    "gap": "besten",
+    "sourceLessonId": "adjectives-superlative",
+    "phraseId": "course-phrase-abeee0cc82788f40",
+    "lesson": 69,
+    "target": "am besten"
+  },
+  {
+    "de": "Ich trinke lieber Tee als Kaffee.",
+    "ua": "Я охочіше п’ю чай, ніж каву.",
+    "gapIndex": 2,
+    "gap": "lieber",
+    "sourceLessonId": "adjectives-superlative",
+    "phraseId": "course-phrase-18b38363bba44ea6",
+    "lesson": 69,
+    "target": "lieber"
+  },
+  {
+    "de": "Am liebsten trinke ich Wasser.",
+    "ua": "Найбільше я люблю пити воду.",
+    "gapIndex": 1,
+    "gap": "liebsten",
+    "sourceLessonId": "adjectives-superlative",
+    "phraseId": "course-phrase-046a561a11d69378",
+    "lesson": 69,
+    "target": "am liebsten"
+  },
+  {
+    "de": "Er hat am meisten Zeit.",
+    "ua": "Він має найбільше часу.",
+    "gapIndex": 3,
+    "gap": "meisten",
+    "sourceLessonId": "adjectives-superlative",
+    "phraseId": "course-phrase-d5dad9257724f390",
+    "lesson": 69,
+    "target": "am meisten"
+  },
+  {
+    "de": "Unser Haus ist am kleinsten.",
+    "ua": "Наш будинок найменший.",
+    "gapIndex": 4,
+    "gap": "kleinsten",
+    "sourceLessonId": "adjectives-superlative",
+    "phraseId": "course-phrase-e11db60afb74115a",
+    "lesson": 69,
+    "target": "klein"
+  },
+  {
+    "de": "Hier lerne ich am besten.",
+    "ua": "Тут я вчуся найкраще.",
+    "gapIndex": 4,
+    "gap": "besten",
+    "sourceLessonId": "adjectives-superlative",
+    "phraseId": "course-phrase-57d31c1a33940dbe",
+    "lesson": 69,
+    "target": "lernen"
+  },
+  {
+    "de": "Wir spielen am liebsten zusammen.",
+    "ua": "Найбільше ми любимо грати разом.",
+    "gapIndex": 3,
+    "gap": "liebsten",
+    "sourceLessonId": "adjectives-superlative",
+    "phraseId": "course-phrase-7e418bf943e5bbc1",
+    "lesson": 69,
+    "target": "zusammen"
+  },
+  {
+    "de": "Der gute Mann ist hier.",
+    "ua": "Добрий чоловік тут (означений артикль).",
+    "gapIndex": 1,
+    "gap": "gute",
+    "sourceLessonId": "adjective-definite-na",
+    "phraseId": "course-phrase-db79264b6e54a00e",
+    "lesson": 69,
+    "target": "der Mann"
+  },
+  {
+    "de": "Die kleine Katze spielt.",
+    "ua": "Маленька кішка грає (означений артикль).",
+    "gapIndex": 1,
+    "gap": "kleine",
+    "sourceLessonId": "adjective-definite-na",
+    "phraseId": "course-phrase-7807810dd451c506",
+    "lesson": 69,
+    "target": "eine kleine Katze"
+  },
+  {
+    "de": "Das neue Buch ist hier.",
+    "ua": "Нова книжка тут (означений артикль).",
+    "gapIndex": 1,
+    "gap": "neue",
+    "sourceLessonId": "adjective-definite-na",
+    "phraseId": "course-phrase-b317f4d293f9e24a",
+    "lesson": 69,
+    "target": "ein neues Buch"
+  },
+  {
+    "de": "Ich sehe den großen Hund.",
+    "ua": "Я бачу великого собаку (означений артикль).",
+    "gapIndex": 3,
+    "gap": "großen",
+    "sourceLessonId": "adjective-definite-na",
+    "phraseId": "course-phrase-d45b68fcf2f18534",
+    "lesson": 69,
+    "target": "der Hund"
+  },
+  {
+    "de": "Er liest die interessante Geschichte.",
+    "ua": "Він читає цікаву історію (означений артикль).",
+    "gapIndex": 3,
+    "gap": "interessante",
+    "sourceLessonId": "adjective-definite-na",
+    "phraseId": "course-phrase-0ca6cee83b428ac9",
+    "lesson": 69,
+    "target": "die Geschichte"
+  },
+  {
+    "de": "Wir sehen das kleine Kind.",
+    "ua": "Ми бачимо маленьку дитину (означений артикль).",
+    "gapIndex": 3,
+    "gap": "kleine",
+    "sourceLessonId": "adjective-definite-na",
+    "phraseId": "course-phrase-74cf32035fffaec5",
+    "lesson": 69,
+    "target": "das Kind"
+  },
+  {
+    "de": "Die alten Bücher sind dort.",
+    "ua": "Старі книжки там (означений артикль).",
+    "gapIndex": 1,
+    "gap": "alten",
+    "sourceLessonId": "adjective-definite-na",
+    "phraseId": "course-phrase-c41289deee099b6e",
+    "lesson": 69,
+    "target": "die Bücher"
+  },
+  {
+    "de": "Ich kenne die guten Freunde.",
+    "ua": "Я знаю добрих друзів (означений артикль).",
+    "gapIndex": 3,
+    "gap": "guten",
+    "sourceLessonId": "adjective-definite-na",
+    "phraseId": "course-phrase-92143b975af2c52d",
+    "lesson": 69,
+    "target": "der Freund"
+  },
+  {
+    "de": "Ein guter Freund kommt.",
+    "ua": "Приходить добрий друг (неозначений артикль).",
+    "gapIndex": 1,
+    "gap": "guter",
+    "sourceLessonId": "adjective-indefinite-na",
+    "phraseId": "course-phrase-8095f1e1dd4e92dc",
+    "lesson": 69,
+    "target": "ein guter Freund"
+  },
+  {
+    "de": "Eine kleine Katze spielt.",
+    "ua": "Маленька кішка грає (неозначений артикль).",
+    "gapIndex": 1,
+    "gap": "kleine",
+    "sourceLessonId": "adjective-indefinite-na",
+    "phraseId": "course-phrase-8ed42a038cf86f27",
+    "lesson": 69,
+    "target": "eine kleine Katze"
+  },
+  {
+    "de": "Das ist ein neues Buch.",
+    "ua": "Це нова книжка (неозначений артикль).",
+    "gapIndex": 3,
+    "gap": "neues",
+    "sourceLessonId": "adjective-indefinite-na",
+    "phraseId": "course-phrase-04a61c33d696d5eb",
+    "lesson": 69,
+    "target": "ein neues Buch"
+  },
+  {
+    "de": "Ich sehe einen großen Hund.",
+    "ua": "Я бачу великого собаку (неозначений артикль).",
+    "gapIndex": 3,
+    "gap": "großen",
+    "sourceLessonId": "adjective-indefinite-na",
+    "phraseId": "course-phrase-88af98c254779cd0",
+    "lesson": 69,
+    "target": "der Hund"
+  },
+  {
+    "de": "Das ist mein alter Tisch.",
+    "ua": "Це мій старий стіл.",
+    "gapIndex": 3,
+    "gap": "alter",
+    "sourceLessonId": "adjective-indefinite-na",
+    "phraseId": "course-phrase-1af25608add94d9d",
+    "lesson": 69,
+    "target": "der Tisch"
+  },
+  {
+    "de": "Ich lese meine neue Geschichte.",
+    "ua": "Я читаю свою нову історію.",
+    "gapIndex": 3,
+    "gap": "neue",
+    "sourceLessonId": "adjective-indefinite-na",
+    "phraseId": "course-phrase-b3541222352e6150",
+    "lesson": 69,
+    "target": "die Geschichte"
+  },
+  {
+    "de": "Wir haben kein kleines Auto.",
+    "ua": "У нас немає маленького авто.",
+    "gapIndex": 3,
+    "gap": "kleines",
+    "sourceLessonId": "adjective-indefinite-na",
+    "phraseId": "course-phrase-d7b175c9d8bb3a0f",
+    "lesson": 69,
+    "target": "das Auto"
+  },
+  {
+    "de": "Er sieht seinen guten Freund.",
+    "ua": "Він бачить свого доброго друга.",
+    "gapIndex": 3,
+    "gap": "guten",
+    "sourceLessonId": "adjective-indefinite-na",
+    "phraseId": "course-phrase-ed192eec7a592a7d",
+    "lesson": 69,
+    "target": "der Freund"
+  },
+  {
+    "de": "Ich spreche mit dem guten Freund.",
+    "ua": "Я говорю з добрим другом (означений артикль).",
+    "gapIndex": 4,
+    "gap": "guten",
+    "sourceLessonId": "adjective-dative",
+    "phraseId": "course-phrase-d2d10723f91ceecb",
+    "lesson": 69,
+    "target": "mit einem guten Freund"
+  },
+  {
+    "de": "Sie hilft einem kleinen Kind.",
+    "ua": "Вона допомагає маленькій дитині.",
+    "gapIndex": 3,
+    "gap": "kleinen",
+    "sourceLessonId": "adjective-dative",
+    "phraseId": "course-phrase-e0d3d0f0b6fea758",
+    "lesson": 69,
+    "target": "helfen"
+  },
+  {
+    "de": "Wir kommen mit einer neuen Tasche.",
+    "ua": "Ми приходимо з новою сумкою.",
+    "gapIndex": 4,
+    "gap": "neuen",
+    "sourceLessonId": "adjective-dative",
+    "phraseId": "course-phrase-ab753e7ee87b1610",
+    "lesson": 69,
+    "target": "die Tasche"
+  },
+  {
+    "de": "Er antwortet der freundlichen Frau.",
+    "ua": "Він відповідає привітній жінці.",
+    "gapIndex": 3,
+    "gap": "freundlichen",
+    "sourceLessonId": "adjective-dative",
+    "phraseId": "course-phrase-6aed90a6f6107025",
+    "lesson": 69,
+    "target": "antworten"
+  },
+  {
+    "de": "Ich spiele mit meinem kleinen Bruder.",
+    "ua": "Я граю зі своїм маленьким братом.",
+    "gapIndex": 4,
+    "gap": "kleinen",
+    "sourceLessonId": "adjective-dative",
+    "phraseId": "course-phrase-1b3432dd9b86ec74",
+    "lesson": 69,
+    "target": "spielen"
+  },
+  {
+    "de": "Wir sprechen mit den guten Freunden.",
+    "ua": "Ми говоримо з добрими друзями.",
+    "gapIndex": 4,
+    "gap": "guten",
+    "sourceLessonId": "adjective-dative",
+    "phraseId": "course-phrase-f4e95051c0b1227b",
+    "lesson": 69,
+    "target": "mit einem guten Freund"
+  },
+  {
+    "de": "Das Bild ist von einem alten Freund.",
+    "ua": "Ця картина від давнього друга.",
+    "gapIndex": 5,
+    "gap": "alten",
+    "sourceLessonId": "adjective-dative",
+    "phraseId": "course-phrase-014baf9fc15154f4",
+    "lesson": 69,
+    "target": "das Bild"
+  },
+  {
+    "de": "Ich bin bei meiner alten Schule.",
+    "ua": "Я біля своєї старої школи.",
+    "gapIndex": 4,
+    "gap": "alten",
+    "sourceLessonId": "adjective-dative",
+    "phraseId": "course-phrase-f8bd2c74e311ba18",
+    "lesson": 69,
+    "target": "bei meiner alten Schule"
+  },
+  {
+    "de": "Ich trinke kaltes Wasser.",
+    "ua": "Я п’ю холодну воду.",
+    "gapIndex": 2,
+    "gap": "kaltes",
+    "sourceLessonId": "adjective-no-article",
+    "phraseId": "course-phrase-4416a52e64a83e85",
+    "lesson": 69,
+    "target": "das Wasser"
+  },
+  {
+    "de": "Wir essen frisches Brot.",
+    "ua": "Ми їмо свіжий хліб.",
+    "gapIndex": 2,
+    "gap": "frisches",
+    "sourceLessonId": "adjective-no-article",
+    "phraseId": "course-phrase-4e9ce821d70a8821",
+    "lesson": 69,
+    "target": "das Brot"
+  },
+  {
+    "de": "Ich mag grünen Tee.",
+    "ua": "Я люблю зелений чай.",
+    "gapIndex": 2,
+    "gap": "grünen",
+    "sourceLessonId": "adjective-no-article",
+    "phraseId": "course-phrase-e5e886306ca07497",
+    "lesson": 69,
+    "target": "der Tee"
+  },
+  {
+    "de": "Hier gibt es guten Kaffee.",
+    "ua": "Тут є добра кава.",
+    "gapIndex": 3,
+    "gap": "guten",
+    "sourceLessonId": "adjective-no-article",
+    "phraseId": "course-phrase-e711a44b895e573e",
+    "lesson": 69,
+    "target": "der Kaffee"
+  },
+  {
+    "de": "Gute Bücher sind interessant.",
+    "ua": "Хороші книжки цікаві.",
+    "gapIndex": 0,
+    "gap": "Gute",
+    "sourceLessonId": "adjective-no-article",
+    "phraseId": "course-phrase-a18b2512b36caa74",
+    "lesson": 69,
+    "target": "die Bücher"
+  },
+  {
+    "de": "Wir lesen neue Geschichten.",
+    "ua": "Ми читаємо нові історії.",
+    "gapIndex": 2,
+    "gap": "neue",
+    "sourceLessonId": "adjective-no-article",
+    "phraseId": "course-phrase-e06be0cf951bfaaf",
+    "lesson": 69,
+    "target": "die Geschichte"
+  },
+  {
+    "de": "Ich spreche mit guten Freunden.",
+    "ua": "Я говорю з добрими друзями.",
+    "gapIndex": 3,
+    "gap": "guten",
+    "sourceLessonId": "adjective-no-article",
+    "phraseId": "course-phrase-d1b3e511eb84a331",
+    "lesson": 69,
+    "target": "mit einem guten Freund"
+  },
+  {
+    "de": "Warme Milch ist hier.",
+    "ua": "Тепле молоко тут.",
+    "gapIndex": 0,
+    "gap": "Warme",
+    "sourceLessonId": "adjective-no-article",
+    "phraseId": "course-phrase-da67d5b022eb86c6",
+    "lesson": 69,
+    "target": "die Milch"
+  },
+  {
+    "de": "Mein Vorname ist Mia.",
+    "ua": "Моє ім’я — Міа.",
+    "gapIndex": 1,
+    "gap": "Vorname",
+    "sourceLessonId": "personal-details",
+    "phraseId": "course-phrase-33d7c65735b8c5eb",
+    "lesson": 79,
+    "target": "der Vorname"
+  },
+  {
+    "de": "Mein Nachname ist Weber.",
+    "ua": "Моє прізвище — Вебер.",
+    "gapIndex": 1,
+    "gap": "Nachname",
+    "sourceLessonId": "personal-details",
+    "phraseId": "course-phrase-506e0ecc3bf40a80",
+    "lesson": 79,
+    "target": "der Nachname"
+  },
+  {
+    "de": "Ich wohne in der Schulstraße.",
+    "ua": "Я мешкаю на Шкільній вулиці.",
+    "gapIndex": 4,
+    "gap": "Schulstraße",
+    "sourceLessonId": "personal-details",
+    "phraseId": "course-phrase-5fd1d0c73df98161",
+    "lesson": 79,
+    "target": "die Adresse"
+  },
+  {
+    "de": "Meine Hausnummer ist zwölf.",
+    "ua": "Номер мого будинку — дванадцять.",
+    "gapIndex": 3,
+    "gap": "zwölf",
+    "sourceLessonId": "personal-details",
+    "phraseId": "course-phrase-2014929438edb929",
+    "lesson": 79,
+    "target": "die Hausnummer"
+  },
+  {
+    "de": "Wie ist Ihre Adresse?",
+    "ua": "Яка Ваша адреса (ввічливо)?",
+    "gapIndex": 3,
+    "gap": "Adresse",
+    "sourceLessonId": "personal-details",
+    "phraseId": "course-phrase-86db0402a7bda48a",
+    "lesson": 79,
+    "target": "die Adresse"
+  },
+  {
+    "de": "Buchstabieren Sie bitte Ihren Namen!",
+    "ua": "Назвіть, будь ласка, своє ім’я по літерах!",
+    "gapIndex": 0,
+    "gap": "Buchstabieren",
+    "sourceLessonId": "personal-details",
+    "phraseId": "course-phrase-32277e46d0acf2f3",
+    "lesson": 79,
+    "target": "buchstabieren"
+  },
+  {
+    "de": "Bitte schreiben Sie Ihre Telefonnummer!",
+    "ua": "Напишіть, будь ласка, свій номер телефону!",
+    "gapIndex": 4,
+    "gap": "Telefonnummer",
+    "sourceLessonId": "personal-details",
+    "phraseId": "course-phrase-07beb922a491d006",
+    "lesson": 79,
+    "target": "die Telefonnummer"
+  },
+  {
+    "de": "Ich möchte das Formular ausfüllen.",
+    "ua": "Я хотів би / хотіла б заповнити формуляр.",
+    "gapIndex": 4,
+    "gap": "ausfüllen",
+    "sourceLessonId": "personal-details",
+    "phraseId": "course-phrase-df0829ed82a4d64d",
+    "lesson": 79,
+    "target": "ausfüllen"
+  },
+  {
+    "de": "Ich suche eine Jacke.",
+    "ua": "Я шукаю куртку.",
+    "gapIndex": 3,
+    "gap": "Jacke",
+    "sourceLessonId": "shopping-clothes",
+    "phraseId": "course-phrase-4ed132726a7d8b3c",
+    "lesson": 71,
+    "target": "die Jacke"
+  },
+  {
+    "de": "Haben Sie das Hemd in Größe vierzig?",
+    "ua": "У Вас є ця сорочка сорокового розміру?",
+    "gapIndex": 6,
+    "gap": "vierzig",
+    "sourceLessonId": "shopping-clothes",
+    "phraseId": "course-phrase-e28c04faffc9f70c",
+    "lesson": 71,
+    "target": "das Hemd"
+  },
+  {
+    "de": "Kann ich die Hose anprobieren?",
+    "ua": "Можна приміряти штани?",
+    "gapIndex": 4,
+    "gap": "anprobieren",
+    "sourceLessonId": "shopping-clothes",
+    "phraseId": "course-phrase-b8052d80d35b3b23",
+    "lesson": 71,
+    "target": "anprobieren"
+  },
+  {
+    "de": "Die Jacke ist zu groß.",
+    "ua": "Куртка завелика.",
+    "gapIndex": 4,
+    "gap": "groß",
+    "sourceLessonId": "shopping-clothes",
+    "phraseId": "course-phrase-ae81972e5893445e",
+    "lesson": 71,
+    "target": "die Größe"
+  },
+  {
+    "de": "Ich möchte eine kleinere Größe.",
+    "ua": "Я хотів би / хотіла б менший розмір.",
+    "gapIndex": 3,
+    "gap": "kleinere",
+    "sourceLessonId": "shopping-clothes",
+    "phraseId": "course-phrase-69725d969e434edd",
+    "lesson": 71,
+    "target": "die Größe"
+  },
+  {
+    "de": "Das ist zu teuer.",
+    "ua": "Це задорого.",
+    "gapIndex": 3,
+    "gap": "teuer",
+    "sourceLessonId": "shopping-clothes",
+    "phraseId": "course-phrase-22d60e92b5e20a2d",
+    "lesson": 71,
+    "target": "teuer"
+  },
+  {
+    "de": "Kann ich mit Karte bezahlen?",
+    "ua": "Можна оплатити карткою?",
+    "gapIndex": 4,
+    "gap": "bezahlen",
+    "sourceLessonId": "shopping-clothes",
+    "phraseId": "course-phrase-cdcae4e6cdb86d53",
+    "lesson": 71,
+    "target": "die Karte"
+  },
+  {
+    "de": "Ich nehme die blaue Jacke.",
+    "ua": "Я візьму синю куртку.",
+    "gapIndex": 3,
+    "gap": "blaue",
+    "sourceLessonId": "shopping-clothes",
+    "phraseId": "course-phrase-76aac90c93ca7b04",
+    "lesson": 71,
+    "target": "die Jacke"
+  },
+  {
+    "de": "Ich habe Kopfschmerzen.",
+    "ua": "У мене болить голова.",
+    "gapIndex": 2,
+    "gap": "Kopfschmerzen",
+    "sourceLessonId": "health-help",
+    "phraseId": "course-phrase-42754c69625ddb31",
+    "lesson": 79,
+    "target": "die Kopfschmerzen"
+  },
+  {
+    "de": "Mein Hals tut weh.",
+    "ua": "У мене болить горло.",
+    "gapIndex": 3,
+    "gap": "weh",
+    "sourceLessonId": "health-help",
+    "phraseId": "course-phrase-b1f9fd5fc8d6877b",
+    "lesson": 79,
+    "target": "wehtun"
+  },
+  {
+    "de": "Ich fühle mich nicht gut.",
+    "ua": "Я недобре почуваюся.",
+    "gapIndex": 2,
+    "gap": "mich",
+    "sourceLessonId": "health-help",
+    "phraseId": "course-phrase-7af42d3ecc77ceca",
+    "lesson": 79,
+    "target": "krank"
+  },
+  {
+    "de": "Ich habe Fieber.",
+    "ua": "У мене підвищена температура.",
+    "gapIndex": 2,
+    "gap": "Fieber",
+    "sourceLessonId": "health-help",
+    "phraseId": "course-phrase-ed09dbbae23d3bd5",
+    "lesson": 79,
+    "target": "das Fieber"
+  },
+  {
+    "de": "Ich brauche einen Termin.",
+    "ua": "Мені потрібен запис на прийом.",
+    "gapIndex": 3,
+    "gap": "Termin",
+    "sourceLessonId": "health-help",
+    "phraseId": "course-phrase-e877548b9058244e",
+    "lesson": 79,
+    "target": "TerminMedical"
+  },
+  {
+    "de": "Wann kann ich zum Arzt kommen?",
+    "ua": "Коли я можу прийти до лікаря?",
+    "gapIndex": 5,
+    "gap": "kommen",
+    "sourceLessonId": "health-help",
+    "phraseId": "course-phrase-5a6b640be526047b",
+    "lesson": 79,
+    "target": "der Arzt"
+  },
+  {
+    "de": "Ich war gestern beim Arzt.",
+    "ua": "Я вчора був / була в лікаря.",
+    "gapIndex": 3,
+    "gap": "beim",
+    "sourceLessonId": "health-help",
+    "phraseId": "course-phrase-3e4382e363a555c5",
+    "lesson": 79,
+    "target": "der Arzt"
+  },
+  {
+    "de": "Können Sie bitte langsam sprechen?",
+    "ua": "Можете, будь ласка, говорити повільно (ввічливо)?",
+    "gapIndex": 4,
+    "gap": "sprechen",
+    "sourceLessonId": "health-help",
+    "phraseId": "course-phrase-62aa252fe5db2fdb",
+    "lesson": 79,
+    "target": "langsam"
+  },
+  {
+    "de": "Unsere Wohnung hat drei Zimmer.",
+    "ua": "Наша квартира має три кімнати.",
+    "gapIndex": 4,
+    "gap": "Zimmer",
+    "sourceLessonId": "housing-household",
+    "phraseId": "course-phrase-4ff985bf76a04384",
+    "lesson": 73,
+    "target": "die Wohnung"
+  },
+  {
+    "de": "Die Küche ist neben dem Bad.",
+    "ua": "Кухня поруч із ванною кімнатою.",
+    "gapIndex": 5,
+    "gap": "Bad",
+    "sourceLessonId": "housing-household",
+    "phraseId": "course-phrase-18b1d00562bcb8a1",
+    "lesson": 73,
+    "target": "@9"
+  },
+  {
+    "de": "Die Heizung funktioniert nicht.",
+    "ua": "Опалення не працює.",
+    "gapIndex": 2,
+    "gap": "funktioniert",
+    "sourceLessonId": "housing-household",
+    "phraseId": "course-phrase-d55b2c172870a373",
+    "lesson": 73,
+    "target": "@12"
+  },
+  {
+    "de": "Das Fenster ist kaputt.",
+    "ua": "Вікно несправне.",
+    "gapIndex": 3,
+    "gap": "kaputt",
+    "sourceLessonId": "housing-household",
+    "phraseId": "course-phrase-63cb5884553e0a45",
+    "lesson": 73,
+    "target": "@11"
+  },
+  {
+    "de": "Können Sie das bitte reparieren?",
+    "ua": "Можете це, будь ласка, відремонтувати (ввічливо)?",
+    "gapIndex": 4,
+    "gap": "reparieren",
+    "sourceLessonId": "housing-household",
+    "phraseId": "course-phrase-aca876ecc8fbf64c",
+    "lesson": 73,
+    "target": "reparieren"
+  },
+  {
+    "de": "Ich muss mein Zimmer aufräumen.",
+    "ua": "Я мушу прибрати свою кімнату.",
+    "gapIndex": 4,
+    "gap": "aufräumen",
+    "sourceLessonId": "housing-household",
+    "phraseId": "course-phrase-1fd66cdfce95e039",
+    "lesson": 73,
+    "target": "aufräumen"
+  },
+  {
+    "de": "Wir haben die Küche geputzt.",
+    "ua": "Ми прибрали кухню.",
+    "gapIndex": 4,
+    "gap": "geputzt",
+    "sourceLessonId": "housing-household",
+    "phraseId": "course-phrase-208093b52504bc68",
+    "lesson": 73,
+    "target": "putzen"
+  },
+  {
+    "de": "Der Tisch steht vor dem Fenster.",
+    "ua": "Стіл стоїть перед вікном.",
+    "gapIndex": 5,
+    "gap": "Fenster",
+    "sourceLessonId": "housing-household",
+    "phraseId": "course-phrase-1d9281f6b5578e8c",
+    "lesson": 73,
+    "target": "@10"
+  },
+  {
+    "de": "Der Unterricht fängt um neun Uhr an.",
+    "ua": "Заняття починається о дев’ятій годині.",
+    "gapIndex": 6,
+    "gap": "an",
+    "sourceLessonId": "school-work",
+    "phraseId": "course-phrase-2c8340b98d16ca58",
+    "lesson": 74,
+    "target": "der Unterricht"
+  },
+  {
+    "de": "Meine Arbeit beginnt um acht Uhr.",
+    "ua": "Моя робота починається о восьмій годині.",
+    "gapIndex": 4,
+    "gap": "acht",
+    "sourceLessonId": "school-work",
+    "phraseId": "course-phrase-e3adeb94f56833f5",
+    "lesson": 74,
+    "target": "die Arbeit"
+  },
+  {
+    "de": "Ich habe eine Frage.",
+    "ua": "У мене є запитання.",
+    "gapIndex": 3,
+    "gap": "Frage",
+    "sourceLessonId": "school-work",
+    "phraseId": "course-phrase-5730f53f9ca38b80",
+    "lesson": 74,
+    "target": "die Frage"
+  },
+  {
+    "de": "Ich verstehe die Aufgabe nicht.",
+    "ua": "Я не розумію завдання.",
+    "gapIndex": 4,
+    "gap": "nicht",
+    "sourceLessonId": "school-work",
+    "phraseId": "course-phrase-dd6a46f176bbe070",
+    "lesson": 74,
+    "target": "verstehen"
+  },
+  {
+    "de": "Kannst du das bitte erklären?",
+    "ua": "Можеш це, будь ласка, пояснити?",
+    "gapIndex": 4,
+    "gap": "erklären",
+    "sourceLessonId": "school-work",
+    "phraseId": "course-phrase-4b8ef1d01598db37",
+    "lesson": 74,
+    "target": "erklären"
+  },
+  {
+    "de": "Wann haben wir Pause?",
+    "ua": "Коли в нас перерва?",
+    "gapIndex": 3,
+    "gap": "Pause",
+    "sourceLessonId": "school-work",
+    "phraseId": "course-phrase-31c5438bad7a036c",
+    "lesson": 74,
+    "target": "die Pause"
+  },
+  {
+    "de": "Ich habe meine Hausaufgaben gemacht.",
+    "ua": "Я зробив / зробила своє домашнє завдання.",
+    "gapIndex": 4,
+    "gap": "gemacht",
+    "sourceLessonId": "school-work",
+    "phraseId": "course-phrase-ba16f190733c9674",
+    "lesson": 74,
+    "target": "die Hausaufgaben"
+  },
+  {
+    "de": "Wir müssen morgen früh anfangen.",
+    "ua": "Ми мусимо завтра рано почати.",
+    "gapIndex": 4,
+    "gap": "anfangen",
+    "sourceLessonId": "school-work",
+    "phraseId": "course-phrase-3b631505dc8223cc",
+    "lesson": 74,
+    "target": "anfangen"
+  },
+  {
+    "de": "Ich möchte eine Fahrkarte nach Berlin.",
+    "ua": "Я хотів би / хотіла б квиток до Берліна.",
+    "gapIndex": 3,
+    "gap": "Fahrkarte",
+    "sourceLessonId": "travel-accommodation",
+    "phraseId": "course-phrase-088bc649dceac163",
+    "lesson": 79,
+    "target": "die Fahrkarte"
+  },
+  {
+    "de": "Wann fährt der Zug ab?",
+    "ua": "Коли відправляється поїзд?",
+    "gapIndex": 4,
+    "gap": "ab",
+    "sourceLessonId": "travel-accommodation",
+    "phraseId": "course-phrase-4fee8b9e01818ddd",
+    "lesson": 79,
+    "target": "abfahren"
+  },
+  {
+    "de": "Der Zug fährt von Gleis drei ab.",
+    "ua": "Поїзд відправляється з третьої колії.",
+    "gapIndex": 5,
+    "gap": "drei",
+    "sourceLessonId": "travel-accommodation",
+    "phraseId": "course-phrase-5b4ad21a4ed30d1a",
+    "lesson": 79,
+    "target": "das Gleis"
+  },
+  {
+    "de": "Ich fahre mit dem Zug.",
+    "ua": "Я їду поїздом.",
+    "gapIndex": 4,
+    "gap": "Zug",
+    "sourceLessonId": "travel-accommodation",
+    "phraseId": "course-phrase-4ab9290995ed7d34",
+    "lesson": 79,
+    "target": "der Zug"
+  },
+  {
+    "de": "Ich habe ein Zimmer gebucht.",
+    "ua": "Я забронював / забронювала кімнату.",
+    "gapIndex": 4,
+    "gap": "gebucht",
+    "sourceLessonId": "travel-accommodation",
+    "phraseId": "course-phrase-f28b4b8a02a62ef3",
+    "lesson": 79,
+    "target": "buchen"
+  },
+  {
+    "de": "Wir bleiben zwei Nächte.",
+    "ua": "Ми залишаємося на дві ночі.",
+    "gapIndex": 3,
+    "gap": "Nächte",
+    "sourceLessonId": "travel-accommodation",
+    "phraseId": "course-phrase-60a876dbfcf8731d",
+    "lesson": 79,
+    "target": "die Nacht"
+  },
+  {
+    "de": "Haben Sie ein freies Zimmer?",
+    "ua": "У Вас є вільна кімната (ввічливо)?",
+    "gapIndex": 3,
+    "gap": "freies",
+    "sourceLessonId": "travel-accommodation",
+    "phraseId": "course-phrase-8c75fd8b47412a07",
+    "lesson": 79,
+    "target": "das Hotel"
+  },
+  {
+    "de": "Können Sie uns bitte helfen?",
+    "ua": "Можете нам, будь ласка, допомогти (ввічливо)?",
+    "gapIndex": 4,
+    "gap": "helfen",
+    "sourceLessonId": "travel-accommodation",
+    "phraseId": "course-phrase-0f2d0f22e9596c22",
+    "lesson": 79,
+    "target": "helfen"
+  },
+  {
+    "de": "Hallo Mia!",
+    "ua": "Привіт, Міа!",
+    "gapIndex": 0,
+    "gap": "Hallo",
+    "sourceLessonId": "short-messages",
+    "phraseId": "course-phrase-d67a2e181af2f85d",
+    "lesson": 79,
+    "target": "Hallo!"
+  },
+  {
+    "de": "Ich möchte dich einladen.",
+    "ua": "Я хотів би / хотіла б запросити тебе.",
+    "gapIndex": 3,
+    "gap": "einladen",
+    "sourceLessonId": "short-messages",
+    "phraseId": "course-phrase-f7a5261eaa7a606c",
+    "lesson": 79,
+    "target": "einladen"
+  },
+  {
+    "de": "Hast du morgen Zeit?",
+    "ua": "У тебе є час завтра?",
+    "gapIndex": 3,
+    "gap": "Zeit",
+    "sourceLessonId": "short-messages",
+    "phraseId": "course-phrase-4fba46f487b5a9c2",
+    "lesson": 79,
+    "target": "Zeit haben"
+  },
+  {
+    "de": "Wir treffen uns um acht Uhr im Park.",
+    "ua": "Ми зустрінемося о восьмій годині в парку.",
+    "gapIndex": 6,
+    "gap": "im",
+    "sourceLessonId": "short-messages",
+    "phraseId": "course-phrase-4822b4fc69d6b43d",
+    "lesson": 79,
+    "target": "sich treffen"
+  },
+  {
+    "de": "Danke für deine Nachricht.",
+    "ua": "Дякую за твоє повідомлення.",
+    "gapIndex": 3,
+    "gap": "Nachricht",
+    "sourceLessonId": "short-messages",
+    "phraseId": "course-phrase-031b5c0cc4328369",
+    "lesson": 79,
+    "target": "die Nachricht"
+  },
+  {
+    "de": "Leider kann ich morgen nicht kommen.",
+    "ua": "На жаль, завтра я не можу прийти.",
+    "gapIndex": 4,
+    "gap": "nicht",
+    "sourceLessonId": "short-messages",
+    "phraseId": "course-phrase-5303ece6a5aeb822",
+    "lesson": 79,
+    "target": "kommen"
+  },
+  {
+    "de": "Können wir den Termin verschieben?",
+    "ua": "Ми можемо перенести зустріч?",
+    "gapIndex": 4,
+    "gap": "verschieben",
+    "sourceLessonId": "short-messages",
+    "phraseId": "course-phrase-283d9cca0fa8d99c",
+    "lesson": 79,
+    "target": "verschieben"
+  },
+  {
+    "de": "Morgen lerne ich Deutsch.",
+    "ua": "Завтра я вивчатиму німецьку (теперішня форма).",
+    "gapIndex": 1,
+    "gap": "lerne",
+    "sourceLessonId": "future-plans",
+    "phraseId": "course-phrase-e07e8089e0bce700",
+    "lesson": 79,
+    "target": "lernen"
+  },
+  {
+    "de": "Ich werde morgen Deutsch lernen.",
+    "ua": "Я завтра вивчатиму німецьку (Futur I).",
+    "gapIndex": 1,
+    "gap": "werde",
+    "sourceLessonId": "future-plans",
+    "phraseId": "course-phrase-f9107de2bbcf5d2c",
+    "lesson": 79,
+    "target": "lernen"
+  },
+  {
+    "de": "Du wirst nach Berlin fahren.",
+    "ua": "Ти поїдеш до Берліна (Futur I).",
+    "gapIndex": 1,
+    "gap": "wirst",
+    "sourceLessonId": "future-plans",
+    "phraseId": "course-phrase-b6aaf70b67c41f65",
+    "lesson": 79,
+    "target": "fahren"
+  },
+  {
+    "de": "Er wird uns helfen.",
+    "ua": "Він допоможе нам (Futur I).",
+    "gapIndex": 1,
+    "gap": "wird",
+    "sourceLessonId": "future-plans",
+    "phraseId": "course-phrase-8eda4406471e42bd",
+    "lesson": 79,
+    "target": "helfen"
+  },
+  {
+    "de": "Wir werden nächste Woche reisen.",
+    "ua": "Ми подорожуватимемо наступного тижня (Futur I).",
+    "gapIndex": 1,
+    "gap": "werden",
+    "sourceLessonId": "future-plans",
+    "phraseId": "course-phrase-d787a85660964cd9",
+    "lesson": 79,
+    "target": "reisen"
+  },
+  {
+    "de": "Ihr werdet hier wohnen.",
+    "ua": "Ви (кілька людей) мешкатимете тут (Futur I).",
+    "gapIndex": 1,
+    "gap": "werdet",
+    "sourceLessonId": "future-plans",
+    "phraseId": "course-phrase-523df7b6dec5f41f",
+    "lesson": 79,
+    "target": "wohnen"
+  },
+  {
+    "de": "Sie werden morgen kommen.",
+    "ua": "Вони прийдуть завтра (Futur I).",
+    "gapIndex": 1,
+    "gap": "werden",
+    "sourceLessonId": "future-plans",
+    "phraseId": "course-phrase-68f7259321d50cb5",
+    "lesson": 79,
+    "target": "kommen"
+  },
+  {
+    "de": "Ich möchte jeden Tag üben.",
+    "ua": "Я хотів би / хотіла б практикуватися щодня.",
+    "gapIndex": 1,
+    "gap": "möchte",
+    "sourceLessonId": "future-plans",
+    "phraseId": "course-phrase-5b95c29dfac8b9df",
+    "lesson": 79,
+    "target": "üben"
+  },
+  {
+    "de": "Ich heiße Mia.",
+    "ua": "Мене звати Міа.",
+    "gapIndex": 1,
+    "gap": "heiße",
+    "sourceLessonId": "connected-story",
+    "phraseId": "course-phrase-e1c7ab3fc01a9fcf",
+    "lesson": 79,
+    "target": "Mia"
+  },
+  {
+    "de": "Ich wohne in Berlin.",
+    "ua": "Я мешкаю в Берліні.",
+    "gapIndex": 1,
+    "gap": "wohne",
+    "sourceLessonId": "connected-story",
+    "phraseId": "course-phrase-c998223b27364d43",
+    "lesson": 79,
+    "target": "wohnen"
+  },
+  {
+    "de": "Ich lerne jeden Tag Deutsch.",
+    "ua": "Я щодня вивчаю німецьку.",
+    "gapIndex": 4,
+    "gap": "Deutsch",
+    "sourceLessonId": "connected-story",
+    "phraseId": "course-phrase-fb16cbdc5257d486",
+    "lesson": 79,
+    "target": "lernen"
+  },
+  {
+    "de": "Gestern habe ich meine Freundin besucht.",
+    "ua": "Учора я відвідала свою подругу.",
+    "gapIndex": 5,
+    "gap": "besucht",
+    "sourceLessonId": "connected-story",
+    "phraseId": "course-phrase-072802a1bc253ed6",
+    "lesson": 79,
+    "target": "besuchen"
+  },
+  {
+    "de": "Wir haben zusammen gekocht.",
+    "ua": "Ми разом приготували їжу.",
+    "gapIndex": 3,
+    "gap": "gekocht",
+    "sourceLessonId": "connected-story",
+    "phraseId": "course-phrase-842358f9fe2aefbf",
+    "lesson": 79,
+    "target": "kochen"
+  },
+  {
+    "de": "Danach sind wir in den Park gegangen.",
+    "ua": "Після цього ми пішли в парк.",
+    "gapIndex": 6,
+    "gap": "gegangen",
+    "sourceLessonId": "connected-story",
+    "phraseId": "course-phrase-e54dd04baf7bf39a",
+    "lesson": 79,
+    "target": "der Park"
+  },
+  {
+    "de": "Ich lerne Deutsch, weil ich hier arbeiten möchte.",
+    "ua": "Я вивчаю німецьку, тому що хотіла б тут працювати.",
+    "gapIndex": 7,
+    "gap": "möchte",
+    "sourceLessonId": "connected-story",
+    "phraseId": "course-phrase-085aa1a545ba0f31",
+    "lesson": 79,
+    "target": "lernen"
+  },
+  {
+    "de": "Morgen werde ich wieder üben.",
+    "ua": "Завтра я знову практикуватимуся.",
+    "gapIndex": 1,
+    "gap": "werde",
+    "sourceLessonId": "connected-story",
+    "phraseId": "course-phrase-b8de2f107cb01b75",
+    "lesson": 79,
+    "target": "üben"
+  }
+]
