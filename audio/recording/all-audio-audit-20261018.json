@@ -6827,6 +6827,7 @@
       "origins": [
         "phrase-catalog",
         "legacy-task:2",
+        "legacy-info:7",
         "legacy-base:7",
         "legacy-task:8",
         "legacy-base:8",
@@ -6881,7 +6882,6 @@
         "legacy-base:7",
         "legacy-task:8",
         "legacy-base:8",
-        "legacy-info:12",
         "legacy-task:12",
         "legacy-base:12"
       ]
@@ -7701,7 +7701,6 @@
       "origins": [
         "phrase-catalog",
         "legacy-task:2",
-        "legacy-info:7",
         "legacy-base:7",
         "legacy-task:8",
         "legacy-base:8",
@@ -10865,6 +10864,7 @@
       "origins": [
         "phrase-catalog",
         "legacy-task:7",
+        "legacy-info:8",
         "legacy-base:8",
         "legacy-task:8",
         "legacy-base:12",
@@ -10915,7 +10915,6 @@
         "course:7",
         "course:11",
         "legacy-task:7",
-        "legacy-info:8",
         "legacy-base:8",
         "legacy-task:8",
         "legacy-base:12",
@@ -10985,6 +10984,7 @@
         "legacy-task:7",
         "legacy-base:8",
         "legacy-task:8",
+        "legacy-info:12",
         "legacy-base:12",
         "legacy-task:12"
       ]
