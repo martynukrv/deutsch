@@ -13,12 +13,12 @@ const fs=require('fs');
    const titles=flatStages().map(st=>st.s[1]);
    if(titles[2]!=='sein — бути'||titles[3]!=='haben — мати'||titles[5]!=='nicht — не'||!titles[10].includes('мати'))throw Error('Lesson title translation missing');
    const lang=document.documentElement.lang;
-   const before=[...document.querySelectorAll('#learningPath .lesson-group-icon img')].map(im=>im.getAttribute('src'));
+   const before=[...document.querySelectorAll('#homeView img')].map(im=>im.getAttribute('src'));
    try{
     window.DEUTSCH_LESSON_CATALOG.zz={lessons:{sein:'Localized test title'}};
     document.documentElement.lang='zz';renderHome();
     if(flatStages()[2].s[1]!=='Localized test title'||flatStages()[3].s[1]!=='haben — мати')throw Error('Locale selection or Ukrainian fallback failed');
-    const after=[...document.querySelectorAll('#learningPath .lesson-group-icon img')].map(im=>im.getAttribute('src'));
+    const after=[...document.querySelectorAll('#homeView img')].map(im=>im.getAttribute('src'));
     if(JSON.stringify(before)!==JSON.stringify(after))throw Error('Topic artwork depends on translated titles');
    }finally{document.documentElement.lang=lang;delete window.DEUTSCH_LESSON_CATALOG.zz;renderHome()}
   });
@@ -26,18 +26,18 @@ const fs=require('fs');
   for(const width of [320,390,768,1280]){
    await page.setViewportSize({width,height:900});
    await page.locator('#homeView img').evaluateAll(els=>els.forEach(el=>el.loading='eager'));
-   await page.waitForFunction(()=>{const images=[...document.querySelectorAll('#homeView img')];return images.length===24&&images.every(im=>im.complete&&im.naturalWidth>0)});
+   await page.waitForFunction(()=>{const images=[...document.querySelectorAll('#homeView img')];return images.length===1&&images.every(im=>im.complete&&im.naturalWidth>0)});
    const home=await page.evaluate(()=>({
     images:document.querySelectorAll('#homeView img').length,
-    lessons:document.querySelectorAll('#learningPath .path-icon img').length,
-    topics:document.querySelectorAll('#learningPath .lesson-group-icon img').length,
+    lessons:document.querySelectorAll('#courseCatalog [data-cv2-open]').length,
+    topics:document.querySelectorAll('#courseCatalog .cv2-module').length,
     distinct:new Set([...document.querySelectorAll('#homeView img')].map(im=>im.src)).size,
     oldArt:document.querySelectorAll('#homeView .doodle-hero svg,#learningPath .path-icon svg,#learningPath .lesson-group-icon svg').length,
     overflow:document.documentElement.scrollWidth>document.documentElement.clientWidth+5
    }));
-   if(home.images!==24||home.lessons!==18||home.topics!==5||home.distinct<16||home.oldArt||home.overflow)throw Error('Homepage artwork failure '+width+JSON.stringify(home));
+   if(home.images!==1||home.lessons!==80||home.topics!==12||home.distinct!==1||home.oldArt||home.overflow)throw Error('Homepage artwork failure '+width+JSON.stringify(home));
   }
-  console.log('PASS homepage artwork: welcome, 5 topics, 18 lessons loaded without old SVGs or overflow at 320/390/768/1280px');
+  console.log('PASS homepage artwork: welcome, one 80-lesson catalog in 12 modules without overflow at 320/390/768/1280px');
   await page.locator('#wordsTab').click();
   for(const width of [320,390,768,1280]){
    await page.setViewportSize({width,height:900});

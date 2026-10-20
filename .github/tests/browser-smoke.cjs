@@ -9,7 +9,7 @@ const path = require('path');
  await page.goto(pathToFileURL(path.resolve('index.html')).href,{waitUntil:'load'});
  await page.waitForTimeout(500);
  const result=await page.evaluate(()=>{
-  const ids=['homeView','vocabView','trainerView','progressView','learningPath','wordGrid','vocabIconGrid','mic','startVocabQuiz'];
+  const ids=['homeView','vocabView','trainerView','progressView','courseCatalog','wordGrid','vocabIconGrid','mic','startVocabQuiz'];
   const check=Object.fromEntries(ids.map(id=>[id,!!document.getElementById(id)]));
   return {title:document.title,check,groups:typeof lessonGroups!=='undefined'?lessonGroups.length:null,categories:typeof vocabCategories!=='undefined'?vocabCategories.length:null,taskCount:typeof tasks!=='undefined'?tasks.length:null,diagnostic:typeof runDeutschDiagnostics==='function'};
  });

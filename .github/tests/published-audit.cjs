@@ -14,10 +14,10 @@ const fs=require('fs');
   await page.screenshot({path:'audit-screenshots/mobile-home.png',fullPage:true});
   // Capture the full lesson path and exercise UI, not just the home/dictionary views.
   await page.locator('#homeTab').click();
-  const lessonNav=page.locator('#learningPath');
+  const lessonNav=page.locator('#courseCatalog');
   if(await lessonNav.count()){
    await page.screenshot({path:'audit-screenshots/mobile-learning-path.png',fullPage:true});
-   await page.locator('[data-stage="0"]').click();
+   await page.locator('#courseCatalog [data-cv2-open]').first().click();
    await page.screenshot({path:'audit-screenshots/mobile-lesson.png',fullPage:true});
   }
   await page.locator('#wordsTab').click();
