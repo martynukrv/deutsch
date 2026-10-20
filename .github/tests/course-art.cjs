@@ -7,9 +7,9 @@ const {chromium}=require('playwright'),{pathToFileURL}=require('url'),path=requi
  for(const [de,ua]of [['sein','його (присвійне)'],['ihr','її / їхній']]){const a=A.resolve(de,ua);if(a&&a.src===A.resolve(de,de==='sein'?'бути':'ви (до кількох людей)')?.src)throw Error('Possessive uses verb/person image')}
  for(const l of D.lessons){
   DEUTSCH_FULL_COURSE.open(l.id);const expected=l.words.filter(([de,ua])=>A.resolve(de.split(' — ')[0],ua.split(' — ')[0]));
-  if(l.words.length){if(document.querySelectorAll('.course-art-preview-grid>button').length!==expected.length)throw Error('Missing explanation gallery '+l.number)}
-  document.querySelector('[data-cv2-action="forward"]').click();
-  const rows=[...document.querySelectorAll('#courseLessonView .course-grid>.course-card')];if(rows.length!==l.words.length)throw Error('Word cards changed '+l.number);
+  if(document.querySelectorAll('.course-art-preview,[data-cv2-action="word-page"],[data-cv2-action="forward"]').length)throw Error('Duplicate lesson navigation '+l.number);if(!document.querySelector('#cv2Practice [data-cv2-action="start-practice"]'))throw Error('Practice missing '+l.number);
+
+  const rows=[...document.querySelectorAll('#cv2LessonWords .course-grid>.course-card')];if(rows.length!==l.words.length)throw Error('Word cards changed '+l.number);
   rows.forEach((r,n)=>{const [de,ua]=l.words[n],a=A.resolve(de.split(' — ')[0],ua.split(' — ')[0]),im=[...r.querySelectorAll('img')];if(im.length!==(a?.copies||0)||im.some(i=>i.getAttribute('src')!==a.src))throw Error('Wrong artwork '+l.number+': '+de);cards++;images+=im.length});
  }
  DEUTSCH_SOUNDS.open();DEUTSCH_SOUNDS.show('phrases');const greetings=[...document.querySelectorAll('#courseLessonView .course-grid>.course-card')];if(greetings.length!==8||greetings.some(c=>!c.querySelector('img')))throw Error('Greeting images missing in sounds section');
