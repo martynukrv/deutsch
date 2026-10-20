@@ -20,3 +20,5 @@ Sources used to check notation and introductory reading patterns:
 - https://www.dw.com/downloads/26294179/lektion1-learner-pronunciation.pdf
 
 The course search starts collapsed behind an accessible magnifier next to the catalog heading. Opening moves focus to the input; Escape clears the filter, restores expanded modules and returns focus to the button.
+
+Foundation-only greeting phrases are excluded from grammar checkpoints. The historical course-80 recording queue remains unchanged; the current source fingerprint and recording coverage are versioned separately in course-79-missing.json/.txt.
