@@ -10,9 +10,9 @@
       ],
       "origins": [
         "dictionary:Займенники",
-        "course:2",
-        "course-word:2",
-        "course:6",
+        "course:1",
+        "course-word:1",
+        "course:5",
         "course-lexicon",
         "legacy-info:1",
         "legacy-choice:1",
@@ -42,7 +42,9 @@
         "legacy-choice:17",
         "legacy-token:17",
         "legacy-choice:18",
-        "legacy-token:18"
+        "legacy-token:18",
+        "sound-example",
+        "sound-ui:sounds"
       ]
     },
     {
@@ -54,9 +56,9 @@
       ],
       "origins": [
         "dictionary:Займенники",
-        "course:2",
-        "course-word:2",
-        "course:6",
+        "course:1",
+        "course-word:1",
+        "course:5",
         "course-lexicon",
         "legacy-info:1",
         "legacy-choice:1",
@@ -102,9 +104,9 @@
       ],
       "origins": [
         "dictionary:Займенники",
-        "course:2",
-        "course-word:2",
-        "course:6",
+        "course:1",
+        "course-word:1",
+        "course:5",
         "course-lexicon",
         "legacy-info:1",
         "legacy-choice:1",
@@ -149,9 +151,9 @@
       ],
       "origins": [
         "dictionary:Займенники",
-        "course:2",
-        "course-word:2",
-        "course:6",
+        "course:1",
+        "course-word:1",
+        "course:5",
         "course-lexicon",
         "legacy-info:1",
         "legacy-choice:1",
@@ -179,7 +181,8 @@
         "legacy-token:17",
         "legacy-choice:18",
         "legacy-token:18",
-        "first-lesson"
+        "sound-example",
+        "sound-ui:sounds"
       ]
     },
     {
@@ -191,9 +194,9 @@
       ],
       "origins": [
         "dictionary:Займенники",
-        "course:2",
-        "course-word:2",
-        "course:6",
+        "course:1",
+        "course-word:1",
+        "course:5",
         "course-lexicon",
         "legacy-choice:1",
         "legacy-token:1",
@@ -216,9 +219,9 @@
       ],
       "origins": [
         "dictionary:Займенники",
-        "course:2",
-        "course-word:2",
-        "course:6",
+        "course:1",
+        "course-word:1",
+        "course:5",
         "course-lexicon",
         "legacy-info:1",
         "legacy-choice:1",
@@ -250,7 +253,9 @@
         "legacy-choice:17",
         "legacy-token:17",
         "legacy-choice:18",
-        "legacy-token:18"
+        "legacy-token:18",
+        "sound-example",
+        "sound-ui:sounds"
       ]
     },
     {
@@ -263,11 +268,11 @@
       "origins": [
         "dictionary:Займенники",
         "phrase-catalog",
-        "course:2",
-        "course-word:2",
-        "course:6",
-        "course-word:16",
-        "course-word:32",
+        "course:1",
+        "course-word:1",
+        "course:5",
+        "course-word:15",
+        "course-word:31",
         "course-lexicon",
         "legacy-info:1",
         "legacy-choice:1",
@@ -406,15 +411,17 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:3",
-        "course-word:49",
+        "course-word:2",
+        "course-word:48",
         "course-lexicon",
         "legacy-info:1",
         "legacy-choice:1",
         "legacy-token:1",
         "legacy-info:2",
         "legacy-choice:2",
-        "legacy-token:2"
+        "legacy-token:2",
+        "sound-example",
+        "sound-ui:sounds"
       ]
     },
     {
@@ -428,7 +435,7 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:58",
+        "course-word:57",
         "course-lexicon",
         "legacy-info:2",
         "legacy-choice:2",
@@ -447,8 +454,8 @@
         "verb-infinitive",
         "verb-form",
         "phrase-catalog",
-        "course-word:3",
-        "course-word:49",
+        "course-word:2",
+        "course-word:48",
         "course-lexicon",
         "legacy-info:1",
         "legacy-choice:1",
@@ -500,8 +507,8 @@
         "verb-infinitive",
         "verb-form",
         "phrase-catalog",
-        "course-word:3",
-        "course-word:11",
+        "course-word:2",
+        "course-word:10",
         "course-lexicon",
         "legacy-info:1",
         "legacy-choice:1",
@@ -527,7 +534,7 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:8",
+        "course-word:7",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2",
@@ -555,9 +562,9 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:3",
-        "course-word:9",
-        "course-word:49",
+        "course-word:2",
+        "course-word:8",
+        "course-word:48",
         "course-lexicon",
         "legacy-info:1",
         "legacy-choice:1",
@@ -578,7 +585,8 @@
         "legacy-token:17",
         "legacy-choice:18",
         "legacy-token:18",
-        "first-lesson"
+        "sound-example",
+        "sound-ui:sounds"
       ]
     },
     {
@@ -592,7 +600,7 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:8",
+        "course-word:7",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2",
@@ -619,9 +627,9 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "phrase-catalog",
-        "course-word:4",
-        "course-word:16",
-        "course-word:51",
+        "course-word:3",
+        "course-word:15",
+        "course-word:50",
         "course-lexicon",
         "legacy-info:3"
       ]
@@ -637,7 +645,7 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:5",
+        "course-word:4",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2",
@@ -648,7 +656,9 @@
         "legacy-info:11",
         "legacy-choice:11",
         "legacy-choice:15",
-        "legacy-token:15"
+        "legacy-token:15",
+        "sound-example",
+        "sound-ui:sounds"
       ]
     },
     {
@@ -662,8 +672,8 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:28",
-        "course-word:51",
+        "course-word:27",
+        "course-word:50",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2"
@@ -681,9 +691,9 @@
         "verb-infinitive",
         "verb-form",
         "phrase-catalog",
+        "course-word:9",
         "course-word:10",
-        "course-word:11",
-        "course-word:51",
+        "course-word:50",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2",
@@ -704,8 +714,8 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:19",
-        "course-word:50",
+        "course-word:18",
+        "course-word:49",
         "course-lexicon",
         "legacy-info:2",
         "legacy-choice:2",
@@ -726,7 +736,8 @@
         "legacy-info:2",
         "legacy-choice:2",
         "legacy-token:2",
-        "first-lesson"
+        "sound-example",
+        "sound-ui:sounds"
       ]
     },
     {
@@ -740,10 +751,10 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:21",
-        "course-word:29",
-        "course-word:56",
-        "course-word:68",
+        "course-word:20",
+        "course-word:28",
+        "course-word:55",
+        "course-word:67",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2"
@@ -761,10 +772,10 @@
         "verb-infinitive",
         "verb-form",
         "phrase-catalog",
-        "course-word:3",
-        "course-word:9",
-        "course-word:26",
-        "course-word:49",
+        "course-word:2",
+        "course-word:8",
+        "course-word:25",
+        "course-word:48",
         "course-lexicon",
         "legacy-info:1",
         "legacy-choice:1",
@@ -792,10 +803,10 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
+        "course-word:7",
         "course-word:8",
-        "course-word:9",
-        "course-word:26",
-        "course-word:49",
+        "course-word:25",
+        "course-word:48",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2",
@@ -822,8 +833,8 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:21",
-        "course-word:50",
+        "course-word:20",
+        "course-word:49",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2",
@@ -842,8 +853,8 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:27",
-        "course-word:50",
+        "course-word:26",
+        "course-word:49",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2",
@@ -862,7 +873,7 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:26",
+        "course-word:25",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2"
@@ -879,9 +890,9 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:21",
-        "course-word:29",
-        "course-word:50",
+        "course-word:20",
+        "course-word:28",
+        "course-word:49",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2"
@@ -898,7 +909,7 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:50",
+        "course-word:49",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2"
@@ -916,7 +927,7 @@
         "verb-infinitive",
         "verb-form",
         "phrase-catalog",
-        "course-word:58",
+        "course-word:57",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2"
@@ -933,7 +944,7 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:20",
+        "course-word:19",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2"
@@ -950,7 +961,7 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:27",
+        "course-word:26",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2"
@@ -967,7 +978,7 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:25",
+        "course-word:24",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2",
@@ -987,7 +998,7 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:26",
+        "course-word:25",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2"
@@ -1019,8 +1030,8 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:31",
-        "course-word:33",
+        "course-word:30",
+        "course-word:32",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2"
@@ -1037,9 +1048,9 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:21",
-        "course-word:29",
-        "course-word:50",
+        "course-word:20",
+        "course-word:28",
+        "course-word:49",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2"
@@ -1071,7 +1082,7 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:27",
+        "course-word:26",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2"
@@ -1088,8 +1099,8 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:34",
-        "course-word:51",
+        "course-word:33",
+        "course-word:50",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2"
@@ -1106,8 +1117,8 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:28",
-        "course-word:51",
+        "course-word:27",
+        "course-word:50",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2"
@@ -1124,7 +1135,7 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:28",
+        "course-word:27",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2"
@@ -1156,9 +1167,9 @@
         "dictionary:Дієслова",
         "verb-infinitive",
         "verb-form",
-        "course-word:25",
-        "course-word:31",
-        "course-word:68",
+        "course-word:24",
+        "course-word:30",
+        "course-word:67",
         "course-lexicon",
         "legacy-info:2",
         "legacy-choice:2",
@@ -1176,7 +1187,7 @@
       ],
       "origins": [
         "dictionary:Кольори",
-        "course-word:63",
+        "course-word:62",
         "course-lexicon"
       ]
     },
@@ -1189,7 +1200,7 @@
       ],
       "origins": [
         "dictionary:Кольори",
-        "course-word:63",
+        "course-word:62",
         "course-lexicon"
       ]
     },
@@ -1202,9 +1213,10 @@
       ],
       "origins": [
         "dictionary:Кольори",
-        "course-word:69",
+        "course-word:68",
         "course-lexicon",
-        "first-lesson"
+        "sound-example",
+        "sound-ui:sounds"
       ]
     },
     {
@@ -1227,7 +1239,7 @@
       ],
       "origins": [
         "dictionary:Кольори",
-        "course-word:69",
+        "course-word:68",
         "course-lexicon"
       ]
     },
@@ -1241,11 +1253,12 @@
       "origins": [
         "dictionary:Кольори",
         "verb-form",
-        "course-word:17",
+        "course-word:16",
         "course-lexicon",
         "legacy-choice:2",
         "legacy-token:2",
-        "first-lesson"
+        "sound-example",
+        "sound-ui:sounds"
       ]
     },
     {
@@ -1356,7 +1369,8 @@
       ],
       "origins": [
         "dictionary:Числа",
-        "first-lesson"
+        "sound-example",
+        "sound-ui:sounds"
       ]
     },
     {
@@ -1444,7 +1458,9 @@
         "audio/a143_neun.mp3"
       ],
       "origins": [
-        "dictionary:Числа"
+        "dictionary:Числа",
+        "sound-example",
+        "sound-ui:sounds"
       ]
     },
     {
@@ -1567,7 +1583,7 @@
       "origins": [
         "dictionary:Числа",
         "phrase-catalog",
-        "course-word:37",
+        "course-word:36",
         "course-lexicon"
       ]
     },
@@ -1581,7 +1597,7 @@
       "origins": [
         "dictionary:Числа",
         "phrase-catalog",
-        "course-word:37",
+        "course-word:36",
         "course-lexicon"
       ]
     },
@@ -1617,7 +1633,7 @@
       "origins": [
         "dictionary:Числа",
         "phrase-catalog",
-        "course-word:37",
+        "course-word:36",
         "course-lexicon"
       ]
     },
@@ -1674,11 +1690,9 @@
       ],
       "origins": [
         "dictionary:Привітання",
-        "course:1",
-        "course-word:1",
-        "course:6",
         "course-lexicon",
-        "first-lesson"
+        "sound-greeting",
+        "sound-ui:phrases"
       ]
     },
     {
@@ -1690,11 +1704,9 @@
       ],
       "origins": [
         "dictionary:Привітання",
-        "course:1",
-        "course-word:1",
-        "course:6",
         "course-lexicon",
-        "first-lesson"
+        "sound-greeting",
+        "sound-ui:phrases"
       ]
     },
     {
@@ -1706,11 +1718,9 @@
       ],
       "origins": [
         "dictionary:Привітання",
-        "course:1",
-        "course-word:1",
-        "course:6",
         "course-lexicon",
-        "first-lesson"
+        "sound-greeting",
+        "sound-ui:phrases"
       ]
     },
     {
@@ -1722,11 +1732,9 @@
       ],
       "origins": [
         "dictionary:Привітання",
-        "course:1",
-        "course-word:1",
-        "course:6",
         "course-lexicon",
-        "first-lesson"
+        "sound-greeting",
+        "sound-ui:phrases"
       ]
     },
     {
@@ -1738,11 +1746,11 @@
       ],
       "origins": [
         "dictionary:Привітання",
-        "course:1",
-        "course-word:1",
-        "course:6",
         "course-lexicon",
-        "first-lesson"
+        "sound-example",
+        "sound-greeting",
+        "sound-ui:sounds",
+        "sound-ui:phrases"
       ]
     },
     {
@@ -1754,11 +1762,9 @@
       ],
       "origins": [
         "dictionary:Привітання",
-        "course:1",
-        "course-word:1",
-        "course:6",
         "course-lexicon",
-        "first-lesson"
+        "sound-greeting",
+        "sound-ui:phrases"
       ]
     },
     {
@@ -1770,11 +1776,9 @@
       ],
       "origins": [
         "dictionary:Привітання",
-        "course:1",
-        "course-word:1",
-        "course:6",
         "course-lexicon",
-        "first-lesson"
+        "sound-greeting",
+        "sound-ui:phrases"
       ]
     },
     {
@@ -1787,12 +1791,12 @@
       "origins": [
         "dictionary:Привітання",
         "phrase-catalog",
-        "course:1",
-        "course-word:1",
-        "course:6",
-        "course-word:29",
+        "course-word:28",
         "course-lexicon",
-        "first-lesson"
+        "sound-example",
+        "sound-greeting",
+        "sound-ui:sounds",
+        "sound-ui:phrases"
       ]
     },
     {
@@ -1849,9 +1853,9 @@
       "origins": [
         "dictionary:Привітання",
         "phrase-catalog",
-        "course:77",
-        "course-word:77",
-        "course:80",
+        "course:76",
+        "course-word:76",
+        "course:79",
         "course-lexicon"
       ]
     },
@@ -1865,7 +1869,7 @@
       "origins": [
         "dictionary:Сім’я",
         "phrase-catalog",
-        "course-word:17",
+        "course-word:16",
         "course-lexicon"
       ]
     },
@@ -1879,8 +1883,10 @@
       "origins": [
         "dictionary:Сім’я",
         "phrase-catalog",
-        "course-word:17",
-        "course-lexicon"
+        "course-word:16",
+        "course-lexicon",
+        "sound-example",
+        "sound-ui:sounds"
       ]
     },
     {
@@ -1892,7 +1898,7 @@
       ],
       "origins": [
         "dictionary:Сім’я",
-        "course-word:34",
+        "course-word:33",
         "course-lexicon"
       ]
     },
@@ -1905,7 +1911,7 @@
       ],
       "origins": [
         "dictionary:Сім’я",
-        "course-word:35",
+        "course-word:34",
         "course-lexicon"
       ]
     },
@@ -1929,7 +1935,7 @@
       ],
       "origins": [
         "dictionary:Сім’я",
-        "course-word:17",
+        "course-word:16",
         "course-lexicon"
       ]
     },
@@ -1942,7 +1948,7 @@
       ],
       "origins": [
         "dictionary:Сім’я",
-        "course-word:17",
+        "course-word:16",
         "course-lexicon"
       ]
     },
@@ -2021,8 +2027,8 @@
       ],
       "origins": [
         "dictionary:Люди й ознаки",
-        "course-word:31",
-        "course-word:56",
+        "course-word:30",
+        "course-word:55",
         "course-lexicon"
       ]
     },
@@ -2035,7 +2041,7 @@
       ],
       "origins": [
         "dictionary:Люди й ознаки",
-        "course-word:31",
+        "course-word:30",
         "course-lexicon"
       ]
     },
@@ -2048,8 +2054,8 @@
       ],
       "origins": [
         "dictionary:Люди й ознаки",
-        "course-word:13",
-        "course-word:31",
+        "course-word:12",
+        "course-word:30",
         "course-lexicon"
       ]
     },
@@ -2073,7 +2079,8 @@
       ],
       "origins": [
         "dictionary:Люди й ознаки",
-        "first-lesson"
+        "sound-example",
+        "sound-ui:sounds"
       ]
     },
     {
@@ -2085,7 +2092,7 @@
       ],
       "origins": [
         "dictionary:Люди й ознаки",
-        "course-word:19",
+        "course-word:18",
         "course-lexicon"
       ]
     },
@@ -2099,8 +2106,8 @@
       "origins": [
         "dictionary:Люди й ознаки",
         "phrase-catalog",
-        "course-word:17",
-        "course-word:66",
+        "course-word:16",
+        "course-word:65",
         "course-lexicon"
       ]
     },
@@ -2114,8 +2121,8 @@
       "origins": [
         "dictionary:Люди й ознаки",
         "phrase-catalog",
-        "course-word:17",
-        "course-word:66",
+        "course-word:16",
+        "course-word:65",
         "course-lexicon"
       ]
     },
@@ -2129,10 +2136,10 @@
       "origins": [
         "dictionary:Люди й ознаки",
         "phrase-catalog",
-        "course-word:14",
-        "course-word:25",
-        "course-word:66",
-        "course-word:69",
+        "course-word:13",
+        "course-word:24",
+        "course-word:65",
+        "course-word:68",
         "course-lexicon",
         "legacy-choice:17",
         "legacy-token:17"
@@ -2170,9 +2177,9 @@
       "origins": [
         "dictionary:Люди й ознаки",
         "phrase-catalog",
-        "course-word:11",
+        "course-word:10",
+        "course-word:65",
         "course-word:66",
-        "course-word:67",
         "course-lexicon"
       ]
     },
@@ -2196,8 +2203,8 @@
       ],
       "origins": [
         "dictionary:Люди й ознаки",
+        "course-word:65",
         "course-word:66",
-        "course-word:67",
         "course-lexicon"
       ]
     },
@@ -2210,7 +2217,7 @@
       ],
       "origins": [
         "dictionary:Люди й ознаки",
-        "course-word:31",
+        "course-word:30",
         "course-lexicon"
       ]
     },
@@ -2223,7 +2230,7 @@
       ],
       "origins": [
         "dictionary:Люди й ознаки",
-        "course-word:63",
+        "course-word:62",
         "course-lexicon"
       ]
     },
@@ -2237,8 +2244,8 @@
       "origins": [
         "dictionary:Люди й ознаки",
         "phrase-catalog",
-        "course-word:54",
-        "course-word:57",
+        "course-word:53",
+        "course-word:56",
         "course-lexicon"
       ]
     },
@@ -2251,8 +2258,8 @@
       ],
       "origins": [
         "dictionary:Їжа й напої",
-        "course-word:21",
-        "course-word:23",
+        "course-word:20",
+        "course-word:22",
         "course-lexicon"
       ]
     },
@@ -2265,7 +2272,7 @@
       ],
       "origins": [
         "dictionary:Їжа й напої",
-        "course-word:21",
+        "course-word:20",
         "course-lexicon"
       ]
     },
@@ -2278,7 +2285,7 @@
       ],
       "origins": [
         "dictionary:Їжа й напої",
-        "course-word:23",
+        "course-word:22",
         "course-lexicon"
       ]
     },
@@ -2291,8 +2298,8 @@
       ],
       "origins": [
         "dictionary:Їжа й напої",
-        "course-word:19",
-        "course-word:23",
+        "course-word:18",
+        "course-word:22",
         "course-lexicon"
       ]
     },
@@ -2305,8 +2312,8 @@
       ],
       "origins": [
         "dictionary:Їжа й напої",
-        "course-word:21",
-        "course-word:23",
+        "course-word:20",
+        "course-word:22",
         "course-lexicon"
       ]
     },
@@ -2319,7 +2326,7 @@
       ],
       "origins": [
         "dictionary:Їжа й напої",
-        "course-word:19",
+        "course-word:18",
         "course-lexicon"
       ]
     },
@@ -2376,7 +2383,7 @@
       ],
       "origins": [
         "dictionary:Їжа й напої",
-        "course-word:22",
+        "course-word:21",
         "course-lexicon"
       ]
     },
@@ -2433,8 +2440,10 @@
       ],
       "origins": [
         "dictionary:Дім",
-        "course-word:35",
-        "course-lexicon"
+        "course-word:34",
+        "course-lexicon",
+        "sound-example",
+        "sound-ui:sounds"
       ]
     },
     {
@@ -2446,7 +2455,7 @@
       ],
       "origins": [
         "dictionary:Дім",
-        "course-word:74",
+        "course-word:73",
         "course-lexicon"
       ]
     },
@@ -2459,8 +2468,8 @@
       ],
       "origins": [
         "dictionary:Дім",
-        "course-word:40",
-        "course-word:76",
+        "course-word:39",
+        "course-word:75",
         "course-lexicon"
       ]
     },
@@ -2473,7 +2482,7 @@
       ],
       "origins": [
         "dictionary:Дім",
-        "course-word:13",
+        "course-word:12",
         "course-lexicon"
       ]
     },
@@ -2486,7 +2495,7 @@
       ],
       "origins": [
         "dictionary:Дім",
-        "course-word:28",
+        "course-word:27",
         "course-lexicon"
       ]
     },
@@ -2499,7 +2508,7 @@
       ],
       "origins": [
         "dictionary:Дім",
-        "course-word:13",
+        "course-word:12",
         "course-lexicon",
         "legacy-info:13"
       ]
@@ -2513,9 +2522,10 @@
       ],
       "origins": [
         "dictionary:Дім",
-        "course-word:13",
+        "course-word:12",
         "course-lexicon",
-        "first-lesson"
+        "sound-example",
+        "sound-ui:sounds"
       ]
     },
     {
@@ -2538,7 +2548,7 @@
       ],
       "origins": [
         "dictionary:Дім",
-        "course-word:74",
+        "course-word:73",
         "course-lexicon"
       ]
     },
@@ -2551,7 +2561,7 @@
       ],
       "origins": [
         "dictionary:Дім",
-        "course-word:74",
+        "course-word:73",
         "course-lexicon"
       ]
     },
@@ -2598,9 +2608,10 @@
       ],
       "origins": [
         "dictionary:Школа",
-        "course-word:13",
+        "course-word:12",
         "course-lexicon",
-        "first-lesson"
+        "sound-example",
+        "sound-ui:sounds"
       ]
     },
     {
@@ -2613,8 +2624,8 @@
       "origins": [
         "dictionary:Школа",
         "phrase-catalog",
-        "course-word:17",
-        "course-word:31",
+        "course-word:16",
+        "course-word:30",
         "course-lexicon"
       ]
     },
@@ -2627,7 +2638,7 @@
       ],
       "origins": [
         "dictionary:Школа",
-        "course-word:31",
+        "course-word:30",
         "course-lexicon"
       ]
     },
@@ -2640,7 +2651,7 @@
       ],
       "origins": [
         "dictionary:Школа",
-        "course-word:11",
+        "course-word:10",
         "course-lexicon"
       ]
     },
@@ -2653,7 +2664,7 @@
       ],
       "origins": [
         "dictionary:Школа",
-        "course-word:11",
+        "course-word:10",
         "course-lexicon"
       ]
     },
@@ -2667,9 +2678,11 @@
       "origins": [
         "dictionary:Школа",
         "phrase-catalog",
-        "course-word:13",
+        "course-word:12",
         "course-lexicon",
-        "legacy-info:13"
+        "legacy-info:13",
+        "sound-example",
+        "sound-ui:sounds"
       ]
     },
     {
@@ -2703,7 +2716,7 @@
       ],
       "origins": [
         "dictionary:Школа",
-        "course-word:75",
+        "course-word:74",
         "course-lexicon"
       ]
     },
@@ -2717,7 +2730,7 @@
       "origins": [
         "dictionary:Школа",
         "phrase-catalog",
-        "course-word:75",
+        "course-word:74",
         "course-lexicon"
       ]
     },
@@ -2774,7 +2787,7 @@
       ],
       "origins": [
         "dictionary:Час і дні",
-        "course-word:7",
+        "course-word:6",
         "course-lexicon",
         "legacy-choice:3",
         "legacy-info:5",
@@ -2798,11 +2811,11 @@
       ],
       "origins": [
         "dictionary:Час і дні",
-        "course-word:7",
-        "course-word:47",
+        "course-word:6",
+        "course-word:46",
+        "course-word:76",
         "course-word:77",
         "course-word:78",
-        "course-word:79",
         "course-lexicon",
         "legacy-info:5",
         "legacy-choice:5",
@@ -2822,9 +2835,9 @@
       ],
       "origins": [
         "dictionary:Час і дні",
-        "course-word:49",
-        "course-word:54",
-        "course-word:79",
+        "course-word:48",
+        "course-word:53",
+        "course-word:78",
         "course-lexicon"
       ]
     },
@@ -2859,7 +2872,7 @@
       ],
       "origins": [
         "dictionary:Час і дні",
-        "course-word:76",
+        "course-word:75",
         "course-lexicon"
       ]
     },
@@ -2993,7 +3006,7 @@
       ],
       "origins": [
         "dictionary:Час і дні",
-        "course-word:11",
+        "course-word:10",
         "course-lexicon"
       ]
     },
@@ -3006,7 +3019,7 @@
       ],
       "origins": [
         "dictionary:Питальні слова",
-        "course-word:10",
+        "course-word:9",
         "course-lexicon",
         "legacy-info:10",
         "legacy-choice:10",
@@ -3022,7 +3035,7 @@
       ],
       "origins": [
         "dictionary:Питальні слова",
-        "course-word:10",
+        "course-word:9",
         "course-lexicon",
         "legacy-info:10",
         "legacy-choice:10",
@@ -3038,7 +3051,7 @@
       ],
       "origins": [
         "dictionary:Питальні слова",
-        "course-word:10",
+        "course-word:9",
         "course-lexicon",
         "legacy-info:10",
         "legacy-choice:10",
@@ -3076,7 +3089,7 @@
       ],
       "origins": [
         "dictionary:Питальні слова",
-        "course-word:10",
+        "course-word:9",
         "course-lexicon",
         "legacy-info:10",
         "legacy-choice:10",
@@ -3092,8 +3105,8 @@
       ],
       "origins": [
         "dictionary:Питальні слова",
-        "course-word:10",
-        "course-word:59",
+        "course-word:9",
+        "course-word:58",
         "course-lexicon",
         "legacy-info:10",
         "legacy-choice:10",
@@ -3109,7 +3122,7 @@
       ],
       "origins": [
         "dictionary:Питальні слова",
-        "course-word:10",
+        "course-word:9",
         "course-lexicon",
         "legacy-info:10",
         "legacy-choice:10",
@@ -3169,8 +3182,10 @@
       ],
       "origins": [
         "dictionary:Службові слова",
-        "course-word:9",
-        "course-lexicon"
+        "course-word:8",
+        "course-lexicon",
+        "sound-example",
+        "sound-ui:sounds"
       ]
     },
     {
@@ -3182,7 +3197,7 @@
       ],
       "origins": [
         "dictionary:Службові слова",
-        "course-word:9",
+        "course-word:8",
         "course-lexicon"
       ]
     },
@@ -3195,7 +3210,7 @@
       ],
       "origins": [
         "dictionary:Службові слова",
-        "course-word:8",
+        "course-word:7",
         "course-lexicon",
         "legacy-info:6",
         "legacy-choice:6",
@@ -3241,9 +3256,9 @@
       ],
       "origins": [
         "dictionary:Службові слова",
+        "course-word:2",
         "course-word:3",
-        "course-word:4",
-        "course-word:7",
+        "course-word:6",
         "course-lexicon",
         "legacy-choice:3",
         "legacy-token:3",
@@ -3267,8 +3282,8 @@
       ],
       "origins": [
         "dictionary:Службові слова",
-        "course-word:4",
-        "course-word:7",
+        "course-word:3",
+        "course-word:6",
         "course-lexicon",
         "legacy-choice:3",
         "legacy-info:5",
@@ -3286,7 +3301,7 @@
       ],
       "origins": [
         "dictionary:Службові слова",
-        "course-word:7",
+        "course-word:6",
         "course-lexicon",
         "legacy-info:5",
         "legacy-choice:5",
@@ -3302,7 +3317,7 @@
       ],
       "origins": [
         "dictionary:Службові слова",
-        "course-word:46",
+        "course-word:45",
         "course-lexicon"
       ]
     },
@@ -3326,7 +3341,7 @@
       ],
       "origins": [
         "dictionary:Службові слова",
-        "course-word:57",
+        "course-word:56",
         "course-lexicon"
       ]
     },
@@ -3339,7 +3354,7 @@
       ],
       "origins": [
         "dictionary:Службові слова",
-        "course-word:57",
+        "course-word:56",
         "course-lexicon"
       ]
     },
@@ -3352,7 +3367,7 @@
       ],
       "origins": [
         "dictionary:Службові слова",
-        "course-word:57",
+        "course-word:56",
         "course-lexicon"
       ]
     },
@@ -3365,7 +3380,7 @@
       ],
       "origins": [
         "dictionary:Службові слова",
-        "course-word:59",
+        "course-word:58",
         "course-lexicon"
       ]
     },
@@ -3379,7 +3394,7 @@
       "origins": [
         "dictionary:Службові слова",
         "phrase-catalog",
-        "course-word:34",
+        "course-word:33",
         "course-lexicon"
       ]
     },
@@ -3392,7 +3407,7 @@
       ],
       "origins": [
         "dictionary:Службові слова",
-        "course-word:35",
+        "course-word:34",
         "course-lexicon"
       ]
     },
@@ -3416,7 +3431,7 @@
       ],
       "origins": [
         "dictionary:Тіло",
-        "course-word:45",
+        "course-word:44",
         "course-lexicon"
       ]
     },
@@ -3529,7 +3544,7 @@
       "origins": [
         "dictionary:Тіло",
         "phrase-catalog",
-        "course-word:73",
+        "course-word:72",
         "course-lexicon"
       ]
     },
@@ -3553,7 +3568,7 @@
       ],
       "origins": [
         "dictionary:Тварини",
-        "course-word:13",
+        "course-word:12",
         "course-lexicon"
       ]
     },
@@ -3567,7 +3582,7 @@
       "origins": [
         "dictionary:Тварини",
         "phrase-catalog",
-        "course-word:13",
+        "course-word:12",
         "course-lexicon"
       ]
     },
@@ -3591,7 +3606,7 @@
       ],
       "origins": [
         "dictionary:Тварини",
-        "course-word:22",
+        "course-word:21",
         "course-lexicon"
       ]
     },
@@ -3725,7 +3740,7 @@
       ],
       "origins": [
         "dictionary:Місця й транспорт",
-        "course-word:41",
+        "course-word:40",
         "course-lexicon"
       ]
     },
@@ -3738,8 +3753,8 @@
       ],
       "origins": [
         "dictionary:Місця й транспорт",
-        "course-word:35",
-        "course-word:39",
+        "course-word:34",
+        "course-word:38",
         "course-lexicon"
       ]
     },
@@ -3752,7 +3767,7 @@
       ],
       "origins": [
         "dictionary:Місця й транспорт",
-        "course-word:63",
+        "course-word:62",
         "course-lexicon"
       ]
     },
@@ -3776,7 +3791,7 @@
       ],
       "origins": [
         "dictionary:Місця й транспорт",
-        "course-word:76",
+        "course-word:75",
         "course-lexicon"
       ]
     },
@@ -3855,7 +3870,7 @@
       ],
       "origins": [
         "dictionary:Одяг",
-        "course-word:72",
+        "course-word:71",
         "course-lexicon"
       ]
     },
@@ -3879,7 +3894,7 @@
       ],
       "origins": [
         "dictionary:Одяг",
-        "course-word:72",
+        "course-word:71",
         "course-lexicon"
       ]
     },
@@ -5968,8 +5983,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:3",
-        "course:6",
+        "course:2",
+        "course:5",
         "legacy-task:1",
         "legacy-task:2"
       ]
@@ -5983,8 +5998,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:3",
-        "course:6",
+        "course:2",
+        "course:5",
         "legacy-task:1",
         "legacy-task:2"
       ]
@@ -6142,8 +6157,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:3",
-        "course:6",
+        "course:2",
+        "course:5",
         "legacy-task:1",
         "legacy-info:2",
         "legacy-task:2",
@@ -6163,8 +6178,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:3",
-        "course:6",
+        "course:2",
+        "course:5",
         "legacy-task:1",
         "legacy-task:2",
         "legacy-base:7",
@@ -6183,8 +6198,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:3",
-        "course:6",
+        "course:2",
+        "course:5",
         "legacy-task:1",
         "legacy-task:2",
         "legacy-base:7",
@@ -6260,8 +6275,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:3",
-        "course:6",
+        "course:2",
+        "course:5",
         "legacy-task:1",
         "legacy-task:2"
       ]
@@ -6275,8 +6290,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:3",
-        "course:6",
+        "course:2",
+        "course:5",
         "legacy-task:1",
         "legacy-task:2"
       ]
@@ -6355,8 +6370,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:3",
-        "course:6",
+        "course:2",
+        "course:5",
         "legacy-task:1",
         "legacy-task:2"
       ]
@@ -6866,6 +6881,7 @@
         "legacy-base:7",
         "legacy-task:8",
         "legacy-base:8",
+        "legacy-info:12",
         "legacy-task:12",
         "legacy-base:12"
       ]
@@ -7685,6 +7701,7 @@
       "origins": [
         "phrase-catalog",
         "legacy-task:2",
+        "legacy-info:7",
         "legacy-base:7",
         "legacy-task:8",
         "legacy-base:8",
@@ -7736,11 +7753,9 @@
       "origins": [
         "phrase-catalog",
         "legacy-task:2",
-        "legacy-info:7",
         "legacy-base:7",
         "legacy-task:8",
         "legacy-base:8",
-        "legacy-info:12",
         "legacy-task:12",
         "legacy-base:12"
       ]
@@ -8858,7 +8873,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:19",
+        "course-word:18",
         "course-lexicon",
         "legacy-task:2"
       ]
@@ -9677,8 +9692,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:4",
-        "course:6",
+        "course:3",
+        "course:5",
         "legacy-task:3"
       ]
     },
@@ -9703,8 +9718,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:4",
-        "course:6",
+        "course:3",
+        "course:5",
         "legacy-task:3"
       ]
     },
@@ -9741,8 +9756,8 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:4",
         "course:5",
-        "course:6",
         "legacy-task:4"
       ]
     },
@@ -9854,8 +9869,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:7",
-        "course:12",
+        "course:6",
+        "course:11",
         "legacy-task:5"
       ]
     },
@@ -9959,8 +9974,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:9",
-        "course:12",
+        "course:8",
+        "course:11",
         "legacy-task:9",
         "legacy-task:12"
       ]
@@ -9999,8 +10014,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:9",
-        "course:12",
+        "course:8",
+        "course:11",
         "legacy-task:9"
       ]
     },
@@ -10028,8 +10043,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:9",
-        "course:12",
+        "course:8",
+        "course:11",
         "legacy-task:9",
         "legacy-info:11",
         "legacy-task:11"
@@ -10044,8 +10059,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:10",
-        "course:12",
+        "course:9",
+        "course:11",
         "legacy-info:10",
         "legacy-task:10"
       ]
@@ -10059,8 +10074,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:10",
-        "course:12",
+        "course:9",
+        "course:11",
         "legacy-info:10",
         "legacy-task:10"
       ]
@@ -10074,8 +10089,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:10",
-        "course:12",
+        "course:9",
+        "course:11",
         "legacy-info:10",
         "legacy-task:10"
       ]
@@ -10089,8 +10104,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:10",
-        "course:12",
+        "course:9",
+        "course:11",
         "legacy-task:10"
       ]
     },
@@ -10103,11 +10118,11 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:10",
-        "course:12",
-        "course:59",
-        "course:62",
-        "course:80",
+        "course:9",
+        "course:11",
+        "course:58",
+        "course:61",
+        "course:79",
         "legacy-task:10"
       ]
     },
@@ -10156,8 +10171,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:13",
-        "course:18",
+        "course:12",
+        "course:17",
         "legacy-info:13",
         "legacy-task:13"
       ]
@@ -10184,8 +10199,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:13",
-        "course:18",
+        "course:12",
+        "course:17",
         "legacy-info:13",
         "legacy-task:13"
       ]
@@ -10211,8 +10226,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:13",
-        "course:18",
+        "course:12",
+        "course:17",
         "legacy-task:13"
       ]
     },
@@ -10237,8 +10252,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:13",
-        "course:18",
+        "course:12",
+        "course:17",
         "legacy-task:13"
       ]
     },
@@ -10251,8 +10266,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:13",
-        "course:18",
+        "course:12",
+        "course:17",
         "legacy-task:13"
       ]
     },
@@ -10265,8 +10280,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:14",
-        "course:18",
+        "course:13",
+        "course:17",
         "legacy-info:14",
         "legacy-task:14"
       ]
@@ -10293,8 +10308,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:14",
-        "course:18",
+        "course:13",
+        "course:17",
         "legacy-info:14",
         "legacy-task:14"
       ]
@@ -10356,8 +10371,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:14",
-        "course:18",
+        "course:13",
+        "course:17",
         "legacy-task:14"
       ]
     },
@@ -10370,8 +10385,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:14",
-        "course:18",
+        "course:13",
+        "course:17",
         "legacy-info:15",
         "legacy-task:15"
       ]
@@ -10411,8 +10426,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:19",
-        "course:24",
+        "course:18",
+        "course:23",
         "legacy-task:15"
       ]
     },
@@ -10473,8 +10488,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:16",
-        "course:18",
+        "course:15",
+        "course:17",
         "legacy-info:16",
         "legacy-task:16"
       ]
@@ -10538,8 +10553,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:16",
-        "course:18",
+        "course:15",
+        "course:17",
         "legacy-task:16"
       ]
     },
@@ -10576,8 +10591,8 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:60",
         "course:61",
-        "course:62",
         "legacy-info:17",
         "legacy-task:17"
       ]
@@ -10591,8 +10606,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:25",
-        "course:30",
+        "course:24",
+        "course:29",
         "legacy-info:17",
         "legacy-task:17"
       ]
@@ -10606,8 +10621,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:25",
-        "course:30",
+        "course:24",
+        "course:29",
         "legacy-info:17",
         "legacy-task:17"
       ]
@@ -10732,9 +10747,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:27",
-        "course:30",
-        "course:80",
+        "course:26",
+        "course:29",
+        "course:79",
         "legacy-task:18"
       ]
     },
@@ -10831,8 +10846,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:8",
-        "course:12",
+        "course:7",
+        "course:11",
         "legacy-task:7",
         "legacy-base:8",
         "legacy-task:8",
@@ -10897,9 +10912,10 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:8",
-        "course:12",
+        "course:7",
+        "course:11",
         "legacy-task:7",
+        "legacy-info:8",
         "legacy-base:8",
         "legacy-task:8",
         "legacy-base:12",
@@ -11078,8 +11094,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:8",
-        "course:12",
+        "course:7",
+        "course:11",
         "legacy-task:7",
         "legacy-base:8",
         "legacy-task:8",
@@ -11160,8 +11176,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:8",
-        "course:12",
+        "course:7",
+        "course:11",
         "legacy-task:7",
         "legacy-base:8",
         "legacy-task:8",
@@ -11211,7 +11227,6 @@
       "origins": [
         "phrase-catalog",
         "legacy-task:7",
-        "legacy-info:8",
         "legacy-base:8",
         "legacy-task:8",
         "legacy-base:12",
@@ -11284,8 +11299,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:9",
-        "course:12",
+        "course:8",
+        "course:11",
         "legacy-task:12"
       ]
     },
@@ -11612,8 +11627,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:3",
-        "course:6"
+        "course:2",
+        "course:5"
       ]
     },
     {
@@ -11625,8 +11640,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:4",
-        "course:6"
+        "course:3",
+        "course:5"
       ]
     },
     {
@@ -11638,8 +11653,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:4",
-        "course:6"
+        "course:3",
+        "course:5"
       ]
     },
     {
@@ -11651,8 +11666,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:4",
-        "course:6"
+        "course:3",
+        "course:5"
       ]
     },
     {
@@ -11664,8 +11679,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:4",
-        "course:6"
+        "course:3",
+        "course:5"
       ]
     },
     {
@@ -11677,8 +11692,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:4",
-        "course:6"
+        "course:3",
+        "course:5"
       ]
     },
     {
@@ -11690,8 +11705,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:4",
-        "course:6"
+        "course:3",
+        "course:5"
       ]
     },
     {
@@ -11703,8 +11718,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:4",
-        "course:6"
+        "course:3",
+        "course:5"
       ]
     },
     {
@@ -11716,8 +11731,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:4",
-        "course-word:8",
+        "course-word:3",
+        "course-word:7",
         "course-lexicon"
       ]
     },
@@ -11730,8 +11745,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:5",
-        "course:6"
+        "course:4",
+        "course:5"
       ]
     },
     {
@@ -11743,8 +11758,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:5",
-        "course:6"
+        "course:4",
+        "course:5"
       ]
     },
     {
@@ -11756,8 +11771,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:5",
-        "course:6"
+        "course:4",
+        "course:5"
       ]
     },
     {
@@ -11769,8 +11784,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:5",
-        "course:6"
+        "course:4",
+        "course:5"
       ]
     },
     {
@@ -11782,8 +11797,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:5",
-        "course:6"
+        "course:4",
+        "course:5"
       ]
     },
     {
@@ -11795,8 +11810,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:5",
-        "course:6"
+        "course:4",
+        "course:5"
       ]
     },
     {
@@ -11808,8 +11823,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:5",
-        "course:6"
+        "course:4",
+        "course:5"
       ]
     },
     {
@@ -11821,8 +11836,10 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:5",
-        "course-lexicon"
+        "course-word:4",
+        "course-lexicon",
+        "sound-example",
+        "sound-ui:sounds"
       ]
     },
     {
@@ -11834,7 +11851,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:5",
+        "course-word:4",
         "course-lexicon"
       ]
     },
@@ -11847,7 +11864,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:5",
+        "course-word:4",
         "course-lexicon"
       ]
     },
@@ -11860,7 +11877,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-text:6"
+        "course-text:5"
       ]
     },
     {
@@ -11872,8 +11889,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:7",
-        "course:12"
+        "course:6",
+        "course:11"
       ]
     },
     {
@@ -11885,8 +11902,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:7",
-        "course:12"
+        "course:6",
+        "course:11"
       ]
     },
     {
@@ -11898,8 +11915,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:7",
-        "course:12"
+        "course:6",
+        "course:11"
       ]
     },
     {
@@ -11911,8 +11928,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:7",
-        "course:12"
+        "course:6",
+        "course:11"
       ]
     },
     {
@@ -11924,8 +11941,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:7",
-        "course:12"
+        "course:6",
+        "course:11"
       ]
     },
     {
@@ -11937,8 +11954,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:7",
-        "course:12"
+        "course:6",
+        "course:11"
       ]
     },
     {
@@ -11950,8 +11967,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:7",
-        "course:12"
+        "course:6",
+        "course:11"
       ]
     },
     {
@@ -11963,7 +11980,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:7",
+        "course-word:6",
         "course-lexicon",
         "legacy-choice:10",
         "legacy-token:10",
@@ -11983,8 +12000,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:8",
-        "course:12"
+        "course:7",
+        "course:11"
       ]
     },
     {
@@ -11996,8 +12013,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:8",
-        "course:12"
+        "course:7",
+        "course:11"
       ]
     },
     {
@@ -12009,8 +12026,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:8",
-        "course:12"
+        "course:7",
+        "course:11"
       ]
     },
     {
@@ -12022,8 +12039,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:8",
-        "course:12"
+        "course:7",
+        "course:11"
       ]
     },
     {
@@ -12035,8 +12052,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:9",
-        "course:12"
+        "course:8",
+        "course:11"
       ]
     },
     {
@@ -12048,8 +12065,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:9",
-        "course:12"
+        "course:8",
+        "course:11"
       ]
     },
     {
@@ -12061,8 +12078,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:9",
-        "course:12"
+        "course:8",
+        "course:11"
       ]
     },
     {
@@ -12074,8 +12091,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:9",
-        "course:12"
+        "course:8",
+        "course:11"
       ]
     },
     {
@@ -12087,8 +12104,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:10",
-        "course:12"
+        "course:9",
+        "course:11"
       ]
     },
     {
@@ -12100,8 +12117,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:10",
-        "course:12"
+        "course:9",
+        "course:11"
       ]
     },
     {
@@ -12113,8 +12130,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:10",
-        "course:12"
+        "course:9",
+        "course:11"
       ]
     },
     {
@@ -12126,8 +12143,8 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course-word:9",
         "course-word:10",
-        "course-word:11",
         "course-lexicon"
       ]
     },
@@ -12140,9 +12157,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:10",
         "course:11",
-        "course:12",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -12154,9 +12171,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:10",
         "course:11",
-        "course:12",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -12168,9 +12185,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:10",
         "course:11",
-        "course:12",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -12182,11 +12199,11 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:10",
         "course:11",
-        "course:12",
-        "course:34",
-        "course:36",
-        "course:80"
+        "course:33",
+        "course:35",
+        "course:79"
       ]
     },
     {
@@ -12198,9 +12215,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:10",
         "course:11",
-        "course:12",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -12212,9 +12229,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:10",
         "course:11",
-        "course:12",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -12226,9 +12243,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:10",
         "course:11",
-        "course:12",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -12240,9 +12257,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:10",
         "course:11",
-        "course:12",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -12254,7 +12271,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-text:12"
+        "course-text:11"
       ]
     },
     {
@@ -12266,8 +12283,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:13",
-        "course:18"
+        "course:12",
+        "course:17"
       ]
     },
     {
@@ -12279,8 +12296,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:13",
-        "course:18"
+        "course:12",
+        "course:17"
       ]
     },
     {
@@ -12292,8 +12309,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:13",
-        "course:18"
+        "course:12",
+        "course:17"
       ]
     },
     {
@@ -12305,8 +12322,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:14",
-        "course:18"
+        "course:13",
+        "course:17"
       ]
     },
     {
@@ -12318,8 +12335,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:14",
-        "course:18"
+        "course:13",
+        "course:17"
       ]
     },
     {
@@ -12331,8 +12348,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:14",
-        "course:18"
+        "course:13",
+        "course:17"
       ]
     },
     {
@@ -12344,8 +12361,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:14",
-        "course:18"
+        "course:13",
+        "course:17"
       ]
     },
     {
@@ -12357,7 +12374,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:14",
+        "course-word:13",
         "course-lexicon",
         "legacy-choice:14",
         "legacy-token:14"
@@ -12372,7 +12389,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:14",
+        "course-word:13",
         "course-lexicon",
         "legacy-choice:14",
         "legacy-token:14"
@@ -12387,7 +12404,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:14",
+        "course-word:13",
         "course-lexicon",
         "legacy-info:15",
         "legacy-choice:15",
@@ -12403,7 +12420,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:14",
+        "course-word:13",
         "course-lexicon",
         "legacy-info:15",
         "legacy-choice:15",
@@ -12419,8 +12436,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:15",
-        "course:18"
+        "course:14",
+        "course:17"
       ]
     },
     {
@@ -12432,8 +12449,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:15",
-        "course:18"
+        "course:14",
+        "course:17"
       ]
     },
     {
@@ -12445,8 +12462,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:15",
-        "course:18"
+        "course:14",
+        "course:17"
       ]
     },
     {
@@ -12458,8 +12475,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:15",
-        "course:18"
+        "course:14",
+        "course:17"
       ]
     },
     {
@@ -12471,8 +12488,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:15",
-        "course:18"
+        "course:14",
+        "course:17"
       ]
     },
     {
@@ -12484,8 +12501,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:15",
-        "course:18"
+        "course:14",
+        "course:17"
       ]
     },
     {
@@ -12497,8 +12514,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:15",
-        "course:18"
+        "course:14",
+        "course:17"
       ]
     },
     {
@@ -12510,8 +12527,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:15",
-        "course:18"
+        "course:14",
+        "course:17"
       ]
     },
     {
@@ -12523,7 +12540,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:15",
+        "course-word:14",
         "course-lexicon"
       ]
     },
@@ -12536,7 +12553,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:15",
+        "course-word:14",
         "course-lexicon"
       ]
     },
@@ -12549,7 +12566,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:15",
+        "course-word:14",
         "course-lexicon"
       ]
     },
@@ -12562,7 +12579,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:15",
+        "course-word:14",
         "course-lexicon"
       ]
     },
@@ -12575,7 +12592,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:15",
+        "course-word:14",
         "course-lexicon"
       ]
     },
@@ -12588,7 +12605,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:15",
+        "course-word:14",
         "course-lexicon"
       ]
     },
@@ -12601,7 +12618,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:15",
+        "course-word:14",
         "course-lexicon"
       ]
     },
@@ -12614,7 +12631,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:15",
+        "course-word:14",
         "course-lexicon"
       ]
     },
@@ -12627,8 +12644,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:16",
-        "course:18"
+        "course:15",
+        "course:17"
       ]
     },
     {
@@ -12640,8 +12657,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:16",
-        "course:18"
+        "course:15",
+        "course:17"
       ]
     },
     {
@@ -12653,8 +12670,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:16",
-        "course:18"
+        "course:15",
+        "course:17"
       ]
     },
     {
@@ -12666,8 +12683,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:16",
-        "course:18"
+        "course:15",
+        "course:17"
       ]
     },
     {
@@ -12679,8 +12696,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:16",
-        "course:18"
+        "course:15",
+        "course:17"
       ]
     },
     {
@@ -12692,8 +12709,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:16",
-        "course:18"
+        "course:15",
+        "course:17"
       ]
     },
     {
@@ -12705,7 +12722,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:16",
+        "course-word:15",
         "course-lexicon",
         "legacy-info:16",
         "legacy-choice:16",
@@ -12721,7 +12738,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:16",
+        "course-word:15",
         "course-lexicon",
         "legacy-info:16",
         "legacy-choice:16",
@@ -12737,7 +12754,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:16",
+        "course-word:15",
         "course-lexicon"
       ]
     },
@@ -12750,7 +12767,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:16",
+        "course-word:15",
         "course-lexicon"
       ]
     },
@@ -12763,8 +12780,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:17",
-        "course:18"
+        "course:16",
+        "course:17"
       ]
     },
     {
@@ -12776,8 +12793,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:17",
-        "course:18"
+        "course:16",
+        "course:17"
       ]
     },
     {
@@ -12789,8 +12806,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:17",
-        "course:18"
+        "course:16",
+        "course:17"
       ]
     },
     {
@@ -12802,8 +12819,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:17",
-        "course:18"
+        "course:16",
+        "course:17"
       ]
     },
     {
@@ -12815,8 +12832,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:17",
-        "course:18"
+        "course:16",
+        "course:17"
       ]
     },
     {
@@ -12828,8 +12845,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:17",
-        "course:18"
+        "course:16",
+        "course:17"
       ]
     },
     {
@@ -12841,8 +12858,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:17",
-        "course:18"
+        "course:16",
+        "course:17"
       ]
     },
     {
@@ -12854,8 +12871,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:17",
-        "course:18"
+        "course:16",
+        "course:17"
       ]
     },
     {
@@ -12867,7 +12884,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-text:18"
+        "course-text:17"
       ]
     },
     {
@@ -12879,8 +12896,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:19",
-        "course:24"
+        "course:18",
+        "course:23"
       ]
     },
     {
@@ -12892,8 +12909,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:19",
-        "course:24"
+        "course:18",
+        "course:23"
       ]
     },
     {
@@ -12905,8 +12922,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:19",
-        "course:24"
+        "course:18",
+        "course:23"
       ]
     },
     {
@@ -12918,8 +12935,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:19",
-        "course:24"
+        "course:18",
+        "course:23"
       ]
     },
     {
@@ -12931,8 +12948,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:19",
-        "course:24"
+        "course:18",
+        "course:23"
       ]
     },
     {
@@ -12944,8 +12961,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:19",
-        "course:24"
+        "course:18",
+        "course:23"
       ]
     },
     {
@@ -12957,8 +12974,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:19",
-        "course:24"
+        "course:18",
+        "course:23"
       ]
     },
     {
@@ -12970,8 +12987,8 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course-word:18",
         "course-word:19",
-        "course-word:20",
         "course-lexicon"
       ]
     },
@@ -12984,8 +13001,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:20",
-        "course:24"
+        "course:19",
+        "course:23"
       ]
     },
     {
@@ -12997,8 +13014,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:20",
-        "course:24"
+        "course:19",
+        "course:23"
       ]
     },
     {
@@ -13010,8 +13027,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:20",
-        "course:24"
+        "course:19",
+        "course:23"
       ]
     },
     {
@@ -13023,8 +13040,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:20",
-        "course:24"
+        "course:19",
+        "course:23"
       ]
     },
     {
@@ -13036,8 +13053,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:20",
-        "course:24"
+        "course:19",
+        "course:23"
       ]
     },
     {
@@ -13049,8 +13066,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:20",
-        "course:24"
+        "course:19",
+        "course:23"
       ]
     },
     {
@@ -13062,8 +13079,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:20",
-        "course:24"
+        "course:19",
+        "course:23"
       ]
     },
     {
@@ -13075,8 +13092,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:20",
-        "course:24"
+        "course:19",
+        "course:23"
       ]
     },
     {
@@ -13088,7 +13105,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:20",
+        "course-word:19",
         "course-lexicon"
       ]
     },
@@ -13101,7 +13118,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:20",
+        "course-word:19",
         "course-lexicon"
       ]
     },
@@ -13114,7 +13131,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:20",
+        "course-word:19",
         "course-lexicon"
       ]
     },
@@ -13127,8 +13144,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:20",
-        "course-word:32",
+        "course-word:19",
+        "course-word:31",
         "course-lexicon"
       ]
     },
@@ -13141,8 +13158,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:20",
-        "course-word:32",
+        "course-word:19",
+        "course-word:31",
         "course-lexicon"
       ]
     },
@@ -13155,8 +13172,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:21",
-        "course:24"
+        "course:20",
+        "course:23"
       ]
     },
     {
@@ -13168,8 +13185,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:21",
-        "course:24"
+        "course:20",
+        "course:23"
       ]
     },
     {
@@ -13181,8 +13198,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:21",
-        "course:24"
+        "course:20",
+        "course:23"
       ]
     },
     {
@@ -13194,8 +13211,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:21",
-        "course:24"
+        "course:20",
+        "course:23"
       ]
     },
     {
@@ -13207,8 +13224,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:21",
-        "course:24"
+        "course:20",
+        "course:23"
       ]
     },
     {
@@ -13220,8 +13237,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:21",
-        "course:24"
+        "course:20",
+        "course:23"
       ]
     },
     {
@@ -13233,8 +13250,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:21",
-        "course:24"
+        "course:20",
+        "course:23"
       ]
     },
     {
@@ -13246,8 +13263,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:21",
-        "course:24"
+        "course:20",
+        "course:23"
       ]
     },
     {
@@ -13259,8 +13276,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:22",
-        "course:24"
+        "course:21",
+        "course:23"
       ]
     },
     {
@@ -13272,8 +13289,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:22",
-        "course:24"
+        "course:21",
+        "course:23"
       ]
     },
     {
@@ -13285,8 +13302,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:22",
-        "course:24"
+        "course:21",
+        "course:23"
       ]
     },
     {
@@ -13298,8 +13315,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:22",
-        "course:24"
+        "course:21",
+        "course:23"
       ]
     },
     {
@@ -13311,8 +13328,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:22",
-        "course:24"
+        "course:21",
+        "course:23"
       ]
     },
     {
@@ -13324,8 +13341,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:22",
-        "course:24"
+        "course:21",
+        "course:23"
       ]
     },
     {
@@ -13337,8 +13354,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:22",
-        "course:24"
+        "course:21",
+        "course:23"
       ]
     },
     {
@@ -13350,8 +13367,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:22",
-        "course:24"
+        "course:21",
+        "course:23"
       ]
     },
     {
@@ -13363,7 +13380,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:22",
+        "course-word:21",
         "course-lexicon"
       ]
     },
@@ -13376,8 +13393,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:22",
-        "course-word:47",
+        "course-word:21",
+        "course-word:46",
         "course-lexicon"
       ]
     },
@@ -13390,7 +13407,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:22",
+        "course-word:21",
         "course-lexicon"
       ]
     },
@@ -13403,7 +13420,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:22",
+        "course-word:21",
         "course-lexicon"
       ]
     },
@@ -13416,9 +13433,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:22",
         "course:23",
-        "course:24",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -13430,9 +13447,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:22",
         "course:23",
-        "course:24",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -13444,9 +13461,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:22",
         "course:23",
-        "course:24",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -13458,9 +13475,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:22",
         "course:23",
-        "course:24",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -13472,9 +13489,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:22",
         "course:23",
-        "course:24",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -13486,9 +13503,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:22",
         "course:23",
-        "course:24",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -13500,9 +13517,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:22",
         "course:23",
-        "course:24",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -13514,9 +13531,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:22",
         "course:23",
-        "course:24",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -13528,7 +13545,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:23",
+        "course-word:22",
         "course-lexicon"
       ]
     },
@@ -13541,7 +13558,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:23",
+        "course-word:22",
         "course-lexicon"
       ]
     },
@@ -13554,7 +13571,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:23",
+        "course-word:22",
         "course-lexicon"
       ]
     },
@@ -13567,7 +13584,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-text:24"
+        "course-text:23"
       ]
     },
     {
@@ -13579,8 +13596,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:25",
-        "course:30"
+        "course:24",
+        "course:29"
       ]
     },
     {
@@ -13592,8 +13609,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:25",
-        "course:30"
+        "course:24",
+        "course:29"
       ]
     },
     {
@@ -13605,8 +13622,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:25",
-        "course:30"
+        "course:24",
+        "course:29"
       ]
     },
     {
@@ -13618,8 +13635,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:25",
-        "course:30"
+        "course:24",
+        "course:29"
       ]
     },
     {
@@ -13631,8 +13648,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:25",
-        "course:30"
+        "course:24",
+        "course:29"
       ]
     },
     {
@@ -13644,8 +13661,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:25",
-        "course:30"
+        "course:24",
+        "course:29"
       ]
     },
     {
@@ -13657,7 +13674,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:25",
+        "course-word:24",
         "course-lexicon"
       ]
     },
@@ -13670,8 +13687,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:26",
-        "course:30"
+        "course:25",
+        "course:29"
       ]
     },
     {
@@ -13683,8 +13700,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:26",
-        "course:30"
+        "course:25",
+        "course:29"
       ]
     },
     {
@@ -13696,8 +13713,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:26",
-        "course:30"
+        "course:25",
+        "course:29"
       ]
     },
     {
@@ -13709,8 +13726,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:26",
-        "course:30"
+        "course:25",
+        "course:29"
       ]
     },
     {
@@ -13722,8 +13739,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:26",
-        "course:30"
+        "course:25",
+        "course:29"
       ]
     },
     {
@@ -13735,8 +13752,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:26",
-        "course:30"
+        "course:25",
+        "course:29"
       ]
     },
     {
@@ -13748,8 +13765,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:26",
-        "course:30"
+        "course:25",
+        "course:29"
       ]
     },
     {
@@ -13761,8 +13778,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:26",
-        "course:30"
+        "course:25",
+        "course:29"
       ]
     },
     {
@@ -13774,7 +13791,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:26",
+        "course-word:25",
         "course-lexicon"
       ]
     },
@@ -13787,7 +13804,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:26",
+        "course-word:25",
         "course-lexicon"
       ]
     },
@@ -13800,9 +13817,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:27",
-        "course:30",
-        "course:80"
+        "course:26",
+        "course:29",
+        "course:79"
       ]
     },
     {
@@ -13814,9 +13831,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:27",
-        "course:30",
-        "course:80"
+        "course:26",
+        "course:29",
+        "course:79"
       ]
     },
     {
@@ -13828,9 +13845,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:27",
-        "course:30",
-        "course:80"
+        "course:26",
+        "course:29",
+        "course:79"
       ]
     },
     {
@@ -13842,9 +13859,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:27",
-        "course:30",
-        "course:80"
+        "course:26",
+        "course:29",
+        "course:79"
       ]
     },
     {
@@ -13856,9 +13873,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:27",
-        "course:30",
-        "course:80"
+        "course:26",
+        "course:29",
+        "course:79"
       ]
     },
     {
@@ -13870,9 +13887,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:27",
-        "course:30",
-        "course:80"
+        "course:26",
+        "course:29",
+        "course:79"
       ]
     },
     {
@@ -13884,9 +13901,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:27",
-        "course:30",
-        "course:80"
+        "course:26",
+        "course:29",
+        "course:79"
       ]
     },
     {
@@ -13898,7 +13915,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:27",
+        "course-word:26",
         "course-lexicon",
         "legacy-info:18",
         "legacy-choice:18",
@@ -13914,8 +13931,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:27",
-        "course-word:78",
+        "course-word:26",
+        "course-word:77",
         "course-lexicon"
       ]
     },
@@ -13928,8 +13945,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:28",
-        "course:30"
+        "course:27",
+        "course:29"
       ]
     },
     {
@@ -13941,8 +13958,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:28",
-        "course:30"
+        "course:27",
+        "course:29"
       ]
     },
     {
@@ -13954,8 +13971,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:28",
-        "course:30"
+        "course:27",
+        "course:29"
       ]
     },
     {
@@ -13967,8 +13984,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:28",
-        "course:30"
+        "course:27",
+        "course:29"
       ]
     },
     {
@@ -13980,8 +13997,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:28",
-        "course:30"
+        "course:27",
+        "course:29"
       ]
     },
     {
@@ -13993,8 +14010,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:28",
-        "course:30"
+        "course:27",
+        "course:29"
       ]
     },
     {
@@ -14006,8 +14023,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:28",
-        "course:30"
+        "course:27",
+        "course:29"
       ]
     },
     {
@@ -14019,8 +14036,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:28",
-        "course:30"
+        "course:27",
+        "course:29"
       ]
     },
     {
@@ -14032,8 +14049,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:28",
-        "course-word:56",
+        "course-word:27",
+        "course-word:55",
         "course-lexicon"
       ]
     },
@@ -14046,7 +14063,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:28",
+        "course-word:27",
         "course-lexicon"
       ]
     },
@@ -14059,8 +14076,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:29",
-        "course:30"
+        "course:28",
+        "course:29"
       ]
     },
     {
@@ -14072,8 +14089,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:29",
-        "course:30"
+        "course:28",
+        "course:29"
       ]
     },
     {
@@ -14085,8 +14102,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:29",
-        "course:30"
+        "course:28",
+        "course:29"
       ]
     },
     {
@@ -14098,8 +14115,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:29",
-        "course:30"
+        "course:28",
+        "course:29"
       ]
     },
     {
@@ -14111,8 +14128,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:29",
-        "course:30"
+        "course:28",
+        "course:29"
       ]
     },
     {
@@ -14124,8 +14141,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:29",
-        "course:30"
+        "course:28",
+        "course:29"
       ]
     },
     {
@@ -14137,8 +14154,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:29",
-        "course:30"
+        "course:28",
+        "course:29"
       ]
     },
     {
@@ -14150,8 +14167,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:29",
-        "course:30"
+        "course:28",
+        "course:29"
       ]
     },
     {
@@ -14163,8 +14180,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:29",
-        "course-word:64",
+        "course-word:28",
+        "course-word:63",
         "course-lexicon"
       ]
     },
@@ -14177,7 +14194,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:29",
+        "course-word:28",
         "course-lexicon"
       ]
     },
@@ -14190,7 +14207,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-text:30"
+        "course-text:29"
       ]
     },
     {
@@ -14202,8 +14219,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:31",
-        "course:36"
+        "course:30",
+        "course:35"
       ]
     },
     {
@@ -14215,8 +14232,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:31",
-        "course:36"
+        "course:30",
+        "course:35"
       ]
     },
     {
@@ -14228,8 +14245,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:31",
-        "course:36"
+        "course:30",
+        "course:35"
       ]
     },
     {
@@ -14241,8 +14258,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:31",
-        "course:36"
+        "course:30",
+        "course:35"
       ]
     },
     {
@@ -14254,8 +14271,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:31",
-        "course:36"
+        "course:30",
+        "course:35"
       ]
     },
     {
@@ -14267,8 +14284,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:31",
-        "course:36"
+        "course:30",
+        "course:35"
       ]
     },
     {
@@ -14280,8 +14297,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:31",
-        "course:36"
+        "course:30",
+        "course:35"
       ]
     },
     {
@@ -14293,8 +14310,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:31",
-        "course:36"
+        "course:30",
+        "course:35"
       ]
     },
     {
@@ -14306,7 +14323,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:31",
+        "course-word:30",
         "course-lexicon"
       ]
     },
@@ -14319,8 +14336,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:32",
-        "course:36"
+        "course:31",
+        "course:35"
       ]
     },
     {
@@ -14332,8 +14349,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:32",
-        "course:36"
+        "course:31",
+        "course:35"
       ]
     },
     {
@@ -14345,8 +14362,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:32",
-        "course:36"
+        "course:31",
+        "course:35"
       ]
     },
     {
@@ -14358,8 +14375,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:32",
-        "course:36"
+        "course:31",
+        "course:35"
       ]
     },
     {
@@ -14371,8 +14388,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:32",
-        "course:36"
+        "course:31",
+        "course:35"
       ]
     },
     {
@@ -14384,8 +14401,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:32",
-        "course:36"
+        "course:31",
+        "course:35"
       ]
     },
     {
@@ -14397,8 +14414,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:32",
-        "course:36"
+        "course:31",
+        "course:35"
       ]
     },
     {
@@ -14410,8 +14427,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:32",
-        "course:36"
+        "course:31",
+        "course:35"
       ]
     },
     {
@@ -14423,7 +14440,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:32",
+        "course-word:31",
         "course-lexicon",
         "legacy-choice:17",
         "legacy-token:17"
@@ -14438,7 +14455,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:32",
+        "course-word:31",
         "course-lexicon"
       ]
     },
@@ -14451,7 +14468,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:32",
+        "course-word:31",
         "course-lexicon"
       ]
     },
@@ -14464,7 +14481,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:32",
+        "course-word:31",
         "course-lexicon"
       ]
     },
@@ -14477,9 +14494,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:33",
-        "course:36",
-        "course:80"
+        "course:32",
+        "course:35",
+        "course:79"
       ]
     },
     {
@@ -14491,9 +14508,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:33",
-        "course:36",
-        "course:80"
+        "course:32",
+        "course:35",
+        "course:79"
       ]
     },
     {
@@ -14505,9 +14522,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:33",
-        "course:36",
-        "course:80"
+        "course:32",
+        "course:35",
+        "course:79"
       ]
     },
     {
@@ -14519,9 +14536,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:33",
-        "course:36",
-        "course:80"
+        "course:32",
+        "course:35",
+        "course:79"
       ]
     },
     {
@@ -14533,9 +14550,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:33",
-        "course:36",
-        "course:80"
+        "course:32",
+        "course:35",
+        "course:79"
       ]
     },
     {
@@ -14547,9 +14564,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:33",
-        "course:36",
-        "course:80"
+        "course:32",
+        "course:35",
+        "course:79"
       ]
     },
     {
@@ -14561,9 +14578,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:33",
-        "course:36",
-        "course:80"
+        "course:32",
+        "course:35",
+        "course:79"
       ]
     },
     {
@@ -14575,9 +14592,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:33",
-        "course:36",
-        "course:80"
+        "course:32",
+        "course:35",
+        "course:79"
       ]
     },
     {
@@ -14589,7 +14606,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:33",
+        "course-word:32",
         "course-lexicon"
       ]
     },
@@ -14602,7 +14619,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:33",
+        "course-word:32",
         "course-lexicon"
       ]
     },
@@ -14615,7 +14632,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:33",
+        "course-word:32",
         "course-lexicon"
       ]
     },
@@ -14628,7 +14645,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:33",
+        "course-word:32",
         "course-lexicon"
       ]
     },
@@ -14641,7 +14658,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:33",
+        "course-word:32",
         "course-lexicon"
       ]
     },
@@ -14654,8 +14671,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:34",
-        "course:36"
+        "course:33",
+        "course:35"
       ]
     },
     {
@@ -14667,8 +14684,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:34",
-        "course:36"
+        "course:33",
+        "course:35"
       ]
     },
     {
@@ -14680,8 +14697,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:34",
-        "course:36"
+        "course:33",
+        "course:35"
       ]
     },
     {
@@ -14693,8 +14710,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:34",
-        "course:36"
+        "course:33",
+        "course:35"
       ]
     },
     {
@@ -14706,8 +14723,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:34",
-        "course:36"
+        "course:33",
+        "course:35"
       ]
     },
     {
@@ -14719,8 +14736,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:34",
-        "course:36"
+        "course:33",
+        "course:35"
       ]
     },
     {
@@ -14732,8 +14749,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:34",
-        "course:36"
+        "course:33",
+        "course:35"
       ]
     },
     {
@@ -14745,7 +14762,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:34",
+        "course-word:33",
         "course-lexicon"
       ]
     },
@@ -14758,7 +14775,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:34",
+        "course-word:33",
         "course-lexicon"
       ]
     },
@@ -14771,7 +14788,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:34",
+        "course-word:33",
         "course-lexicon",
         "legacy-choice:9"
       ]
@@ -14785,7 +14802,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:34",
+        "course-word:33",
         "course-lexicon"
       ]
     },
@@ -14798,7 +14815,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:34",
+        "course-word:33",
         "course-lexicon"
       ]
     },
@@ -14811,8 +14828,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:34",
-        "course-word:73",
+        "course-word:33",
+        "course-word:72",
         "course-lexicon"
       ]
     },
@@ -14825,8 +14842,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:35",
-        "course:36"
+        "course:34",
+        "course:35"
       ]
     },
     {
@@ -14838,8 +14855,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:35",
-        "course:36"
+        "course:34",
+        "course:35"
       ]
     },
     {
@@ -14851,8 +14868,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:35",
-        "course:36"
+        "course:34",
+        "course:35"
       ]
     },
     {
@@ -14864,8 +14881,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:35",
-        "course:36"
+        "course:34",
+        "course:35"
       ]
     },
     {
@@ -14877,8 +14894,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:35",
-        "course:36"
+        "course:34",
+        "course:35"
       ]
     },
     {
@@ -14890,8 +14907,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:35",
-        "course:36"
+        "course:34",
+        "course:35"
       ]
     },
     {
@@ -14903,8 +14920,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:35",
-        "course:36"
+        "course:34",
+        "course:35"
       ]
     },
     {
@@ -14916,10 +14933,10 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:34",
         "course:35",
-        "course:36",
-        "course:38",
-        "course:42"
+        "course:37",
+        "course:41"
       ]
     },
     {
@@ -14931,7 +14948,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:35",
+        "course-word:34",
         "course-lexicon"
       ]
     },
@@ -14944,7 +14961,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:35",
+        "course-word:34",
         "course-lexicon"
       ]
     },
@@ -14957,7 +14974,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:35",
+        "course-word:34",
         "course-lexicon"
       ]
     },
@@ -14970,7 +14987,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:35",
+        "course-word:34",
         "course-lexicon"
       ]
     },
@@ -14983,7 +15000,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:35",
+        "course-word:34",
         "course-lexicon"
       ]
     },
@@ -14996,7 +15013,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-text:36"
+        "course-text:35"
       ]
     },
     {
@@ -15008,8 +15025,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:37",
-        "course:42"
+        "course:36",
+        "course:41"
       ]
     },
     {
@@ -15021,8 +15038,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:37",
-        "course:42"
+        "course:36",
+        "course:41"
       ]
     },
     {
@@ -15034,8 +15051,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:37",
-        "course:42"
+        "course:36",
+        "course:41"
       ]
     },
     {
@@ -15047,8 +15064,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:37",
-        "course:42"
+        "course:36",
+        "course:41"
       ]
     },
     {
@@ -15060,8 +15077,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:37",
-        "course:42"
+        "course:36",
+        "course:41"
       ]
     },
     {
@@ -15073,8 +15090,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:37",
-        "course:42"
+        "course:36",
+        "course:41"
       ]
     },
     {
@@ -15086,8 +15103,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:37",
-        "course:42"
+        "course:36",
+        "course:41"
       ]
     },
     {
@@ -15099,8 +15116,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:37",
-        "course:42"
+        "course:36",
+        "course:41"
       ]
     },
     {
@@ -15112,7 +15129,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:37",
+        "course-word:36",
         "course-lexicon"
       ]
     },
@@ -15125,7 +15142,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:37",
+        "course-word:36",
         "course-lexicon"
       ]
     },
@@ -15138,7 +15155,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:37",
+        "course-word:36",
         "course-lexicon"
       ]
     },
@@ -15151,7 +15168,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:37",
+        "course-word:36",
         "course-lexicon"
       ]
     },
@@ -15164,7 +15181,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:37",
+        "course-word:36",
         "course-lexicon"
       ]
     },
@@ -15177,8 +15194,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:38",
-        "course:42"
+        "course:37",
+        "course:41"
       ]
     },
     {
@@ -15190,8 +15207,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:38",
-        "course:42"
+        "course:37",
+        "course:41"
       ]
     },
     {
@@ -15203,8 +15220,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:38",
-        "course:42"
+        "course:37",
+        "course:41"
       ]
     },
     {
@@ -15216,8 +15233,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:38",
-        "course:42"
+        "course:37",
+        "course:41"
       ]
     },
     {
@@ -15229,8 +15246,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:38",
-        "course:42"
+        "course:37",
+        "course:41"
       ]
     },
     {
@@ -15242,8 +15259,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:38",
-        "course:42"
+        "course:37",
+        "course:41"
       ]
     },
     {
@@ -15255,8 +15272,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:38",
-        "course:42"
+        "course:37",
+        "course:41"
       ]
     },
     {
@@ -15268,7 +15285,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:38",
+        "course-word:37",
         "course-lexicon"
       ]
     },
@@ -15281,7 +15298,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:38",
+        "course-word:37",
         "course-lexicon"
       ]
     },
@@ -15294,7 +15311,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:38",
+        "course-word:37",
         "course-lexicon"
       ]
     },
@@ -15307,7 +15324,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:38",
+        "course-word:37",
         "course-lexicon"
       ]
     },
@@ -15320,7 +15337,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:38",
+        "course-word:37",
         "course-lexicon"
       ]
     },
@@ -15333,8 +15350,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:38",
-        "course-word:73",
+        "course-word:37",
+        "course-word:72",
         "course-lexicon"
       ]
     },
@@ -15347,8 +15364,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:39",
-        "course:42"
+        "course:38",
+        "course:41"
       ]
     },
     {
@@ -15360,8 +15377,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:39",
-        "course:42"
+        "course:38",
+        "course:41"
       ]
     },
     {
@@ -15373,8 +15390,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:39",
-        "course:42"
+        "course:38",
+        "course:41"
       ]
     },
     {
@@ -15386,8 +15403,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:39",
-        "course:42"
+        "course:38",
+        "course:41"
       ]
     },
     {
@@ -15399,8 +15416,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:39",
-        "course:42"
+        "course:38",
+        "course:41"
       ]
     },
     {
@@ -15412,8 +15429,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:39",
-        "course:42"
+        "course:38",
+        "course:41"
       ]
     },
     {
@@ -15425,8 +15442,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:39",
-        "course:42"
+        "course:38",
+        "course:41"
       ]
     },
     {
@@ -15438,8 +15455,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:39",
-        "course:42"
+        "course:38",
+        "course:41"
       ]
     },
     {
@@ -15451,7 +15468,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:39",
+        "course-word:38",
         "course-lexicon",
         "legacy-choice:9",
         "legacy-token:9"
@@ -15466,7 +15483,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:39",
+        "course-word:38",
         "course-lexicon"
       ]
     },
@@ -15479,7 +15496,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:39",
+        "course-word:38",
         "course-lexicon"
       ]
     },
@@ -15492,7 +15509,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:39",
+        "course-word:38",
         "course-lexicon"
       ]
     },
@@ -15505,8 +15522,8 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course-word:38",
         "course-word:39",
-        "course-word:40",
         "course-lexicon"
       ]
     },
@@ -15519,7 +15536,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:39",
+        "course-word:38",
         "course-lexicon"
       ]
     },
@@ -15532,7 +15549,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:39",
+        "course-word:38",
         "course-lexicon"
       ]
     },
@@ -15545,7 +15562,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:39",
+        "course-word:38",
         "course-lexicon"
       ]
     },
@@ -15558,8 +15575,8 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course-word:38",
         "course-word:39",
-        "course-word:40",
         "course-lexicon"
       ]
     },
@@ -15572,8 +15589,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:40",
-        "course:42"
+        "course:39",
+        "course:41"
       ]
     },
     {
@@ -15585,8 +15602,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:40",
-        "course:42"
+        "course:39",
+        "course:41"
       ]
     },
     {
@@ -15598,8 +15615,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:40",
-        "course:42"
+        "course:39",
+        "course:41"
       ]
     },
     {
@@ -15611,8 +15628,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:40",
-        "course:42"
+        "course:39",
+        "course:41"
       ]
     },
     {
@@ -15624,8 +15641,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:40",
-        "course:42"
+        "course:39",
+        "course:41"
       ]
     },
     {
@@ -15637,8 +15654,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:40",
-        "course:42"
+        "course:39",
+        "course:41"
       ]
     },
     {
@@ -15650,8 +15667,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:40",
-        "course:42"
+        "course:39",
+        "course:41"
       ]
     },
     {
@@ -15663,8 +15680,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:40",
-        "course:42"
+        "course:39",
+        "course:41"
       ]
     },
     {
@@ -15676,7 +15693,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:40",
+        "course-word:39",
         "course-lexicon"
       ]
     },
@@ -15689,7 +15706,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:40",
+        "course-word:39",
         "course-lexicon"
       ]
     },
@@ -15702,7 +15719,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:40",
+        "course-word:39",
         "course-lexicon"
       ]
     },
@@ -15715,9 +15732,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:40",
         "course:41",
-        "course:42",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -15729,9 +15746,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:40",
         "course:41",
-        "course:42",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -15743,9 +15760,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:40",
         "course:41",
-        "course:42",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -15757,9 +15774,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:40",
         "course:41",
-        "course:42",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -15771,9 +15788,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:40",
         "course:41",
-        "course:42",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -15785,9 +15802,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:40",
         "course:41",
-        "course:42",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -15799,9 +15816,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:40",
         "course:41",
-        "course:42",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -15813,9 +15830,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:40",
         "course:41",
-        "course:42",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -15827,7 +15844,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:41",
+        "course-word:40",
         "course-lexicon"
       ]
     },
@@ -15840,7 +15857,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:41",
+        "course-word:40",
         "course-lexicon"
       ]
     },
@@ -15853,7 +15870,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:41",
+        "course-word:40",
         "course-lexicon"
       ]
     },
@@ -15866,7 +15883,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:41",
+        "course-word:40",
         "course-lexicon"
       ]
     },
@@ -15879,7 +15896,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:41",
+        "course-word:40",
         "course-lexicon"
       ]
     },
@@ -15892,7 +15909,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:41",
+        "course-word:40",
         "course-lexicon"
       ]
     },
@@ -15905,7 +15922,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:41",
+        "course-word:40",
         "course-lexicon"
       ]
     },
@@ -15918,7 +15935,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-text:42"
+        "course-text:41"
       ]
     },
     {
@@ -15930,8 +15947,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:43",
-        "course:48"
+        "course:42",
+        "course:47"
       ]
     },
     {
@@ -15943,8 +15960,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:43",
-        "course:48"
+        "course:42",
+        "course:47"
       ]
     },
     {
@@ -15956,8 +15973,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:43",
-        "course:48"
+        "course:42",
+        "course:47"
       ]
     },
     {
@@ -15969,8 +15986,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:43",
-        "course:48"
+        "course:42",
+        "course:47"
       ]
     },
     {
@@ -15982,8 +15999,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:43",
-        "course:48"
+        "course:42",
+        "course:47"
       ]
     },
     {
@@ -15995,8 +16012,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:43",
-        "course:48"
+        "course:42",
+        "course:47"
       ]
     },
     {
@@ -16008,8 +16025,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:43",
-        "course:48"
+        "course:42",
+        "course:47"
       ]
     },
     {
@@ -16021,8 +16038,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:43",
-        "course:48"
+        "course:42",
+        "course:47"
       ]
     },
     {
@@ -16034,8 +16051,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:43",
-        "course-word:52",
+        "course-word:42",
+        "course-word:51",
         "course-lexicon"
       ]
     },
@@ -16048,8 +16065,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:43",
-        "course-word:52",
+        "course-word:42",
+        "course-word:51",
         "course-lexicon"
       ]
     },
@@ -16062,8 +16079,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:43",
-        "course-word:52",
+        "course-word:42",
+        "course-word:51",
         "course-lexicon"
       ]
     },
@@ -16076,7 +16093,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:43",
+        "course-word:42",
         "course-lexicon"
       ]
     },
@@ -16089,7 +16106,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:43",
+        "course-word:42",
         "course-lexicon"
       ]
     },
@@ -16102,7 +16119,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:43",
+        "course-word:42",
         "course-lexicon"
       ]
     },
@@ -16115,8 +16132,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:44",
-        "course:48"
+        "course:43",
+        "course:47"
       ]
     },
     {
@@ -16128,8 +16145,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:44",
-        "course:48"
+        "course:43",
+        "course:47"
       ]
     },
     {
@@ -16141,8 +16158,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:44",
-        "course:48"
+        "course:43",
+        "course:47"
       ]
     },
     {
@@ -16154,8 +16171,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:44",
-        "course:48"
+        "course:43",
+        "course:47"
       ]
     },
     {
@@ -16167,8 +16184,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:44",
-        "course:48"
+        "course:43",
+        "course:47"
       ]
     },
     {
@@ -16180,8 +16197,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:44",
-        "course:48"
+        "course:43",
+        "course:47"
       ]
     },
     {
@@ -16193,8 +16210,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:44",
-        "course:48"
+        "course:43",
+        "course:47"
       ]
     },
     {
@@ -16206,8 +16223,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:44",
-        "course:48"
+        "course:43",
+        "course:47"
       ]
     },
     {
@@ -16219,8 +16236,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:44",
-        "course-word:52",
+        "course-word:43",
+        "course-word:51",
         "course-lexicon"
       ]
     },
@@ -16233,8 +16250,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:44",
-        "course-word:52",
+        "course-word:43",
+        "course-word:51",
         "course-lexicon"
       ]
     },
@@ -16247,8 +16264,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:44",
-        "course-word:75",
+        "course-word:43",
+        "course-word:74",
         "course-lexicon"
       ]
     },
@@ -16261,9 +16278,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:44",
-        "course-word:56",
-        "course-word:72",
+        "course-word:43",
+        "course-word:55",
+        "course-word:71",
         "course-lexicon"
       ]
     },
@@ -16276,8 +16293,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:44",
-        "course-word:52",
+        "course-word:43",
+        "course-word:51",
         "course-lexicon"
       ]
     },
@@ -16290,7 +16307,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:44",
+        "course-word:43",
         "course-lexicon"
       ]
     },
@@ -16303,7 +16320,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:44",
+        "course-word:43",
         "course-lexicon"
       ]
     },
@@ -16316,8 +16333,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:45",
-        "course:48"
+        "course:44",
+        "course:47"
       ]
     },
     {
@@ -16329,8 +16346,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:45",
-        "course:48"
+        "course:44",
+        "course:47"
       ]
     },
     {
@@ -16342,8 +16359,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:45",
-        "course:48"
+        "course:44",
+        "course:47"
       ]
     },
     {
@@ -16355,8 +16372,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:45",
-        "course:48"
+        "course:44",
+        "course:47"
       ]
     },
     {
@@ -16368,8 +16385,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:45",
-        "course:48"
+        "course:44",
+        "course:47"
       ]
     },
     {
@@ -16381,8 +16398,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:45",
-        "course:48"
+        "course:44",
+        "course:47"
       ]
     },
     {
@@ -16394,8 +16411,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:45",
-        "course:48"
+        "course:44",
+        "course:47"
       ]
     },
     {
@@ -16407,8 +16424,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:45",
-        "course:48"
+        "course:44",
+        "course:47"
       ]
     },
     {
@@ -16420,9 +16437,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:45",
-        "course-word:47",
-        "course-word:53",
+        "course-word:44",
+        "course-word:46",
+        "course-word:52",
         "course-lexicon"
       ]
     },
@@ -16435,8 +16452,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:45",
-        "course-word:53",
+        "course-word:44",
+        "course-word:52",
         "course-lexicon"
       ]
     },
@@ -16449,8 +16466,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:45",
-        "course-word:53",
+        "course-word:44",
+        "course-word:52",
         "course-lexicon"
       ]
     },
@@ -16463,8 +16480,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:45",
-        "course-word:53",
+        "course-word:44",
+        "course-word:52",
         "course-lexicon"
       ]
     },
@@ -16477,8 +16494,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:46",
-        "course:48"
+        "course:45",
+        "course:47"
       ]
     },
     {
@@ -16490,8 +16507,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:46",
-        "course:48"
+        "course:45",
+        "course:47"
       ]
     },
     {
@@ -16503,8 +16520,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:46",
-        "course:48"
+        "course:45",
+        "course:47"
       ]
     },
     {
@@ -16516,8 +16533,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:46",
-        "course:48"
+        "course:45",
+        "course:47"
       ]
     },
     {
@@ -16529,8 +16546,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:46",
-        "course:48"
+        "course:45",
+        "course:47"
       ]
     },
     {
@@ -16542,8 +16559,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:46",
-        "course:48"
+        "course:45",
+        "course:47"
       ]
     },
     {
@@ -16555,8 +16572,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:46",
-        "course:48"
+        "course:45",
+        "course:47"
       ]
     },
     {
@@ -16568,8 +16585,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:46",
-        "course:48"
+        "course:45",
+        "course:47"
       ]
     },
     {
@@ -16581,7 +16598,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:46",
+        "course-word:45",
         "course-lexicon"
       ]
     },
@@ -16594,7 +16611,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:46",
+        "course-word:45",
         "course-lexicon"
       ]
     },
@@ -16607,7 +16624,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:46",
+        "course-word:45",
         "course-lexicon"
       ]
     },
@@ -16620,7 +16637,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:46",
+        "course-word:45",
         "course-lexicon",
         "legacy-choice:6",
         "legacy-choice:7",
@@ -16637,7 +16654,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:46",
+        "course-word:45",
         "course-lexicon"
       ]
     },
@@ -16650,7 +16667,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:46",
+        "course-word:45",
         "course-lexicon"
       ]
     },
@@ -16663,7 +16680,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:46",
+        "course-word:45",
         "course-lexicon"
       ]
     },
@@ -16676,7 +16693,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:46",
+        "course-word:45",
         "course-lexicon"
       ]
     },
@@ -16689,9 +16706,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:46",
         "course:47",
-        "course:48",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -16703,9 +16720,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:46",
         "course:47",
-        "course:48",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -16717,9 +16734,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:46",
         "course:47",
-        "course:48",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -16731,9 +16748,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:46",
         "course:47",
-        "course:48",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -16745,9 +16762,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:46",
         "course:47",
-        "course:48",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -16759,9 +16776,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:46",
         "course:47",
-        "course:48",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -16773,9 +16790,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:46",
         "course:47",
-        "course:48",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -16787,9 +16804,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course:46",
         "course:47",
-        "course:48",
-        "course:80"
+        "course:79"
       ]
     },
     {
@@ -16801,7 +16818,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:47",
+        "course-word:46",
         "course-lexicon"
       ]
     },
@@ -16814,8 +16831,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:47",
-        "course-word:77",
+        "course-word:46",
+        "course-word:76",
         "course-lexicon"
       ]
     },
@@ -16828,7 +16845,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:47",
+        "course-word:46",
         "course-lexicon"
       ]
     },
@@ -16841,7 +16858,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-text:48"
+        "course-text:47"
       ]
     },
     {
@@ -16853,8 +16870,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:49",
-        "course:55"
+        "course:48",
+        "course:54"
       ]
     },
     {
@@ -16866,8 +16883,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:49",
-        "course:55"
+        "course:48",
+        "course:54"
       ]
     },
     {
@@ -16879,8 +16896,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:49",
-        "course:55"
+        "course:48",
+        "course:54"
       ]
     },
     {
@@ -16892,8 +16909,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:49",
-        "course:55"
+        "course:48",
+        "course:54"
       ]
     },
     {
@@ -16905,8 +16922,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:49",
-        "course:55"
+        "course:48",
+        "course:54"
       ]
     },
     {
@@ -16918,8 +16935,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:49",
-        "course:55"
+        "course:48",
+        "course:54"
       ]
     },
     {
@@ -16931,8 +16948,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:49",
-        "course:55"
+        "course:48",
+        "course:54"
       ]
     },
     {
@@ -16944,8 +16961,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:49",
-        "course:55"
+        "course:48",
+        "course:54"
       ]
     },
     {
@@ -16957,8 +16974,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:50",
-        "course:55"
+        "course:49",
+        "course:54"
       ]
     },
     {
@@ -16970,8 +16987,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:50",
-        "course:55"
+        "course:49",
+        "course:54"
       ]
     },
     {
@@ -16983,8 +17000,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:50",
-        "course:55"
+        "course:49",
+        "course:54"
       ]
     },
     {
@@ -16996,8 +17013,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:50",
-        "course:55"
+        "course:49",
+        "course:54"
       ]
     },
     {
@@ -17009,8 +17026,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:50",
-        "course:55"
+        "course:49",
+        "course:54"
       ]
     },
     {
@@ -17022,8 +17039,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:50",
-        "course:55"
+        "course:49",
+        "course:54"
       ]
     },
     {
@@ -17035,8 +17052,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:50",
-        "course:55"
+        "course:49",
+        "course:54"
       ]
     },
     {
@@ -17048,8 +17065,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:50",
-        "course:55"
+        "course:49",
+        "course:54"
       ]
     },
     {
@@ -17061,8 +17078,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:50",
-        "course-word:77",
+        "course-word:49",
+        "course-word:76",
         "course-lexicon"
       ]
     },
@@ -17075,8 +17092,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:51",
-        "course:55"
+        "course:50",
+        "course:54"
       ]
     },
     {
@@ -17088,8 +17105,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:51",
-        "course:55"
+        "course:50",
+        "course:54"
       ]
     },
     {
@@ -17101,8 +17118,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:51",
-        "course:55"
+        "course:50",
+        "course:54"
       ]
     },
     {
@@ -17114,8 +17131,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:51",
-        "course:55"
+        "course:50",
+        "course:54"
       ]
     },
     {
@@ -17127,8 +17144,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:51",
-        "course:55"
+        "course:50",
+        "course:54"
       ]
     },
     {
@@ -17140,8 +17157,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:51",
-        "course:55"
+        "course:50",
+        "course:54"
       ]
     },
     {
@@ -17153,8 +17170,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:51",
-        "course:55"
+        "course:50",
+        "course:54"
       ]
     },
     {
@@ -17166,8 +17183,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:51",
-        "course:55"
+        "course:50",
+        "course:54"
       ]
     },
     {
@@ -17179,9 +17196,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:52",
-        "course:55",
-        "course:80"
+        "course:51",
+        "course:54",
+        "course:79"
       ]
     },
     {
@@ -17193,9 +17210,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:52",
-        "course:55",
-        "course:80"
+        "course:51",
+        "course:54",
+        "course:79"
       ]
     },
     {
@@ -17207,9 +17224,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:52",
-        "course:55",
-        "course:80"
+        "course:51",
+        "course:54",
+        "course:79"
       ]
     },
     {
@@ -17221,9 +17238,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:52",
-        "course:55",
-        "course:80"
+        "course:51",
+        "course:54",
+        "course:79"
       ]
     },
     {
@@ -17235,9 +17252,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:52",
-        "course:55",
-        "course:80"
+        "course:51",
+        "course:54",
+        "course:79"
       ]
     },
     {
@@ -17249,9 +17266,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:52",
-        "course:55",
-        "course:80"
+        "course:51",
+        "course:54",
+        "course:79"
       ]
     },
     {
@@ -17263,9 +17280,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:52",
-        "course:55",
-        "course:80"
+        "course:51",
+        "course:54",
+        "course:79"
       ]
     },
     {
@@ -17277,9 +17294,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:52",
-        "course:55",
-        "course:80"
+        "course:51",
+        "course:54",
+        "course:79"
       ]
     },
     {
@@ -17291,8 +17308,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:53",
-        "course:55"
+        "course:52",
+        "course:54"
       ]
     },
     {
@@ -17304,8 +17321,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:53",
-        "course:55"
+        "course:52",
+        "course:54"
       ]
     },
     {
@@ -17317,8 +17334,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:53",
-        "course:55"
+        "course:52",
+        "course:54"
       ]
     },
     {
@@ -17330,8 +17347,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:53",
-        "course:55"
+        "course:52",
+        "course:54"
       ]
     },
     {
@@ -17343,8 +17360,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:53",
-        "course:55"
+        "course:52",
+        "course:54"
       ]
     },
     {
@@ -17356,8 +17373,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:53",
-        "course:55"
+        "course:52",
+        "course:54"
       ]
     },
     {
@@ -17369,8 +17386,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:53",
-        "course:55"
+        "course:52",
+        "course:54"
       ]
     },
     {
@@ -17382,8 +17399,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:53",
-        "course:55"
+        "course:52",
+        "course:54"
       ]
     },
     {
@@ -17395,8 +17412,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:54",
-        "course:55"
+        "course:53",
+        "course:54"
       ]
     },
     {
@@ -17408,8 +17425,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:54",
-        "course:55"
+        "course:53",
+        "course:54"
       ]
     },
     {
@@ -17421,8 +17438,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:54",
-        "course:55"
+        "course:53",
+        "course:54"
       ]
     },
     {
@@ -17434,8 +17451,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:54",
-        "course:55"
+        "course:53",
+        "course:54"
       ]
     },
     {
@@ -17447,8 +17464,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:54",
-        "course:55"
+        "course:53",
+        "course:54"
       ]
     },
     {
@@ -17460,8 +17477,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:54",
-        "course:55"
+        "course:53",
+        "course:54"
       ]
     },
     {
@@ -17473,8 +17490,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:54",
-        "course:55"
+        "course:53",
+        "course:54"
       ]
     },
     {
@@ -17486,8 +17503,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:54",
-        "course:55"
+        "course:53",
+        "course:54"
       ]
     },
     {
@@ -17499,7 +17516,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:54",
+        "course-word:53",
         "course-lexicon"
       ]
     },
@@ -17512,7 +17529,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:54",
+        "course-word:53",
         "course-lexicon"
       ]
     },
@@ -17525,8 +17542,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:54",
-        "course-word:59",
+        "course-word:53",
+        "course-word:58",
         "course-lexicon"
       ]
     },
@@ -17539,7 +17556,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:54",
+        "course-word:53",
         "course-lexicon"
       ]
     },
@@ -17552,7 +17569,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-text:55"
+        "course-text:54"
       ]
     },
     {
@@ -17564,8 +17581,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:56",
-        "course:62"
+        "course:55",
+        "course:61"
       ]
     },
     {
@@ -17577,8 +17594,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:56",
-        "course:62"
+        "course:55",
+        "course:61"
       ]
     },
     {
@@ -17590,8 +17607,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:56",
-        "course:62"
+        "course:55",
+        "course:61"
       ]
     },
     {
@@ -17603,8 +17620,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:56",
-        "course:62"
+        "course:55",
+        "course:61"
       ]
     },
     {
@@ -17616,8 +17633,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:56",
-        "course:62"
+        "course:55",
+        "course:61"
       ]
     },
     {
@@ -17629,8 +17646,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:56",
-        "course:62"
+        "course:55",
+        "course:61"
       ]
     },
     {
@@ -17642,8 +17659,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:56",
-        "course:62"
+        "course:55",
+        "course:61"
       ]
     },
     {
@@ -17655,8 +17672,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:56",
-        "course:62"
+        "course:55",
+        "course:61"
       ]
     },
     {
@@ -17668,7 +17685,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:56",
+        "course-word:55",
         "course-lexicon"
       ]
     },
@@ -17681,7 +17698,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:56",
+        "course-word:55",
         "course-lexicon"
       ]
     },
@@ -17694,8 +17711,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:57",
-        "course:62"
+        "course:56",
+        "course:61"
       ]
     },
     {
@@ -17707,8 +17724,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:57",
-        "course:62"
+        "course:56",
+        "course:61"
       ]
     },
     {
@@ -17720,8 +17737,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:57",
-        "course:62"
+        "course:56",
+        "course:61"
       ]
     },
     {
@@ -17733,8 +17750,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:57",
-        "course:62"
+        "course:56",
+        "course:61"
       ]
     },
     {
@@ -17746,8 +17763,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:57",
-        "course:62"
+        "course:56",
+        "course:61"
       ]
     },
     {
@@ -17759,8 +17776,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:57",
-        "course:62"
+        "course:56",
+        "course:61"
       ]
     },
     {
@@ -17772,8 +17789,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:57",
-        "course:62"
+        "course:56",
+        "course:61"
       ]
     },
     {
@@ -17785,8 +17802,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:57",
-        "course:62"
+        "course:56",
+        "course:61"
       ]
     },
     {
@@ -17798,7 +17815,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:57",
+        "course-word:56",
         "course-lexicon"
       ]
     },
@@ -17811,7 +17828,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:57",
+        "course-word:56",
         "course-lexicon"
       ]
     },
@@ -17824,7 +17841,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:57",
+        "course-word:56",
         "course-lexicon"
       ]
     },
@@ -17837,9 +17854,9 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course-word:56",
         "course-word:57",
-        "course-word:58",
-        "course-word:60",
+        "course-word:59",
         "course-lexicon"
       ]
     },
@@ -17852,8 +17869,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:58",
-        "course:62"
+        "course:57",
+        "course:61"
       ]
     },
     {
@@ -17865,8 +17882,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:58",
-        "course:62"
+        "course:57",
+        "course:61"
       ]
     },
     {
@@ -17878,8 +17895,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:58",
-        "course:62"
+        "course:57",
+        "course:61"
       ]
     },
     {
@@ -17891,8 +17908,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:58",
-        "course:62"
+        "course:57",
+        "course:61"
       ]
     },
     {
@@ -17904,8 +17921,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:58",
-        "course:62"
+        "course:57",
+        "course:61"
       ]
     },
     {
@@ -17917,8 +17934,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:58",
-        "course:62"
+        "course:57",
+        "course:61"
       ]
     },
     {
@@ -17930,8 +17947,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:58",
-        "course:62"
+        "course:57",
+        "course:61"
       ]
     },
     {
@@ -17943,8 +17960,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:58",
-        "course:62"
+        "course:57",
+        "course:61"
       ]
     },
     {
@@ -17956,7 +17973,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:58",
+        "course-word:57",
         "course-lexicon"
       ]
     },
@@ -17969,7 +17986,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:58",
+        "course-word:57",
         "course-lexicon"
       ]
     },
@@ -17982,7 +17999,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:58",
+        "course-word:57",
         "course-lexicon"
       ]
     },
@@ -17995,9 +18012,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:59",
-        "course:62",
-        "course:80"
+        "course:58",
+        "course:61",
+        "course:79"
       ]
     },
     {
@@ -18009,9 +18026,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:59",
-        "course:62",
-        "course:80"
+        "course:58",
+        "course:61",
+        "course:79"
       ]
     },
     {
@@ -18023,9 +18040,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:59",
-        "course:62",
-        "course:80"
+        "course:58",
+        "course:61",
+        "course:79"
       ]
     },
     {
@@ -18037,9 +18054,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:59",
-        "course:62",
-        "course:80"
+        "course:58",
+        "course:61",
+        "course:79"
       ]
     },
     {
@@ -18051,9 +18068,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:59",
-        "course:62",
-        "course:80"
+        "course:58",
+        "course:61",
+        "course:79"
       ]
     },
     {
@@ -18065,9 +18082,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:59",
-        "course:62",
-        "course:80"
+        "course:58",
+        "course:61",
+        "course:79"
       ]
     },
     {
@@ -18079,9 +18096,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:59",
-        "course:62",
-        "course:80"
+        "course:58",
+        "course:61",
+        "course:79"
       ]
     },
     {
@@ -18093,8 +18110,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:59",
-        "course-word:79",
+        "course-word:58",
+        "course-word:78",
         "course-lexicon"
       ]
     },
@@ -18107,7 +18124,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:59",
+        "course-word:58",
         "course-lexicon"
       ]
     },
@@ -18120,8 +18137,8 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course-word:58",
         "course-word:59",
-        "course-word:60",
         "course-lexicon"
       ]
     },
@@ -18134,7 +18151,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:59",
+        "course-word:58",
         "course-lexicon"
       ]
     },
@@ -18147,7 +18164,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:59",
+        "course-word:58",
         "course-lexicon"
       ]
     },
@@ -18160,8 +18177,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:60",
-        "course:62"
+        "course:59",
+        "course:61"
       ]
     },
     {
@@ -18173,8 +18190,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:60",
-        "course:62"
+        "course:59",
+        "course:61"
       ]
     },
     {
@@ -18186,8 +18203,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:60",
-        "course:62"
+        "course:59",
+        "course:61"
       ]
     },
     {
@@ -18199,8 +18216,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:60",
-        "course:62"
+        "course:59",
+        "course:61"
       ]
     },
     {
@@ -18212,8 +18229,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:60",
-        "course:62"
+        "course:59",
+        "course:61"
       ]
     },
     {
@@ -18225,8 +18242,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:60",
-        "course:62"
+        "course:59",
+        "course:61"
       ]
     },
     {
@@ -18238,8 +18255,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:60",
-        "course:62"
+        "course:59",
+        "course:61"
       ]
     },
     {
@@ -18251,8 +18268,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:60",
-        "course:62"
+        "course:59",
+        "course:61"
       ]
     },
     {
@@ -18264,7 +18281,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:60",
+        "course-word:59",
         "course-lexicon"
       ]
     },
@@ -18277,7 +18294,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:60",
+        "course-word:59",
         "course-lexicon"
       ]
     },
@@ -18290,7 +18307,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:60",
+        "course-word:59",
         "course-lexicon"
       ]
     },
@@ -18303,8 +18320,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:60",
-        "course-word:79",
+        "course-word:59",
+        "course-word:78",
         "course-lexicon"
       ]
     },
@@ -18317,8 +18334,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:61",
-        "course:62"
+        "course:60",
+        "course:61"
       ]
     },
     {
@@ -18330,8 +18347,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:61",
-        "course:62"
+        "course:60",
+        "course:61"
       ]
     },
     {
@@ -18343,8 +18360,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:61",
-        "course:62"
+        "course:60",
+        "course:61"
       ]
     },
     {
@@ -18356,8 +18373,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:61",
-        "course:62"
+        "course:60",
+        "course:61"
       ]
     },
     {
@@ -18369,8 +18386,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:61",
-        "course:62"
+        "course:60",
+        "course:61"
       ]
     },
     {
@@ -18382,8 +18399,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:61",
-        "course:62"
+        "course:60",
+        "course:61"
       ]
     },
     {
@@ -18395,8 +18412,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:61",
-        "course:62"
+        "course:60",
+        "course:61"
       ]
     },
     {
@@ -18408,7 +18425,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:61",
+        "course-word:60",
         "course-lexicon"
       ]
     },
@@ -18421,7 +18438,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:61",
+        "course-word:60",
         "course-lexicon"
       ]
     },
@@ -18434,7 +18451,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:61",
+        "course-word:60",
         "course-lexicon"
       ]
     },
@@ -18447,7 +18464,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:61",
+        "course-word:60",
         "course-lexicon"
       ]
     },
@@ -18460,7 +18477,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:61",
+        "course-word:60",
         "course-lexicon"
       ]
     },
@@ -18473,7 +18490,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:61",
+        "course-word:60",
         "course-lexicon"
       ]
     },
@@ -18486,7 +18503,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-text:62"
+        "course-text:61"
       ]
     },
     {
@@ -18498,8 +18515,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:63",
-        "course:70"
+        "course:62",
+        "course:69"
       ]
     },
     {
@@ -18511,8 +18528,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:63",
-        "course:70"
+        "course:62",
+        "course:69"
       ]
     },
     {
@@ -18524,8 +18541,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:63",
-        "course:70"
+        "course:62",
+        "course:69"
       ]
     },
     {
@@ -18537,8 +18554,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:63",
-        "course:70"
+        "course:62",
+        "course:69"
       ]
     },
     {
@@ -18550,8 +18567,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:63",
-        "course:70"
+        "course:62",
+        "course:69"
       ]
     },
     {
@@ -18563,8 +18580,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:63",
-        "course:70"
+        "course:62",
+        "course:69"
       ]
     },
     {
@@ -18576,8 +18593,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:63",
-        "course:70"
+        "course:62",
+        "course:69"
       ]
     },
     {
@@ -18589,8 +18606,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:63",
-        "course:70"
+        "course:62",
+        "course:69"
       ]
     },
     {
@@ -18602,8 +18619,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:63",
-        "course-word:66",
+        "course-word:62",
+        "course-word:65",
         "course-lexicon"
       ]
     },
@@ -18616,7 +18633,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:63",
+        "course-word:62",
         "course-lexicon"
       ]
     },
@@ -18629,8 +18646,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:63",
-        "course-word:69",
+        "course-word:62",
+        "course-word:68",
         "course-lexicon"
       ]
     },
@@ -18643,8 +18660,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:63",
-        "course-word:69",
+        "course-word:62",
+        "course-word:68",
         "course-lexicon"
       ]
     },
@@ -18657,7 +18674,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:63",
+        "course-word:62",
         "course-lexicon"
       ]
     },
@@ -18670,7 +18687,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:63",
+        "course-word:62",
         "course-lexicon"
       ]
     },
@@ -18683,9 +18700,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:64",
-        "course:70",
-        "course:80"
+        "course:63",
+        "course:69",
+        "course:79"
       ]
     },
     {
@@ -18697,9 +18714,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:64",
-        "course:70",
-        "course:80"
+        "course:63",
+        "course:69",
+        "course:79"
       ]
     },
     {
@@ -18711,9 +18728,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:64",
-        "course:70",
-        "course:80"
+        "course:63",
+        "course:69",
+        "course:79"
       ]
     },
     {
@@ -18725,9 +18742,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:64",
-        "course:70",
-        "course:80"
+        "course:63",
+        "course:69",
+        "course:79"
       ]
     },
     {
@@ -18739,9 +18756,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:64",
-        "course:70",
-        "course:80"
+        "course:63",
+        "course:69",
+        "course:79"
       ]
     },
     {
@@ -18753,9 +18770,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:64",
-        "course:70",
-        "course:80"
+        "course:63",
+        "course:69",
+        "course:79"
       ]
     },
     {
@@ -18767,9 +18784,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:64",
-        "course:70",
-        "course:80"
+        "course:63",
+        "course:69",
+        "course:79"
       ]
     },
     {
@@ -18781,9 +18798,9 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:64",
-        "course:70",
-        "course:80"
+        "course:63",
+        "course:69",
+        "course:79"
       ]
     },
     {
@@ -18795,7 +18812,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:64",
+        "course-word:63",
         "course-lexicon"
       ]
     },
@@ -18808,7 +18825,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:64",
+        "course-word:63",
         "course-lexicon"
       ]
     },
@@ -18821,7 +18838,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:64",
+        "course-word:63",
         "course-lexicon"
       ]
     },
@@ -18834,7 +18851,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:64",
+        "course-word:63",
         "course-lexicon"
       ]
     },
@@ -18847,7 +18864,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:64",
+        "course-word:63",
         "course-lexicon"
       ]
     },
@@ -18860,7 +18877,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:64",
+        "course-word:63",
         "course-lexicon"
       ]
     },
@@ -18873,7 +18890,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:64",
+        "course-word:63",
         "course-lexicon"
       ]
     },
@@ -18886,8 +18903,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:65",
-        "course:70"
+        "course:64",
+        "course:69"
       ]
     },
     {
@@ -18899,8 +18916,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:65",
-        "course:70"
+        "course:64",
+        "course:69"
       ]
     },
     {
@@ -18912,8 +18929,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:65",
-        "course:70"
+        "course:64",
+        "course:69"
       ]
     },
     {
@@ -18925,8 +18942,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:65",
-        "course:70"
+        "course:64",
+        "course:69"
       ]
     },
     {
@@ -18938,8 +18955,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:65",
-        "course:70"
+        "course:64",
+        "course:69"
       ]
     },
     {
@@ -18951,8 +18968,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:65",
-        "course:70"
+        "course:64",
+        "course:69"
       ]
     },
     {
@@ -18964,8 +18981,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:65",
-        "course:70"
+        "course:64",
+        "course:69"
       ]
     },
     {
@@ -18977,8 +18994,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:65",
-        "course:70"
+        "course:64",
+        "course:69"
       ]
     },
     {
@@ -18990,7 +19007,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:65",
+        "course-word:64",
         "course-lexicon"
       ]
     },
@@ -19003,7 +19020,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:65",
+        "course-word:64",
         "course-lexicon"
       ]
     },
@@ -19016,7 +19033,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:65",
+        "course-word:64",
         "course-lexicon"
       ]
     },
@@ -19029,7 +19046,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:65",
+        "course-word:64",
         "course-lexicon"
       ]
     },
@@ -19042,7 +19059,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:65",
+        "course-word:64",
         "course-lexicon"
       ]
     },
@@ -19055,8 +19072,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:66",
-        "course:70"
+        "course:65",
+        "course:69"
       ]
     },
     {
@@ -19068,8 +19085,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:66",
-        "course:70"
+        "course:65",
+        "course:69"
       ]
     },
     {
@@ -19081,8 +19098,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:66",
-        "course:70"
+        "course:65",
+        "course:69"
       ]
     },
     {
@@ -19094,8 +19111,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:66",
-        "course:70"
+        "course:65",
+        "course:69"
       ]
     },
     {
@@ -19107,8 +19124,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:66",
-        "course:70"
+        "course:65",
+        "course:69"
       ]
     },
     {
@@ -19120,8 +19137,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:66",
-        "course:70"
+        "course:65",
+        "course:69"
       ]
     },
     {
@@ -19133,8 +19150,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:66",
-        "course:70"
+        "course:65",
+        "course:69"
       ]
     },
     {
@@ -19146,8 +19163,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:66",
-        "course:70"
+        "course:65",
+        "course:69"
       ]
     },
     {
@@ -19159,8 +19176,8 @@
       ],
       "origins": [
         "phrase-catalog",
+        "course-word:65",
         "course-word:66",
-        "course-word:67",
         "course-lexicon"
       ]
     },
@@ -19173,8 +19190,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:67",
-        "course:70"
+        "course:66",
+        "course:69"
       ]
     },
     {
@@ -19186,8 +19203,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:67",
-        "course:70"
+        "course:66",
+        "course:69"
       ]
     },
     {
@@ -19199,8 +19216,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:67",
-        "course:70"
+        "course:66",
+        "course:69"
       ]
     },
     {
@@ -19212,8 +19229,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:67",
-        "course:70"
+        "course:66",
+        "course:69"
       ]
     },
     {
@@ -19225,8 +19242,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:67",
-        "course:70"
+        "course:66",
+        "course:69"
       ]
     },
     {
@@ -19238,8 +19255,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:67",
-        "course:70"
+        "course:66",
+        "course:69"
       ]
     },
     {
@@ -19251,8 +19268,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:67",
-        "course:70"
+        "course:66",
+        "course:69"
       ]
     },
     {
@@ -19264,8 +19281,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:67",
-        "course:70"
+        "course:66",
+        "course:69"
       ]
     },
     {
@@ -19277,7 +19294,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:67",
+        "course-word:66",
         "course-lexicon"
       ]
     },
@@ -19290,7 +19307,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:67",
+        "course-word:66",
         "course-lexicon"
       ]
     },
@@ -19303,7 +19320,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:67",
+        "course-word:66",
         "course-lexicon"
       ]
     },
@@ -19316,8 +19333,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:68",
-        "course:70"
+        "course:67",
+        "course:69"
       ]
     },
     {
@@ -19329,8 +19346,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:68",
-        "course:70"
+        "course:67",
+        "course:69"
       ]
     },
     {
@@ -19342,8 +19359,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:68",
-        "course:70"
+        "course:67",
+        "course:69"
       ]
     },
     {
@@ -19355,8 +19372,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:68",
-        "course:70"
+        "course:67",
+        "course:69"
       ]
     },
     {
@@ -19368,8 +19385,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:68",
-        "course:70"
+        "course:67",
+        "course:69"
       ]
     },
     {
@@ -19381,8 +19398,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:68",
-        "course:70"
+        "course:67",
+        "course:69"
       ]
     },
     {
@@ -19394,8 +19411,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:68",
-        "course:70"
+        "course:67",
+        "course:69"
       ]
     },
     {
@@ -19407,8 +19424,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:68",
-        "course:70"
+        "course:67",
+        "course:69"
       ]
     },
     {
@@ -19420,7 +19437,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:68",
+        "course-word:67",
         "course-lexicon"
       ]
     },
@@ -19433,7 +19450,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:68",
+        "course-word:67",
         "course-lexicon"
       ]
     },
@@ -19446,7 +19463,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:68",
+        "course-word:67",
         "course-lexicon"
       ]
     },
@@ -19459,8 +19476,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:69",
-        "course:70"
+        "course:68",
+        "course:69"
       ]
     },
     {
@@ -19472,8 +19489,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:69",
-        "course:70"
+        "course:68",
+        "course:69"
       ]
     },
     {
@@ -19485,8 +19502,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:69",
-        "course:70"
+        "course:68",
+        "course:69"
       ]
     },
     {
@@ -19498,8 +19515,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:69",
-        "course:70"
+        "course:68",
+        "course:69"
       ]
     },
     {
@@ -19511,8 +19528,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:69",
-        "course:70"
+        "course:68",
+        "course:69"
       ]
     },
     {
@@ -19524,8 +19541,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:69",
-        "course:70"
+        "course:68",
+        "course:69"
       ]
     },
     {
@@ -19537,8 +19554,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:69",
-        "course:70"
+        "course:68",
+        "course:69"
       ]
     },
     {
@@ -19550,8 +19567,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:69",
-        "course:70"
+        "course:68",
+        "course:69"
       ]
     },
     {
@@ -19563,7 +19580,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:69",
+        "course-word:68",
         "course-lexicon"
       ]
     },
@@ -19576,7 +19593,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-text:70"
+        "course-text:69"
       ]
     },
     {
@@ -19588,8 +19605,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:71",
-        "course:80"
+        "course:70",
+        "course:79"
       ]
     },
     {
@@ -19601,8 +19618,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:71",
-        "course:80"
+        "course:70",
+        "course:79"
       ]
     },
     {
@@ -19614,8 +19631,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:71",
-        "course:80"
+        "course:70",
+        "course:79"
       ]
     },
     {
@@ -19627,8 +19644,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:71",
-        "course:80"
+        "course:70",
+        "course:79"
       ]
     },
     {
@@ -19640,8 +19657,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:71",
-        "course:80"
+        "course:70",
+        "course:79"
       ]
     },
     {
@@ -19653,8 +19670,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:71",
-        "course:80"
+        "course:70",
+        "course:79"
       ]
     },
     {
@@ -19666,8 +19683,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:71",
-        "course:80"
+        "course:70",
+        "course:79"
       ]
     },
     {
@@ -19679,8 +19696,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:71",
-        "course:80"
+        "course:70",
+        "course:79"
       ]
     },
     {
@@ -19692,7 +19709,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:71",
+        "course-word:70",
         "course-lexicon"
       ]
     },
@@ -19705,7 +19722,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:71",
+        "course-word:70",
         "course-lexicon"
       ]
     },
@@ -19718,7 +19735,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:71",
+        "course-word:70",
         "course-lexicon"
       ]
     },
@@ -19731,7 +19748,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:71",
+        "course-word:70",
         "course-lexicon"
       ]
     },
@@ -19744,7 +19761,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:71",
+        "course-word:70",
         "course-lexicon"
       ]
     },
@@ -19757,7 +19774,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:71",
+        "course-word:70",
         "course-lexicon"
       ]
     },
@@ -19770,7 +19787,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:71",
+        "course-word:70",
         "course-lexicon"
       ]
     },
@@ -19783,7 +19800,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:71",
+        "course-word:70",
         "course-lexicon"
       ]
     },
@@ -19796,7 +19813,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:72"
+        "course:71"
       ]
     },
     {
@@ -19808,7 +19825,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:72"
+        "course:71"
       ]
     },
     {
@@ -19820,7 +19837,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:72"
+        "course:71"
       ]
     },
     {
@@ -19832,7 +19849,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:72"
+        "course:71"
       ]
     },
     {
@@ -19844,7 +19861,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:72"
+        "course:71"
       ]
     },
     {
@@ -19856,7 +19873,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:72"
+        "course:71"
       ]
     },
     {
@@ -19868,7 +19885,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:72"
+        "course:71"
       ]
     },
     {
@@ -19880,7 +19897,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:72"
+        "course:71"
       ]
     },
     {
@@ -19892,7 +19909,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:72",
+        "course-word:71",
         "course-lexicon"
       ]
     },
@@ -19905,7 +19922,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:72",
+        "course-word:71",
         "course-lexicon"
       ]
     },
@@ -19918,7 +19935,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:72",
+        "course-word:71",
         "course-lexicon"
       ]
     },
@@ -19931,7 +19948,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:72",
+        "course-word:71",
         "course-lexicon"
       ]
     },
@@ -19944,7 +19961,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:72",
+        "course-word:71",
         "course-lexicon"
       ]
     },
@@ -19957,8 +19974,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:73",
-        "course:80"
+        "course:72",
+        "course:79"
       ]
     },
     {
@@ -19970,8 +19987,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:73",
-        "course:80"
+        "course:72",
+        "course:79"
       ]
     },
     {
@@ -19983,8 +20000,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:73",
-        "course:80"
+        "course:72",
+        "course:79"
       ]
     },
     {
@@ -19996,8 +20013,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:73",
-        "course:80"
+        "course:72",
+        "course:79"
       ]
     },
     {
@@ -20009,8 +20026,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:73",
-        "course:80"
+        "course:72",
+        "course:79"
       ]
     },
     {
@@ -20022,8 +20039,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:73",
-        "course:80"
+        "course:72",
+        "course:79"
       ]
     },
     {
@@ -20035,8 +20052,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:73",
-        "course:80"
+        "course:72",
+        "course:79"
       ]
     },
     {
@@ -20048,8 +20065,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:73",
-        "course:80"
+        "course:72",
+        "course:79"
       ]
     },
     {
@@ -20061,7 +20078,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:73",
+        "course-word:72",
         "course-lexicon"
       ]
     },
@@ -20074,7 +20091,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:73",
+        "course-word:72",
         "course-lexicon"
       ]
     },
@@ -20087,7 +20104,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:73",
+        "course-word:72",
         "course-lexicon"
       ]
     },
@@ -20100,7 +20117,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:73",
+        "course-word:72",
         "course-lexicon"
       ]
     },
@@ -20113,7 +20130,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:74"
+        "course:73"
       ]
     },
     {
@@ -20125,7 +20142,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:74"
+        "course:73"
       ]
     },
     {
@@ -20137,7 +20154,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:74"
+        "course:73"
       ]
     },
     {
@@ -20149,7 +20166,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:74"
+        "course:73"
       ]
     },
     {
@@ -20161,7 +20178,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:74"
+        "course:73"
       ]
     },
     {
@@ -20173,7 +20190,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:74"
+        "course:73"
       ]
     },
     {
@@ -20185,7 +20202,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:74"
+        "course:73"
       ]
     },
     {
@@ -20197,7 +20214,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:74"
+        "course:73"
       ]
     },
     {
@@ -20209,7 +20226,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:74",
+        "course-word:73",
         "course-lexicon"
       ]
     },
@@ -20222,7 +20239,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:74",
+        "course-word:73",
         "course-lexicon"
       ]
     },
@@ -20235,7 +20252,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:74",
+        "course-word:73",
         "course-lexicon"
       ]
     },
@@ -20248,7 +20265,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:74",
+        "course-word:73",
         "course-lexicon"
       ]
     },
@@ -20261,7 +20278,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:74",
+        "course-word:73",
         "course-lexicon"
       ]
     },
@@ -20274,7 +20291,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:74",
+        "course-word:73",
         "course-lexicon"
       ]
     },
@@ -20287,7 +20304,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:75"
+        "course:74"
       ]
     },
     {
@@ -20299,7 +20316,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:75"
+        "course:74"
       ]
     },
     {
@@ -20311,7 +20328,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:75"
+        "course:74"
       ]
     },
     {
@@ -20323,7 +20340,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:75"
+        "course:74"
       ]
     },
     {
@@ -20335,7 +20352,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:75"
+        "course:74"
       ]
     },
     {
@@ -20347,7 +20364,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:75"
+        "course:74"
       ]
     },
     {
@@ -20359,7 +20376,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:75"
+        "course:74"
       ]
     },
     {
@@ -20371,7 +20388,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:75"
+        "course:74"
       ]
     },
     {
@@ -20383,7 +20400,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:75",
+        "course-word:74",
         "course-lexicon"
       ]
     },
@@ -20396,7 +20413,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:75",
+        "course-word:74",
         "course-lexicon"
       ]
     },
@@ -20409,7 +20426,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:75",
+        "course-word:74",
         "course-lexicon"
       ]
     },
@@ -20422,7 +20439,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:75",
+        "course-word:74",
         "course-lexicon"
       ]
     },
@@ -20435,7 +20452,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:75",
+        "course-word:74",
         "course-lexicon"
       ]
     },
@@ -20448,8 +20465,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:76",
-        "course:80"
+        "course:75",
+        "course:79"
       ]
     },
     {
@@ -20461,8 +20478,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:76",
-        "course:80"
+        "course:75",
+        "course:79"
       ]
     },
     {
@@ -20474,8 +20491,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:76",
-        "course:80"
+        "course:75",
+        "course:79"
       ]
     },
     {
@@ -20487,8 +20504,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:76",
-        "course:80"
+        "course:75",
+        "course:79"
       ]
     },
     {
@@ -20500,8 +20517,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:76",
-        "course:80"
+        "course:75",
+        "course:79"
       ]
     },
     {
@@ -20513,8 +20530,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:76",
-        "course:80"
+        "course:75",
+        "course:79"
       ]
     },
     {
@@ -20526,8 +20543,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:76",
-        "course:80"
+        "course:75",
+        "course:79"
       ]
     },
     {
@@ -20539,8 +20556,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:76",
-        "course:80"
+        "course:75",
+        "course:79"
       ]
     },
     {
@@ -20552,7 +20569,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:76",
+        "course-word:75",
         "course-lexicon"
       ]
     },
@@ -20565,7 +20582,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:76",
+        "course-word:75",
         "course-lexicon"
       ]
     },
@@ -20578,7 +20595,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:76",
+        "course-word:75",
         "course-lexicon"
       ]
     },
@@ -20591,7 +20608,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:76",
+        "course-word:75",
         "course-lexicon"
       ]
     },
@@ -20604,7 +20621,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:76",
+        "course-word:75",
         "course-lexicon"
       ]
     },
@@ -20617,8 +20634,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:77",
-        "course:80"
+        "course:76",
+        "course:79"
       ]
     },
     {
@@ -20630,8 +20647,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:77",
-        "course:80"
+        "course:76",
+        "course:79"
       ]
     },
     {
@@ -20643,8 +20660,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:77",
-        "course:80"
+        "course:76",
+        "course:79"
       ]
     },
     {
@@ -20656,8 +20673,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:77",
-        "course:80"
+        "course:76",
+        "course:79"
       ]
     },
     {
@@ -20669,8 +20686,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:77",
-        "course:80"
+        "course:76",
+        "course:79"
       ]
     },
     {
@@ -20682,8 +20699,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:77",
-        "course:80"
+        "course:76",
+        "course:79"
       ]
     },
     {
@@ -20695,8 +20712,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:77",
-        "course:80"
+        "course:76",
+        "course:79"
       ]
     },
     {
@@ -20708,7 +20725,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:77",
+        "course-word:76",
         "course-lexicon"
       ]
     },
@@ -20721,7 +20738,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:77",
+        "course-word:76",
         "course-lexicon"
       ]
     },
@@ -20734,8 +20751,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:78",
-        "course:80"
+        "course:77",
+        "course:79"
       ]
     },
     {
@@ -20747,8 +20764,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:78",
-        "course:80"
+        "course:77",
+        "course:79"
       ]
     },
     {
@@ -20760,8 +20777,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:78",
-        "course:80"
+        "course:77",
+        "course:79"
       ]
     },
     {
@@ -20773,8 +20790,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:78",
-        "course:80"
+        "course:77",
+        "course:79"
       ]
     },
     {
@@ -20786,8 +20803,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:78",
-        "course:80"
+        "course:77",
+        "course:79"
       ]
     },
     {
@@ -20799,8 +20816,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:78",
-        "course:80"
+        "course:77",
+        "course:79"
       ]
     },
     {
@@ -20812,8 +20829,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:78",
-        "course:80"
+        "course:77",
+        "course:79"
       ]
     },
     {
@@ -20825,8 +20842,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:78",
-        "course:80"
+        "course:77",
+        "course:79"
       ]
     },
     {
@@ -20838,7 +20855,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:78",
+        "course-word:77",
         "course-lexicon"
       ]
     },
@@ -20851,7 +20868,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:78",
+        "course-word:77",
         "course-lexicon"
       ]
     },
@@ -20864,7 +20881,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:78",
+        "course-word:77",
         "course-lexicon"
       ]
     },
@@ -20877,7 +20894,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:78",
+        "course-word:77",
         "course-lexicon"
       ]
     },
@@ -20890,7 +20907,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-bonus:79"
+        "course-bonus:78"
       ]
     },
     {
@@ -20902,7 +20919,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-bonus:79"
+        "course-bonus:78"
       ]
     },
     {
@@ -20914,8 +20931,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:79",
-        "course:80"
+        "course:78",
+        "course:79"
       ]
     },
     {
@@ -20927,8 +20944,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:79",
-        "course:80"
+        "course:78",
+        "course:79"
       ]
     },
     {
@@ -20940,8 +20957,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:79",
-        "course:80"
+        "course:78",
+        "course:79"
       ]
     },
     {
@@ -20953,8 +20970,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:79",
-        "course:80"
+        "course:78",
+        "course:79"
       ]
     },
     {
@@ -20966,8 +20983,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:79",
-        "course:80"
+        "course:78",
+        "course:79"
       ]
     },
     {
@@ -20979,8 +20996,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:79",
-        "course:80"
+        "course:78",
+        "course:79"
       ]
     },
     {
@@ -20992,8 +21009,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:79",
-        "course:80"
+        "course:78",
+        "course:79"
       ]
     },
     {
@@ -21005,8 +21022,8 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course:79",
-        "course:80"
+        "course:78",
+        "course:79"
       ]
     },
     {
@@ -21018,7 +21035,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:79",
+        "course-word:78",
         "course-lexicon"
       ]
     },
@@ -21031,7 +21048,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-word:79",
+        "course-word:78",
         "course-lexicon"
       ]
     },
@@ -21044,7 +21061,7 @@
       ],
       "origins": [
         "phrase-catalog",
-        "course-text:80"
+        "course-text:79"
       ]
     },
     {
