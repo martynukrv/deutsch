@@ -57,6 +57,7 @@ jobs:
           node .github/tests/full-course.cjs
           node .github/tests/course-art.cjs
           node .github/tests/progress.cjs
+          node .github/tests/adaptive.cjs
       - name: Verify selectable vocabulary practice
         run: node .github/tests/vocab-modes.cjs
       - name: Verify recorded audio playback
@@ -100,3 +101,4 @@ jobs:
           node .github/tests/full-course.cjs
           node .github/tests/course-art.cjs
           node .github/tests/progress.cjs
+          node .github/tests/adaptive.cjs
