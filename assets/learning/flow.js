@@ -1,0 +1,19 @@
+/* Shared exposure audio and correct-answer pacing. No timers survive navigation. */
+(()=>{
+ let run=0,finish=null,timer=null,queue=[],busy=false,generation=0,suspended=false;
+ 
+ window.speak=function(text){const token=++run;if(finish)finish();finish=null;clearTimeout(timer);if(currentAudio){currentAudio.pause();currentAudio=null}window.speechSynthesis?.cancel();const raw=String(text).trim();if(!raw)return Promise.resolve();
+ return new Promise(resolve=>{let settled=false;const done=()=>{if(settled)return;settled=true;clearTimeout(timer);if(finish===done)finish=null;resolve()};finish=done;const files=recordedAudioFiles(raw);let at=0;const fallback=()=>{if(token!==run){done();return}if(!window.SpeechSynthesisUtterance){done();return}const u=new SpeechSynthesisUtterance(raw);u.lang='de-DE';u.rate=.88;u.onend=done;u.onerror=done;window.speechSynthesis?.speak(u)};const next=()=>{if(token!==run||at>=files.length){done();return}const sound=new Audio(files[at++]);currentAudio=sound;sound.onended=next;sound.onerror=fallback;sound.play().catch(done)};timer=setTimeout(done,Math.max(15000,raw.length*180));if(files?.length)next();else fallback()});
+ };
+ const visible=el=>el.isConnected&&el.getClientRects().length&&!el.closest('[hidden],.hidden')&&getComputedStyle(el).visibility!=='hidden';
+ async function drain(){if(busy)return;busy=true;const g=generation;try{while(queue.length&&g===generation){const entry=queue.shift();if(visible(entry.el))await speak(entry.text)}}finally{busy=false;if(queue.length)drain()}}
+ const observed=new WeakMap();let batch=new Set(),batchTimer;
+ const io=new IntersectionObserver(entries=>{for(const e of entries){if(suspended||!e.isIntersecting||!visible(e.target))continue;const text=observed.get(e.target);io.unobserve(e.target);if(!text||batch.has(text))continue;batch.add(text);clearTimeout(batchTimer);batchTimer=setTimeout(()=>batch.clear(),100);queue.push({el:e.target,text})}drain()},{threshold:.4});
+ function scan(){if(suspended)return;for(const el of document.querySelectorAll('#learningView [data-al-audio],#learningView [lang="de"],#courseLessonView [data-speak],#courseLessonView [lang="de"],#courseLessonView [data-auto-de],#wordGrid [data-word],#vocabQuiz [data-auto-de],#trainerView [data-auto-de],#trainerView [data-speak]')){if(observed.has(el)||!visible(el))continue;const text=(el.dataset.speak||el.dataset.autoDe||el.dataset.alAudio||el.querySelector('.wordde,.de')?.textContent||el.textContent).trim();if(!text||text.includes('_____')||text==='…')continue;observed.set(el,text);io.observe(el)}}
+ let scheduled=false;new MutationObserver(()=>{if(!scheduled){scheduled=true;queueMicrotask(()=>{scheduled=false;scan()})}}).observe(document.querySelector('main'),{childList:true,subtree:true});
+ let advance=null;
+ function pause(){suspended=false;generation++;queue=[];batch.clear();if(advance)clearTimeout(advance);advance=null;speak('')}
+ function feedback(ok,text,next,valid=()=>true){pause();suspended=true;const g=generation;Promise.resolve(speak(text)).then(()=>{if(ok&&g===generation&&valid())advance=setTimeout(()=>{advance=null;if(g===generation&&valid())next()},2000)})}
+ const originalMode=setMode;window.setMode=function(mode){pause();return originalMode(mode)};
+ window.DEUTSCH_FLOW={pause,feedback,scan,expose:(text,el)=>{queue.push({text,el});drain()}};scan();
+})();

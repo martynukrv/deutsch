@@ -58,6 +58,7 @@ jobs:
           node .github/tests/course-art.cjs
           node .github/tests/progress.cjs
           node .github/tests/adaptive.cjs
+          node .github/tests/learning-flow.cjs
       - name: Verify selectable vocabulary practice
         run: node .github/tests/vocab-modes.cjs
       - name: Verify recorded audio playback
@@ -70,6 +71,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # The audit timestamp is runtime output, not an asset change.
+          git restore -- audio/recording/all-audio-audit-20261018.json
           git add assets/ audio/
           if ! git diff --cached --quiet; then
             git commit -m "Import validated artwork, voice recordings and exact bindings"
@@ -102,3 +105,4 @@ jobs:
           node .github/tests/course-art.cjs
           node .github/tests/progress.cjs
           node .github/tests/adaptive.cjs
+          node .github/tests/learning-flow.cjs
