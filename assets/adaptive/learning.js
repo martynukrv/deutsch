@@ -3,23 +3,26 @@
 const key='deutsch16_adaptive_v1',DAY=86400000,root=document.getElementById('learningView');
 const pair=(de,ua,en,group='sentence',visual=null)=>({id:de.toLowerCase(),de,ua,en,group,visual});
 const pronouns=[pair('ich','я','I','pronoun'),pair('du','ти','you','pronoun'),pair('er','він','he','pronoun'),pair('sie','вона','she','pronoun'),pair('wir','ми','we','pronoun')];
-const verbs=[pair('lernen','вчитися','to learn','verb'),pair('machen','робити','to do','verb'),pair('wohnen','проживати','to reside','verb'),pair('spielen','грати','to play','verb'),pair('arbeiten','працювати','to work','verb')];
-const phrase=(de,ua,en,verb)=>pair(de,ua,en,de.endsWith('?')?'question':de.includes(' nicht')?'negative':'sentence',[verb,verbs.find(v=>v.de===verb).ua]);
+const verbs=[pair('lernen','вчитися','to learn','verb'),pair('machen','робити','to do','verb'),pair('wohnen','проживати','to reside','verb'),pair('spielen','грати','to play','verb'),pair('gehen','йти','to go','verb')];
+const laterVerb=pair('arbeiten','працювати','to work','verb');
+const phrase=(de,ua,en,verb)=>pair(de,ua,en,de.endsWith('?')?'question':de.includes(' nicht')?'negative':'sentence',[verb,[...verbs,laterVerb].find(v=>v.de===verb).ua]);
 const stage=(id,title,english,rule,ruleEn,cards)=>({id,title:[title,english],rule:[rule,ruleEn],cards});
 const stages=[
- stage('people-five','П’ять займенників','Five pronouns','ich — я, du — ти, er — він, sie — вона, wir — ми.','ich — I, du — you, er — he, sie — she, wir — we.',pronouns),
- stage('verbs-five','П’ять знайомих дій','Five everyday actions','Запам’ятовуємо значення дієслів. Далі поєднаємо їх зі знайомими займенниками.','Learn the meanings of these verbs, then combine them with familiar pronouns.',verbs),
- stage('ich-du','Я і ти: короткі речення','I and you: short sentences','З ich: lerne, mache. З du: lernst, machst. Змінюється закінчення дієслова.','With ich: lerne, mache. With du: lernst, machst. The verb ending changes.',[
+ stage('people-five','Знайомимося: я, ти, він, вона, ми','Meet I, you, he, she and we','ich — я, du — ти, er — він, sie — вона, wir — ми.','ich — I, du — you, er — he, sie — she, wir — we.',pronouns),
+ stage('verbs-five','Перші дії: вчитися, робити, жити, грати, йти','First actions: learn, do, reside, play, go','Запам’ятовуємо значення дієслів. Далі поєднаємо їх зі знайомими займенниками.','Learn the meanings of these verbs, then combine them with familiar pronouns.',verbs),
+ stage('ich-du','Я і ти: вчимося та робимо','I and you: learn and do','З ich: lerne, mache. З du: lernst, machst. Змінюється закінчення дієслова.','With ich: lerne, mache. With du: lernst, machst. The verb ending changes.',[
  phrase('Ich lerne.','Я вчуся.','I learn.','lernen'),phrase('Du lernst.','Ти вчишся.','You learn.','lernen'),phrase('Ich mache.','Я роблю.','I do.','machen'),phrase('Du machst.','Ти робиш.','You do.','machen')]),
- stage('er-sie','Він і вона: знайомі дії','He and she: familiar actions','З er і sie дієслово має закінчення -t: lernt, macht.','With er and sie the verb ending is -t: lernt, macht.',[
+ stage('er-sie','Він і вона: вчаться та роблять','He and she: learn and do','З er і sie дієслово має закінчення -t: lernt, macht.','With er and sie the verb ending is -t: lernt, macht.',[
  phrase('Er lernt.','Він вчиться.','He learns.','lernen'),phrase('Sie lernt.','Вона вчиться.','She learns.','lernen'),phrase('Er macht.','Він робить.','He does.','machen'),phrase('Sie macht.','Вона робить.','She does.','machen')]),
- stage('wir-five','Що робимо ми','What we do','З wir використовуємо закінчення -en: lernen, machen, wohnen, spielen, arbeiten.','With wir use the ending -en: lernen, machen, wohnen, spielen, arbeiten.',[
- phrase('Wir lernen.','Ми вчимося.','We learn.','lernen'),phrase('Wir machen.','Ми робимо.','We do.','machen'),phrase('Wir wohnen.','Ми проживаємо.','We reside.','wohnen'),phrase('Wir spielen.','Ми граємо.','We play.','spielen'),phrase('Wir arbeiten.','Ми працюємо.','We work.','arbeiten')]),
- stage('wohnen-four','Проживати: чотири форми','To reside: four forms','Застосовуємо знайомі закінчення до wohnen: wohne, wohnst, wohnt.','Apply familiar endings to wohnen: wohne, wohnst, wohnt.',[
+ stage('wir-five','Що робимо ми','What we do','З wir використовуємо закінчення -en: lernen, machen, wohnen, spielen, gehen.','With wir use the ending -en: lernen, machen, wohnen, spielen, gehen.',[
+ phrase('Wir lernen.','Ми вчимося.','We learn.','lernen'),phrase('Wir machen.','Ми робимо.','We do.','machen'),phrase('Wir wohnen.','Ми проживаємо.','We reside.','wohnen'),phrase('Wir spielen.','Ми граємо.','We play.','spielen'),phrase('Wir gehen.','Ми йдемо.','We go.','gehen')]),
+ stage('wohnen-four','Жити: я, ти, він і вона','Residing: I, you, he and she','Застосовуємо знайомі закінчення до wohnen: wohne, wohnst, wohnt.','Apply familiar endings to wohnen: wohne, wohnst, wohnt.',[
  phrase('Ich wohne.','Я проживаю.','I reside.','wohnen'),phrase('Du wohnst.','Ти проживаєш.','You reside.','wohnen'),phrase('Er wohnt.','Він проживає.','He resides.','wohnen'),phrase('Sie wohnt.','Вона проживає.','She resides.','wohnen')]),
- stage('questions-five','П’ять коротких запитань','Five short questions','У запитанні дієслово стоїть перед займенником: Du lernst. → Lernst du?','In a question the verb comes before the pronoun: Du lernst. → Lernst du?',[
+ stage('work-five','Нова дія: працювати','New action: work','Додаємо arbeiten — працювати. Перед -st і -t з’являється e: du arbeitest, er arbeitet. Machen — робити щось, arbeiten — працювати.','Add arbeiten — to work. An e appears before -st and -t: du arbeitest, er arbeitet. Machen means to do or make; arbeiten means to work.',[
+ phrase('Sie arbeitet.','Вона працює.','She works.','arbeiten'),phrase('Ich arbeite.','Я працюю.','I work.','arbeiten'),phrase('Du arbeitest.','Ти працюєш.','You work.','arbeiten'),phrase('Er arbeitet.','Він працює.','He works.','arbeiten'),phrase('Wir arbeiten.','Ми працюємо.','We work.','arbeiten')]),
+ stage('questions-five','Запитуємо про знайомі дії','Ask about familiar actions','У запитанні дієслово стоїть перед займенником: Du lernst. → Lernst du?','In a question the verb comes before the pronoun: Du lernst. → Lernst du?',[
  phrase('Lernst du?','Ти вчишся?','Do you learn?','lernen'),phrase('Spielst du?','Ти граєш?','Do you play?','spielen'),phrase('Spielt er?','Він грає?','Does he play?','spielen'),phrase('Arbeitest du?','Ти працюєш?','Do you work?','arbeiten'),phrase('Arbeitet er?','Він працює?','Does he work?','arbeiten')]),
- stage('negative-five','П’ять заперечень','Five negatives','nicht означає «не». У цих коротких реченнях ставимо його після дієслова.','nicht means “not”. In these short sentences it follows the verb.',[
+ stage('negative-five','Кажемо, чого не робимо','Say what we do not do','nicht означає «не». У цих коротких реченнях ставимо його після дієслова.','nicht means “not”. In these short sentences it follows the verb.',[
  phrase('Du lernst nicht.','Ти не вчишся.','You do not learn.','lernen'),phrase('Du spielst nicht.','Ти не граєш.','You do not play.','spielen'),phrase('Er spielt nicht.','Він не грає.','He does not play.','spielen'),phrase('Ich arbeite nicht.','Я не працюю.','I do not work.','arbeiten'),phrase('Du arbeitest nicht.','Ти не працюєш.','You do not work.','arbeiten')])
 ];
 const all=stages.flatMap(s=>s.cards),modes=['ua','de','listen','write','speak'];let session=null,recognition=null,voiceRun=0;
