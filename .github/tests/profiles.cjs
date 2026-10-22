@@ -14,7 +14,22 @@ await p.locator('#profileButton').click();await p.locator('#profileAddInput').fi
 await p.locator('#profileRenameInput').fill('<b>Роман</b>');await p.locator('#profileRenameForm button').click();if(await p.locator('#profileName b').count())throw Error('Profile name injected HTML');
 for(const width of [320,390,768,1280]){await p.setViewportSize({width,height:844});if(await p.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1))throw Error('Profile layout overflow at '+width);}
 await p.screenshot({path:'audit-screenshots/profiles.png'});await p.locator('#profileClose').click();
-// A second tab changing the active profile must reload the first tab as well.
-const p2=await p.context().newPage();await p2.goto(url);await p2.locator('#profileButton').click();const changed=p.waitForEvent('load');await Promise.all([p2.waitForEvent('load'),p2.locator('.profile-choice').filter({hasText:'Олексій'}).click()]);await changed;if(await p.locator('#profileName').textContent()!=='Олексій')throw Error('Other tab retained old session');
-if(errors.length)throw Error(errors.join('; '));console.log('PASS profile creation/rename/switch, legacy migration, isolated results/settings, reload persistence, safe names, mobile layout and cross-tab switch');
+// Adaptive route, full course and activity belong to each learner, including separate tabs.
+await p.evaluate(()=>{profileStorage.setItem('deutsch16_adaptive_v1',JSON.stringify({version:1,carouselMigrated:true,cards:{ich:{success:1}},sessions:{'people-five':{last:Date.now()}}}));profileStorage.setItem('deutsch16_course_v2',JSON.stringify({one:{completed:true}}));DEUTSCH_PROGRESS.record(true,'ua')});
+const parentData=await p.evaluate(()=>({route:profileStorage.getItem('deutsch16_adaptive_v1'),course:profileStorage.getItem('deutsch16_course_v2'),activity:DEUTSCH_PROGRESS.snapshot().answers}));
+const p2=await p.context().newPage();await p2.goto(url);await p2.locator('#profileButton').click();await Promise.all([p2.waitForEvent('load'),p2.locator('.profile-choice').filter({hasText:'Олексій'}).click()]);
+if(await p.locator('#profileName').textContent()==='Олексій')throw Error('Other tab switched learner');
+if(!await p2.evaluate(()=>DEUTSCH_ADAPTIVE.plan().n===0&&!profileStorage.getItem('deutsch16_course_v2')&&DEUTSCH_PROGRESS.snapshot().answers===1))throw Error('Child inherited route/course/activity: '+JSON.stringify(await p2.evaluate(()=>({n:DEUTSCH_ADAPTIVE.plan().n,course:profileStorage.getItem('deutsch16_course_v2'),answers:DEUTSCH_PROGRESS.snapshot().answers}))));
+await p2.evaluate(()=>DEUTSCH_PROGRESS.record(false,'write'));await p2.reload();if(!await p2.evaluate(()=>DEUTSCH_PROGRESS.snapshot().answers===2&&DEUTSCH_ADAPTIVE.plan().n===0))throw Error('Child progress not persisted');
+await p.reload();const restored=await p.evaluate(()=>({route:profileStorage.getItem('deutsch16_adaptive_v1'),course:profileStorage.getItem('deutsch16_course_v2'),activity:DEUTSCH_PROGRESS.snapshot().answers}));if(JSON.stringify(restored)!==JSON.stringify(parentData))throw Error('Parent progress changed');
+await p.locator('#profileButton').click();const childRow=p.locator('.profile-row').filter({hasText:'Олексій'});
+p.once('dialog',d=>d.dismiss());await childRow.locator('.profile-delete').click();if(await childRow.count()!==1)throw Error('Cancel deleted profile');
+const childId=await p2.evaluate(()=>DEUTSCH_PROFILES.sessionId);const deletedReload=p2.waitForEvent('load');p.once('dialog',d=>d.accept());await childRow.locator('.profile-delete').click();await deletedReload;
+if(!await p.evaluate(id=>!Object.keys(localStorage).some(k=>k.startsWith('deutsch16_profile:'+id+':')),childId))throw Error('Deleted profile retained progress');
+if(await p2.evaluate(()=>DEUTSCH_PROFILES.sessionId)!==first)throw Error('Deleted-profile tab did not leave');
+if(!await p.locator('.profile-delete').isDisabled())throw Error('Last profile can be deleted');
+// Delete an active profile and return to a remaining learner.
+await p.locator('#profileAddInput').fill('Тимчасовий');await Promise.all([p.waitForEvent('load'),p.locator('#profileAddForm button').click()]);await p.locator('#profileButton').click();p.once('dialog',d=>d.accept());await Promise.all([p.waitForEvent('load'),p.locator('.profile-row').filter({hasText:'Тимчасовий'}).locator('.profile-delete').click()]);
+if(await p.evaluate(()=>DEUTSCH_PROFILES.sessionId)!==first)throw Error('Active deletion did not select remaining learner');
+if(errors.length)throw Error(errors.join('; '));console.log('PASS profile creation/rename/switch, legacy migration, isolated results/settings, reload persistence, safe names, mobile layout, separate tabs, isolated route/course/activity and confirmed profile deletion');
 }finally{await b.close()}})().catch(e=>{console.error(e);process.exit(1)});
