@@ -14,13 +14,13 @@
  function save(data){profileStorage.setItem(key,JSON.stringify(data))}
  function resolve(w){return lookup.get(JSON.stringify(w.slice(0,2)))}
  function runtime(entry){if(entry.kind==='phrase')return {w:[entry.de,entry.ua],phrase:true,phraseId:entry.id,catIndex:0};const catIndex=vocabCategories.findIndex(c=>c.words.some(w=>w[0]===entry.de&&w[1]===entry.ua));if(catIndex<0)return null;return {w:vocabCategories[catIndex].words.find(w=>w[0]===entry.de&&w[1]===entry.ua),catIndex}}
- function record(item,ok,now=Date.now()){
+ function record(item,ok,now=Date.now(),trackActivity=true){
   const entry=resolve(item.w);if(!entry||item.srsRecorded)return;const data=load(now),type=item.answerSkill||item.type,cardKey=entry.id+':'+type,previous=data.cards[cardKey];
   const card=previous?{...previous}:{wordId:entry.id,type,step:0,ok:0,bad:0,introduced:now};
   card[ok?'ok':'bad']++;card.last=now;
   if(!ok){card.step=0;card.due=now+10*60*1000}
   else if(!previous||previous.due<=now||previous.lastOutcome===false){card.step=Math.min(intervals.length,(card.step||0)+1);card.due=afterDays(now,intervals[card.step-1])}
-  card.lastOutcome=ok;data.cards[cardKey]=card;data.history.push({wordId:entry.id,type,ok,at:now});
+  card.lastOutcome=ok;data.cards[cardKey]=card;if(trackActivity)window.DEUTSCH_PROGRESS?.record(ok,type,now);data.history.push({wordId:entry.id,type,ok,at:now});
   // Retain lifetime counters on each card; keep a bounded recent answer log.
   if(data.history.length>5000)data.history=data.history.slice(-5000);save(data);item.srsRecorded=true;
  }
@@ -43,7 +43,7 @@
   document.getElementById('startDailyReview').onclick=()=>start('due');document.getElementById('startDailyNew').onclick=()=>start('new');document.getElementById('dailyNewLimit').onchange=e=>{const data=load();data.newLimit=Number(e.target.value);save(data);render()};
  }catch(e){root.textContent='Не вдалося відкрити повторення. Дані не змінено. Перевір доступ до сховища браузера.';console.error(e)}}
  function start(kind){const list=items(kind);if(!list.length){render();return}openVocabCategory(list[0].catIndex);endVocabQuiz();document.getElementById('vocabCategoryView').classList.add('daily-session');document.getElementById('vocabTitle').textContent=kind==='due'?'Повторення на сьогодні':'Нові слова';vq={active:true,items:list,index:0,correct:0,wrong:0,missed:[],locked:false,recognition:null,types:[...new Set(list.map(it=>it.type))],isFinal:false,review:false,finished:false,byType:{},daily:kind};document.getElementById('wordGrid').classList.add('vocab-hidden');document.getElementById('vocabTestLaunch').classList.add('vocab-hidden');document.getElementById('vocabQuiz').classList.remove('vocab-hidden');renderVq();document.getElementById('vocabQuiz').scrollIntoView({block:'start'})}
- function recordLesson(task,ok,type){record({w:[task.de,task.ua],type,phrase:true},ok)}
+ function recordLesson(task,ok,type,trackActivity=true){record({w:[task.de,task.ua],type,phrase:true},ok,Date.now(),trackActivity)}
  window.DEUTSCH_REVIEW={record,recordLesson,snapshot,items,start,render,key,resolve,afterDays};
  document.addEventListener('visibilitychange',()=>{if(!document.hidden)render()});window.addEventListener('focus',render);setInterval(render,60000);render();
 })();
