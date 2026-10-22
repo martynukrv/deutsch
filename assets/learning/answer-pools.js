@@ -1,0 +1,7 @@
+/* Distractors share an authored category; phrases share their source lesson. */
+(()=>{
+ const norm=s=>String(s||'').normalize('NFC').trim().toLowerCase().replace(/[.!?]+$/,'');
+ function entry(x){const de=x.de??x[0],ua=x.ua??x[1],match=c=>norm(c.de)===norm(de)&&norm(c.ua)===norm(ua);const words=window.DEUTSCH_LEARNING_WORDS||[],byGerman=words.filter(c=>norm(c.de)===norm(de)),word=words.find(match)||(byGerman.length===1?byGerman[0]:null);if(word)return {...x,...word,lexical:true};const phrase=(window.DEUTSCH_LEARNING_PHRASES||[]).find(match),lex=(window.DEUTSCH_COURSE_DATA?.lexicon||[]).find(match);return {...phrase,...x,de,ua,lexical:!!lex||!!phrase?.lexical,lessonIds:x.lessonIds||phrase?.lessonIds||lex?.lessonIds||(x.sourceLessonId?[x.sourceLessonId]:[])}}
+ function same(a,b){a=entry(a);b=entry(b);if(a.category||b.category)return !!a.category&&a.category===b.category;if(a.lexical!==b.lexical)return false;const shape=s=>/\?$/.test(s.trim())?'question':/\b(nicht|kein|keine|keinen|keinem|keiner|keines)\b/.test(s)?'negative':'statement';if(!a.lexical&&shape(a.de)!==shape(b.de))return false;const verb=x=>window.DEUTSCH_VERB_CONJUGATIONS?.some(v=>norm(v.de)===norm(x.de)),noun=x=>/^(der|die|das)\s/.test(x.de);if(a.lexical&&(verb(a)!==verb(b)||noun(a)!==noun(b)))return false;return a.lessonIds?.some(id=>b.lessonIds?.includes(id))||false}
+ window.DEUTSCH_ANSWER_POOLS={entry,same};
+})();
