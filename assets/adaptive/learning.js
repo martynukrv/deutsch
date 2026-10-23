@@ -37,7 +37,7 @@ function load(){const raw=profileStorage.getItem(key);if(!raw)return {version:1,
 function save(d){profileStorage.setItem(key,JSON.stringify(d))}
 function ready(c,d){const x=d.cards[c.id];return x?.skills?modes.slice(0,4).every(type=>x.skills[type]?.step>=2):x?.step>=2}
 function stageIndex(d){const i=stages.findIndex(s=>!d.sessions[s.id]&&!s.cards.every(c=>!d.cards[c.id]?.skills&&(d.cards[c.id]?.success||0)>=3));return i<0?stages.length:i}
-function plan(now=Date.now()){const d=load(),n=stageIndex(d),available=stages.slice(0,Math.min(n+1,stages.length)).flatMap(s=>s.cards),due=available.filter(c=>d.cards[c.id]?.due<=now),selected=n<stages.length?[...stages[n].cards]:shuffle(all).slice(0,6);return {d,n,due,selected,fresh:selected.filter(c=>!d.cards[c.id]),newToday:Object.values(d.cards).filter(c=>c.introduced&&day(c.introduced)===day(now)).length}}
+function plan(now=Date.now()){const d=load(),n=stageIndex(d),available=stages.slice(0,Math.min(n+1,stages.length)).flatMap(s=>s.cards),due=all.filter(c=>d.cards[c.id]?.due<=now),selected=n<stages.length?[...stages[n].cards]:shuffle(all).slice(0,6);return {d,n,due,selected,fresh:selected.filter(c=>!d.cards[c.id]),newToday:Object.values(d.cards).filter(c=>c.introduced&&day(c.introduced)===day(now)).length}}
 function art(c){const a=window.DEUTSCH_COURSE_ART;return a?.html(c.de,c.ua)||(c.visual?a?.html(...c.visual):'')||''}
 function play(c){return speak(c.de)}
 function shell(html){root.innerHTML='<div class="al-wrap">'+html+'</div>';root.querySelectorAll('[data-al-audio]').forEach(b=>b.onclick=()=>play(all.find(c=>c.id===b.dataset.alAudio)));}
