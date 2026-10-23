@@ -11,3 +11,6 @@
 .al-letters{flex-wrap:wrap;gap:8px}.al-letters button{min-width:44px;min-height:46px;padding:8px 12px}#alBackspace{margin-left:auto}
 
 .al-route-open{display:block;width:100%;min-height:44px;border:0;border-radius:12px;background:transparent;color:inherit;font:inherit;text-align:left;padding:8px 10px;cursor:pointer}.al-route-open:hover{background:#FFF1E5}.al-route-open[aria-current]{background:#FFF1E5;color:#b73b16;font-weight:800}.al-route li{padding:3px 0}
+
+/* A stable reusable keyboard: long phrases wrap without losing letters. */
+.al-letters{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:8px}.al-letters button{min-width:0;padding:8px 4px}#alBackspace{margin-left:0}.al-icon-action svg{width:36px;height:36px}
