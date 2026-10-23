@@ -7,3 +7,5 @@
 
 /* Clear German glyphs and compact branded result controls. */
 .al-letters button{font-family:Arial,"Noto Sans",sans-serif;font-size:25px;font-weight:400;min-width:48px;padding:10px 14px}.al-confidence{font-size:14px;color:#687386;margin-top:8px}#alHeard>p{margin:8px 0}#alContinue{margin:4px 0 20px}.al-icon-action{width:80px;height:80px;border:1px solid #102b5018;background:#FFF1E5;box-shadow:0 4px 0 #102b5010}.al-icon-action:last-child{background:#FFF1E5;border-color:#FF5726}.al-icon-action svg{width:48px;height:48px}#alMore{margin:0}.al-result-actions{gap:14px}
+
+.al-letters{flex-wrap:wrap;gap:8px}.al-letters button{min-width:44px;min-height:46px;padding:8px 12px}#alBackspace{margin-left:auto}
