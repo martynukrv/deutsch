@@ -24,6 +24,7 @@ jobs:
           node .github/tests/profiles.cjs
           node .github/tests/progress.cjs
           node .github/tests/adaptive.cjs
+          node .github/tests/native-scenes.cjs
           node .github/tests/journey.cjs
           node .github/tests/learning-flow.cjs
           node .github/tests/review.cjs

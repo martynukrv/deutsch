@@ -1,0 +1,543 @@
+[
+  {
+    "de": "Ich lerne",
+    "id": "lernen-1",
+    "sheet": "lernen",
+    "cell": 0,
+    "uas": [
+      "Я вчуся"
+    ],
+    "src": "assets/illustrations/sentences/lernen-1.webp?v=20261023"
+  },
+  {
+    "de": "Du lernst",
+    "id": "lernen-2",
+    "sheet": "lernen",
+    "cell": 1,
+    "uas": [
+      "Ти вчишся"
+    ],
+    "src": "assets/illustrations/sentences/lernen-2.webp?v=20261023"
+  },
+  {
+    "de": "Er lernt",
+    "id": "lernen-3",
+    "sheet": "lernen",
+    "cell": 2,
+    "uas": [
+      "Він вчиться"
+    ],
+    "src": "assets/illustrations/sentences/lernen-3.webp?v=20261023"
+  },
+  {
+    "de": "Sie lernt",
+    "id": "lernen-4",
+    "sheet": "lernen",
+    "cell": 3,
+    "uas": [
+      "Вона вчиться"
+    ],
+    "src": "assets/illustrations/sentences/lernen-4.webp?v=20261023"
+  },
+  {
+    "de": "Wir lernen",
+    "id": "lernen-5",
+    "sheet": "lernen",
+    "cell": 4,
+    "uas": [
+      "Ми вчимося"
+    ],
+    "src": "assets/illustrations/sentences/lernen-5.webp?v=20261023"
+  },
+  {
+    "de": "Ihr lernt",
+    "id": "lernen-6",
+    "sheet": "lernen",
+    "cell": 5,
+    "uas": [
+      "Ви вчитеся (група)"
+    ],
+    "src": "assets/illustrations/sentences/lernen-6.webp?v=20261023"
+  },
+  {
+    "de": "Ich mache",
+    "id": "machen-1",
+    "sheet": "machen",
+    "cell": 0,
+    "uas": [
+      "Я роблю"
+    ],
+    "src": "assets/illustrations/sentences/machen-1.webp?v=20261023"
+  },
+  {
+    "de": "Du machst",
+    "id": "machen-2",
+    "sheet": "machen",
+    "cell": 1,
+    "uas": [
+      "Ти робиш"
+    ],
+    "src": "assets/illustrations/sentences/machen-2.webp?v=20261023"
+  },
+  {
+    "de": "Er macht",
+    "id": "machen-3",
+    "sheet": "machen",
+    "cell": 2,
+    "uas": [
+      "Він робить"
+    ],
+    "src": "assets/illustrations/sentences/machen-3.webp?v=20261023"
+  },
+  {
+    "de": "Sie macht",
+    "id": "machen-4",
+    "sheet": "machen",
+    "cell": 3,
+    "uas": [
+      "Вона робить"
+    ],
+    "src": "assets/illustrations/sentences/machen-4.webp?v=20261023"
+  },
+  {
+    "de": "Wir machen",
+    "id": "machen-5",
+    "sheet": "machen",
+    "cell": 4,
+    "uas": [
+      "Ми робимо"
+    ],
+    "src": "assets/illustrations/sentences/machen-5.webp?v=20261023"
+  },
+  {
+    "de": "Ihr macht",
+    "id": "machen-6",
+    "sheet": "machen",
+    "cell": 5,
+    "uas": [
+      "Ви робите (група)"
+    ],
+    "src": "assets/illustrations/sentences/machen-6.webp?v=20261023"
+  },
+  {
+    "de": "Ich spiele",
+    "id": "spielen-1",
+    "sheet": "spielen",
+    "cell": 0,
+    "uas": [
+      "Я граю"
+    ],
+    "src": "assets/illustrations/sentences/spielen-1.webp?v=20261023"
+  },
+  {
+    "de": "Du spielst",
+    "id": "spielen-2",
+    "sheet": "spielen",
+    "cell": 1,
+    "uas": [
+      "Ти граєш"
+    ],
+    "src": "assets/illustrations/sentences/spielen-2.webp?v=20261023"
+  },
+  {
+    "de": "Er spielt",
+    "id": "spielen-3",
+    "sheet": "spielen",
+    "cell": 2,
+    "uas": [
+      "Він грає"
+    ],
+    "src": "assets/illustrations/sentences/spielen-3.webp?v=20261023"
+  },
+  {
+    "de": "Sie spielt",
+    "id": "spielen-4",
+    "sheet": "spielen",
+    "cell": 3,
+    "uas": [
+      "Вона грає"
+    ],
+    "src": "assets/illustrations/sentences/spielen-4.webp?v=20261023"
+  },
+  {
+    "de": "Wir spielen",
+    "id": "spielen-5",
+    "sheet": "spielen",
+    "cell": 4,
+    "uas": [
+      "Ми граємо"
+    ],
+    "src": "assets/illustrations/sentences/spielen-5.webp?v=20261023"
+  },
+  {
+    "de": "Ihr spielt",
+    "id": "spielen-6",
+    "sheet": "spielen",
+    "cell": 5,
+    "uas": [
+      "Ви граєте (група)"
+    ],
+    "src": "assets/illustrations/sentences/spielen-6.webp?v=20261023"
+  },
+  {
+    "de": "Ich wohne",
+    "id": "wohnen-1",
+    "sheet": "wohnen",
+    "cell": 0,
+    "uas": [
+      "Я проживаю"
+    ],
+    "src": "assets/illustrations/sentences/wohnen-1.webp?v=20261023"
+  },
+  {
+    "de": "Du wohnst",
+    "id": "wohnen-2",
+    "sheet": "wohnen",
+    "cell": 1,
+    "uas": [
+      "Ти проживаєш"
+    ],
+    "src": "assets/illustrations/sentences/wohnen-2.webp?v=20261023"
+  },
+  {
+    "de": "Er wohnt",
+    "id": "wohnen-3",
+    "sheet": "wohnen",
+    "cell": 2,
+    "uas": [
+      "Він проживає"
+    ],
+    "src": "assets/illustrations/sentences/wohnen-3.webp?v=20261023"
+  },
+  {
+    "de": "Sie wohnt",
+    "id": "wohnen-4",
+    "sheet": "wohnen",
+    "cell": 3,
+    "uas": [
+      "Вона проживає"
+    ],
+    "src": "assets/illustrations/sentences/wohnen-4.webp?v=20261023"
+  },
+  {
+    "de": "Wir wohnen",
+    "id": "wohnen-5",
+    "sheet": "wohnen",
+    "cell": 4,
+    "uas": [
+      "Ми проживаємо"
+    ],
+    "src": "assets/illustrations/sentences/wohnen-5.webp?v=20261023"
+  },
+  {
+    "de": "Ihr wohnt",
+    "id": "wohnen-6",
+    "sheet": "wohnen",
+    "cell": 5,
+    "uas": [
+      "Ви проживаєте (група)",
+      "Ви проживаєте"
+    ],
+    "src": "assets/illustrations/sentences/wohnen-6.webp?v=20261023"
+  },
+  {
+    "de": "Ich arbeite",
+    "id": "arbeiten-1",
+    "sheet": "arbeiten",
+    "cell": 0,
+    "uas": [
+      "Я працюю"
+    ],
+    "src": "assets/illustrations/sentences/arbeiten-1.webp?v=20261023"
+  },
+  {
+    "de": "Du arbeitest",
+    "id": "arbeiten-2",
+    "sheet": "arbeiten",
+    "cell": 1,
+    "uas": [
+      "Ти працюєш"
+    ],
+    "src": "assets/illustrations/sentences/arbeiten-2.webp?v=20261023"
+  },
+  {
+    "de": "Er arbeitet",
+    "id": "arbeiten-3",
+    "sheet": "arbeiten",
+    "cell": 2,
+    "uas": [
+      "Він працює"
+    ],
+    "src": "assets/illustrations/sentences/arbeiten-3.webp?v=20261023"
+  },
+  {
+    "de": "Sie arbeitet",
+    "id": "arbeiten-4",
+    "sheet": "arbeiten",
+    "cell": 3,
+    "uas": [
+      "Вона працює"
+    ],
+    "src": "assets/illustrations/sentences/arbeiten-4.webp?v=20261023"
+  },
+  {
+    "de": "Wir arbeiten",
+    "id": "arbeiten-5",
+    "sheet": "arbeiten",
+    "cell": 4,
+    "uas": [
+      "Ми працюємо"
+    ],
+    "src": "assets/illustrations/sentences/arbeiten-5.webp?v=20261023"
+  },
+  {
+    "de": "Ihr arbeitet",
+    "id": "arbeiten-6",
+    "sheet": "arbeiten",
+    "cell": 5,
+    "uas": [
+      "Ви працюєте"
+    ],
+    "src": "assets/illustrations/sentences/arbeiten-6.webp?v=20261023"
+  },
+  {
+    "de": "Ich gehe",
+    "id": "gehen-1",
+    "sheet": "gehen",
+    "cell": 0,
+    "uas": [
+      "Я йду"
+    ],
+    "src": "assets/illustrations/sentences/gehen-1.webp?v=20261023"
+  },
+  {
+    "de": "Du gehst",
+    "id": "gehen-2",
+    "sheet": "gehen",
+    "cell": 1,
+    "uas": [
+      "Ти йдеш"
+    ],
+    "src": "assets/illustrations/sentences/gehen-2.webp?v=20261023"
+  },
+  {
+    "de": "Er geht",
+    "id": "gehen-3",
+    "sheet": "gehen",
+    "cell": 2,
+    "uas": [
+      "Він іде"
+    ],
+    "src": "assets/illustrations/sentences/gehen-3.webp?v=20261023"
+  },
+  {
+    "de": "Sie geht",
+    "id": "gehen-4",
+    "sheet": "gehen",
+    "cell": 3,
+    "uas": [
+      "Вона йде"
+    ],
+    "src": "assets/illustrations/sentences/gehen-4.webp?v=20261023"
+  },
+  {
+    "de": "Wir gehen",
+    "id": "gehen-5",
+    "sheet": "gehen",
+    "cell": 4,
+    "uas": [
+      "Ми йдемо"
+    ],
+    "src": "assets/illustrations/sentences/gehen-5.webp?v=20261023"
+  },
+  {
+    "de": "Ihr geht",
+    "id": "gehen-6",
+    "sheet": "gehen",
+    "cell": 5,
+    "uas": [
+      "Ви йдете (група)"
+    ],
+    "src": "assets/illustrations/sentences/gehen-6.webp?v=20261023"
+  },
+  {
+    "de": "Ich höre",
+    "id": "hoeren-1",
+    "sheet": "hoeren",
+    "cell": 0,
+    "uas": [
+      "Я слухаю"
+    ],
+    "src": "assets/illustrations/sentences/hoeren-1.webp?v=20261023"
+  },
+  {
+    "de": "Du hörst",
+    "id": "hoeren-2",
+    "sheet": "hoeren",
+    "cell": 1,
+    "uas": [
+      "Ти слухаєш"
+    ],
+    "src": "assets/illustrations/sentences/hoeren-2.webp?v=20261023"
+  },
+  {
+    "de": "Er hört",
+    "id": "hoeren-3",
+    "sheet": "hoeren",
+    "cell": 2,
+    "uas": [
+      "Він слухає"
+    ],
+    "src": "assets/illustrations/sentences/hoeren-3.webp?v=20261023"
+  },
+  {
+    "de": "Sie hört",
+    "id": "hoeren-4",
+    "sheet": "hoeren",
+    "cell": 3,
+    "uas": [
+      "Вона слухає"
+    ],
+    "src": "assets/illustrations/sentences/hoeren-4.webp?v=20261023"
+  },
+  {
+    "de": "Wir hören",
+    "id": "hoeren-5",
+    "sheet": "hoeren",
+    "cell": 4,
+    "uas": [
+      "Ми слухаємо"
+    ],
+    "src": "assets/illustrations/sentences/hoeren-5.webp?v=20261023"
+  },
+  {
+    "de": "Ihr hört",
+    "id": "hoeren-6",
+    "sheet": "hoeren",
+    "cell": 5,
+    "uas": [
+      "Ви слухаєте (група)"
+    ],
+    "src": "assets/illustrations/sentences/hoeren-6.webp?v=20261023"
+  },
+  {
+    "de": "Du lernst nicht",
+    "id": "negative-1",
+    "sheet": "negative",
+    "cell": 0,
+    "uas": [
+      "Ти не вчишся"
+    ],
+    "src": "assets/illustrations/sentences/negative-1.webp?v=20261023"
+  },
+  {
+    "de": "Du spielst nicht",
+    "id": "negative-2",
+    "sheet": "negative",
+    "cell": 1,
+    "uas": [
+      "Ти не граєш"
+    ],
+    "src": "assets/illustrations/sentences/negative-2.webp?v=20261023"
+  },
+  {
+    "de": "Er spielt nicht",
+    "id": "negative-3",
+    "sheet": "negative",
+    "cell": 2,
+    "uas": [
+      "Він не грає"
+    ],
+    "src": "assets/illustrations/sentences/negative-3.webp?v=20261023"
+  },
+  {
+    "de": "Ich arbeite nicht",
+    "id": "negative-4",
+    "sheet": "negative",
+    "cell": 3,
+    "uas": [
+      "Я не працюю"
+    ],
+    "src": "assets/illustrations/sentences/negative-4.webp?v=20261023"
+  },
+  {
+    "de": "Du arbeitest nicht",
+    "id": "negative-5",
+    "sheet": "negative",
+    "cell": 4,
+    "uas": [
+      "Ти не працюєш"
+    ],
+    "src": "assets/illustrations/sentences/negative-5.webp?v=20261023"
+  },
+  {
+    "de": "Ich spiele nicht",
+    "id": "negative-6",
+    "sheet": "negative",
+    "cell": 5,
+    "uas": [
+      "Я не граю"
+    ],
+    "src": "assets/illustrations/sentences/negative-6.webp?v=20261023"
+  },
+  {
+    "de": "Lernst du",
+    "id": "questions-1",
+    "sheet": "questions",
+    "cell": 0,
+    "uas": [
+      "Ти вчишся"
+    ],
+    "src": "assets/illustrations/sentences/questions-1.webp?v=20261023"
+  },
+  {
+    "de": "Spielst du",
+    "id": "questions-2",
+    "sheet": "questions",
+    "cell": 1,
+    "uas": [
+      "Ти граєш"
+    ],
+    "src": "assets/illustrations/sentences/questions-2.webp?v=20261023"
+  },
+  {
+    "de": "Spielt er",
+    "id": "questions-3",
+    "sheet": "questions",
+    "cell": 2,
+    "uas": [
+      "Він грає"
+    ],
+    "src": "assets/illustrations/sentences/questions-3.webp?v=20261023"
+  },
+  {
+    "de": "Arbeitest du",
+    "id": "questions-4",
+    "sheet": "questions",
+    "cell": 3,
+    "uas": [
+      "Ти працюєш"
+    ],
+    "src": "assets/illustrations/sentences/questions-4.webp?v=20261023"
+  },
+  {
+    "de": "Arbeitet er",
+    "id": "questions-5",
+    "sheet": "questions",
+    "cell": 4,
+    "uas": [
+      "Він працює"
+    ],
+    "src": "assets/illustrations/sentences/questions-5.webp?v=20261023"
+  },
+  {
+    "de": "Spielt ihr",
+    "id": "questions-6",
+    "sheet": "questions",
+    "cell": 5,
+    "uas": [
+      "Ви граєте"
+    ],
+    "src": "assets/illustrations/sentences/questions-6.webp?v=20261023"
+  }
+]

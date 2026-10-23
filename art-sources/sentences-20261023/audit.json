@@ -1,0 +1,634 @@
+{
+  "scope": "All 11 adaptive stages (8 mapped lessons plus additional topics), every unique card; complete 7-verb × 6-pronoun scene matrix, questions and negatives. Broader 79-lesson course keeps existing curated topic artwork except exact sentences now upgraded by this registry.",
+  "date": "2026-10-23",
+  "before": {
+    "uniquePhrasesWithoutDedicatedScene": 46,
+    "issue": "Generic infinitive artwork reused across subjects, genders, group counts and negative/question forms."
+  },
+  "required": [
+    {
+      "de": "Ich lerne.",
+      "ua": "Я вчуся.",
+      "scene": "lernen-1"
+    },
+    {
+      "de": "Du lernst.",
+      "ua": "Ти вчишся.",
+      "scene": "lernen-2"
+    },
+    {
+      "de": "Ich mache.",
+      "ua": "Я роблю.",
+      "scene": "machen-1"
+    },
+    {
+      "de": "Du machst.",
+      "ua": "Ти робиш.",
+      "scene": "machen-2"
+    },
+    {
+      "de": "Ich spiele.",
+      "ua": "Я граю.",
+      "scene": "spielen-1"
+    },
+    {
+      "de": "Du spielst.",
+      "ua": "Ти граєш.",
+      "scene": "spielen-2"
+    },
+    {
+      "de": "Er lernt.",
+      "ua": "Він вчиться.",
+      "scene": "lernen-3"
+    },
+    {
+      "de": "Sie lernt.",
+      "ua": "Вона вчиться.",
+      "scene": "lernen-4"
+    },
+    {
+      "de": "Er macht.",
+      "ua": "Він робить.",
+      "scene": "machen-3"
+    },
+    {
+      "de": "Sie macht.",
+      "ua": "Вона робить.",
+      "scene": "machen-4"
+    },
+    {
+      "de": "Er spielt.",
+      "ua": "Він грає.",
+      "scene": "spielen-3"
+    },
+    {
+      "de": "Sie spielt.",
+      "ua": "Вона грає.",
+      "scene": "spielen-4"
+    },
+    {
+      "de": "Wir lernen.",
+      "ua": "Ми вчимося.",
+      "scene": "lernen-5"
+    },
+    {
+      "de": "Wir machen.",
+      "ua": "Ми робимо.",
+      "scene": "machen-5"
+    },
+    {
+      "de": "Wir wohnen.",
+      "ua": "Ми проживаємо.",
+      "scene": "wohnen-5"
+    },
+    {
+      "de": "Wir spielen.",
+      "ua": "Ми граємо.",
+      "scene": "spielen-5"
+    },
+    {
+      "de": "Wir gehen.",
+      "ua": "Ми йдемо.",
+      "scene": "gehen-5"
+    },
+    {
+      "de": "Wir hören.",
+      "ua": "Ми слухаємо.",
+      "scene": "hoeren-5"
+    },
+    {
+      "de": "Ich wohne.",
+      "ua": "Я проживаю.",
+      "scene": "wohnen-1"
+    },
+    {
+      "de": "Du wohnst.",
+      "ua": "Ти проживаєш.",
+      "scene": "wohnen-2"
+    },
+    {
+      "de": "Er wohnt.",
+      "ua": "Він проживає.",
+      "scene": "wohnen-3"
+    },
+    {
+      "de": "Sie wohnt.",
+      "ua": "Вона проживає.",
+      "scene": "wohnen-4"
+    },
+    {
+      "de": "Ihr wohnt.",
+      "ua": "Ви проживаєте (група).",
+      "scene": "wohnen-6"
+    },
+    {
+      "de": "Sie arbeitet.",
+      "ua": "Вона працює.",
+      "scene": "arbeiten-4"
+    },
+    {
+      "de": "Ich arbeite.",
+      "ua": "Я працюю.",
+      "scene": "arbeiten-1"
+    },
+    {
+      "de": "Du arbeitest.",
+      "ua": "Ти працюєш.",
+      "scene": "arbeiten-2"
+    },
+    {
+      "de": "Er arbeitet.",
+      "ua": "Він працює.",
+      "scene": "arbeiten-3"
+    },
+    {
+      "de": "Wir arbeiten.",
+      "ua": "Ми працюємо.",
+      "scene": "arbeiten-5"
+    },
+    {
+      "de": "Ihr arbeitet.",
+      "ua": "Ви працюєте.",
+      "scene": "arbeiten-6"
+    },
+    {
+      "de": "Lernst du?",
+      "ua": "Ти вчишся?",
+      "scene": "questions-1"
+    },
+    {
+      "de": "Spielst du?",
+      "ua": "Ти граєш?",
+      "scene": "questions-2"
+    },
+    {
+      "de": "Spielt er?",
+      "ua": "Він грає?",
+      "scene": "questions-3"
+    },
+    {
+      "de": "Arbeitest du?",
+      "ua": "Ти працюєш?",
+      "scene": "questions-4"
+    },
+    {
+      "de": "Arbeitet er?",
+      "ua": "Він працює?",
+      "scene": "questions-5"
+    },
+    {
+      "de": "Spielt ihr?",
+      "ua": "Ви граєте?",
+      "scene": "questions-6"
+    },
+    {
+      "de": "Du lernst nicht.",
+      "ua": "Ти не вчишся.",
+      "scene": "negative-1"
+    },
+    {
+      "de": "Du spielst nicht.",
+      "ua": "Ти не граєш.",
+      "scene": "negative-2"
+    },
+    {
+      "de": "Er spielt nicht.",
+      "ua": "Він не грає.",
+      "scene": "negative-3"
+    },
+    {
+      "de": "Ich arbeite nicht.",
+      "ua": "Я не працюю.",
+      "scene": "negative-4"
+    },
+    {
+      "de": "Du arbeitest nicht.",
+      "ua": "Ти не працюєш.",
+      "scene": "negative-5"
+    },
+    {
+      "de": "Ich spiele nicht.",
+      "ua": "Я не граю.",
+      "scene": "negative-6"
+    },
+    {
+      "de": "Ihr lernt.",
+      "ua": "Ви вчитеся (група).",
+      "scene": "lernen-6"
+    },
+    {
+      "de": "Ihr macht.",
+      "ua": "Ви робите (група).",
+      "scene": "machen-6"
+    },
+    {
+      "de": "Ihr spielt.",
+      "ua": "Ви граєте (група).",
+      "scene": "spielen-6"
+    },
+    {
+      "de": "Ihr geht.",
+      "ua": "Ви йдете (група).",
+      "scene": "gehen-6"
+    },
+    {
+      "de": "Ihr hört.",
+      "ua": "Ви слухаєте (група).",
+      "scene": "hoeren-6"
+    }
+  ],
+  "matrix": [
+    {
+      "de": "Ich lerne",
+      "id": "lernen-1",
+      "sheet": "lernen",
+      "cell": 0,
+      "src": "assets/illustrations/sentences/lernen-1.webp?v=20261023"
+    },
+    {
+      "de": "Du lernst",
+      "id": "lernen-2",
+      "sheet": "lernen",
+      "cell": 1,
+      "src": "assets/illustrations/sentences/lernen-2.webp?v=20261023"
+    },
+    {
+      "de": "Er lernt",
+      "id": "lernen-3",
+      "sheet": "lernen",
+      "cell": 2,
+      "src": "assets/illustrations/sentences/lernen-3.webp?v=20261023"
+    },
+    {
+      "de": "Sie lernt",
+      "id": "lernen-4",
+      "sheet": "lernen",
+      "cell": 3,
+      "src": "assets/illustrations/sentences/lernen-4.webp?v=20261023"
+    },
+    {
+      "de": "Wir lernen",
+      "id": "lernen-5",
+      "sheet": "lernen",
+      "cell": 4,
+      "src": "assets/illustrations/sentences/lernen-5.webp?v=20261023"
+    },
+    {
+      "de": "Ihr lernt",
+      "id": "lernen-6",
+      "sheet": "lernen",
+      "cell": 5,
+      "src": "assets/illustrations/sentences/lernen-6.webp?v=20261023"
+    },
+    {
+      "de": "Ich mache",
+      "id": "machen-1",
+      "sheet": "machen",
+      "cell": 0,
+      "src": "assets/illustrations/sentences/machen-1.webp?v=20261023"
+    },
+    {
+      "de": "Du machst",
+      "id": "machen-2",
+      "sheet": "machen",
+      "cell": 1,
+      "src": "assets/illustrations/sentences/machen-2.webp?v=20261023"
+    },
+    {
+      "de": "Er macht",
+      "id": "machen-3",
+      "sheet": "machen",
+      "cell": 2,
+      "src": "assets/illustrations/sentences/machen-3.webp?v=20261023"
+    },
+    {
+      "de": "Sie macht",
+      "id": "machen-4",
+      "sheet": "machen",
+      "cell": 3,
+      "src": "assets/illustrations/sentences/machen-4.webp?v=20261023"
+    },
+    {
+      "de": "Wir machen",
+      "id": "machen-5",
+      "sheet": "machen",
+      "cell": 4,
+      "src": "assets/illustrations/sentences/machen-5.webp?v=20261023"
+    },
+    {
+      "de": "Ihr macht",
+      "id": "machen-6",
+      "sheet": "machen",
+      "cell": 5,
+      "src": "assets/illustrations/sentences/machen-6.webp?v=20261023"
+    },
+    {
+      "de": "Ich spiele",
+      "id": "spielen-1",
+      "sheet": "spielen",
+      "cell": 0,
+      "src": "assets/illustrations/sentences/spielen-1.webp?v=20261023"
+    },
+    {
+      "de": "Du spielst",
+      "id": "spielen-2",
+      "sheet": "spielen",
+      "cell": 1,
+      "src": "assets/illustrations/sentences/spielen-2.webp?v=20261023"
+    },
+    {
+      "de": "Er spielt",
+      "id": "spielen-3",
+      "sheet": "spielen",
+      "cell": 2,
+      "src": "assets/illustrations/sentences/spielen-3.webp?v=20261023"
+    },
+    {
+      "de": "Sie spielt",
+      "id": "spielen-4",
+      "sheet": "spielen",
+      "cell": 3,
+      "src": "assets/illustrations/sentences/spielen-4.webp?v=20261023"
+    },
+    {
+      "de": "Wir spielen",
+      "id": "spielen-5",
+      "sheet": "spielen",
+      "cell": 4,
+      "src": "assets/illustrations/sentences/spielen-5.webp?v=20261023"
+    },
+    {
+      "de": "Ihr spielt",
+      "id": "spielen-6",
+      "sheet": "spielen",
+      "cell": 5,
+      "src": "assets/illustrations/sentences/spielen-6.webp?v=20261023"
+    },
+    {
+      "de": "Ich wohne",
+      "id": "wohnen-1",
+      "sheet": "wohnen",
+      "cell": 0,
+      "src": "assets/illustrations/sentences/wohnen-1.webp?v=20261023"
+    },
+    {
+      "de": "Du wohnst",
+      "id": "wohnen-2",
+      "sheet": "wohnen",
+      "cell": 1,
+      "src": "assets/illustrations/sentences/wohnen-2.webp?v=20261023"
+    },
+    {
+      "de": "Er wohnt",
+      "id": "wohnen-3",
+      "sheet": "wohnen",
+      "cell": 2,
+      "src": "assets/illustrations/sentences/wohnen-3.webp?v=20261023"
+    },
+    {
+      "de": "Sie wohnt",
+      "id": "wohnen-4",
+      "sheet": "wohnen",
+      "cell": 3,
+      "src": "assets/illustrations/sentences/wohnen-4.webp?v=20261023"
+    },
+    {
+      "de": "Wir wohnen",
+      "id": "wohnen-5",
+      "sheet": "wohnen",
+      "cell": 4,
+      "src": "assets/illustrations/sentences/wohnen-5.webp?v=20261023"
+    },
+    {
+      "de": "Ihr wohnt",
+      "id": "wohnen-6",
+      "sheet": "wohnen",
+      "cell": 5,
+      "src": "assets/illustrations/sentences/wohnen-6.webp?v=20261023"
+    },
+    {
+      "de": "Ich arbeite",
+      "id": "arbeiten-1",
+      "sheet": "arbeiten",
+      "cell": 0,
+      "src": "assets/illustrations/sentences/arbeiten-1.webp?v=20261023"
+    },
+    {
+      "de": "Du arbeitest",
+      "id": "arbeiten-2",
+      "sheet": "arbeiten",
+      "cell": 1,
+      "src": "assets/illustrations/sentences/arbeiten-2.webp?v=20261023"
+    },
+    {
+      "de": "Er arbeitet",
+      "id": "arbeiten-3",
+      "sheet": "arbeiten",
+      "cell": 2,
+      "src": "assets/illustrations/sentences/arbeiten-3.webp?v=20261023"
+    },
+    {
+      "de": "Sie arbeitet",
+      "id": "arbeiten-4",
+      "sheet": "arbeiten",
+      "cell": 3,
+      "src": "assets/illustrations/sentences/arbeiten-4.webp?v=20261023"
+    },
+    {
+      "de": "Wir arbeiten",
+      "id": "arbeiten-5",
+      "sheet": "arbeiten",
+      "cell": 4,
+      "src": "assets/illustrations/sentences/arbeiten-5.webp?v=20261023"
+    },
+    {
+      "de": "Ihr arbeitet",
+      "id": "arbeiten-6",
+      "sheet": "arbeiten",
+      "cell": 5,
+      "src": "assets/illustrations/sentences/arbeiten-6.webp?v=20261023"
+    },
+    {
+      "de": "Ich gehe",
+      "id": "gehen-1",
+      "sheet": "gehen",
+      "cell": 0,
+      "src": "assets/illustrations/sentences/gehen-1.webp?v=20261023"
+    },
+    {
+      "de": "Du gehst",
+      "id": "gehen-2",
+      "sheet": "gehen",
+      "cell": 1,
+      "src": "assets/illustrations/sentences/gehen-2.webp?v=20261023"
+    },
+    {
+      "de": "Er geht",
+      "id": "gehen-3",
+      "sheet": "gehen",
+      "cell": 2,
+      "src": "assets/illustrations/sentences/gehen-3.webp?v=20261023"
+    },
+    {
+      "de": "Sie geht",
+      "id": "gehen-4",
+      "sheet": "gehen",
+      "cell": 3,
+      "src": "assets/illustrations/sentences/gehen-4.webp?v=20261023"
+    },
+    {
+      "de": "Wir gehen",
+      "id": "gehen-5",
+      "sheet": "gehen",
+      "cell": 4,
+      "src": "assets/illustrations/sentences/gehen-5.webp?v=20261023"
+    },
+    {
+      "de": "Ihr geht",
+      "id": "gehen-6",
+      "sheet": "gehen",
+      "cell": 5,
+      "src": "assets/illustrations/sentences/gehen-6.webp?v=20261023"
+    },
+    {
+      "de": "Ich höre",
+      "id": "hoeren-1",
+      "sheet": "hoeren",
+      "cell": 0,
+      "src": "assets/illustrations/sentences/hoeren-1.webp?v=20261023"
+    },
+    {
+      "de": "Du hörst",
+      "id": "hoeren-2",
+      "sheet": "hoeren",
+      "cell": 1,
+      "src": "assets/illustrations/sentences/hoeren-2.webp?v=20261023"
+    },
+    {
+      "de": "Er hört",
+      "id": "hoeren-3",
+      "sheet": "hoeren",
+      "cell": 2,
+      "src": "assets/illustrations/sentences/hoeren-3.webp?v=20261023"
+    },
+    {
+      "de": "Sie hört",
+      "id": "hoeren-4",
+      "sheet": "hoeren",
+      "cell": 3,
+      "src": "assets/illustrations/sentences/hoeren-4.webp?v=20261023"
+    },
+    {
+      "de": "Wir hören",
+      "id": "hoeren-5",
+      "sheet": "hoeren",
+      "cell": 4,
+      "src": "assets/illustrations/sentences/hoeren-5.webp?v=20261023"
+    },
+    {
+      "de": "Ihr hört",
+      "id": "hoeren-6",
+      "sheet": "hoeren",
+      "cell": 5,
+      "src": "assets/illustrations/sentences/hoeren-6.webp?v=20261023"
+    },
+    {
+      "de": "Du lernst nicht",
+      "id": "negative-1",
+      "sheet": "negative",
+      "cell": 0,
+      "src": "assets/illustrations/sentences/negative-1.webp?v=20261023"
+    },
+    {
+      "de": "Du spielst nicht",
+      "id": "negative-2",
+      "sheet": "negative",
+      "cell": 1,
+      "src": "assets/illustrations/sentences/negative-2.webp?v=20261023"
+    },
+    {
+      "de": "Er spielt nicht",
+      "id": "negative-3",
+      "sheet": "negative",
+      "cell": 2,
+      "src": "assets/illustrations/sentences/negative-3.webp?v=20261023"
+    },
+    {
+      "de": "Ich arbeite nicht",
+      "id": "negative-4",
+      "sheet": "negative",
+      "cell": 3,
+      "src": "assets/illustrations/sentences/negative-4.webp?v=20261023"
+    },
+    {
+      "de": "Du arbeitest nicht",
+      "id": "negative-5",
+      "sheet": "negative",
+      "cell": 4,
+      "src": "assets/illustrations/sentences/negative-5.webp?v=20261023"
+    },
+    {
+      "de": "Ich spiele nicht",
+      "id": "negative-6",
+      "sheet": "negative",
+      "cell": 5,
+      "src": "assets/illustrations/sentences/negative-6.webp?v=20261023"
+    },
+    {
+      "de": "Lernst du",
+      "id": "questions-1",
+      "sheet": "questions",
+      "cell": 0,
+      "src": "assets/illustrations/sentences/questions-1.webp?v=20261023"
+    },
+    {
+      "de": "Spielst du",
+      "id": "questions-2",
+      "sheet": "questions",
+      "cell": 1,
+      "src": "assets/illustrations/sentences/questions-2.webp?v=20261023"
+    },
+    {
+      "de": "Spielt er",
+      "id": "questions-3",
+      "sheet": "questions",
+      "cell": 2,
+      "src": "assets/illustrations/sentences/questions-3.webp?v=20261023"
+    },
+    {
+      "de": "Arbeitest du",
+      "id": "questions-4",
+      "sheet": "questions",
+      "cell": 3,
+      "src": "assets/illustrations/sentences/questions-4.webp?v=20261023"
+    },
+    {
+      "de": "Arbeitet er",
+      "id": "questions-5",
+      "sheet": "questions",
+      "cell": 4,
+      "src": "assets/illustrations/sentences/questions-5.webp?v=20261023"
+    },
+    {
+      "de": "Spielt ihr",
+      "id": "questions-6",
+      "sheet": "questions",
+      "cell": 5,
+      "src": "assets/illustrations/sentences/questions-6.webp?v=20261023"
+    }
+  ],
+  "after": {
+    "newScenes": 54,
+    "activePhrasesWithNativeScene": 46,
+    "additionalAffirmativeCombinations": 8
+  },
+  "rules": [
+    "No singular sentence uses group art.",
+    "She uses a female character; we/you plural use a group.",
+    "Ich uses self gesture, du/ihr use an addressed subject/group, er/sie show third person scene.",
+    "Questions and negatives have distinct source artwork; not text overlays on affirmative action.",
+    "No change to learning/progress/audio records."
+  ],
+  "checkedCards": 58,
+  "fullCourseBindingsRegressionChecked": 1575
+}
