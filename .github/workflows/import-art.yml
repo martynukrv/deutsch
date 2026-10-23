@@ -58,6 +58,7 @@ jobs:
           node .github/tests/course-art.cjs
           node .github/tests/progress.cjs
           node .github/tests/adaptive.cjs
+          node .github/tests/native-scenes.cjs
           node .github/tests/learning-flow.cjs
       - name: Verify selectable vocabulary practice
         run: node .github/tests/vocab-modes.cjs
@@ -105,4 +106,5 @@ jobs:
           node .github/tests/course-art.cjs
           node .github/tests/progress.cjs
           node .github/tests/adaptive.cjs
+          node .github/tests/native-scenes.cjs
           node .github/tests/learning-flow.cjs
