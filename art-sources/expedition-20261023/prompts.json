@@ -1,0 +1,20 @@
+{
+  "generation": [
+    {
+      "asset": "island",
+      "prompt": "Use case: illustration-story. Production artwork for Deutsch 16 playful German learning adventure. Flat vector-look raster, thick organic dark navy #102B50 contours, cream #FFF1E5 and white #FFFFFF surfaces, vivid orange #FF5726 accents ONLY these four colors, no green, yellow, brown or blue other than navy. Cheerful charming restrained detail, crisp clean large readable silhouettes, no gradients, grain, shadows, realistic lighting, glossy 3D or text. A few short tapered navy/orange accent strokes. No lettering, labels, numbers, UI, logos or watermark. Asset: vertical portrait island treasure map, approximately 2:3 aspect ratio. Bird's-eye illustrated elongated island surrounded by white water with sparse navy wavy lines, cream land with orange patches, flat bold art with lots of uncluttered breathing room. Six separated small landmarks follow a winding dotted orange footpath UP the island: BOTTOM LEFT a little landing beach with rowboat; LOWER RIGHT a cheerful explorer tent campsite; MIDDLE LEFT a small grove of three stylized white/navy trees; MIDDLE RIGHT an ancient round lookout tower; UPPER LEFT a little wooden bridge over a narrow stream; UPPER RIGHT a tiny keeper's cottage. At TOP CENTER above these landmarks a small X marks a buried treasure spot beside two rocks. Each landmark self-contained, separated by generous pale cream open spaces to place live clickable numbered pins. No characters. All island and landmarks fully inside canvas with white margins. Actual stylized drawn map, not app screenshot.",
+      "transparent_background": false
+    },
+    {
+      "asset": "fox",
+      "prompt": "Use case: illustration-story. Production artwork for Deutsch 16 playful German learning adventure. Flat vector-look raster, thick organic dark navy #102B50 contours, cream #FFF1E5 and white #FFFFFF surfaces, vivid orange #FF5726 accents ONLY these four colors, no green, yellow, brown or blue other than navy. Cheerful charming restrained detail, crisp clean large readable silhouettes, no gradients, grain, shadows, realistic lighting, glossy 3D or text. A few short tapered navy/orange accent strokes. No lettering, labels, numbers, UI, logos or watermark. Asset: one isolated full-body adorable small fox explorer companion, large pointy ears and big white-tipped tail, orange body, white face and belly, navy outline, wearing a simple cream explorer neckerchief, carrying a rolled treasure map under one arm and enthusiastically pointing forward with other paw, friendly expressive eyes. Flat playful mascot with simple few large shapes, recognizable at 80 pixels. Centered complete silhouette with generous transparent margins. Real transparent background.",
+      "transparent_background": true
+    },
+    {
+      "asset": "treasure",
+      "prompt": "Use case: illustration-story. Production artwork for Deutsch 16 playful German learning adventure. Flat vector-look raster, thick organic dark navy #102B50 contours, cream #FFF1E5 and white #FFFFFF surfaces, vivid orange #FF5726 accents ONLY these four colors, no green, yellow, brown or blue other than navy. Cheerful charming restrained detail, crisp clean large readable silhouettes, no gradients, grain, shadows, realistic lighting, glossy 3D or text. A few short tapered navy/orange accent strokes. No lettering, labels, numbers, UI, logos or watermark. Asset: one isolated open explorer treasure chest with a beautiful old compass discovered inside. Chunky cream chest with orange bands and thick navy outlines, lid open, compass oversized and clearly visible with navy/orange needle and a small visible crack in its rim; a corner of a folded map peeks out. Celebratory warm welcoming illustration, just three tiny orange sparkle marks, no piles of coins, no lettering. Entire chest and compass visible, centered with generous transparent margins. True transparent background.",
+      "transparent_background": true
+    }
+  ],
+  "islandCorrection": "Keep composition and all landmarks. Replace cyan water with white and flatten shading to the fixed palette. No new content, labels or numbers."
+}
