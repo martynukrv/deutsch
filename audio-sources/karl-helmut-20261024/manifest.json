@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "role": "karl",
+  "provider": "ElevenLabs",
+  "voiceName": "Helmut - Distinctive and Authentic",
+  "voiceId": null,
+  "model": null,
+  "originalFilename": "ElevenLabs_2026-10-24T20_21_37_Helmut - Distinctive and Authentic_pvc_sp100_s100_sb51_v4.mp3",
+  "source_file": "audio-sources/karl-helmut-20261024/original.mp3",
+  "source_sha256": "7a37da8185b17f65b15b804a4e2ad5453ce3584fb68d4986f2f37f23c5072bf2",
+  "source_duration": 9.952625,
+  "splitMethod": "7 silent gaps >=350ms below -35dB; preserve 120ms surrounding speech; no synthesis or word assembly",
+  "entries": [
+    {
+      "id": "hello",
+      "role": "karl",
+      "text": "Guten Tag!",
+      "path": "audio/dialogue/karl-helmut-20261024/karl_01_greeting.mp3",
+      "source_start": 0,
+      "source_end": 0.861361,
+      "sha256": "16454b8c879c0e67e8e44f037ebb3be537f1ab908af173600660caadc22b2e7e",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "how",
+      "role": "karl",
+      "text": "Wie geht's?",
+      "path": "audio/dialogue/karl-helmut-20261024/karl_02_how.mp3",
+      "source_start": 1.25256,
+      "source_end": 2.07424,
+      "sha256": "e9ce6a0da2831899e35ddc309a125dc2b0f981ccf3ebb957572318fa65382601",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "ask",
+      "role": "karl",
+      "text": "Wie heißt du?",
+      "path": "audio/dialogue/karl-helmut-20261024/karl_03_ask_name.mp3",
+      "source_start": 2.45057,
+      "source_end": 3.36061,
+      "sha256": "865095679d0d7ab904fe436b8e8950e03adf51cf67a9461e40c783f3d06e8c5e",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "karl",
+      "role": "karl",
+      "text": "Ich heiße Karl.",
+      "path": "audio/dialogue/karl-helmut-20261024/karl_04_name.mp3",
+      "source_start": 3.68322,
+      "source_end": 4.89603,
+      "sha256": "46e3aa89aacf5559fa126a2e2c87346eac4c8ed53a6e68a271e79b53e85928fa",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "where",
+      "role": "karl",
+      "text": "Wo wohnst du?",
+      "path": "audio/dialogue/karl-helmut-20261024/karl_05_city.mp3",
+      "source_start": 5.22982,
+      "source_end": 6.20707,
+      "sha256": "6e14d3c5ba0f6ea7a8462c0696040a12540362759dc717fd8fdde73ada29e11a",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "age",
+      "role": "karl",
+      "text": "Wie alt bist du?",
+      "path": "audio/dialogue/karl-helmut-20261024/karl_06_age.mp3",
+      "source_start": 6.53029,
+      "source_end": 7.60823,
+      "sha256": "b86aec107837d039d9a52bb91612d4cfd9ad5d5e22902ece0df8cceb8b03b279",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "welcome",
+      "role": "karl",
+      "text": "Bitte!",
+      "path": "audio/dialogue/karl-helmut-20261024/karl_07_welcome.mp3",
+      "source_start": 7.92361,
+      "source_end": 8.67524,
+      "sha256": "ea5f2cb8d6dfc454ecf1d0d81240fbcad3792653742b23394036d5330e6d5400",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "bye",
+      "role": "karl",
+      "text": "Auf Wiedersehen!",
+      "path": "audio/dialogue/karl-helmut-20261024/karl_08_goodbye.mp3",
+      "source_start": 8.92224,
+      "source_end": 9.952625,
+      "sha256": "79ac6b919b30fe38f058f71af0c62d0f914c7931c58f2998e8b859f95370a7a3",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    }
+  ]
+}

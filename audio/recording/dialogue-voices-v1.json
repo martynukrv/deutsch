@@ -1,12 +1,15 @@
 {
   "version": 1,
-  "status": "proposed-unassigned",
+  "status": "karl-assigned-learner-pending",
   "roles": {
     "karl": {
       "description_uk": "Чоловічий 50–60 років, теплий і спокійний, стандартна німецька",
-      "provider": null,
+      "provider": "ElevenLabs",
       "voiceId": null,
-      "model": null
+      "model": null,
+      "voiceName": "Helmut - Distinctive and Authentic",
+      "sourceManifest": "audio-sources/karl-helmut-20261024/manifest.json",
+      "status": "user-confirmed"
     },
     "learner_oleksii": {
       "description_uk": "Юний чоловічий голос ролі учня, природний, стандартна німецька",

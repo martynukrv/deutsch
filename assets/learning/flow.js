@@ -2,8 +2,8 @@
 (()=>{
  let run=0,finish=null,timer=null,queue=[],busy=false,generation=0,suspended=false;
  
- window.speak=function(text){const token=++run;if(finish)finish();finish=null;clearTimeout(timer);if(currentAudio){currentAudio.pause();currentAudio=null}window.speechSynthesis?.cancel();const raw=String(text).trim();if(!raw)return Promise.resolve();
- return new Promise(resolve=>{let settled=false;const done=()=>{if(settled)return;settled=true;clearTimeout(timer);if(finish===done)finish=null;resolve()};finish=done;const files=recordedAudioFiles(raw);let at=0;const fallback=()=>{if(token!==run){done();return}if(!window.SpeechSynthesisUtterance){done();return}const u=new SpeechSynthesisUtterance(raw);u.lang='de-DE';u.rate=.88;u.onend=done;u.onerror=done;window.speechSynthesis?.speak(u)};const next=()=>{if(token!==run||at>=files.length){done();return}const sound=new Audio(files[at++]);currentAudio=sound;sound.onended=next;sound.onerror=fallback;sound.play().catch(done)};timer=setTimeout(done,Math.max(15000,raw.length*180));if(files?.length)next();else fallback()});
+ window.speak=function(text,recordedFiles=null){const token=++run;if(finish)finish();finish=null;clearTimeout(timer);if(currentAudio){currentAudio.pause();currentAudio=null}window.speechSynthesis?.cancel();const raw=String(text).trim();if(!raw)return Promise.resolve();
+ return new Promise(resolve=>{let settled=false;const done=()=>{if(settled)return;settled=true;clearTimeout(timer);if(finish===done)finish=null;resolve()};finish=done;const files=recordedFiles||recordedAudioFiles(raw);let at=0;const fallback=()=>{if(recordedFiles){done();return}if(token!==run){done();return}if(!window.SpeechSynthesisUtterance){done();return}const u=new SpeechSynthesisUtterance(raw);u.lang='de-DE';u.rate=.88;u.onend=done;u.onerror=done;window.speechSynthesis?.speak(u)};const next=()=>{if(token!==run||at>=files.length){done();return}const sound=new Audio(files[at++]);currentAudio=sound;sound.onended=next;sound.onerror=fallback;sound.play().catch(done)};timer=setTimeout(done,Math.max(15000,raw.length*180));if(files?.length)next();else fallback()});
  };
  const exposureKey=text=>String(text).normalize('NFC').toLocaleLowerCase('de-DE').replace(/\s+/g,' ').replace(/[.!?]+$/,'').trim();
  const exposed=new Set();
@@ -20,5 +20,5 @@
  function feedback(ok,text,next,valid=()=>true){pause();suspended=true;const g=generation;Promise.resolve(speak(text)).then(()=>{if(ok&&g===generation&&valid())advance=setTimeout(()=>{advance=null;if(g===generation&&valid())next()},2000)})}
  document.addEventListener('click',e=>{if(e.target.closest('#mic,#vqMic,[data-cv2-action="mic"]')){pause();queueMicrotask(()=>{suspended=true;queue=[];speak('')})}},true);
  const originalMode=setMode;window.setMode=function(mode){pause();return originalMode(mode)};
- window.DEUTSCH_FLOW={pause,feedback,scan,expose:(text,el)=>{enqueue(text,el);drain()}};scan();
+ window.DEUTSCH_FLOW={pause,feedback,scan,playRecording:(text,path)=>window.speak(text,[path]),expose:(text,el)=>{enqueue(text,el);drain()}};scan();
 })();
