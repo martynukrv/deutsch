@@ -72,3 +72,5 @@
 #greetingFeedback{min-height:32px}
 #greetingNext[hidden]{display:none}
 @media(max-width:480px){.greeting-map-card{padding:16px}.greeting-choices{grid-template-columns:1fr}.greeting-art{width:120px;height:120px}}
+
+@media(max-width:560px){.greeting-welcome{grid-template-columns:1fr;gap:8px}.greeting-welcome .market-merchant{width:110px;height:125px;justify-self:center}.greeting-welcome h1{font-size:28px;line-height:1.15}}
