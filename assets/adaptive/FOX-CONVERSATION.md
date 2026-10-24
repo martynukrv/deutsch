@@ -6,6 +6,6 @@ The introduction does not autoplay. Speech bubbles have individual playback cont
 
 Completion is stored in profileStorage under deutsch16_fox_conversation_v1, only after all exchanges and only while the compass is earned. Opening, skipping or leaving does not award completion. A replay cannot erase it. Existing island results, nine lesson seals, clue fragments and compass remain unchanged. The learner can always skip to island two. Once completed, departure sails directly, and the compass panel offers a separate repeat action. There are no delayed transitions to survive navigation.
 
-Lina’s intro acknowledges completed rehearsal; Mia’s question intro and Emma’s introduction intro connect the same recorded phrases to their existing lessons. Authored lesson data, card IDs and 30/18-task finals are unchanged. All new copy is Ukrainian/English; existing illustrations are reused.
+Lina’s intro acknowledges completed rehearsal; Mia’s question intro and Emma’s introduction intro connect the same recorded phrases to their existing lessons. Authored lesson data, card IDs and 27/21-task finals are unchanged. All new copy is Ukrainian/English; existing illustrations are reused.
 
 .github/tests/fox-conversation.cjs runs in browser CI and after publication. It verifies exact whole-recording availability, intro/turn layouts at 320/390/1280, hints, incorrect/correct double-click guards, complete transcript, exact activity count, persistent island results, optional skip, replay/reload, resident continuity, English and separate profiles.

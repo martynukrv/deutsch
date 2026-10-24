@@ -92,4 +92,17 @@
 .fox-speech{display:grid;gap:8px;border:2px solid #102B5020;border-radius:20px;padding:18px;background:#FFF1E5;margin:12px 15% 12px 0;overflow-wrap:anywhere}.fox-speech.is-you{margin:12px 0 12px 15%;background:#FFFFFF;border-color:#FF5726}.fox-speech small{font-weight:700}.fox-speech strong{font-size:23px}.fox-speech>.btn{justify-self:start}.fox-hint,.fox-transcript{padding:14px;border:1px solid #102B5020;border-radius:16px;margin:16px 0}.fox-hint summary,.fox-transcript summary{cursor:pointer;font-weight:750}.fox-transcript .fox-speech{font-size:14px}.fox-transcript .fox-speech strong{font-size:19px}.fox-conversation .greeting-choices .btn{white-space:normal;overflow-wrap:anywhere}.fox-conversation .greeting-choices button:disabled{opacity:.5}#foxNext[hidden]{display:none}#foxFeedback{margin:20px 0;line-height:1.6}.village-conversation>.fox-lesson-line{grid-template-columns:minmax(0,1fr);padding:12px;background:#FFF1E5;border-radius:16px}.fox-lesson-line>span{padding:0}.fox-lesson-line>.btn{justify-self:start}
 @media(max-width:560px){.fox-conversation-heading{grid-template-columns:70px minmax(0,1fr);gap:12px}.fox-conversation-portrait{width:70px;height:100px}.fox-conversation-heading h1{font-size:24px}.fox-speech{padding:14px;margin-right:6%}.fox-speech.is-you{margin-left:6%}.fox-speech strong{font-size:21px}}
 
-.ship-parts{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0 24px}.ship-parts .btn{white-space:normal}.ship-parts [aria-pressed="true"]{border:2px solid #FF5726;background:#FFF1E5}.voyage-parts{font-size:11px;font-weight:750;line-height:1.2}.later-politeness{padding:16px;border-top:2px dashed #102B5030;margin-top:20px}.later-politeness h4{font-size:17px}.later-politeness>p{font-size:14px}.later-politeness .greeting-art{width:100px;height:100px}
+.later-politeness{padding:16px;border-top:2px dashed #102B5030;margin-top:20px}.later-politeness h4{font-size:17px}.later-politeness>p{font-size:14px}.later-politeness .greeting-art{width:100px;height:100px}
+
+/* Compact introductory stops: short arrival/departure band, shared map coordinates. */
+.expedition-board.has-voyage,.expedition-board.is-village.has-arrival{aspect-ratio:5/12.25}
+.has-voyage .expedition-island,.has-arrival .expedition-island{top:10.204082%;height:89.795918%;background:#fff}
+.has-arrival{background:#102B50}.has-arrival .expedition-island{background:#102B50}
+.has-voyage .expedition-cache{top:88.326531%}.is-village.has-arrival .expedition-cache{top:86.530612%}
+.has-voyage::before,.has-arrival::before{content:"";position:absolute;left:30%;top:7%;height:13%;border-left:3px dashed #102B5060;z-index:1}
+.has-arrival::before{left:55%;border-color:#FFF1E5;top:8%;height:13%}
+.expedition-voyage .expedition-voyage-link{min-height:0;gap:12px}.voyage-ship-art{height:clamp(76px,18vw,125px)}
+.has-arrival .voyage-ship-art{width:48%;max-width:250px}.has-arrival .expedition-voyage .expedition-pin-label{border-color:#FFF1E5}
+.has-arrival.is-lighthouse-lit .lighthouse-beacon{top:76.832653%}
+@media(max-width:560px){.voyage-ship-art{height:76px}.expedition-voyage .expedition-voyage-link{gap:8px}.has-arrival .voyage-ship-art{width:48%}}
+@media(max-width:560px){.voyage-stop-copy{gap:3px}.voyage-stop-copy .expedition-pin-number{width:34px;height:34px;font-size:17px}.expedition-voyage .expedition-pin-label{font-size:10px;line-height:1.12;padding:3px 5px}}
