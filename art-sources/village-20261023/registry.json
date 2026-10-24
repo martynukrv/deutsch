@@ -1,0 +1,302 @@
+[
+  {
+    "de": "Ich bin hier",
+    "id": "village-sein-1",
+    "sheet": "sein",
+    "cell": 0,
+    "uas": [
+      "Я тут"
+    ],
+    "src": "assets/illustrations/sentences-village/sein-1.webp?v=20261023"
+  },
+  {
+    "de": "Du bist dort",
+    "id": "village-sein-2",
+    "sheet": "sein",
+    "cell": 1,
+    "uas": [
+      "Ти там"
+    ],
+    "src": "assets/illustrations/sentences-village/sein-2.webp?v=20261023"
+  },
+  {
+    "de": "Er ist hier",
+    "id": "village-sein-3",
+    "sheet": "sein",
+    "cell": 2,
+    "uas": [
+      "Він тут"
+    ],
+    "src": "assets/illustrations/sentences-village/sein-3.webp?v=20261023"
+  },
+  {
+    "de": "Sie ist bereit",
+    "id": "village-sein-4",
+    "sheet": "sein",
+    "cell": 3,
+    "uas": [
+      "Вона готова"
+    ],
+    "src": "assets/illustrations/sentences-village/sein-4.webp?v=20261023"
+  },
+  {
+    "de": "Wir sind bereit",
+    "id": "village-sein-5",
+    "sheet": "sein",
+    "cell": 4,
+    "uas": [
+      "Ми готові"
+    ],
+    "src": "assets/illustrations/sentences-village/sein-5.webp?v=20261023"
+  },
+  {
+    "de": "Ihr seid hier",
+    "id": "village-sein-6",
+    "sheet": "sein",
+    "cell": 5,
+    "uas": [
+      "Ви (кілька людей) тут"
+    ],
+    "src": "assets/illustrations/sentences-village/sein-6.webp?v=20261023"
+  },
+  {
+    "de": "Ich habe Zeit",
+    "id": "village-haben-1",
+    "sheet": "haben",
+    "cell": 0,
+    "uas": [
+      "Я маю час"
+    ],
+    "src": "assets/illustrations/sentences-village/haben-1.webp?v=20261023"
+  },
+  {
+    "de": "Du hast Hunger",
+    "id": "village-haben-2",
+    "sheet": "haben",
+    "cell": 1,
+    "uas": [
+      "Ти голодний / голодна"
+    ],
+    "src": "assets/illustrations/sentences-village/haben-2.webp?v=20261023"
+  },
+  {
+    "de": "Er hat Durst",
+    "id": "village-haben-3",
+    "sheet": "haben",
+    "cell": 2,
+    "uas": [
+      "Він хоче пити"
+    ],
+    "src": "assets/illustrations/sentences-village/haben-3.webp?v=20261023"
+  },
+  {
+    "de": "Sie hat Zeit",
+    "id": "village-haben-4",
+    "sheet": "haben",
+    "cell": 3,
+    "uas": [
+      "Вона має час"
+    ],
+    "src": "assets/illustrations/sentences-village/haben-4.webp?v=20261023"
+  },
+  {
+    "de": "Wir haben Hunger",
+    "id": "village-haben-5",
+    "sheet": "haben",
+    "cell": 4,
+    "uas": [
+      "Ми голодні"
+    ],
+    "src": "assets/illustrations/sentences-village/haben-5.webp?v=20261023"
+  },
+  {
+    "de": "Ihr habt Durst",
+    "id": "village-haben-6",
+    "sheet": "haben",
+    "cell": 5,
+    "uas": [
+      "Ви (кілька людей) хочете пити"
+    ],
+    "src": "assets/illustrations/sentences-village/haben-6.webp?v=20261023"
+  },
+  {
+    "de": "Wer lernt hier",
+    "id": "village-questions-1",
+    "sheet": "questions",
+    "cell": 0,
+    "uas": [
+      "Хто тут вчиться"
+    ],
+    "src": "assets/illustrations/sentences-village/questions-1.webp?v=20261023"
+  },
+  {
+    "de": "Was machst du",
+    "id": "village-questions-2",
+    "sheet": "questions",
+    "cell": 1,
+    "uas": [
+      "Що ти робиш"
+    ],
+    "src": "assets/illustrations/sentences-village/questions-2.webp?v=20261023"
+  },
+  {
+    "de": "Wo wohnst du",
+    "id": "village-questions-3",
+    "sheet": "questions",
+    "cell": 2,
+    "uas": [
+      "Де ти мешкаєш"
+    ],
+    "src": "assets/illustrations/sentences-village/questions-3.webp?v=20261023"
+  },
+  {
+    "de": "Wann kommst du",
+    "id": "village-questions-4",
+    "sheet": "questions",
+    "cell": 3,
+    "uas": [
+      "Коли ти приходиш"
+    ],
+    "src": "assets/illustrations/sentences-village/questions-4.webp?v=20261023"
+  },
+  {
+    "de": "Wie heißt du",
+    "id": "village-questions-5",
+    "sheet": "questions",
+    "cell": 4,
+    "uas": [
+      "Як тебе звати"
+    ],
+    "src": "assets/illustrations/sentences-village/questions-5.webp?v=20261023"
+  },
+  {
+    "de": "Warum lernst du Deutsch",
+    "id": "village-questions-6",
+    "sheet": "questions",
+    "cell": 5,
+    "uas": [
+      "Чому ти вивчаєш німецьку"
+    ],
+    "src": "assets/illustrations/sentences-village/questions-6.webp?v=20261023"
+  },
+  {
+    "de": "Ich bin nicht bereit",
+    "id": "village-negation-1",
+    "sheet": "negation",
+    "cell": 0,
+    "uas": [
+      "Я не готовий / не готова"
+    ],
+    "src": "assets/illustrations/sentences-village/negation-1.webp?v=20261023"
+  },
+  {
+    "de": "Er arbeitet nicht",
+    "id": "village-negation-2",
+    "sheet": "negation",
+    "cell": 1,
+    "uas": [
+      "Він не працює"
+    ],
+    "src": "assets/illustrations/sentences-village/negation-2.webp?v=20261023"
+  },
+  {
+    "de": "Ihr seid nicht hier",
+    "id": "village-negation-3",
+    "sheet": "negation",
+    "cell": 2,
+    "uas": [
+      "Ви (кілька людей) не тут"
+    ],
+    "src": "assets/illustrations/sentences-village/negation-3.webp?v=20261023"
+  },
+  {
+    "de": "Das ist kein Tisch",
+    "id": "village-negation-4",
+    "sheet": "negation",
+    "cell": 3,
+    "uas": [
+      "Це не стіл"
+    ],
+    "src": "assets/illustrations/sentences-village/negation-4.webp?v=20261023"
+  },
+  {
+    "de": "Das ist keine Schule",
+    "id": "village-negation-5",
+    "sheet": "negation",
+    "cell": 4,
+    "uas": [
+      "Це не школа"
+    ],
+    "src": "assets/illustrations/sentences-village/negation-5.webp?v=20261023"
+  },
+  {
+    "de": "Das ist keine Tür",
+    "id": "village-negation-6",
+    "sheet": "negation",
+    "cell": 5,
+    "uas": [
+      "Це не двері"
+    ],
+    "src": "assets/illustrations/sentences-village/negation-6.webp?v=20261023"
+  },
+  {
+    "de": "Ich heiße Roman",
+    "id": "village-introduction-1",
+    "sheet": "introduction",
+    "cell": 0,
+    "uas": [
+      "Мене звати Роман"
+    ],
+    "src": "assets/illustrations/sentences-village/introduction-1.webp?v=20261023"
+  },
+  {
+    "de": "Ich heiße Oleksii",
+    "id": "village-introduction-2",
+    "sheet": "introduction",
+    "cell": 1,
+    "uas": [
+      "Мене звати Олексій"
+    ],
+    "src": "assets/illustrations/sentences-village/introduction-2.webp?v=20261023"
+  },
+  {
+    "de": "Ich wohne in Kyjiw",
+    "id": "village-introduction-3",
+    "sheet": "introduction",
+    "cell": 2,
+    "uas": [
+      "Я мешкаю в Києві"
+    ],
+    "src": "assets/illustrations/sentences-village/introduction-3.webp?v=20261023"
+  },
+  {
+    "de": "Ich komme aus der Ukraine",
+    "id": "village-introduction-4",
+    "sheet": "introduction",
+    "cell": 3,
+    "uas": [
+      "Я з України"
+    ],
+    "src": "assets/illustrations/sentences-village/introduction-4.webp?v=20261023"
+  },
+  {
+    "de": "Ich bin zehn Jahre alt",
+    "id": "village-introduction-5",
+    "sheet": "introduction",
+    "cell": 4,
+    "uas": [
+      "Мені десять років"
+    ],
+    "src": "assets/illustrations/sentences-village/introduction-5.webp?v=20261023"
+  },
+  {
+    "de": "Wie alt bist du",
+    "id": "village-introduction-6",
+    "sheet": "introduction",
+    "cell": 5,
+    "uas": [
+      "Скільки тобі років"
+    ],
+    "src": "assets/illustrations/sentences-village/introduction-6.webp?v=20261023"
+  }
+]

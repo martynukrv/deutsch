@@ -1,0 +1,602 @@
+[
+  {
+    "sheet": "sein.png",
+    "scene": "sein-1",
+    "cellBox": [
+      0,
+      0,
+      512,
+      512
+    ],
+    "contentBoxInCell": [
+      128,
+      40,
+      393,
+      478
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "sein.png",
+    "scene": "sein-2",
+    "cellBox": [
+      512,
+      0,
+      1024,
+      512
+    ],
+    "contentBoxInCell": [
+      6,
+      51,
+      500,
+      499
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "sein.png",
+    "scene": "sein-3",
+    "cellBox": [
+      1024,
+      0,
+      1536,
+      512
+    ],
+    "contentBoxInCell": [
+      143,
+      31,
+      431,
+      484
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "sein.png",
+    "scene": "sein-4",
+    "cellBox": [
+      0,
+      512,
+      512,
+      1024
+    ],
+    "contentBoxInCell": [
+      60,
+      20,
+      471,
+      474
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "sein.png",
+    "scene": "sein-5",
+    "cellBox": [
+      512,
+      512,
+      1014,
+      1024
+    ],
+    "contentBoxInCell": [
+      29,
+      29,
+      502,
+      463
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "sein.png",
+    "scene": "sein-6",
+    "cellBox": [
+      1014,
+      512,
+      1536,
+      1024
+    ],
+    "contentBoxInCell": [
+      0,
+      38,
+      488,
+      481
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "haben.png",
+    "scene": "haben-1",
+    "cellBox": [
+      0,
+      0,
+      512,
+      512
+    ],
+    "contentBoxInCell": [
+      59,
+      48,
+      439,
+      484
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "haben.png",
+    "scene": "haben-2",
+    "cellBox": [
+      512,
+      0,
+      1024,
+      512
+    ],
+    "contentBoxInCell": [
+      5,
+      51,
+      505,
+      500
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "haben.png",
+    "scene": "haben-3",
+    "cellBox": [
+      1024,
+      0,
+      1536,
+      512
+    ],
+    "contentBoxInCell": [
+      53,
+      49,
+      476,
+      485
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "haben.png",
+    "scene": "haben-4",
+    "cellBox": [
+      0,
+      512,
+      512,
+      1024
+    ],
+    "contentBoxInCell": [
+      28,
+      38,
+      472,
+      440
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "haben.png",
+    "scene": "haben-5",
+    "cellBox": [
+      512,
+      512,
+      1024,
+      1024
+    ],
+    "contentBoxInCell": [
+      11,
+      32,
+      496,
+      446
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "haben.png",
+    "scene": "haben-6",
+    "cellBox": [
+      1024,
+      512,
+      1536,
+      1024
+    ],
+    "contentBoxInCell": [
+      16,
+      29,
+      498,
+      493
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "questions.png",
+    "scene": "questions-1",
+    "cellBox": [
+      0,
+      0,
+      512,
+      512
+    ],
+    "contentBoxInCell": [
+      33,
+      34,
+      508,
+      504
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "questions.png",
+    "scene": "questions-2",
+    "cellBox": [
+      512,
+      0,
+      1000,
+      512
+    ],
+    "contentBoxInCell": [
+      8,
+      68,
+      474,
+      506
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "questions.png",
+    "scene": "questions-3",
+    "cellBox": [
+      1000,
+      0,
+      1536,
+      512
+    ],
+    "contentBoxInCell": [
+      17,
+      69,
+      521,
+      506
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "questions.png",
+    "scene": "questions-4",
+    "cellBox": [
+      0,
+      512,
+      512,
+      1024
+    ],
+    "contentBoxInCell": [
+      54,
+      6,
+      507,
+      476
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "questions.png",
+    "scene": "questions-5",
+    "cellBox": [
+      512,
+      512,
+      1024,
+      1024
+    ],
+    "contentBoxInCell": [
+      45,
+      20,
+      510,
+      466
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "questions.png",
+    "scene": "questions-6",
+    "cellBox": [
+      1024,
+      512,
+      1536,
+      1024
+    ],
+    "contentBoxInCell": [
+      25,
+      8,
+      473,
+      461
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "negation.png",
+    "scene": "negation-1",
+    "cellBox": [
+      0,
+      0,
+      512,
+      512
+    ],
+    "contentBoxInCell": [
+      39,
+      50,
+      489,
+      494
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "negation.png",
+    "scene": "negation-2",
+    "cellBox": [
+      512,
+      0,
+      1024,
+      512
+    ],
+    "contentBoxInCell": [
+      29,
+      45,
+      510,
+      492
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "negation.png",
+    "scene": "negation-3",
+    "cellBox": [
+      1024,
+      0,
+      1536,
+      538
+    ],
+    "contentBoxInCell": [
+      16,
+      47,
+      486,
+      533
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "negation.png",
+    "scene": "negation-4",
+    "cellBox": [
+      0,
+      512,
+      512,
+      1024
+    ],
+    "contentBoxInCell": [
+      26,
+      34,
+      508,
+      470
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "negation.png",
+    "scene": "negation-5",
+    "cellBox": [
+      512,
+      512,
+      1024,
+      1024
+    ],
+    "contentBoxInCell": [
+      24,
+      25,
+      512,
+      466
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "negation.png",
+    "scene": "negation-6",
+    "cellBox": [
+      1024,
+      538,
+      1536,
+      1024
+    ],
+    "contentBoxInCell": [
+      42,
+      6,
+      490,
+      429
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "introduction.png",
+    "scene": "introduction-1",
+    "cellBox": [
+      0,
+      0,
+      512,
+      512
+    ],
+    "contentBoxInCell": [
+      22,
+      50,
+      475,
+      512
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "introduction.png",
+    "scene": "introduction-2",
+    "cellBox": [
+      512,
+      0,
+      1024,
+      512
+    ],
+    "contentBoxInCell": [
+      46,
+      76,
+      430,
+      511
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "introduction.png",
+    "scene": "introduction-3",
+    "cellBox": [
+      1024,
+      0,
+      1536,
+      512
+    ],
+    "contentBoxInCell": [
+      0,
+      83,
+      504,
+      510
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "introduction.png",
+    "scene": "introduction-4",
+    "cellBox": [
+      0,
+      512,
+      530,
+      1024
+    ],
+    "contentBoxInCell": [
+      19,
+      59,
+      524,
+      449
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "introduction.png",
+    "scene": "introduction-5",
+    "cellBox": [
+      530,
+      512,
+      995,
+      1024
+    ],
+    "contentBoxInCell": [
+      5,
+      63,
+      465,
+      462
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  },
+  {
+    "sheet": "introduction.png",
+    "scene": "introduction-6",
+    "cellBox": [
+      995,
+      512,
+      1536,
+      1024
+    ],
+    "contentBoxInCell": [
+      0,
+      44,
+      536,
+      468
+    ],
+    "outputSize": [
+      440,
+      440
+    ]
+  }
+]
