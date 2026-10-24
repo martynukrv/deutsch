@@ -30,6 +30,7 @@ jobs:
           node .github/tests/residents.cjs
           node .github/tests/expedition-team.cjs
           node .github/tests/greetings.cjs
+          node .github/tests/fox-conversation.cjs
           node .github/tests/journey.cjs
           node .github/tests/learning-flow.cjs
           node .github/tests/review.cjs

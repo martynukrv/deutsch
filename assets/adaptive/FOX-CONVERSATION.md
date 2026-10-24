@@ -1,0 +1,11 @@
+# Guided departure conversation
+
+After earning the first island’s compass, the primary departure action opens a four-exchange rehearsal with Fox. It is an island ending, not a tenth lesson or an extra seal. The learner plays Oleksii and Fox voices a partner named Roman; that roleplay is stated explicitly. No personal input is collected. Exchanges cover Hallo, responding with Ich heiße Oleksii, asking Wie heißt du, and Tschüss. Fox’s reply is Ich heiße Roman, for which an original whole recording exists. Missing recordings for Ich bin Oleksii / Ich heiße Lina are not synthesized or assembled.
+
+The introduction does not autoplay. Speech bubbles have individual playback controls. Each correct reply plays the exact original line; the name-question turn plays Roman’s full reply. Hints explain the two new ready-to-use phrases, which island two later teaches formally. There is no score. Incorrect options can be retried, with disabled options and a lock preventing double-counting. Every actual answer feeds daily activity once and canonical spaced repetition once. The final screen presents the full eight-line transcript with translation and playback.
+
+Completion is stored in profileStorage under deutsch16_fox_conversation_v1, only after all exchanges and only while the compass is earned. Opening, skipping or leaving does not award completion. A replay cannot erase it. Existing island results, nine lesson seals, clue fragments and compass remain unchanged. The learner can always skip to island two. Once completed, departure sails directly, and the compass panel offers a separate repeat action. There are no delayed transitions to survive navigation.
+
+Lina’s intro acknowledges completed rehearsal; Mia’s question intro and Emma’s introduction intro connect the same recorded phrases to their existing lessons. Authored lesson data, card IDs and 27/18-task finals are unchanged. All new copy is Ukrainian/English; existing illustrations are reused.
+
+.github/tests/fox-conversation.cjs runs in browser CI and after publication. It verifies exact whole-recording availability, intro/turn layouts at 320/390/1280, hints, incorrect/correct double-click guards, complete transcript, exact activity count, persistent island results, optional skip, replay/reload, resident continuity, English and separate profiles.
