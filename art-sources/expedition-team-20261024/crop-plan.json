@@ -1,0 +1,176 @@
+[
+  {
+    "name": "nika",
+    "state": "welcome",
+    "sheetBox": [
+      0,
+      0,
+      724,
+      724
+    ],
+    "contentBox": [
+      127,
+      22,
+      605,
+      701
+    ]
+  },
+  {
+    "name": "nika",
+    "state": "success",
+    "sheetBox": [
+      724,
+      0,
+      1448,
+      724
+    ],
+    "contentBox": [
+      128,
+      20,
+      583,
+      701
+    ]
+  },
+  {
+    "name": "nika",
+    "state": "encourage",
+    "sheetBox": [
+      1448,
+      0,
+      2172,
+      724
+    ],
+    "contentBox": [
+      104,
+      18,
+      606,
+      712
+    ]
+  },
+  {
+    "name": "tim",
+    "state": "welcome",
+    "sheetBox": [
+      0,
+      0,
+      724,
+      724
+    ],
+    "contentBox": [
+      151,
+      20,
+      607,
+      710
+    ]
+  },
+  {
+    "name": "tim",
+    "state": "success",
+    "sheetBox": [
+      724,
+      0,
+      1448,
+      724
+    ],
+    "contentBox": [
+      129,
+      18,
+      540,
+      714
+    ]
+  },
+  {
+    "name": "tim",
+    "state": "encourage",
+    "sheetBox": [
+      1448,
+      0,
+      2172,
+      724
+    ],
+    "contentBox": [
+      53,
+      20,
+      508,
+      706
+    ]
+  },
+  {
+    "name": "bruno",
+    "state": "welcome",
+    "sheetBox": [
+      0,
+      0,
+      724,
+      724
+    ],
+    "contentBox": [
+      142,
+      14,
+      665,
+      704
+    ]
+  },
+  {
+    "name": "bruno",
+    "state": "success",
+    "sheetBox": [
+      724,
+      0,
+      1448,
+      724
+    ],
+    "contentBox": [
+      139,
+      14,
+      635,
+      704
+    ]
+  },
+  {
+    "name": "bruno",
+    "state": "encourage",
+    "sheetBox": [
+      1448,
+      0,
+      2172,
+      724
+    ],
+    "contentBox": [
+      62,
+      21,
+      649,
+      704
+    ]
+  },
+  {
+    "name": "compass-face",
+    "sheetBox": [
+      0,
+      0,
+      1135,
+      887
+    ],
+    "contentBox": [
+      155,
+      39,
+      960,
+      829
+    ]
+  },
+  {
+    "name": "compass-needle",
+    "sheetBox": [
+      1135,
+      0,
+      1774,
+      887
+    ],
+    "contentBox": [
+      163,
+      98,
+      315,
+      782
+    ]
+  }
+]

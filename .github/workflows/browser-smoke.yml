@@ -28,6 +28,7 @@ jobs:
           node .github/tests/village.cjs
           node .github/tests/market.cjs
           node .github/tests/residents.cjs
+          node .github/tests/expedition-team.cjs
           node .github/tests/journey.cjs
           node .github/tests/learning-flow.cjs
           node .github/tests/review.cjs

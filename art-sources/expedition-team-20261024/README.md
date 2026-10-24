@@ -1,0 +1,7 @@
+# First-island expedition story, 24 October 2026
+
+User accepted the fox guide plus three recurring explorers, eight missions, clue fragments after passed lessons, and an awakening compass pointing toward the residents’ island. Built-in imagegen generated three character sheets (Nika, Tim, Bruno) with welcome/success/encouragement poses and one two-part compass sheet, matching approved art and fixed palette #102B50 / #FF5726 / #FFFFFF / #FFF1E5. Original fox and treasure art remain unchanged. All crops were visually checked; processing only crops, transparently pads, resizes and WebP-compresses. The compass face and centered needle are independently cropped for CSS rotation.
+
+Source sheets, exact prompts and crop rectangles are preserved here. Story data: assets/adaptive/expedition-data.js. All authored stage/card definitions, eight lesson definitions, task queues, scoring, recordings and original map stops remain unchanged. No new storage keys or migration. Clues derive from existing lessons[index].passed and survive failed retries. The compass derives from retained final.passed and the existing island continuation switches to the residents’ island. Old results immediately reveal their earned fragments. The final stays freely accessible without requiring all fragments. Ukrainian/English text and reduced motion are supported.
+
+Tests: .github/tests/expedition-team.cjs runs in both CI workflows and against the live deployment. Model checks also cover 2000 unique 24-task finals and preserve second-island progress.
