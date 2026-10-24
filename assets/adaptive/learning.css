@@ -106,3 +106,9 @@
 .has-arrival.is-lighthouse-lit .lighthouse-beacon{top:76.832653%}
 @media(max-width:560px){.voyage-ship-art{height:76px}.expedition-voyage .expedition-voyage-link{gap:8px}.has-arrival .voyage-ship-art{width:48%}}
 @media(max-width:560px){.voyage-stop-copy{gap:3px}.voyage-stop-copy .expedition-pin-number{width:34px;height:34px;font-size:17px}.expedition-voyage .expedition-pin-label{font-size:10px;line-height:1.12;padding:3px 5px}}
+
+/* Conversation word bank: compact movable words, distinct from reply choices. */
+.karl-tiles{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0}
+.karl-tiles .btn{flex:0 0 auto;min-width:64px;min-height:48px;padding:10px 16px;width:auto}
+.karl-tiles .btn:disabled{opacity:.45}
+#karlSentence{min-height:56px;overflow-wrap:anywhere}
