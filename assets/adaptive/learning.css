@@ -112,3 +112,7 @@
 .karl-tiles .btn{flex:0 0 auto;min-width:64px;min-height:48px;padding:10px 16px;width:auto}
 .karl-tiles .btn:disabled{opacity:.45}
 #karlSentence{min-height:56px;overflow-wrap:anywhere}
+
+.karl-model-transcript{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:20px 0}.karl-model-transcript .fox-speech{min-width:0;margin:0;overflow-wrap:anywhere}.karl-model-transcript .fox-speech strong{font-size:1.1rem}.karl-typed{display:block;box-sizing:border-box;width:100%;padding:14px;margin:12px 0;font:inherit;border:2px solid #102B50;border-radius:14px;background:#FFFFFF;color:#102B50}.karl-reference{margin-top:20px}@media(max-width:520px){.karl-model-transcript{grid-template-columns:1fr}}
+
+.village-conversation>.karl-model-transcript{grid-template-columns:1fr 1fr;gap:12px}.village-conversation[data-karl-preview] .btn{white-space:normal;overflow-wrap:anywhere}.village-conversation[data-karl-preview]>p{font-size:15px;line-height:1.6}@media(max-width:520px){.village-conversation>.karl-model-transcript{grid-template-columns:1fr}}

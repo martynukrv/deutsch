@@ -1,26 +1,26 @@
-# Karl conversation v1
+# Karl: one integrated lesson
 
-Eight ungraded exchanges after island two’s existing 21-task final. The final
-still awards and retains the key and lighthouse; this conversation adds no
-new gate or score. Its result CTA and the map both open the conversation.
+Island two’s existing Keeper’s house (authored index 5, displayed lesson 7) now
+contains the complete sequence: listen to the 16-line model, existing 18-task
+practice with six graded tasks, then eight independently typed replies with
+optional collapsed hints/translation. Listening alone earns no progress.
+The full recording can be played in dialogue order or line by line, stopped,
+and cancelled by navigation. Helmut remains Karl; Dylan Carter remains Oleksii.
 
-First choose replies, then build three phrases from shuffled words with a
-distractor, then thank and say goodbye. Correct replies lock once; repeated
-identical tile submissions do not duplicate activity. Hints, translation,
-manual original whole-recording playback and transcript support retries.
-Karl’s eight lines now use the user-supplied Helmut recording, including his name. No synthesized or
-assembled audio. UI never automatically substitutes another character’s name.
+The existing graded practice keeps its original lesson result key/index and
+threshold. The independent conversation remains ungraded and saves the existing
+profile-scoped deutsch16_karl_conversation_v1 completion only at the end. Old
+lesson results and conversation completion remain valid; no migration/rewrites.
 
-Profile result: deutsch16_karl_conversation_v1. Completion is saved only after
-all eight exchanges, independently of old final/lesson results. Leaving or
-reloading during replay preserves completion and rewards.
+Independent completion leads to the unchanged 21-task island final. The final
+still awards the lighthouse key and light. Its success CTA returns to the map;
+there is no separate post-final conversation panel. Replay starts from the
+same Keeper’s house lesson, available before earning the lighthouse key.
 
-Recording script and confirmed cast:
-../../../audio/recording/karl-dialogue-v1.txt (repo-root audio/recording).
-Oleksii is assigned to ElevenLabs Dylan Carter - Exaggerated & Energetic.
-His source and split manifest are in audio-sources/oleksii-dylan-20261024.
-Karl is assigned to ElevenLabs Helmut - Distinctive and Authentic. The source
-and split manifest are in audio-sources/karl-helmut-20261024. New character audio should be bound by role AND phrase, not by
-phrase globally: shared greetings need distinct Karl/Oleksii recordings.
+Script and confirmed cast: audio/recording/karl-dialogue-v1.txt and
+ audio/recording/dialogue-voices-v1.json. Sources/split manifests are preserved
+in audio-sources/karl-helmut-20261024 and audio-sources/oleksii-dylan-20261024.
+No new voice generation, word assembly, or global course voice substitution.
 
-Validation: .github/tests/karl-conversation.cjs, local CI and published-site CI.
+Validation: .github/tests/karl-conversation.cjs, local and published-site CI;
+existing village/resident/final/progress/profile regression suites.
