@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "status": "proposed-unassigned",
+  "roles": {
+    "karl": {
+      "description_uk": "Чоловічий 50–60 років, теплий і спокійний, стандартна німецька",
+      "provider": null,
+      "voiceId": null,
+      "model": null
+    },
+    "learner_oleksii": {
+      "description_uk": "Юний чоловічий голос ролі учня, природний, стандартна німецька",
+      "provider": null,
+      "voiceId": null,
+      "model": null
+    }
+  },
+  "existingAudioRole": "neutral-pronunciation-reference",
+  "recordingScript": "audio/recording/karl-dialogue-v1.txt",
+  "bindingRule": "role-and-exact-whole-phrase"
+}

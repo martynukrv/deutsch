@@ -65,6 +65,7 @@ jobs:
           node .github/tests/expedition-team.cjs
           node .github/tests/greetings.cjs
           node .github/tests/fox-conversation.cjs
+          node .github/tests/karl-conversation.cjs
           node .github/tests/learning-flow.cjs
       - name: Verify selectable vocabulary practice
         run: node .github/tests/vocab-modes.cjs
@@ -119,4 +120,5 @@ jobs:
           node .github/tests/expedition-team.cjs
           node .github/tests/greetings.cjs
           node .github/tests/fox-conversation.cjs
+          node .github/tests/karl-conversation.cjs
           node .github/tests/learning-flow.cjs
