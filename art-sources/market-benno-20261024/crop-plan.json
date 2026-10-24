@@ -1,0 +1,47 @@
+[
+  {
+    "name": "welcome",
+    "sheetBox": [
+      0,
+      0,
+      700,
+      724
+    ],
+    "contentBox": [
+      91,
+      29,
+      670,
+      700
+    ]
+  },
+  {
+    "name": "success",
+    "sheetBox": [
+      700,
+      0,
+      1370,
+      724
+    ],
+    "contentBox": [
+      106,
+      28,
+      660,
+      699
+    ]
+  },
+  {
+    "name": "encourage",
+    "sheetBox": [
+      1370,
+      0,
+      2172,
+      724
+    ],
+    "contentBox": [
+      168,
+      28,
+      733,
+      700
+    ]
+  }
+]
