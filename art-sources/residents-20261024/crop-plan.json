@@ -1,0 +1,242 @@
+[
+  {
+    "id": "lina",
+    "state": "welcome",
+    "sheetBox": [
+      0,
+      0,
+      724,
+      724
+    ],
+    "contentBox": [
+      212,
+      16,
+      663,
+      708
+    ]
+  },
+  {
+    "id": "lina",
+    "state": "success",
+    "sheetBox": [
+      724,
+      0,
+      1448,
+      724
+    ],
+    "contentBox": [
+      139,
+      16,
+      556,
+      708
+    ]
+  },
+  {
+    "id": "lina",
+    "state": "encourage",
+    "sheetBox": [
+      1448,
+      0,
+      2172,
+      724
+    ],
+    "contentBox": [
+      42,
+      19,
+      490,
+      708
+    ]
+  },
+  {
+    "id": "mia",
+    "state": "welcome",
+    "sheetBox": [
+      0,
+      0,
+      724,
+      724
+    ],
+    "contentBox": [
+      93,
+      10,
+      661,
+      716
+    ]
+  },
+  {
+    "id": "mia",
+    "state": "success",
+    "sheetBox": [
+      724,
+      0,
+      1448,
+      724
+    ],
+    "contentBox": [
+      109,
+      12,
+      635,
+      716
+    ]
+  },
+  {
+    "id": "mia",
+    "state": "encourage",
+    "sheetBox": [
+      1448,
+      0,
+      2172,
+      724
+    ],
+    "contentBox": [
+      115,
+      13,
+      640,
+      716
+    ]
+  },
+  {
+    "id": "otto",
+    "state": "welcome",
+    "sheetBox": [
+      0,
+      0,
+      724,
+      724
+    ],
+    "contentBox": [
+      94,
+      0,
+      651,
+      707
+    ]
+  },
+  {
+    "id": "otto",
+    "state": "success",
+    "sheetBox": [
+      724,
+      0,
+      1448,
+      724
+    ],
+    "contentBox": [
+      81,
+      2,
+      598,
+      707
+    ]
+  },
+  {
+    "id": "otto",
+    "state": "encourage",
+    "sheetBox": [
+      1448,
+      0,
+      2172,
+      724
+    ],
+    "contentBox": [
+      33,
+      3,
+      572,
+      707
+    ]
+  },
+  {
+    "id": "emma",
+    "state": "welcome",
+    "sheetBox": [
+      0,
+      0,
+      724,
+      724
+    ],
+    "contentBox": [
+      135,
+      8,
+      612,
+      710
+    ]
+  },
+  {
+    "id": "emma",
+    "state": "success",
+    "sheetBox": [
+      724,
+      0,
+      1448,
+      724
+    ],
+    "contentBox": [
+      131,
+      9,
+      577,
+      709
+    ]
+  },
+  {
+    "id": "emma",
+    "state": "encourage",
+    "sheetBox": [
+      1448,
+      0,
+      2172,
+      724
+    ],
+    "contentBox": [
+      72,
+      9,
+      544,
+      710
+    ]
+  },
+  {
+    "id": "karl",
+    "state": "welcome",
+    "sheetBox": [
+      0,
+      0,
+      724,
+      724
+    ],
+    "contentBox": [
+      104,
+      26,
+      668,
+      702
+    ]
+  },
+  {
+    "id": "karl",
+    "state": "success",
+    "sheetBox": [
+      724,
+      0,
+      1448,
+      724
+    ],
+    "contentBox": [
+      134,
+      23,
+      631,
+      702
+    ]
+  },
+  {
+    "id": "karl",
+    "state": "encourage",
+    "sheetBox": [
+      1448,
+      0,
+      2172,
+      724
+    ],
+    "contentBox": [
+      88,
+      22,
+      601,
+      703
+    ]
+  }
+]
