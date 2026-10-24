@@ -60,7 +60,6 @@
 @media(prefers-reduced-motion:reduce){.compass-needle{animation:none;transform:rotate(45deg)}}
 
 /* Greeting prologue and story bridges reuse the approved vocabulary artwork. */
-.greeting-map-card{padding:24px;margin:20px 0;border:3px solid #102B50;border-radius:24px;background:#FFF1E5}
 .greeting-art{width:140px;height:140px;object-fit:contain;max-width:100%}
 .greeting-welcome .greeting-art{width:180px;height:180px}
 .greeting-task,.greeting-result{padding:20px 0;max-width:760px;margin:auto}
@@ -71,6 +70,18 @@
 .greeting-bridge{margin:16px 0;padding:16px;border-left:4px solid #FF5726;background:#FFF1E5;border-radius:12px}
 #greetingFeedback{min-height:32px}
 #greetingNext[hidden]{display:none}
-@media(max-width:480px){.greeting-map-card{padding:16px}.greeting-choices{grid-template-columns:1fr}.greeting-art{width:120px;height:120px}}
+@media(max-width:480px){.greeting-choices{grid-template-columns:1fr}.greeting-art{width:120px;height:120px}}
 
 @media(max-width:560px){.greeting-welcome{grid-template-columns:1fr;gap:8px}.greeting-welcome .market-merchant{width:110px;height:125px;justify-self:center}.greeting-welcome h1{font-size:28px;line-height:1.15}}
+
+/* Ship and island share one ordered route and one passport. */
+.expedition-board.has-voyage{aspect-ratio:5/14;background:#FFF1E5}
+.has-voyage .expedition-island{top:21.428571%;height:78.571429%;background:#fff}
+.has-voyage .expedition-cache{top:89.785714%}
+.has-voyage::before{content:"";position:absolute;left:30%;top:14%;height:17%;border-left:3px dashed #102B5060;z-index:1}
+.expedition-voyage.expedition-stop{width:90%}
+.expedition-voyage .expedition-voyage-link{flex-direction:row;justify-content:center;gap:20px;min-height:120px}
+.voyage-ship-art{width:45%;max-width:220px;height:160px;object-fit:contain}
+.voyage-stop-copy{display:flex;flex-direction:column;align-items:center;gap:8px;max-width:50%}
+.expedition-voyage .expedition-pin-label{font-size:14px}
+@media(max-width:560px){.expedition-voyage .expedition-voyage-link{gap:8px;min-height:100px}.voyage-ship-art{height:100px}.expedition-voyage .expedition-pin-label{font-size:11px}}
