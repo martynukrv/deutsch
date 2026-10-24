@@ -15,9 +15,10 @@ Profile result: deutsch16_karl_conversation_v1. Completion is saved only after
 all eight exchanges, independently of old final/lesson results. Leaving or
 reloading during replay preserves completion and rewards.
 
-Recording script and proposed, unassigned cast:
+Recording script and confirmed cast:
 ../../../audio/recording/karl-dialogue-v1.txt (repo-root audio/recording).
-Existing course audio remains a neutral pronunciation reference for the learner.
+Oleksii is assigned to ElevenLabs Dylan Carter - Exaggerated & Energetic.
+His source and split manifest are in audio-sources/oleksii-dylan-20261024.
 Karl is assigned to ElevenLabs Helmut - Distinctive and Authentic. The source
 and split manifest are in audio-sources/karl-helmut-20261024. New character audio should be bound by role AND phrase, not by
 phrase globally: shared greetings need distinct Karl/Oleksii recordings.

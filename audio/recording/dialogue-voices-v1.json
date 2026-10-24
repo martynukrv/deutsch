@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "status": "karl-assigned-learner-pending",
+  "status": "cast-assigned",
   "roles": {
     "karl": {
       "description_uk": "Чоловічий 50–60 років, теплий і спокійний, стандартна німецька",
@@ -12,10 +12,13 @@
       "status": "user-confirmed"
     },
     "learner_oleksii": {
-      "description_uk": "Юний чоловічий голос ролі учня, природний, стандартна німецька",
-      "provider": null,
+      "description_uk": "Голос ролі Олексія: Dylan Carter - Exaggerated & Energetic, обраний користувачем",
+      "provider": "ElevenLabs",
       "voiceId": null,
-      "model": null
+      "model": null,
+      "voiceName": "Dylan Carter - Exaggerated & Energetic",
+      "sourceManifest": "audio-sources/oleksii-dylan-20261024/manifest.json",
+      "status": "user-confirmed"
     }
   },
   "existingAudioRole": "neutral-pronunciation-reference",

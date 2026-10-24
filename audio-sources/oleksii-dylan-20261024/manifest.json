@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "role": "learner_oleksii",
+  "provider": "ElevenLabs",
+  "voiceName": "Dylan Carter - Exaggerated & Energetic",
+  "voiceId": null,
+  "model": null,
+  "originalFilename": "ElevenLabs_2026-10-24T20_18_49_Dylan Carter - Exaggerated & Energetic_pvc_sp100_s50_sb47_v4.mp3",
+  "source_file": "audio-sources/oleksii-dylan-20261024/original.mp3",
+  "source_sha256": "52ada073a80a49e3029aa234bc826fad19cb659975373b643ec6881902c1d2b7",
+  "source_duration": 12.2775,
+  "splitMethod": "7 silent gaps >=350ms below -35dB; preserve 120ms surrounding speech; no synthesis or word assembly",
+  "entries": [
+    {
+      "id": "hello",
+      "role": "learner_oleksii",
+      "text": "Guten Tag!",
+      "path": "audio/dialogue/oleksii-dylan-20261024/oleksii_01_greeting.mp3",
+      "source_start": 0,
+      "source_end": 0.831066,
+      "sha256": "46d5b06e9888a8e3ffbae8f2e7b31c1ab1b10967a965a62b68728d033147850d",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "well",
+      "role": "learner_oleksii",
+      "text": "Gut, danke.",
+      "path": "audio/dialogue/oleksii-dylan-20261024/oleksii_02_how.mp3",
+      "source_start": 1.5246,
+      "source_end": 2.77692,
+      "sha256": "3890c4bc3f6290ed85376ceb7b8ebea706be6128ec3efeb726ffcd253e7e9c53",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "name",
+      "role": "learner_oleksii",
+      "text": "Ich heiße Oleksii.",
+      "path": "audio/dialogue/oleksii-dylan-20261024/oleksii_03_name.mp3",
+      "source_start": 3.30338,
+      "source_end": 4.51154,
+      "sha256": "6f7f27e689bdcdeccfe23758f3bf7b431c09cc5beb331e2b5bbdb04d1fe34c90",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "ask",
+      "role": "learner_oleksii",
+      "text": "Wie heißt du?",
+      "path": "audio/dialogue/oleksii-dylan-20261024/oleksii_04_ask_name.mp3",
+      "source_start": 4.94986,
+      "source_end": 5.84497,
+      "sha256": "be8bdff75e2caa13f41f1f32e18bfc17a17ca2c054ab7c471a8e86d67e48b0d5",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "city",
+      "role": "learner_oleksii",
+      "text": "Ich wohne in Kyjiw.",
+      "path": "audio/dialogue/oleksii-dylan-20261024/oleksii_05_city.mp3",
+      "source_start": 6.31796,
+      "source_end": 7.67084,
+      "sha256": "b9ee2d3247a5c994bd2bf99d88de9aabe301e9b1f949f8d2fe3b2e1ac09eba56",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "ten",
+      "role": "learner_oleksii",
+      "text": "Ich bin zehn Jahre alt.",
+      "path": "audio/dialogue/oleksii-dylan-20261024/oleksii_06_age.mp3",
+      "source_start": 8.04143,
+      "source_end": 9.6056,
+      "sha256": "60d0a59f12a05b5bf99e0a4002ca72854b12fcdcf7fc6626e7d4446d14c8cecb",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "thanks",
+      "role": "learner_oleksii",
+      "text": "Danke!",
+      "path": "audio/dialogue/oleksii-dylan-20261024/oleksii_07_thanks.mp3",
+      "source_start": 10.0879,
+      "source_end": 10.7295,
+      "sha256": "fd6e5406b54e149cfb67d5ae9ecdd3409aa8b33ec9550b8a10cf82793ff44fda",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "bye",
+      "role": "learner_oleksii",
+      "text": "Auf Wiedersehen!",
+      "path": "audio/dialogue/oleksii-dylan-20261024/oleksii_08_goodbye.mp3",
+      "source_start": 11.2068,
+      "source_end": 12.2775,
+      "sha256": "eed5cea39d67987841e0a4ab989b335830c39a3f5adb91fb28c99dcb91d4db36",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    }
+  ]
+}
