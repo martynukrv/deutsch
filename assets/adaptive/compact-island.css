@@ -13,8 +13,8 @@
 .compact-island .has-voyage .expedition-island{top:7.949791%;height:92.050209%}
 .compact-island .has-voyage .expedition-cache{top:88.033473%}
 .compact-island .has-voyage::before{top:6%;height:12%}
-.compact-island .expedition-voyage{top:6%!important}
-.compact-island .voyage-ship-art{height:clamp(68px,16vw,110px)}
+.compact-island .expedition-voyage{top:5.1%!important}
+.compact-island .voyage-ship-art{height:clamp(48px,14vw,100px)}
 .compact-island .compact-details{margin:12px 0;padding:12px 14px;border:1px solid #102B5020;border-radius:16px;background:#fff}
 .compact-island .compact-details>summary{font-weight:800;cursor:pointer;min-height:24px;line-height:24px}
 .compact-island .compact-details>section{margin:14px 0 0}
@@ -41,3 +41,6 @@
  .compact-island .lesson-start-actions .btn{font-size:14px}
 }
 @media(max-width:350px){.compact-island .market-encounter{grid-template-columns:56px minmax(0,1fr)}.compact-island .market-merchant{width:56px;height:84px}}
+
+.compact-island .voyage-stop-copy{flex-direction:row;gap:6px;max-width:55%}
+.compact-island .voyage-stop-copy .expedition-pin-number{flex-shrink:0}
