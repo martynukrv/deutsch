@@ -1,0 +1,2 @@
+// Regression suites exercise their existing reward/finale checks AFTER real training.
+module.exports=()=>{window.finishTrainingToTest=()=>{const a=DEUTSCH_ADAPTIVE;if(a.snapshot()?.lessonMode!=='training')return;let count=0;while(!a.snapshot().finished){if(++count>200)throw Error('Training did not terminate');const s=a.snapshot(),q=s.queue[s.index];a.answer(q.type==='ua'||q.type==='listen'?q.c.ua:q.c.de);document.querySelector('#alNext').click()}const start=document.querySelector('#alStartTest');if(!start)throw Error('Training did not expose separate test');start.click()}};

@@ -63,6 +63,8 @@ jobs:
           node .github/tests/market.cjs
           node .github/tests/residents.cjs
           node .github/tests/expedition-team.cjs
+          node .github/tests/lesson-cycle-unit.cjs
+          node .github/tests/island-lessons.cjs
           node .github/tests/greetings.cjs
           node .github/tests/inline-audio.cjs
           node .github/tests/fox-conversation.cjs
@@ -119,6 +121,8 @@ jobs:
           node .github/tests/market.cjs
           node .github/tests/residents.cjs
           node .github/tests/expedition-team.cjs
+          node .github/tests/lesson-cycle-unit.cjs
+          node .github/tests/island-lessons.cjs
           node .github/tests/greetings.cjs
           node .github/tests/inline-audio.cjs
           node .github/tests/fox-conversation.cjs
