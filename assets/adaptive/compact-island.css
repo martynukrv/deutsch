@@ -1,0 +1,43 @@
+/* Scoped trial: island two retains its current layout and artwork. */
+.compact-island .al-wrap{padding-top:12px}
+.compact-island .expedition-heading{margin:12px 0;display:flex;align-items:center;flex-wrap:wrap;gap:8px 12px}
+.compact-island .expedition-heading .tag{width:100%}
+.compact-island .expedition-heading h1{font-size:clamp(26px,5vw,36px);margin:0;flex:1}
+.compact-island .expedition-heading .btn{padding:12px 16px}
+.compact-island .expedition-invitation{padding:14px;gap:12px;grid-template-columns:66px 1fr}
+.compact-island .expedition-guide{width:66px;height:78px}
+.compact-island .expedition-invitation strong{font-size:18px}
+.compact-island .expedition-invitation p{margin:6px 0 0}
+.compact-island .expedition-map-head{margin:14px 0 10px;align-items:center}
+.compact-island .expedition-board.has-voyage{aspect-ratio:5/11.95}
+.compact-island .has-voyage .expedition-island{top:7.949791%;height:92.050209%}
+.compact-island .has-voyage .expedition-cache{top:88.033473%}
+.compact-island .has-voyage::before{top:6%;height:12%}
+.compact-island .expedition-voyage{top:4%!important}
+.compact-island .voyage-ship-art{height:clamp(68px,16vw,110px)}
+.compact-island .compact-details{margin:12px 0;padding:12px 14px;border:1px solid #102B5020;border-radius:16px;background:#fff}
+.compact-island .compact-details>summary{font-weight:800;cursor:pointer;min-height:24px;line-height:24px}
+.compact-island .compact-details>section{margin:14px 0 0}
+.compact-island .compact-details>section>h2{display:none}
+.compact-island .compact-details p{margin:10px 0 0}
+.compact-island .market-encounter{padding:14px;gap:14px;margin:14px 0}
+.compact-island .market-encounter h1,.compact-island .market-encounter h2{margin:6px 0;font-size:25px}
+.compact-island .market-encounter p{margin:8px 0;line-height:1.45}
+.compact-island .market-merchant{width:100px;height:120px}
+.compact-island .al-study-grid{gap:10px}
+.compact-island .al-study-grid .al-word{padding:12px 8px}
+.compact-island .al-study-grid .al-word img{width:100px;height:90px}
+.compact-island .lesson-start-actions{gap:8px;margin:12px 0}
+.compact-island .lesson-start-actions .btn{padding:12px}
+.compact-island .journey-result{padding:12px 0}
+.compact-island .journey-result-buttons{margin:14px 0}
+.compact-island .journey-score{margin:12px 0;font-size:30px}
+.compact-island .team-clue-reward{margin:14px 0;padding:14px}
+@media(max-width:560px){
+ .compact-island .market-encounter{grid-template-columns:72px minmax(0,1fr);gap:12px}
+ .compact-island .market-merchant{width:72px;height:100px}
+ .compact-island .market-encounter h1,.compact-island .market-encounter h2{font-size:22px}
+ .compact-island .market-encounter .tag{font-size:11px}
+ .compact-island .lesson-start-actions .btn{font-size:14px}
+}
+@media(max-width:350px){.compact-island .market-encounter{grid-template-columns:56px minmax(0,1fr)}.compact-island .market-merchant{width:56px;height:84px}}

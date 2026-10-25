@@ -1,0 +1,116 @@
+{
+  "base_commit": "8232afd8c53d86da1ae597f99c2f6f067e5dbe85",
+  "scope": "island 0 only",
+  "crops": [
+    {
+      "source": "assets/illustrations/expedition/fox.webp",
+      "output": "assets/illustrations/expedition/compact/fox.webp",
+      "box": [
+        4,
+        5,
+        392,
+        410
+      ],
+      "padding": 10
+    },
+    {
+      "source": "assets/illustrations/expedition/team-bruno-encourage.webp",
+      "output": "assets/illustrations/expedition/compact/team-bruno-encourage.webp",
+      "box": [
+        51,
+        20,
+        429,
+        460
+      ],
+      "padding": 10
+    },
+    {
+      "source": "assets/illustrations/expedition/team-bruno-success.webp",
+      "output": "assets/illustrations/expedition/compact/team-bruno-success.webp",
+      "box": [
+        82,
+        20,
+        398,
+        460
+      ],
+      "padding": 10
+    },
+    {
+      "source": "assets/illustrations/expedition/team-bruno-welcome.webp",
+      "output": "assets/illustrations/expedition/compact/team-bruno-welcome.webp",
+      "box": [
+        73,
+        20,
+        407,
+        460
+      ],
+      "padding": 10
+    },
+    {
+      "source": "assets/illustrations/expedition/team-nika-encourage.webp",
+      "output": "assets/illustrations/expedition/compact/team-nika-encourage.webp",
+      "box": [
+        81,
+        20,
+        399,
+        460
+      ],
+      "padding": 10
+    },
+    {
+      "source": "assets/illustrations/expedition/team-nika-success.webp",
+      "output": "assets/illustrations/expedition/compact/team-nika-success.webp",
+      "box": [
+        93,
+        20,
+        387,
+        460
+      ],
+      "padding": 10
+    },
+    {
+      "source": "assets/illustrations/expedition/team-nika-welcome.webp",
+      "output": "assets/illustrations/expedition/compact/team-nika-welcome.webp",
+      "box": [
+        85,
+        20,
+        395,
+        460
+      ],
+      "padding": 10
+    },
+    {
+      "source": "assets/illustrations/expedition/team-tim-encourage.webp",
+      "output": "assets/illustrations/expedition/compact/team-tim-encourage.webp",
+      "box": [
+        94,
+        20,
+        386,
+        460
+      ],
+      "padding": 10
+    },
+    {
+      "source": "assets/illustrations/expedition/team-tim-success.webp",
+      "output": "assets/illustrations/expedition/compact/team-tim-success.webp",
+      "box": [
+        110,
+        20,
+        370,
+        460
+      ],
+      "padding": 10
+    },
+    {
+      "source": "assets/illustrations/expedition/team-tim-welcome.webp",
+      "output": "assets/illustrations/expedition/compact/team-tim-welcome.webp",
+      "box": [
+        94,
+        20,
+        385,
+        460
+      ],
+      "padding": 10
+    }
+  ]
+}
