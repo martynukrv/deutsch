@@ -67,6 +67,7 @@ jobs:
           node .github/tests/island-lessons.cjs
           node .github/tests/shadowing.cjs
           node .github/tests/motion.cjs
+          node .github/tests/character-clues.cjs
           node .github/tests/greetings.cjs
           node .github/tests/inline-audio.cjs
           node .github/tests/fox-conversation.cjs
@@ -127,6 +128,7 @@ jobs:
           node .github/tests/island-lessons.cjs
           node .github/tests/shadowing.cjs
           node .github/tests/motion.cjs
+          node .github/tests/character-clues.cjs
           node .github/tests/greetings.cjs
           node .github/tests/inline-audio.cjs
           node .github/tests/fox-conversation.cjs
