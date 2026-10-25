@@ -1,0 +1,21 @@
+/* Decorative particles over the original maps; route labels and hit areas stay fixed. */
+.map-ambience{position:absolute;inset:0;z-index:1;pointer-events:none;overflow:hidden;border-radius:inherit}.map-ambient{position:absolute;left:var(--ambient-x);top:var(--ambient-y);width:clamp(18px,4.6vw,32px);height:clamp(18px,4.6vw,32px);transform:translate(-50%,-50%);pointer-events:none}.map-ambient i{display:block;position:absolute;left:45%;top:50%;width:4px;height:4px;border-radius:50%;background:#FF5726;opacity:0;animation-delay:var(--ambient-delay)!important;pointer-events:none}.map-ambient i:nth-child(2){left:20%;top:60%;animation-delay:calc(var(--ambient-delay) - 1.2s)!important}.map-ambient i:nth-child(3){left:75%;top:40%;animation-delay:calc(var(--ambient-delay) - 2.3s)!important}
+.map-ambient-wake i{width:80%;height:24%;left:10%;border:1.5px solid #102B50;border-top-color:transparent;border-radius:50%;background:transparent;animation:ambient-ripple 4.8s ease-out infinite}.is-village .map-ambient-wake i{border-color:#FFF1E5;border-top-color:transparent}.map-ambient-wake i:nth-child(2){left:4%;top:68%}.map-ambient-wake i:nth-child(3){left:20%;top:30%}
+.map-ambient-embers i{width:3px;height:5px;border-radius:45%;background:#FF5726;box-shadow:0 0 3px #FF572666;animation:ambient-ember 3.4s ease-out infinite}.map-ambient-embers:before{content:"";position:absolute;inset:20% 10% 0;border-radius:50%;background:radial-gradient(ellipse,#FF572640,transparent 70%);animation:ambient-warmth 3.2s ease-in-out infinite}
+.map-ambient-leaves i{width:5px;height:3px;border-radius:70% 10%;background:#FF5726;animation:ambient-leaf 6s ease-in-out infinite}.map-ambient-leaves i:nth-child(2){background:#102B50}
+.map-ambient-glint i{width:3px;height:6px;border-radius:1px;animation:ambient-glint 5s ease-in-out infinite}.map-ambient-glint i:nth-child(2){background:#102B50}.is-village .map-ambient-glint i:nth-child(2){background:#FFF1E5}
+.map-ambient-smoke i{width:7px;height:5px;border:1px solid #102B50;border-radius:50%;background:#FFF1E5;animation:ambient-smoke 5.8s ease-out infinite}.is-village .map-ambient-smoke i{border-color:#FFF1E5;background:#FFF1E5}
+.map-ambient-spray i{width:2px;height:5px;background:#102B50;border-radius:50%;animation:ambient-spray 2.8s ease-in infinite}.map-ambient-spray i:nth-child(2){background:#FF5726}
+.map-ambient-sparks i{width:2px;height:5px;border-radius:1px;animation:ambient-spark 4.2s ease-out infinite}
+.map-ambient-flutter i{width:10px;height:3px;border-radius:1px;background:#FFF1E5;animation:ambient-flutter 5s ease-in-out infinite}.map-ambient-flutter i:nth-child(2){background:#FF5726}
+@keyframes ambient-ripple{0%{transform:translateY(-2px) scale(.6);opacity:0}25%{opacity:.65}100%{transform:translateY(5px) scale(1.3);opacity:0}}
+@keyframes ambient-ember{0%{transform:translate(0,5px) scale(.6);opacity:0}20%{opacity:.9}100%{transform:translate(6px,-16px) scale(.3);opacity:0}}
+@keyframes ambient-warmth{0%,100%{opacity:.3;transform:scale(.8)}50%{opacity:.8;transform:scale(1.1)}}
+@keyframes ambient-leaf{0%{transform:translate(-7px,-8px) rotate(-30deg);opacity:0}20%{opacity:.85}65%{opacity:.7}100%{transform:translate(9px,13px) rotate(120deg);opacity:0}}
+@keyframes ambient-glint{0%,65%,100%{transform:scale(.3) rotate(35deg);opacity:0}80%{transform:scale(1.2) rotate(35deg);opacity:.85}}
+@keyframes ambient-smoke{0%{transform:translate(0,6px) scale(.45);opacity:0}25%{opacity:.45}100%{transform:translate(7px,-17px) scale(1.2);opacity:0}}
+@keyframes ambient-spray{0%{transform:translateY(-10px);opacity:0}25%{opacity:.6}100%{transform:translateY(13px);opacity:0}}
+@keyframes ambient-spark{0%,55%,100%{transform:translate(0,0) rotate(20deg);opacity:0}65%{opacity:.9}85%{transform:translate(7px,-9px) rotate(65deg);opacity:0}}
+@keyframes ambient-flutter{0%,100%{transform:translateX(-2px) rotate(-8deg);opacity:.35}50%{transform:translateX(3px) rotate(8deg);opacity:.8}}
+/* No static substitute marks are left on the artwork when motion is disabled. */
+#learningView[data-motion="off"] .map-ambience{display:none}@media(prefers-reduced-motion:reduce){#learningView .map-ambience{display:none}}
