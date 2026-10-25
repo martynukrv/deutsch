@@ -31,12 +31,14 @@ function apply(root,island,t){
   const train=root.querySelector('#alContinue,#greetingBegin'),exam=root.querySelector('#alTest,#greetingTest'),n=study.children.length;
   if(train&&exam){text(train,t('Тренування','Training')+' · '+n*5);text(exam,t('Тест','Test')+' · '+n*3);}
   const greeting=root.querySelector('[data-ship-chapter="greetings"]>div>p');text(greeting,t('Лис готується до висадки. Навчимося вітатися й прощатися з командою.','Fox is preparing to land. Learn to greet the team and say goodbye.'));
+  root.querySelector('.team-encounter .market-mission')?.remove();
+  const meet=wrap.querySelector(':scope > .tag');if(meet&&/^(Знайомство|Meet the material)/.test(meet.textContent))meet.remove();
   const goal=root.querySelector('.journey-goal');if(goal)details(goal,t('Мета уроку','Lesson goal'));
  }
  const training=root.querySelector('.lesson-training-summary');if(training){text(training.querySelector('p'),t('Тепер можна пройти тест і отримати печатку.','Take the test to earn your seal.'));}
  const result=root.querySelector('.journey-result,.greeting-result');
  if(result){
-  if(result.classList.contains('journey-result'))wrap.prepend(result);
+  if(result.classList.contains('journey-result')){wrap.prepend(result);if(!root.querySelector('[data-team-final]'))result.querySelector('.expedition-reward-copy')?.remove();}
   const actions=result.querySelector('.journey-result-buttons'),score=result.querySelector('.journey-score');if(actions&&score)score.after(actions);
   for(const p of result.querySelectorAll(':scope > p'))if(/^(Для проходження|Тест перевіряє|Pass with|The test covers)/.test(p.textContent))p.remove();
   details(result.querySelector('.journey-recap'),t('Переглянути помилки','Review mistakes'));
