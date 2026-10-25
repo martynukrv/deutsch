@@ -1,0 +1,58 @@
+[
+  {
+    "id": "correct",
+    "file": "audio/sfx/20261025/correct.mp3",
+    "source": "audio-sources/sfx-20261025/correct.original.wav",
+    "duration": 0.626939,
+    "bytes": 7881,
+    "origin": "Original deterministic DSP synthesis"
+  },
+  {
+    "id": "incorrect",
+    "file": "audio/sfx/20261025/incorrect.mp3",
+    "source": "audio-sources/sfx-20261025/incorrect.original.wav",
+    "duration": 0.548571,
+    "bytes": 6941,
+    "origin": "Original deterministic DSP synthesis"
+  },
+  {
+    "id": "seal",
+    "file": "audio/sfx/20261025/seal.mp3",
+    "source": "audio-sources/sfx-20261025/seal.original.wav",
+    "duration": 1.227755,
+    "bytes": 15091,
+    "origin": "Original deterministic DSP synthesis"
+  },
+  {
+    "id": "voyage",
+    "file": "audio/sfx/20261025/voyage.mp3",
+    "source": "audio-sources/sfx-20261025/voyage.original.wav",
+    "duration": 3.030204,
+    "bytes": 36720,
+    "origin": "Original deterministic DSP synthesis"
+  },
+  {
+    "id": "lighthouse",
+    "file": "audio/sfx/20261025/lighthouse.mp3",
+    "source": "audio-sources/sfx-20261025/lighthouse.original.wav",
+    "duration": 2.037551,
+    "bytes": 24809,
+    "origin": "Original deterministic DSP synthesis"
+  },
+  {
+    "id": "click",
+    "file": "audio/sfx/20261025/click.mp3",
+    "source": "audio-sources/sfx-20261025/click.original.mp3",
+    "duration": 0.522449,
+    "bytes": 6627,
+    "origin": "ElevenLabs Sound Effects v2"
+  },
+  {
+    "id": "clue",
+    "file": "audio/sfx/20261025/clue.mp3",
+    "source": "audio-sources/sfx-20261025/clue.original.mp3",
+    "duration": 1.044898,
+    "bytes": 12897,
+    "origin": "ElevenLabs Sound Effects v2"
+  }
+]

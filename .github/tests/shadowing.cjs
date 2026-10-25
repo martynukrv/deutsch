@@ -2,7 +2,7 @@ const {chromium}=require('playwright'),{pathToFileURL}=require('url'),path=requi
 (async()=>{const browser=await chromium.launch({args:['--no-sandbox']});try{
 const p=await browser.newPage({viewport:{width:390,height:1000}}),errors=[];p.on('pageerror',e=>errors.push(e.message));await p.clock.install();
 await p.addInitScript(()=>{window.samplePlays=[];window.sampleLive=0;window.recognitions=[];
- window.Audio=class{constructor(src){this.src=src;this.paused=true}play(){this.paused=false;samplePlays.push(this.src);sampleLive++;this.id=setTimeout(()=>{if(this.paused)return;this.paused=true;sampleLive--;this.onended?.()},20);return Promise.resolve()}pause(){if(!this.paused){this.paused=true;sampleLive--;clearTimeout(this.id)}}};
+ window.Audio=class{constructor(src){this.src=src;this.paused=true}play(){this.paused=false;if(!String(this.src).includes('/sfx/'))samplePlays.push(this.src);sampleLive++;this.id=setTimeout(()=>{if(this.paused)return;this.paused=true;sampleLive--;this.onended?.()},20);return Promise.resolve()}pause(){if(!this.paused){this.paused=true;sampleLive--;clearTimeout(this.id)}}};
  window.SpeechRecognition=class{constructor(){recognitions.push(this)}start(){if(sampleLive)throw Error('Sample leaked into microphone');this.running=true;this.onstart?.()}stop(){this.stopped=true}abort(){this.running=false;this.aborted=true}};
 });
 await p.goto(process.env.ART_SITE_URL||pathToFileURL(path.resolve('index.html')).href);await p.evaluate(()=>{window.speak=()=>Promise.resolve();window.tone=()=>{}});await p.click('#learningTab');

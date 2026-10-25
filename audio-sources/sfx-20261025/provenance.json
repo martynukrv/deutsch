@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-25",
+  "flow_url": "https://elevenlabs.io/app/flows/JCynqd4IkAQ7obaS0NYh",
+  "generated": [
+    {
+      "id": "click",
+      "generation_id": "ZzDcTa5ch8URWZRKVa4d",
+      "node_id": "Gbc7zJIwi4atVgXyqd4G",
+      "model": "eleven_text_to_sound_v2",
+      "prompt": "A single tiny soft wooden button tap for a friendly premium educational adventure game UI. One dry rounded tactile click, warm muted wood with a very subtle airy pop, extremely short attack and decay, silence immediately afterward. No speech, no music, no harsh high frequencies, no repeated clicks."
+    },
+    {
+      "id": "clue",
+      "generation_id": "GzD2ZN07tDb6Jby2wXdL",
+      "node_id": "BNoF4Oz5AIZ4HqKTfwNX",
+      "model": "eleven_text_to_sound_v2",
+      "prompt": "A tiny paper clue card gently whooshes into a collection pocket, followed by one delicate warm wooden bell ping. A cozy nautical educational adventure game reward sound, restrained, soft and clean, quickly decaying. No speech, no dramatic effects, no background ambience."
+    }
+  ],
+  "procedural": [
+    "seal",
+    "voyage",
+    "lighthouse",
+    "correct",
+    "incorrect"
+  ],
+  "reason": "ElevenLabs returned rate_limited (429) for remaining unstarted cues. They were designed by deterministic DSP instead; no successful generation was repeated.",
+  "allPrompts": [
+    {
+      "id": "click",
+      "duration": 0.5,
+      "prompt": "A single tiny soft wooden button tap for a friendly premium educational adventure game UI. One dry rounded tactile click, warm muted wood with a very subtle airy pop, extremely short attack and decay, silence immediately afterward. No speech, no music, no harsh high frequencies, no repeated clicks."
+    },
+    {
+      "id": "clue",
+      "duration": 1,
+      "prompt": "A tiny paper clue card gently whooshes into a collection pocket, followed by one delicate warm wooden bell ping. A cozy nautical educational adventure game reward sound, restrained, soft and clean, quickly decaying. No speech, no dramatic effects, no background ambience."
+    },
+    {
+      "id": "seal",
+      "duration": 1.2,
+      "prompt": "A soft satisfying rubber stamp on paper followed by two warm rounded ascending marimba notes, a small lesson achievement seal in a cozy educational adventure game. Friendly quiet reward, clean isolated sound, short graceful decay. No speech, no applause, no crowd, no loud sparkle."
+    },
+    {
+      "id": "voyage",
+      "duration": 3,
+      "prompt": "A miniature cheerful boat departure sound for a cozy educational adventure game: very gentle sea water lapping, one short mellow distant ship horn, then a soft passing water swish. Exactly one horn, restrained and friendly, quiet clean sound with a quick fade. No speech, no music, no engine roar, no loud bass."
+    },
+    {
+      "id": "lighthouse",
+      "duration": 2,
+      "prompt": "A gentle mechanical switch activates an old lighthouse, followed by a warm airy light swelling and three quiet ascending wooden bell notes of celebration. Cozy educational adventure game, soft polished restrained miniature sound, quickly fades to silence. No speech, no orchestra, no explosion, no harsh treble."
+    },
+    {
+      "id": "correct",
+      "duration": 0.6,
+      "prompt": "A short quiet positive answer UI cue for a friendly language learning game: two rounded warm ascending marimba plucks, clean and soft, a tiny reassuring success sound. Fast onset, short decay. No speech, no ringing tail, no extra melody, no background noise."
+    },
+    {
+      "id": "incorrect",
+      "duration": 0.5,
+      "prompt": "A short gentle try-again UI cue for a child friendly language learning adventure game: two low soft wooden plucks, slightly descending, kind and reassuring, never alarming or punitive. Clean dry sound, short decay. No speech, no buzzer, no harsh tones, no background noise."
+    }
+  ]
+}

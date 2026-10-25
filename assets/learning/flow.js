@@ -16,8 +16,8 @@
  function scan(){if(suspended)return;for(const el of document.querySelectorAll('#learningView [data-al-audio],#learningView [lang="de"],#courseLessonView [data-speak],#courseLessonView [lang="de"],#courseLessonView [data-auto-de],#vocabQuiz [data-auto-de],#trainerView [data-auto-de],#trainerView [data-speak]')){if(el.closest('.al-letters')||observed.has(el)||!visible(el)||!inTest(el))continue;const text=(el.dataset.speak||el.dataset.autoDe||el.dataset.alAudio||el.querySelector('.wordde,.de')?.textContent||el.textContent).trim();if(!text||text.includes('_____')||text==='…'||el.matches('.sound-grid h2'))continue;observed.set(el,text);io.observe(el)}}
  let scheduled=false;new MutationObserver(()=>{if(!scheduled){scheduled=true;queueMicrotask(()=>{scheduled=false;scan()})}}).observe(document.querySelector('main'),{childList:true,subtree:true});
  let advance=null;
- function pause(){suspended=false;generation++;queue=[];batch.clear();exposed.clear();if(advance)clearTimeout(advance);advance=null;speak('')}
- function feedback(ok,text,next,valid=()=>true){pause();suspended=true;const g=generation;Promise.resolve(speak(text)).then(()=>{if(ok&&g===generation&&valid())advance=setTimeout(()=>{advance=null;if(g===generation&&valid())next()},2000)})}
+ function pause(){window.DEUTSCH_SFX?.stop();suspended=false;generation++;queue=[];batch.clear();exposed.clear();if(advance)clearTimeout(advance);advance=null;speak('')}
+ function feedback(ok,text,next,valid=()=>true){pause();suspended=true;const g=generation;Promise.resolve(speak(text)).then(()=>{if(g===generation&&valid())window.DEUTSCH_SFX?.play(ok?'correct':'incorrect');if(ok&&g===generation&&valid())advance=setTimeout(()=>{advance=null;if(g===generation&&valid())next()},2000)})}
  document.addEventListener('click',e=>{if(e.target.closest('#mic,#vqMic,[data-cv2-action="mic"]')){pause();queueMicrotask(()=>{suspended=true;queue=[];speak('')})}},true);
  const originalMode=setMode;window.setMode=function(mode){pause();return originalMode(mode)};
  window.DEUTSCH_FLOW={pause,feedback,scan,playRecording:(text,path)=>window.speak(text,[path]),expose:(text,el)=>{enqueue(text,el);drain()}};scan();
