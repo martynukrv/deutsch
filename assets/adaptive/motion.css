@@ -1,0 +1,29 @@
+/* Small, composited UI movements. Existing illustrations remain intact. */
+.motion-toggle{font:inherit;font-size:12px;font-weight:750;color:#102B50;background:#FFF1E5;border:1px solid #102B5020;border-radius:12px;padding:8px 12px;cursor:pointer}.motion-toggle:focus-visible{outline:3px solid #FF5726;outline-offset:3px}
+@keyframes voyage-bob{0%,100%{transform:translateY(0) rotate(-1deg)}50%{transform:translateY(-4px) rotate(1deg)}}
+@keyframes shore-ripple{0%,100%{transform:translate3d(0,0,0) rotate(-5deg);opacity:.12}50%{transform:translate3d(8px,-5px,0) rotate(3deg);opacity:.28}}
+@keyframes next-stop{0%,100%{transform:scale(1);box-shadow:0 0 0 0 #FF572600}50%{transform:scale(1.045);box-shadow:0 0 0 7px #FF57262b}}
+@keyframes lesson-enter{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+@keyframes answer-yes{0%,100%{transform:scale(1)}45%{transform:scale(1.025)}}
+@keyframes answer-retry{0%,100%{transform:translateX(0)}30%{transform:translateX(-3px)}65%{transform:translateX(3px)}}
+@keyframes speaking-wave{0%,100%{transform:scaleY(.55);opacity:.55}50%{transform:scaleY(1);opacity:1}}
+@keyframes seal-appear{from{transform:scale(.85);opacity:.35}to{transform:scale(1);opacity:1}}
+#learningView .expedition-board:before,#learningView .expedition-board:after{content:"";position:absolute;z-index:1;pointer-events:none;width:19%;height:5%;border:2px solid #102B50;border-left-color:transparent;border-right-color:transparent;border-radius:50%;animation:shore-ripple 7s ease-in-out infinite;opacity:.16}
+#learningView .expedition-board:before{left:-9%;top:26%}#learningView .expedition-board:after{right:-9%;top:64%;animation-delay:-3.5s}
+#learningView .voyage-ship-art:not(.arrival-quay-art){animation:voyage-bob 5s ease-in-out infinite;transform-origin:50% 80%}
+#learningView .is-current .expedition-pin-number{animation:next-stop 3.5s ease-in-out infinite}
+#learningView .expedition-board:not(.motion-in-view):before,#learningView .expedition-board:not(.motion-in-view):after,#learningView .expedition-board:not(.motion-in-view) *{animation-play-state:paused!important}
+#learningView .al-study-grid,#learningView .al-wrap>.al-word,#learningView .shadowing-card{animation:lesson-enter .22s ease-out both}
+#learningView .feedback.good,#learningView [data-shadowing][data-phase="feedback"][data-outcome="ok"] .shadowing-status{animation:answer-yes .32s ease-out}
+#learningView .feedback.bad,#learningView [data-shadowing][data-phase="feedback"][data-outcome="different"] .shadowing-status{animation:answer-retry .26s ease-out}
+#learningView .feedback.good:before{content:"✓ ";font-weight:900;color:#102B50}
+#learningView [data-answer-state="correct"]{animation:answer-yes .32s ease-out}
+#learningView .journey-result-mark,#learningView .expedition-master,#learningView .team-clue-reward,#learningView .greeting-result[data-greeting-result="passed"] h1{animation:seal-appear .35s ease-out both}
+#learningView .expedition-story-art,#learningView .market-encounter[data-market-state="success"] .market-merchant,#learningView .resident-encounter[data-resident-state="success"] img,#learningView .team-encounter[data-team-state="success"] img{animation:lesson-enter .3s ease-out both}
+#learningView [data-phase="sample"] .shadowing-status:before,#learningView [data-phase="listening"] .shadowing-status:before,#learningView[data-audio-playing] .al-listen:after{content:"";display:inline-block;vertical-align:middle;width:3px;height:15px;background:currentColor;box-shadow:5px 0 currentColor,10px 0 currentColor;margin:0 20px 0 0;animation:speaking-wave .85s ease-in-out infinite;transform-origin:center}
+#learningView [data-phase="listening"] .shadowing-status{border:2px solid #FF5726}
+#learningView[data-motion="off"] *,#learningView[data-motion="off"] *:before,#learningView[data-motion="off"] *:after{animation:none!important;transition:none!important}
+#learningView[data-motion-hidden] *,#learningView[data-motion-hidden] *:before,#learningView[data-motion-hidden] *:after{animation-play-state:paused!important}
+@media(prefers-reduced-motion:reduce){#learningView *,#learningView *:before,#learningView *:after{animation:none!important;transition:none!important}}
+
+#learningView .inline-audio-button[data-playing="true"] svg{animation:speaking-wave .85s ease-in-out infinite}
