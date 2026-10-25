@@ -1,0 +1,21 @@
+/* Manual listening for German inside explanatory text. Original whole clips only. */
+(()=>{
+ const host=document.querySelector('main');if(!host)return;
+ const canonical=s=>String(s).normalize('NFC').toLocaleLowerCase('de-DE').replace(/’/g,"'").replace(/[.!?]+$/,'').trim().replace(/\s+/g,' ');
+ const recordings=new Map();for(const [text,path] of Object.entries(RECORDED_AUDIO)){const key=canonical(text);if(/[a-zäöüß]{2}/i.test(key))recordings.set(key,{text,path})}
+ const escape=s=>s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+ const alternatives=[...recordings.keys()].sort((a,b)=>b.length-a.length).map(s=>escape(s).replace(/\s+/g,'\\s+').replace(/'/g,"['’]"));
+ const matcher=new RegExp('(?<![\\p{L}\\p{N}_])(?:'+alternatives.join('|')+')[.!?]?(?![\\p{L}\\p{N}_])','giu');
+ const skip='button,a,input,textarea,select,option,script,style,svg,code,pre,summary,nav,[role="button"],[data-speak],[data-al-audio],[data-journey-greeting],[contenteditable="true"],[data-inline-german],.al-word,.al-options,.al-letters,.course-card,.course-options,.greeting-choices,.karl-tiles,.fox-speech,.fox-lesson-line,.word-art,.phrase-art,.course-art,#choices,#build,#cv2Build,#alHeard,#cv2Heard';
+ const context='p,li,td,th,dd,dt,blockquote,h1,h2,h3,h4,h5,strong,b,em,span,#alFeedback,#greetingFeedback,.rulebox,.study-note,.journey-goal,.journey-recap';
+ const ambiguousEnglish=new Set('in an am was die her hat man still also will so bald fast warm kind arm hand ring rat boot hell all see war tag bit links'.split(' '));
+ const seen=new WeakSet();let scheduled=false;
+ const label=text=>(document.documentElement.lang.startsWith('en')?'Listen to ':'Прослухати ')+text;
+ const glyph='<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false"><path d="M11 4 6 8H3v8h3l5 4V4Zm4 4a6 6 0 0 1 0 8m3-11a10 10 0 0 1 0 14" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+ function button(text,recording){const b=document.createElement('button');b.type='button';b.className='inline-audio-button';b.dataset.inlineAudio=recording.text;b.setAttribute('aria-label',label(text));b.title=label(text);b.innerHTML=glyph;b.onclick=e=>{e.preventDefault();e.stopPropagation();b.dataset.playing='true';Promise.resolve(window.DEUTSCH_FLOW.playRecording(recording.text,recording.path)).finally(()=>delete b.dataset.playing)};return b}
+ function annotate(node){if(seen.has(node))return;seen.add(node);const parent=node.parentElement;if(!parent||parent.closest(skip)||!parent.closest(context)||!/[a-zäöüß]/i.test(node.data))return;const original=node.data,isEnglish=document.documentElement.lang.startsWith('en'),explicit=!!parent.closest('[lang="de"]'),fragment=document.createDocumentFragment();let last=0,count=0;matcher.lastIndex=0;for(const match of original.matchAll(matcher)){const recording=recordings.get(canonical(match[0]));if(!recording||(isEnglish&&!explicit&&ambiguousEnglish.has(canonical(match[0]))))continue;fragment.append(document.createTextNode(original.slice(last,match.index)));const phrase=document.createElement('span');phrase.dataset.inlineGerman='';phrase.className='inline-audio-phrase';phrase.append(document.createTextNode(match[0]),button(match[0],recording));fragment.append(phrase);last=match.index+match[0].length;count++}if(count){fragment.append(document.createTextNode(original.slice(last)));node.replaceWith(fragment)}}
+ function scan(){scheduled=false;const walker=document.createTreeWalker(host,NodeFilter.SHOW_TEXT),nodes=[];while(walker.nextNode())nodes.push(walker.currentNode);nodes.forEach(annotate)}
+ function schedule(){if(scheduled)return;scheduled=true;queueMicrotask(scan)}
+ new MutationObserver(records=>{for(const r of records)if(r.type==='characterData')seen.delete(r.target);if(records.some(r=>r.type==='characterData'||[...r.addedNodes].some(n=>n.nodeType!==Node.ELEMENT_NODE||!n.matches('[data-inline-german]'))))schedule()}).observe(host,{subtree:true,childList:true,characterData:true});
+ window.DEUTSCH_INLINE_AUDIO={scan,resolve:text=>recordings.get(canonical(text))||null};scan();
+})();

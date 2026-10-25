@@ -1,0 +1,5 @@
+.inline-audio-phrase.inline-audio-phrase{display:inline;padding:0;margin:0;border:0;border-radius:0;background:none;font:inherit;color:inherit}
+.inline-audio-button{display:inline-flex;align-items:center;justify-content:center;vertical-align:middle;width:28px;height:28px;padding:4px;margin:0 3px;border:1px solid #102B5033;border-radius:8px;background:#FFF1E5;color:#102B50;cursor:pointer;line-height:1;box-sizing:border-box}
+.inline-audio-button svg{display:block;width:16px;height:16px;flex:none}
+.inline-audio-button:hover,.inline-audio-button[data-playing="true"]{background:#FF5726;color:#FFFFFF;border-color:#FF5726}
+.inline-audio-button:focus-visible{outline:3px solid #FF5726;outline-offset:2px}

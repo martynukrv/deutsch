@@ -30,6 +30,7 @@ jobs:
           node .github/tests/residents.cjs
           node .github/tests/expedition-team.cjs
           node .github/tests/greetings.cjs
+          node .github/tests/inline-audio.cjs
           node .github/tests/fox-conversation.cjs
           node .github/tests/karl-conversation.cjs
           node .github/tests/journey.cjs
