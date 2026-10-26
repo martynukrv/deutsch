@@ -87,3 +87,6 @@
  .compact-island .resident-encounter:has(.mastery-reward),.compact-island [data-market-state]:has(.mastery-reward){grid-template-columns:56px minmax(0,1fr);align-items:start}
  .compact-island .resident-encounter:has(.mastery-reward)>.market-merchant,.compact-island [data-market-state]:has(.mastery-reward)>.market-merchant{width:56px;height:86px}
 }
+
+.compact-island .is-village .expedition-stop:not(.expedition-voyage){width:20%}
+.compact-island .is-village .expedition-stop:not(.expedition-voyage) .expedition-pin-label{box-sizing:border-box;overflow-wrap:anywhere}
