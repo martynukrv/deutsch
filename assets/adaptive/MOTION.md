@@ -9,10 +9,8 @@ The map’s animation toggle stores `deutsch16_motion_v1` (`on`/`off`) through p
 Browser regression `.github/tests/motion.cjs` checks both island maps, feedback reactions, stored toggle, live OS preference changes, English and 320/390/768/1280 layouts. Existing lesson, dialogue, shadowing, audio and progress tests remain in the same pipelines.
 
 
-## Character reactions and clue collection
+## Character reactions and mastery awards
 
-Welcome portraits have a single 800 ms greeting tilt, success portraits a 650 ms celebration, and encourage portraits a 500 ms nod. All reuse the exact existing portraits. Task-context portraits remain still; no idle loop runs while the learner answers. No blinking or articulated hand animation is simulated on the raster artwork.
+Welcome portraits have one 800 ms greeting tilt, success portraits a 650 ms celebration, and encourage portraits a 500 ms nod. They reuse the approved portraits; task-context portraits remain still. No blinking or articulated hand animation is simulated.
 
-A passed first-island land lesson shows its original clue plus an eight-slot collection. Freshness is derived from the existing prior passed flag, so replaying a passed lesson cannot create a new clue. The reward is already saved before any animation. The motion layer uses a decorative, aria-hidden numbered chip to fly from the clue to its collection slot only when both are visible. One Web Animation is cancelled on navigation, hidden pages or disabling motion, and removes its temporary DOM. There is no blocking timer, scrolling, reward delay or additional grade/storage mutation. The next map render briefly emphasizes the newly earned fragment once. The collection remains fully visible with motion disabled. Ship greetings do not award clue fragments; second-island lessons retain their existing seals instead of acquiring a new clue system.
-
-`.github/tests/character-clues.cjs` covers all land-lesson portraits on both islands, still task portraits, fresh and replayed awards, failed replay retention, animation cleanup, reduced motion and collection persistence. It runs locally and against the published site in CI.
+The retired clue flight and its temporary nodes have been removed. A freshly earned 100% mentor award has one small emblem animation. Replays do not repeat that grant. The collection is derived from saved best scores before animation and stays available with reduced motion. See MASTERY-AWARDS.md and .github/tests/mastery-awards.cjs.

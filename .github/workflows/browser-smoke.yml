@@ -20,6 +20,8 @@ jobs:
           npx playwright install --with-deps chromium
       - name: Run browser checks
         run: |
+          node .github/tests/compact-island.cjs
+          node .github/tests/mastery-awards.cjs
           node .github/tests/browser-smoke.cjs
           node .github/tests/profiles.cjs
           node .github/tests/progress.cjs
@@ -33,10 +35,8 @@ jobs:
           node .github/tests/island-lessons.cjs
           node .github/tests/shadowing.cjs
           node .github/tests/motion.cjs
-          node .github/tests/character-clues.cjs
           node .github/tests/story-scenes.cjs
           node .github/tests/sfx.cjs
-          node .github/tests/compact-island.cjs
           node .github/tests/greetings.cjs
           node .github/tests/inline-audio.cjs
           node .github/tests/fox-conversation.cjs
