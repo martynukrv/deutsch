@@ -18,7 +18,7 @@ permissions:
   id-token: write
 concurrency:
   group: artwork-import-main
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   import-art:
     runs-on: ubuntu-latest
