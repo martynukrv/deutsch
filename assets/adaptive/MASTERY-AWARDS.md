@@ -1,4 +1,4 @@
-# First-island mentor awards
+# Island mentor awards
 
 Replaces the former eight story-clue fragments. The old clue text and flight decorations have been retired. This is optional recognition of perfect lesson tests; it does not gate lessons, the compass final or departure.
 
@@ -28,4 +28,4 @@ All original theory/rules, lesson goals, mode instructions, grading explanations
 
 Existing approved portraits and their previously checked compact crops are reused. Stars are standard UI status symbols. No new character illustration, synthetic teaching audio or pronunciation measurement is introduced. Fresh awards have one subtle emblem animation and reuse the previous collection sound. Motion preferences and voice/microphone priority remain effective. No clue flight or new map particle animation remains.
 
-Browser checks cover passing versus perfection, frozen corrections, ship and all eight land awards, retained old results, duplicate prevention, nine-award title, roster routing, visible complete theory, reload, profiles, English, reduced motion and 320–1280px. The second island retains its original teaching flow and rewards.
+Browser checks cover passing versus perfection, frozen corrections, ship and all eight land awards, retained old results, duplicate prevention, nine-award title, roster routing, visible complete theory, reload, profiles, English, reduced motion and 320–1280px. The second island now uses the same mechanism for its seven lessons. Its theory, assessments, optional Karl conversation, shadowing exclusions and lighthouse rewards retain their original learning behavior. See VILLAGE-MASTERY.md.

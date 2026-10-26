@@ -11,3 +11,5 @@ Map: reduce only the extra ship band from 1.25 to .95 units; retain the original
 First visit shows a short Fox invitation; later visits keep heading, continue action and seal count. Map collections collapse. Training instructions, goals, grammatical theory, grading explanations and mistake recaps are restored to their complete, openly visible form. Only game collections use native details; all phrases, audio and comfortable answer targets remain available. Test score/actions precede narrative reward blocks.
 
 26 October revision: the eight story clues are replaced by nine optional mentor awards for perfect tests. See MASTERY-AWARDS.md. Short narrative introductions and compact portrait crops remain.
+
+Second-island rollout: compact presentation now covers both islands, with separate intro-seen flags and pending-award notices. Village arrival uses the same .95-unit band; pins, final marker and lighthouse light are remapped to the unchanged map art. Seven village awards and six mentor roles are described in VILLAGE-MASTERY.md. Theory stays fully visible on both islands.

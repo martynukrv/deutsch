@@ -1,0 +1,200 @@
+[
+  {
+    "source": "assets/illustrations/expedition/merchant-benno-encourage.webp",
+    "output": "assets/illustrations/expedition/compact/merchant-benno-encourage.webp",
+    "box": [
+      55,
+      20,
+      425,
+      460
+    ],
+    "padding": 10
+  },
+  {
+    "source": "assets/illustrations/expedition/merchant-benno-success.webp",
+    "output": "assets/illustrations/expedition/compact/merchant-benno-success.webp",
+    "box": [
+      58,
+      20,
+      421,
+      460
+    ],
+    "padding": 10
+  },
+  {
+    "source": "assets/illustrations/expedition/merchant-benno-welcome.webp",
+    "output": "assets/illustrations/expedition/compact/merchant-benno-welcome.webp",
+    "box": [
+      50,
+      20,
+      430,
+      460
+    ],
+    "padding": 10
+  },
+  {
+    "source": "assets/illustrations/expedition/resident-emma-encourage.webp",
+    "output": "assets/illustrations/expedition/compact/resident-emma-encourage.webp",
+    "box": [
+      92,
+      20,
+      388,
+      460
+    ],
+    "padding": 10
+  },
+  {
+    "source": "assets/illustrations/expedition/resident-emma-success.webp",
+    "output": "assets/illustrations/expedition/compact/resident-emma-success.webp",
+    "box": [
+      100,
+      20,
+      380,
+      460
+    ],
+    "padding": 10
+  },
+  {
+    "source": "assets/illustrations/expedition/resident-emma-welcome.webp",
+    "output": "assets/illustrations/expedition/compact/resident-emma-welcome.webp",
+    "box": [
+      90,
+      20,
+      389,
+      460
+    ],
+    "padding": 10
+  },
+  {
+    "source": "assets/illustrations/expedition/resident-karl-encourage.webp",
+    "output": "assets/illustrations/expedition/compact/resident-karl-encourage.webp",
+    "box": [
+      74,
+      20,
+      405,
+      460
+    ],
+    "padding": 10
+  },
+  {
+    "source": "assets/illustrations/expedition/resident-karl-success.webp",
+    "output": "assets/illustrations/expedition/compact/resident-karl-success.webp",
+    "box": [
+      79,
+      20,
+      401,
+      460
+    ],
+    "padding": 10
+  },
+  {
+    "source": "assets/illustrations/expedition/resident-karl-welcome.webp",
+    "output": "assets/illustrations/expedition/compact/resident-karl-welcome.webp",
+    "box": [
+      56,
+      20,
+      423,
+      460
+    ],
+    "padding": 10
+  },
+  {
+    "source": "assets/illustrations/expedition/resident-lina-encourage.webp",
+    "output": "assets/illustrations/expedition/compact/resident-lina-encourage.webp",
+    "box": [
+      97,
+      20,
+      383,
+      460
+    ],
+    "padding": 10
+  },
+  {
+    "source": "assets/illustrations/expedition/resident-lina-success.webp",
+    "output": "assets/illustrations/expedition/compact/resident-lina-success.webp",
+    "box": [
+      107,
+      20,
+      372,
+      460
+    ],
+    "padding": 10
+  },
+  {
+    "source": "assets/illustrations/expedition/resident-lina-welcome.webp",
+    "output": "assets/illustrations/expedition/compact/resident-lina-welcome.webp",
+    "box": [
+      96,
+      20,
+      383,
+      460
+    ],
+    "padding": 10
+  },
+  {
+    "source": "assets/illustrations/expedition/resident-mia-encourage.webp",
+    "output": "assets/illustrations/expedition/compact/resident-mia-encourage.webp",
+    "box": [
+      75,
+      20,
+      404,
+      460
+    ],
+    "padding": 10
+  },
+  {
+    "source": "assets/illustrations/expedition/resident-mia-success.webp",
+    "output": "assets/illustrations/expedition/compact/resident-mia-success.webp",
+    "box": [
+      75,
+      20,
+      404,
+      460
+    ],
+    "padding": 10
+  },
+  {
+    "source": "assets/illustrations/expedition/resident-mia-welcome.webp",
+    "output": "assets/illustrations/expedition/compact/resident-mia-welcome.webp",
+    "box": [
+      63,
+      20,
+      417,
+      460
+    ],
+    "padding": 10
+  },
+  {
+    "source": "assets/illustrations/expedition/resident-otto-encourage.webp",
+    "output": "assets/illustrations/expedition/compact/resident-otto-encourage.webp",
+    "box": [
+      71,
+      20,
+      408,
+      460
+    ],
+    "padding": 10
+  },
+  {
+    "source": "assets/illustrations/expedition/resident-otto-success.webp",
+    "output": "assets/illustrations/expedition/compact/resident-otto-success.webp",
+    "box": [
+      78,
+      20,
+      401,
+      460
+    ],
+    "padding": 10
+  },
+  {
+    "source": "assets/illustrations/expedition/resident-otto-welcome.webp",
+    "output": "assets/illustrations/expedition/compact/resident-otto-welcome.webp",
+    "box": [
+      66,
+      20,
+      413,
+      460
+    ],
+    "padding": 10
+  }
+]

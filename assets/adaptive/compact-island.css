@@ -77,3 +77,13 @@
 .compact-island .lesson-theory h3{font-size:18px;margin:0 0 8px}
 .compact-island .lesson-theory p{margin:0;line-height:1.6}
 .compact-island .greeting-theory{grid-column:1/-1;margin:0}
+/* Village arrival uses the same compact band; remap landmarks without stretching the art. */
+.compact-island .expedition-board.is-village.has-arrival{aspect-ratio:5/11.95}
+.compact-island .has-arrival .expedition-island{top:7.949791%;height:92.050209%}
+.compact-island .is-village.has-arrival .expedition-cache{top:86.192469%}
+.compact-island .has-arrival.is-lighthouse-lit .lighthouse-beacon{top:76.251046%}
+.compact-island .resident-roster-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+@media(max-width:560px){
+ .compact-island .resident-encounter:has(.mastery-reward),.compact-island [data-market-state]:has(.mastery-reward){grid-template-columns:56px minmax(0,1fr);align-items:start}
+ .compact-island .resident-encounter:has(.mastery-reward)>.market-merchant,.compact-island [data-market-state]:has(.mastery-reward)>.market-merchant{width:56px;height:86px}
+}
