@@ -3,6 +3,8 @@
 let active=null,permissionGranted=false;
 const normalize=s=>String(s).normalize('NFC').toLocaleLowerCase('de-DE').replace(/[’‘]/g,"'").replace(/[.,!?;:]/g,'').replace(/\s+/g,' ').trim();
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const speakerGlyph='<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M11 4 6 8H3v8h3l5 4V4Zm4 4a6 6 0 0 1 0 8m3-11a10 10 0 0 1 0 14" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+function speaker(text,t,attrs=''){const label=esc(t('Прослухати: ','Listen to: ')+text);return `<button type="button" class="inline-audio-button dialogue-audio-button" ${attrs} aria-label="${label}" title="${label}">${speakerGlyph}</button>`}
 function markup(id,t){return `<section class="dialogue-voice" id="${id}Voice" data-dialogue-voice data-phase="preparing"><p id="${id}VoiceStatus" role="status" aria-live="polite"></p><p id="${id}Heard" lang="de" aria-live="polite"></p><div class="journey-result-buttons"><button type="button" class="btn primary" id="${id}Mic">🎙 ${t('Відповісти голосом','Reply by voice')}</button><button type="button" class="btn secondary" id="${id}Confirm" hidden>${t('Це моя відповідь','That is my reply')}</button></div><p class="hint">${t('Відповідай німецькою. Перевіряємо розпізнані слова, а не акцент.','Reply in German. We check recognised words, not your accent.')}</p></section>`}
 function cancel(){if(active){active.cancel();active=null}}
 function mount({root,id,t,prompt=null,match,onReply}){
@@ -32,5 +34,5 @@ function mount({root,id,t,prompt=null,match,onReply}){
  const api={complete,cancel(){if(!alive)return;alive=false;stop();observer.disconnect();document.removeEventListener('visibilitychange',hidden);window.DEUTSCH_FLOW?.pause()},replay(text,path){if(!valid())return false;if(done){window.DEUTSCH_FLOW.playRecording(text,path);return true}playThenListen({text,path});return true},snapshot:()=>({id,phase,done})};active=api;queueMicrotask(()=>{if(valid())playThenListen()});return api;
 }
 window.addEventListener('pagehide',cancel);
-window.DEUTSCH_DIALOGUE_VOICE={markup,mount,cancel,normalize,replay:(text,path)=>active?.replay(text,path)||false,snapshot:()=>active?.snapshot()||null};
+window.DEUTSCH_DIALOGUE_VOICE={markup,speaker,mount,cancel,normalize,replay:(text,path)=>active?.replay(text,path)||false,snapshot:()=>active?.snapshot()||null};
 })();
