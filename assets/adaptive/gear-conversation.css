@@ -1,0 +1,23 @@
+.greta-preview{margin:18px 0;padding:16px;background:#FFF1E5;border:1px solid #102B5020;border-radius:20px}
+.greta-preview h3{font-size:22px;margin:0 0 10px}.greta-rule h4{margin:0 0 8px;font-size:17px}
+.greta-preview .greta-audio-note,.greta-conversation .greta-audio-note{font-size:14px;line-height:1.5;color:#52627a}
+.greta-model{margin:14px 0 0}.greta-model>summary{cursor:pointer;font-weight:800;padding:8px 0}
+.greta-model-lines{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin:12px 0}
+.greta-model-lines .fox-speech{margin:0;min-width:0;overflow-wrap:anywhere;padding:14px}
+.greta-model-lines .fox-speech strong{font-size:20px}.greta-model-lines .fox-speech p{margin:0;font-size:14px}
+.greta-audio{white-space:normal;font-size:13px;padding:10px 12px;min-height:44px}
+.greta-conversation{max-width:760px;margin:12px auto}.greta-conversation h1{font-size:clamp(25px,4vw,32px);line-height:1.15}
+.greta-conversation [hidden]{display:none!important}.greta-conversation .fox-speech{overflow-wrap:anywhere}
+.greta-conversation .fox-speech strong{font-size:clamp(23px,5vw,30px)}.greta-conversation #gretaReplyForm{display:grid;gap:10px}
+.greta-conversation label{font-weight:750}.greta-conversation .karl-typed{margin:0}.greta-conversation form .btn{justify-self:start}
+#gretaFeedback{margin:16px 0;line-height:1.5}#gretaNext{margin-bottom:16px}
+.greta-stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.greta-stats p{display:grid;gap:6px;padding:14px 10px;background:#FFF1E5;border-radius:16px;text-align:center;min-width:0}
+.greta-stats b{font-size:26px}.greta-stats span{font-size:13px;line-height:1.4}
+.greta-handoff{display:flex;align-items:center;gap:12px;margin:12px 0;padding:12px;border-radius:16px;background:#FFF1E5}
+.greta-item{width:70px;height:70px;object-fit:contain}.greta-handoff p{flex:1;margin:0}
+.greta-conversation .fox-transcript .fox-speech{margin:10px 0}.greta-conversation .fox-transcript .fox-speech.is-you{margin-left:10%}
+.greta-completed{font-weight:750}.greta-conversation .tag{line-height:1.5}
+@media(max-width:520px){.greta-model-lines{grid-template-columns:1fr}.greta-stats{gap:6px}.greta-stats p{padding:12px 6px}.greta-stats b{font-size:23px}.greta-stats span{font-size:12px}.greta-conversation .fox-speech{margin-right:4%}.greta-conversation .fox-conversation-heading{gap:12px}.greta-conversation .fox-conversation-portrait{width:70px;height:100px}.greta-preview{padding:14px}}
+
+.greta-handoff .gear-item{width:72px;height:72px;object-fit:contain}

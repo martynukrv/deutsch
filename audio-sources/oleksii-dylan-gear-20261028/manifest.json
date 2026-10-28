@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "batch": "oleksii-dylan-gear-20261028",
+  "role": "oleksii",
+  "voiceName": "Dylan Carter - Exaggerated & Energetic",
+  "provider": "ElevenLabs",
+  "originalFilename": "ElevenLabs_2026-10-28T21_30_34_Dylan Carter - Exaggerated & Energetic_pvc_sp100_s50_sb47_v4.mp3",
+  "source_file": "audio-sources/oleksii-dylan-gear-20261028/original.mp3",
+  "source_sha256": "c5c07e331689033f90dbc32b1fcf44f954c68d0fc97a5def99c0753b5b93d9b9",
+  "source_duration": 5.955875,
+  "splitMethod": "Silence gaps >=350ms below -38dB, retain 120ms padding; user-confirmed script order; no synthesis or word assembly",
+  "entries": [
+    {
+      "id": "rucksack",
+      "text": "Einen Rucksack, bitte.",
+      "path": "audio/dialogue/oleksii-dylan-gear-20261028/oleksii_01_rucksack.mp3",
+      "source_start": 0,
+      "speech_end": 1.15587,
+      "source_end": 1.2758699999999998,
+      "duration": 1.2758699999999998,
+      "sha256": "1e187d25d79cda80a9372b9a6922b5ab01e092692b43e04c135c2d777382c16c",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "karte",
+      "text": "Eine Karte, bitte.",
+      "path": "audio/dialogue/oleksii-dylan-gear-20261028/oleksii_02_karte.mp3",
+      "source_start": 2.40868,
+      "speech_end": 3.5432,
+      "source_end": 3.6632000000000002,
+      "duration": 1.2545200000000003,
+      "sha256": "0c6d210bc0c808ce59a62c40a5f74ef681952a83a79412222df54423275043e0",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "seil",
+      "text": "Ein Seil, bitte.",
+      "path": "audio/dialogue/oleksii-dylan-gear-20261028/oleksii_03_seil.mp3",
+      "source_start": 4.63281,
+      "speech_end": 5.925875,
+      "source_end": 5.955875,
+      "duration": 1.3230649999999997,
+      "sha256": "20169cb7862310115fa59d3493d8d070d1de2f3a60fec43295817fa8d150c747",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    }
+  ]
+}

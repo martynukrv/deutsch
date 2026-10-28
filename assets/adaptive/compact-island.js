@@ -1,9 +1,9 @@
 /* Compact story presentation on both islands. Teaching text stays fully visible. */
 (()=>{
 const details=(node,label,open=false)=>{if(!node)return;const box=document.createElement('details'),summary=document.createElement('summary');box.className='compact-details';box.open=open;summary.textContent=label;node.before(box);box.append(summary,node);return box};
-const pendingAward=[false,false];
+const pendingAward=[false,false,false];
 function apply(root,island,t){
- root.classList.toggle('compact-island',[0,1].includes(island));if(![0,1].includes(island))return;root.dataset.compactIsland=String(island);
+ root.classList.toggle('compact-island',[0,1,2].includes(island));if(![0,1,2].includes(island))return;root.dataset.compactIsland=String(island);
  const text=(node,value)=>{if(node)node.textContent=value};
  const wrap=root.querySelector('.al-wrap');if(!wrap)return;
  for(const img of root.querySelectorAll('img'))if(/\/expedition\/(fox|(team-(nika|tim|bruno)|resident-(lina|mia|otto|emma|karl)|merchant-benno)-(welcome|success|encourage))\.webp/.test(img.getAttribute('src')||''))img.src=img.getAttribute('src').replace('/expedition/','/expedition/compact/');
@@ -11,9 +11,11 @@ function apply(root,island,t){
  const board=root.querySelector('.expedition-board');
  if(board){
   const invitation=root.querySelector('.expedition-invitation'),start=invitation?.querySelector('#alStart'),head=root.querySelector('.expedition-heading'),progress=root.querySelector('.expedition-map-head');
-  const seenKey=island===0?'deutsch16_compact_intro_v1':'deutsch16_compact_village_intro_v1',seen=profileStorage.getItem(seenKey)==='seen';profileStorage.setItem(seenKey,'seen');
+  const seenKey=island===2?'deutsch16_compact_gear_intro_v1':island===0?'deutsch16_compact_intro_v1':'deutsch16_compact_village_intro_v1',seen=profileStorage.getItem(seenKey)==='seen';profileStorage.setItem(seenKey,'seen');
   if(head){head.querySelector('p')?.remove();if(start){head.append(start);text(start,t('Продовжити','Continue'));}}
+  if(invitation&&island===2){const img=invitation.querySelector('img');img.src='assets/illustrations/expedition/gear-greta-welcome.webp';img.alt=t('Ґрета','Greta')}
   if(invitation){if(seen)invitation.remove();else{ text(invitation.querySelector('strong'),island===0?t('Вирушаємо у подорож!','Let’s begin our journey!'):t('Ласкаво просимо до містечка!','Welcome to the town!'));text(invitation.querySelector('p'),island===0?t('Навчайся з наставниками, здобувай відзнаки й знайди компас.','Learn with your mentors, earn awards and find the compass.'):t('Навчайся з мешканцями, здобувай відзнаки й засвіти маяк.','Learn with the residents, earn awards and light the lighthouse.'));if(island===1){const img=invitation.querySelector('img');img.src='assets/illustrations/expedition/compact/resident-lina-welcome.webp';img.alt=t('Ліна','Lina');}}}
+  if(invitation&&island===2&&!seen){text(invitation.querySelector('strong'),t('Зберімо спорядження для пригоди!','Let’s prepare for the adventure!'));text(invitation.querySelector('p'),t('Ґрета, Фелікс і Юна допоможуть зібрати рюкзак та отримати карту маршруту.','Greta, Felix and Juna will help you pack and earn the route map.'))}
   if(progress)progress.querySelector('span:nth-child(2)')?.remove();
   text(root.querySelector('.expedition-map-note'),t('Обери урок · ✓ тест складено · ★ 100%','Choose a lesson · ✓ test passed · ★ 100%'));
   const awards=root.querySelector('.mastery-collection'),count=awards?.querySelector('[data-mastery-count]')?.textContent;

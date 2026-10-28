@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "batch": "greta-lola-20261028",
+  "role": "greta",
+  "voiceName": "Lola - Fantasy & LitRPG",
+  "provider": "ElevenLabs",
+  "originalFilename": "ElevenLabs_2026-10-28T21_27_24_Lola - Fantasy & LitRPG_pvc_sp100_s90_sb85_v4.mp3",
+  "source_file": "audio-sources/greta-lola-20261028/original.mp3",
+  "source_sha256": "d9c6fe2479198362988e3331f2e0e168fd2e140edfd29689934cc628dc4d9672",
+  "source_duration": 5.8775,
+  "splitMethod": "Silence gaps >=350ms below -38dB, retain 120ms padding; user-confirmed script order; no synthesis or word assembly",
+  "entries": [
+    {
+      "id": "hello",
+      "text": "Guten Tag!",
+      "path": "audio/dialogue/greta-lola-20261028/greta_01_hello.mp3",
+      "source_start": 0,
+      "speech_end": 0.72771,
+      "source_end": 0.84771,
+      "duration": 0.84771,
+      "sha256": "3ea9211468241f46c09cde6c7399844ba1146526a81708cf66e78fa359c9a1f2",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "question",
+      "text": "Was möchtest du?",
+      "path": "audio/dialogue/greta-lola-20261028/greta_02_question.mp3",
+      "source_start": 1.53578,
+      "speech_end": 2.53306,
+      "source_end": 2.65306,
+      "duration": 1.11728,
+      "sha256": "68b47df409085ea40bddc18460681ecc5e63ae8be8683d3c8ca4eb3d295752b4",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "handoff",
+      "text": "Hier, bitte.",
+      "path": "audio/dialogue/greta-lola-20261028/greta_03_handoff.mp3",
+      "source_start": 3.20483,
+      "speech_end": 4.25195,
+      "source_end": 4.37195,
+      "duration": 1.1671200000000002,
+      "sha256": "457ef444cde4dc8ff44f086575bfc10623268205c3015cfa000ebbd029de75dd",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "bye",
+      "text": "Gute Reise!",
+      "path": "audio/dialogue/greta-lola-20261028/greta_04_bye.mp3",
+      "source_start": 4.87066,
+      "speech_end": 5.8475,
+      "source_end": 5.8775,
+      "duration": 1.0068400000000004,
+      "sha256": "912b469585cc015308c8d21d1d93d020627c771b9d9ede198ce7de905e84cc86",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    }
+  ]
+}

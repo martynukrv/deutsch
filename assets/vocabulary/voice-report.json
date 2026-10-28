@@ -1,5 +1,5 @@
 {
-  "count": 1269,
+  "count": 1315,
   "entries": [
     {
       "id": "rq001",
@@ -8624,6 +8624,374 @@
       "sha256": "0d2cdb96b33db5a67fc9bd1ba928c71b91a824e687d330912f6da489105afb98",
       "duration": 1.201633,
       "verification": "exact-isolated"
+    },
+    {
+      "id": "gear_neutral_001",
+      "text": "der Kompass",
+      "path": "audio/henri-gear-20261028/rq001_gear_37bd52a295e2.mp3",
+      "sha256": "37bd52a295e2ed5a02bbae7a421fe9c050ee69d996a148f4679adaff99ea3164",
+      "duration": 1.1596600000000001,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_002",
+      "text": "das Seil",
+      "path": "audio/henri-gear-20261028/rq002_gear_4f267fa6dc18.mp3",
+      "sha256": "4f267fa6dc18fb1ff9d831c2b278e8af0748ccf7cafd5de469d0feecc0ebec49",
+      "duration": 0.9541999999999997,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_003",
+      "text": "Das ist ein Rucksack.",
+      "path": "audio/henri-gear-20261028/rq003_gear_044231e03452.mp3",
+      "sha256": "044231e03452a93f89d7c7edbe24403244ce9d09fe8a652d488d7048963fe357",
+      "duration": 1.34476,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_004",
+      "text": "Das ist ein Kompass.",
+      "path": "audio/henri-gear-20261028/rq004_gear_042a9358c1d2.mp3",
+      "sha256": "042a9358c1d202dfc0fc5869f8b836f5e1cfa2d267f6881f7c08b35d5105cfde",
+      "duration": 1.4867799999999995,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_005",
+      "text": "Das ist eine Karte.",
+      "path": "audio/henri-gear-20261028/rq005_gear_dd55505ec345.mp3",
+      "sha256": "dd55505ec345703d413379179a1258c593b1483bcd6ad2a432c467b7242a7083",
+      "duration": 1.4688399999999993,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_006",
+      "text": "Das ist eine Tasche.",
+      "path": "audio/henri-gear-20261028/rq006_gear_fe6aa8722230.mp3",
+      "sha256": "fe6aa8722230f10d7961089fb5b4be7672e8fe11cde038af86b485740bb949dd",
+      "duration": 1.4725999999999981,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_007",
+      "text": "Das ist ein Seil.",
+      "path": "audio/henri-gear-20261028/rq007_gear_86bafc60562b.mp3",
+      "sha256": "86bafc60562b99876066d26dd98b8b3a41c37d7789766aedf896d0f88351dd62",
+      "duration": 1.363199999999999,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_008",
+      "text": "Das ist mein Rucksack.",
+      "path": "audio/henri-gear-20261028/rq008_gear_d8d9b7baa035.mp3",
+      "sha256": "d8d9b7baa0355d413d4b8aa053aa09714bf017861205080dc8720f9ddcdf3867",
+      "duration": 1.4885999999999981,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_009",
+      "text": "Das ist mein Kompass.",
+      "path": "audio/henri-gear-20261028/rq009_gear_80429b8b8782.mp3",
+      "sha256": "80429b8b8782a999bf6c4bc47f244879782598995a85b1b63afb272d3f0aeea7",
+      "duration": 1.514100000000001,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_010",
+      "text": "Das ist meine Karte.",
+      "path": "audio/henri-gear-20261028/rq010_gear_886d1aa3d879.mp3",
+      "sha256": "886d1aa3d8796c3af08eff92ba27640226b3cfe8fce0e366b76b4855cf547448",
+      "duration": 1.5518,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_011",
+      "text": "Das ist mein Seil.",
+      "path": "audio/henri-gear-20261028/rq011_gear_c74cbb57a50a.mp3",
+      "sha256": "c74cbb57a50a6a97c56131c39fd8b8a877631f29fe6bf86a0f8f444966da091f",
+      "duration": 1.3613,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_012",
+      "text": "Ich habe einen Rucksack.",
+      "path": "audio/henri-gear-20261028/rq012_gear_abf153daebf9.mp3",
+      "sha256": "abf153daebf9a0df77c4016e7181bcc7f3e6e72579346c5873c230d355e199ae",
+      "duration": 1.479300000000002,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_013",
+      "text": "Ich habe einen Kompass.",
+      "path": "audio/henri-gear-20261028/rq013_gear_d49dbd2a8caf.mp3",
+      "sha256": "d49dbd2a8caf194f8dccb77ecee11c3f4a134d522b364fc722e1a96f6dde389e",
+      "duration": 1.5348000000000006,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_014",
+      "text": "Ich habe eine Karte.",
+      "path": "audio/henri-gear-20261028/rq014_gear_577891b5122f.mp3",
+      "sha256": "577891b5122f7e33be5901c7b9aafb662c421ce72c66f37e2e632fc412efbc84",
+      "duration": 1.427500000000002,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_015",
+      "text": "Ich habe eine Tasche.",
+      "path": "audio/henri-gear-20261028/rq015_gear_ac68eea9e277.mp3",
+      "sha256": "ac68eea9e2779027b531b753b98fb2f08044cb413630876db04fd8303a79685e",
+      "duration": 1.3775000000000048,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_016",
+      "text": "Ich habe ein Buch.",
+      "path": "audio/henri-gear-20261028/rq016_gear_2db2f08c2940.mp3",
+      "sha256": "2db2f08c2940c13a00363db1a666df577827f44a22c1ffa6b45e7febba60a9b8",
+      "duration": 1.254100000000001,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_017",
+      "text": "Ich habe ein Seil.",
+      "path": "audio/henri-gear-20261028/rq017_gear_c118488c55cd.mp3",
+      "sha256": "c118488c55cd992bc0f1ec2679b7908aafb7da4a6bfb9c69431099c83d92c465",
+      "duration": 1.2486999999999924,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_018",
+      "text": "Ich möchte einen Rucksack, bitte.",
+      "path": "audio/henri-gear-20261028/rq018_gear_019c6eb42af1.mp3",
+      "sha256": "019c6eb42af1f2614734a731b6166cf57d1c2c9f3ba4ce086f1bf52c934d36d6",
+      "duration": 1.7704999999999984,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_019",
+      "text": "Ich möchte einen Kompass, bitte.",
+      "path": "audio/henri-gear-20261028/rq019_gear_035f7da56130.mp3",
+      "sha256": "035f7da5613057c4a3c7065d9564158b691dda91d884b95277ffd59509f9563d",
+      "duration": 1.8571999999999917,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_020",
+      "text": "Ich möchte eine Karte, bitte.",
+      "path": "audio/henri-gear-20261028/rq020_gear_d0016e258337.mp3",
+      "sha256": "d0016e258337828c9ac4a7271826190c88e928f5e3b95c502345435b2adc6604",
+      "duration": 1.8138999999999896,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_021",
+      "text": "Ich möchte eine Tasche, bitte.",
+      "path": "audio/henri-gear-20261028/rq021_gear_90b1caa2f78d.mp3",
+      "sha256": "90b1caa2f78de1dc1394fe2f59cf54358a822cc2c2915cef1c95cbd7d43dbed1",
+      "duration": 1.705699999999993,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_022",
+      "text": "Ich möchte ein Buch, bitte.",
+      "path": "audio/henri-gear-20261028/rq022_gear_3bea8f47f790.mp3",
+      "sha256": "3bea8f47f7900c34e9cb4c97804035d98880fce5c2e24b0199a104e71f4bcb68",
+      "duration": 1.6513999999999953,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_023",
+      "text": "Ich möchte ein Seil, bitte.",
+      "path": "audio/henri-gear-20261028/rq023_gear_d09715aa022e.mp3",
+      "sha256": "d09715aa022e219860b076a00601cd4c659db65c97fa859bf12d6d216542e7e8",
+      "duration": 1.6513999999999953,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_024",
+      "text": "Was möchtest du?",
+      "path": "audio/henri-gear-20261028/rq024_gear_8a64330baf16.mp3",
+      "sha256": "8a64330baf160b9927fc1286bcf585d011706210be6a598688c1c8b4bc0e81a0",
+      "duration": 1.153099999999995,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_025",
+      "text": "Einen Rucksack, bitte.",
+      "path": "audio/henri-gear-20261028/rq025_gear_d0c675a43de4.mp3",
+      "sha256": "d0c675a43de4e68b946cf982206d23528c5f37afa17a10d7f67e2d01e2bc526e",
+      "duration": 1.3381999999999934,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_026",
+      "text": "Eine Karte, bitte.",
+      "path": "audio/henri-gear-20261028/rq026_gear_1396c1b700d9.mp3",
+      "sha256": "1396c1b700d984a933c794a9951055c4447b3512736f6895f15c9c8a92c5fd4b",
+      "duration": 1.3354999999999961,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_027",
+      "text": "Ein Seil, bitte.",
+      "path": "audio/henri-gear-20261028/rq027_gear_5326b59d5489.mp3",
+      "sha256": "5326b59d548989ab30b13a14471fba2f3ffbf7a7c994be6410b53328a82cb5bc",
+      "duration": 1.2497999999999934,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_028",
+      "text": "Hier, bitte.",
+      "path": "audio/henri-gear-20261028/rq028_gear_4b4d1702b0c8.mp3",
+      "sha256": "4b4d1702b0c847cbab16aca3d8a80517b2ab0a459806fe64ce3304976e01fd16",
+      "duration": 1.0113999999999947,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_029",
+      "text": "Gute Reise!",
+      "path": "audio/henri-gear-20261028/rq029_gear_15d029cb46dc.mp3",
+      "sha256": "15d029cb46dc3f7e1ce22d87514bb969125df0b0e67235634151abc2dfae99d1",
+      "duration": 0.9655999999999949,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_030",
+      "text": "einen",
+      "path": "audio/henri-gear-20261028/rq030_gear_992c6f95af52.mp3",
+      "sha256": "992c6f95af52d5a28437e906d5ccdbe1c9b2f429bce223bb9ce908aaf8ec8d5f",
+      "duration": 0.7025999999999968,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_031",
+      "text": "meinen",
+      "path": "audio/henri-gear-20261028/rq031_gear_c48ee059bda6.mp3",
+      "sha256": "c48ee059bda656df646b8207bd2667c86af10fbc5aff43c4d1373ad69715c25d",
+      "duration": 0.8286999999999907,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_032",
+      "text": "Akkusativ",
+      "path": "audio/henri-gear-20261028/rq032_gear_c225a3a3622b.mp3",
+      "sha256": "c225a3a3622b62e1cac283f1967bffca8218fbb70db78fc8ebcbfb7b154b0aa8",
+      "duration": 1.0571999999999946,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_033",
+      "text": "Ich möchte",
+      "path": "audio/henri-gear-20261028/rq033_gear_46e13c9ce4da.mp3",
+      "sha256": "46e13c9ce4da4d37844071ec6d2814f965d5272164c5f706fbdd82bee7406406",
+      "duration": 0.969699999999996,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_034",
+      "text": "Rucksack",
+      "path": "audio/henri-gear-20261028/rq034_gear_2e188c1c3253.mp3",
+      "sha256": "2e188c1c3253d7d4784298cf95f37381a7d81e0d7d8cf99f1ef6e4f250c41e2f",
+      "duration": 0.8508000000000067,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_035",
+      "text": "Kompass",
+      "path": "audio/henri-gear-20261028/rq035_gear_9cbde47ca27f.mp3",
+      "sha256": "9cbde47ca27f130469b84ccb27d85b11376248fd141615e8eac9e81a592a59f3",
+      "duration": 0.8789000000000158,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_036",
+      "text": "Karte",
+      "path": "audio/henri-gear-20261028/rq036_gear_0155c6397df3.mp3",
+      "sha256": "0155c6397df3d42f2e86d08f7e00c46dbf9fb3c55aae6c9250aa2c097637e3ef",
+      "duration": 0.7436000000000149,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_037",
+      "text": "Seil",
+      "path": "audio/henri-gear-20261028/rq037_gear_7e5183d172bb.mp3",
+      "sha256": "7e5183d172bba1f4555b51b149553448f8e3433a7363aceaeac05f4e3f263b19",
+      "duration": 0.752900000000011,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_038",
+      "text": "mein Buch",
+      "path": "audio/henri-gear-20261028/rq038_gear_8d6f212600fd.mp3",
+      "sha256": "8d6f212600fd1b6e47ab34afb0032a885dbfffacce06487103b270069f209931",
+      "duration": 0.9728000000000065,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_039",
+      "text": "mein Rucksack",
+      "path": "audio/henri-gear-20261028/rq039_gear_7e609069b307.mp3",
+      "sha256": "7e609069b30735899df42443f809227311cdbf42bf564cfbe7f98540a8761923",
+      "duration": 1.0629000000000133,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_040",
+      "text": "meine Karte",
+      "path": "audio/henri-gear-20261028/rq040_gear_c4922608eddd.mp3",
+      "sha256": "c4922608edddb1cad27fb575a4d0da27719255c52b4bd6e117e1f901d0852d46",
+      "duration": 1.0653000000000077,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_041",
+      "text": "mein Seil",
+      "path": "audio/henri-gear-20261028/rq041_gear_3716cc508ce0.mp3",
+      "sha256": "3716cc508ce086647407a43930af0afd4dde8662916be41af099b0e2a0bf6981",
+      "duration": 1.0337999999999994,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_042",
+      "text": "einen Rucksack",
+      "path": "audio/henri-gear-20261028/rq042_gear_db56776f9ffb.mp3",
+      "sha256": "db56776f9ffb51272c7d46b1d17aff7adc789c0f3b0ee26676c7090c944b21c5",
+      "duration": 1.161200000000008,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_043",
+      "text": "eine Karte",
+      "path": "audio/henri-gear-20261028/rq043_gear_bfc25821e97d.mp3",
+      "sha256": "bfc25821e97dd5e60214430212e746706600e44020c478e1dd771545cad4013c",
+      "duration": 1.020600000000016,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_044",
+      "text": "ein Seil",
+      "path": "audio/henri-gear-20261028/rq044_gear_0af7bfc7c3e6.mp3",
+      "sha256": "0af7bfc7c3e6191d4066e9c90d2add93a7c03f71c5fe67bd370ec7261e3944ab",
+      "duration": 0.9991000000000128,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_045",
+      "text": "ein Kompass",
+      "path": "audio/henri-gear-20261028/rq045_gear_53bd17011fc8.mp3",
+      "sha256": "53bd17011fc82a5b6b19854eb2c1417f6521ce8159ec05ea737dc2a2dadf45c3",
+      "duration": 1.144900000000007,
+      "verification": "exact-full"
+    },
+    {
+      "id": "gear_neutral_046",
+      "text": "einen Kompass",
+      "path": "audio/henri-gear-20261028/rq046_gear_1e26f870824b.mp3",
+      "sha256": "1e26f870824b4147647b2017c7e3c1ad712d30ef7f3503979f19e456c577d808",
+      "duration": 1.3377499999999998,
+      "verification": "exact-full"
     },
     {
       "id": "rq001",

@@ -28,6 +28,15 @@
       "voiceName": null,
       "status": "pending-user-voice-selection",
       "recordingScript": "audio/recording/benno-v1-benno.txt"
+    },
+    "greta": {
+      "description_uk": "Окремий теплий дорослий жіночий голос комірниці. Доброзичливий, впевнений, чітка стандартна німецька.",
+      "provider": "ElevenLabs",
+      "voiceId": null,
+      "model": null,
+      "voiceName": null,
+      "status": "pending-user-voice-selection",
+      "recordingScript": "audio/recording/gear-island-v1/greta.txt"
     }
   },
   "existingAudioRole": "neutral-pronunciation-reference",
@@ -35,6 +44,7 @@
   "bindingRule": "role-and-exact-whole-phrase",
   "recordingScripts": {
     "karl": "audio/recording/karl-dialogue-v1.txt",
-    "benno": "audio/recording/benno-dialogue-v1.txt"
+    "benno": "audio/recording/benno-dialogue-v1.txt",
+    "greta": "audio/recording/gear-island-v1/README.md"
   }
 }

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "batch": "oleksii-dylan-market-20261028",
+  "role": "oleksii",
+  "voiceName": "Dylan Carter - Exaggerated & Energetic",
+  "provider": "ElevenLabs",
+  "originalFilename": "ElevenLabs_2026-10-28T20_48_01_Dylan Carter - Exaggerated & Energetic_pvc_sp100_s50_sb47_v4.mp3",
+  "source_file": "audio-sources/oleksii-dylan-market-20261028/original.mp3",
+  "source_sha256": "a7972fc65b0ece9f6a7b75dff06095b3718d196dba5cf6dcf8a407ce881d981f",
+  "source_duration": 6.530563,
+  "splitMethod": "Silence gaps >=350ms below -38dB, retain 120ms padding; user-confirmed script order; no synthesis or word assembly",
+  "entries": [
+    {
+      "id": "hunger",
+      "text": "Ja, ich habe Hunger.",
+      "path": "audio/dialogue/oleksii-dylan-market-20261028/oleksii_01_hunger.mp3",
+      "source_start": 0,
+      "speech_end": 1.46483,
+      "source_end": 1.5848300000000002,
+      "duration": 1.5848300000000002,
+      "sha256": "7509dd00a9ccf9cf954147ab0491791e25be978f353a488aaf0cbf1bff2e557b",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "thirst",
+      "text": "Ja, ich habe Durst.",
+      "path": "audio/dialogue/oleksii-dylan-market-20261028/oleksii_02_thirst.mp3",
+      "source_start": 2.42778,
+      "speech_end": 4.04653,
+      "source_end": 4.16653,
+      "duration": 1.73875,
+      "sha256": "fe8bbec71a0fef925589c789ed2ddc17407d18facdf713677d4478c3dae19c7b",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "time",
+      "text": "Ja, ich habe Zeit.",
+      "path": "audio/dialogue/oleksii-dylan-market-20261028/oleksii_03_time.mp3",
+      "source_start": 4.8368,
+      "speech_end": 6.500563,
+      "source_end": 6.530563,
+      "duration": 1.6937629999999997,
+      "sha256": "f07e9c4a8cf0012bea8a19cf819f17ffdbfcfcbd12d29a57999684b073f35f3f",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    }
+  ]
+}

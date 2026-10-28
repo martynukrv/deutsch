@@ -1,0 +1,274 @@
+[
+  {
+    "id": "greta-welcome",
+    "source": "characters.png",
+    "cell": [
+      0,
+      0,
+      400,
+      450
+    ],
+    "cropInCell": [
+      38,
+      2,
+      376,
+      450
+    ],
+    "output": "assets/illustrations/expedition/gear-greta-welcome.webp"
+  },
+  {
+    "id": "greta-success",
+    "source": "characters.png",
+    "cell": [
+      400,
+      0,
+      790,
+      450
+    ],
+    "cropInCell": [
+      39,
+      19,
+      339,
+      450
+    ],
+    "output": "assets/illustrations/expedition/gear-greta-success.webp"
+  },
+  {
+    "id": "greta-encourage",
+    "source": "characters.png",
+    "cell": [
+      790,
+      0,
+      1169,
+      450
+    ],
+    "cropInCell": [
+      59,
+      6,
+      330,
+      450
+    ],
+    "output": "assets/illustrations/expedition/gear-greta-encourage.webp"
+  },
+  {
+    "id": "felix-welcome",
+    "source": "characters.png",
+    "cell": [
+      0,
+      450,
+      400,
+      902
+    ],
+    "cropInCell": [
+      42,
+      0,
+      356,
+      452
+    ],
+    "output": "assets/illustrations/expedition/gear-felix-welcome.webp"
+  },
+  {
+    "id": "felix-success",
+    "source": "characters.png",
+    "cell": [
+      400,
+      450,
+      790,
+      902
+    ],
+    "cropInCell": [
+      56,
+      0,
+      327,
+      452
+    ],
+    "output": "assets/illustrations/expedition/gear-felix-success.webp"
+  },
+  {
+    "id": "felix-encourage",
+    "source": "characters.png",
+    "cell": [
+      790,
+      450,
+      1169,
+      902
+    ],
+    "cropInCell": [
+      75,
+      0,
+      335,
+      452
+    ],
+    "output": "assets/illustrations/expedition/gear-felix-encourage.webp"
+  },
+  {
+    "id": "juna-welcome",
+    "source": "characters.png",
+    "cell": [
+      0,
+      902,
+      400,
+      1345
+    ],
+    "cropInCell": [
+      40,
+      0,
+      381,
+      432
+    ],
+    "output": "assets/illustrations/expedition/gear-juna-welcome.webp"
+  },
+  {
+    "id": "juna-success",
+    "source": "characters.png",
+    "cell": [
+      400,
+      902,
+      790,
+      1345
+    ],
+    "cropInCell": [
+      36,
+      1,
+      356,
+      433
+    ],
+    "output": "assets/illustrations/expedition/gear-juna-success.webp"
+  },
+  {
+    "id": "juna-encourage",
+    "source": "characters.png",
+    "cell": [
+      790,
+      902,
+      1169,
+      1345
+    ],
+    "cropInCell": [
+      69,
+      0,
+      324,
+      435
+    ],
+    "output": "assets/illustrations/expedition/gear-juna-encourage.webp"
+  },
+  {
+    "id": "rucksack",
+    "source": "items.png",
+    "cell": [
+      0,
+      0,
+      512,
+      394
+    ],
+    "cropInCell": [
+      64,
+      20,
+      503,
+      388
+    ],
+    "output": "assets/illustrations/expedition/gear/rucksack.webp"
+  },
+  {
+    "id": "kompass",
+    "source": "items.png",
+    "cell": [
+      512,
+      0,
+      1000,
+      394
+    ],
+    "cropInCell": [
+      89,
+      22,
+      451,
+      389
+    ],
+    "output": "assets/illustrations/expedition/gear/kompass.webp"
+  },
+  {
+    "id": "karte",
+    "source": "items.png",
+    "cell": [
+      1000,
+      0,
+      1536,
+      394
+    ],
+    "cropInCell": [
+      10,
+      57,
+      514,
+      392
+    ],
+    "output": "assets/illustrations/expedition/gear/karte.webp"
+  },
+  {
+    "id": "tasche",
+    "source": "items.png",
+    "cell": [
+      0,
+      394,
+      512,
+      735
+    ],
+    "cropInCell": [
+      37,
+      17,
+      512,
+      324
+    ],
+    "output": "assets/illustrations/expedition/gear/tasche.webp"
+  },
+  {
+    "id": "buch",
+    "source": "items.png",
+    "cell": [
+      512,
+      394,
+      1000,
+      735
+    ],
+    "cropInCell": [
+      65,
+      12,
+      451,
+      322
+    ],
+    "output": "assets/illustrations/expedition/gear/buch.webp"
+  },
+  {
+    "id": "seil",
+    "source": "items.png",
+    "cell": [
+      1000,
+      394,
+      1536,
+      735
+    ],
+    "cropInCell": [
+      44,
+      36,
+      513,
+      318
+    ],
+    "output": "assets/illustrations/expedition/gear/seil.webp"
+  },
+  {
+    "id": "route-scroll",
+    "source": "items.png",
+    "cell": [
+      500,
+      735,
+      1070,
+      1024
+    ],
+    "cropInCell": [
+      24,
+      1,
+      541,
+      264
+    ],
+    "output": "assets/illustrations/expedition/gear/route-scroll.webp"
+  }
+]

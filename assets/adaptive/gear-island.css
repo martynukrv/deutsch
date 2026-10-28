@@ -1,0 +1,11 @@
+.expedition-board.is-gear{aspect-ratio:1/2;background:#102B50}
+.is-gear .expedition-island{inset:0;width:100%;height:100%;object-fit:fill}
+.is-gear .expedition-stop.journey-stop{width:21%;max-width:none;min-width:0}
+.is-gear .expedition-cache{left:62%;top:87%;width:32%}
+.is-gear .expedition-pin-label{font-size:clamp(9px,1.7vw,12px)}
+.gear-audio-note{padding:12px 14px;border:1px solid #102B5020;background:#FFF1E5;border-radius:14px;font-size:14px;line-height:1.5}
+.gear-item{object-fit:contain}.gear-quantity{font-size:72px;font-weight:850;color:#102B50;line-height:1.2;margin:10px auto}
+.island-picker{grid-template-columns:repeat(3,minmax(0,1fr))}
+.island-choice{overflow-wrap:anywhere;gap:8px;padding:10px}.island-choice strong{font-size:14px}
+@media(max-width:650px){.island-choice{flex-direction:column;align-items:center;text-align:center;padding:8px 5px}.island-thumbnail{height:44px;width:40px}.island-choice strong{font-size:11px}.island-choice small,.island-choice em{font-size:9px}.island-choice>span{gap:4px}.island-picker{gap:6px}}
+@media(prefers-reduced-motion:reduce){.is-gear *{animation:none!important}}

@@ -1,0 +1,340 @@
+{
+  "version": 1,
+  "status": "recorded",
+  "binding": "exact-whole-phrase-and-role",
+  "neutral": {
+    "voiceName": "Henri (existing neutral course voice)",
+    "lines": [
+      {
+        "id": "gear_neutral_001",
+        "text": "der Kompass",
+        "key": "der kompass",
+        "path": "audio/henri-gear-20261028/rq001_gear_37bd52a295e2.mp3"
+      },
+      {
+        "id": "gear_neutral_002",
+        "text": "das Seil",
+        "key": "das seil",
+        "path": "audio/henri-gear-20261028/rq002_gear_4f267fa6dc18.mp3"
+      },
+      {
+        "id": "gear_neutral_003",
+        "text": "Das ist ein Rucksack.",
+        "key": "das ist ein rucksack",
+        "path": "audio/henri-gear-20261028/rq003_gear_044231e03452.mp3"
+      },
+      {
+        "id": "gear_neutral_004",
+        "text": "Das ist ein Kompass.",
+        "key": "das ist ein kompass",
+        "path": "audio/henri-gear-20261028/rq004_gear_042a9358c1d2.mp3"
+      },
+      {
+        "id": "gear_neutral_005",
+        "text": "Das ist eine Karte.",
+        "key": "das ist eine karte",
+        "path": "audio/henri-gear-20261028/rq005_gear_dd55505ec345.mp3"
+      },
+      {
+        "id": "gear_neutral_006",
+        "text": "Das ist eine Tasche.",
+        "key": "das ist eine tasche",
+        "path": "audio/henri-gear-20261028/rq006_gear_fe6aa8722230.mp3"
+      },
+      {
+        "id": "gear_neutral_007",
+        "text": "Das ist ein Seil.",
+        "key": "das ist ein seil",
+        "path": "audio/henri-gear-20261028/rq007_gear_86bafc60562b.mp3"
+      },
+      {
+        "id": "gear_neutral_008",
+        "text": "Das ist mein Rucksack.",
+        "key": "das ist mein rucksack",
+        "path": "audio/henri-gear-20261028/rq008_gear_d8d9b7baa035.mp3"
+      },
+      {
+        "id": "gear_neutral_009",
+        "text": "Das ist mein Kompass.",
+        "key": "das ist mein kompass",
+        "path": "audio/henri-gear-20261028/rq009_gear_80429b8b8782.mp3"
+      },
+      {
+        "id": "gear_neutral_010",
+        "text": "Das ist meine Karte.",
+        "key": "das ist meine karte",
+        "path": "audio/henri-gear-20261028/rq010_gear_886d1aa3d879.mp3"
+      },
+      {
+        "id": "gear_neutral_011",
+        "text": "Das ist mein Seil.",
+        "key": "das ist mein seil",
+        "path": "audio/henri-gear-20261028/rq011_gear_c74cbb57a50a.mp3"
+      },
+      {
+        "id": "gear_neutral_012",
+        "text": "Ich habe einen Rucksack.",
+        "key": "ich habe einen rucksack",
+        "path": "audio/henri-gear-20261028/rq012_gear_abf153daebf9.mp3"
+      },
+      {
+        "id": "gear_neutral_013",
+        "text": "Ich habe einen Kompass.",
+        "key": "ich habe einen kompass",
+        "path": "audio/henri-gear-20261028/rq013_gear_d49dbd2a8caf.mp3"
+      },
+      {
+        "id": "gear_neutral_014",
+        "text": "Ich habe eine Karte.",
+        "key": "ich habe eine karte",
+        "path": "audio/henri-gear-20261028/rq014_gear_577891b5122f.mp3"
+      },
+      {
+        "id": "gear_neutral_015",
+        "text": "Ich habe eine Tasche.",
+        "key": "ich habe eine tasche",
+        "path": "audio/henri-gear-20261028/rq015_gear_ac68eea9e277.mp3"
+      },
+      {
+        "id": "gear_neutral_016",
+        "text": "Ich habe ein Buch.",
+        "key": "ich habe ein buch",
+        "path": "audio/henri-gear-20261028/rq016_gear_2db2f08c2940.mp3"
+      },
+      {
+        "id": "gear_neutral_017",
+        "text": "Ich habe ein Seil.",
+        "key": "ich habe ein seil",
+        "path": "audio/henri-gear-20261028/rq017_gear_c118488c55cd.mp3"
+      },
+      {
+        "id": "gear_neutral_018",
+        "text": "Ich möchte einen Rucksack, bitte.",
+        "key": "ich möchte einen rucksack, bitte",
+        "path": "audio/henri-gear-20261028/rq018_gear_019c6eb42af1.mp3"
+      },
+      {
+        "id": "gear_neutral_019",
+        "text": "Ich möchte einen Kompass, bitte.",
+        "key": "ich möchte einen kompass, bitte",
+        "path": "audio/henri-gear-20261028/rq019_gear_035f7da56130.mp3"
+      },
+      {
+        "id": "gear_neutral_020",
+        "text": "Ich möchte eine Karte, bitte.",
+        "key": "ich möchte eine karte, bitte",
+        "path": "audio/henri-gear-20261028/rq020_gear_d0016e258337.mp3"
+      },
+      {
+        "id": "gear_neutral_021",
+        "text": "Ich möchte eine Tasche, bitte.",
+        "key": "ich möchte eine tasche, bitte",
+        "path": "audio/henri-gear-20261028/rq021_gear_90b1caa2f78d.mp3"
+      },
+      {
+        "id": "gear_neutral_022",
+        "text": "Ich möchte ein Buch, bitte.",
+        "key": "ich möchte ein buch, bitte",
+        "path": "audio/henri-gear-20261028/rq022_gear_3bea8f47f790.mp3"
+      },
+      {
+        "id": "gear_neutral_023",
+        "text": "Ich möchte ein Seil, bitte.",
+        "key": "ich möchte ein seil, bitte",
+        "path": "audio/henri-gear-20261028/rq023_gear_d09715aa022e.mp3"
+      },
+      {
+        "id": "gear_neutral_024",
+        "text": "Was möchtest du?",
+        "key": "was möchtest du",
+        "path": "audio/henri-gear-20261028/rq024_gear_8a64330baf16.mp3"
+      },
+      {
+        "id": "gear_neutral_025",
+        "text": "Einen Rucksack, bitte.",
+        "key": "einen rucksack, bitte",
+        "path": "audio/henri-gear-20261028/rq025_gear_d0c675a43de4.mp3"
+      },
+      {
+        "id": "gear_neutral_026",
+        "text": "Eine Karte, bitte.",
+        "key": "eine karte, bitte",
+        "path": "audio/henri-gear-20261028/rq026_gear_1396c1b700d9.mp3"
+      },
+      {
+        "id": "gear_neutral_027",
+        "text": "Ein Seil, bitte.",
+        "key": "ein seil, bitte",
+        "path": "audio/henri-gear-20261028/rq027_gear_5326b59d5489.mp3"
+      },
+      {
+        "id": "gear_neutral_028",
+        "text": "Hier, bitte.",
+        "key": "hier, bitte",
+        "path": "audio/henri-gear-20261028/rq028_gear_4b4d1702b0c8.mp3"
+      },
+      {
+        "id": "gear_neutral_029",
+        "text": "Gute Reise!",
+        "key": "gute reise",
+        "path": "audio/henri-gear-20261028/rq029_gear_15d029cb46dc.mp3"
+      },
+      {
+        "id": "gear_neutral_030",
+        "text": "einen",
+        "key": "einen",
+        "path": "audio/henri-gear-20261028/rq030_gear_992c6f95af52.mp3"
+      },
+      {
+        "id": "gear_neutral_031",
+        "text": "meinen",
+        "key": "meinen",
+        "path": "audio/henri-gear-20261028/rq031_gear_c48ee059bda6.mp3"
+      },
+      {
+        "id": "gear_neutral_032",
+        "text": "Akkusativ",
+        "key": "akkusativ",
+        "path": "audio/henri-gear-20261028/rq032_gear_c225a3a3622b.mp3"
+      },
+      {
+        "id": "gear_neutral_033",
+        "text": "Ich möchte",
+        "key": "ich möchte",
+        "path": "audio/henri-gear-20261028/rq033_gear_46e13c9ce4da.mp3"
+      },
+      {
+        "id": "gear_neutral_034",
+        "text": "Rucksack",
+        "key": "rucksack",
+        "path": "audio/henri-gear-20261028/rq034_gear_2e188c1c3253.mp3"
+      },
+      {
+        "id": "gear_neutral_035",
+        "text": "Kompass",
+        "key": "kompass",
+        "path": "audio/henri-gear-20261028/rq035_gear_9cbde47ca27f.mp3"
+      },
+      {
+        "id": "gear_neutral_036",
+        "text": "Karte",
+        "key": "karte",
+        "path": "audio/henri-gear-20261028/rq036_gear_0155c6397df3.mp3"
+      },
+      {
+        "id": "gear_neutral_037",
+        "text": "Seil",
+        "key": "seil",
+        "path": "audio/henri-gear-20261028/rq037_gear_7e5183d172bb.mp3"
+      },
+      {
+        "id": "gear_neutral_038",
+        "text": "mein Buch",
+        "key": "mein buch",
+        "path": "audio/henri-gear-20261028/rq038_gear_8d6f212600fd.mp3"
+      },
+      {
+        "id": "gear_neutral_039",
+        "text": "mein Rucksack",
+        "key": "mein rucksack",
+        "path": "audio/henri-gear-20261028/rq039_gear_7e609069b307.mp3"
+      },
+      {
+        "id": "gear_neutral_040",
+        "text": "meine Karte",
+        "key": "meine karte",
+        "path": "audio/henri-gear-20261028/rq040_gear_c4922608eddd.mp3"
+      },
+      {
+        "id": "gear_neutral_041",
+        "text": "mein Seil",
+        "key": "mein seil",
+        "path": "audio/henri-gear-20261028/rq041_gear_3716cc508ce0.mp3"
+      },
+      {
+        "id": "gear_neutral_042",
+        "text": "einen Rucksack",
+        "key": "einen rucksack",
+        "path": "audio/henri-gear-20261028/rq042_gear_db56776f9ffb.mp3"
+      },
+      {
+        "id": "gear_neutral_043",
+        "text": "eine Karte",
+        "key": "eine karte",
+        "path": "audio/henri-gear-20261028/rq043_gear_bfc25821e97d.mp3"
+      },
+      {
+        "id": "gear_neutral_044",
+        "text": "ein Seil",
+        "key": "ein seil",
+        "path": "audio/henri-gear-20261028/rq044_gear_0af7bfc7c3e6.mp3"
+      },
+      {
+        "id": "gear_neutral_045",
+        "text": "ein Kompass",
+        "key": "ein kompass",
+        "path": "audio/henri-gear-20261028/rq045_gear_53bd17011fc8.mp3"
+      },
+      {
+        "id": "gear_neutral_046",
+        "text": "einen Kompass",
+        "key": "einen kompass",
+        "path": "audio/henri-gear-20261028/rq046_gear_1e26f870824b.mp3"
+      }
+    ],
+    "status": "recorded"
+  },
+  "greta": {
+    "voiceName": "Lola - Fantasy & LitRPG",
+    "status": "recorded",
+    "brief": "Adult female, warm confident quartermaster, clear Standard German, natural teaching pace.",
+    "lines": [
+      {
+        "id": "hello",
+        "text": "Guten Tag!",
+        "path": "audio/dialogue/greta-lola-20261028/greta_01_hello.mp3"
+      },
+      {
+        "id": "question",
+        "text": "Was möchtest du?",
+        "path": "audio/dialogue/greta-lola-20261028/greta_02_question.mp3"
+      },
+      {
+        "id": "handoff",
+        "text": "Hier, bitte.",
+        "path": "audio/dialogue/greta-lola-20261028/greta_03_handoff.mp3"
+      },
+      {
+        "id": "bye",
+        "text": "Gute Reise!",
+        "path": "audio/dialogue/greta-lola-20261028/greta_04_bye.mp3"
+      }
+    ]
+  },
+  "learner_oleksii": {
+    "voiceName": "Dylan Carter - Exaggerated & Energetic",
+    "lines": [
+      {
+        "id": "rucksack",
+        "text": "Einen Rucksack, bitte.",
+        "path": "audio/dialogue/oleksii-dylan-gear-20261028/oleksii_01_rucksack.mp3"
+      },
+      {
+        "id": "karte",
+        "text": "Eine Karte, bitte.",
+        "path": "audio/dialogue/oleksii-dylan-gear-20261028/oleksii_02_karte.mp3"
+      },
+      {
+        "id": "seil",
+        "text": "Ein Seil, bitte.",
+        "path": "audio/dialogue/oleksii-dylan-gear-20261028/oleksii_03_seil.mp3"
+      }
+    ],
+    "reused": [
+      "Guten Tag!",
+      "Danke!",
+      "Auf Wiedersehen!"
+    ],
+    "status": "recorded"
+  }
+}

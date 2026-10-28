@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "batch": "benno-anjin-20261028",
+  "role": "benno",
+  "voiceName": "Anjin - Rough and deep",
+  "provider": "ElevenLabs",
+  "originalFilename": "ElevenLabs_2026-10-28T20_53_55_Anjin - Rough and deep_pvc_sp85_s45_sb50_v4.mp3",
+  "source_file": "audio-sources/benno-anjin-20261028/original.mp3",
+  "source_sha256": "0bff294a98a37e5b82d7017d7b73acb32bc08e6c129d92c12f240031ee850569",
+  "source_duration": 8.59425,
+  "splitMethod": "Silence gaps >=350ms below -38dB, retain 120ms padding; user-confirmed script order; no synthesis or word assembly",
+  "entries": [
+    {
+      "id": "hello",
+      "text": "Guten Tag!",
+      "path": "audio/dialogue/benno-anjin-20261028/benno_01_hello.mp3",
+      "source_start": 0,
+      "speech_end": 0.703696,
+      "source_end": 0.823696,
+      "duration": 0.823696,
+      "sha256": "61b401d025b93b3cbc6861cd106c8cf053defead484cfc1784409e3d950b12ef",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "hunger",
+      "text": "Hast du Hunger?",
+      "path": "audio/dialogue/benno-anjin-20261028/benno_02_hunger.mp3",
+      "source_start": 1.4949400000000002,
+      "speech_end": 2.29467,
+      "source_end": 2.41467,
+      "duration": 0.9197299999999999,
+      "sha256": "412de08fa1ae22477ea8e311e485fe50b4758538886afa7de7782eba2c2b7ae5",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "thirst",
+      "text": "Hast du Durst?",
+      "path": "audio/dialogue/benno-anjin-20261028/benno_03_thirst.mp3",
+      "source_start": 3.0622,
+      "speech_end": 4.00156,
+      "source_end": 4.12156,
+      "duration": 1.0593599999999999,
+      "sha256": "48dfb3daeec309cb5362848d18e21fd168646ff7e90861eab3d972dc00c35430",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "time",
+      "text": "Hast du Zeit?",
+      "path": "audio/dialogue/benno-anjin-20261028/benno_04_time.mp3",
+      "source_start": 4.75737,
+      "speech_end": 5.60757,
+      "source_end": 5.72757,
+      "duration": 0.9702000000000002,
+      "sha256": "f583125db32eb5dd816b00f73796e6e352a0da1e1d2ef6e18fdfea3659f868a0",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "thanks",
+      "text": "Bitte!",
+      "path": "audio/dialogue/benno-anjin-20261028/benno_05_thanks.mp3",
+      "source_start": 6.2481599999999995,
+      "speech_end": 6.88091,
+      "source_end": 7.00091,
+      "duration": 0.7527500000000007,
+      "sha256": "2fe9c13498ef331b4722a48bb4b595979adceaba0e321652dd78b64e5f177097",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "bye",
+      "text": "Auf Wiedersehen!",
+      "path": "audio/dialogue/benno-anjin-20261028/benno_06_bye.mp3",
+      "source_start": 7.56057,
+      "speech_end": 8.564250000000001,
+      "source_end": 8.59425,
+      "duration": 1.0336800000000004,
+      "sha256": "6f73da8be23d67b42e91e11c9876798fa8959b759881a777b36c8bac06b0cb60",
+      "verification": "supplied-script-order-and-silence-boundaries"
+    }
+  ]
+}
