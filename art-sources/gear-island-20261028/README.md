@@ -11,3 +11,9 @@ Prompt set (production illustration-story):
 - Items: style reference Benno. Seven distinct transparent objects in 3×3 layout: backpack/compass/map; duffel bag/book/coiled rope; bottom centre reward route scroll. Clear backpack straps vs bag handles, map trail, compass needle without letters. Tapered accent dashes. Fixed four-color palette, no text, shadows or glossy 3D. Edit requested removal of background/glow while preserving all items, contours and layout, opaque flat interiors, alpha-zero gutters.
 
 Runtime files: `assets/illustrations/expedition/gear-island-20261028.webp`, `gear-{greta,felix,juna}-{welcome,success,encourage}.webp`, `gear/*.webp`, `gear-route-scroll.webp`. Asset names are versioned/new; old assets remain intact.
+
+## Distinct landmarks edit — 28 October 2026
+
+User requested one replacement in each visually similar pair 1/2 and 3/4, with immediate integration. Built-in imagegen edited the original full map into `map-distinct-landmarks.png` (887 × 1774). Landmark 2 is now a lightweight open sorting canopy with a flat orange fabric roof, hanging bags and tables. Landmark 4 is an uncovered packing bench dominated by an upright hiking backpack and rolled map. Names, pins, terrain, trail and remaining landmarks retain their positions. The original map remains preserved. Runtime: `assets/illustrations/expedition/gear-island-distinct-20261028.webp`.
+
+Prompt: precise-object-edit of the original tall map; replace only upper-right gabled shed with an open four-post cloth sorting canopy and mid-right awning/luggage deck with an uncovered backpack packing bench. Preserve full 1:2 composition, all normalized landmark locations, paths, cliffs, warehouse, tents, supplies, counter, bridge and survey table. Match navy/orange/cream/white ink illustration; no text or UI.
