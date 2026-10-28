@@ -1,0 +1,16 @@
+const {chromium}=require('playwright'),{pathToFileURL}=require('url'),path=require('path'),{install}=require('./dialogue-test-helper.cjs');
+(async()=>{const browser=await chromium.launch({args:['--no-sandbox']});try{
+ const p=await browser.newPage(),errors=[];p.on('pageerror',e=>errors.push(e.message));await p.addInitScript(install);await p.goto(process.env.ART_SITE_URL||pathToFileURL(path.resolve('index.html')).href);await p.click('#learningTab');
+ await p.evaluate(()=>{window.dialoguePermission.state='prompt';window.promptAudio=[];window.speak=(text,files)=>text?(promptAudio.push({text,files}),new Promise(r=>window.releasePrompt=r)):Promise.resolve();DEUTSCH_JOURNEY.select(2);DEUTSCH_JOURNEY.gearConversation()});await p.click('#gretaBegin');await p.waitForFunction(()=>promptAudio.length===1);
+ if(!await p.evaluate(()=>promptAudio[0].text==='Guten Tag!'&&promptAudio[0].files[0].includes('greta-lola')&&dialogueRecognitionStarts===0))throw Error('Partner not auto-played before microphone');
+ if(await p.locator('[data-greta-conversation] input,[data-greta-conversation] textarea').count())throw Error('Typed reply remains');
+ await p.evaluate(()=>releasePrompt(true));await p.waitForFunction(()=>document.querySelector('#gretaVoice').dataset.phase==='permission');
+ await p.evaluate(()=>{window.stoppedDialogueTracks=0;Object.defineProperty(navigator,'mediaDevices',{configurable:true,value:{getUserMedia:async()=>({getTracks:()=>[{stop:()=>stoppedDialogueTracks++}]})}})});await p.click('#gretaMic');await p.waitForFunction(()=>document.querySelector('#gretaVoice').dataset.phase==='listening');
+ if(!await p.evaluate(()=>stoppedDialogueTracks===1&&dialogueRecognitionStarts===1))throw Error('First permission stream not released');
+ const count=await p.evaluate(()=>DEUTSCH_PROGRESS.snapshot().answers);await p.evaluate(()=>dialogueEmit('Tschüss!'));if(!await p.locator('#gretaConfirm').isVisible()||await p.evaluate(()=>DEUTSCH_PROGRESS.snapshot().answers)!==count)throw Error('ASR mismatch graded without review');
+ await p.click('#gretaMic');await p.evaluate(()=>dialogueError('no-speech'));if(await p.evaluate(()=>DEUTSCH_PROGRESS.snapshot().answers)!==count)throw Error('Silence counted as a wrong answer');
+ await p.click('#gretaMic');await p.evaluate(()=>dialogueEmit('Guten Tag!'));if(await p.evaluate(()=>DEUTSCH_PROGRESS.snapshot().answers)!==count+1)throw Error('Spoken reply not accepted');
+ await p.evaluate(()=>{window.speak=()=>Promise.resolve();DEUTSCH_JOURNEY.gearConversation()});await p.click('#gretaBegin');await p.waitForFunction(()=>document.querySelector('#gretaVoice').dataset.phase==='listening');await p.click('[data-greta-audio="hello"][data-greta-role="greta"]');await p.waitForFunction(()=>document.querySelector('#gretaVoice').dataset.phase==='listening');
+ await p.evaluate(()=>DEUTSCH_JOURNEY.select(0));if(!await p.evaluate(()=>dialogueRecognitionAborts>0&&!document.querySelector('[data-dialogue-voice]')))throw Error('Leaving map retained microphone');
+ if(errors.length)throw Error(errors.join(';'));console.log('PASS browser voice dialogue: automatic original actor, no writing, playback before ASR, explicit first permission, stream release, reviewed mismatch, neutral silence, accepted speech, replay and navigation cleanup');
+}finally{await browser.close()}})().catch(e=>{console.error(e);process.exit(1)});

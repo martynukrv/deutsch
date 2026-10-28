@@ -49,6 +49,8 @@ jobs:
         run: node .github/tests/artwork.cjs
       - name: Verify app behavior
         run: |
+          node .github/tests/dialogue-voice-unit.cjs
+          node .github/tests/dialogue-voice.cjs
           node .github/tests/gear-unit.cjs
           node .github/tests/gear-island.cjs
           node .github/tests/daily-islands-unit.cjs
