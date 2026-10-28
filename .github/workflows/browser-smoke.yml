@@ -20,6 +20,8 @@ jobs:
           npx playwright install --with-deps chromium
       - name: Run browser checks
         run: |
+          node .github/tests/daily-islands-unit.cjs
+          node .github/tests/daily-islands.cjs
           node .github/tests/benno-unit.cjs
           node .github/tests/benno-conversation.cjs
           node .github/tests/village-mastery.cjs
