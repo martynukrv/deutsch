@@ -1,0 +1,40 @@
+DEUTSCH 16 — ЖИВА СИТУАЦІЯ «НА РИНКУ З БЕННО» / v1
+
+БЕННО — голос ще не обраний.
+Потрібен окремий дорослий чоловічий голос: теплий, доброзичливий,
+трохи жвавий торговець. Чітка стандартна німецька, природний навчальний
+темп. Без музики, ефектів і довгих театральних пауз. Не голос Карла / Helmut.
+
+Усі шість реплік Бенно, у цьому порядку:
+Guten Tag! [pause] Hast du Hunger? [pause] Hast du Durst? [pause] Hast du Zeit? [pause] Bitte! [pause] Auf Wiedersehen!
+
+Контекст Bitte!: Бенно передає Олексію воду. Тут це «Ось, тримай!».
+
+ОЛЕКСІЙ — зафіксований голос ElevenLabs / Dylan Carter - Exaggerated & Energetic.
+Guten Tag!, Danke!, Auf Wiedersehen! уже є у записах цього голосу з розмови
+з Карлом. Апка повторно використовує саме ці три оригінальні цілі репліки.
+
+Записати потрібно лише три нові репліки Олексія, у цьому порядку:
+Ja, ich habe Hunger. [pause] Ja, ich habe Durst. [pause] Ja, ich habe Zeit.
+
+Повний текст ролі Олексія для довідки (повторно записувати старі фрази не потрібно):
+Guten Tag! [pause] Ja, ich habe Hunger. [pause] Ja, ich habe Durst. [pause] Ja, ich habe Zeit. [pause] Danke! [pause] Auf Wiedersehen!
+
+Зразок 12 реплік:
+Бенно: Guten Tag!
+Олексій: Guten Tag!
+Бенно: Hast du Hunger?
+Олексій: Ja, ich habe Hunger.
+Бенно: Hast du Durst?
+Олексій: Ja, ich habe Durst.
+Бенно: Hast du Zeit?
+Олексій: Ja, ich habe Zeit.
+Бенно передає воду: Bitte!
+Олексій: Danke!
+Бенно: Auf Wiedersehen!
+Олексій: Auf Wiedersehen!
+
+Під час самостійного проходження три запитання можуть мінятися місцями.
+Записи прив’язуються за роллю й точним текстом цілої фрази, а не за позицією
+питання в поточній розмові. Не склеювати речення з окремих слів і не
+підміняти відсутню репліку браузерним TTS чи голосом іншого персонажа.

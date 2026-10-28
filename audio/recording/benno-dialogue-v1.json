@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "castRegistry": "audio/recording/dialogue-voices-v1.json",
+  "bindingRule": "role-and-exact-whole-phrase",
+  "items": [
+    {
+      "id": "benno_hello",
+      "role": "benno",
+      "phraseId": "hello",
+      "text": "Guten Tag!",
+      "status": "awaiting-recording",
+      "path": null
+    },
+    {
+      "id": "you_hello",
+      "role": "you",
+      "phraseId": "hello",
+      "text": "Guten Tag!",
+      "status": "reused-original",
+      "path": "audio/dialogue/oleksii-dylan-20261024/oleksii_01_greeting.mp3"
+    },
+    {
+      "id": "benno_hunger",
+      "role": "benno",
+      "phraseId": "hunger",
+      "text": "Hast du Hunger?",
+      "status": "awaiting-recording",
+      "path": null
+    },
+    {
+      "id": "you_hunger",
+      "role": "you",
+      "phraseId": "hunger",
+      "text": "Ja, ich habe Hunger.",
+      "status": "awaiting-recording",
+      "path": null
+    },
+    {
+      "id": "benno_thirst",
+      "role": "benno",
+      "phraseId": "thirst",
+      "text": "Hast du Durst?",
+      "status": "awaiting-recording",
+      "path": null
+    },
+    {
+      "id": "you_thirst",
+      "role": "you",
+      "phraseId": "thirst",
+      "text": "Ja, ich habe Durst.",
+      "status": "awaiting-recording",
+      "path": null
+    },
+    {
+      "id": "benno_time",
+      "role": "benno",
+      "phraseId": "time",
+      "text": "Hast du Zeit?",
+      "status": "awaiting-recording",
+      "path": null
+    },
+    {
+      "id": "you_time",
+      "role": "you",
+      "phraseId": "time",
+      "text": "Ja, ich habe Zeit.",
+      "status": "awaiting-recording",
+      "path": null
+    },
+    {
+      "id": "benno_thanks",
+      "role": "benno",
+      "phraseId": "thanks",
+      "text": "Bitte!",
+      "status": "awaiting-recording",
+      "path": null
+    },
+    {
+      "id": "you_thanks",
+      "role": "you",
+      "phraseId": "thanks",
+      "text": "Danke!",
+      "status": "reused-original",
+      "path": "audio/dialogue/oleksii-dylan-20261024/oleksii_07_thanks.mp3"
+    },
+    {
+      "id": "benno_bye",
+      "role": "benno",
+      "phraseId": "bye",
+      "text": "Auf Wiedersehen!",
+      "status": "awaiting-recording",
+      "path": null
+    },
+    {
+      "id": "you_bye",
+      "role": "you",
+      "phraseId": "bye",
+      "text": "Auf Wiedersehen!",
+      "status": "reused-original",
+      "path": "audio/dialogue/oleksii-dylan-20261024/oleksii_08_goodbye.mp3"
+    }
+  ],
+  "newRecordings": 9,
+  "reusedRecordings": 3
+}
