@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "batch": "oleksii-dylan-city-20261029",
+  "role": "oleksii",
+  "voiceName": "Dylan Carter - Exaggerated & Energetic",
+  "originalFilename": "ElevenLabs_2026-10-29T19_21_09_Dylan Carter - Exaggerated & Energetic_pvc_sp100_s50_sb47_v4.mp3",
+  "source_file": "audio-sources/oleksii-dylan-city-20261029/original.mp3",
+  "source_sha256": "4c64d746432fcf4fe8fe1fcff36dafa9c81d5547622468a752cb1363315f9e84",
+  "source_duration": 10.031,
+  "splitMethod": "Five supplied lines; silence >=350ms below -38dB; retain 120ms padding; no synthesis or word assembly",
+  "entries": [
+    {
+      "id": "city_01",
+      "text": "Hallo!",
+      "path": "audio/dialogue/oleksii-dylan-city-20261029/oleksii_01.mp3",
+      "source_start": 0,
+      "speech_end": 0.504331,
+      "source_end": 0.624331,
+      "duration": 0.624331,
+      "sha256": "8e35bb10f30406c801fd87c05c7c3e218f6548e3c70dadc1f9e759c1681d883e",
+      "verification": "user-supplied-five-line-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "city_02",
+      "text": "Entschuldigung, wo ist der Bahnhof?",
+      "path": "audio/dialogue/oleksii-dylan-city-20261029/oleksii_02.mp3",
+      "source_start": 1.52923,
+      "speech_end": 3.71531,
+      "source_end": 3.83531,
+      "duration": 2.30608,
+      "sha256": "570d2fea1be420f02d00b3e22db2ef8af2c739ab3880fb95fd5c10bb5081cfd3",
+      "verification": "user-supplied-five-line-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "city_03",
+      "text": "Geradeaus und dann nach links?",
+      "path": "audio/dialogue/oleksii-dylan-city-20261029/oleksii_03.mp3",
+      "source_start": 4.55909,
+      "speech_end": 6.50492,
+      "source_end": 6.62492,
+      "duration": 2.06583,
+      "sha256": "437da2cea279481f70266f76246c5992343a04a1a96bec072865fa4de6c3d1ba",
+      "verification": "user-supplied-five-line-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "city_04",
+      "text": "Wo ist die Schule?",
+      "path": "audio/dialogue/oleksii-dylan-city-20261029/oleksii_04.mp3",
+      "source_start": 7.27347,
+      "speech_end": 8.22327,
+      "source_end": 8.34327,
+      "duration": 1.0698000000000008,
+      "sha256": "6f98f0bb2815d7e72b11ad35109d2d944ae6818e4ea12b9082f1f67c022ea3f3",
+      "verification": "user-supplied-five-line-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "city_05",
+      "text": "Vielen Dank!",
+      "path": "audio/dialogue/oleksii-dylan-city-20261029/oleksii_05.mp3",
+      "source_start": 8.8832,
+      "speech_end": 9.63776,
+      "source_end": 9.75776,
+      "duration": 0.8745599999999989,
+      "sha256": "a85a305045c1bbc328aa09529c3cb9525b0f4282514fa7d8e1417b5b1d785449",
+      "verification": "user-supplied-five-line-script-order-and-silence-boundaries"
+    }
+  ]
+}

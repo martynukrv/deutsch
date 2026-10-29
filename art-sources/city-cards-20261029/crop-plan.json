@@ -1,0 +1,446 @@
+[
+  {
+    "file": "card-00.webp",
+    "source": "places-where-directions.png",
+    "box": [
+      0,
+      0,
+      256,
+      332
+    ]
+  },
+  {
+    "file": "card-01.webp",
+    "source": "places-where-directions.png",
+    "box": [
+      256,
+      0,
+      512,
+      332
+    ]
+  },
+  {
+    "file": "card-02.webp",
+    "source": "places-where-directions.png",
+    "box": [
+      512,
+      0,
+      768,
+      332
+    ]
+  },
+  {
+    "file": "card-03.webp",
+    "source": "places-where-directions.png",
+    "box": [
+      768,
+      0,
+      1024,
+      332
+    ]
+  },
+  {
+    "file": "card-04.webp",
+    "source": "places-where-directions.png",
+    "box": [
+      1024,
+      0,
+      1280,
+      332
+    ]
+  },
+  {
+    "file": "card-05.webp",
+    "source": "places-where-directions.png",
+    "box": [
+      1280,
+      0,
+      1536,
+      332
+    ]
+  },
+  {
+    "file": "card-06.webp",
+    "source": "places-where-directions.png",
+    "box": [
+      0,
+      332,
+      256,
+      683
+    ]
+  },
+  {
+    "file": "card-07.webp",
+    "source": "places-where-directions.png",
+    "box": [
+      256,
+      332,
+      512,
+      683
+    ]
+  },
+  {
+    "file": "card-08.webp",
+    "source": "places-where-directions.png",
+    "box": [
+      512,
+      332,
+      768,
+      683
+    ]
+  },
+  {
+    "file": "card-09.webp",
+    "source": "places-where-directions.png",
+    "box": [
+      768,
+      332,
+      1024,
+      683
+    ]
+  },
+  {
+    "file": "card-10.webp",
+    "source": "places-where-directions.png",
+    "box": [
+      1024,
+      332,
+      1280,
+      683
+    ]
+  },
+  {
+    "file": "card-11.webp",
+    "source": "places-where-directions.png",
+    "box": [
+      1280,
+      332,
+      1536,
+      683
+    ]
+  },
+  {
+    "file": "card-12.webp",
+    "source": "places-where-directions.png",
+    "box": [
+      0,
+      683,
+      256,
+      1024
+    ]
+  },
+  {
+    "file": "card-13.webp",
+    "source": "places-where-directions.png",
+    "box": [
+      256,
+      683,
+      512,
+      1024
+    ]
+  },
+  {
+    "file": "card-14.webp",
+    "source": "places-where-directions.png",
+    "box": [
+      512,
+      683,
+      768,
+      1024
+    ]
+  },
+  {
+    "file": "card-15.webp",
+    "source": "places-where-directions.png",
+    "box": [
+      768,
+      683,
+      1024,
+      1024
+    ]
+  },
+  {
+    "file": "card-16.webp",
+    "source": "places-where-directions.png",
+    "box": [
+      1024,
+      683,
+      1280,
+      1024
+    ]
+  },
+  {
+    "file": "card-17.webp",
+    "source": "places-where-directions.png",
+    "box": [
+      1280,
+      683,
+      1536,
+      1024
+    ]
+  },
+  {
+    "file": "card-18.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      0,
+      0,
+      256,
+      256
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-19.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      256,
+      0,
+      512,
+      256
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-20.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      512,
+      0,
+      768,
+      256
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-21.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      768,
+      0,
+      1024,
+      256
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-22.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      1024,
+      0,
+      1280,
+      256
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-23.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      1280,
+      0,
+      1536,
+      256
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-24.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      0,
+      256,
+      256,
+      512
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-25.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      256,
+      256,
+      512,
+      512
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-26.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      512,
+      256,
+      768,
+      512
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-27.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      768,
+      256,
+      1024,
+      512
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-28.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      1024,
+      256,
+      1280,
+      512
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-29.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      1280,
+      256,
+      1536,
+      512
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-30.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      0,
+      512,
+      256,
+      768
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-31.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      256,
+      512,
+      512,
+      768
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-32.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      512,
+      512,
+      768,
+      768
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-33.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      768,
+      512,
+      1024,
+      768
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-34.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      1024,
+      512,
+      1280,
+      768
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-35.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      1280,
+      512,
+      1536,
+      768
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-36.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      0,
+      768,
+      256,
+      1024
+    ],
+    "mirror": true
+  },
+  {
+    "file": "card-37.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      256,
+      768,
+      512,
+      1024
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-38.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      512,
+      768,
+      768,
+      1024
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-39.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      768,
+      768,
+      1024,
+      1024
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-40.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      1024,
+      768,
+      1280,
+      1024
+    ],
+    "mirror": false
+  },
+  {
+    "file": "card-41.webp",
+    "source": "instructions-polite-dialogue-landmarks.png",
+    "box": [
+      1280,
+      768,
+      1536,
+      1024
+    ],
+    "mirror": false
+  }
+]

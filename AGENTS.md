@@ -27,3 +27,5 @@ On 17 October 2026 the user explicitly selected the original food sheet (Playful
 On 17 October 2026 the user requested signature short tapered navy/orange accent dashes beside each illustration, matching the food artwork. Include these marks in future vocabulary illustrations and retain them when cropping.
 
 On 17 October 2026 the user extended immediate one-version generation/cropping/publication to ALL remaining vocabulary categories, sequentially. Preserve all already replaced artwork.
+
+On 29 October 2026 the user explicitly authorized publishing all prepared app changes to martynukrv/deutsch main and instructed the assistant to upload/publish future completed changes to this app without waiting for additional confirmation. Continue required verification and inspect deployment results before reporting publication.

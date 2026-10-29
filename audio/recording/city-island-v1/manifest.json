@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "status": "awaiting-recordings",
+  "status": "recordings-complete",
   "neutral": {
     "voiceName": "Henri - Professional German",
     "file": "neutral-henri.txt",
@@ -70,5 +70,10 @@
       "Vielen Dank!",
       "Auf Wiedersehen!"
     ]
-  }
+  },
+  "sources": [
+    "audio-sources/henri-city-20261029/manifest.json",
+    "audio-sources/karl-helmut-city-20261029/manifest.json",
+    "audio-sources/oleksii-dylan-city-20261029/manifest.json"
+  ]
 }

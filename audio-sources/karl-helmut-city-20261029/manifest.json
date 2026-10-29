@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "batch": "karl-helmut-city-20261029",
+  "role": "karl",
+  "voiceName": "Helmut - Distinctive and Authentic",
+  "originalFilename": "ElevenLabs_2026-10-29T19_30_32_Helmut - Distinctive and Authentic_pvc_sp100_s100_sb51_v4(1).mp3",
+  "source_file": "audio-sources/karl-helmut-city-20261029/original.mp3",
+  "source_sha256": "db0a8a8309fe4bbb11393480ce1dcbbfded498cf9f51ab4fb34f41d20224a8d8",
+  "source_duration": 10.8408,
+  "splitMethod": "Six supplied lines; silence >=350ms below -38dB; retain 120ms padding; no synthesis or word assembly",
+  "entries": [
+    {
+      "id": "city_01",
+      "text": "Hallo!",
+      "path": "audio/dialogue/karl-helmut-city-20261029/karl_01.mp3",
+      "source_start": 0,
+      "speech_end": 0.508912,
+      "source_end": 0.628912,
+      "duration": 0.628912,
+      "sha256": "7558000bbc0a6f38e08ac5ac108049eba2a45ac12b7bbcd68056d98a431b8b55",
+      "verification": "user-supplied-six-line-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "city_02",
+      "text": "Brauchst du Hilfe?",
+      "path": "audio/dialogue/karl-helmut-city-20261029/karl_02.mp3",
+      "source_start": 1.07896,
+      "speech_end": 2.01637,
+      "source_end": 2.13637,
+      "duration": 1.05741,
+      "sha256": "17482248646b5eda81765125f6b38410a016d3b792978d3e3565308bb9b86858",
+      "verification": "user-supplied-six-line-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "city_03",
+      "text": "Geh geradeaus und dann nach links.",
+      "path": "audio/dialogue/karl-helmut-city-20261029/karl_03.mp3",
+      "source_start": 2.51451,
+      "speech_end": 4.85383,
+      "source_end": 4.97383,
+      "duration": 2.4593200000000004,
+      "sha256": "8c679a2ca6b6a8e4e264c1f2fdd2cc85f452e15653dde905fa7a886476bcd70a",
+      "verification": "user-supplied-six-line-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "city_04",
+      "text": "Ja, genau.",
+      "path": "audio/dialogue/karl-helmut-city-20261029/karl_04.mp3",
+      "source_start": 5.25721,
+      "speech_end": 6.22478,
+      "source_end": 6.34478,
+      "duration": 1.0875700000000004,
+      "sha256": "23c119bec5277ed77dc60b9a3ac779257787162acc5cd5ed04fb60b818921b7c",
+      "verification": "user-supplied-six-line-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "city_05",
+      "text": "Geh geradeaus und dann nach rechts.",
+      "path": "audio/dialogue/karl-helmut-city-20261029/karl_05.mp3",
+      "source_start": 6.67172,
+      "speech_end": 9.08671,
+      "source_end": 9.20671,
+      "duration": 2.5349899999999996,
+      "sha256": "77cab291dfe696ab6f1dac6ba240e4e07bc0d78a78fd9b30516824d693b6a1ff",
+      "verification": "user-supplied-six-line-script-order-and-silence-boundaries"
+    },
+    {
+      "id": "city_06",
+      "text": "Gute Reise!",
+      "path": "audio/dialogue/karl-helmut-city-20261029/karl_06.mp3",
+      "source_start": 9.51789,
+      "speech_end": 10.4051,
+      "source_end": 10.5251,
+      "duration": 1.0072100000000006,
+      "sha256": "dc7682a53a16e26e0c87fe201a1a8f9210e9b515dc8a23893ab01131f5372261",
+      "verification": "user-supplied-six-line-script-order-and-silence-boundaries"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "version": 1,
+  "batch": "henri-city-20261029",
+  "voiceName": "Henri - Professional German",
+  "originalFilename": "ElevenLabs_2026-10-29T20_30_07_Henri - Professional German_pvc_sp101_s32_sb60_v4.mp3",
+  "source_file": "audio-sources/henri-city-20261029/original.mp3",
+  "source_sha256": "48876f8ec16c3a9b470d340b63939ebc559950e367eb18419ed6e79708e6d26d",
+  "entries": [
+    {
+      "text": "die Brücke",
+      "path": "audio/dialogue/henri-city-20261029/henri_01.mp3",
+      "source_start": 0,
+      "source_end": 0.85576,
+      "sha256": "fc0b714a16da7ba1050cacc11f53b96bd32ec11ec970c267cb9df5d6e50530d0",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Wo ist der Bahnhof?",
+      "path": "audio/dialogue/henri-city-20261029/henri_02.mp3",
+      "source_start": 1.51723,
+      "source_end": 2.91136,
+      "sha256": "79dd334849937a6c05cec60e5b2ffeb9d922c9f25d6a6f9ebd5c2f1b0472ad22",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Wo ist die Schule?",
+      "path": "audio/dialogue/henri-city-20261029/henri_03.mp3",
+      "source_start": 3.52181,
+      "source_end": 4.70188,
+      "sha256": "08d87b9834241ecbe3267f809f3a66a4f0337f3db50732bd4663cfa546f06720",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Wo ist der Park?",
+      "path": "audio/dialogue/henri-city-20261029/henri_04.mp3",
+      "source_start": 5.30483,
+      "source_end": 6.57875,
+      "sha256": "e301d7583b3548ea8194e8d9f4526837f20251028ec6e6d0f245ac5937b031c0",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Wo ist die Brücke?",
+      "path": "audio/dialogue/henri-city-20261029/henri_05.mp3",
+      "source_start": 7.19825,
+      "source_end": 8.39336,
+      "sha256": "731f942fcdcc9ad69bb11b72feeb444c5d469a423fa9d8fb44525e725d72c420",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Wo ist die Stadt?",
+      "path": "audio/dialogue/henri-city-20261029/henri_06.mp3",
+      "source_start": 8.967410000000001,
+      "source_end": 10.1884,
+      "sha256": "fac4707882e939e179a667569bb001ed82f42b12fac86b5bd73f570773c89e7d",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Wo ist die Straße?",
+      "path": "audio/dialogue/henri-city-20261029/henri_07.mp3",
+      "source_start": 10.731100000000001,
+      "source_end": 12.0993,
+      "sha256": "d3cc0f3b08fde5b52fd77247bffef57f94452299d93064645011cb24d1eb874c",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "zurück",
+      "path": "audio/dialogue/henri-city-20261029/henri_08.mp3",
+      "source_start": 12.574000000000002,
+      "source_end": 13.399,
+      "sha256": "c05dc330681eacbaf0cfa466e34873d30667fca9f20e10b4ad508745ab0c92a3",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Geh geradeaus.",
+      "path": "audio/dialogue/henri-city-20261029/henri_09.mp3",
+      "source_start": 13.8359,
+      "source_end": 15.145999999999999,
+      "sha256": "f12218c66221649c9a2e419f5b8242decb9898f88944faa60c1830527ea0dfce",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Geh nach links.",
+      "path": "audio/dialogue/henri-city-20261029/henri_10.mp3",
+      "source_start": 15.572000000000001,
+      "source_end": 16.669700000000002,
+      "sha256": "5b221dc9cd2b8f7bb9eb4d67e5ae90ee02fa704e45d20d87f17953b7bcaa356e",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Geh nach rechts.",
+      "path": "audio/dialogue/henri-city-20261029/henri_11.mp3",
+      "source_start": 17.029999999999998,
+      "source_end": 18.177200000000003,
+      "sha256": "fe27e081dc7a85b0652f4e4bc43a69501678eb4036889acdbd27c72aa7c8b20d",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Geh zurück.",
+      "path": "audio/dialogue/henri-city-20261029/henri_12.mp3",
+      "source_start": 18.627399999999998,
+      "source_end": 19.6106,
+      "sha256": "ae2f3463228011ce539d60148532d1e9a5361d1b6afc0fd4a957a850466a9bcc",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Geh geradeaus und dann nach links.",
+      "path": "audio/dialogue/henri-city-20261029/henri_13.mp3",
+      "source_start": 20.09,
+      "source_end": 22.5061,
+      "sha256": "6f7ff4b710bd2389bce4a1e19e53fe280be2ace182f8f73040a7c54a52de7519",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Geh geradeaus und dann nach rechts.",
+      "path": "audio/dialogue/henri-city-20261029/henri_14.mp3",
+      "source_start": 22.946099999999998,
+      "source_end": 25.451,
+      "sha256": "405ee6981a252a95f0a1f2ef4fefd9c870bc773c8f175dbf6429e1e9822f7104",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Wo ist der Bahnhof, bitte?",
+      "path": "audio/dialogue/henri-city-20261029/henri_15.mp3",
+      "source_start": 25.8696,
+      "source_end": 27.463900000000002,
+      "sha256": "2a09a25e615e54eb5847978c072bb3cafd6ba381e4b7bc6229a87cd26ff923b2",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Ist der Park hier?",
+      "path": "audio/dialogue/henri-city-20261029/henri_16.mp3",
+      "source_start": 27.9603,
+      "source_end": 29.1366,
+      "sha256": "ebf507c048db96668dd332ac534db3ce1d79431441342924ff82837a9364b20f",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Ja, der Park ist hier.",
+      "path": "audio/dialogue/henri-city-20261029/henri_17.mp3",
+      "source_start": 29.6011,
+      "source_end": 31.283900000000003,
+      "sha256": "09394794de022f438059d048dee4a08febcfb01578110ee35d4afaa1ac1b417a",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Nein, der Park ist dort.",
+      "path": "audio/dialogue/henri-city-20261029/henri_18.mp3",
+      "source_start": 31.5979,
+      "source_end": 33.4715,
+      "sha256": "aaea6f67418384f078eaa388d09e2164dcbddf956f096b5fa55fd386f03e18d2",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Vielen Dank!",
+      "path": "audio/dialogue/henri-city-20261029/henri_19.mp3",
+      "source_start": 33.763600000000004,
+      "source_end": 34.740399999999994,
+      "sha256": "586898a21edb693c8b67d0f097eed1373994030b2028abd00527eb78b7125a4b",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Entschuldigung, wo ist der Bahnhof?",
+      "path": "audio/dialogue/henri-city-20261029/henri_20.mp3",
+      "source_start": 35.080600000000004,
+      "source_end": 37.3195,
+      "sha256": "be46745e0adf37b92e10b56d67a4a6e976382276f417cd74cdac5fb1c74d0303",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Geradeaus und dann nach links?",
+      "path": "audio/dialogue/henri-city-20261029/henri_21.mp3",
+      "source_start": 37.6338,
+      "source_end": 39.701499999999996,
+      "sha256": "1a024f1a20e7f5cbdb5d81a40c7ead31755bcfe3fd45edd7bb0e2df5b8f911e1",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Der Bahnhof ist links.",
+      "path": "audio/dialogue/henri-city-20261029/henri_22.mp3",
+      "source_start": 40.0505,
+      "source_end": 41.555299999999995,
+      "sha256": "fa7fbccd2794b3923e9b474172f93d6d6bca235636ec5ed55974d75c281a8601",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Die Schule ist rechts.",
+      "path": "audio/dialogue/henri-city-20261029/henri_23.mp3",
+      "source_start": 41.823800000000006,
+      "source_end": 43.4527,
+      "sha256": "366c41f06f3a405bbebcf4b0e1756228b3911fd042be0a6f25f0ba0bbfc449ae",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Der Park ist hier.",
+      "path": "audio/dialogue/henri-city-20261029/henri_24.mp3",
+      "source_start": 43.7305,
+      "source_end": 45.0051,
+      "sha256": "764569fc0fbfe5c592116c0fadb8fa57bfd659048dd5be220d3a86c593d4d388",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Die Brücke ist dort.",
+      "path": "audio/dialogue/henri-city-20261029/henri_25.mp3",
+      "source_start": 45.3183,
+      "source_end": 46.769099999999995,
+      "sha256": "1b8d43a6e4ab27f9d6e059c928ad96f963f93ebdf404b593926976387bb813bb",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Die Stadt ist geradeaus.",
+      "path": "audio/dialogue/henri-city-20261029/henri_26.mp3",
+      "source_start": 47.0367,
+      "source_end": 48.9,
+      "sha256": "7f35f703fb4d1f033fd8096b2c8ccf1df029b2cd12cf2a8630beba6ed909d279",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    },
+    {
+      "text": "Die Straße ist hier.",
+      "path": "audio/dialogue/henri-city-20261029/henri_27.mp3",
+      "source_start": 49.094,
+      "source_end": 50.762,
+      "sha256": "796d234e138e416738dff27333d60685f9b62cc402d09cac876897a3d5d99816",
+      "verification": "supplied-script-order-and-27-silence-separated-phrases"
+    }
+  ]
+}

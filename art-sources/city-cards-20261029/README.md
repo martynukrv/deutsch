@@ -1,0 +1,1 @@
+Built-in image generation; fixed navy/orange/cream/white cartoon palette. User requested immediate drawing and insertion. Original sheets and visually checked crop rectangles preserved. Station-left scene mirrored to match direction. All 42 lesson cards bound by exact text in city-island.js. No existing art replaced.

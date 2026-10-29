@@ -1,2 +1,61 @@
-/* Exact whole-line recordings. Keys use DEUTSCH_CITY.key; fill from approved source manifests. */
-window.DEUTSCH_CITY_RECORDINGS={neutral:{},karl:{},you:{}};
+/* Exact whole recordings: supplied actor audio and existing neutral clips. */
+window.DEUTSCH_CITY_RECORDINGS={
+  "neutral": {
+    "die stadt": "audio/a283_die_Stadt.mp3",
+    "der bahnhof": "audio/a286_der_Bahnhof.mp3",
+    "die schule": "audio/a216_die_Schule.mp3",
+    "der park": "audio/a287_der_Park.mp3",
+    "die straße": "audio/a284_die_Strasse.mp3",
+    "links": "audio/henri-course-part3-20261018/rq095_course_8780a6589f28.mp3",
+    "rechts": "audio/henri-course-part3-20261018/rq096_course_fb04a536667e.mp3",
+    "geradeaus": "audio/henri-course-part3-20261018/rq097_course_2a195abb2638.mp3",
+    "hier": "audio/a256_hier.mp3",
+    "dort": "audio/a257_dort.mp3",
+    "entschuldigung": "audio/a167_Entschuldigung.mp3",
+    "hallo": "audio/a159_Hallo.mp3",
+    "auf wiedersehen": "audio/a164_Auf_Wiedersehen.mp3",
+    "die brücke": "audio/dialogue/henri-city-20261029/henri_01.mp3",
+    "wo ist der bahnhof": "audio/dialogue/henri-city-20261029/henri_02.mp3",
+    "wo ist die schule": "audio/dialogue/henri-city-20261029/henri_03.mp3",
+    "wo ist der park": "audio/dialogue/henri-city-20261029/henri_04.mp3",
+    "wo ist die brücke": "audio/dialogue/henri-city-20261029/henri_05.mp3",
+    "wo ist die stadt": "audio/dialogue/henri-city-20261029/henri_06.mp3",
+    "wo ist die straße": "audio/dialogue/henri-city-20261029/henri_07.mp3",
+    "zurück": "audio/dialogue/henri-city-20261029/henri_08.mp3",
+    "geh geradeaus": "audio/dialogue/henri-city-20261029/henri_09.mp3",
+    "geh nach links": "audio/dialogue/henri-city-20261029/henri_10.mp3",
+    "geh nach rechts": "audio/dialogue/henri-city-20261029/henri_11.mp3",
+    "geh zurück": "audio/dialogue/henri-city-20261029/henri_12.mp3",
+    "geh geradeaus und dann nach links": "audio/dialogue/henri-city-20261029/henri_13.mp3",
+    "geh geradeaus und dann nach rechts": "audio/dialogue/henri-city-20261029/henri_14.mp3",
+    "wo ist der bahnhof bitte": "audio/dialogue/henri-city-20261029/henri_15.mp3",
+    "ist der park hier": "audio/dialogue/henri-city-20261029/henri_16.mp3",
+    "ja der park ist hier": "audio/dialogue/henri-city-20261029/henri_17.mp3",
+    "nein der park ist dort": "audio/dialogue/henri-city-20261029/henri_18.mp3",
+    "vielen dank": "audio/dialogue/henri-city-20261029/henri_19.mp3",
+    "entschuldigung wo ist der bahnhof": "audio/dialogue/henri-city-20261029/henri_20.mp3",
+    "geradeaus und dann nach links": "audio/dialogue/henri-city-20261029/henri_21.mp3",
+    "der bahnhof ist links": "audio/dialogue/henri-city-20261029/henri_22.mp3",
+    "die schule ist rechts": "audio/dialogue/henri-city-20261029/henri_23.mp3",
+    "der park ist hier": "audio/dialogue/henri-city-20261029/henri_24.mp3",
+    "die brücke ist dort": "audio/dialogue/henri-city-20261029/henri_25.mp3",
+    "die stadt ist geradeaus": "audio/dialogue/henri-city-20261029/henri_26.mp3",
+    "die straße ist hier": "audio/dialogue/henri-city-20261029/henri_27.mp3"
+  },
+  "karl": {
+    "hallo": "audio/dialogue/karl-helmut-city-20261029/karl_01.mp3",
+    "brauchst du hilfe": "audio/dialogue/karl-helmut-city-20261029/karl_02.mp3",
+    "geh geradeaus und dann nach links": "audio/dialogue/karl-helmut-city-20261029/karl_03.mp3",
+    "ja genau": "audio/dialogue/karl-helmut-city-20261029/karl_04.mp3",
+    "geh geradeaus und dann nach rechts": "audio/dialogue/karl-helmut-city-20261029/karl_05.mp3",
+    "gute reise": "audio/dialogue/karl-helmut-city-20261029/karl_06.mp3"
+  },
+  "you": {
+    "auf wiedersehen": "audio/dialogue/oleksii-dylan-20261024/oleksii_08_goodbye.mp3",
+    "hallo": "audio/dialogue/oleksii-dylan-city-20261029/oleksii_01.mp3",
+    "entschuldigung wo ist der bahnhof": "audio/dialogue/oleksii-dylan-city-20261029/oleksii_02.mp3",
+    "geradeaus und dann nach links": "audio/dialogue/oleksii-dylan-city-20261029/oleksii_03.mp3",
+    "wo ist die schule": "audio/dialogue/oleksii-dylan-city-20261029/oleksii_04.mp3",
+    "vielen dank": "audio/dialogue/oleksii-dylan-city-20261029/oleksii_05.mp3"
+  }
+};
