@@ -9,6 +9,10 @@ const {chromium}=require('playwright'),{pathToFileURL}=require('url'),path=requi
  if(!await p.evaluate(()=>stoppedDialogueTracks===1&&dialogueRecognitionStarts===1))throw Error('First permission stream not released');
  const count=await p.evaluate(()=>DEUTSCH_PROGRESS.snapshot().answers);await p.evaluate(()=>dialogueEmit('Tschüss!'));if(!await p.locator('#gretaConfirm').isVisible()||await p.evaluate(()=>DEUTSCH_PROGRESS.snapshot().answers)!==count)throw Error('ASR mismatch graded without review');
  await p.click('#gretaMic');await p.evaluate(()=>dialogueError('no-speech'));if(await p.evaluate(()=>DEUTSCH_PROGRESS.snapshot().answers)!==count)throw Error('Silence counted as a wrong answer');
+ for(const [error,phase,copy] of [['audio-capture','microphone','Мікрофон недоступний'],['network','network','Перевір інтернет']]){
+  await p.click('#gretaMic');await p.evaluate(error=>dialogueError(error),error);await p.waitForFunction(phase=>document.querySelector('#gretaVoice').dataset.phase===phase,phase);
+  if(!(await p.locator('#gretaVoiceStatus').textContent()).includes(copy)||await p.evaluate(()=>DEUTSCH_PROGRESS.snapshot().answers)!==count)throw Error('Microphone/network failure has wrong guidance or changed grade');
+ }
  await p.click('#gretaMic');await p.evaluate(()=>dialogueEmit('Guten Tag!'));if(await p.evaluate(()=>DEUTSCH_PROGRESS.snapshot().answers)!==count+1)throw Error('Spoken reply not accepted');
  await p.evaluate(()=>{window.speak=()=>Promise.resolve();DEUTSCH_JOURNEY.gearConversation()});await p.click('#gretaBegin');await p.waitForFunction(()=>document.querySelector('#gretaVoice').dataset.phase==='listening');await p.click('[data-greta-audio="hello"][data-greta-role="greta"]');await p.waitForFunction(()=>document.querySelector('#gretaVoice').dataset.phase==='listening');
  await p.evaluate(()=>DEUTSCH_JOURNEY.select(0));if(!await p.evaluate(()=>dialogueRecognitionAborts>0&&!document.querySelector('[data-dialogue-voice]')))throw Error('Leaving map retained microphone');
