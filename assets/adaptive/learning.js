@@ -275,4 +275,5 @@ window.DEUTSCH_JOURNEY={get key(){return journeyKey},get lessons(){return journe
 window.DEUTSCH_ADAPTIVE={dailyPlan,dailyStart,key,stages,art,optionsFor,category:c=>c.group,lettersFor,plan,start,answer,skip,render,cancel,snapshot:()=>session};
 const original=setMode;window.setMode=function(mode){if(currentMode==='learning'&&mode!=='learning')cancel();original(mode);root.hidden=mode!=='learning';document.getElementById('learningTab').classList.toggle('active',mode==='learning');if(mode==='learning'){document.getElementById('sidebar').innerHTML='';render()}};
 document.getElementById('learningTab').onclick=()=>setMode('learning');
+setMode('learning');
 })();
