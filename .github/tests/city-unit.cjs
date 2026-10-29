@@ -1,0 +1,13 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert/strict');
+const ctx={window:{},document:{documentElement:{lang:'uk'}},recordedAudioFiles:()=>null,profileStorage:{getItem:()=>null}};vm.createContext(ctx);
+for(const name of ['city-data','city-recordings','city-island','city-conversation'])vm.runInContext(fs.readFileSync('assets/adaptive/'+name+'.js','utf8'),ctx);
+const d=ctx.window.DEUTSCH_CITY_DATA,c=ctx.window.DEUTSCH_CITY,talk=ctx.window.DEUTSCH_CITY_CONVERSATION;
+assert.equal(d.lessons.length,7);assert.equal(new Set(d.lessons.map(l=>l.id)).size,7);
+for(const l of d.lessons){assert.equal(l.cards.length,6);assert.equal(new Set(l.cards.map(c=>c.de)).size,6);assert(l.rule.every(s=>s.length>150));assert(d.actors.some(a=>a.id===l.actor));assert(l.stop.x>0&&l.stop.x<100&&l.stop.y>0&&l.stop.y<85)}
+assert.equal(d.awards.length,7);assert.equal(new Set(d.awards.map(a=>a.lesson)).size,7);
+const taught=new Set(d.lessons.flatMap(l=>l.cards.map(c=>c.de)));for(let i=0;i<talk.turns.length;i++){const q=talk.turns[i];assert(taught.has(q.you));assert(talk.match(i,q.you.toUpperCase()));assert(!talk.match(i,'falsche Antwort'));assert(q.ua&&q.en&&q.cue.length===2)}
+const tasks=c.plan();assert.equal(tasks.length,10);assert.equal(tasks.filter(q=>q.type==='place').length,4);let p=[1,2];for(const q of tasks){assert(taught.has(q.text));if(q.type==='move'){p=c.step(p,q.answer);assert(p)}}assert.deepEqual(Array.from(p),[2,1]);assert.equal(c.step([0,0],'left'),null);assert.equal(c.step([2,2],'right'),null);assert.equal(c.step([1,1],'unknown'),null);
+assert.equal(c.key('  STRAẞE! '),'straße');assert.equal(c.recording('not recorded'),null);
+const manifest=JSON.parse(fs.readFileSync('audio/recording/city-island-v1/manifest.json'));assert.equal(manifest.status,'awaiting-recordings');assert.equal(manifest.neutral.lines.length,new Set(d.lessons.flatMap(l=>l.cards.map(c=>c.de))).size);assert.deepEqual(manifest.you.lines,JSON.parse(JSON.stringify(talk.turns.map(q=>q.you))));assert.deepEqual(manifest.karl.lines,JSON.parse(JSON.stringify(talk.turns.map(q=>q.karl))));for(const role of ['neutral','karl','you'])assert.equal(fs.readFileSync('audio/recording/city-island-v1/'+manifest[role].file,'utf8').trim().split(/\n\n/).length,manifest[role].lines.length);
+for(const file of ['city-island-20261029.webp','city-gate-key-20261029.webp'])assert(fs.existsSync('assets/illustrations/expedition/'+file));
+console.log('PASS city: seven six-card lessons, complete bilingual theory, stable awards, taught dialogue replies, exact recording scripts, ten-task bounded route to the gate, preserved artwork');

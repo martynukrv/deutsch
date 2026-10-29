@@ -1,0 +1,572 @@
+{
+  "version": 1,
+  "title": [
+    "Міський штурман",
+    "Town navigator"
+  ],
+  "lessons": [
+    {
+      "id": "city-places",
+      "title": [
+        "Місця в місті",
+        "Places in town"
+      ],
+      "rule": [
+        "Вивчай назви місць разом з артиклями: die Stadt — місто, der Bahnhof — вокзал, die Schule — школа, der Park — парк, die Straße — вулиця, die Brücke — міст. Іменники пишемо з великої літери. Артиклі допоможуть правильно поставити запитання у наступному уроці.",
+        "Learn place names with their articles: die Stadt, der Bahnhof, die Schule, der Park, die Straße, die Brücke. German nouns start with capital letters. Keep the article with each noun; you will use it in questions next."
+      ],
+      "goal": [
+        "Назвати шість місць із правильними артиклями.",
+        "Name six places with their articles."
+      ],
+      "actor": "karl",
+      "cards": [
+        {
+          "de": "die Stadt",
+          "ua": "місто",
+          "en": "city"
+        },
+        {
+          "de": "der Bahnhof",
+          "ua": "вокзал",
+          "en": "railway station"
+        },
+        {
+          "de": "die Schule",
+          "ua": "школа",
+          "en": "school"
+        },
+        {
+          "de": "der Park",
+          "ua": "парк",
+          "en": "park"
+        },
+        {
+          "de": "die Straße",
+          "ua": "вулиця",
+          "en": "street"
+        },
+        {
+          "de": "die Brücke",
+          "ua": "міст",
+          "en": "bridge"
+        }
+      ],
+      "stop": {
+        "name": [
+          "Вокзал",
+          "Station"
+        ],
+        "x": 27,
+        "y": 10,
+        "intro": [
+          "Назвати шість місць із правильними артиклями.",
+          "Name six places with their articles."
+        ],
+        "after": [
+          "Ще один орієнтир знайдено. Продовжуємо шлях до міської брами.",
+          "Another landmark found. Continue toward the city gate."
+        ]
+      }
+    },
+    {
+      "id": "city-where",
+      "title": [
+        "Де потрібне місце?",
+        "Where is it?"
+      ],
+      "rule": [
+        "Wo означає «де». Для одного місця ставимо запитання Wo ist …? Після ist назва місця зберігає знайомий артикль: Wo ist der Bahnhof? Wo ist die Schule? Це запитання про розташування, а не про напрямок руху. Слухай висхідну інтонацію, але запам’ятовуй усю фразу.",
+        "Wo means “where”. Ask about a singular place with Wo ist …? Keep the familiar article: Wo ist der Bahnhof? Wo ist die Schule? These questions ask where something is, rather than how to travel there. Learn each question as a complete phrase."
+      ],
+      "goal": [
+        "Запитати, де вокзал, школа, парк та інші місця.",
+        "Ask where the station, school, park and other places are."
+      ],
+      "actor": "karl",
+      "cards": [
+        {
+          "de": "Wo ist der Bahnhof?",
+          "ua": "Де вокзал?",
+          "en": "Where is the railway station?"
+        },
+        {
+          "de": "Wo ist die Schule?",
+          "ua": "Де школа?",
+          "en": "Where is the school?"
+        },
+        {
+          "de": "Wo ist der Park?",
+          "ua": "Де парк?",
+          "en": "Where is the park?"
+        },
+        {
+          "de": "Wo ist die Brücke?",
+          "ua": "Де міст?",
+          "en": "Where is the bridge?"
+        },
+        {
+          "de": "Wo ist die Stadt?",
+          "ua": "Де місто?",
+          "en": "Where is the city?"
+        },
+        {
+          "de": "Wo ist die Straße?",
+          "ua": "Де вулиця?",
+          "en": "Where is the street?"
+        }
+      ],
+      "stop": {
+        "name": [
+          "Площа",
+          "Square"
+        ],
+        "x": 74,
+        "y": 22,
+        "intro": [
+          "Запитати, де вокзал, школа, парк та інші місця.",
+          "Ask where the station, school, park and other places are."
+        ],
+        "after": [
+          "Ще один орієнтир знайдено. Продовжуємо шлях до міської брами.",
+          "Another landmark found. Continue toward the city gate."
+        ]
+      }
+    },
+    {
+      "id": "city-directions",
+      "title": [
+        "Ліворуч, праворуч, прямо",
+        "Left, right, straight ahead"
+      ],
+      "rule": [
+        "Links — ліворуч, rechts — праворуч, geradeaus — прямо, zurück — назад. Hier — тут, dort — там. Напрямки залежні від того, куди ти дивишся. У фінальній схемі ти завжди дивишся вгору: ліворуч — до лівого краю, праворуч — до правого, прямо — вгору, назад — униз.",
+        "Links means left, rechts right, geradeaus straight ahead and zurück back. Hier means here and dort there. Directions depend on which way you face. In the final diagram you always face the top: left is left, right is right, straight is up and back is down."
+      ],
+      "goal": [
+        "Розрізнити напрямки та слова «тут» і «там».",
+        "Distinguish directions and the words here and there."
+      ],
+      "actor": "karl",
+      "cards": [
+        {
+          "de": "links",
+          "ua": "ліворуч",
+          "en": "left",
+          "direction": "left"
+        },
+        {
+          "de": "rechts",
+          "ua": "праворуч",
+          "en": "right",
+          "direction": "right"
+        },
+        {
+          "de": "geradeaus",
+          "ua": "прямо",
+          "en": "straight ahead",
+          "direction": "up"
+        },
+        {
+          "de": "zurück",
+          "ua": "назад",
+          "en": "back",
+          "direction": "down"
+        },
+        {
+          "de": "hier",
+          "ua": "тут",
+          "en": "here"
+        },
+        {
+          "de": "dort",
+          "ua": "там",
+          "en": "there"
+        }
+      ],
+      "stop": {
+        "name": [
+          "Парк",
+          "Park"
+        ],
+        "x": 27,
+        "y": 32,
+        "intro": [
+          "Розрізнити напрямки та слова «тут» і «там».",
+          "Distinguish directions and the words here and there."
+        ],
+        "after": [
+          "Ще один орієнтир знайдено. Продовжуємо шлях до міської брами.",
+          "Another landmark found. Continue toward the city gate."
+        ]
+      }
+    },
+    {
+      "id": "city-instructions",
+      "title": [
+        "Розуміємо вказівки",
+        "Understand directions"
+      ],
+      "rule": [
+        "Geh — коротке спонукання «йди», коли звертаємося до однієї людини на du. Geh geradeaus — йди прямо; Geh nach links / rechts — поверни ліворуч / праворуч. Und dann означає «а потім»: виконуй дві дії в названому порядку. Це навчальна схема, а не реальна навігація містом.",
+        "Geh is an instruction to one person you address as du: “go”. Geh geradeaus means go straight ahead; Geh nach links/rechts means go left/right. Und dann means “and then”: follow both actions in that order. This is a learning diagram, not real-world navigation."
+      ],
+      "goal": [
+        "Зрозуміти одну або дві послідовні вказівки.",
+        "Understand one direction or two directions in sequence."
+      ],
+      "actor": "karl",
+      "cards": [
+        {
+          "de": "Geh geradeaus.",
+          "ua": "Йди прямо.",
+          "en": "Go straight ahead.",
+          "direction": "up"
+        },
+        {
+          "de": "Geh nach links.",
+          "ua": "Поверни ліворуч.",
+          "en": "Go left.",
+          "direction": "left"
+        },
+        {
+          "de": "Geh nach rechts.",
+          "ua": "Поверни праворуч.",
+          "en": "Go right.",
+          "direction": "right"
+        },
+        {
+          "de": "Geh zurück.",
+          "ua": "Йди назад.",
+          "en": "Go back.",
+          "direction": "down"
+        },
+        {
+          "de": "Geh geradeaus und dann nach links.",
+          "ua": "Йди прямо, а потім ліворуч.",
+          "en": "Go straight ahead and then left."
+        },
+        {
+          "de": "Geh geradeaus und dann nach rechts.",
+          "ua": "Йди прямо, а потім праворуч.",
+          "en": "Go straight ahead and then right."
+        }
+      ],
+      "stop": {
+        "name": [
+          "Перехрестя",
+          "Crossroads"
+        ],
+        "x": 74,
+        "y": 37,
+        "intro": [
+          "Зрозуміти одну або дві послідовні вказівки.",
+          "Understand one direction or two directions in sequence."
+        ],
+        "after": [
+          "Ще один орієнтир знайдено. Продовжуємо шлях до міської брами.",
+          "Another landmark found. Continue toward the city gate."
+        ]
+      }
+    },
+    {
+      "id": "city-polite",
+      "title": [
+        "Ввічливо питаємо дорогу",
+        "Ask politely"
+      ],
+      "rule": [
+        "Спочатку приверни увагу: Entschuldigung! — «Перепрошую!». Потім постав знайоме Wo ist …? Слово bitte робить прохання ввічливішим. Ist der Park hier? — запитання «Парк тут?». У відповіді Ja / Nein стоїть перед реченням. За допомогу подякуй: Vielen Dank!",
+        "Get someone’s attention with Entschuldigung! Then use Wo ist …? Adding bitte makes your request more polite. Ist der Park hier? asks whether the park is here. Answer with Ja or Nein followed by a statement. Thank the helper with Vielen Dank!"
+      ],
+      "goal": [
+        "Ввічливо звернутися, уточнити місце й подякувати.",
+        "Get attention politely, check a location and say thanks."
+      ],
+      "actor": "karl",
+      "cards": [
+        {
+          "de": "Entschuldigung!",
+          "ua": "Перепрошую!",
+          "en": "Excuse me!"
+        },
+        {
+          "de": "Wo ist der Bahnhof, bitte?",
+          "ua": "Де вокзал, будь ласка?",
+          "en": "Where is the railway station, please?"
+        },
+        {
+          "de": "Ist der Park hier?",
+          "ua": "Парк тут?",
+          "en": "Is the park here?"
+        },
+        {
+          "de": "Ja, der Park ist hier.",
+          "ua": "Так, парк тут.",
+          "en": "Yes, the park is here."
+        },
+        {
+          "de": "Nein, der Park ist dort.",
+          "ua": "Ні, парк там.",
+          "en": "No, the park is there."
+        },
+        {
+          "de": "Vielen Dank!",
+          "ua": "Дуже дякую!",
+          "en": "Thank you very much!"
+        }
+      ],
+      "stop": {
+        "name": [
+          "Школа",
+          "School"
+        ],
+        "x": 27,
+        "y": 46,
+        "intro": [
+          "Ввічливо звернутися, уточнити місце й подякувати.",
+          "Get attention politely, check a location and say thanks."
+        ],
+        "after": [
+          "Ще один орієнтир знайдено. Продовжуємо шлях до міської брами.",
+          "Another landmark found. Continue toward the city gate."
+        ]
+      }
+    },
+    {
+      "id": "city-conversation",
+      "title": [
+        "Розмова з провідником",
+        "Talk with the guide"
+      ],
+      "rule": [
+        "Застосуй знайомі слова в розмові з Карлом. Привітайся, запитай про вокзал, повтори напрямок як уточнення, запитай про школу, подякуй і попрощайся. Geradeaus und dann nach links? — «Прямо, а потім ліворуч?». Уточнення допомагає перевірити, чи правильно ти зрозумів відповідь.",
+        "Use familiar words in a conversation with Karl. Say hello, ask about the station, repeat the directions to check them, ask about the school, say thanks and goodbye. Geradeaus und dann nach links? repeats the directions as a question. This checks that you understood the reply."
+      ],
+      "goal": [
+        "Пройти короткий голосовий діалог без набору тексту.",
+        "Complete a short spoken dialogue without typing."
+      ],
+      "actor": "karl",
+      "cards": [
+        {
+          "de": "Hallo!",
+          "ua": "Привіт!",
+          "en": "Hello!"
+        },
+        {
+          "de": "Entschuldigung, wo ist der Bahnhof?",
+          "ua": "Перепрошую, де вокзал?",
+          "en": "Excuse me, where is the railway station?"
+        },
+        {
+          "de": "Geradeaus und dann nach links?",
+          "ua": "Прямо, а потім ліворуч?",
+          "en": "Straight ahead and then left?"
+        },
+        {
+          "de": "Wo ist die Schule?",
+          "ua": "Де школа?",
+          "en": "Where is the school?"
+        },
+        {
+          "de": "Vielen Dank!",
+          "ua": "Дуже дякую!",
+          "en": "Thank you very much!"
+        },
+        {
+          "de": "Auf Wiedersehen!",
+          "ua": "До побачення!",
+          "en": "Goodbye!"
+        }
+      ],
+      "stop": {
+        "name": [
+          "Міст",
+          "Bridge"
+        ],
+        "x": 74,
+        "y": 59,
+        "intro": [
+          "Пройти короткий голосовий діалог без набору тексту.",
+          "Complete a short spoken dialogue without typing."
+        ],
+        "after": [
+          "Ще один орієнтир знайдено. Продовжуємо шлях до міської брами.",
+          "Another landmark found. Continue toward the city gate."
+        ]
+      }
+    },
+    {
+      "id": "city-landmarks",
+      "title": [
+        "Орієнтири перед брамою",
+        "Landmarks before the gate"
+      ],
+      "rule": [
+        "Щоб пояснити розташування одного місця, ставимо ist після підмета: Der Bahnhof ist links. — «Вокзал ліворуч». Die Schule ist rechts. — «Школа праворуч». Hier і dort вказують на місце, а geradeaus — на напрямок попереду. Ці речення описують навчальні ситуації; розташування не обов’язково повторює сюжетну мапу острова.",
+        "To describe one place, put ist after the subject: Der Bahnhof ist links. Die Schule ist rechts. Hier and dort refer to locations; geradeaus points straight ahead. These sentences describe practice situations and do not necessarily match the decorative island map."
+      ],
+      "goal": [
+        "Пов’язати назву місця з підказкою про розташування.",
+        "Connect a place name with a location clue."
+      ],
+      "actor": "karl",
+      "cards": [
+        {
+          "de": "Der Bahnhof ist links.",
+          "ua": "Вокзал ліворуч.",
+          "en": "The railway station is on the left."
+        },
+        {
+          "de": "Die Schule ist rechts.",
+          "ua": "Школа праворуч.",
+          "en": "The school is on the right."
+        },
+        {
+          "de": "Der Park ist hier.",
+          "ua": "Парк тут.",
+          "en": "The park is here."
+        },
+        {
+          "de": "Die Brücke ist dort.",
+          "ua": "Міст там.",
+          "en": "The bridge is there."
+        },
+        {
+          "de": "Die Stadt ist geradeaus.",
+          "ua": "Місто прямо попереду.",
+          "en": "The city is straight ahead."
+        },
+        {
+          "de": "Die Straße ist hier.",
+          "ua": "Вулиця тут.",
+          "en": "The street is here."
+        }
+      ],
+      "stop": {
+        "name": [
+          "Вежа",
+          "Tower"
+        ],
+        "x": 27,
+        "y": 70,
+        "intro": [
+          "Пов’язати назву місця з підказкою про розташування.",
+          "Connect a place name with a location clue."
+        ],
+        "after": [
+          "Ще один орієнтир знайдено. Продовжуємо шлях до міської брами.",
+          "Another landmark found. Continue toward the city gate."
+        ]
+      }
+    }
+  ],
+  "actors": [
+    {
+      "id": "karl",
+      "name": [
+        "Карл",
+        "Karl"
+      ],
+      "role": [
+        "Провідник до міста",
+        "Guide to the city"
+      ],
+      "support": [
+        "Допоможу читати вказівники, питати дорогу й знайти міську браму.",
+        "I will help you read directions, ask for help and find the city gate."
+      ],
+      "awardFrom": [
+        "Карла",
+        "Karl"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "lesson": 0,
+      "actor": "karl",
+      "name": [
+        "Знавець міста",
+        "Town explorer"
+      ],
+      "reason": [
+        "Назвати шість місць із правильними артиклями.",
+        "Name six places with their articles."
+      ]
+    },
+    {
+      "lesson": 1,
+      "actor": "karl",
+      "name": [
+        "Шукач місць",
+        "Place finder"
+      ],
+      "reason": [
+        "Запитати, де вокзал, школа, парк та інші місця.",
+        "Ask where the station, school, park and other places are."
+      ]
+    },
+    {
+      "lesson": 2,
+      "actor": "karl",
+      "name": [
+        "Уважний штурман",
+        "Careful navigator"
+      ],
+      "reason": [
+        "Розрізнити напрямки та слова «тут» і «там».",
+        "Distinguish directions and the words here and there."
+      ]
+    },
+    {
+      "lesson": 3,
+      "actor": "karl",
+      "name": [
+        "Майстер напрямків",
+        "Direction master"
+      ],
+      "reason": [
+        "Зрозуміти одну або дві послідовні вказівки.",
+        "Understand one direction or two directions in sequence."
+      ]
+    },
+    {
+      "lesson": 4,
+      "actor": "karl",
+      "name": [
+        "Ввічливий мандрівник",
+        "Polite traveller"
+      ],
+      "reason": [
+        "Ввічливо звернутися, уточнити місце й подякувати.",
+        "Get attention politely, check a location and say thanks."
+      ]
+    },
+    {
+      "lesson": 5,
+      "actor": "karl",
+      "name": [
+        "Співрозмовник провідника",
+        "Guide’s conversation partner"
+      ],
+      "reason": [
+        "Пройти короткий голосовий діалог без набору тексту.",
+        "Complete a short spoken dialogue without typing."
+      ]
+    },
+    {
+      "lesson": 6,
+      "actor": "karl",
+      "name": [
+        "Готовий до брами",
+        "Ready for the gate"
+      ],
+      "reason": [
+        "Пов’язати назву місця з підказкою про розташування.",
+        "Connect a place name with a location clue."
+      ]
+    }
+  ]
+}

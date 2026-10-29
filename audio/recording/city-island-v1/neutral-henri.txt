@@ -1,0 +1,79 @@
+die Stadt
+
+der Bahnhof
+
+die Schule
+
+der Park
+
+die Straße
+
+die Brücke
+
+Wo ist der Bahnhof?
+
+Wo ist die Schule?
+
+Wo ist der Park?
+
+Wo ist die Brücke?
+
+Wo ist die Stadt?
+
+Wo ist die Straße?
+
+links
+
+rechts
+
+geradeaus
+
+zurück
+
+hier
+
+dort
+
+Geh geradeaus.
+
+Geh nach links.
+
+Geh nach rechts.
+
+Geh zurück.
+
+Geh geradeaus und dann nach links.
+
+Geh geradeaus und dann nach rechts.
+
+Entschuldigung!
+
+Wo ist der Bahnhof, bitte?
+
+Ist der Park hier?
+
+Ja, der Park ist hier.
+
+Nein, der Park ist dort.
+
+Vielen Dank!
+
+Hallo!
+
+Entschuldigung, wo ist der Bahnhof?
+
+Geradeaus und dann nach links?
+
+Auf Wiedersehen!
+
+Der Bahnhof ist links.
+
+Die Schule ist rechts.
+
+Der Park ist hier.
+
+Die Brücke ist dort.
+
+Die Stadt ist geradeaus.
+
+Die Straße ist hier.

@@ -9,8 +9,9 @@ function setup(permission='granted',supported=true,autoStart=true){
  const document={hidden:false,addEventListener:(k,f)=>events[k]=f,removeEventListener:(k,f)=>{if(events[k]===f)delete events[k]}};
  const navigator={permissions:{query:async()=>({state:permission})},mediaDevices:{getUserMedia:async()=>({getTracks:()=>[{stop(){tracks++}}]})}};
  const ctx={window,document,navigator,MutationObserver:class{constructor(fn){observer=fn}observe(){}disconnect(){}},queueMicrotask,setTimeout,clearTimeout};vm.createContext(ctx);vm.runInContext(source,ctx);
+ window.speak=()=>{plays++;return new Promise(r=>resolve=r)};
  const api=window.DEUTSCH_DIALOGUE_VOICE,t=(a,b)=>a,accept=s=>api.normalize(s)==='guten tag';
- const start=()=>api.mount({root,id:'test',t,prompt:{text:'Guten Tag!',path:'original.mp3'},match:accept,onReply:x=>answers.push(x)});
+ const start=(prompt={text:'Guten Tag!',path:'original.mp3'})=>api.mount({root,id:'test',t,prompt,match:accept,onReply:x=>answers.push(x)});
  const result=(text,final=true,alternatives=[])=>({results:[Object.assign([{transcript:text},...alternatives.map(transcript=>({transcript}))],{isFinal:final})]});
  return {api,start,window,document,navigator,elements,panel,answers,result,get rec(){return rec},release:x=>resolve(x),get starts(){return starts},get aborts(){return aborts},get tracks(){return tracks},get plays(){return plays},detach(){panel.isConnected=false;observer()},hide(){document.hidden=true;events.visibilitychange?.()}};
 }
@@ -30,5 +31,8 @@ const flush=async()=>{for(let i=0;i<8;i++)await Promise.resolve()};
   s=setup();s.start();await flush();s.release(true);await flush();s.rec.onerror({error});assert.equal(s.api.snapshot().phase,phase);assert(s.elements['#testVoiceStatus'].textContent.includes(message));assert.equal(s.answers.length,0);await s.elements['#testMic'].onclick();assert.equal(s.starts,2);s.api.cancel();
  }
  s=setup('prompt');s.navigator.mediaDevices.getUserMedia=async()=>{const e=new Error('missing device');e.name='NotFoundError';throw e};s.start();await flush();s.release(true);await flush();await s.elements['#testMic'].onclick();assert.equal(s.api.snapshot().phase,'microphone');assert.equal(s.answers.length,0);s.api.cancel();
+ // Only an explicitly labelled browser-voice prompt may run without an actor recording.
+ s=setup();s.start({text:'Geh geradeaus.',browserVoice:true});await flush();assert.equal(s.plays,1);assert.equal(s.starts,0);s.release(true);await flush();assert.equal(s.starts,1);s.api.replay('Geh geradeaus.',null);await flush();assert.equal(s.plays,2);assert.equal(s.api.snapshot().phase,'playing');s.release(true);await flush();assert.equal(s.starts,2);s.api.cancel();
+ s=setup();s.start({text:'Guten Tag!'});await flush();assert.equal(s.api.snapshot().phase,'audio');assert.equal(s.plays,0);assert.equal(s.starts,0);s.api.cancel();
  console.log('PASS voice turns: audio-before-mic, granted/first permission, no typed input, final alternatives, reviewed mismatch, stale callbacks, playback failure, blocked/unsupported/missing mic, network recovery, pausing startup, background and navigation cleanup');
 })().catch(e=>{console.error(e);process.exit(1)});
