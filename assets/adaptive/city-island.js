@@ -5,6 +5,7 @@ const key=s=>String(s).normalize('NFC').toLocaleLowerCase('de-DE').replace(/[.!?
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const image=(state='welcome',cls='market-merchant')=>`<img class="${cls}" src="${base}resident-karl-${state}.webp" alt="${document.documentElement.lang.startsWith('en')?'Karl':'Карл'}" decoding="async">`;
 const recording=(text,role='neutral')=>window.DEUTSCH_CITY_RECORDINGS?.[role]?.[key(text)]||null;
+if(typeof RECORDED_AUDIO!=='undefined')for(const l of data.lessons)for(const c of l.cards){const path=recording(c.de);if(path)RECORDED_AUDIO[audioKey(c.de)]??=path}
 const original=recordedAudioFiles;
 window.recordedAudioFiles=text=>{const path=recording(text);return path?[path]:original(text)};
 const cardArt={};data.lessons.forEach((l,row)=>l.cards.forEach((c,col)=>{if(!cardArt[key(c.de)])cardArt[key(c.de)]=`assets/illustrations/city-cards/card-${String(row*6+col).padStart(2,'0')}.webp`}));
