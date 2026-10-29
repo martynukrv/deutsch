@@ -20,6 +20,8 @@ jobs:
           npx playwright install --with-deps chromium
       - name: Run browser checks
         run: |
+          node .github/tests/three-island-adventure-unit.cjs
+          node .github/tests/three-island-adventure.cjs
           node .github/tests/dialogue-voice-unit.cjs
           node .github/tests/dialogue-voice.cjs
           node .github/tests/gear-unit.cjs

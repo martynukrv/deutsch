@@ -1,0 +1,9 @@
+# Three-island transfer adventure
+
+An optional card above the third island map opens four connected scenes using only existing course phrases and exact existing actor recordings. The learner plays Oleksii (Kyiv, ten years old), matching the established roleplay. There are 18 spoken replies: three with Fox, five with Karl, five with Benno and five with Greta. Introductions and scene endings stay coherent; Karl's questions, Benno's needs and Greta's requested objects shuffle independently and avoid the previous completed order.
+
+The common dialogue voice controller handles playback before microphone capture, first permission, retries, unsupported browsers and cancellation. The partner's question plays automatically. The learner can replay either phrase using the established speaker icon; actor recordings are never borrowed or assembled. Fox's response to the learner's question is played before advancing. Hidden/background scenes stop automatic advancement; navigation aborts recognition and invalidates late callbacks.
+
+Hints are hidden initially. A completed reply counts as independent only when correct on the first confirmed attempt without opening its hint. Silence and ASR errors are not graded. A different recognised phrase needs confirmation before counting as an unsuccessful reply. The summary reports independent replies, hints and confirmed unsuccessful replies without a pronunciation score. It offers a focused repair run; repairs never replace the full adventure's score, best result, completion count or completion keepsake.
+
+All adventure records live in the profile-scoped `deutsch16_three_island_adventure_v1` key. Actual attempted answers contribute to daily activity as speech practice. Existing island grades, seals, conversation results and course/SRS state are not modified. Access remains optional and open, consistent with all island lessons. Completed runs retain a separate traveller keepsake using the existing route-scroll artwork.
