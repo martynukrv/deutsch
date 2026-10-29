@@ -4,3 +4,11 @@
 @media(prefers-reduced-motion:reduce){.island-switcher *{animation:none!important;transition:none!important}.island-atlas::backdrop{backdrop-filter:none}}
 @media(max-width:560px){.island-switcher-head{margin-left:0;margin-right:0}.island-switcher-head>span,.island-atlas-open{white-space:nowrap}.island-switcher .island-choice strong{overflow-wrap:normal}}
 @media(max-width:360px){.island-switcher .island-choice{padding:12px 10px;gap:8px;min-height:116px}.island-switcher .island-thumbnail{width:30px;height:58px}.island-switcher .island-choice strong{font-size:14px}.island-switcher .island-choice small{font-size:8px;gap:5px}.island-card-rule{width:16px}}
+/* Keep the destination composition centred rather than stretching across the page. */
+.island-switcher{max-width:640px;margin-left:auto;margin-right:auto}
+.island-switcher .island-choice{justify-content:center;padding:16px 20px}
+.island-switcher .island-choice>span{flex:0 1 auto;max-width:360px}
+.island-switcher .island-choice .island-thumbnail{width:72px;height:96px}
+.island-switcher .island-choice strong{font-size:clamp(16px,2.5vw,21px)}
+@media(max-width:560px){.island-switcher .island-choice{padding:15px 12px}.island-switcher .island-choice>span{flex:1;max-width:none}.island-switcher .island-choice .island-thumbnail{width:44px;height:70px}.island-switcher .island-choice strong{font-size:16px}}
+@media(max-width:360px){.island-switcher .island-choice{padding:12px 10px}.island-switcher .island-choice .island-thumbnail{width:30px;height:58px}.island-switcher .island-choice strong{font-size:14px}}
