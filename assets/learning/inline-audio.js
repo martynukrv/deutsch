@@ -5,6 +5,7 @@
  const recordings=new Map();for(const [text,path] of Object.entries(RECORDED_AUDIO)){const key=canonical(text);if(/[a-zäöüß]{2}/i.test(key))recordings.set(key,{text,path})}
  // New island terms use a labelled browser sample until their exact neutral clips arrive.
  for(const text of [...window.DEUTSCH_GEAR_DATA?.lessons.flatMap(l=>l.cards.map(c=>c.de))||[],...window.DEUTSCH_GEAR_DATA?.additionalAudio||[]]){const key=canonical(text);if(!recordings.has(key))recordings.set(key,{text,path:window.DEUTSCH_GEAR_DATA.audio[key]||null,temporary:true})}
+ for(const lesson of window.DEUTSCH_CITY_DATA?.lessons||[])for(const card of lesson.cards){const key=canonical(card.de),path=window.DEUTSCH_CITY?.recording(card.de);if(path)recordings.set(key,{text:card.de,path})}
  const escape=s=>s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
  const alternatives=[...recordings.keys()].sort((a,b)=>b.length-a.length).map(s=>escape(s).replace(/\s+/g,'\\s+').replace(/'/g,"['’]"));
  const matcher=new RegExp('(?<![\\p{L}\\p{N}_])(?:'+alternatives.join('|')+')[.!?]?(?![\\p{L}\\p{N}_])','giu');
