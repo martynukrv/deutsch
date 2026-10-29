@@ -20,7 +20,8 @@ function apply(root,island,t){
   text(root.querySelector('.expedition-map-note'),t('Обери урок · ✓ тест складено · ★ 100%','Choose a lesson · ✓ test passed · ★ 100%'));
   const awards=root.querySelector('.mastery-collection'),count=awards?.querySelector('[data-mastery-count]')?.textContent;
   details(awards,t('Відзнаки майстерності','Mastery awards')+' · '+count,pendingAward[island]);pendingAward[island]=false;
-  details(root.querySelector('.team-roster,.resident-roster'),t('Твої наставники','Your mentors')+' · '+root.querySelectorAll('[data-team-member],[data-resident-visit]').length);
+  const roster=root.querySelector('.team-roster,.resident-roster');
+  details(roster,t('Твої наставники','Your mentors')+' · '+(roster?.querySelectorAll('.mentor-card').length||0));
   details(root.querySelector('.archipelago-collection'),t('Знахідки','Discoveries'),!!root.querySelector('[data-compass-awake]'));
   const passport=root.querySelector('.expedition-passport');passport?.querySelector('p')?.remove();details(passport,t('Паспорт','Passport')+' · '+root.querySelectorAll('.expedition-seal.earned').length+' / '+root.querySelectorAll('.expedition-seal').length);
  }
