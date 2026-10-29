@@ -49,6 +49,7 @@ jobs:
         run: node .github/tests/artwork.cjs
       - name: Verify app behavior
         run: |
+          node .github/tests/options.cjs
           node .github/tests/island-navigation.cjs
           node .github/tests/city-unit.cjs
           node .github/tests/city-island.cjs

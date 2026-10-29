@@ -13,7 +13,7 @@ const wrapped=new Map();for(const name of ['SpeechRecognition','webkitSpeechReco
 const speak=window.speak;window.speak=function(text,...args){const raw=String(text).trim(),run=voiceStart();if(!raw)speaking=false;return Promise.resolve(speak.call(this,text,...args)).finally(()=>voiceEnd(run))};
 // All existing graded flows already call DEUTSCH_FLOW.feedback, which plays the cue after speech.
 window.tone=()=>{};
-const button=document.createElement('button');button.type='button';button.id='sfxToggle';button.className='btn secondary sfx-toggle';document.querySelector('.profile-bar').append(button);
+const button=document.createElement('button');button.type='button';button.id='sfxToggle';button.className='options-switch';button.setAttribute('aria-describedby','optionsSfxDescription');document.querySelector('#optionsSoundControl').append(button);
 function label(){const en=document.documentElement.lang.startsWith('en');const text=en?'Effects: '+(enabled?'on':'off'):'Звуки ефектів: '+(enabled?'увімкнено':'вимкнено');if(button.textContent!==text)button.textContent=text;button.setAttribute('aria-pressed',String(enabled))}
 button.onclick=()=>{unlocked=true;enabled=!enabled;profileStorage.setItem(key,enabled?'on':'off');if(!enabled)stop();label();if(enabled)play('click')};
 document.addEventListener('click',e=>{if(!e.isTrusted)return;unlocked=true;const b=e.target.closest('button');if(!b||b.disabled||b===button)return;if(b.matches('.al-audio,.inline-audio-button,[data-speak],[data-al-option],[data-cv2-answer],[data-sound-answer],[data-vq],#alMic,#mic,#vqMic,#alReplay,#storySceneSkip')||b.closest('.al-options,.al-letters,.greeting-choices,.karl-tiles')||b.dataset.cv2Action==='mic')return;queueMicrotask(()=>play('click'))},true);
